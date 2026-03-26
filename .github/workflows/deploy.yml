@@ -31,7 +31,7 @@ jobs:
       - run: npm ci
 
       - name: Copy sql.js WASM to public
-        run: cp node_modules/sql.js/dist/sql-wasm.wasm public/
+        run: mkdir -p public && cp node_modules/sql.js/dist/sql-wasm.wasm node_modules/sql.js/dist/sql-wasm-browser.wasm public/
 
       - name: Build SQLite database from upstream + overlays
         run: npx tsx scripts/merge-and-build.ts
