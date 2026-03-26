@@ -1,0 +1,638 @@
+[
+  {
+    "index": 1,
+    "MessageID": 7742,
+    "TextENGNew": "``Th... This is the school?@k@vS20/01/VTK2_keiichi2002. Man, this really is the boonies.``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 7743,
+    "TextENGNew": "Those were my very first words upon seeing the school in Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'first impression' while new says 'first words'; the Japanese 最初の一言 specifically means 'first words/remark', not 'impression'.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 7744,
+    "TextENGNew": "For starters, it didn't look anything like a school.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 7745,
+    "TextENGNew": "The sign even says 'Hinamizawa Forestry Service.'",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 7746,
+    "TextENGNew": "``Wa ha ha ha ha!@k@vS20/00/VTK2_koucho2002. You're absolutely right!@k@vS20/00/VTK2_koucho2003. Our school operates on property borrowed from the forestry service!``",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'property borrowed from the forestry service' (matching JPN 敷地をお借り/grounds) rather than 'borrowing the building', a meaningful distinction between property/land and a building.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 7747,
+    "TextENGNew": "The man who introduced himself as the principal laughed heartily.",
+    "significantChanges": true,
+    "changeReason": "Old says 'the man they called the principal' (others named him), new says 'the man who introduced himself as the principal' (he named himself); JPN 名乗った means 'introduced himself as'.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 7748,
+    "TextENGNew": "``Though the building may be different, a school is still a school.@k@vS20/22/VTK2_chie2002. The rules here may be quite different from your previous school, but will you be all right with that?``",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'it doesn't look like a school' (appearance), while new says 'the building may be different, a school is still a school' (different building, same function); the JPN 学び舎は違っても means 'even if the place of learning is different'.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 7749,
+    "TextENGNew": "``Ah... yes!``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 7750,
+    "TextENGNew": "I'd been told beforehand that all grades share one classroom in a free-for-all arrangement, but it seems that really is the case.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'battle royale' nuance and 'free-for-all arrangement' matching JPN バトルロワイヤル状態, and correctly says 'told beforehand' (事前に聞かされていた) rather than just 'heard'.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 7751,
+    "TextENGNew": "Since most of the students are probably younger than me, I imagine the atmosphere will be something like kindergarten. But that has its own charm.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'But that has its own charm' (それも一興だった), a full clause present in JPN that was omitted in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 7752,
+    "TextENGNew": "...It's sure to be more interesting than a school where every face is the same age!",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 7753,
+    "TextENGNew": "``If you transfer here, you'll be the oldest boy in class.@k@vS20/22/VTK2_chie2004. So you'll need to be a role model for the younger students, not just focus on your own studies.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'not just focus on your own studies' matching JPN 自分の勉強だけでなく, a clause omitted from the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 7754,
+    "TextENGNew": "The younger students are quick to mimic bad habits from their upperclassmen.@k@vS20/22/VTK2_chie2006. I'll be watching closely, so please be mindful of the example you set, all right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 7755,
+    "TextENGNew": "``Y-Yes, ma'am.@k@vS20/01/VTK2_keiichi2005. I'll do my best.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 7756,
+    "TextENGNew": "After that, Chie-sensei led us to the empty classroom and showed me the desk I'd be sitting at.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 7757,
+    "TextENGNew": "...Since we're all still growing, the difference in build between the youngest and oldest must be significant.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'difference in build between the youngest and oldest' (下級生と上級生の体格差) while old just says 'our sizes are very different', missing who is being compared.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 7758,
+    "TextENGNew": "The desks range from ones too small for me to even fit my knees under, to ones that are just my size.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 7759,
+    "TextENGNew": "There can't be more than thirty seats.",
+    "significantChanges": true,
+    "changeReason": "Old says 'approximately thirty desks' (about 30), new says 'can't be more than thirty' (fewer than 30); JPN ３０もないだろう means 'probably not even 30', so new is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 7760,
+    "TextENGNew": "But with such a mix of ages and genders, it must be wonderfully lively.",
+    "significantChanges": true,
+    "changeReason": "New adds 'genders' (性別) alongside ages, matching JPN 学年も性別もばらばら, which the old translation omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 7761,
+    "TextENGNew": "The walls are covered with calligraphy, worksheets, and drawings from an impressive range of grade levels.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'worksheets' (プリント) and 'impressive range of grade levels' while old just says 'different grades'; the JPN lists 習字やプリント、絵 (calligraphy, worksheets, drawings).",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 7762,
+    "TextENGNew": "It all looks so fun—completely different from every school I've attended before.",
+    "significantChanges": true,
+    "changeReason": "Old says 'nothing like my previous school' (singular), new says 'completely different from every school I've attended before' (plural); JPN 今まで通ってきた学校 implies multiple schools.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 7763,
+    "TextENGNew": "...There was something nostalgic about it, reminding me of the days when I genuinely enjoyed school.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'nostalgic' (懐かしさ), a key emotional quality present in JPN but absent from the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 7764,
+    "TextENGNew": "``Dad.@k@vS20/01/VTK2_keiichi2008. I like this place.@k@vS20/01/VTK2_keiichi2009. I'd rather go here than the school in town.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I like this school better than the other one in the town' (preference), new says 'I'd rather go here than the school in town' (choice of attendance); JPN やっぱり町の学校よりこっちの学校の方がいいや implies choosing this school over the town school.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 7765,
+    "TextENGNew": "Hearing my words, the old man nodded with a smile. 'Is that so?'",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 7766,
+    "TextENGNew": "...He had been the one arguing all along that this was the kind of school I should attend, so he looked visibly relieved.",
+    "significantChanges": true,
+    "changeReason": "New adds 'arguing all along' and 'visibly relieved' (強弁していた/insistently argued), while old just says 'originally insisted'; the new version better captures the father's persistent advocacy.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 7767,
+    "TextENGNew": "``I see.@k@vS20/22/VTK2_chie2008. ...The school in Okinomiya has better facilities and many fine teachers, though...``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 7768,
+    "TextENGNew": "Even as she said that, Chie-sensei looked genuinely delighted at the prospect of welcoming a new transfer student.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 7769,
+    "TextENGNew": "Dad and the teachers went back to the staff room to handle the paperwork.",
+    "significantChanges": true,
+    "changeReason": "Old says 'teacher's office' and 'transfer process', new says 'staff room' and 'paperwork'; JPN 書類だか何だかの手続き means 'some kind of paperwork/documents procedure', and 職員室 is 'staff room'.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 7770,
+    "TextENGNew": "In the meantime, I decided to stay and look at the things posted around the classroom.",
+    "significantChanges": true,
+    "changeReason": "Old says 'stay in the classroom and look around' (general), new says 'look at the things posted around the classroom' (specific); JPN 教室内に貼ってあるもの means 'things posted/displayed in the classroom'.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 7771,
+    "TextENGNew": "...To be honest, I hadn't cared about the move at all.",
+    "significantChanges": true,
+    "changeReason": "New adds 'to be honest' (本当は), conveying the JPN nuance of an inner confession that old translation missed.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 7772,
+    "TextENGNew": "The weight of my sins had stripped me of any interest in living.",
+    "significantChanges": true,
+    "changeReason": "Old says 'what I did' (vague action), new says 'the weight of my sins' (罪の重さ); the JPN explicitly uses 罪 (sin/crime) and 重さ (weight), making the new translation more specific about the burden.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 7773,
+    "TextENGNew": "I had no will to go on, couldn't even drag myself out of bed.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 7774,
+    "TextENGNew": "So when my parents told me about the move,@k I thought bitterly that something like that could never erase what had already happened.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'bitterly that something like that could never erase what had already happened' matching JPN そんなことでこれまでの人生をなかったことになどできるものか, while old merely says 'wouldn't change anything'.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 7775,
+    "TextENGNew": "But after arriving here, my thinking changed.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 7776,
+    "TextENGNew": "I want to start over from zero.",
+    "significantChanges": true,
+    "changeReason": "Old says 'restart my life', new says 'start over from zero'; JPN ゼロから specifically means 'from zero', and this is a recurring motif in the fragment.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 7777,
+    "TextENGNew": "...I want to try again from scratch—to become the version of Keiichi Maebara I always wanted to be.",
+    "significantChanges": true,
+    "changeReason": "New explicitly names 'Keiichi Maebara' (前原圭一) matching JPN, while old just says 'someone I've always wanted to be'.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 7778,
+    "TextENGNew": "Here in Hinamizawa, at this school, I know I can do it.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 7779,
+    "TextENGNew": "I'm never going back to who I was before.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 7780,
+    "TextENGNew": "I'll never again make the idiotic mistake of thinking good grades make you better than everyone else.",
+    "significantChanges": true,
+    "changeReason": "New says 'idiotic mistake of thinking good grades make you better than everyone else' which captures JPN 馬鹿な勘違い (foolish misconception) and 世界で一番偉い (greatest in the world), while old just says 'most important thing'.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 7781,
+    "TextENGNew": "The truly important things I should have been learning—the ones I neglected, too blind to see them, because I was so convinced of my own superiority.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes the important things neglected due to arrogance; old contains the next line's forward-looking 'I feel like I can learn important things here.'",
+    "changeScore": 4
+  },
+  {
+    "index": 41,
+    "MessageID": 7782,
+    "TextENGNew": "...I feel like I can learn those things at this school.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I never had the chance to learn them before now' while JPN says 'I feel like I can learn those things at this school.' Different content (past regret vs. forward-looking hope).",
+    "changeScore": 4
+  },
+  {
+    "index": 42,
+    "MessageID": 7783,
+    "TextENGNew": "They'd be embarrassing to put into words.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 7784,
+    "TextENGNew": "...But they're profoundly important things, and without learning them, you'll never become a decent human being.",
+    "significantChanges": true,
+    "changeReason": "Old says 'you won't become a decent adult' (大人), new says 'you'll never become a decent human being' (人間); however JPN uses 大人 (adult), but the new choice still shifts the meaning slightly from 'adult' to 'human being'.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 7785,
+    "TextENGNew": "For the students here, these things are probably so natural they've long since internalized them.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 7786,
+    "TextENGNew": "...But at my age, I still need to take the time to learn them properly.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 7787,
+    "TextENGNew": "How to make friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 7788,
+    "TextENGNew": "How to have fun with friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 7789,
+    "TextENGNew": "The act of play itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 7790,
+    "TextENGNew": "The things that can only be cultivated through play.",
+    "significantChanges": true,
+    "changeReason": "Old says 'things you can only learn from play', new says 'things that can only be cultivated through play'; JPN 培えないもの means 'things that cannot be cultivated/nurtured', which is distinct from simply 'learning'.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 7791,
+    "TextENGNew": "Things like enriching your heart.",
+    "significantChanges": true,
+    "changeReason": "Old translates 心を豊かにする (enriching one's heart/mind) as 'socializing with others' — different concept, though both relate to personal growth the narrator seeks.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 7792,
+    "TextENGNew": "And so much more.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 7793,
+    "TextENGNew": "And so much more.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 7794,
+    "TextENGNew": "At first glance, it all seems so simple.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 7795,
+    "TextENGNew": "...But it will probably take me no small amount of time to truly learn.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 7796,
+    "TextENGNew": "I pushed all of that aside and lost myself in the hollow game of chasing grades.",
+    "significantChanges": true,
+    "changeReason": "Old says 'devoted myself to studying', new says 'lost myself in the hollow game of chasing grades'; JPN 中身のない勉強ごっこ means 'empty/hollow study-play', a significantly harsher self-criticism than the neutral original.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 7797,
+    "TextENGNew": "...I'm not saying studying isn't important. But becoming obsessed with it to the exclusion of all else is wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 7798,
+    "TextENGNew": "If someone thinks studying and good grades are all that matters, they're spouting complete nonsense.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 7799,
+    "TextENGNew": "...At this school, I can start fresh from zero.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 7800,
+    "TextENGNew": "This time, I'll finally become the Keiichi Maebara I always wanted to be.",
+    "significantChanges": true,
+    "changeReason": "New explicitly says 'the Keiichi Maebara I always wanted to be' (前原圭一) while old just says 'someone I've always wanted to be', matching the JPN which names the character.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 7801,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 7802,
+    "TextENGNew": "Two girls were peering in at me through the window overlooking the schoolyard.",
+    "significantChanges": true,
+    "changeReason": "New adds 'through the window overlooking the schoolyard' (校庭が見える窓) while old just says 'through the window', adding spatial context from JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 62,
+    "MessageID": 7803,
+    "TextENGNew": "The yard seemed to double as a playground—I'd noticed several children playing there happily earlier.@k Two of them must have spotted me wandering around inside the classroom and grown curious.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 7804,
+    "TextENGNew": "...Well, that's only natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 7805,
+    "TextENGNew": "To them, I'm a complete stranger.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 7806,
+    "TextENGNew": "Should I say hello and tell them I'll be starting next Monday?",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 7807,
+    "TextENGNew": "``...You've finally arrived.@k@vS20/05/VTK2_rika2022. I was getting tired of waiting.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'We've been waiting for so long' (plural, general), new says 'I was getting tired of waiting' (singular, fatigue); JPN ボクは待ち疲れた uses singular ボク and 待ち疲れた (tired from waiting).",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 7808,
+    "TextENGNew": "``Au au au.@k@vS20/12/VTK2_hanyu2013. But this changes things.@k@vS20/12/VTK2_hanyu2014. ...Because Keiichi is the six on the die.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 7809,
+    "TextENGNew": "``...He may be a six, but Keiichi's die has a nasty habit of rolling ones.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 7810,
+    "TextENGNew": "``Au au au au... that isn't Keiichi's fault, though.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 7811,
+    "TextENGNew": "``...It's all your fault, Hanyuu.@k@vS20/05/VTK2_rika2025. You're the one to blame.@k@vS20/05/VTK2_rika2026. Apologize to Keiichi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 7812,
+    "TextENGNew": "``Au au au au au au au...``",
+    "significantChanges": true,
+    "changeReason": "Old has 5 'au's, new has 7; JPN has 7 あぅ's, so the new version matches the source text's count.",
+    "changeScore": 1
+  },
+  {
+    "index": 72,
+    "MessageID": 7813,
+    "TextENGNew": "``Huh?@k@vS20/01/VTK2_keiichi2012. ...D-do you know my name?``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 7814,
+    "TextENGNew": "I could have sworn she just said my name.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 7815,
+    "TextENGNew": "...No, I must have misheard.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 7816,
+    "TextENGNew": "We've never met before, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 7817,
+    "TextENGNew": "``...Nipah~☆@k@vS20/05/VTK2_rika2028. Are you a new student?``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 7818,
+    "TextENGNew": "``Huh?@k@vS20/01/VTK2_keiichi2014. Ah... ah, yeah!@k@vS20/01/VTK2_keiichi2015. Nice to meet you!@k@vS20/01/VTK2_keiichi2016. I'm Keiichi Maebara.@k@vS20/01/VTK2_keiichi2017. I'll be starting next Monday.@k@vS20/01/VTK2_keiichi2018. Let's be friends!``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 7819,
+    "TextENGNew": "``Au au au☆@k@vS20/12/VTK2_hanyu2018. Let's get along!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Sure thing!' (agreement), new says 'Let's get along!' (仲良くしましょう); JPN specifically means 'let's be friends/get along', not just agreement.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 7820,
+    "TextENGNew": "``...A divine message for Keiichi, from the shrine maiden of Furude Shrine.@k@vS20/05/VTK2_rika2030. On your first day, the classroom door will be a danger zone, so be on your guard.@k@vS20/05/VTK2_rika2031. Also, there will be a thumbtack on the back of your chair. And a toy frog inside your desk.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'be careful when you come through the door' (general caution), new says 'the classroom door will be a danger zone' (鬼門/unlucky direction); also old says 'toy frog in your desk' while new matches JPN カエルの玩具 (frog toy).",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 7821,
+    "TextENGNew": "``...But no matter how many times we warn him, Keiichi always falls for it.@k@vS20/12/VTK2_hanyu2020. Monday is going to be dreadful for him... poor, poor Keiichi...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'you fall for it again and again' (general), new says 'no matter how many times we warn him, Keiichi always falls for it' (何度警告しても); shifts from 2nd to 3rd person, matching JPN which speaks about Keiichi in 3rd person.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 7822,
+    "TextENGNew": "``Hee hee.@k@vS20/05/VTK2_rika2033. That's what makes it fun.@k@vS20/05/VTK2_rika2034. Why don't you try defying that fate for once?@k@vS20/05/VTK2_rika2035. Hee hee hee.@k@vS20/05/VTK2_rika2036. You're the one who will teach us that, you know?@k@vS20/05/VTK2_rika2037. In one of the countless worlds... right?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'why don't you try overcoming that fate' (generic), new says 'why don't you try defying that fate for once' (たまには/for once); adds the 'for once' nuance from JPN. Also old says 'You'll be the one to show me that' vs new 'You're the one who taught me that' - different tense and meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 7823,
+    "TextENGNew": "``Huh?@k@vS20/01/VTK2_keiichi2020. ...Huh??????``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 7824,
+    "TextENGNew": "The cryptic prophecy of those two girls would be proven a most vital warning come Monday—courtesy of a certain snaggletoothed girl with a shaky grasp of polite speech.",
+    "significantChanges": true,
+    "changeReason": "New adds 'with a shaky grasp of polite speech' (明らかに敬語の使い方の間違った) and changes 'reminded of the prophecy' to 'proven a most vital warning', significantly expanding detail from JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 7825,
+    "TextENGNew": "...By then, of course, it would be far too late.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 7826,
+    "TextENGNew": "Regardless—I like this place.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 7827,
+    "TextENGNew": "My name is Keiichi Maebara.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 7828,
+    "TextENGNew": "This is my fresh start from zero, and this time, I'm going to live with all the energy I've got!",
+    "significantChanges": true,
+    "changeReason": "New says 'fresh start from zero' and 'live with all the energy I've got' matching JPN ゼロからのスタート and 思いっきり元気に, while old says 'new beginning' and 'enjoy it to the fullest', missing the zero motif and energy emphasis.",
+    "changeScore": 2
+  },
+  {
+    "index": 88,
+    "MessageID": 7829,
+    "TextENGNew": "There are so many important things I've failed to learn, but I'll learn them here.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 7830,
+    "TextENGNew": "I'll work hard to make them part of who I am.",
+    "significantChanges": true,
+    "changeReason": "Old says 'absorb all of it' (passive intake), new says 'work hard to make them part of who I am' (active effort); JPN がんばって身に着ける means 'work hard to acquire/internalize them'.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 7831,
+    "TextENGNew": "And I'll become the Keiichi Maebara I was always meant to be.",
+    "significantChanges": true,
+    "changeReason": "New explicitly names 'Keiichi Maebara' matching JPN 前原圭一, while old just says 'someone I've always wanted to become'.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 7832,
+    "TextENGNew": "...It may take a dizzying amount of time to learn it all.",
+    "significantChanges": true,
+    "changeReason": "New adds 'to learn it all' (それを学ぶ) matching JPN, specifying what takes time, while old is vague.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 7833,
+    "TextENGNew": "But I will learn it—without a doubt!",
+    "significantChanges": false
+  }
+]

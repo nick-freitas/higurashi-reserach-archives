@@ -1,0 +1,2778 @@
+[
+  {
+    "index": 1,
+    "MessageID": 62363,
+    "TextENGNew": "If Hinamizawa could be called a remote hamlet, then the Takatsudo district deserved to be called an abandoned village.",
+    "significantChanges": true,
+    "changeReason": "Old translates 廃村 as 'desolate'; new correctly translates as 'abandoned village,' matching the specific Japanese term for a village whose population has left.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 62364,
+    "TextENGNew": "As a typical city dweller, I couldn't begin to understand why anyone would have tried to live in a place like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 62365,
+    "TextENGNew": "Traces of former habitation lingered here and there, but everything was coated in dust and strangled by ivy -- clearly declaring that this was no longer a place where people lived.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 62366,
+    "TextENGNew": "``...People actually lived here once.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 62367,
+    "TextENGNew": "\"Well, that was a long time ago.@k@vS05/11/100700470. A remote place like this is rough on the elderly.@k@vS05/11/100700471. And the young folks probably want to live somewhere more civilized.@k@vS05/11/100700472. If nobody's left to carry things on, well, this is what happens.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 62368,
+    "TextENGNew": "Even without any personal attachment to this place, the sight of its decay stirred a faint melancholy.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 62369,
+    "TextENGNew": "Ooishi seemed to feel the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 62370,
+    "TextENGNew": "``...The wallet was found here?@k@vS05/13/101300471. The person who found it must have had some reason to be passing through such a remote area.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 62371,
+    "TextENGNew": "``Yeah, some of the villagers have fields up in the mountains.@k@vS05/11/100700474. Those folks pass through here mornings and evenings.``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 62372,
+    "TextENGNew": "``The villagers who work the fields walk through here every morning and evening?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'walk by here every day'; new says 'every morning and evening,' matching 朝晩 (morning and evening) in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 62373,
+    "TextENGNew": "``No way.@k@vS05/11/100700476. They drive as far as the road allows.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 62374,
+    "TextENGNew": "``And driving through here at dawn or dusk, they just happened to spot a single dropped wallet?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 62375,
+    "TextENGNew": "``...Apparently so.@k@vS05/11/100700478. Na ha ha ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 62376,
+    "TextENGNew": "``...Where exactly did the person say they found it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 62377,
+    "TextENGNew": "``In a thicket a bit further ahead.@k@vS05/11/100700480. The finder apparently had a sudden stomachache and ducked into the bushes to relieve himself.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 62378,
+    "TextENGNew": "``And that's how he happened to find it.@k@vS05/11/100700482. Maybe he was hoping there'd be some tissue paper inside.@k@vS05/11/100700483. Na ha ha ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 62379,
+    "TextENGNew": "``...The whole story feels a little too convenient.@k@vS05/13/101300476. From the moment this wallet turned up, I haven't been able to shake that feeling.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 62380,
+    "TextENGNew": "I gave voice to the unease I had felt since the start of the day.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 62381,
+    "TextENGNew": "Too convenient -- yet undeniable evidence.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 62382,
+    "TextENGNew": "But too perfect... and somehow unsettling.@kThat was the feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 62383,
+    "TextENGNew": "``You might actually be onto something with 'too convenient.'``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 62384,
+    "TextENGNew": "``...What do you mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 62385,
+    "TextENGNew": "``Truth is, I heard something from a friend in the Fourth Division.@k@vS05/11/100700486. Oryou Sonozaki apparently made reference to the minister's grandson's kidnapping.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 62386,
+    "TextENGNew": "``She referenced it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 62387,
+    "TextENGNew": "``'The poor minister's grandson has been held for so many days now.@k@vS05/11/100700488. It would be nice if he were released soon.' Something like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 62388,
+    "TextENGNew": "``Apparently, old Oryou muttered that while sitting on her veranda.@k@vS05/11/100700490. And that little mutter traveled through the Sonozaki family's network of networks to the right ears.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 62389,
+    "TextENGNew": "That's right -- Sato-san, the informant, had told me about this before.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 62390,
+    "TextENGNew": "When the matriarch Oryou expressed 'concern,' someone in the family would 'take the initiative.'",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 62391,
+    "TextENGNew": "``So... that was effectively an order to release the hostage?``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 62392,
+    "TextENGNew": "``That's how I see it.@k@vS05/11/100700492. This conveniently discovered wallet was probably staged to hand the grandson over to the police.``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 62393,
+    "TextENGNew": "``...Why would they release the hostage?``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 62394,
+    "TextENGNew": "``Na ha ha ha!@k@vS05/11/100700494. Well, there's only one reason you'd release a hostage, isn't there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 62395,
+    "TextENGNew": "``What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 62396,
+    "TextENGNew": "``The deal was struck.@k@vS05/11/100700496. The minister must have promised to cancel the Hinamizawa Dam Project.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 62397,
+    "TextENGNew": "``...The dam project will definitely go away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 62398,
+    "TextENGNew": "At that moment... the girl's words resurfaced in my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 62399,
+    "TextENGNew": "...In the end, everything had played out exactly as she had foretold.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 62400,
+    "TextENGNew": "That young girl had known how this would end.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 62401,
+    "TextENGNew": "She had known about this kidnapping -- perhaps from beginning to end.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 62402,
+    "TextENGNew": "``...Akasaka.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 62403,
+    "TextENGNew": "The girl called my name without warning.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 62404,
+    "TextENGNew": "``...What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 62405,
+    "TextENGNew": "``......Go back to Tokyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 62406,
+    "TextENGNew": "What...?",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 62407,
+    "TextENGNew": "``...Before long, you will come to bitterly regret ever setting foot in this village.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 62408,
+    "TextENGNew": "``Because the sight of you then would be so wretched and pitiful.@k@vS05/27/100500111. ...That's why I'm warning you now, while there's still time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 62409,
+    "TextENGNew": "``...Why... would I come to regret it...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 62410,
+    "TextENGNew": "``...You ask too many questions.``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 62411,
+    "TextENGNew": "``...When you were a child standing in the middle of a crosswalk with the light against you,@k@vS05/27/100500114. did your parents wait until they finished explaining why it was dangerous before pulling you back?``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 62412,
+    "TextENGNew": "``They would pull you back first, wouldn't they?@k@vS05/27/100500116. They'd drag you to the sidewalk first, and only then explain why it was dangerous, right?@k@vS05/27/100500117. ...That's what this is.``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 62413,
+    "TextENGNew": "...The girl who knew everything from start to finish... the very first warning she gave me. Go back to Tokyo.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 62414,
+    "TextENGNew": "``...Akasaka, you scaredy-cat.@k@vS05/27/100500119. ...Hee hee hee hee hee...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 62415,
+    "TextENGNew": "``The grandson will probably be found safe, but... the aftermath is going to be messy.@k@vS05/11/100700498. How messy, I leave to your imagination.``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 62416,
+    "TextENGNew": "``Furude Rika -- a girl by that name.@k@vS05/13/101300486. ...Do you know her?``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 62417,
+    "TextENGNew": "What I said was apparently so out of the blue that Ooishi sat in stunned silence for a moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 62418,
+    "TextENGNew": "``...Of course I know her.@k@vS05/11/100700500. She's the only daughter of the Furude family, one of the Three Families.``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 62419,
+    "TextENGNew": "``What kind of girl is she?``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 62420,
+    "TextENGNew": "``...Well, well.@k@vS05/11/100700502. That's an unexpected name to bring up. I'm a bit surprised.@k@vS05/11/100700503. What's your interest in that little lady?``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 62421,
+    "TextENGNew": "``Oh... no, it's nothing like that.@k@vS05/13/101300489. ...It's just... something that's been on my mind.``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 62422,
+    "TextENGNew": "``...Hmm?@k@vS05/11/100700506. Na ha ha ha, well, whatever.@k@vS05/11/100700507. We shared a mahjong table, so I won't pry. That's what friends are for.``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 62423,
+    "TextENGNew": "``...I'm honored you'd call me a friend.``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 62424,
+    "TextENGNew": "``Nfu fu!@k@vS05/11/100700509. So, that little lady is, well, something like a village mascot.@k@vS05/11/100700510. The villagers practically worship her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 62425,
+    "TextENGNew": "``Worship?``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 62426,
+    "TextENGNew": "``Hmm, I don't know much about it myself.@k@vS05/11/100700513. But apparently, a girl born into the Furude family carries some kind of sacred significance.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 62427,
+    "TextENGNew": "``It's a folk belief in Hinamizawa.@k@vS05/11/100700515. Something about being the reincarnation of Oyashiro-sama, or so the story goes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 62428,
+    "TextENGNew": "``Oyashiro-sama...?@k@vS05/13/101300493. ...Now that you mention it, I think I saw that name on one of the Defense Alliance's banners.``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 62429,
+    "TextENGNew": "``Ah, that's the name of Hinamizawa's guardian deity.@k@vS05/11/100700517. They believe it strikes down anyone who wrongs the village.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 62430,
+    "TextENGNew": "``Well, if such a convenient god existed, the dam workers would have been struck down ages ago.@k@vS05/11/100700519. Fortunately, they seem to be in good health today. Na ha ha ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 62431,
+    "TextENGNew": "``The grandson of the minister who wronged the village, struck down by Oyashiro-sama's wrath... what was the term again?@k@vS05/13/101300496. Right -- 'spirited away by the demon.'``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 62432,
+    "TextENGNew": "``Na ha ha ha ha!@k@vS05/11/100700521. I see.@k@vS05/11/100700522. That's probably exactly how it would be framed, isn't it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 62433,
+    "TextENGNew": "``Divine punishment by Oyashiro-sama.@k@vS05/13/101300500. Then... the culprit is the reincarnation of Oyashiro-sama... that girl...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 62434,
+    "TextENGNew": "``Na ha ha ha ha ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 62435,
+    "TextENGNew": "I wasn't even sure what I was saying at that point, so having Ooishi laugh it off was actually a relief.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 62436,
+    "TextENGNew": "Ooishi was laughing so heartily that I couldn't help but join in with some idiotic laughter of my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 62437,
+    "TextENGNew": "``...Oh.@k@vS05/11/100700525. Now that's unusual.``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 62438,
+    "TextENGNew": "Ooishi laid on the horn several times, rolled down the window, leaned out, and waved broadly.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 62439,
+    "TextENGNew": "An oncoming car.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 62440,
+    "TextENGNew": "Until now, we hadn't encountered a single other vehicle.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 62441,
+    "TextENGNew": "And of all places, here -- in this desolate wasteland.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 62442,
+    "TextENGNew": "Ooishi seemed to recognize the other driver.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 62443,
+    "TextENGNew": "The other car gave a brief honk in reply and pulled to a stop alongside us.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 62444,
+    "TextENGNew": "``Dr. Irie~~~~~!!!@k@vS05/11/100700527. Good afternoon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 62445,
+    "TextENGNew": "When the other car's window rolled down, it revealed a young man in a white medical coat.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 62446,
+    "TextENGNew": "Close to my age, or perhaps a little older.@k...Though you can never really tell with people.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 62447,
+    "TextENGNew": "``Why, if it isn't Ooishi-san.@k@vS05/10/101000016. Good afternoon.@k@vS05/10/101000017. ...Ha ha, what a surprise to run into you here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 62448,
+    "TextENGNew": "``That's my line, Doctor.@k@vS05/11/100700529. Never thought I'd see you in a place like this. Nfu fu fu!@k@vS05/11/100700530. What brings you all the way out here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 62449,
+    "TextENGNew": "``Oh, nothing -- just a house call.``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 62450,
+    "TextENGNew": "``...Is that so?@k@vS05/11/100700532. An emergency case?``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 62451,
+    "TextENGNew": "``No... nothing that serious.@k@vS05/10/101000020. Thankfully.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 62452,
+    "TextENGNew": "``Not needing medical attention is always the best outcome.@k@vS05/11/100700534. Nfu fu fu...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 62453,
+    "TextENGNew": "``I'll take my leave, then.@k@vS05/10/101000022. ...If I don't hurry back, my staff will have my head.``",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 62454,
+    "TextENGNew": "``Na ha ha!@k@vS05/11/100700536. Being the head of a clinic must keep you busy.@k@vS05/11/100700537. Well then, take care.``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 62455,
+    "TextENGNew": "The young doctor named Irie gave a farewell gesture, then drove off and vanished around the bend in no time.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 62456,
+    "TextENGNew": "Ooishi also started the car, but stopped again almost immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 62457,
+    "TextENGNew": "He pulled a worn atlas from the glove compartment.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 62458,
+    "TextENGNew": "His expression had lost every trace of levity -- he was utterly serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 62459,
+    "TextENGNew": "``...What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 62460,
+    "TextENGNew": "``The clinic shouldn't be making house calls today.@k@vS05/11/100700539. This would have to be a genuine emergency or a patient with very special circumstances.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 62461,
+    "TextENGNew": "Ooishi flipped through pages until he found the Takatsudo district, then looked up to survey the surrounding landscape and determine our location.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 62462,
+    "TextENGNew": "``...You're saying that emergency is suspicious?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 62463,
+    "TextENGNew": "``Didn't I say?@k@vS05/11/100700541. There's practically nobody living in the Takatsudo area.@k@vS05/11/100700542. So who out here is sick?``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 62464,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 62465,
+    "TextENGNew": "Without any familiarity with the area, I couldn't quite grasp what the map was telling me.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 62466,
+    "TextENGNew": "``We're heading for where the wallet was found.@k@vS05/11/100700545. The discovery site is here.@k@vS05/11/100700546. And the doctor came from... this direction.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 62467,
+    "TextENGNew": "``...Meaning Dr. Irie came from a direction where there are no residents?``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 62468,
+    "TextENGNew": "``Unless someone collapsed while farming on a terraced field up in the mountains.@k@vS05/11/100700549. But if someone collapsed and a doctor was called, you'd normally bring the patient back to the clinic.``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 62469,
+    "TextENGNew": "``But just now, Dr. Irie said it was nothing serious.@k@vS05/11/100700551. And there didn't seem to be anyone else in his car.@k@vS05/11/100700552. In other words, the patient is still wherever he was.``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 62470,
+    "TextENGNew": "Ooishi said nothing more.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 62471,
+    "TextENGNew": "Neither did I.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 62472,
+    "TextENGNew": "A doctor had just examined a patient.@kNearby.@kThat was all.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 62473,
+    "TextENGNew": "The noisy radio had gone silent at some point.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 62474,
+    "TextENGNew": "The sky, too, had turned an oppressive gray without my noticing.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 62475,
+    "TextENGNew": "...When Ooishi muttered that it might rain, the sky obliged with a torrential downpour.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 62476,
+    "TextENGNew": "Eventually, Ooishi stopped the car.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 62477,
+    "TextENGNew": "The only sounds were the drumming of rain on the roof and the mournful squeak of the wipers.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 62478,
+    "TextENGNew": "``...Let's do this quietly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 62479,
+    "TextENGNew": "Speaking in a low voice, he stepped out of the car without an umbrella, careful not to make a sound.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 62480,
+    "TextENGNew": "Ooishi crouched down and pointed through the underbrush.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 62481,
+    "TextENGNew": "On the other side was a prefabricated shed, and parked beside it, a car.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 62482,
+    "TextENGNew": "The car was clearly well-maintained -- not a vehicle that had been abandoned for years.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 62483,
+    "TextENGNew": "``...What's that shed?``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 62484,
+    "TextENGNew": "``A forestry service equipment shed.@k@vS05/11/100700554. I'm told it's not used outside of summer.``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 62485,
+    "TextENGNew": "``Does that car belong to someone from the forestry service?``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 62486,
+    "TextENGNew": "``Who knows.@k@vS05/11/100700556. Doesn't look like a government vehicle to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 62487,
+    "TextENGNew": "Ooishi maintained his composure, but my nerves were ratcheting tighter by the second.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 62488,
+    "TextENGNew": "``Just as a precaution.``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 62489,
+    "TextENGNew": "With those words, Ooishi returned to the car.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 62490,
+    "TextENGNew": "I thought he was going back for an umbrella, but what he grabbed was the car's radio.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 62491,
+    "TextENGNew": "``Hello, this is Ooishi.@k@vS05/11/100700559. Do you read?@k@vS05/11/100700560. Greetings, greetings.``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 62492,
+    "TextENGNew": "``Yes, Okinomiya PS here.@k@vS05/00/VTP_OkeijiA_0002. Ooishi-san, reading you loud and clear, over.``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 62493,
+    "TextENGNew": "``I'm currently in front of the forestry service equipment shed in the Takatsudo district.@k@vS05/11/100700562. Not the Yagauchi side -- the one you reach through Hinamizawa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 62494,
+    "TextENGNew": "``...Affirmative, confirmed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 62495,
+    "TextENGNew": "``Suspicious persons in the shed.@k@vS05/11/100700564. Proceeding to investigate.@k@vS05/11/100700565. If you don't hear from me in five minutes, send backup.``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 62496,
+    "TextENGNew": "``Roger that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 62497,
+    "TextENGNew": "``Well then... shall we go have a look?@k@vS05/11/100700568. Nfu fu fu!``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 62498,
+    "TextENGNew": "Since being confined here, he had heard the sound of cars several times.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 62499,
+    "TextENGNew": "And so he'd assumed the distant car he heard now was just another one of those.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 62500,
+    "TextENGNew": "But his captors' reaction was unlike anything he had seen before.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 62501,
+    "TextENGNew": "They flinched as though jolted by electricity, then pressed themselves against the window and peered outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 62502,
+    "TextENGNew": "``...They stopped.``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 62503,
+    "TextENGNew": "``...Someone from the forestry service?@k@vS05/49/VT2_13hibari1053. This is bad.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 62504,
+    "TextENGNew": "``...No... looks like police.``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 62505,
+    "TextENGNew": "One of the captors seized the boy by the collar and pressed a blade against his cheek.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 62506,
+    "TextENGNew": "``Stay quiet for a bit, kid.@k@vS05/49/VT2_13hibari1055. I think you know this, but if you start yelling, things are going to get ugly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 62507,
+    "TextENGNew": "Toshiki Inukai was certain that the doctor had reported them to the police.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 62508,
+    "TextENGNew": "He felt a surge of relief knowing rescue was near, but the thought of what his cornered captors might do kept him from relaxing.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 62509,
+    "TextENGNew": "``What do we do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 62510,
+    "TextENGNew": "``...Buy us time.@k@vS05/14/104700043. Take the kid and slip out the back.@k@vS05/14/104700044. I'll handle this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 62511,
+    "TextENGNew": "One of the captors grabbed the boy by the collar and hauled him to his feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 62512,
+    "TextENGNew": "Toshiki Inukai tried to resist by intensifying his feigned illness, but his captors paid him no heed.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 62513,
+    "TextENGNew": "BANG BANG BANG!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 62514,
+    "TextENGNew": "Someone was pounding violently on the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 62515,
+    "TextENGNew": "``Excuse me~~~!!@k@vS05/11/100700570. Hello~~~!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 62516,
+    "TextENGNew": "BANG BANG BANG, BANG!!",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 62517,
+    "TextENGNew": "Another round of pounding.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 62518,
+    "TextENGNew": "Toshiki Inukai hesitated for a split second -- should he call out in response?",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 62519,
+    "TextENGNew": "But before he could decide, his mouth was covered, and that choice was taken from him.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 62520,
+    "TextENGNew": "The leader among the captors signaled 'go' with a wave of his hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 62521,
+    "TextENGNew": "The younger captor nodded, and with the boy's mouth still muffled, headed for the back exit.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 62522,
+    "TextENGNew": "``Yeah, yeah~~ need somethin'?``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 62523,
+    "TextENGNew": "``Hello there.@k@vS05/11/100700572. This is the police. Would you mind opening up?@k@vS05/11/100700573. Just a routine check.``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 62524,
+    "TextENGNew": "``Sure, sure.@k@vS05/14/104700047. Just a sec, lemme ope--``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 62525,
+    "TextENGNew": "The instant the lock was undone, Ooishi shoved the door wide open.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 62526,
+    "TextENGNew": "With an intimidating glare, he pushed the man aside and stepped into the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 62527,
+    "TextENGNew": "He swept the cramped interior in a single glance -- empty. The grandson he was looking for was nowhere to be seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 62528,
+    "TextENGNew": "``Hmm.@k@vS05/11/100700576. I was told this was a forestry equipment shed.@k@vS05/11/100700577. Doesn't look like equipment storage to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 62529,
+    "TextENGNew": "There was nothing inside that resembled an equipment shed.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 62530,
+    "TextENGNew": "Only a heap of blankets suggesting someone had been sleeping here, and scattered bags of food waste.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 62531,
+    "TextENGNew": "``...Aah, the place's been empty for ages.@k@vS05/14/104700049. Never seen any equipment stored 'ere.``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 62532,
+    "TextENGNew": "``But this is the forestry service's building, isn't it?@k@vS05/11/100700579. Are you from the forestry service?``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 62533,
+    "TextENGNew": "``...'Ow 'bout you? Police?``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 62534,
+    "TextENGNew": "The two men glared at each other with mutual suspicion.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 62535,
+    "TextENGNew": "...Neither Ooishi nor the man was willing to identify himself first.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 62536,
+    "TextENGNew": "The man, sensing from the sharpness of Ooishi's gaze that talking his way out would be difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 62537,
+    "TextENGNew": "No matter what excuse he fabricated, a few dozen seconds of stalling was the best he could manage.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 62538,
+    "TextENGNew": "Only the sound of rain filled this taut silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 62539,
+    "TextENGNew": "Then, from somewhere in the distance, came the sounds of a scuffle -- the unmistakable noise of a physical struggle.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 62540,
+    "TextENGNew": "Ooishi's instincts fired.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 62541,
+    "TextENGNew": "Akasaka, whom he had sent around back, must have run into a captor trying to flee with the hostage...!",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 62542,
+    "TextENGNew": "But the man in front of him reacted a hair faster than Ooishi did.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 62543,
+    "TextENGNew": "His strike was less a punch to the face and more a calculated attempt to blind Ooishi's vision.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 62544,
+    "TextENGNew": "In the instant Ooishi's guard dropped, the man drove a kick into his groin without hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 62545,
+    "TextENGNew": "...But it didn't land cleanly, and failed to be a decisive blow.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 62546,
+    "TextENGNew": "The man grabbed Ooishi by the throat with both hands and tried to bulldoze him to the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 62547,
+    "TextENGNew": "But as Ooishi toppled backward, he planted his foot in the man's gut as if launching a counter-kick.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 62548,
+    "TextENGNew": "Using that leg as a fulcrum, the man was hurled over the falling Ooishi in something resembling a tomoe throw.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 62549,
+    "TextENGNew": "The two faced off in the driving rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 62550,
+    "TextENGNew": "``Well, isn't this interesting.@k@vS05/11/100700581. You wanna go?!@k@vS05/11/100700582. Nahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 62551,
+    "TextENGNew": "As if to psych himself up, Ooishi flashed a fearless grin.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 62552,
+    "TextENGNew": "He brushed off the mud and rose to his feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 62553,
+    "TextENGNew": "Despite being thrown, the man recovered with far more grace and speed than Ooishi's ungainly scramble upright.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 62554,
+    "TextENGNew": "``Ooishi-saaaaan!!@k@vS05/13/101300508. Hurry!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 62555,
+    "TextENGNew": "Akasaka's voice rang out from the distance.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 62556,
+    "TextENGNew": "From its urgency, it was clear his situation was equally critical, and he needed Ooishi there as soon as possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 62557,
+    "TextENGNew": "But Ooishi's hands were full right here.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 62558,
+    "TextENGNew": "``Akasaka-saaan!@k@vS05/11/100700584. Sorry, but hang on just a minute!``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 62559,
+    "TextENGNew": "The man raised both fists in a stance that unmistakably telegraphed training in karate or boxing.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 62560,
+    "TextENGNew": "Ooishi, naturally, had the standard martial arts training expected of a police officer.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 62561,
+    "TextENGNew": "And the grit earned from surviving plenty of tight spots.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 62562,
+    "TextENGNew": "But -- no, precisely because of that -- he could tell the man in front of him was several levels above him in a fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 62563,
+    "TextENGNew": "...Dammit! I should never have assumed this would go smoothly just because Oryou had given the order to release the hostage!",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 62564,
+    "TextENGNew": "``Not bad at all.@k@vS05/11/100700586. It's been a while since I've felt this queasy.@k@vS05/11/100700587. Na ha ha ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 62565,
+    "TextENGNew": "Ooishi projected an air of composure.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 62566,
+    "TextENGNew": "His opponent, reading that, seemed to conclude that Ooishi wouldn't go down easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 62567,
+    "TextENGNew": "The man charged, lunging to grab hold of Ooishi!",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 62568,
+    "TextENGNew": "If grappled from that low stance, Ooishi would be tackled to the ground and mounted.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 62569,
+    "TextENGNew": "It looked like a schoolyard brawl, but in reality it was a near-inescapable hold.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 62570,
+    "TextENGNew": "Ooishi met the charge head-on, dropping his own center of gravity to brace for the collision.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 62571,
+    "TextENGNew": "The instant they clashed, Ooishi seized the man's lapels!",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 62572,
+    "TextENGNew": "And as he wrenched them upward, he drove his elbow into the man's solar plexus with all his might.@kIt was Ooishi's signature move -- street-fighting judo.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 62573,
+    "TextENGNew": "He grabbed on with his other hand, attempting to hurl his opponent with both arms!",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 62574,
+    "TextENGNew": "But the man shifted his weight and swept his arms in a wide arc, entangling both of Ooishi's.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 62575,
+    "TextENGNew": "Worse still, both of Ooishi's elbows were wrenched outward, leaving him in an unnatural position with his back nearly exposed and both arms pinned against the man's chest!",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 62576,
+    "TextENGNew": "This guy... he knew grappling or aikido!",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 62577,
+    "TextENGNew": "Ooishi, realizing his fingers were getting twisted and caught in the man's shirt, chose to release his grip voluntarily.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 62578,
+    "TextENGNew": "But he couldn't recover from his compromised stance.@kNot at this distance!",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 62579,
+    "TextENGNew": "The man read Ooishi's attempt to rotate out of it perfectly, slipping around to his blind side.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 62580,
+    "TextENGNew": "And then, with both palms -- *CRACK!!*@kHe clapped them hard over Ooishi's ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 62581,
+    "TextENGNew": "``AUGH!!!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 62582,
+    "TextENGNew": "A double ear slap was a forbidden technique in virtually every martial art except pure self-defense.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 62583,
+    "TextENGNew": "Neither karate nor judo permitted it.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 62584,
+    "TextENGNew": "It was that simple -- and that dangerous!",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 62585,
+    "TextENGNew": "Ooishi's hands shot up reflexively to clutch his ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 62586,
+    "TextENGNew": "But before they could reach them, the man had already locked his arm around Ooishi's neck.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 62587,
+    "TextENGNew": "A thick bicep clamped around the base of his neck like a steel bolt.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 62588,
+    "TextENGNew": "Ooishi instinctively thought: he's going to kill me.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 62589,
+    "TextENGNew": "A man this skilled in close combat, with this grip from behind -- snapping a neck would be trivial.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 62590,
+    "TextENGNew": "But his opponent chose to squeeze and choke rather than break.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 62591,
+    "TextENGNew": "And so, even though Ooishi's face was contorted, he managed a grin.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 62592,
+    "TextENGNew": "His opponent had the chance to kill him and chose not to.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 62593,
+    "TextENGNew": "He thought to himself:@k'So he doesn't intend to kill me.'",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 62594,
+    "TextENGNew": "But that didn't mean the chokehold was gentle.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 62595,
+    "TextENGNew": "His consciousness began to dim with alarming speed as his vision flooded from black to a blood-red haze.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 62596,
+    "TextENGNew": "Having been choked out several times in judo during his student days, Ooishi recognized the feeling and accepted it -- this was locked in tight.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 62597,
+    "TextENGNew": "Akasaka had just barely recovered from the searing pain of the groin kick.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 62598,
+    "TextENGNew": "He had run straight into the captor carrying the boy at the back exit.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 62599,
+    "TextENGNew": "Though he knew Toshiki Inukai's face well from photographs, he couldn't immediately identify the tape-gagged boy before him as the real person.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 62600,
+    "TextENGNew": "And it was hardly surprising that someone with his limited experience would freeze up, unsure how to handle a situation like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 62601,
+    "TextENGNew": "His captor, naturally, didn't let that momentary opening go to waste.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 62602,
+    "TextENGNew": "The man's groin kick landed squarely, and Akasaka didn't even have time to call out to Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 62603,
+    "TextENGNew": "The man slung the boy over his shoulder and tried to circle around to the front of the shed.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 62604,
+    "TextENGNew": "But hearing Ooishi's booming voice from that direction, he abandoned the idea.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 62605,
+    "TextENGNew": "Instead, he bolted straight for the forest.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 62606,
+    "TextENGNew": "As though the boy on his shoulder weighed nothing at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 62607,
+    "TextENGNew": "Akasaka hesitated for a split second.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 62608,
+    "TextENGNew": "Linking up with Ooishi, who was fighting the enemy, would be the safer choice.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 62609,
+    "TextENGNew": "But he couldn't afford to lose sight of the fleeing man now!",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 62610,
+    "TextENGNew": "Akasaka scrambled to his feet and gave chase.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 62611,
+    "TextENGNew": "He crashed through low brush, snapping twigs and crunching through fallen leaves.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 62612,
+    "TextENGNew": "Branches scraped and clawed at him, leaving a growing collection of fresh cuts.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 62613,
+    "TextENGNew": "He kept splashing through puddle after puddle, and in no time his shoes were waterlogged with mud.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 62614,
+    "TextENGNew": "For Akasaka, who had never run through a forest like this, it was profoundly unpleasant even under these urgent circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 62615,
+    "TextENGNew": "``Stooooop!!@k@vS05/13/101300510. Police!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 62616,
+    "TextENGNew": "The moment the words left his mouth, he regretted wasting precious oxygen on them.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 62617,
+    "TextENGNew": "What thief in the world would politely stop when told to by the police?!",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 62618,
+    "TextENGNew": "For a city boy like Akasaka, barreling through this forest was grueling,@kbut it was clearly no easier for a man running with a boy slung over his shoulder.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 62619,
+    "TextENGNew": "He wasn't gaining ground, but he wasn't losing any either.",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 62620,
+    "TextENGNew": "Once Akasaka realized that, he recovered a sliver of composure.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 62621,
+    "TextENGNew": "Just keep chasing.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 62622,
+    "TextENGNew": "The conditions were the same.@kIf anything, the man running in that unstable position was at a far greater disadvantage.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 62623,
+    "TextENGNew": "He couldn't run forever.@kSooner or later, he would definitely stumble!",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 62624,
+    "TextENGNew": "As long as Akasaka kept the pressure on, the man would trip -- it was inevitable!!",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 62625,
+    "TextENGNew": "And that wish was granted.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 62626,
+    "TextENGNew": "``...Whoa!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 62627,
+    "TextENGNew": "The man stepped on something, lost his balance, and -- unable to bear the boy's weight any longer -- dropped him.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 62628,
+    "TextENGNew": "Akasaka, in all honesty, didn't care about the captor.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 62629,
+    "TextENGNew": "All that mattered was securing Toshiki Inukai's safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 62630,
+    "TextENGNew": "If the captor ran off alone, that was perfectly fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 62631,
+    "TextENGNew": "...But the boy was evidently too valuable to abandon, and the man didn't choose to flee.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 62632,
+    "TextENGNew": "Akasaka didn't know what to do in a situation like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 62633,
+    "TextENGNew": "The top priority was protecting the grandson -- subduing the captor was secondary.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 62634,
+    "TextENGNew": "He hadn't planned for a physical confrontation.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 62635,
+    "TextENGNew": "But it was probably do or die!!",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 62636,
+    "TextENGNew": "That split-second of hesitation proved fatal.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 62637,
+    "TextENGNew": "The man threw a quick jab aimed between -- or rather, directly at -- both of Akasaka's eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 62638,
+    "TextENGNew": "When Akasaka raised both hands to shield his face, the man drove a devastating kick into his unprotected stomach.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 62639,
+    "TextENGNew": "The pain felt like his organs were being wrenched out of him, but Akasaka didn't flinch -- he lunged forward and wrapped his arms around the man's leg.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 62640,
+    "TextENGNew": "But the man didn't hesitate.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 62641,
+    "TextENGNew": "Leading with his trapped leg, he threw his full body weight onto Akasaka, tackling him to the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 62642,
+    "TextENGNew": "Akasaka was knocked down, but he absolutely refused to release his grip on the leg.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 62643,
+    "TextENGNew": "The two men collapsed in a tangled heap.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 62644,
+    "TextENGNew": "The man struggled desperately to wrench his leg free, but having fallen in an awkward position, he couldn't get the leverage.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 62645,
+    "TextENGNew": "They rolled across the ground, each scrambling for a superior position.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 62646,
+    "TextENGNew": "But Akasaka, with both hands locked around his opponent's knee, was at a clear disadvantage against a man with his upper body free.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 62647,
+    "TextENGNew": "Once the man gained positional advantage, he hammered Akasaka's head with both fists as hard as he could.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 62648,
+    "TextENGNew": "And when he found a rock nearby, he started bashing Akasaka's skull with that!",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 62649,
+    "TextENGNew": "CRACK!@|@y CRACK!!@|@y CRACK!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 62650,
+    "TextENGNew": "The difference between being punched and being hit with a rock was beyond comparison!!",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 62651,
+    "TextENGNew": "Every instinct screamed at him to release the man's leg and protect his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 62652,
+    "TextENGNew": "But... if he let go now, the man would escape!",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 62653,
+    "TextENGNew": "If he didn't hold on here, everything would be for nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 62654,
+    "TextENGNew": "The grandson he had come to save was right there.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 62655,
+    "TextENGNew": "He was going to save this boy and go back to Tokyo!!",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 62656,
+    "TextENGNew": "And then he'd be done with this godforsaken village...!",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 62657,
+    "TextENGNew": "BAM!!@|@y CRACK!!@|@y THUD!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 62658,
+    "TextENGNew": "Without looking, I could tell my forehead had split open and was gushing blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 62659,
+    "TextENGNew": "But I didn't let go of his leg.@kI wouldn't. I refused.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 62660,
+    "TextENGNew": "When the man realized no amount of beating would pry me loose, he went for my throat -- both hands crushing my Adam's apple.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 62661,
+    "TextENGNew": "I pulled my chin down tight in a feeble attempt to resist, but it was useless.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 62662,
+    "TextENGNew": "His hands engulfed my throat, squeezing my windpipe with vise-like force!!",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 62663,
+    "TextENGNew": "It was less the agony of suffocation and more a choking, retching torment.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 62664,
+    "TextENGNew": "My stomach felt like it was turning inside out!!@kBut I could only endure it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 62665,
+    "TextENGNew": "...Dammit, dammit, dammit!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 62666,
+    "TextENGNew": "My throat... ngh... hurts...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 62667,
+    "TextENGNew": "I won't let go. I won't let go...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 62668,
+    "TextENGNew": "I don't want to be here.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 62669,
+    "TextENGNew": "I want this to be over. I want to go back to Tokyo!",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 62670,
+    "TextENGNew": "Go back to Tokyo and talk with Yukie about our baby, plan our future together... let our hopes bloom into something beautiful...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 62671,
+    "TextENGNew": "I hadn't consciously loosened my grip.@k...But the slightest slackening freed the man's leg.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 62672,
+    "TextENGNew": "The man kicked out with everything he had, and I tumbled away.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 62673,
+    "TextENGNew": "My head was spinning. I couldn't get up.@k...No -- my entire body had no strength left.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 62674,
+    "TextENGNew": "Don't give up...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 62675,
+    "TextENGNew": "If I let him escape now... a chance like this will never come again!!",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 62676,
+    "TextENGNew": "Even catching their trail had been a miracle built on miracles.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 62677,
+    "TextENGNew": "If we couldn't recover the grandson here... there would be no second miracle!!",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 62678,
+    "TextENGNew": "The man was trying to hoist the boy again, but the boy put up unexpected resistance, and the man failed to notice me getting back up.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 62679,
+    "TextENGNew": "I grabbed the rock he had used to beat my head.@k...Now it's my turn!!",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 62680,
+    "TextENGNew": "``YAAAAARRRRGH!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 62681,
+    "TextENGNew": "If the rock could compensate for my lack of strength... I could land a solid blow!!",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 62682,
+    "TextENGNew": "My rock-clenched fist drove into the man's soft flank.@kIt was a devastating hit.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 62683,
+    "TextENGNew": "``Ugh... gah...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 62684,
+    "TextENGNew": "The man rolled on the ground, clutching his side.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 62685,
+    "TextENGNew": "Freed from his grip, the boy quickly darted behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 62686,
+    "TextENGNew": "``You're Toshiki Inukai, aren't you?!@k@vS05/13/101300513. I've come to rescue you!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 62687,
+    "TextENGNew": "To the boy, there could have been no words he wanted to hear more...!",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 62688,
+    "TextENGNew": "But the crisis was far from over.",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 62689,
+    "TextENGNew": "Because even while clutching his side, the man had risen to his feet again and reassumed his fighting stance.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 62690,
+    "TextENGNew": "In his eyes I could see both the hatred born of pain and the confidence that he could beat me.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 62691,
+    "TextENGNew": "If we clashed head-on again, a split forehead might be the least of my worries.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 62692,
+    "TextENGNew": "``Stop resisting!!@k@vS05/13/101300515. Surrender quietly!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 62693,
+    "TextENGNew": "``You're the one who should hand the kid over!!@k@vS05/49/VT2_13hibari1060. You want your neck snapped?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 62694,
+    "TextENGNew": "``Who would yield to the likes of you?!@k@vS05/13/101300517. Backup is on its way!@k@vS05/13/101300518. Give it up!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 62695,
+    "TextENGNew": "The man reacted sharply to the word 'backup.'",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 62696,
+    "TextENGNew": "He realized that standing here arguing wasn't just wasting time -- it was putting him in increasing danger.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 62697,
+    "TextENGNew": "The speed with which he shifted gears was almost frightening.",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 62698,
+    "TextENGNew": "``Then let's make this quick!!@k@vS05/49/VT2_13hibari1062. How about this...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 62699,
+    "TextENGNew": "``...What?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 62700,
+    "TextENGNew": "What the man pulled from his back pocket was -- of all things -- a handgun!",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 62701,
+    "TextENGNew": "Of course, I was a police officer too.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 62702,
+    "TextENGNew": "It wasn't as if I didn't know what a gun was.",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 62703,
+    "TextENGNew": "But having one pointed at me was something I had never experienced.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 62704,
+    "TextENGNew": "Was it... real?",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 62705,
+    "TextENGNew": "Of course it was real!!@kWho would pull out a toy gun in a situation like this?!",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 62706,
+    "TextENGNew": "``Put your hands behind your head and lie face down -- now!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 62707,
+    "TextENGNew": "``Don't get carried away, criminal!!@k@vS05/13/101300521. I'm not obeying you!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 62708,
+    "TextENGNew": "``You goddamn idiot!!@k@vS05/49/VT2_13hibari1065. Do I have to put a bullet in you before you understand what this is?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 62709,
+    "TextENGNew": "``Then go ahead and shoot!@k@vS05/13/101300523. The sound of your gunshot will bring backup running!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 62710,
+    "TextENGNew": "``You moron!@k@vS05/49/VT2_13hibari1067. We're deep in a forest, in this rain!!@k@vS05/49/VT2_13hibari1068. Nobody's hearing a damn thing!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 62711,
+    "TextENGNew": "As long as he had the gun, no amount of bluster on my part would change the overwhelming imbalance.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 62712,
+    "TextENGNew": "And yet, I sensed an opening.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 62713,
+    "TextENGNew": "If our positions were reversed, I wouldn't waste time on a shouting match -- I'd shoot, take the boy, and run.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 62714,
+    "TextENGNew": "That would be faster, and the gunshot might even cow the boy into compliance.",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 62715,
+    "TextENGNew": "But the man wasn't shooting. He was demanding my surrender.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 62716,
+    "TextENGNew": "Which meant he either couldn't shoot or didn't want to.@k...In other words, this man was soft!",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 62717,
+    "TextENGNew": "Every second I bought tipped the scales further in my favor.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 62718,
+    "TextENGNew": "Ooishi would come. And the backup we'd called for before arriving should already be en route.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 62719,
+    "TextENGNew": "And that wasn't all -- the police box should have been contacted too.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 62720,
+    "TextENGNew": "A village-stationed officer could reach us far sooner than anyone else!",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 62721,
+    "TextENGNew": "``...Dammit...!!@k@vS05/49/VT2_13hibari1070. Do I have to shoot you before you get it through your skull?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 62722,
+    "TextENGNew": "``There's no escape!!@k@vS05/13/101300525. Don't make things worse for yourself!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 62723,
+    "TextENGNew": "Then I heard it -- heavy footsteps crashing through the brush, drawing closer.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 62724,
+    "TextENGNew": "If Ooishi reached us, everything would change!",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 62725,
+    "TextENGNew": "Against a man like him, one gun would mean nothing...!",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 62726,
+    "TextENGNew": "``Ooishi-san!!@k@vS05/13/101300527. Over here! Over here!!!@k@vS05/13/101300528. ...What?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 62727,
+    "TextENGNew": "I had believed time was on my side.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 62728,
+    "TextENGNew": "But I had failed to consider... that the enemy, too, could have reinforcements...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 62729,
+    "TextENGNew": "One look at the man who appeared was enough to identify him as another captor.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 62730,
+    "TextENGNew": "``Whaddya doin'...@k@vS05/14/104700052. Hurry it up, the cops are comin'!@k@vS05/14/104700053. What's takin' so long with one guy?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 62731,
+    "TextENGNew": "``...Dammit...!!@k@vS05/13/101300530. What happened to Ooishi-san?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 62732,
+    "TextENGNew": "``That barrel of a man?@k@vS05/14/104700055. Put 'im down. Foamin' at the mouth.@k@vS05/14/104700056. Heh heh heh.``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 62733,
+    "TextENGNew": "``Ooishi-san?!@k@vS05/13/101300532. ...Dammit...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 62734,
+    "TextENGNew": "The boy, sensing the danger acutely, pressed himself against my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 62735,
+    "TextENGNew": "...How could this be... dammit...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 62736,
+    "TextENGNew": "``Your buddy ain't comin'!!@k@vS05/49/VT2_13hibari1072. Serves you right!!@k@vS05/49/VT2_13hibari1073. Now do as you're told!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 62737,
+    "TextENGNew": "As I backed against a thick tree, shielding the boy behind me, the second man also drew a handgun.",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 62738,
+    "TextENGNew": "``I'll say this once more.@k@vS05/14/104700058. Hands on yer head. Face down. Now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 62739,
+    "TextENGNew": "``I refuse!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 62740,
+    "TextENGNew": "The instant I shouted my defiance, blood erupted from my left shoulder. A fraction of a second later, I realized I had been shot!",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 62741,
+    "TextENGNew": "The first real gunshot I ever heard was far more mundane and anticlimactic than any gunshot in a movie or TV drama.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 62742,
+    "TextENGNew": "If anything, it sounded like the little firecrackers I used to buy at the candy shop as a kid.",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 62743,
+    "TextENGNew": "But the pain was beyond anything I could compare...@kThe terror of a gun -- you only truly understood it after being shot.",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 62744,
+    "TextENGNew": "``...Ngh... gh... aghh...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 62745,
+    "TextENGNew": "``...S-Sir?!@k@vS05/00/toshi00014. Are you okay?!@k@vS05/00/toshi00015. Are you okay?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 62746,
+    "TextENGNew": "The panicking boy tugged at my clothes, aggravating the wound and sending bolts of pain through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 62747,
+    "TextENGNew": "I wanted to put on a brave face and reassure him, but my voice came out hoarse -- more alarming than comforting.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 62748,
+    "TextENGNew": "``I-I'm fine!!@k@vS05/13/101300536. Backup has already been called.@k@vS05/13/101300537. They'll be here any moment.``",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 62749,
+    "TextENGNew": "``Be quicker to put one through yer skull 'fore the cops get 'ere.@k@vS05/14/104700060. The main house told us no killin', but this is self-defense now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 62750,
+    "TextENGNew": "...This was bad.@k...This was very, very bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 62751,
+    "TextENGNew": "This second man was a completely different breed from the first!",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 62752,
+    "TextENGNew": "No hesitation. No mercy!!",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 62753,
+    "TextENGNew": "If he said he would shoot, he would shoot!",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 62754,
+    "TextENGNew": "He wasn't someone a man like me could buy time against!!",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 62755,
+    "TextENGNew": "At that moment -- and I hated myself for it -- Yukie's smiling face flashed through my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 62756,
+    "TextENGNew": "I knew what that meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 62757,
+    "TextENGNew": "I was warning myself not to throw my life away over stubborn pride.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 62758,
+    "TextENGNew": "Of course I didn't want to die here!",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 62759,
+    "TextENGNew": "My new life with Yukie had only just begun, and I wanted to see the face of our child who would be born any day now!!",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 62760,
+    "TextENGNew": "Was I really going to stake my life on the minister's grandson when I was this close to becoming a father myself?!!",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 62761,
+    "TextENGNew": "...Arrgh, dammit!!",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 62762,
+    "TextENGNew": "Stop spiraling!@k Then what do I do?!@k Hand over the boy and save my own skin?!@k Brilliant plan!!@k Everyone values their own life!!",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 62763,
+    "TextENGNew": "Ahh, damn... it hurts... it hurts...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 62764,
+    "TextENGNew": "If I'd known it would be this painful, I never would have played the tough guy...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 62765,
+    "TextENGNew": "And... the biggest miscalculation of all was that the gunshot was far quieter than I'd imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 62766,
+    "TextENGNew": "A sound that feeble would be swallowed by the rain and the forest!",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 62767,
+    "TextENGNew": "It wouldn't carry far enough for anyone to hear...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 62769,
+    "TextENGNew": "``Dammit!!@k@vS05/13/101300540. Wait -- just wait!!@k@vS05/13/101300541. I don't want to die! Not here, not like this!``",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 62770,
+    "TextENGNew": "``And I don't wanna kill ya either!!@k@vS05/14/104700063. Just do as I say and we're good!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 62771,
+    "TextENGNew": "``Don't shoot, okay?!@k@vS05/13/101300543. Don't shoot!!@k@vS05/13/101300544. I have a wife waiting for me at home! She's about to give birth!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 62772,
+    "TextENGNew": "``I won't shoot 'slong as ya don't yell!@k@vS05/14/104700065. Lie face down with yer hands on yer head, and I won't shoot!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 62773,
+    "TextENGNew": "``Promise?!@k@vS05/13/101300547. You promise?!@k@vS05/13/101300548. Keep your word, you hear me?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 62774,
+    "TextENGNew": "``I will!!@k@vS05/14/104700067. A man's word between men!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 62775,
+    "TextENGNew": "``Keep it! You better keep it!!!@k@vS05/13/101300551. All right, I'm getting down.@k@vS05/13/101300552. I'm getting down, so don't shoot, okay?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 62776,
+    "TextENGNew": "``You're still going to shoot me, aren't you?!@k@vS05/13/101300555. I know you're thinking it!@k@vS05/13/101300556. The moment I'm on the ground, you'll --``",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 62777,
+    "TextENGNew": "``I won't, I won't!!@k@vS05/14/104700069. Fine!!@k@vS05/14/104700070. I'll put it away!@k@vS05/14/104700071. See? It's down, it's lowered. Satisfied?``",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 62778,
+    "TextENGNew": "``Yeah, absolutely no complaints!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 62779,
+    "TextENGNew": "``Gah!!@k@vS05/14/104700076. Ugghh!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 62780,
+    "TextENGNew": "It was over in a flash.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 62781,
+    "TextENGNew": "The instant the gun was lowered, Ooishi struck -- and he didn't miss his chance!",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 62782,
+    "TextENGNew": "Ooishi had been watching from behind, waiting for an opening.",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 62783,
+    "TextENGNew": "But with both men pointing guns, he hadn't had a chance to move.",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 62784,
+    "TextENGNew": "Reading Ooishi's eye signal begging me to create an opening, I had fulfilled that mission admirably.",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 62785,
+    "TextENGNew": "Ooishi seized the gun arm from behind and locked the joint in one fluid motion.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 62786,
+    "TextENGNew": "Stripping the gun from the man's hand took barely a heartbeat!",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 62787,
+    "TextENGNew": "The other man, a beat slow in processing what had happened, raised his gun, but couldn't fire at Ooishi while he was grappling with his companion.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 62788,
+    "TextENGNew": "If the second man had been the one now free, he might have fired without hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 62789,
+    "TextENGNew": "But this man wouldn't shoot.@kHe couldn't!!",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 62790,
+    "TextENGNew": "Ooishi kicked the disarmed man away, the stolen gun in his left hand, and drew his own service weapon with his right.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 62791,
+    "TextENGNew": "The barrels of his two-gun stance were trained on each man!",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 62792,
+    "TextENGNew": "``I believe that's checkmate!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 62793,
+    "TextENGNew": "It seemed like a perfect endgame.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 62794,
+    "TextENGNew": "But despite having guns pointed at them, the men shouted 'Run!!' and bolted in opposite directions.",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 62795,
+    "TextENGNew": "It was over in the blink of an eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 62796,
+    "TextENGNew": "That those two would flee without resistance or retaliation was genuinely unexpected.",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 62797,
+    "TextENGNew": "Ooishi clicked his tongue softly and stowed both guns in his pockets.",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 62798,
+    "TextENGNew": "``Tch.@k@vS05/11/100700592. Those guys know the rules well...``",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 62799,
+    "TextENGNew": "``...?@k@vS05/13/101300558. What rules?``",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 62800,
+    "TextENGNew": "``An officer can't shoot a fleeing suspect's back.@k@vS05/11/100700594. And I'd hate to lose my pension.``",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 62801,
+    "TextENGNew": "Ooishi and I shared a grin.",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 62802,
+    "TextENGNew": "``Are you Toshiki Inukai-kun?@k@vS05/11/100700596. The grandson of the Minister of Construction?``",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 62803,
+    "TextENGNew": "``Y... Yes...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 62804,
+    "TextENGNew": "``...Well, this is going to be a big case.@k@vS05/11/100700598. Though it'll probably end up as a sacrificial tail-cut.@k@vS05/11/100700599. Nfu fu fu fu!``",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 62805,
+    "TextENGNew": "Ooishi chuckled with evident amusement.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 62806,
+    "TextENGNew": "It was obvious that the Onigafuchi Defense Alliance (or the Sonozaki family pulling their strings) was behind this, but knowing it and proving it were very different things.",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 62807,
+    "TextENGNew": "And, with apologies to Ooishi, whether this case would ever see the light of day was doubtful.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 62808,
+    "TextENGNew": "If it became public, the minister's downfall would be inevitable.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 62809,
+    "TextENGNew": "Headquarters, prioritizing the national interest, would most likely bury the whole affair quietly.",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 62810,
+    "TextENGNew": "Put bluntly: born in shadow, returned to shadow.",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 62811,
+    "TextENGNew": "...A veteran like Ooishi probably understood all of that already.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 62812,
+    "TextENGNew": "``For now, let's set up a perimeter.@k@vS05/11/100700601. Those guys still have at least one gun.@k@vS05/11/100700602. We need to be careful.``",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 62813,
+    "TextENGNew": "As the tension drained away, the pain from the gunshot wound in my shoulder came roaring back.",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 62814,
+    "TextENGNew": "My forehead throbbed and burned as though it were on fire.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 62815,
+    "TextENGNew": "I thought I was drenched in sweat from the dissipating tension, but when I wiped my forehead, it came away not with sweat but thick, copious blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 62816,
+    "TextENGNew": "My shirt, I realized, was stained crimson from the blood streaming down my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 62817,
+    "TextENGNew": "I looked back.",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 62818,
+    "TextENGNew": "...The boy was safe.@kBeyond any doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 62819,
+    "TextENGNew": "The investigation into the fleeing suspects would continue, but that was a matter for another day.",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 62820,
+    "TextENGNew": "For now, I could state with certainty that we had cleared the most critical hurdle: securing the grandson.",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 62821,
+    "TextENGNew": "The moment I allowed myself to acknowledge that, I felt the lights in my head going out one by one, plunging everything into darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 62822,
+    "TextENGNew": "My knees buckled, and the ground felt as soft as a feather bed.",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 62823,
+    "TextENGNew": "Even as I sank into the rain-soaked mud, I felt no discomfort whatsoever.",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 62824,
+    "TextENGNew": "Ooishi rushed over, asking if I was all right, but somehow it didn't feel like it was happening to me.@k...I reached for the last remaining switch in my mind, and turned off the light.",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 62825,
+    "TextENGNew": "A long, slow exhale... and total surrender.@kDrowsiness.@k...Something softer than any blanket wrapped itself around me...",
+    "significantChanges": false
+  }
+]

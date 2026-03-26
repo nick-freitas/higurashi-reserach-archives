@@ -1,0 +1,658 @@
+[
+  {
+    "index": 1,
+    "MessageID": 7834,
+    "TextENGNew": "``Excuse me~``",
+    "significantChanges": true,
+    "changeReason": "New translation 'Excuse me~' better matches Japanese 'ごめんくださぁい' (a polite greeting when visiting someone's home), while old 'Hello?' conveys a different social action (answering/questioning).",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 7835,
+    "TextENGNew": "``Yes, yes, hello there!@k@vS20/00/VTK2_shuhuA2002. ...Oh, who might you be?``",
+    "significantChanges": true,
+    "changeReason": "New translation restructures the greeting flow and changes 'who are you?' (direct) to 'who might you be?' (polite/indirect), better matching the Japanese politeness level.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 7836,
+    "TextENGNew": "``Ah, hello.@k@vS20/02/VTK2_rena2003. My name is Ryuugu—we just moved in next door.@k@vS20/02/VTK2_rena2004. We came to introduce ourselves.@k@vS20/02/VTK2_rena2005. Pleased to meet you.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds Rena's family name 'Ryuugu' which is explicitly stated in the Japanese (竜宮と申します), and changes 'sorry' to 'hello' matching 'どうも'. The old omitted the self-introduction by name.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 7837,
+    "TextENGNew": "``Oh my, oh my!@k@vS20/00/VTK2_shuhuA2004. A young girl like you moved all the way out here?@k@vS20/00/VTK2_shuhuA2005. I see, I see—welcome!@k@vS20/00/VTK2_shuhuA2006. Mom!!@k@vS20/00/VTK2_shuhuA2007. Our new neighbor is here to say hello!!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'A young girl like you' specifying gender per the Japanese こんな若い子, where old used gender-neutral 'someone as young as you'.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 7838,
+    "TextENGNew": "``No need to shout, I can hear you just fine!@k@vS20/00/VTK2_roubaA2002. Well now, how kind of you to come all this way to greet us.``",
+    "significantChanges": true,
+    "changeReason": "New translation 'No need to shout, I can hear you just fine' conveys the grandmother's meaning more accurately — she's telling her daughter not to yell. Old 'Don't yell like that' loses the reason (I can hear fine). Also 'how kind of you to come all this way' vs 'Thank you for taking time to come over' adds specificity per わんざわざ丁寧に挨拶.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 7839,
+    "TextENGNew": "``They're the Ryuugu family.@k@vS20/00/VTK2_shuhuA2009. They just moved into the empty house next door.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 7840,
+    "TextENGNew": "``...Oooh!!@k@vS20/00/VTK2_roubaA2004. You're Reina-chan, aren't you?!@k@vS20/00/VTK2_roubaA2005. My, how you've grown!``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 7841,
+    "TextENGNew": "``Ah, ahahaha.@k@vS20/02/VTK2_rena2007. Yes, I'm Reina.@k@vS20/02/VTK2_rena2008. You remembered me? Hauu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 7842,
+    "TextENGNew": "``Mom, you know her?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 7843,
+    "TextENGNew": "``Of course I do!@k@vS20/00/VTK2_roubaA2007. Ah, you were living in Okinomiya back then, so you wouldn't know.@k@vS20/00/VTK2_roubaA2008. They used to live next door, a long time ago.@k@vS20/00/VTK2_roubaA2009. So you've come back, have you?@k@vS20/00/VTK2_roubaA2010. I suppose the village suits you better than the city!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'a long time ago' (ずいぶん前) and changes nuance from 'you probably don't remember' to 'you wouldn't know', and restructures the final line from a question to an exclamation, changing tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 7844,
+    "TextENGNew": "``I was so small when we lived here that I don't remember much...@k@vS20/02/VTK2_rena2010. but I feel like this is where I was always meant to come home to. It fills me with such nostalgia.``",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands the meaning: adds 'this is where I was always meant to come home to. It fills me with such nostalgia' reflecting the Japanese ここが私の帰ってくるところだったんだなって。とても懐かしくなります which the old translation largely omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 7845,
+    "TextENGNew": "``Then you'll settle right in!@k@vS20/00/VTK2_shuhuA2012. If there's anything we can do, just say the word!@k@vS20/00/VTK2_shuhuA2013. No need to hold back—that's the rule around here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 7846,
+    "TextENGNew": "``Ah, yes!@k@vS20/02/VTK2_rena2012. Thank you so much!``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 7847,
+    "TextENGNew": "I thought a walk around the village might jog my memory, but nothing came back to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 7848,
+    "TextENGNew": "Still, I do remember the vivid, bracing air and wind—so unlike the drowsy atmosphere of the city—and the almost blindingly lush greenery.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'so unlike the drowsy atmosphere of the city' (都会のように寝惚けていない) and 'almost blindingly lush' which were omitted in the old, significantly expanding the description per the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 7849,
+    "TextENGNew": "I may not remember the village, but I know with certainty... that this is the hometown I was meant to return to.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 7850,
+    "TextENGNew": "...Faint red lines still mark parts of my body.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 7851,
+    "TextENGNew": "But they've faded to mere traces—if I close my eyes and run my fingers over them, I can no longer tell they're there.",
+    "significantChanges": true,
+    "changeReason": "New translation 'faint red lines still mark parts of my body' is more specific than 'Red scars still remain on my body' — 'lines' vs 'scars' and 'faint' vs no qualifier changes the reader's mental image.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 7852,
+    "TextENGNew": "Before long, even those last traces will vanish without my noticing.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands: 'if I close my eyes and run my fingers over them, I can no longer tell they're there' captures the Japanese detail (目をつぶってそこを撫でてみても) that the old 'I can't even feel them' mostly compressed.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 7853,
+    "TextENGNew": "Being back in Hinamizawa, I sometimes wonder who I even was during those days in Ibaraki.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 7854,
+    "TextENGNew": "...No—perhaps I stopped being myself from the moment I left Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 7855,
+    "TextENGNew": "And by returning here, I've finally reclaimed my true self...",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'No—perhaps' and 'from the moment I left Hinamizawa' (specifying the place, matching 雛見沢から出て行った時から), giving more detail than old 'from the moment I left'.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 7856,
+    "TextENGNew": "When I try to recall who I was in Ibaraki, the memories come back only as a dim blur.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 7857,
+    "TextENGNew": "...That's probably because of that strange red medicine.",
+    "significantChanges": true,
+    "changeReason": "New translation 'that strange red medicine' adds 'strange' (赤い変な薬 — 変な means strange/weird) which old omitted, changing characterization of the medicine.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 7858,
+    "TextENGNew": "The medicine erased all of my painful memories.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 7859,
+    "TextENGNew": "But... perhaps that was for the best.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 7860,
+    "TextENGNew": "Back then, what I wanted more than anything was forgiveness.",
+    "significantChanges": true,
+    "changeReason": "New translation 'what I wanted more than anything was forgiveness' vs 'I just wanted to be forgiven' shifts emphasis and intensity, conveying the Japanese 許しが欲しかったに違いないのだから more accurately.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 7861,
+    "TextENGNew": "I couldn't forgive my mother. I couldn't forgive Uncle Akihito. And most of all, I couldn't forgive myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 7862,
+    "TextENGNew": "I wanted someone—anyone—to tell me that I wasn't to blame.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 7863,
+    "TextENGNew": "I wanted to be forgiven.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 7864,
+    "TextENGNew": "...And then, Oyashiro-sama apologized to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 7865,
+    "TextENGNew": "She told me this was all because of Oyashiro-sama's curse—that I was not at fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 7866,
+    "TextENGNew": "And that was how I was able to forgive myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 7867,
+    "TextENGNew": "...That was how I was spared from tearing open every vein in my body and bleeding out to death.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands: 'I was spared from tearing open every vein in my body and bleeding out to death' vs old 'I didn't have to die by tearing my blood vessels out of my body' — adds vivid detail (bleeding out to death) matching だから...死なずに済んだんだ.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 7868,
+    "TextENGNew": "...I think that when people become too tainted, they feel they must die.",
+    "significantChanges": true,
+    "changeReason": "New translation 'when people become too tainted, they feel they must die' vs old 'people have to die because they become corrupted' — shifts from absolute statement to psychological experience, different understanding of the philosophy.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 7869,
+    "TextENGNew": "That's why people live carefully, trying to keep themselves free of corruption.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 7870,
+    "TextENGNew": "And yet here I am, tainted as I am, still alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 7871,
+    "TextENGNew": "I have been allowed to live.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 7872,
+    "TextENGNew": "...Is there still taint clinging to me?",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 7873,
+    "TextENGNew": "Or has it been completely cleansed?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 7874,
+    "TextENGNew": "...I don't know.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 7875,
+    "TextENGNew": "The only thing I know for certain is that the 'me' who lived in Ibaraki and the 'me' standing here now are two different people.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 7876,
+    "TextENGNew": "And the me who stands here now no longer feels that compulsion—that sense of duty to tear herself apart because the taint has become too much to bear...",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 7877,
+    "TextENGNew": "That evening, after we'd more or less finished arranging furniture and unpacking, we had a late dinner.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands: 'the me who stands here now no longer feels that compulsion—that sense of duty to tear herself apart because the taint has become too much to bear' vs old 'I no longer feel the need to take responsibility by ripping myself apart because of the filth'. The new explicitly conveys 'compulsion/sense of duty' (使命感) and 'too much to bear' (耐えかねて).",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 7878,
+    "TextENGNew": "Though Hinamizawa exists only as hazy fragments in my memory, Dad seems to remember it as clearly as if it were yesterday.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 7879,
+    "TextENGNew": "``Back when we lived in Hinamizawa, there was already an event called the Watanagashi, and apparently it's grown into quite a large festival now.@k@vS20/00/VTK2_renaF2002. It's held toward the end of June, they say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 7880,
+    "TextENGNew": "``...Watanagashi?``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 7881,
+    "TextENGNew": "``I never saw it myself, so I'm not entirely sure, but supposedly people let cotton absorb the impurities from their bodies and then set it adrift in the stream.``",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'filth on their bodies' to 'impurities from their bodies' — 'impurities' vs 'filth' is a consistent terminology shift throughout this file that changes the reader's understanding of the concept. This is a thematic vocabulary change.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 7882,
+    "TextENGNew": "Absorb the impurities... and wash them away.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Absorb the impurities... and wash them away' vs old 'Absorb the filth' — adds the washing away part that exists in the Japanese (流す) and uses 'impurities' vs 'filth'.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 7883,
+    "TextENGNew": "``...So impurities can simply be washed away like that?``",
+    "significantChanges": true,
+    "changeReason": "New translation changes from direct statement to wondering question: 'So impurities can simply be washed away like that?' vs 'You can wash your filth down the stream, huh?' — different register and tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 51,
+    "MessageID": 7884,
+    "TextENGNew": "``Ahaha, well, of course.@k@vS20/00/VTK2_renaF2005. Humans are sinful creatures, after all.@k@vS20/00/VTK2_renaF2006. Supposedly, just by living each day, impurities accumulate upon us.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 7885,
+    "TextENGNew": "And once a year, you cleanse your body by having the cotton absorb all of it and then casting it away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 7886,
+    "TextENGNew": "People become burdened with impurity and sin through their misdeeds.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 7887,
+    "TextENGNew": "The law may settle crimes through imprisonment and the like, but that doesn't mean the cross of sin—the taint—ever truly disappears.",
+    "significantChanges": true,
+    "changeReason": "New translation 'the cross of sin—the taint—ever truly disappears' vs old 'the burden of sin, of the filth, will just go away' — 'cross' (十字架) is literally 'cross' in Japanese, not 'burden'.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 7888,
+    "TextENGNew": "In other words... in this human world, human hands cannot purge human taint.",
+    "significantChanges": true,
+    "changeReason": "New translation 'human hands cannot purge human taint' vs 'human hands can't erase human filth' — consistent terminology shift.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 7889,
+    "TextENGNew": "...Since humans cannot remove it themselves, the only recourse is to leave this world and have it purged by a god in another realm.",
+    "significantChanges": true,
+    "changeReason": "Old omits この世を去り ('leave this world'/die): says 'we need a god from a different world' while JPN says 'the only recourse is to leave this world and have it purged by a god in another realm.'",
+    "changeScore": 4
+  },
+  {
+    "index": 57,
+    "MessageID": 7890,
+    "TextENGNew": "...That was what I had always believed.",
+    "significantChanges": true,
+    "changeReason": "New translation 'That was what I had always believed' vs 'That's what I thought' — 'always believed' is stronger/more ongoing than 'thought'.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 7891,
+    "TextENGNew": "But... the Watanagashi came as a revelation.",
+    "significantChanges": true,
+    "changeReason": "New translation 'the Watanagashi came as a revelation' vs 'I'm surprised to learn about Watanagashi' — 'revelation' carries much stronger religious/spiritual connotation than 'surprised'.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 7892,
+    "TextENGNew": "Right here in the human world, human hands can purge human taint.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 7893,
+    "TextENGNew": "Letting cotton absorb the impurity and sending it down the stream.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 7894,
+    "TextENGNew": "...That means it is permissible to go on living in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 7895,
+    "TextENGNew": "I tried to end my life because I could not forgive myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 7896,
+    "TextENGNew": "Oyashiro-sama apologized to me, forgave me, and urged me to return to Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'forgave me, and urged me to return to Hinamizawa' — the old omitted 許し (forgave) and 帰ることを勧めてくれた (urged to return), which are key story details.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 7897,
+    "TextENGNew": "And here in Hinamizawa, there exists the Watanagashi—a purification ritual to cleanse away taint.",
+    "significantChanges": true,
+    "changeReason": "New translation 'a purification ritual to cleanse away taint' vs 'a ceremony to get rid of filth' — 'purification ritual' and 'taint' vs 'ceremony' and 'filth' are consistent but also add specificity about the ritual nature.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 7898,
+    "TextENGNew": "...This is no coincidence.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 7899,
+    "TextENGNew": "Hinamizawa is... a place that washes away taint.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 7900,
+    "TextENGNew": "A place that forgives sin.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 7901,
+    "TextENGNew": "A village of forgiveness.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 7902,
+    "TextENGNew": "``That sort of thing is called a purification ritual.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 7903,
+    "TextENGNew": "``...Ah, I think I've heard of those before.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 7904,
+    "TextENGNew": "``Japanese culture is extraordinarily strict when it comes to impurity.@k@vS20/00/VTK2_renaF2010. It does not permit anyone bearing taint to remain in the public eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 7905,
+    "TextENGNew": "Look—when a politician or company president is caught in corruption, they resign immediately. That's the same principle.@k@vS20/00/VTK2_renaF2012. Those who are tainted must withdraw from public life.@k@vS20/00/VTK2_renaF2013. ...To put it harshly, the taint is dumped onto one person, and that person is made to take the fall.``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 7906,
+    "TextENGNew": "Sin and impurity must be eradicated.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 7907,
+    "TextENGNew": "And so people desperately push their sin onto someone else, then cast that person out—erasing the taint by discarding the person along with it.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 7908,
+    "TextENGNew": "But if that's the case, every time taint arises, there would be an ugly scramble to shove responsibility onto someone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 7909,
+    "TextENGNew": "...That would be hideous to behold—like seeing demons walking among humans.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 7910,
+    "TextENGNew": "And so, the idea emerged: instead of pushing taint onto a person... push it onto cotton.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 7911,
+    "TextENGNew": "By doing so, people could go on living without forcing any single person to bear all the responsibility, sin, and taint.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 7912,
+    "TextENGNew": "...Making one person shoulder everyone's sins and then killing them—that is essentially a sacrifice.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 7913,
+    "TextENGNew": "No one wants to be a sacrifice.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 7914,
+    "TextENGNew": "That's why people desperately, desperately try to push their sins onto someone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 7915,
+    "TextENGNew": "The purification ritual replaces the human sacrifice with something non-human.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 7916,
+    "TextENGNew": "Purification brought a revolutionary change to a Japanese culture that had always believed someone had to be sacrificed.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 7917,
+    "TextENGNew": "It means that even when taint descends, everyone can go on living without blaming anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 7918,
+    "TextENGNew": "Taint can be forgiven by means other than death.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 7919,
+    "TextENGNew": "Only a being higher than humans can grant that forgiveness.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 7920,
+    "TextENGNew": "I was forgiven by Oyashiro-sama and returned to this place.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 7921,
+    "TextENGNew": "And here awaits the Watanagashi—the purification ceremony.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 7922,
+    "TextENGNew": "Letting cotton absorb the taint from my body and washing it away.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 7923,
+    "TextENGNew": "No sacrifice of my own body is required.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 7924,
+    "TextENGNew": "That is why I have been allowed to live.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 7925,
+    "TextENGNew": "The tainted me has been swept away in the stream... so the me standing here is no longer Reina Ryuugu.",
+    "significantChanges": true,
+    "changeReason": "New translation 'The tainted me has been swept away in the stream' vs 'The filthy me has drifted away' — 'swept away in the stream' adds specific reference to the Watanagashi stream.",
+    "changeScore": 2
+  },
+  {
+    "index": 93,
+    "MessageID": 7926,
+    "TextENGNew": "If I'm not Reina... then I am Ryuugu... who?",
+    "significantChanges": true,
+    "changeReason": "New translation 'If I'm not Reina... then I am Ryuugu... who?' vs old 'If I'm not Reina, then who am I?' — new preserves the Japanese structure where she says her family name then pauses, creating a different dramatic effect and showing her thought process.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 7927,
+    "TextENGNew": "Without taint, without all the ugly things—what is my name?",
+    "significantChanges": true,
+    "changeReason": "New translation 'Without taint, without all the ugly things—what is my name?' vs 'If I'm without filth, without all the icky things, who am I?' — 'icky' to 'ugly' changes tone from childish to serious.",
+    "changeScore": 2
+  },
+  {
+    "index": 95,
+    "MessageID": 7928,
+    "TextENGNew": "...A name drifted vaguely through my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 7929,
+    "TextENGNew": "It was simply my name, Reina, with a single character removed... but somehow it felt endearing.",
+    "significantChanges": true,
+    "changeReason": "New translation 'It was simply my name, Reina, with a single character removed... but somehow it felt endearing' vs 'My new name, that only removes one of the letters from Reina, but I think it's a cute name' — 'endearing' vs 'cute' and different framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 97,
+    "MessageID": 7930,
+    "TextENGNew": "All the 'i'-rritating things have been erased and forgiven.",
+    "significantChanges": true,
+    "changeReason": "New translation 'All the i-rritating things' vs 'All the i-cky things' — different wordplay. Japanese uses い (i) from いや (iya = unpleasant). Both attempt to preserve the pun but with different English words.",
+    "changeScore": 2
+  },
+  {
+    "index": 98,
+    "MessageID": 7931,
+    "TextENGNew": "So I am no longer Reina.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 7932,
+    "TextENGNew": "My name is...",
+    "significantChanges": false
+  }
+]

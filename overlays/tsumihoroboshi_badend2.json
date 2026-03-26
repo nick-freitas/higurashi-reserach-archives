@@ -1,0 +1,62 @@
+[
+  {
+    "index": 1,
+    "MessageID": 91525,
+    "TextENGNew": "``Goodbye, Keiichi-kun.@k@vS09/02/170201649_2. ...You can still apologize to me, you know?``",
+    "significantChanges": true,
+    "changeReason": "The original adds 'when you have the chance' (implying a future opportunity) not in the Japanese; the source 謝ってもいいよ？ is a gentle, almost teasing offer ('you can apologize, you know?') with a questioning tone that the new version captures better.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 91526,
+    "TextENGNew": "Damn it...!!",
+    "significantChanges": true,
+    "changeReason": "The original uses 'Fuck' which is stronger profanity than the Japanese ちきしょう (damn it/dammit), escalating the vulgarity beyond what the source text conveys.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 91527,
+    "TextENGNew": "This was no time to be wasting around here.",
+    "significantChanges": true,
+    "changeReason": "The original uses past tense 'I wasn't supposed to be' framing it as a reflection on past error, while the Japanese 場合じゃない expresses present-tense urgency ('this is not the situation for'), which the new version captures.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 91528,
+    "TextENGNew": "If I don't hurry, ...the timed incendiary device Rena planted is going to......!!!",
+    "significantChanges": true,
+    "changeReason": "The original translates 時限発火装置 (timed incendiary/ignition device) as 'explosive device,' which describes a different type of weapon; the Japanese specifically refers to a fire-starting device, not a bomb.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 91529,
+    "TextENGNew": "``Keiichi-saaan, we're out of tiiiiime!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 91530,
+    "TextENGNew": "And then, just as Satoko let out that anguished scream, it happened.",
+    "significantChanges": true,
+    "changeReason": "The original translates 悲痛な (anguished/grief-stricken) as 'desperate,' which conveys urgency/hopelessness rather than the grief and pain the Japanese expresses. The new version also completes the sentence with 'it happened' rather than leaving it as a fragment.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 91531,
+    "TextENGNew": "Everything before my eyes vanished from the world.",
+    "significantChanges": true,
+    "changeReason": "The original adds 'into the void' as a destination not present in the Japanese source, which simply states everything disappeared from the world before his eyes. This addition introduces a metaphysical element absent from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 91532,
+    "TextENGNew": "And so did I................",
+    "significantChanges": false
+  }
+]

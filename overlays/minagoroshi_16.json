@@ -1,0 +1,2080 @@
+[
+  {
+    "index": 1,
+    "MessageID": 104745,
+    "TextENGNew": "Whether owing to our petition or not, Satoko came to school today.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 104746,
+    "TextENGNew": "\"Satoko... we were so worried about you...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 104747,
+    "TextENGNew": "\"Are you really sure nothing happened to you these past three days?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 104748,
+    "TextENGNew": "\"...The fever just wouldn't break the entire time. ...I am sorry for causing you all such trouble...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 104749,
+    "TextENGNew": "Without anyone even asking, Satoko began explaining why she had been absent.",
+    "significantChanges": true,
+    "changeReason": "Japanese 聞いてもないのに ('even though no one asked') is omitted in the old translation; new version correctly conveys that Satoko volunteered the explanation unprompted.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 104750,
+    "TextENGNew": "...And she gave the same explanation to everyone who spoke to her in class.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Nobody had even asked her that' which is the opposite of JPN クラスの誰に話しかけられても同じようだった (she gave the same response to everyone who spoke to her).",
+    "changeScore": 5
+  },
+  {
+    "index": 7,
+    "MessageID": 104751,
+    "TextENGNew": "\"Satoko. ...............You've been doing incredibly well.\"",
+    "significantChanges": true,
+    "changeReason": "Japanese よく頑張ってるな is praising past effort ('you've been doing so well') not encouraging future effort ('do your best'); the new translation corrects this.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 104752,
+    "TextENGNew": "\"...Of course I have. ...I can manage on my own, even without Nii-nii...\"",
+    "significantChanges": true,
+    "changeReason": "Japanese 当然ですわ followed by 私は一人でがんばれますもの is affirming she CAN manage alone; old 'Of course I will' implies future intent while new 'Of course I have' better matches the self-affirming tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 104753,
+    "TextENGNew": "I slowly, carefully reached out my hand... toward her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 104754,
+    "TextENGNew": "\"As a reward for bearing all of this so bravely... I'm going to pat your head. ...Do you mind...?\"",
+    "significantChanges": true,
+    "changeReason": "Japanese よく耐えて ('enduring well') specifically references Satoko's suffering; old translation's generic 'doing your best' loses this specificity.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 104755,
+    "TextENGNew": "\"...........................\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 104756,
+    "TextENGNew": "Satoko said nothing, but she made no move to pull away.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 104757,
+    "TextENGNew": "I gently, softly patted her head.",
+    "significantChanges": true,
+    "changeReason": "Japanese 撫でてやる means 'to pat/stroke'; old translation says 'put my hand on her head' which describes a different, static action.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 104758,
+    "TextENGNew": "She sat there silent and unmoving—until all at once, a single tear rolled down her cheek.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 104759,
+    "TextENGNew": "For just a moment I thought she must hate being touched.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 104760,
+    "TextENGNew": "...But no. ...I had it exactly backwards.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 104761,
+    "TextENGNew": "If I pulled my hand away now, that would be what hurt her.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 104762,
+    "TextENGNew": "Satoko felt it her duty to endure alone, without relying on Nii-nii.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 104763,
+    "TextENGNew": "...But that didn't mean she wanted no help from anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 104764,
+    "TextENGNew": "So she couldn't openly accept the comfort of a hand on her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 104765,
+    "TextENGNew": "...All she could do was weep in silence, her tears falling without permission.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 104766,
+    "TextENGNew": "\"........Satoko-chan. ...We won't tell anyone if you cry right now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 104767,
+    "TextENGNew": "When Rena said that, Satoko stopped holding back her tears.",
+    "significantChanges": true,
+    "changeReason": "Both describe Satoko crying, but old's 'crying like a baby' mischaracterizes the dignified release of emotion described by JPN 零す涙を躊躇わなかった (no longer hesitated to let tears fall).",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 104768,
+    "TextENGNew": "I felt a small wave of relief knowing it was not yet too late.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 104769,
+    "TextENGNew": "...The fatal wound I had feared in that other world had not yet been carved into her.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 104770,
+    "TextENGNew": "And yet, watching those tears fall renewed my conviction—that to stop them, I would face the whole world as my enemy if I had to, and I would get her out of this as fast as I possibly could.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 104771,
+    "TextENGNew": "\"...Satoko, ...everyone is going to help you. ...I promise.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 104772,
+    "TextENGNew": "\"...........................\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 104773,
+    "TextENGNew": "The noise of the classroom must have reached the staff room, because Chie-sensei came rushing in.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 104774,
+    "TextENGNew": "\"Houjou-san...! Are you feeling better now...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 104775,
+    "TextENGNew": "Whether she had really been sick was doubtful—everyone knew that, including the teacher.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 104776,
+    "TextENGNew": "\"Yes... I am quite well, thank you. ...I am so sorry for worrying you all. I'm perfectly fine now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 104777,
+    "TextENGNew": "\"Will you be... able to come to school regularly from now on...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 104778,
+    "TextENGNew": "\"Yes. ...So please, truly... there is no need to worry about me any further. ...There is no need to speak to anyone from the consultation center either...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 104779,
+    "TextENGNew": "\"...Houjou-san. ...If things ever become too much to bear, please come to my home. ...I'm on your side. You are welcome there any time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 104780,
+    "TextENGNew": "\"We can't let Chie-sensei be the only one to swoop in here! Satoko—every single one of us here is on your side!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 104781,
+    "TextENGNew": "\"That's right. Please, feel free to come to my apartment too. I have a spare room—you can treat it as your very own!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 104782,
+    "TextENGNew": "\"...That won't do. Satoko is Boku's little charge—she has to come back to Boku's house. Nipah~☆\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 104783,
+    "TextENGNew": "\"See? You're not alone. Everyone here is fighting desperately to help you right now...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 104784,
+    "TextENGNew": "But...@kNo matter how desperately we tried, there was no telling whether it would be enough.",
+    "significantChanges": true,
+    "changeReason": "Old adds reference to 'child consultation center' not present in this line's JPN; new correctly captures the general uncertainty of whether their efforts will be enough.",
+    "changeScore": 4
+  },
+  {
+    "index": 41,
+    "MessageID": 104785,
+    "TextENGNew": "\"...Your feelings are more than sufficient... I truly am all right...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 104786,
+    "TextENGNew": "\"That's a lie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 104787,
+    "TextENGNew": "Rena was smiling, but her words were sharp as a blade.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 104788,
+    "TextENGNew": "\"You are not all right, Satoko-chan. You haven't fooled any of us. Every single person here—and many, many more beyond this room—knows that you are suffering and in pain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 104789,
+    "TextENGNew": "\"That's why we're standing up and doing everything we can to help you. We're all reaching out our hands to pull you free from the grief you're drowning in.\"",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'we can't save you without you helping too'; Japanese says 'that alone isn't enough to save you' - the emphasis is on limitations of one-sided effort, not on Satoko needing to help.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 104790,
+    "TextENGNew": "\".........But that alone isn't enough to save you, Satoko-chan!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 104791,
+    "TextENGNew": "\"She's right, Satoko...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 104792,
+    "TextENGNew": "\"All of us want to save you—but we can't do it if you won't let us...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 104793,
+    "TextENGNew": "\"...A long time ago, I was in the opposite position. I thought no one could ever save me. I thought whatever I was doing was the only path open to me. And because I believed that, I couldn't accept the hands my friends held out.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 104794,
+    "TextENGNew": "\"But then—I can't even picture the face anymore—someone said something to me!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 104795,
+    "TextENGNew": "\"The world you truly want is right there in front of you. But to reach it, the people on the other side and you yourself both have to stretch your hands out toward each other!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 104796,
+    "TextENGNew": "\"It means nothing if only we reach out! So please, Satoko-chan! You reach out too!! Only when we've grabbed hold of each other's hands can we return to the world we want!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 104797,
+    "TextENGNew": "\".........Rena... ...who told you that...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 104798,
+    "TextENGNew": "\"...Aha ha... I can't remember. It must have been before I started kindergarten—I don't remember when or where or who.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 104799,
+    "TextENGNew": "\"...But the feeling I had in that moment—I can still recall it perfectly, even now. I think it's because of the feeling that came from those words that I'm still here today.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 104800,
+    "TextENGNew": "\"...........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 104801,
+    "TextENGNew": "\"That's right. ...Whoever said that to Rena wasn't wrong. Satoko, you've convinced yourself that refusing to ask for help is the stronger choice. You think it's the best thing you can do. But listen—you're wrong about that!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 104802,
+    "TextENGNew": "\"Look at yourself in a mirror. Is that the face of someone who's grasped the world she wanted?! Of course it isn't!! You don't want any part of this world, not in the slightest!! We can take you back to where you belong!!\"",
+    "significantChanges": true,
+    "changeReason": "Japanese 望んだ世界を掴んだ顔か asks if that's the face of someone who obtained the world they wanted; old translation's 'the face you want to wear' misses this metaphorical meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 104803,
+    "TextENGNew": "\"And we're reaching out our hands!! Those hands are stretched right up to your very nose...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 104804,
+    "TextENGNew": "\"But we can't make that last little gap. If we could reach you, we'd grab you by the hair and drag you out!! But we can't close it!! So you have to grab us—you have to be the one to grab on!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 104805,
+    "TextENGNew": "\"Don't you dare give up just because you think no one's within reach!! My hand—no, all of our hands are right there in front of your nose!! So take them!!\"",
+    "significantChanges": true,
+    "changeReason": "Old translation omits the key statement about not giving up; Japanese says 'don't you dare resign yourself because you think no one's within reach' which the new translation preserves.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 104806,
+    "TextENGNew": "\"All you have to do is stretch out your hand—we'll pull you up from there into the world that used to make us all happy!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 104807,
+    "TextENGNew": "\"...........................\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 104808,
+    "TextENGNew": "...And yet... Satoko did not reach out her hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 104809,
+    "TextENGNew": "She only stared at the hand held before her with an expression like a prayer.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 104810,
+    "TextENGNew": "...She wavered between reaching out and staying still, so intensely that her fingertips trembled... yet she would not reach out...!",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 104811,
+    "TextENGNew": "Every animal instinct in me wanted to howl out my anger—but that would only frighten her.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 104812,
+    "TextENGNew": "If I did that, she would never reach out to me again.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 104813,
+    "TextENGNew": "...So all I could do was hold my hand out and wait... and wait for Satoko to reach out in turn...",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 104814,
+    "TextENGNew": "\"......Thank you so much. ...I truly am grateful. .........But... I really am perfectly fine. ...I really am... ngh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 104815,
+    "TextENGNew": "\"...S-... Satoko...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 104816,
+    "TextENGNew": "\"...She just... needs a little more time...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 104817,
+    "TextENGNew": "Satoko needed time to sort out what was in her heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 104818,
+    "TextENGNew": "...And meanwhile, the deadline for action crept ever closer, merciless and without regard for any of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 104819,
+    "TextENGNew": "...What made it so painful was that Satoko herself didn't seem to understand that.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 104820,
+    "TextENGNew": "At that moment, heavy, clamorous footsteps approached along the entrance corridor.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 104821,
+    "TextENGNew": "Without seeing who it was, we students could tell at once from the sound that it was the principal.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 104822,
+    "TextENGNew": "So I couldn't understand why Satoko flinched as if an electric current had run through her.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 104823,
+    "TextENGNew": "The sliding door flew open with a crash, and the principal appeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 104824,
+    "TextENGNew": "His expression seemed to carry relief at seeing Satoko back in school after three days.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 104825,
+    "TextENGNew": "But Satoko's reaction was dramatic to the point of being disturbing.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 104826,
+    "TextENGNew": "She let out a scream of pure, wordless, ground-up terror and ran to the corner of the classroom, throwing herself against the curtains.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 104827,
+    "TextENGNew": "No one in the room could make any sense of what she had done.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 104828,
+    "TextENGNew": "...At the very least, none of us imagined for a second that it had anything to do with the principal's arrival.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 104829,
+    "TextENGNew": "But the principal alone seemed to realize it.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 104830,
+    "TextENGNew": "He noticed that Satoko was cowering in fear at the sight of him.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 104831,
+    "TextENGNew": "\"H-... Houjou-kun... are you all right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 104832,
+    "TextENGNew": "He spoke to her with as much gentleness as he could muster, but Satoko's fear did not abate.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 104833,
+    "TextENGNew": "Gradually... I began to understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 104834,
+    "TextENGNew": "Satoko was terrified of the principal.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 104835,
+    "TextENGNew": "I could imagine her mistaking the sound of heavy footsteps in the hallway for her uncle—but even now that he'd shown himself and spoken to her, she was still afraid. That wasn't normal.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 104836,
+    "TextENGNew": "...In that abnormal reaction, I came to understand just how deeply cornered Satoko's mind had become.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 104837,
+    "TextENGNew": "In the midst of it all, I heard Rika-chan holding Satoko and whispering into her ear.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 104838,
+    "TextENGNew": "\"...Calm down, Satoko. ...Did you take your injection this morning...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 104839,
+    "TextENGNew": "\"Waaaaaaaaah!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 104840,
+    "TextENGNew": "\"Nii-nii, Nii-nii!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 104841,
+    "TextENGNew": "\"Injection...? ...What are you talking about, Rika-chan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 104842,
+    "TextENGNew": "\"...Keiichi, go call Irie right now. Just tell him it's an emergency with Satoko—he'll understand. Hurry!! Chie, let's get Satoko to the nurse's office...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 104843,
+    "TextENGNew": "\"What's wrong, Satoko-chan?! Satoko-chan!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 104844,
+    "TextENGNew": "\"Let's get Irie here!! She needs a doctor!! —Does anyone have his number?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 104845,
+    "TextENGNew": "\"I do!! Let's use the phone in the staff room!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 104846,
+    "TextENGNew": "After confirming that Mion had gone to make the call, I headed to the nurse's office.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 104847,
+    "TextENGNew": "A crowd of students had spilled out in front of the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 104848,
+    "TextENGNew": "It looked as though Chie-sensei had been pushing out the ones who had tried to enter.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 104849,
+    "TextENGNew": "I slipped past her and got inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 104850,
+    "TextENGNew": "Satoko lay on the bed in the nurse's office.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'still shaking with fear' not present in the Japanese; the core content about Satoko lying on the bed is correct in both versions.",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 104851,
+    "TextENGNew": "Rena and Rika-chan were at her side.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 104852,
+    "TextENGNew": "...Thinking I might startle her, I kept my voice low.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 104853,
+    "TextENGNew": "\"...Is Satoko... all right...? ...What on earth happened...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 104854,
+    "TextENGNew": "\"...Mm. ...I'm not sure exactly, but... she seems to have mistaken the principal for her uncle.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 104855,
+    "TextENGNew": "Hearing it put that way, I could see how it happened—but it was still hard to accept.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 104856,
+    "TextENGNew": "After all, it was one thing to mishear footsteps in the hallway, but the principal had appeared in plain sight and spoken to her in a kind voice.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits the distinction between mishearing footsteps vs. seeing the person; Japanese explicitly contrasts these two situations which the new translation preserves.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 104857,
+    "TextENGNew": "To still mistake him for her uncle even then... that stretched belief.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 104858,
+    "TextENGNew": "\"...When there's a single dark spot on a wall, what does it look like to you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 104859,
+    "TextENGNew": "\"What?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 104860,
+    "TextENGNew": "\"...Someone who hates flies will think it's a fly. Someone who hates spiders will think it's a spider. Someone who hates cockroaches will think it's a cockroach.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 104861,
+    "TextENGNew": "\"...When people encounter something they can't identify, they unconsciously and powerfully expect it to be the thing they fear most.\"",
+    "significantChanges": true,
+    "changeReason": "Japanese describes people unconsciously trying to confirm an unidentified thing ISN'T their worst fear (which ironically makes them expect it); old translation loses this psychological mechanism.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 104862,
+    "TextENGNew": "\"You mean she heard the principal's footsteps and her mind immediately leapt to her uncle?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 104863,
+    "TextENGNew": "\"B-but... she was still frightened even after he showed himself...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 104864,
+    "TextENGNew": "\"...The part of Satoko's illness that makes it so difficult is that once she forms a mistaken impression, she cannot shake it easily.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 104865,
+    "TextENGNew": "What kind of illness...?",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 104866,
+    "TextENGNew": "Rika-chan was gently speaking to Satoko while holding her hand.",
+    "significantChanges": true,
+    "changeReason": "Old translation adds fabricated details about 'trying to ask' and 'Satoko becoming even more frightened' not in the Japanese; new translation accurately describes Rika's gentle comforting.",
+    "changeScore": 5
+  },
+  {
+    "index": 123,
+    "MessageID": 104867,
+    "TextENGNew": "Rena tapped me on the shoulder.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 104868,
+    "TextENGNew": "The message was clear: leaving Satoko in Rika-chan's care was the right thing to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 104869,
+    "TextENGNew": "Seeing Satoko flinch at every approaching footstep, convinced each time it was her uncle—it was hard to argue with that.",
+    "significantChanges": true,
+    "changeReason": "Old translation simplifies to 'I agreed with her. Satoko was in tremendous shock'; Japanese describes understanding by watching Satoko flinch at every footstep, mistaking each for her uncle.",
+    "changeScore": 3
+  },
+  {
+    "index": 126,
+    "MessageID": 104870,
+    "TextENGNew": "\"...We'll head back to class...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 104871,
+    "TextENGNew": "\"...Yes, please.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 104872,
+    "TextENGNew": "Rena and I left the nurse's office.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 104873,
+    "TextENGNew": "Out in the hallway, our classmates were still pressing Chie-sensei with questions.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 104874,
+    "TextENGNew": "When they saw us come out, they rushed over asking how Satoko was.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 104875,
+    "TextENGNew": "\"Let's leave it to Rika-chan for now, everyone. ...Satoko is in a very frightened state right now. So please don't do anything to startle her. All this commotion out here is probably frightening her too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 104876,
+    "TextENGNew": "\"...Let's go back to class. Irie will be here soon and he'll see how she's doing. You got through to him, right, Mii-chan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 104877,
+    "TextENGNew": "\"Yeah. He said he'd be here right away. Said to let Rika-chan take care of things and keep Satoko calm... and absolutely not to let her leave the nurse's office...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 104878,
+    "TextENGNew": "\"All right, everyone back to class! It's time to start homeroom!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 104879,
+    "TextENGNew": "While the teacher took attendance and relayed the morning announcements, a car pulled up outside with its brakes squealing.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 104880,
+    "TextENGNew": "Everyone's attention was pulled away from the teacher.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 104881,
+    "TextENGNew": "Three people in white coats got out of the vehicle.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 104882,
+    "TextENGNew": "Irie was in the lead, and he ran toward the school building with an air of urgency.",
+    "significantChanges": true,
+    "changeReason": "Old translation describes inability to 'organize information'; Japanese describes an illness where misperceptions become difficult to shake, which is a different cognitive process.",
+    "changeScore": 3
+  },
+  {
+    "index": 139,
+    "MessageID": 104883,
+    "TextENGNew": "There were three of them, which surprised everyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 104884,
+    "TextENGNew": "It made us afraid that Satoko's condition was far worse than any of us had imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 104885,
+    "TextENGNew": "Chie-sensei seemed to feel the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 104886,
+    "TextENGNew": "She left the class to the representative student and hurried out to check on the situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 104887,
+    "TextENGNew": "But about ten minutes later, Satoko came quietly back into the classroom—which caught us all off guard.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 104888,
+    "TextENGNew": "Her expression was still sunken and dark, the same as it had been all morning, but the panic she had fallen into before was gone without a trace.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 104889,
+    "TextENGNew": "\"...Satoko! Are you sure you should be up already? I think you should rest a bit longer!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 104890,
+    "TextENGNew": "\"I am sorry for worrying you all... I am perfectly fine now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 104891,
+    "TextENGNew": "\"...Satoko-chan...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 104892,
+    "TextENGNew": "Everyone continued to show concern, but Satoko seemed bothered by the special treatment—she wore the look of someone who wanted to be left alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 104893,
+    "TextENGNew": "When Chie-sensei returned, I used the moment to slip out into the hallway and intercept Irie and his team as they were leaving the nurse's office.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 104894,
+    "TextENGNew": "I found him in the middle of a conversation with Rika-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 104895,
+    "TextENGNew": "\"...Coach. ...Is Satoko really going to be all right...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 104896,
+    "TextENGNew": "\"Maebara-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 104897,
+    "TextENGNew": "\"...Yes, she is fine for the moment. Please keep a close watch on her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 104898,
+    "TextENGNew": "\"...It was just a small episode. She's all right now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 104899,
+    "TextENGNew": "\"Episode...? Is... is that what they call it...? By the way, a moment ago you mentioned something about her being ill...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 104900,
+    "TextENGNew": "\"...Well, I must be going. Please call me if anything else happens.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 104901,
+    "TextENGNew": "Irie cut the conversation off unilaterally, gave a perfunctory bow, and left.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 104902,
+    "TextENGNew": "When I'd tried to bring up Satoko's condition, he had seemed almost eager to avoid answering.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 104903,
+    "TextENGNew": "\"...Keiichi. ...Can you promise to keep this between us?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 104904,
+    "TextENGNew": "\"What? ...Oh—...yeah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 104905,
+    "TextENGNew": "\"...Satoko has had a mild illness for the past several years. She has been receiving treatment for it continuously.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 104906,
+    "TextENGNew": "That was a genuine surprise.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 104907,
+    "TextENGNew": "...If it had been going on for several years, then she had already been undergoing treatment when I first met her. ...And yet I had never once sensed anything like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 104908,
+    "TextENGNew": "\"...The illness cannot be easily cured. ...But as long as she receives the right medication and treatment, she can live an entirely normal life.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 104909,
+    "TextENGNew": "\"I see... Well, that means it's under control, then. I had absolutely no idea she was sick until you just told me. If she can be as lively as she always is, then that's enough, isn't it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 104910,
+    "TextENGNew": "Given the state she was in right now, it was hard to use the word \"lively\" without some reservations.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 104911,
+    "TextENGNew": "But what exactly was the nature of Satoko's illness...?",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 104912,
+    "TextENGNew": "\"...Satoko actually needs to take two injections every day. ...But this morning, because her uncle had been tormenting her, she forgot to take her morning injection.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 104913,
+    "TextENGNew": "\"You mean... if she misses even one injection, she ends up in a state like what we just saw...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 104914,
+    "TextENGNew": "Rika-chan gave a small nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 104915,
+    "TextENGNew": "It was a considerable shock.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 104916,
+    "TextENGNew": "The Satoko I knew was a headstrong, bursting-with-energy girl, always bounding around like a rubber ball.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 104917,
+    "TextENGNew": "And all it took was missing one of her two daily injections to reduce her to this...",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 104918,
+    "TextENGNew": "\"When she misses her injection, Satoko becomes overwhelmingly fearful. ...Anything that happens, any sound she hears, anything that appears—it all feels to her as though it intends to harm her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 104919,
+    "TextENGNew": "\"...So in this case, she heard the principal's footsteps and it felt as though her uncle was storming into the school.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 104920,
+    "TextENGNew": "\"That is correct. ...Once she convinced herself that those footsteps belonged to her uncle, for her it simply was so.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 104921,
+    "TextENGNew": "\"Even after the principal showed himself and spoke kindly to her, in Satoko's mind that person had already become her uncle—so no matter what was said, she heard it as her uncle's voice.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 104922,
+    "TextENGNew": "\"...Just now you said... the illness makes it difficult for her to shake misapprehensions... ...Once she's convinced herself something is frightening, she can't let go of it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 104923,
+    "TextENGNew": "\"...I don't even want to know what the illness is called. ...Poor girl. ...And she's been fighting this all along, this whole time...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 104924,
+    "TextENGNew": "\"Keiichi. ...Please don't mention the illness to Satoko.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 104925,
+    "TextENGNew": "I was about to ask why—but I supposed that was a foolish question.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 104926,
+    "TextENGNew": "Telling someone they have a mental illness is not always an act of kindness. ...That was surely what she meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 104927,
+    "TextENGNew": "\"...Satoko came back to class just now—is she really all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 104928,
+    "TextENGNew": "\"For now, Irie brought her injection with him, so she is fine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 104929,
+    "TextENGNew": "It was a serious enough illness to warrant a doctor rushing over... ...And then something occurred to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 104930,
+    "TextENGNew": "\"...Hey, hear me out—what if we had her admitted to hospital on the grounds of sudden serious illness? Wouldn't that work?\"",
+    "significantChanges": true,
+    "changeReason": "Old translation reduces the detailed proposal to a brief suggestion; Japanese specifies the plan to hospitalize Satoko under the pretext of sudden illness, which the new translation preserves.",
+    "changeScore": 3
+  },
+  {
+    "index": 187,
+    "MessageID": 104931,
+    "TextENGNew": "Even if she wouldn't ask for help herself, we could forcibly have her admitted.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 104932,
+    "TextENGNew": "That way we could keep her uncle away from her. That seemed like an excellent idea.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 104933,
+    "TextENGNew": "\"...Irie actually proposed that already. ...But Satoko refused.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 104934,
+    "TextENGNew": "\"It's not a question of whether she agrees or refuses.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 104935,
+    "TextENGNew": "If a doctor says hospitalization is necessary, it normally means there's something physically wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 104936,
+    "TextENGNew": "And especially in Satoko's case—",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 104937,
+    "TextENGNew": "\"...Keiichi. ...If Satoko doesn't come home... her uncle says he'll clear out Nii-nii's room.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 104938,
+    "TextENGNew": "\"Wh—what...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 104939,
+    "TextENGNew": "\"...For Satoko, the Houjou house is a place she must protect until Satoshi comes home.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 104940,
+    "TextENGNew": "Whether he knew it was her weakness or not—",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 104941,
+    "TextENGNew": "...Teppei had told her he would dismantle Satoshi's room if she didn't come home.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 104942,
+    "TextENGNew": "\"...That... that filthy bastard...!!\"",
+    "significantChanges": true,
+    "changeReason": "Japanese 汚ぇ野郎 means 'filthy bastard/scoundrel'; old translation's 'that's horrible' significantly softens the anger and profanity in Keiichi's reaction.",
+    "changeScore": 4
+  },
+  {
+    "index": 199,
+    "MessageID": 104943,
+    "TextENGNew": "\"...Please don't tell the others, Keiichi. Shii is not good at restraining her emotions—if she found out, she might do something rash.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 104944,
+    "TextENGNew": "She brought up Shion's name, but right now I was on the verge of doing something rash myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 104945,
+    "TextENGNew": "I had to hold myself back.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 104946,
+    "TextENGNew": "I was depending on everyone's help right now to save Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 104947,
+    "TextENGNew": "I couldn't throw all of that away by acting foolishly.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 104948,
+    "TextENGNew": "I clearly had no time to stand still.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 104949,
+    "TextENGNew": "\"...Damn it!! If only Satoko would say the word 'help,' just once—then anything would be possible...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 104950,
+    "TextENGNew": "But just because she hadn't said it didn't mean we didn't need to help her—that kind of twisted logic had no place among friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 104951,
+    "TextENGNew": "And especially now that I knew he was using Satoshi's room as a hostage, binding Satoko's heart in place!",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 104952,
+    "TextENGNew": "\"Wait—isn't the very fact that she told you about his threat to Satoshi's room a clear SOS from Satoko?! She can't bring herself to say it directly, but this is unmistakably her way of crying for help!!\"",
+    "significantChanges": true,
+    "changeReason": "Old translation heavily abbreviates Keiichi's passionate speech; Japanese contains his realization that Satoko telling Rika about the room threat IS itself an indirect SOS, which the new translation fully conveys.",
+    "changeScore": 3
+  },
+  {
+    "index": 209,
+    "MessageID": 104953,
+    "TextENGNew": "Rika-chan gave a small nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 104954,
+    "TextENGNew": "\"...Keiichi. ...The time we have left to save Satoko is not long.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 104955,
+    "TextENGNew": "She didn't need to tell me that.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 104956,
+    "TextENGNew": "...Satoko clinging to the curtains and sobbing as she had this morning—that was the shadow of what was coming.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 104957,
+    "TextENGNew": "\"Today is our third day. The numbers on our side have already grown to more than ten times what we had on the first day—but we're not done yet!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 104958,
+    "TextENGNew": "\"...Keiichi. ...Saving Satoko will not be simple. ...I have tried many times before and never succeeded once.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 104959,
+    "TextENGNew": "\"...Is that right.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 104960,
+    "TextENGNew": "\"...It is a story you would not remember, Keiichi. ...But this time you are different. You have come closer to saving her using methods I have never witnessed before—I believe you are nearly there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 104961,
+    "TextENGNew": "\"...Boku believes you are someone who has the power to shatter fate without a second thought.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 104962,
+    "TextENGNew": "If that were the case, wouldn't it be 'a story I don't know' rather than 'a story I don't remember'?",
+    "significantChanges": true,
+    "changeReason": "Old translation misses Keiichi's key observation about Rika's word choice: she said 'don't remember' (覚えていない) rather than 'don't know' (知らない), which is a plot-relevant distinction about past lives.",
+    "changeScore": 3
+  },
+  {
+    "index": 219,
+    "MessageID": 104963,
+    "TextENGNew": "Well, never mind—this wasn't the time to pick apart the particulars of Rika-chan's manner of speaking.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 104964,
+    "TextENGNew": "\"Yeah. ...Of course! ...Fate—I'll smash right through it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 104965,
+    "TextENGNew": "An unusual crowd had gathered in front of the Okinomiya library.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 104966,
+    "TextENGNew": "Fifty or more people assembling in front of such a quiet, sedate building—it was hard to believe.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 104967,
+    "TextENGNew": "\"K!!  Things are getting exciting today!! This is Maebara-san, our leader—say hello!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 104968,
+    "TextENGNew": "\"'Sup!! Nice to meet ya!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 104969,
+    "TextENGNew": "Sure enough, every person Kameda-kun had brought along was an athlete through and through.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 104970,
+    "TextENGNew": "They were all well-built and brimming with fighting spirit.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 104971,
+    "TextENGNew": "I'd never joined any athletic club in my life, so being greeted with a booming \"'Sup!!\" by people like that left me somewhere between startled and embarrassed.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 104972,
+    "TextENGNew": "Hey, now—this was no time to be intimidated!",
+    "significantChanges": true,
+    "changeReason": "Old translation reduces the nuanced description to generic discomfort; Japanese specifies Keiichi has never joined athletic clubs, making the booming greeting feel somewhere between startling and embarrassing.",
+    "changeScore": 3
+  },
+  {
+    "index": 229,
+    "MessageID": 104973,
+    "TextENGNew": "A general leading troops into battle can't go turning red in the face!",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 104974,
+    "TextENGNew": "Behind them came the nameless comrades who had sided with us at Angel Mort yesterday.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 104975,
+    "TextENGNew": "...Rude as it is to say, these were honestly the last people I expected to actually show up.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 104976,
+    "TextENGNew": "Seeing that they had come not just in the heat of the moment but in earnest—that made me genuinely glad.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 104977,
+    "TextENGNew": "They were throwing their fists in the air and letting out fired-up battle cries (or rather, strange noises?), every bit as pumped as the athletes.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 104978,
+    "TextENGNew": "Kameda-kun had rallied not just people from the baseball world but the Angel Mort crowd as well—I could never repay that kind of generosity easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 104979,
+    "TextENGNew": "\"Don't be so stiff about it, K. We're brothers in arms from Angel Mort!! Word going around from the people at today's Dessert Festival is that the new summer dessert—the Innocent Blue Fruit Sundae—is an absolute masterpiece!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 104980,
+    "TextENGNew": "\"Let's go devour it together this summer!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 104981,
+    "TextENGNew": "\"Keiichi-kun! Today's incredible! You put all of this together yourself?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 104982,
+    "TextENGNew": "\"Hello there. I never expected it would go this far. You've really pulled it off, hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 104983,
+    "TextENGNew": "\"Tomitake-san, Takano-san!! Why are you two here?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 104984,
+    "TextENGNew": "\"Oh, you didn't know, Rena? At the festival committee meeting last night they said they'd participate. And if I recall correctly, Irie-san should be coming too...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 104985,
+    "TextENGNew": "\"Sorry to keep you waiting. I apologize for being late—it took some time to hand things off to the staff covering for me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 104986,
+    "TextENGNew": "\"Waaah!! Coach, that's incredible, that's amazing...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 104987,
+    "TextENGNew": "Irie had made headbands, sashes, and even a full protest banner.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 104988,
+    "TextENGNew": "...He was so thoroughly prepared!!",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 104989,
+    "TextENGNew": "Naturally the headbands and sashes bore dignified slogans like 'Save Satoko Houjou!' and 'Take Immediate Action!'—they were absolutely perfect for a demonstration!",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 104990,
+    "TextENGNew": "And he had made enough for everyone, it seemed—he had Shion and Takano-san going around distributing them.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 104991,
+    "TextENGNew": "\"I normally can't stand this kind of thing from Coach... but I have to admit, today I'm revising my opinion a little.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 104992,
+    "TextENGNew": "\"You know, these accessories are a great touch. Not all sixty of us here know each other personally. But when we're all wearing the same headband and sash, you can feel that we're companions united by the same purpose—it builds solidarity!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 104993,
+    "TextENGNew": "\"Wearing something like this takes me right back to the dam conflict. The people of Hinamizawa in those headbands and sashes were invincible. No matter who stood against them, they didn't flinch!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 104994,
+    "TextENGNew": "Tomitake-san was exactly right.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 104995,
+    "TextENGNew": "Even the children from Okinomiya who had been brought by our classmates seemed to have no resistance at all to the headbands and sashes.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 104996,
+    "TextENGNew": "Far from being embarrassed by them, it felt more like baseball fans donning matching happi coats and feeling themselves part of something.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 104997,
+    "TextENGNew": "\"Here, Rika-san, you too please. It was quite a lot of work making this many of them~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 104998,
+    "TextENGNew": "\"...Irie...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 104999,
+    "TextENGNew": "\"I will not hold back a single thing I can offer. Let us give everything we have to save Satoko-chan!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 105000,
+    "TextENGNew": "\"Here, these are for you, Keiichi-kun! It's quite something, isn't it—yesterday it felt like a class field trip, but today the atmosphere is completely different!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 105001,
+    "TextENGNew": "\"It really is...!! I figured having more numbers would intimidate them, but this is in a different league entirely!! Turns out bluffing well really does matter...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 105002,
+    "TextENGNew": "\"Well, almost time now. Speak up, captain—give us our rallying address!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 105003,
+    "TextENGNew": "\"Captain... that's a bit grand, I'm just the one who started this...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 105004,
+    "TextENGNew": "\"Keiichi-kun, you're going to lose the crowd if you act like that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 105005,
+    "TextENGNew": "\"Come on—chest out! Get up there!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 105006,
+    "TextENGNew": "I stepped out in front of everyone as Tomitake-san's camera flashed around me.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 105007,
+    "TextENGNew": "The moment I did, the murmuring stopped and I felt every pair of eyes turn to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 105008,
+    "TextENGNew": "...The tension was immense. And yet at the same time, I couldn't suppress a giddy thrill at having gathered this many people, all of them burning with conviction.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 105009,
+    "TextENGNew": "\"Thank you all for coming today!!! As you already know—this is day three of our petition on behalf of my classmate, Satoko Houjou, and we are carrying it through!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 105010,
+    "TextENGNew": "\"Anyone who saw Satoko-chan at school today knows the truth!! After just four days, that bright, lively girl has been worn down to nothing!! We cannot leave her that way any longer!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 105011,
+    "TextENGNew": "\"This is our third consecutive day!! Our numbers have swelled to this!! Let's make our will known again today!! We are not going to abandon our friend!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 105012,
+    "TextENGNew": "\"...Amazing!! This is truly the second coming of the dam conflict!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 105013,
+    "TextENGNew": "\"How interesting that Maebara-kun, who could have no memory of the dam conflict, is now reviving it. ...There must be something about this place that makes people want to unite.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 105014,
+    "TextENGNew": "\"I think it comes from the warm, close-knit nature of village culture. An event like today was simply bound to happen.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 105015,
+    "TextENGNew": "\"I live in a city where people don't even know their neighbors' faces... hearing that, I find myself a little envious.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 105016,
+    "TextENGNew": "\"...That is rich, coming from someone who never stops complaining about the infrequent trains.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 105017,
+    "TextENGNew": "\"All forces ready to advance!! Your Excellency, give us only the order to die here today!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 105018,
+    "TextENGNew": "\"Press our demands—rescue the target!! Everyone, follow K!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 105019,
+    "TextENGNew": "\"Yeah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 105020,
+    "TextENGNew": "\"Yeah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 105021,
+    "TextENGNew": "\"YEAAHH!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 105022,
+    "TextENGNew": "The energy was already at this pitch before we'd even stepped inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 105023,
+    "TextENGNew": "There was no way it hadn't penetrated the building.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 105024,
+    "TextENGNew": "Figures were visible at the windows, watching the scene outside with what looked like frantic agitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 105025,
+    "TextENGNew": "\"Right, let us go!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 105026,
+    "TextENGNew": "With a firm pat on my back from Irie, I took the first step of our third day—carrying the resolve of sixty people on my shoulders.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 105027,
+    "TextENGNew": "We passed through the automatic doors and bore down slowly across the twenty meters to the counter...!",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 105028,
+    "TextENGNew": "\"...Let's see how they handle this. Day one it was just a counselor. Day two it was the section chief. So—today it's the director?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 105029,
+    "TextENGNew": "\"I don't know...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 105030,
+    "TextENGNew": "\"...but I'm sure our conviction will reach them...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 105031,
+    "TextENGNew": "\"H-hello... and what can I do for you today...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 105032,
+    "TextENGNew": "\"Same as yesterday. We are here to petition for immediate action in the matter of Satoko Houjou!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 105033,
+    "TextENGNew": "In the back of the office, I could see the section chief from the day before exchanging rapid words with a person seated behind an imposing desk, both of them glancing this way.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 105034,
+    "TextENGNew": "Just the sight of it conveyed that while he may have expected us to return, he had not expected anything on this scale.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 105035,
+    "TextENGNew": "Shion was fired up, saying that with this many people today had to be the day—but that was precisely why I couldn't afford to let my guard down.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 105036,
+    "TextENGNew": "...To be frank, this number was probably the absolute maximum I could have gathered through every channel available to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 105037,
+    "TextENGNew": "So if even this failed to move them... what would I do tomorrow?",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 105038,
+    "TextENGNew": "On the outside I projected confidence, but inside I was nearly split apart by tension.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 105039,
+    "TextENGNew": "And yet each time I looked at the reliable, steadfast expression on Rena's face as she walked beside me, those cowardly feelings began to fade.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 105040,
+    "TextENGNew": "Though on reflection, Rena might be looking at my face for the very same reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 105041,
+    "TextENGNew": "In truth, everyone here must be anxious, wondering whether this petition would finally save Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 105042,
+    "TextENGNew": "But we were all concealing that from each other, drawing strength from the others' composed faces.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 105043,
+    "TextENGNew": "That was unmistakably the strength of working together.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 105044,
+    "TextENGNew": "That kind of energy and strength could not live in a single person.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 105045,
+    "TextENGNew": "It was a power that could only be created by coming together.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 105046,
+    "TextENGNew": "A single drop of water takes an eternity to wear a hole in a stone—but when it becomes a tidal wave, it can smash everything in its path!",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 105047,
+    "TextENGNew": "At length the section chief came flying out from behind the counter.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 105048,
+    "TextENGNew": "His explanation was this:",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 105049,
+    "TextENGNew": "All the meeting rooms happened to be occupied today, so there was no space that could accommodate this many people.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 105050,
+    "TextENGNew": "That said, the director wished to hear today's appeal himself, so he would like to use the reception area in front of the director's desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 105051,
+    "TextENGNew": "Since that space was rather limited, he regretfully asked that we send three representatives.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 105052,
+    "TextENGNew": "\"I am truly sorry... We hope you will understand that this is out of consideration for other visitors, and that you will be willing to cooperate.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 105053,
+    "TextENGNew": "We had gone to the trouble of assembling all these people, and now only three of us could go in?",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 105054,
+    "TextENGNew": "I was about to flatly refuse, but Mion whispered that accepting was probably the right call.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 105055,
+    "TextENGNew": "\"If we tried to occupy the building with this many people, they could cite disruption to their operations. We've already made more than enough of an impression. And the fact that the director himself is willing to speak with you—that's actually the best response you could hope for from them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 105056,
+    "TextENGNew": "\"...They're all shaking like frightened kittens in there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 105057,
+    "TextENGNew": "\"Ahahaha! Frightened little kittens!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 105058,
+    "TextENGNew": "\"Still, that story about the meeting rooms all being occupied is obviously a lie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 105059,
+    "TextENGNew": "\"I think so too. But Mii-chan's right—I think we've made enough of an impact.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 105060,
+    "TextENGNew": "\"The director is the person with the highest responsibility in this organization. Since he is showing the courtesy of hearing us out, we may need to meet him halfway to some degree.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 105061,
+    "TextENGNew": "\"...If a meeting was arranged and our side failed to take their seat at the table—that would go on the record. We don't want it to be recorded that we refused all negotiation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 105062,
+    "TextENGNew": "\"It may be overstepping a bit as an outsider... but I think we should demonstrate that we've come here to have a dialogue.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 105063,
+    "TextENGNew": "Hmm.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 105064,
+    "TextENGNew": "Having this many people really did mean you heard a wide range of perspectives.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 105065,
+    "TextENGNew": "If it were just me, I'd have gotten angry and refused outright the moment they said three representatives.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 105066,
+    "TextENGNew": "But that was apparently not the best course of action.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 105067,
+    "TextENGNew": "...As always, moments like this made me feel just how vital it was to have everyone together.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 105068,
+    "TextENGNew": "\"Understood. We'll send three representatives. ...Now, who should that be?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 105069,
+    "TextENGNew": "\"Keiichi-kun should definitely be one of them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 105070,
+    "TextENGNew": "\"And having Coach as the adult representative, plus Mii-chan alongside you, would be ideal!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 105071,
+    "TextENGNew": "\"If the director recognizes my face, he'll think this is the Sonozaki family applying pressure. ...My family has no involvement in this matter—I can't let him form that impression. ...I'm sorry, it's those inconvenient adult circumstances again.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 105072,
+    "TextENGNew": "\"Saving Satoko is our fight—that old demon-woman has nothing to do with this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 105073,
+    "TextENGNew": "\"So how about Rena-san instead? Go in there and give it to them!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 105074,
+    "TextENGNew": "\"I'm all right with it... but what about you, Rika-chan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 105075,
+    "TextENGNew": "\"...Mii?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 105076,
+    "TextENGNew": "\"As Satoko-chan's closest friend, don't you think you ought to be one of the representatives?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 105077,
+    "TextENGNew": "\".....................\"",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 105078,
+    "TextENGNew": "Rika-chan is quiet, so it's sometimes hard to gauge the strength of her feelings.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 105079,
+    "TextENGNew": "But she was Satoko's dearest friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 105080,
+    "TextENGNew": "They had lived together this past year as though family. There was no stronger bond.",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 105081,
+    "TextENGNew": "\"All right—it'll be me, Coach, and Rika-chan!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 105082,
+    "TextENGNew": "\"Got it. I'll keep everyone organized out here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 105083,
+    "TextENGNew": "Mion gave me a wink and began explaining the situation to everyone else.",
+    "significantChanges": false
+  }
+]

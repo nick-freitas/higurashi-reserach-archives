@@ -1,0 +1,530 @@
+[
+  {
+    "index": 1,
+    "MessageID": 3764,
+    "TextENGNew": "Takano-san would always accompany me on my photography walks whenever I visited.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 3765,
+    "TextENGNew": "She seemed to have found her own way of enjoying cameras, and I was delighted to have made a friend who shared the same hobby.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 3766,
+    "TextENGNew": "However, she had another interest that consumed her even more than photography. ...That was researching the ancient history of Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "New specifies 'ancient history' (JPN 古代史), while old just says 'history of Hinamizawa,' missing the ancient/prehistoric focus of Takano's research.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 3767,
+    "TextENGNew": "She made frequent trips to libraries and local archives, devouring every document she could find. When it came to Hinamizawa, she had become quite the accomplished local historian.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 3768,
+    "TextENGNew": "When she was in a good mood, she would corner me and tell me about how Hinamizawa was once called Onigafuchi Village, and how the villagers there used to carry out all manner of cruel ceremonies rooted in the worship of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 3769,
+    "TextENGNew": "She seemed to have a fondness for gruesome tales, and that only added to her mysterious allure.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 3770,
+    "TextENGNew": "...Unfortunately, I've never been good with grotesque subjects, so the best I could manage was the occasional nod of agreement. The stories of cruel rituals that set her heart racing... honestly, I could barely keep up with them.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 3771,
+    "TextENGNew": "Even so, I loved the way her eyes sparkled when she told those stories, and I didn't mind listening to them at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 3772,
+    "TextENGNew": "\"You really do love researching that sort of thing, don't you, Takano-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 3773,
+    "TextENGNew": "\"Oh, but it's so much fun, isn't it? Unraveling a dark past that's been sealed away... don't you find that thrilling?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 3774,
+    "TextENGNew": "Watching Takano-san smile as she said that almost made the study of dark history seem like the most delightful thing in the world.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 3775,
+    "TextENGNew": "...But of course, it wasn't. The dark history of Hinamizawa that she so relished was nothing but cruelty and atrocity, reminiscent of the witch hunts of the Middle Ages.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 3776,
+    "TextENGNew": "\"Besides, it's incredibly useful for my research into Hinamizawa Syndrome, you know?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 3777,
+    "TextENGNew": "\"You don't always have to peer through a microscope to conduct research. Sometimes the traditions of this village, which has coexisted with the parasite for so long, can teach us things far more valuable than any instrument.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 3778,
+    "TextENGNew": "\"That's true. ...You really are passionate about your work, Takano-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 3779,
+    "TextENGNew": "\"Hee hee. Well, research is my life's work, after all. Venturing into the unknown and uncovering secrets that no one else knows... don't you think that's wonderful? It makes my intellectual curiosity tingle.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 3780,
+    "TextENGNew": "I believe it's the highest form of entertainment, one permitted only to humans—the joy of thinking itself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 3781,
+    "TextENGNew": "Dr. Takano, the pioneer of this research, must have found something compelling enough to devote his entire life to studying the syndrome. He must have been captivated by its allure.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 3782,
+    "TextENGNew": "\"...I think I'm probably the only one who truly understands how he felt. ...Perhaps that's too difficult for you to grasp, Jirou-san, since you're not a researcher. Hee hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 3783,
+    "TextENGNew": "She was always remarkably eloquent whenever she spoke about the late Dr. Takano, the independent researcher who first identified the existence of the syndrome. There had to be something deeper there than mere professional admiration.",
+    "significantChanges": true,
+    "changeReason": "Changes 'enthusiastic' to 'eloquent'; JPN 雄弁 specifically means eloquent/articulate, not merely enthusiastic.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 3784,
+    "TextENGNew": "...Come to think of it, I just realized something.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 3785,
+    "TextENGNew": "Dr. Takano's full name was Hifumi Takano. ...And Takano-san's full name is Miyo Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 3786,
+    "TextENGNew": "They shared the same family name, and their given names followed a numerical sequence—one-two-three and three-four. ...I couldn't help but feel there was some curious connection.",
+    "significantChanges": true,
+    "changeReason": "New translation explicitly explains the numerical sequence (one-two-three, three-four) that connects the names, making the wordplay accessible that the old translation left vague as 'a similar pattern.'",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 3787,
+    "TextENGNew": "I didn't know everything about Takano-san's background, but it seemed quite likely that Takano was an assumed name.",
+    "significantChanges": true,
+    "changeReason": "Changes 'I don't know anything' to 'I didn't know everything'; JPN 全てを知らされているわけではない means 'not told everything,' implying partial knowledge, not total ignorance.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 3788,
+    "TextENGNew": "...If so, it was entirely possible she had adopted a name in homage to the researcher she so admired.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 3789,
+    "TextENGNew": "\"I see... Is that why your name is Miyo, Takano-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 3790,
+    "TextENGNew": "\"...Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 3791,
+    "TextENGNew": "\"Well, the researcher you admire so much—his name was Hifumi Takano, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 3792,
+    "TextENGNew": "And your name is Miyo. In Japanese, it's like counting upward—one, two, three, then three, four. You're continuing the research he couldn't finish, so I thought maybe that's how you chose the name.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 3793,
+    "TextENGNew": "\"..................Who told you that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 3794,
+    "TextENGNew": "\"Huh? No, ahahahaha, I just thought of it right now. Nobody told me or anything—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 3795,
+    "TextENGNew": "\"Heh. ...You're correct. I'm impressed you figured it out, dense as you are, Jirou-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 3796,
+    "TextENGNew": "\"Well, I knew how much you admire Dr. Takano, and sometimes you spoke as if you were his own daughter or granddaughter—as though you were the rightful heir to his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 3797,
+    "TextENGNew": "It was just a feeling I had, that's all.",
+    "significantChanges": true,
+    "changeReason": "Changes 'That's why I said that' to 'It was just a feeling I had'; JPN 何となくそんな気がしただけ means 'I just had a vague sense,' not a direct explanation of why he spoke.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 3798,
+    "TextENGNew": "...Even authors sometimes choose pen names as homages to writers they admire.",
+    "significantChanges": true,
+    "changeReason": "Removes the specific reference to 'Ranpo Edogawa' which was not in the JPN text; the original just says 作家のペンネーム (authors' pen names) generically.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 3799,
+    "TextENGNew": "So I thought perhaps Miyo Takano was something like a pen name for you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 3800,
+    "TextENGNew": "\"That's not the case. Miyo Takano is my real name. ...Though the 'Taka' in my family name is written with a different character than his.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 3801,
+    "TextENGNew": "\"What? So your family name really is the same as Dr. Takano's? That's even more surprising! And Miyo is your real name too... Miyo Takano carrying on Hifumi Takano's life's work... What an incredible coincidence!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 3802,
+    "TextENGNew": "\"Hee hee. You're making too much of it, Jirou-san. It's not fate or anything like that. He was my grandfather.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 3803,
+    "TextENGNew": "\"......What?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 3804,
+    "TextENGNew": "That was the first I had heard of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 3805,
+    "TextENGNew": "I had been told that Takano-san discovered Dr. Takano's research on Hinamizawa Syndrome among the documents he left behind after his death, and decided to carry on his work.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 3806,
+    "TextENGNew": "I had always assumed they were unrelated. No one had ever mentioned they were family.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 3807,
+    "TextENGNew": "\"Someone advised me that asking for funding to continue my grandfather's research would look bad—that people might think I was just pulling strings for a family matter. That's why I changed one character in my family name.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 3808,
+    "TextENGNew": "So aside from Uncle Koizumi, you may well be the only person I've ever told this to.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 3809,
+    "TextENGNew": "\"...I... I see. ...Now I understand a little better why you show such passion for this research—enough to astonish even Director Irie.\"",
+    "significantChanges": true,
+    "changeReason": "New adds reference to 'astonishing even Director Irie,' reflecting JPN 入江所長も驚くほど which the old translation omitted entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 3810,
+    "TextENGNew": "Now it all made perfect sense. ...She had taken up the research her grandfather could never complete.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 3811,
+    "TextENGNew": "\"My grandfather explored Hinamizawa Syndrome not only from a medical perspective, but through ancient documents and literature as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 3812,
+    "TextENGNew": "Studying the stories of a village that has lived alongside the syndrome for centuries can be far more valuable than peering through the most powerful microscope. That's what my grandfather taught me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 3813,
+    "TextENGNew": "\"...I see. Then I'm sure your grandfather would be proud to know his unfinished work is being carried on so admirably. He must be very happy to have such a dedicated granddaughter.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 3814,
+    "TextENGNew": "\"Hee hee hee hee. I hope so.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 3815,
+    "TextENGNew": "I had said something that Takano-san would normally tease me about, but she didn't. She simply nodded and smiled. ...There was no doubt about it. She truly was Dr. Takano's granddaughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 3816,
+    "TextENGNew": "\"My grandfather was Hifumi—one, two, three. And I am Miyo—three, four.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 3817,
+    "TextENGNew": "Following in my grandfather's footsteps, we have only counted the three together. And then the four, after him. We must reach the five that neither he nor I have yet seen. That is my mission, and the reason I was born.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 3818,
+    "TextENGNew": "\"So that's the meaning behind the name Miyo. I think it's a beautiful name.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 3819,
+    "TextENGNew": "\"Thank you. But please keep the fact that I'm his granddaughter a secret. I haven't told any of my clients, and I'd rather not have them prying into matters where there's nothing to find.\"",
+    "significantChanges": true,
+    "changeReason": "New better captures JPN idiom 痛くもない腹を探られたくない (don't want people poking around where there's nothing wrong), whereas old simplified to 'unnecessary problems.'",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 3820,
+    "TextENGNew": "\"Ahahahaha, sure. You got it. This is a secret between the two of us, then.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 3821,
+    "TextENGNew": "Even though it was just a small secret, I couldn't help feeling a quiet sense of privilege in being the only one who knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 3822,
+    "TextENGNew": "\"......I've only counted to three so far. I haven't even reached four yet. The road ahead is still long and steep, but... I will see it through. I will uncover every secret of Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 3823,
+    "TextENGNew": "\"I'll be cheering you on. ...Ahaha, well, that is my job, after all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 3824,
+    "TextENGNew": "\"Honestly. You'd sound quite cool if you didn't tack on things like that. Just saying you'll support me would have been enough.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 3825,
+    "TextENGNew": "\"Ah, ahahahahaha...! Right, I'll support you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 3826,
+    "TextENGNew": "\"Too late. It doesn't count if you can't get it right the first time. Hee hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 3827,
+    "TextENGNew": "We laughed together, light and easy.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 3828,
+    "TextENGNew": "But once the laughter faded, she turned slightly serious, as if to drive her point home.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 3829,
+    "TextENGNew": "\"So remember, Jirou-san. ...Please, don't tell anyone that I'm his granddaughter.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 3830,
+    "TextENGNew": "\"I won't. You have my word.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 3831,
+    "TextENGNew": "\"It's not that being his granddaughter is a bad thing. ...But if the clients found out and took it the wrong way, they might cut our funding.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 3832,
+    "TextENGNew": "\"I don't think that would happen. And besides, I won't say a word!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 3833,
+    "TextENGNew": "\"You promise? You truly, absolutely promise...?",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 3834,
+    "TextENGNew": "I was given this life for this research. Completing my grandfather's work is my sole mission.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 命をもらった (was given this life), conveying that her very existence was granted for the purpose of this research, whereas old says 'research gives my life meaning' (generic).",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 3835,
+    "TextENGNew": "To prove that his trampled research was something great enough to astonish the world. To make them honor my grandfather, who rots beneath the earth... and to elevate him to the status of a god. That is the meaning and purpose of my existence. ......Jirou-san,",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 3836,
+    "TextENGNew": "if you should carelessly let something slip that interferes with my research...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 3837,
+    "TextENGNew": "\"...D-Don't worry. I'll forget everything you told me here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 3838,
+    "TextENGNew": "\"............\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 3839,
+    "TextENGNew": "\"...I mean it. ...I will never breathe a word of it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 3840,
+    "TextENGNew": "\"............\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 3841,
+    "TextENGNew": "\"I keep my promises.@k@vS20/08/440800048. ...I won't tell a soul.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 3842,
+    "TextENGNew": "\"...You swear, Jirou-san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 3843,
+    "TextENGNew": "For just an instant, there was something chilling about her.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 3844,
+    "TextENGNew": "Afraid of what she might become if that darkness consumed her, I swore to keep her secret.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 3845,
+    "TextENGNew": "I understood that two things fueled her passion for researching Hinamizawa Syndrome: her intellectual curiosity as a researcher, and her desire to complete her grandfather's work.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 3846,
+    "TextENGNew": "...But I sensed there was a third reason driving her, one buried so deep within a wound in her heart that someone like me should never dare to touch it.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 3847,
+    "TextENGNew": "And earlier... what she had said. 'If you create problems for my research...!!' What had she meant to say after that? ...I couldn't shake the feeling that something terrifyingly merciless would have followed.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 3848,
+    "TextENGNew": "I kept my promise to her, and from that day on, we never spoke of the matter again...",
+    "significantChanges": false
+  }
+]

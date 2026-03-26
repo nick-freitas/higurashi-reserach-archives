@@ -1,0 +1,1336 @@
+[
+  {
+    "index": 1,
+    "MessageID": 1596,
+    "TextENGNew": "My father and mother died.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 1597,
+    "TextENGNew": "I don't know how old they were when they passed.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 1598,
+    "TextENGNew": "I was that young.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 1599,
+    "TextENGNew": "They went out without me, just the two of them—leaving me alone to keep the house. That must have been why they were punished.",
+    "significantChanges": true,
+    "changeReason": "OLD mistranslates お出掛け as 'went shopping' (JPN just says 'went out') and omits 留守番に残し (left me to watch the house).",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 1600,
+    "TextENGNew": "It was a bus accident, they said.",
+    "significantChanges": true,
+    "changeReason": "Old says 'train accident' but JPN バスの事故 unambiguously means 'bus accident' — wrong vehicle type in a key plot event.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 1601,
+    "TextENGNew": "A terrible disaster, they said.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 1602,
+    "TextENGNew": "Many people had perished, they said.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 1603,
+    "TextENGNew": "Still, my father may have been the fortunate one.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 1604,
+    "TextENGNew": "...He was brought to the hospital still alive, and was able to leave a few words for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 1605,
+    "TextENGNew": "My mother, on the other hand...",
+    "significantChanges": true,
+    "changeReason": "Old says 'died instantly' where JPN お母さんなど… deliberately trails off, leaving the mother's fate unspoken. Fabricating a definitive death removes intentional narrative ambiguity.",
+    "changeScore": 5
+  },
+  {
+    "index": 11,
+    "MessageID": 1606,
+    "TextENGNew": "\"...D—...Daddy,\nDaddy, Daddy, Daddy...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 1607,
+    "TextENGNew": "I couldn't bear to admit that this wretched, unrecognizable figure was my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 1608,
+    "TextENGNew": "Even as I called out to him, I prayed that it was someone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 1609,
+    "TextENGNew": "But...mercilessly...it was him.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 1610,
+    "TextENGNew": "Perhaps I should not have woken him.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 1611,
+    "TextENGNew": "...Because when I broke his drowsing, he was made to remember the pain he had finally managed to forget.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 1612,
+    "TextENGNew": "\"...Uuuhhh... uuhhh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 1613,
+    "TextENGNew": "\"Daddy,\nDaddy, Daddy, Daddy!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 1614,
+    "TextENGNew": "I think Father wanted to stroke my head as I wept.",
+    "significantChanges": true,
+    "changeReason": "Old has content from the next entry ('He tried to move his right arm') instead of the correct content: Father wanted to stroke the narrator's head as she wept.",
+    "changeScore": 4
+  },
+  {
+    "index": 20,
+    "MessageID": 1615,
+    "TextENGNew": "...Because he tried to move his right arm.",
+    "significantChanges": true,
+    "changeReason": "Old has content from the previous entry ('so he could pat my head') instead of the correct content about trying to move his right arm. Content shift between entries.",
+    "changeScore": 4
+  },
+  {
+    "index": 21,
+    "MessageID": 1616,
+    "TextENGNew": "But that arm was wrapped in layer upon layer of bandages,@k...and it could not reach me.",
+    "significantChanges": true,
+    "changeReason": "Old implies amputation ('hand was no longer there') but JPN 動かなかった means the arm couldn't reach/move — inability, not absence. Different physical state of the character.",
+    "changeScore": 4
+  },
+  {
+    "index": 22,
+    "MessageID": 1617,
+    "TextENGNew": "The truth is, Father's right hand held mostly frightening memories for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 1618,
+    "TextENGNew": "Its chief purpose had been to slap me flat whenever I misbehaved or told a lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 1619,
+    "TextENGNew": "But that was no reason to ever have wished for this.",
+    "significantChanges": true,
+    "changeReason": "OLD narrows こんな状況を願ったことは一度もない (never wished for this situation) to 'never wished it [the hand] to be gone,' missing the broader meaning about the entire situation.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 1620,
+    "TextENGNew": "And besides—though far outnumbered by the slaps—there had been times when it stroked my head.\nJust a few.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 1621,
+    "TextENGNew": "That large palm, as if the gesture itself were a reward...would gently, gently stroke my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 1622,
+    "TextENGNew": "No matter how early I rose, no matter how well I ran an errand, Father could no longer stroke my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 1623,
+    "TextENGNew": "No—in truth, that was the least of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 1624,
+    "TextENGNew": "The time for emergency surgery was pressing close.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 1625,
+    "TextENGNew": "The doctor had warned us in advance that the odds of success were not high.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 1626,
+    "TextENGNew": "That was why they had let me see him, when visits were ordinarily forbidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 1627,
+    "TextENGNew": "Not only could he no longer stroke my head—Father stood at the edge where he might vanish from before me forever...",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 1628,
+    "TextENGNew": "\"...Daddy, the surgery will make you better, won't it?!\nDaddy, you'll get well again, won't you?!\nWon't you?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 1629,
+    "TextENGNew": "\"...L-listen to me.\n...Daddy might not make it.\nEven if Daddy dies, you have to live your life properly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 1630,
+    "TextENGNew": "\"No, no! Daddy's going to get better!\nThe doctor is going to do the surgery and fix you!!\nSo you're not going to die!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 1631,
+    "TextENGNew": "He was a stubborn man, as people of his generation tended to be.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 1632,
+    "TextENGNew": "He believed that enduring without complaint was a virtue—he would never admit to suffering.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 1633,
+    "TextENGNew": "So to hear such weak words from that mouth—that he might die—I couldn't believe it, and I threw myself into desperately denying them.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 1634,
+    "TextENGNew": "...But no wish of mine could extend the time remaining to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 1635,
+    "TextENGNew": "Father knew that the moments left to him to speak were already few, and was trying to tell me what truly mattered.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 1636,
+    "TextENGNew": "And I was drowning out his desperate effort with my own sobbing and wailing.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 1637,
+    "TextENGNew": "...More than anything, I wanted him to slap me.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 1638,
+    "TextENGNew": "Just as he always had, whenever I cried and threw a tantrum.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 1639,
+    "TextENGNew": "...But Father would never slap me again...",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 1640,
+    "TextENGNew": "\"L-listen well.\n...Your father and your mother have no relatives.\nSo...if your father dies, there will be no one to look after you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 1641,
+    "TextENGNew": "There was no need for him to tell me that again.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 1642,
+    "TextENGNew": "He and Mother had spoken of it often enough that I knew it well.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 1643,
+    "TextENGNew": "...In short, Father was the one and only blood relation I had left in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 1644,
+    "TextENGNew": "\"If...if Daddy dies,\nturn to Dr. Takano.\nDoctor Hifumi Takano.\nSay it back to me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 1645,
+    "TextENGNew": "\"Takano...Hifumi...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 1646,
+    "TextENGNew": "\"That's right. Doctor Hifumi Takano.\n...He was Daddy's teacher.\nHe will surely help you—\ncough—ahem!! Ahem, ahem!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 1647,
+    "TextENGNew": "\"Daddy,\nDaddy, Daddy, Daddy!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 1648,
+    "TextENGNew": "The doctors came flooding in all at once, in a great commotion.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 1649,
+    "TextENGNew": "Father was still trying to tell me something, but the doctors kept hushing him and I could not make it out.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 1650,
+    "TextENGNew": "I was swept aside and driven out of the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 1651,
+    "TextENGNew": "Left to pace and fret in the hospital corridor.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 1652,
+    "TextENGNew": "...No one told me what condition Father was in, or when the surgery would begin.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 1653,
+    "TextENGNew": "And no one told me...that I would never be able to exchange words with my father again...",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 1654,
+    "TextENGNew": "I think I told the name 'Dr. Takano' that Father had left me—to government officials and all sorts of other people.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 1655,
+    "TextENGNew": "Every time, without fail, they asked: 'Do you have his contact information?'",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 1656,
+    "TextENGNew": "I had no choice but to say I didn't know.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 1657,
+    "TextENGNew": "And invariably the conversation would end there—or occasionally I would be told 'we'll look into it,' but the outcome was never much different.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 1658,
+    "TextENGNew": "And so, just as Father had said, having no relatives, I was moved to an entirely different place, where I was to begin a new life.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 1659,
+    "TextENGNew": "........That was the beginning of hell.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 1660,
+    "TextENGNew": "What that place was like...I have no wish to speak of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 1661,
+    "TextENGNew": "No wish to remember it.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 1662,
+    "TextENGNew": "Food—there was.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 1663,
+    "TextENGNew": "...The bare minimum.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 1664,
+    "TextENGNew": "Something resembling school—that could be attended.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 1665,
+    "TextENGNew": "...A place that truly earned the word 'resembling.'",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 1666,
+    "TextENGNew": "As long as you were breathing, perhaps you could be said to be guaranteed a biological existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 1667,
+    "TextENGNew": "...But if asked whether it was a life worthy of a human being with dignity—the answer was unequivocally no.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 1668,
+    "TextENGNew": "And if it were only me treated so, I would reflect and strive to do better.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 1669,
+    "TextENGNew": "For it would mean there was a reason—a failing that was mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 1670,
+    "TextENGNew": "But...children my own age, living as I did, were treated exactly the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 1671,
+    "TextENGNew": "In other words, there was no reason—only injustice, and unreasonableness allowed to run unchecked.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 1672,
+    "TextENGNew": "It was agonizing.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 1673,
+    "TextENGNew": "It was sorrowful.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 1674,
+    "TextENGNew": "......And the helplessness of being able to do nothing—the rage and hatred I felt at myself for it—was unbearable.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 1675,
+    "TextENGNew": "Why was I here.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 1676,
+    "TextENGNew": "More to the point—did I truly have to be here at all?",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 1677,
+    "TextENGNew": "That doubt swelled day by day alongside resentment—and at last, we escaped.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 1678,
+    "TextENGNew": "We gathered those who shared our frustration and fury.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 1679,
+    "TextENGNew": "It wasn't as though we had any destination in mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 1680,
+    "TextENGNew": "Even so, we had been driven into a corner—body and soul—to the point where staking everything on this reckless plan seemed far more appealing than continuing to endure where we were.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 1681,
+    "TextENGNew": "\"...All right... let's go...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 1682,
+    "TextENGNew": "That was what I believe Eriko was about to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 1683,
+    "TextENGNew": "We were all ready to break into a run at her signal.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 1684,
+    "TextENGNew": "...But the voice that sounded first was not hers.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 1685,
+    "TextENGNew": "\"You lot—what do you think you're doing there?!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 1686,
+    "TextENGNew": "We burst into motion as if struck—!",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 1687,
+    "TextENGNew": "It was raining outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 1688,
+    "TextENGNew": "In an instant the rain had soaked every inch of us, plastering our clothes to our skin.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 1689,
+    "TextENGNew": "Under ordinary circumstances that would have been quite unpleasant, but right now we had no room to think about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 1690,
+    "TextENGNew": "We simply ran—straight through the pelting rain and the sharp cold of the open air.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 1691,
+    "TextENGNew": "Even though we were sprinting on gravel, somehow it felt like plunging through a flooded paddy.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 1692,
+    "TextENGNew": "...That feeling of feet sinking and sinking into mud, unable to be lifted as you will them.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 1693,
+    "TextENGNew": "No matter how hard you run, you can't get any speed—the maddening sensation of it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 1694,
+    "TextENGNew": "Proof that the mind was outpacing the body.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 1695,
+    "TextENGNew": "Behind us, a staff member's voice cried out 'Escape!'",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 1696,
+    "TextENGNew": "All we could do now was run, run, run—!",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 1697,
+    "TextENGNew": "\"D-Do it like we planned—\nScatter in different directions!! Scatter!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 1698,
+    "TextENGNew": "At Eriko's signal, we sprang away in every direction—",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 1699,
+    "TextENGNew": "each of us praying the staff would not come after us—!",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 1700,
+    "TextENGNew": "Would all four of us manage to meet again safely, somewhere?",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 1701,
+    "TextENGNew": "All four together—or perhaps someone would be missing, someone who had endured this long agony alongside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 1702,
+    "TextENGNew": "Or perhaps—perhaps the others would all make it—and the one left behind would be me...",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 1703,
+    "TextENGNew": "The prayer-like wish was shattered by the staff member's voice drawing closer from behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 1704,
+    "TextENGNew": "\"Stop right there—\nStop, stop—!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 1705,
+    "TextENGNew": "The number of staff chasing us had to be fewer than our group.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 1706,
+    "TextENGNew": "So with luck, there might be no one on my tail.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 1707,
+    "TextENGNew": "Praying that the shouting voices behind me weren't aimed at me, I glanced back for just an instant.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 1708,
+    "TextENGNew": "Ah—but if I had the spare attention to look back, why wasn't I taking one more step forward instead?",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 1709,
+    "TextENGNew": "Why couldn't I manage one more step in flight—?!",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 1710,
+    "TextENGNew": "As I turned, a thick heavy palm descended and covered my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 1711,
+    "TextENGNew": "I became aware that its little finger had slipped inside my open mouth—left open to drag in ragged breaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 1712,
+    "TextENGNew": "\"Ugh—...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 1713,
+    "TextENGNew": "My face was seized as if clawed, and I was slammed face-first into a rain-soaked puddle of gravel.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 1714,
+    "TextENGNew": "Of course I did not go quietly.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 1715,
+    "TextENGNew": "I thrashed and struggled.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 1716,
+    "TextENGNew": "In that moment, the staff member's face came into my vision.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 1717,
+    "TextENGNew": "Such—such an expression of pure hatred—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 1718,
+    "TextENGNew": "I felt it in an instant.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 1719,
+    "TextENGNew": "He only wanted to keep me alive long enough to make an example of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 1720,
+    "TextENGNew": "And considering what would happen to me after being made an example—killing me right here and now would be no problem at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 1721,
+    "TextENGNew": "...Yes—and in those eyes I could see it: an inhuman hatred, ready to snuff out my breathing on the spot...!",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 1722,
+    "TextENGNew": "The little finger still inside my mouth, soaked with rain, touched my tongue.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 1723,
+    "TextENGNew": "...An indescribable, revolting taste and sensation sent a chill racing through my entire body!",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 1724,
+    "TextENGNew": "I knew it then!!",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 1725,
+    "TextENGNew": "This taste—this is the taste of my death!!",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 1726,
+    "TextENGNew": "He was going to force that rough, thick finger all the way down my windpipe and suffocate me right here—it was a finger of murder—!",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 1727,
+    "TextENGNew": "So I fought back—to live!!",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 1728,
+    "TextENGNew": "\"Gaaaahhh!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 1729,
+    "TextENGNew": "\"——!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 1730,
+    "TextENGNew": "\"You little—I'll kill you, I'll KILL you—!!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 1731,
+    "TextENGNew": "Behind me, that enraged voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 1732,
+    "TextENGNew": "What was giving chase was no longer a staff member.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 1733,
+    "TextENGNew": "It was a beast.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 1734,
+    "TextENGNew": "Capture was no longer his intention.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 1735,
+    "TextENGNew": "This beast meant to sink its teeth into me and kill me here and now...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 1736,
+    "TextENGNew": "Somewhere along the way, my shoes had come off.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 1737,
+    "TextENGNew": "They were nothing so respectable as sneakers—",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 1738,
+    "TextENGNew": "and after the desperate sprint I'd put them through, they'd slipped away without a fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 1739,
+    "TextENGNew": "My bare feet now tore against the gravel with every step, soles scraping raw.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 1740,
+    "TextENGNew": "Of course it hurt terribly—but right now I had no room to care.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 1741,
+    "TextENGNew": "...Because if I stopped, there would be no leisure even to savor that pain—!",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 1742,
+    "TextENGNew": "Tree branches raked across my face; barbed wire caught on my thigh and left a clean slash.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 1743,
+    "TextENGNew": "The soles of my gravel-torn feet were slicked with blood, and nails that had kept kicking stones had cracked and begun to seep.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 1744,
+    "TextENGNew": "The blood that filled my mouth when I bit the staff member's finger spilled out in a stream of saliva, staining my mouth and chest vivid red.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 1745,
+    "TextENGNew": "A young girl—covered in raw wounds and abrasions, slicked with blood—ran. Simply ran, for nothing but freedom.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 1746,
+    "TextENGNew": "If caught, she would be killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 1747,
+    "TextENGNew": "If her pursuer retained any reason, she would be beaten and tormented to death as punishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 1748,
+    "TextENGNew": "If he had none, she would be killed on the spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 1749,
+    "TextENGNew": "I don't want to be killed, I don't want to be killed...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 1750,
+    "TextENGNew": "My lungs and my heart felt ready to burst.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 1751,
+    "TextENGNew": "My head was a blank—from terror, from lack of air.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 1752,
+    "TextENGNew": "My consciousness was beginning to fray.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 1753,
+    "TextENGNew": "Yes—I almost wanted it to give way entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 1754,
+    "TextENGNew": "...If only I could no longer hear the relentless voice of the staff member pursuing me!!",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 1755,
+    "TextENGNew": "My knees were shaking.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 1756,
+    "TextENGNew": "My legs refused to move properly.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 1757,
+    "TextENGNew": "I was about to fall—like a puppet with its strings cut.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 1758,
+    "TextENGNew": "But I could not fall.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 1759,
+    "TextENGNew": "I must not fall, I must not—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 1760,
+    "TextENGNew": "A—...I thought, and it was already too late: the full breadth of my face met the gravel.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 1761,
+    "TextENGNew": "That sharp, stinging sensation in the nose—that particular wretched feeling that comes only from falling!",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 1762,
+    "TextENGNew": "And immediately, the beast's roar was upon me...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 1763,
+    "TextENGNew": "\"You—!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 1764,
+    "TextENGNew": "\"Waaaaaaaaaaah!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 1765,
+    "TextENGNew": "Help...!",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 1766,
+    "TextENGNew": "Help me, help me, help me, help me!",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 1767,
+    "TextENGNew": "Help me help me help me help helpelp\nHelpHelpHelp...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 1768,
+    "TextENGNew": "\"...Someone—save me—!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 1769,
+    "TextENGNew": "\"Ahh...ah...\n...Hah...hah! Hah!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 1770,
+    "TextENGNew": "When I lurched upright, I must have struck my thigh against the steering wheel.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 1771,
+    "TextENGNew": "A dull, throbbing ache arrived a moment later...",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 1772,
+    "TextENGNew": "My whole body was soaked in sweat.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 1773,
+    "TextENGNew": "I wiped the perspiration from my brow and pressed a hand to my chest—and felt just how violently my heart was pounding.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 1774,
+    "TextENGNew": "I rubbed the aching thigh.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 1775,
+    "TextENGNew": "A single straight stroke.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 1776,
+    "TextENGNew": "Not where it struck the wheel—the place that was hurting now.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 1777,
+    "TextENGNew": "But somehow, it was there that the pain seemed to linger.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 1778,
+    "TextENGNew": "In the car lit by dim moonlight, there was no terrifying beast to threaten me.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 1779,
+    "TextENGNew": "I was wearing my shoes. I was not covered in blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 1780,
+    "TextENGNew": "And my nails—my nails were not cracked...",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 1781,
+    "TextENGNew": "Suddenly the window was rapped, and I flinched.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 1782,
+    "TextENGNew": "\"Major. It's time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 1783,
+    "TextENGNew": "\"Ah...yes...thank you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 1784,
+    "TextENGNew": "I had told him to wake me in an hour when I lay down for a nap.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 1785,
+    "TextENGNew": "Perhaps an hour was too long.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 1786,
+    "TextENGNew": "Sleep too long, and the body turns sluggish...",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 1787,
+    "TextENGNew": "I raised the seat back and stepped out of the car.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 1788,
+    "TextENGNew": "The cool outside air washed pleasantly over my entire body.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 1789,
+    "TextENGNew": "A mountain road with nothing to see but moonlight.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 1790,
+    "TextENGNew": "At its edge sat my car, and beside it a command vehicle disguised as a trailer.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 1791,
+    "TextENGNew": "My mouth was full of that unpleasant sensation.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 1792,
+    "TextENGNew": "...I spat it out onto the roadside.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 1793,
+    "TextENGNew": "Even so, the lingering sourness inside my mouth would not be cleared.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 1794,
+    "TextENGNew": "Blood, saliva, and rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 1795,
+    "TextENGNew": "Sweat streaming from my brow and the rain—both slipping into my mouth; unable to properly swallow them, I let them dribble.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 1796,
+    "TextENGNew": "Remembering that sensation around her lips, Takano made a motion as if to wipe her mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 1797,
+    "TextENGNew": "\"...........Hah......whew...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 1798,
+    "TextENGNew": "Perhaps, uncharacteristically, I am nervous.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 1799,
+    "TextENGNew": "That must be why I dreamed so badly...",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 1800,
+    "TextENGNew": "There was sure to be a coffee maker in the command vehicle.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 1801,
+    "TextENGNew": "...To shake this body out of the grip of a nightmare—terrible coffee would be just right.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 1802,
+    "TextENGNew": "\"So? Anything moving?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 1803,
+    "TextENGNew": "\"No. Nothing.\nJust received the scheduled check-in from G-sector.\nAll clear, they said.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 1804,
+    "TextENGNew": "\"I see.\n...Would someone be kind enough to brew me a coffee?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 1805,
+    "TextENGNew": "\"Of course. Milk and sugar?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 1806,
+    "TextENGNew": "\"Just milk.\n...Oh, actually—sugar as well, if you don't mind?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 1807,
+    "TextENGNew": "There was still that unpleasant taste coating the inside of my mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 1808,
+    "TextENGNew": "Unless I rinsed it out with a sugary coffee, it seemed I would not fully wake from that awful dream...",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 1809,
+    "TextENGNew": "\"...The Butterfly Dream, was it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 1810,
+    "TextENGNew": "\"...Hm?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 1811,
+    "TextENGNew": "\"Never mind. I'm talking to myself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 1812,
+    "TextENGNew": "It is one of the parables expressing the philosophy of Zhuangzi—a thinker from antiquity.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 1813,
+    "TextENGNew": "Through the words of a man who could no longer tell which was the dream and which was reality, it explains the principle of wu wei, of natural spontaneity, of all things being equal...",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 1814,
+    "TextENGNew": "But.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 1815,
+    "TextENGNew": "If we had simply continued—never moving of our own will, believing in nothing, only passively accepting whatever came—then without doubt, the world that stands here now before us would have been nothing but a dream.",
+    "significantChanges": false
+  }
+]

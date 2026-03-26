@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11364,
+    "TextENGNew": "...Welcome to Hint XI.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11365,
+    "TextENGNew": "I'll tell you the conditions for unlocking A4 Rolling a One in the World of Miyo Takano.",
+    "significantChanges": true,
+    "changeReason": "Fragment title differs: 'A roll of a One' vs 'Rolling a One' — different grammatical framing of サイコロの１. Also 'condition' (singular) changed to 'conditions' (plural), matching the JP 出現条件 which can imply multiple prerequisites.",
+    "changeScore": 1
+  },
+  {
+    "index": 3,
+    "MessageID": 11366,
+    "TextENGNew": "A1 The Quarry in Yagouchi in the World of Miyo Takano\nA2 The Routine Inspection in the World of Miyo Takano\nA3 One, Two, Three, Four in the World of Miyo Takano\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "Fragment titles differ in specificity: 'At a Quarry' vs 'The Quarry' (indefinite vs definite article changes whether it's a specific known location), 'A Routine Inspection' vs 'The Routine Inspection'. Also 'pieces' changed to 'fragments' (カケラ).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11367,
+    "TextENGNew": "And—\nA5 Despair in the World of Miyo Takano\nA6 Déjà Vu in the World of Miyo Takano\nV6 Rolling a Six in the World of Tomoe Minai\n...These fragments are also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "Fragment title 'Disappointment' changed to 'Despair' (失意 can mean either, but 'despair' is a significantly darker emotion). Also 'A 6 on the Dice' vs 'Rolling a Six', and the relationship description changes from 'will be involved in their unlocking' to 'connected to its appearance.'",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11368,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

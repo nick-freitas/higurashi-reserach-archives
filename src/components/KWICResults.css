@@ -1,0 +1,188 @@
+.kwic-results {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 20px;
+  min-width: 0;
+}
+
+.kwic-results__summary {
+  font-family: "Cormorant", serif;
+  font-size: 0.9rem;
+  color: #908a80;
+  margin-bottom: 16px;
+}
+
+.kwic-results__empty {
+  margin-top: 60px;
+  text-align: center;
+  color: #605a50;
+  font-family: "Cormorant", serif;
+  font-size: 1rem;
+}
+
+/* Source group */
+.kwic-group {
+  margin-bottom: 20px;
+}
+
+.kwic-group__header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #16151b;
+  border-left: 3px solid #3a3a6e;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  user-select: none;
+  transition: background 0.15s;
+}
+
+.kwic-group__header:hover {
+  background: #1e1d25;
+}
+
+.kwic-group__toggle {
+  font-size: 0.7rem;
+  color: #605a50;
+  transition: transform 0.2s;
+  width: 12px;
+  text-align: center;
+}
+
+.kwic-group__toggle--open {
+  transform: rotate(90deg);
+}
+
+.kwic-group__name {
+  font-family: "Cormorant", serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #e0ddd8;
+  flex: 1;
+  min-width: 0;
+}
+
+.kwic-group__badge {
+  font-family: "Cormorant", serif;
+  font-size: 0.75rem;
+  color: #908a80;
+  background: #2a2930;
+  padding: 2px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+
+.kwic-group__show-more {
+  display: block;
+  margin: 8px 0 4px 12px;
+  padding: 4px 12px;
+  font-size: 0.8rem;
+  color: #b0a890;
+  background: none;
+  border: 1px solid #3a3940;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.kwic-group__show-more:hover {
+  color: #d4c8a0;
+  border-color: #5a5960;
+}
+
+/* KWIC lines */
+.kwic-group__lines {
+  padding-left: 15px;
+}
+
+.kwic-line {
+  display: flex;
+  gap: 12px;
+  padding: 6px 12px;
+  border-bottom: 1px solid #2a2930;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.kwic-line:hover {
+  background: #1e1d25;
+}
+
+.kwic-line--selected {
+  background: #22213a;
+}
+
+.kwic-line__speaker {
+  width: 100px;
+  min-width: 100px;
+  font-family: "Noto Serif JP", serif;
+  font-size: 0.8rem;
+  color: #c8b060;
+  padding-top: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.kwic-line__text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.kwic-line__jp {
+  font-family: "Zen Old Mincho", "Noto Serif JP", serif;
+  font-size: 0.88rem;
+  color: #e0ddd8;
+  line-height: 1.5;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.kwic-line__en {
+  font-family: "Cormorant", serif;
+  font-size: 0.82rem;
+  color: #908a80;
+  line-height: 1.4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.kwic-highlight {
+  background: rgba(200, 176, 96, 0.3);
+  color: #c8b060;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+
+.kwic-line__actions {
+  display: flex;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.kwic-line:hover .kwic-line__actions {
+  opacity: 1;
+}
+
+.kwic-line__furigana-btn {
+  font-family: "Noto Serif JP", serif;
+  font-size: 0.7rem;
+  color: #908a80;
+  background: #2a2930;
+  border: none;
+  border-radius: 3px;
+  padding: 2px 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.kwic-line__furigana-btn:hover {
+  color: #e0ddd8;
+  background: #3a3a6e;
+}

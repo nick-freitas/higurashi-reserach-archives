@@ -1,0 +1,1566 @@
+[
+  {
+    "index": 1,
+    "MessageID": 88813,
+    "TextENGNew": "The meeting was held at a traditional kappo restaurant in Shishibone City.",
+    "significantChanges": true,
+    "changeReason": "Old says 'traditional Japanese restaurant'; new says 'kappo restaurant'. JPN 割烹 is a specific type of Japanese cuisine restaurant (kappo), distinct from a general 'traditional Japanese restaurant'.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 88814,
+    "TextENGNew": "When a black sedan pulled up, four burly detectives stepped out, led by Ooishi.",
+    "significantChanges": true,
+    "changeReason": "Old has wrong count (three) and wrong position of Ooishi; Japanese says four people led by Ooishi.",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 88815,
+    "TextENGNew": "Waiting to greet them were men in black suits from the Sonozaki syndicate.@k It was a deeply unusual sight.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 88816,
+    "TextENGNew": "``We're honored by the invitation.@k@vS09/11/170700238. My apologies for arriving late.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Thank you for having us. We apologize for being late'; new: 'We're honored by the invitation. My apologies for arriving late.' JPN 光栄です = 'it is an honor', not merely 'thank you for having us'. Different level of formality.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 88817,
+    "TextENGNew": "\"......Honored guests, allow me to show you the way.@k@vS09/15/1715000044. Please, right this way.\"",
+    "significantChanges": true,
+    "changeReason": "Old omits お客人 (honored guests); new correctly includes this polite address.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 88818,
+    "TextENGNew": "A sign reading 'Reserved' hung at the entrance.@k Ooishi and his men were led inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 88819,
+    "TextENGNew": "They passed through an ostentatious landscaped garden before arriving at the elegant Japanese-style entrance.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 88820,
+    "TextENGNew": "A woman in a kimono stood waiting at the entrance.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'as was Kasai' not in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 88821,
+    "TextENGNew": "Upon noticing the detectives, she bowed deeply.@k ...The woman in the kimono was Mion's mother, Akane.",
+    "significantChanges": true,
+    "changeReason": "Old: 'they stopped chatting and bowed deeply' (plural, implies Kasai+woman were chatting); new: 'she bowed deeply' (singular). JPN uses singular 深々とお辞儀する, referring to the kimono woman.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 88822,
+    "TextENGNew": "``Well, well, if it isn't Sonozaki-san, the head of operations.@k@vS09/11/170700240. Thank you for inviting us today.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Nice to meet you, Mrs. Sonozaki'; new: 'Well, well, if it isn't Sonozaki-san, the head of operations.' JPN 園崎社長さん = 'Sonozaki company president', not 'Mrs. Sonozaki'. Different title/role.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 88823,
+    "TextENGNew": "``...Welcome, and thank you for coming.@k@vS09/16/172200002. We are deeply grateful you could make the trip despite your busy schedules.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 88824,
+    "TextENGNew": "``Oh, not at all. I've been looking forward to the feast.@k@vS09/11/170700242. This restaurant is famous for its yuba, you know.@k@vS09/11/170700243. Nah ha ha ha!@k@vS09/11/170700244. I can't wait to see what's on the menu.``",
+    "significantChanges": true,
+    "changeReason": "Old adds restaurant name 'Kiyomizutei' not in Japanese; 湯葉 is yuba not 'dried beancurd.'",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 88825,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 88826,
+    "TextENGNew": "``And Kasai-san, it's been a while.@k@vS09/11/170700246. Quite some time since we last met face to face, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 88827,
+    "TextENGNew": "``It has indeed been too long...``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 88828,
+    "TextENGNew": "``Well, it seems we've somehow ended up at war with each other, but I'm hoping we can settle things amicably, following the rules of civilized adults.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Well, we seem to be at war, but I'm hoping we can settle this like adults.'; new adds 'amicably' and 'following the rules of civilized adults'. JPN 穏便に (amicably) is omitted in old. Also new captures 大人のルール (adult rules) better.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 88829,
+    "TextENGNew": "``Though we're ready for an all-out war at any time, if it comes to that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 88830,
+    "TextENGNew": "``No... that is not our intention in the slightest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 88831,
+    "TextENGNew": "``Nah ha ha ha!@k@vS09/11/170700250. Well, we'd rather avoid that too.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 88832,
+    "TextENGNew": "They say it rains blood whenever you get involved.@k@vS09/11/170700252. I'm getting too old for that sort of thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 88833,
+    "TextENGNew": "This was clearly a meeting between hostile parties.",
+    "significantChanges": true,
+    "changeReason": "Old: 'people who hated each other'; new: 'hostile parties'. JPN 敵対するもの同士 = 'opposing/adversarial parties', which is about opposition not personal hatred.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 88834,
+    "TextENGNew": "Every word bristled with tension, making it hard to imagine this would turn into a friendly gathering.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 88835,
+    "TextENGNew": "``Then allow me to show you in.@k@vS09/16/172200004. Right this way, please.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 88836,
+    "TextENGNew": "``It's most gracious of the host herself to escort us.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I feel bad that our host is taking us to the table'; new: 'It's most gracious of the host herself to escort us.' JPN 痛み入ります means 'I'm deeply obliged/grateful', a formal expression, not 'I feel bad'.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 88837,
+    "TextENGNew": "``...Ah, yes, about that.@k@vS09/16/172200006. While I sent the invitation under my name, today's host is actually the Sonozaki main family.@k@vS09/16/172200007. I apologize for the change.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 88838,
+    "TextENGNew": "``...The main family, you say.@k@vS09/11/170700255. ...Would you mind if I went back for my bulletproof vest?",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 88839,
+    "TextENGNew": "Nah ha ha ha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 88840,
+    "TextENGNew": "When the sliding doors to the private room opened, place settings were arranged in rows, and... Mion was seated there.",
+    "significantChanges": true,
+    "changeReason": "Old: 'several tables... and Mion was sitting at one of them'; new: 'place settings were arranged in rows, and... Mion was seated there.' JPN お膳が並び = 'place settings/trays were arranged', not 'tables'. Different dining setup described.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 88841,
+    "TextENGNew": "As a minor, Mion's school uniform served as her formal attire.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 88842,
+    "TextENGNew": "Even so, it created an odd contrast against the black suits of both the detectives and the Sonozaki enforcers.",
+    "significantChanges": true,
+    "changeReason": "Old: 'it looked strange with both the police and the Corps members in black suits'; new: 'it created an odd contrast against the black suits of both the detectives and the Sonozaki enforcers.' Old focuses on strangeness of everyone in black; new focuses on contrast between Mion's uniform and the black suits.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 88843,
+    "TextENGNew": "``Well, well. You must be the young lady who is heir to the Sonozaki family.@k@vS09/11/170700258. It's an honor to be invited today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 88844,
+    "TextENGNew": "``Thank you very much for coming.@k@vS09/03/170300575. Please, have a seat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 88845,
+    "TextENGNew": "Mion graciously welcomed the detectives without a trace of intimidation, despite them being older than her own parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 88846,
+    "TextENGNew": "When Mion gave a subtle glance, Kasai tapped on the sliding door.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Mion gave Kasai a look, and he tapped on the door'; new: 'When Mion gave a subtle glance, Kasai tapped on the sliding door.' JPN 目配せ = subtle eye signal, 襖 = sliding door (fusuma). Minor but 'sliding door' is more specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 88847,
+    "TextENGNew": "The waitresses who had been standing by beyond the door filed in and began preparing the toast.",
+    "significantChanges": true,
+    "changeReason": "Old: 'waitresses started bringing out drinks'; new: 'waitresses filed in and began preparing the toast.' JPN 乾杯の準備 = 'preparation for a toast', not just 'bringing out drinks'.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 88848,
+    "TextENGNew": "``...Ooishi-san... what exactly is going on here...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 88849,
+    "TextENGNew": "``Who knows...@k@vS09/11/170700260. Well, let's enjoy the food first.@k@vS09/11/170700261. The yuba here is supposed to be excellent, you know?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'dried beancurd'; new: 'yuba'. JPN 湯葉 = yuba (tofu skin). 'Dried beancurd' is a different food product.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 88850,
+    "TextENGNew": "For a while, the tense drinking party continued, the air thick enough that one might almost smell gunpowder.",
+    "significantChanges": true,
+    "changeReason": "Old omits 火薬の匂い (gunpowder scent) metaphor for tension.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 88851,
+    "TextENGNew": "Eventually, once the waitresses had all been dismissed and the Sonozaki enforcers sent away, only the four detectives, Mion, Akane, and Kasai remained in the room.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Mion made the waitresses and the other members leave' (active, Mion does it); new: 'once the waitresses had all been dismissed and the enforcers sent away' (passive). Also old says 'subordinates', new correctly says 'four detectives' context.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 88852,
+    "TextENGNew": "``Well, then.@k@vS09/11/170700263. ...What is this meeting about?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Let's start talking about why we're here today'; new: 'What is this meeting about?' JPN どういうお話ですかな = 'what kind of discussion is this?' (asking), not 'let's start talking' (proposing).",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 88853,
+    "TextENGNew": "Akane nodded and answered.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 88854,
+    "TextENGNew": "``We arranged this meeting today to clear up a misunderstanding that has arisen between our two sides.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'We're having this meeting today so we can resolve our misunderstandings'; new: 'We arranged this meeting today to clear up a misunderstanding that has arisen between our two sides.' New specifies 'between our two sides' and 'that has arisen', more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 88855,
+    "TextENGNew": "``...Oh? And what misunderstanding might that be?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Such as?'; new: 'Oh? And what misunderstanding might that be?' JPN ほぅ誤解と申しますと = 'Oh? You say misunderstanding?' - more elaborate than just 'Such as?'",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 88856,
+    "TextENGNew": "``The matter itself is rather trivial in origin. Kasai here wished to speak with Rena Ryuugu regarding a personal matter.@k@vS09/16/172200010. Therefore, this affair is entirely between Tatsuyoshi Kasai and Rena Ryuugu as individuals.@k@vS09/16/172200011. The Sonozaki syndicate has no involvement.``",
+    "significantChanges": true,
+    "changeReason": "Old omits opening line about trivial origin; new includes it. Also 園崎組 = Sonozaki syndicate, not family.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 88857,
+    "TextENGNew": "``Nah ha ha ha...@k@vS09/11/170700266. Personal reasons, you say?@k@vS09/11/170700267. Ryuugu-san is an ordinary citizen. What sort of personal connection could she possibly have with a yakuza like Kasai-san?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ryuugu-san lives an honest life'; new: 'Ryuugu-san is an ordinary citizen.' JPN 堅気 = 'ordinary citizen/legitimate person' (as opposed to yakuza), which 'ordinary citizen' captures better than 'lives an honest life'.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 88858,
+    "TextENGNew": "``Kasai.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 88859,
+    "TextENGNew": "``Yes, ma'am.@k@vS09/15/1715000049. If you'll allow me, I'll explain.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Yes. Allow me to explain.'; new: 'Yes, ma'am. If you'll allow me, I'll explain.' JPN 僭越ながら = 'if I may be so presumptuous' - new captures the deference better with 'ma'am' and 'if you'll allow me'.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 88860,
+    "TextENGNew": "Kasai explained that he had happened to cross paths with Rena at a cafe in Okinomiya.",
+    "significantChanges": true,
+    "changeReason": "Old: 'happened to meet Rena at a coffee house'; new: 'happened to cross paths with Rena at a cafe.' JPN すれ違っていた = 'crossed paths/passed by', not 'met' (implies brief encounter, not a meeting).",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 88861,
+    "TextENGNew": "He told them that Rena had found something he dropped and offered to return it to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 88862,
+    "TextENGNew": "``...That's a bit of a stretch, don't you think?@k@vS09/11/170700269. But let's say, for argument's sake, we buy the story about the lost item.@k@vS09/11/170700270. What happened after that doesn't add up.@k@vS09/11/170700271. I've heard your men were mobilized to track down Rena Ryuugu.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I heard that you told your members to find Rena Ryuugu'; new: 'I've heard your men were mobilized to track down Rena Ryuugu.' JPN 組の若い連中が動員 = 'young syndicate members were mobilized'. 'Told your members' vs 'men were mobilized' - different organizational framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 88863,
+    "TextENGNew": "``That was entirely my blunder.",
+    "significantChanges": true,
+    "changeReason": "Old: 'That is actually my fault'; new: 'That was entirely my blunder.' JPN 手落ち = 'blunder/oversight', stronger than just 'fault'.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 88864,
+    "TextENGNew": "...Rena-san's family was worried because she hadn't come home after dark. I had my men ask around downtown to see if anyone had spotted her, but there was a miscommunication in my instructions...``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Rena-san's father was worried'; new: 'Rena-san's family was worried.' JPN 家人 = 'household members/family', not specifically 'father'.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 88865,
+    "TextENGNew": "``Now hold on just a minute.@k@vS09/11/170700273. You dragged us all the way to this fancy restaurant to feed us that cock-and-bull story?@k@vS09/11/170700274. Are you taking us for fools?@k@vS09/11/170700275. Hmmm?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 88866,
+    "TextENGNew": "Ooishi looked more like a yakuza thug than the actual yakuza present.@k ...When he leaned forward with that twisted grin, the room's tension spiked instantly.",
+    "significantChanges": true,
+    "changeReason": "Old: 'member of the yakuza'; new: 'yakuza thug.' Also old: 'threatened them with a nasty smile, and it piled all the more tension'; new: 'leaned forward with that twisted grin, the room's tension spiked instantly.' Different physical description and intensity.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 88867,
+    "TextENGNew": "``Ooishi-san... please, calm down...``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 88868,
+    "TextENGNew": "Kumagai tried to restrain Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 88869,
+    "TextENGNew": "The police worked in pairs the same way the yakuza did -- one to intimidate, and one to smooth things over.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 88870,
+    "TextENGNew": "Ooishi pulled back with a smirk.@k Kumagai picked up where things left off.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 88871,
+    "TextENGNew": "``So, what exactly is the Sonozaki family trying to say?@k@vS09/19/173100037. That this is a civil matter between Ryuugu Rena and Kasai Tatsuyoshi, and we shouldn't intervene?@k@vS09/19/173100038. That's not going to happen.@k@vS09/19/173100039. We intend to take Rena Ryuugu into protective custody.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'So, what're you trying to say?'; new: 'So, what exactly is the Sonozaki family trying to say?' JPN 園崎家さんは explicitly names the Sonozaki family. Also 'protective custody' vs 'protection'.",
+    "changeScore": 3
+  },
+  {
+    "index": 60,
+    "MessageID": 88872,
+    "TextENGNew": "That was when Mion spoke for the first time.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Mion opened her mouth for the first time in a while'; new: 'Mion spoke for the first time.' JPN 初めて = 'for the first time' (at this meeting), not 'in a while'.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 88873,
+    "TextENGNew": "``...Please explain to us why the police feel the need to place Rena Ryuugu under protection.``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 88874,
+    "TextENGNew": "``Isn't it obvious?@k@vS09/11/170700277. Because you people are after her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 88875,
+    "TextENGNew": "Ooishi answered bluntly.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 88876,
+    "TextENGNew": "But Mion's composure didn't waver.@k ...Which only seemed to irritate Ooishi further.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 88877,
+    "TextENGNew": "``And what makes you believe we are after her?``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 88878,
+    "TextENGNew": "``Why don't you ask your own heart?@k@vS09/11/170700279. I'm sure it knows.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Why don't you ask what's in your chest? It might know something'; new: 'Why don't you ask your own heart? I'm sure it knows.' JPN 胸に聞く = 'ask your heart/conscience' - old's 'what's in your chest' is awkward and unclear.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 88879,
+    "TextENGNew": "``...Ooishi-san.@k@vS09/03/170300579. Today's meeting was arranged to resolve misunderstandings.@k@vS09/03/170300580. You're certainly free to refuse to listen, but I believe it would be very much in your interest to hear us out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 88880,
+    "TextENGNew": "``Oh? And what exactly are we misunderstanding?``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 88881,
+    "TextENGNew": "``It concerns the scrapbooks of Miyo Takano that Rena Ryuugu has in her possession. There is a grave misunderstanding regarding them.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'the scrapbooks of Miyo Takano that Rena Ryuugu is in possession of'; new: 'the scrapbooks of Miyo Takano that Rena Ryuugu has in her possession. There is a grave misunderstanding regarding them.' New adds 'grave misunderstanding' from JPN ある重大な誤解 which old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 88882,
+    "TextENGNew": "The detectives' eyes sharpened all at once.@k ...She had cut straight to the heart of the matter.",
+    "significantChanges": true,
+    "changeReason": "Old: 'officers' expressions grew stern'; new: 'detectives' eyes sharpened.' JPN 目が鋭くなる = 'eyes became sharp', specifically about eyes, not general expressions.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 88883,
+    "TextENGNew": "``You wish to protect Rena Ryuugu because she possesses Miyo Takano's scrapbooks... Isn't that right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 88884,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 88885,
+    "TextENGNew": "The detectives glared back with bulging eyes, but their silence made it perfectly clear she had hit the mark.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi and his subordinates glared back'; new: 'The detectives glared back with bulging eyes.' JPN ぎょろつく目 = 'bulging/rolling eyes', which new captures but old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 88886,
+    "TextENGNew": "``Kasai.``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 88887,
+    "TextENGNew": "At Akane's prompt, Kasai excused himself and stepped into the hallway.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Akane gave him a look, and he left the room'; new: 'At Akane's prompt, Kasai excused himself and stepped into the hallway.' JPN 茜が促すと = 'when Akane prompted', not just a look. Also 'hallway' vs leaving room.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 88888,
+    "TextENGNew": "He returned almost immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 88889,
+    "TextENGNew": "In his hands was a black attache case.",
+    "significantChanges": true,
+    "changeReason": "Old: 'carrying a black suitcase'; new: 'In his hands was a black attache case.' JPN アタッシュケース = attache case, not generic 'suitcase'.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 88890,
+    "TextENGNew": "Every one of the detectives assumed the case was stuffed with cash -- a bribe to buy their cooperation in some scheme.",
+    "significantChanges": true,
+    "changeReason": "Old: 'trying to buy them off'; new: 'a bribe to buy their cooperation in some scheme.' New specifies the nature of the bribery more precisely, matching JPN 何らかに利用しようと買収 (bribe to use them for something).",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 88891,
+    "TextENGNew": "Kasai snapped the attache case open and displayed its contents before the detectives.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 88892,
+    "TextENGNew": "``...Th-... These are...``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 88893,
+    "TextENGNew": "``Miyo Takano's scrapbooks.@k@vS09/16/172200015. Unfortunately, the ones believed to have been given to Rena Ryuugu are not among them.@k@vS09/16/172200016. We thought these would make for a suitable topic of discussion today.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'she gave to Rena Ryuugu'; new: 'believed to have been given to Rena Ryuugu.' JPN 手渡したと思われる = 'believed/thought to have been handed to', conditional not definite. Also 'main course' vs 'suitable topic of discussion'.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 88894,
+    "TextENGNew": "``...May I examine the contents?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 88895,
+    "TextENGNew": "``Of course, please do.@k@vS09/16/172200018. We can talk after you've had a chance to look through them.@k@vS09/16/172200019. We'll clear the room if you'd prefer privacy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 88896,
+    "TextENGNew": "``N-No, that won't be necessary.``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 88897,
+    "TextENGNew": "The detectives each produced thin latex gloves from their breast pockets, put them on, and began examining the dozen or so scrapbooks.",
+    "significantChanges": true,
+    "changeReason": "Old: 'The cops produced latex gloves from their pockets, put them on, and took one of the scrapbooks out of the suitcase. There were more than ten of them in there.'; new: 'The detectives each produced thin latex gloves from their breast pockets, put them on, and began examining the dozen or so scrapbooks.' Old says 'took one'; new says 'began examining' all of them. JPN それぞれ = each/respectively.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 88898,
+    "TextENGNew": "``These were recovered from Miyo Takano's residence in Okinomiya at the time of her death.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'found them in Miyo Takano's house in Okinomiya after she passed away'; new: 'recovered from Miyo Takano's residence in Okinomiya at the time of her death.' 'After she passed away' vs 'at the time of her death' - JPN 死亡の際に = 'at the time of death'. Also 'found' vs 'recovered' (more official).",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 88899,
+    "TextENGNew": "Ooishi and the others frantically turned the pages of the well-worn scrapbooks, one after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 88900,
+    "TextENGNew": "``...These are... definitely Miyo Takano's, correct?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Are you sure... these are real?'; new: 'These are... definitely Miyo Takano's, correct?' JPN 間違いなく鷹野三四のなんでしょうねぇ = 'these are unmistakably Takano's, right?' Old asks about authenticity ('real'); new asks about ownership (Takano's).",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 88901,
+    "TextENGNew": "``Without a doubt.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 88902,
+    "TextENGNew": "``...Ooishi-san... if Rena Ryuugu has scrapbooks similar to these, then...``",
+    "significantChanges": true,
+    "changeReason": "Old: 'if Rena Ryuugu has the other scrapbooks... that means...'; new: 'if Rena Ryuugu has scrapbooks similar to these, then...' JPN これらに類するもの = 'things similar to these', not 'the other scrapbooks'. Different implication.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 88903,
+    "TextENGNew": "``In all likelihood, the scrapbooks in Ryuugu Rena's possession contain similar material.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Maybe the ones she has have the same kind of stuff in them'; new: 'In all likelihood, the scrapbooks in Ryuugu Rena's possession contain similar material.' JPN おそらくは = 'in all likelihood', more confident than 'maybe'. Different certainty level.",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 88904,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 88905,
+    "TextENGNew": "Ooishi's eyes were wide as saucers, clearly stunned by what he was reading.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi looked stunned'; new: 'Ooishi's eyes were wide as saucers, clearly stunned.' JPN 目を皿のように見開き = 'eyes opened wide like plates', a specific visual detail new captures.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 88906,
+    "TextENGNew": "...His fingers turned the pages faster and faster before he slammed the scrapbook shut.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 88907,
+    "TextENGNew": "``...Every one of these scrapbooks -- they're all like this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 88908,
+    "TextENGNew": "``Yes, they are.@k@vS09/03/170300584. Please take your time and examine them to your satisfaction.``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 88909,
+    "TextENGNew": "The detectives' fingers flew through the pages; they had abandoned any pretense of reading carefully.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 88910,
+    "TextENGNew": "One scrapbook after another was pulled from the attache case and roughly inspected.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 88911,
+    "TextENGNew": "``...Ooishi-san... this is absurd.@k@vS09/19/173100042. These are nothing but trashy occult fiction!",
+    "significantChanges": true,
+    "changeReason": "Old: 'crappy occult novels'; new: 'trashy occult fiction.' Also old lacks closing quote while new does too - but JPN 性質の悪いオカルト小説 = 'malicious/low-quality occult novel'. Minor but 'fiction' is broader than 'novels'.",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 88912,
+    "TextENGNew": "This one claims the netherworld collided with the mortal realm and spirits poured through??@k@vS09/19/173100044. ...Are we supposed to treat this as evidence...?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'the netherworld collided with this world, and that dead souls flowed across the gap'; new: 'the netherworld collided with the mortal realm and spirits poured through.' JPN 霊魂が流入 = 'spirits/souls flowed in'. 'Dead souls flowed across the gap' adds 'gap' not in JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 101,
+    "MessageID": 88913,
+    "TextENGNew": "``...............Ah... yours says it's the netherworld's doing?",
+    "significantChanges": true,
+    "changeReason": "Old: 'Well, yours says something about the netherworld?'; new: 'Ah... yours says it's the netherworld's doing?' JPN あぁそっちは冥界の仕業なんだ = 'Ah, yours is the netherworld's doing', a statement not a question. Different tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 102,
+    "MessageID": 88914,
+    "TextENGNew": "Mine blames creatures from the center of the earth...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'creatures from the bottom of the ocean' but 地底人 means 'underground/subterranean people.'",
+    "changeScore": 4
+  },
+  {
+    "index": 103,
+    "MessageID": 88915,
+    "TextENGNew": "This one attributed it to a foreign power's secret weapon. That one to the legacy of the Mu continent.@k Another blamed Ossie, the mysterious creature of Onigafuchi Swamp...",
+    "significantChanges": true,
+    "changeReason": "Old says 'classified weapons of the Nazis' but Japanese 某国 means 'a certain country' -- not specifically Nazis.",
+    "changeScore": 4
+  },
+  {
+    "index": 104,
+    "MessageID": 88916,
+    "TextENGNew": "``In all likelihood, the scrapbook in Rena Ryuugu's possession contains the 'parasite theory' that you're all familiar with.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 88917,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 88918,
+    "TextENGNew": "The detectives could only stare in disbelief.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 88919,
+    "TextENGNew": "All of them were shooting sidelong glances at Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 88920,
+    "TextENGNew": "...In truth, every one of them had privately thought there was no way parasites existed, that talk of bioterrorism was wildly overblown.",
+    "significantChanges": true,
+    "changeReason": "Old: 'They hadn't said anything to him, but they never really believed in the story of the parasite, let alone the bioterrorism'; new: 'In truth, every one of them had privately thought there was no way parasites existed, that talk of bioterrorism was wildly overblown.' JPN says they all internally thought parasites couldn't exist and bioterrorism was exaggerated.",
+    "changeScore": 3
+  },
+  {
+    "index": 109,
+    "MessageID": 88921,
+    "TextENGNew": "But Ooishi had charged ahead alone, insisting he had evidence to prove it all.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi had believed it and told them he had proof'; new: 'Ooishi had charged ahead alone, insisting he had evidence to prove it all.' JPN 独走した = 'ran ahead alone/acted unilaterally', which new captures but old misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 88922,
+    "TextENGNew": "...Granted, the 'parasite theory' wasn't among the scrapbooks here, but the level of content was clearly all the same.",
+    "significantChanges": true,
+    "changeReason": "Old: 'None of the scrapbooks in front of them said anything about parasites, but it was easy to assume the contents of one scrapbook were no different in nature from another'; new: 'the parasite theory wasn't among the scrapbooks here, but the level of content was clearly all the same.' More concise in new, both convey similar meaning but old interprets more freely.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 88923,
+    "TextENGNew": "...In other words... nothing more than trashy occult fiction.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 88924,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 88925,
+    "TextENGNew": "Ooishi seemed unable to accept the reality that had been thrust before him.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 88926,
+    "TextENGNew": "...But now that he was looking at the evidence with his own eyes, it was impossible to deny.",
+    "significantChanges": true,
+    "changeReason": "Old: 'it was too difficult to ignore'; new: 'it was impossible to deny.' JPN 火を見るより明らか = 'clearer than looking at fire' (an idiom meaning 'obvious/undeniable'). 'Impossible to deny' captures this better than 'too difficult to ignore'.",
+    "changeScore": 3
+  },
+  {
+    "index": 115,
+    "MessageID": 88927,
+    "TextENGNew": "Miyo Takano was simply an occult fanatic who had taken the legend of Onigafuchi and spun it into one wild fantasy after another!",
+    "significantChanges": true,
+    "changeReason": "Old: 'occult geek who had laughable ideas about the legend'; new: 'occult fanatic who had taken the legend and spun it into one wild fantasy after another.' JPN 面白おかしく妄想を膨らませてる = 'inflating delusions in an amusing way'. 'Spun into wild fantasies' vs 'laughable ideas' - different characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 88928,
+    "TextENGNew": "Rena had taken those fantasies at face value... and Ooishi had followed suit.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 88929,
+    "TextENGNew": "The junior detective at the end of the table could no longer suppress his laughter at the absurdity of the scrapbooks.",
+    "significantChanges": true,
+    "changeReason": "Old: 'The other officers could no longer stop themselves from laughing'; new: 'The junior detective at the end of the table could no longer suppress his laughter.' JPN 末席の刑事 = 'the detective at the lowest seat', singular. Old makes it plural.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 88930,
+    "TextENGNew": "...Ooishi silenced him with a sharp glare.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi glared at them, and they stopped laughing'; new: 'Ooishi silenced him with a sharp glare.' Old uses plural 'them'; new correctly uses singular 'him' matching JPN singular subject.",
+    "changeScore": 3
+  },
+  {
+    "index": 119,
+    "MessageID": 88931,
+    "TextENGNew": "The main reason Ooishi had taken the scrapbook's contents seriously was because the Sonozaki syndicate appeared to be pursuing Rena for possessing them.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Sonozaki family was apparently after Rena Ryuugu for the scrapbooks she had'; new: 'Sonozaki syndicate appeared to be pursuing Rena for possessing them.' JPN 園崎組 = syndicate, not family.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 88932,
+    "TextENGNew": "On top of that, Takano -- the very author of the scrapbooks -- had been murdered!",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 88933,
+    "TextENGNew": "...Those two facts alone had been enough to make him believe in this absurd B-movie occult theory.",
+    "significantChanges": true,
+    "changeReason": "Old: 'that occult b-novel'; new: 'this absurd B-movie occult theory.' JPN Ｂ級オカルト = 'B-grade occult', new's 'B-movie' captures the pop-culture connotation better.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 88934,
+    "TextENGNew": "...Ooishi had undeniably been desperate.@k He had no choice but to admit that now.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi was frustrated without a doubt. He has to accept that he was wrong.'; new: 'Ooishi had undeniably been desperate. He had no choice but to admit that now.' JPN 焦り = 'impatience/desperation', not 'frustration'. Also 'He has to' (present) vs 'had no choice but to' (past) - tense error in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 88935,
+    "TextENGNew": "He had been so eager to crack the Hinamizawa serial mysterious deaths before his retirement that he had jumped at any new lead.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi was eager for any information'; new: 'He had been so eager to crack the case before his retirement that he had jumped at any new lead.' New captures JPN 焦っていた (was being impatient/hasty) better.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 88936,
+    "TextENGNew": "...And then, through a perfect storm of suggestive circumstances, a ludicrous theory had taken on an air of credibility.",
+    "significantChanges": true,
+    "changeReason": "Old: 'A combination of a number of factors made Takano's ridiculous theory become highly creditable to him'; new: 'through a perfect storm of suggestive circumstances, a ludicrous theory had taken on an air of credibility.' JPN 微妙な要因 = 'subtle/delicate factors', not just 'a number of factors'.",
+    "changeScore": 3
+  },
+  {
+    "index": 125,
+    "MessageID": 88937,
+    "TextENGNew": "``There are some things I'd like to ask.@k@vS09/11/170700293. What happened to Miyo Takano?!``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Let me ask you something. Why was Miyo Takano killed?'; new: 'There are some things I'd like to ask. What happened to Miyo Takano?!' JPN いくつかお聞きしたい = 'I'd like to ask several things' (plural). Also 鷹野三四はどうして = 'what about Takano?/what happened to Takano?', not specifically 'why was she killed'.",
+    "changeScore": 3
+  },
+  {
+    "index": 126,
+    "MessageID": 88938,
+    "TextENGNew": "``Regarding both Miyo Takano and Jirou Tomitake, our family has absolutely no involvement.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'We have no idea what happened to'; new: 'our family has absolutely no involvement.' JPN 一切関知しておりません = 'we have absolutely no involvement/knowledge', about denial of involvement, not ignorance.",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 88939,
+    "TextENGNew": "``Of course you'd say that.@k@vS09/11/170700295. No liar in this world ever calls himself a liar.``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 88940,
+    "TextENGNew": "``...My, my, Ooishi-san.@k@vS09/03/170300588. ...If we had disposed of them... do you really think the bodies would have turned up...?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'we'd do such a lousy job as to let the police find the bodies'; new: 'the bodies would have turned up.' JPN 死体が出るとお思いで = 'do you think bodies would appear', about bodies surfacing, not about a 'lousy job'.",
+    "changeScore": 3
+  },
+  {
+    "index": 129,
+    "MessageID": 88941,
+    "TextENGNew": "Mion let a cold, shadowed smile cross her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 88942,
+    "TextENGNew": "...That was a step too far.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 88943,
+    "TextENGNew": "Akane cleared her throat in reproach, and Mion immediately fell silent.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Akane cleared her throat as if to condemn the statement'; new: 'Akane cleared her throat in reproach.' JPN 咎める = 'to blame/reproach'. 'Condemn' is stronger than 'reproach'.",
+    "changeScore": 3
+  },
+  {
+    "index": 132,
+    "MessageID": 88944,
+    "TextENGNew": "Ooishi glared back at the young heir with undisguised hostility.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi glared at the young successor'; new: 'Ooishi glared back at the young heir with undisguised hostility.' JPN 憎々しげに = 'hatefully/with hostility', which new captures but old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 133,
+    "MessageID": 88945,
+    "TextENGNew": "...But logically, Mion had a point.",
+    "significantChanges": true,
+    "changeReason": "Old: 'he knew she was right'; new: 'logically, Mion had a point.' JPN 筋は魅音の方が通っていた = 'Mion's argument was more logical/consistent'. Old says she was 'right' (absolutely); new says she 'had a point' (her argument was sound).",
+    "changeScore": 3
+  },
+  {
+    "index": 134,
+    "MessageID": 88946,
+    "TextENGNew": "``...Then why are you going after Rena Ryuugu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 88947,
+    "TextENGNew": "``As we've been saying from the start, we are not.@k@vS09/03/170300590. We acknowledge it was our mistake that the situation gave that impression.@k@vS09/03/170300591. For that, I offer our sincerest apologies.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 88948,
+    "TextENGNew": "``........................``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 88949,
+    "TextENGNew": "One by one, the reasons that had led Ooishi to take Rena's delusions seriously were crumbling away...",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 88950,
+    "TextENGNew": "Mion and Akane exchanged a glance.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 88951,
+    "TextENGNew": "...Apparently Akane would deliver the next part. She spoke in a clear, commanding voice.",
+    "significantChanges": true,
+    "changeReason": "Old: 'They must have decided to let Akane speak. She did so firmly.'; new: 'Apparently Akane would deliver the next part. She spoke in a clear, commanding voice.' JPN 凛とした声 = 'dignified/commanding voice', which new captures better than 'firmly'.",
+    "changeScore": 3
+  },
+  {
+    "index": 140,
+    "MessageID": 88952,
+    "TextENGNew": "``We have a request to make.@k@vS09/16/172200024. ...It is not our wish to become entangled with the police over such baseless nonsense.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 88953,
+    "TextENGNew": "...We understand that a Sankai from the prefectural police's organized crime division has been coordinating with Public Safety.@k@vS09/16/172200026. The plan being to use some trivial pretext to launch simultaneous raids on everything connected to our family.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'We heard that Sankai from the police headquarters started work with the Public Safety Division'; new: 'We understand that a Sankai from the prefectural police's organized crime division has been coordinating with Public Safety.' JPN 県警暴対本部 = 'prefectural police organized crime headquarters', not general 'police headquarters'.",
+    "changeScore": 3
+  },
+  {
+    "index": 142,
+    "MessageID": 88954,
+    "TextENGNew": "That had been at Ooishi's initiative.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 88955,
+    "TextENGNew": "Ooishi, taking Rena's account at face value, had wanted to locate the research facility developing the 'parasite' and seize it as evidence of a terrorist plot.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 88956,
+    "TextENGNew": "...But with no idea where to even begin looking, he had been maneuvering to launch a massive coordinated operation across the entire prefecture, enlisting the organized crime task force and Public Safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 88957,
+    "TextENGNew": "Under normal circumstances, neither the organized crime division nor Public Safety would mobilize on circumstantial evidence alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 88958,
+    "TextENGNew": "Public Safety, in particular, had gone so far as to question Ooishi's sources, stating their own intelligence network had detected nothing remotely suggestive of terrorism.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 88959,
+    "TextENGNew": "But Ooishi had leveraged his old connections and sheer persistence to strong-arm the cooperation through.",
+    "significantChanges": true,
+    "changeReason": "Old: 'took advantage of his long career and his old friends'; new: 'leveraged his old connections and sheer persistence to strong-arm the cooperation through.' JPN 強引に調整 = 'forced/strong-armed the coordination', which new captures but old misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 148,
+    "MessageID": 88960,
+    "TextENGNew": "A sheen of nervous sweat glistened on Ooishi's face... Without him saying a word, it was plain to everyone that he had realized his colossal mistake.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Needless to say, he realized he was completely wrong'; new: 'Without him saying a word, it was plain to everyone that he had realized his colossal mistake.' JPN 言わずともうかがえた = 'could be perceived without saying', about others seeing it, not just his realization.",
+    "changeScore": 3
+  },
+  {
+    "index": 149,
+    "MessageID": 88961,
+    "TextENGNew": "``Our family did cause some difficulties during the dam conflict, but as Showa 60 approaches, we feel the times are changing.",
+    "significantChanges": true,
+    "changeReason": "Old: 'the era is reaching its end, and things have changed'; new: 'as Showa 60 approaches, we feel the times are changing.' JPN 昭和も60年代を前にし = 'with Showa 60s ahead', a specific temporal reference new preserves.",
+    "changeScore": 3
+  },
+  {
+    "index": 150,
+    "MessageID": 88962,
+    "TextENGNew": "We remain a chivalrous organization that protects the weak and stands against the powerful, but we are also seeking a more peaceful path in keeping with the era.@k@vS09/16/172200029. If we were subjected to a police raid now, it would utterly destroy our reputation.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'We're a yakuza group that sides with the weak and crushes the strong'; new: 'We remain a chivalrous organization that protects the weak and stands against the powerful.' JPN 任侠団体 = 'chivalrous organization' (how yakuza self-style), which new captures more precisely.",
+    "changeScore": 3
+  },
+  {
+    "index": 151,
+    "MessageID": 88963,
+    "TextENGNew": "``Your reputation is none of our concern.@k@vS09/11/170700299. We always find something when we dig.@k@vS09/11/170700300. The raids will go ahead as planned.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Who cares about your face?'; new: 'Your reputation is none of our concern.' JPN あんたのとこの面目なんて知ったことじゃない = 'your side's reputation is none of our business'. More formal in new matching scene context.",
+    "changeScore": 3
+  },
+  {
+    "index": 152,
+    "MessageID": 88964,
+    "TextENGNew": "``If you find something, that's all well and good.@k@vS09/16/172200031. ...But if you don't, I expect even someone of your standing, Ooishi-san, would face serious consequences.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'a big liability issue that even you won't escape lightly'; new: 'even someone of your standing, Ooishi-san, would face serious consequences.' JPN 軽んじれない責任問題 = 'responsibility issue that cannot be taken lightly'. Different framing of the consequence.",
+    "changeScore": 3
+  },
+  {
+    "index": 153,
+    "MessageID": 88965,
+    "TextENGNew": "``...Fine by me. You really want an all-out war?!@k@vS09/11/170700302. Huh?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 88966,
+    "TextENGNew": "``If that is what you wish, then so be it.@k@vS09/16/172200033. ...Please, carry out your duties to your heart's content.@k@vS09/16/172200034. Our family is prepared to meet whatever comes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 88967,
+    "TextENGNew": "``...Tch...............``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Wha...'; new: 'Tch...' JPN くッ = expression of frustration/clicking tongue, not surprise ('Wha'). Significantly different emotional reaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 156,
+    "MessageID": 88968,
+    "TextENGNew": "...Akane was every bit as formidable as her reputation suggested.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Akane Sonozaki didn't betray Ooishi's expectations'; new: 'Akane was every bit as formidable as her reputation suggested.' JPN さすがは園崎茜 = 'as expected of Akane Sonozaki' (acknowledging her skill). Old's 'didn't betray expectations' is ambiguous; new captures the admiration.",
+    "changeScore": 3
+  },
+  {
+    "index": 157,
+    "MessageID": 88969,
+    "TextENGNew": "...Though she had lost her right of succession, the sheer weight of her experience was incomparable to Mion's.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Although her right to become the successor was taken away, Akane had been through a lot more than Mion'; new: 'Though she had lost her right of succession, the sheer weight of her experience was incomparable to Mion's.' JPN 踏んで来た場数 = 'the number of situations she'd been through', new's 'sheer weight of experience' is more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 158,
+    "MessageID": 88970,
+    "TextENGNew": "With those words hanging in the air, Ooishi had backed himself into a corner.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi couldn't back out now'; new: 'With those words hanging in the air, Ooishi had backed himself into a corner.' JPN 引っ込みがつかない = 'can't back down/save face'. Old says 'couldn't back out'; new adds the context of being cornered.",
+    "changeScore": 3
+  },
+  {
+    "index": 159,
+    "MessageID": 88971,
+    "TextENGNew": "But deep down, he knew this was a fight heavily stacked against him.@k ...Kumagai, sensing this, stepped in to defuse the situation.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Kumagai butted in, and tried to calm him down'; new: 'Kumagai, sensing this, stepped in to defuse the situation.' JPN それを熊谷がくみ = 'Kumagai understood/sensed that', which new captures ('sensing this').",
+    "changeScore": 3
+  },
+  {
+    "index": 160,
+    "MessageID": 88972,
+    "TextENGNew": "``...What would we receive in exchange for calling off the raids...?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'If we put a stop to the raids'; new: 'if we call off the raids.' Also JPN 見返り = 'compensation/return', both translate similarly. But 'put a stop to' implies permanently stopping something already started; 'calling off' is more appropriate for planned raids.",
+    "changeScore": 3
+  },
+  {
+    "index": 161,
+    "MessageID": 88973,
+    "TextENGNew": "This time, Mion answered.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 88974,
+    "TextENGNew": "``As a gesture of mutual goodwill, we will present you with these scrapbooks.@k@vS09/03/170300593. With them in hand, you can still use Takano as your excuse and withdraw the operation gracefully.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'We'll give you these scrapbooks as proof of our friendship'; new: 'As a gesture of mutual goodwill, we will present you with these scrapbooks.' JPN 双方の友好の証 = 'proof of mutual friendship', new adds 'mutual' matching JPN. Also new adds context about using Takano as an excuse.",
+    "changeScore": 3
+  },
+  {
+    "index": 163,
+    "MessageID": 88975,
+    "TextENGNew": "These scrapbooks proved beyond doubt how ludicrous Miyo Takano's theories were.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 88976,
+    "TextENGNew": "Takano was dead, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 88977,
+    "TextENGNew": "Ooishi could claim he had been led astray by a dead woman's ramblings. There was still time to pull back.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ooishi could show people these scrapbooks and say he was fooled. He could still pretend the whole raid thing never happened.'; new: 'Ooishi could claim he had been led astray by a dead woman's ramblings. There was still time to pull back.' JPN 死人の妄言に振り回された = 'led astray by a dead person's ravings'. Old doesn't mention the dead person framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 166,
+    "MessageID": 88978,
+    "TextENGNew": "...He wouldn't escape responsibility entirely, but pressing forward would only lead to an inescapable quagmire.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 88979,
+    "TextENGNew": "...This very moment was the optimal time to retreat.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 88980,
+    "TextENGNew": "Ooishi was not well-liked by the brass.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 88981,
+    "TextENGNew": "...If he committed a blunder this enormous right before retirement, those who had been waiting for a chance to settle scores would gleefully slash his pension.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 88982,
+    "TextENGNew": "Retirement pay was calculated as a multiple of base salary.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 88983,
+    "TextENGNew": "...If they cut the supplementary portions of his base salary, a substantial reduction would be unavoidable...",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 88984,
+    "TextENGNew": "``...Ooishi-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 88985,
+    "TextENGNew": "Ooishi steeled himself to withdraw.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 88986,
+    "TextENGNew": "...He had never imagined he would be forced to admit his own mistakes at this age. His expression twisted bitterly.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 88987,
+    "TextENGNew": "``...Kuma-chan, take it from here.@k@vS09/11/170700305. ...I think I've had a bit too much to drink.@k@vS09/11/170700306. I'm going to step outside and cool off on the veranda.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 88988,
+    "TextENGNew": "...Excuse me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 88989,
+    "TextENGNew": "Ooishi rose abruptly and stomped out into the hallway, his heavy footsteps echoing.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 88990,
+    "TextENGNew": "Kasai closed the door Ooishi had left open, and silence filled the room once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 88991,
+    "TextENGNew": "Into that silence, Kumagai spoke again.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 88992,
+    "TextENGNew": "``We understand the Sonozaki family's position.@k@vS09/19/173100048. The police have no desire to disrupt the various industries you oversee, nor do we wish to provoke skirmishes.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Our intention isn't to cause trouble to all the organizations you own.'; new: 'The police have no desire to disrupt the various industries you oversee, nor do we wish to provoke skirmishes.' JPN adds 小競り合いを誘致することもまた本意ではありません (nor is provoking skirmishes our intention), which old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 181,
+    "MessageID": 88993,
+    "TextENGNew": "Therefore, in the interest of maintaining public order, I would like to confirm that the police and the Sonozaki family will continue to work together.@k@vS09/19/173100050. ...Accordingly, the simultaneous raids will be called off.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'we're going to put off doing the simultaneous raids'; new: 'the simultaneous raids will be called off.' JPN 見送らせていただきます = 'we will forgo/cancel'. 'Put off' implies delay; 'called off' implies cancellation. Different outcome.",
+    "changeScore": 3
+  },
+  {
+    "index": 182,
+    "MessageID": 88994,
+    "TextENGNew": "``Thank you very much.@k@vS09/03/170300595. On behalf of the Sonozaki family head, Oryou, I express our deepest gratitude.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I'm sure our leader, Oryou, appreciates your concern as well'; new: 'On behalf of the Sonozaki family head, Oryou, I express our deepest gratitude.' JPN お魎に代わりまして = 'on behalf of Oryou', not 'I'm sure Oryou appreciates'. Different speech act.",
+    "changeScore": 3
+  },
+  {
+    "index": 183,
+    "MessageID": 88995,
+    "TextENGNew": "``As agreed, we will take custody of the scrapbooks.@k@vS09/19/173100052. There are two additional conditions.``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 88996,
+    "TextENGNew": "``Please go ahead.``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 88997,
+    "TextENGNew": "``First, if the Sonozaki family comes into possession of any scrapbooks not present here today, they must be promptly turned over to the police.@k@vS09/19/173100054. Second, if you locate Rena Ryuugu, you must immediately hand her over to us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 88998,
+    "TextENGNew": "``The second condition is unacceptable.@k@vS09/03/170300598. Rena Ryuugu is merely a young girl gripped by delusions.@k@vS09/03/170300599. We will secure her safety ourselves and arrange for appropriate medical treatment.@k@vS09/03/170300600. That is also her right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 88999,
+    "TextENGNew": "``We cannot yield on that point either.@k@vS09/19/173100056. We have the right to question Rena Ryuugu regarding the Takano murder and other matters@k@vS09/19/173100057. as a key witness,@k@vS09/19/173100058. not as a suspect.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'We can't accept that, either'; new: 'We cannot yield on that point either.' JPN 主張を引けません = 'cannot withdraw our assertion'. Also '重要参考人' = 'key witness/important person of interest', old says 'material witness'.",
+    "changeScore": 3
+  },
+  {
+    "index": 188,
+    "MessageID": 89000,
+    "TextENGNew": "Akane leaned in and whispered something to Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 89001,
+    "TextENGNew": "Mion gave a small nod before speaking.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 89002,
+    "TextENGNew": "``Understood.@k@vS09/03/170300602. We will accept the second condition.@k@vS09/03/170300603. However, we have an additional condition of our own.@k@vS09/03/170300604. We will dispatch a lawyer to protect Rena Ryuugu's rights.@k@vS09/03/170300605. All questioning of Rena Ryuugu must be conducted in the lawyer's presence.``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 89003,
+    "TextENGNew": "``Agreed.@k@vS09/19/173100060. But let me confirm one thing.@k@vS09/19/173100061. We will not accept any obstruction caused by the deliberate absence of the Sonozaki family's lawyer.@k@vS09/19/173100062. The police will begin questioning immediately upon securing Rena Ryuugu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 89004,
+    "TextENGNew": "``We have no issue with that.@k@vS09/03/170300607. However, you must notify us immediately upon securing her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 89005,
+    "TextENGNew": "``We will contact you at the earliest opportunity.``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 89006,
+    "TextENGNew": "Akane interjected.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 89007,
+    "TextENGNew": "``We won't accept it if you call us after you've already finished your questioning.@k@vS09/16/172200036. You must contact us the moment she is secured.",
+    "significantChanges": true,
+    "changeReason": "Old: 'You have to call us before you question her. You must call us the very moment she's found.'; new: 'We won't accept it if you call us after you've already finished your questioning. You must contact us the moment she is secured.' JPN 尋問をあらかた終えてから電話されても困ります = 'we'd be troubled if you called after mostly finishing the questioning'. New captures the complaint about timing better.",
+    "changeScore": 3
+  },
+  {
+    "index": 196,
+    "MessageID": 89008,
+    "TextENGNew": "...This agreement is built on mutual trust and good faith.@k@vS09/16/172200038. I trust you will never, ever think of reneging on it.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'please do be careful not to do anything that might waste it'; new: 'I trust you will never, ever think of reneging on it.' JPN ゆめゆめ反故にされることがないよう = 'never ever go back on it'. 'Reneging' is more precise than 'waste it'.",
+    "changeScore": 3
+  },
+  {
+    "index": 197,
+    "MessageID": 89009,
+    "TextENGNew": "``...Understood.@k@vS09/19/173100065. This is an agreement founded on good faith from both sides.@k@vS09/19/173100066. We will honor it with the utmost sincerity.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'You have my word on that. We'll try to keep our promise with the best of intentions.'; new: 'This is an agreement founded on good faith from both sides. We will honor it with the utmost sincerity.' JPN 双方による善意の取り決め = 'agreement of good faith from both sides', which old simplifies to 'you have my word'.",
+    "changeScore": 3
+  },
+  {
+    "index": 198,
+    "MessageID": 89010,
+    "TextENGNew": "For a brief instant, sparks flew between Akane and Kumagai's gazes.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 89011,
+    "TextENGNew": "...Kumagai, for his part, was remarkably composed.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 89012,
+    "TextENGNew": "...Overshadowed by the flamboyant Ooishi, he rarely stood out, but his nerve as a detective was every bit a match.",
+    "significantChanges": true,
+    "changeReason": "Old: 'he had as much guts as his superior did'; new: 'his nerve as a detective was every bit a match.' JPN 決して負けていない = 'absolutely not inferior'. Old specifies 'his superior' (Ooishi); new leaves it as general comparison.",
+    "changeScore": 3
+  },
+  {
+    "index": 201,
+    "MessageID": 89013,
+    "TextENGNew": "Ooishi excelled at the confrontational, strong-arm approach... but this kind of negotiation was Kumagai's true domain.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 89014,
+    "TextENGNew": "The proceedings concluded, and the detectives rose to their feet. The tense standoff had finally come to an end.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 89015,
+    "TextENGNew": "Kasai packed the scrapbooks back into the attache case and handed it to Kumagai.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 89016,
+    "TextENGNew": "Kumagai met Kasai's eyes, gave a slight nod, and accepted the case.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 89017,
+    "TextENGNew": "``This is a top-quality Italian leather case.@k@vS09/16/172200040. Consider it a parting gift -- please take it with you.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'This is a very expensive case made in Italy'; new: 'This is a top-quality Italian leather case.' JPN イタリー製の最高級鞄 = 'top-quality Italian-made bag'. New adds 'leather' not explicitly in JPN but reasonable; old just says 'very expensive'.",
+    "changeScore": 3
+  },
+  {
+    "index": 206,
+    "MessageID": 89018,
+    "TextENGNew": "``No, per our agreement, we're only to take the scrapbooks.@k@vS09/19/173100068. We'll return the case to the Sonozaki syndicate office at a later date.@k@vS09/19/173100069. ...Thank you for your time.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 89019,
+    "TextENGNew": "...Please give our regards to the family head, Oryou-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 89020,
+    "TextENGNew": "The detectives offered Mion a final bow before filing out of the room...",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 89021,
+    "TextENGNew": "Once Mion confirmed the sound of their footsteps had faded down the hall, she let out an enormous sigh, as though a taut string had finally snapped.",
+    "significantChanges": true,
+    "changeReason": "Old: 'After making sure that the police had left the hallway, Mion sighed heavily'; new: 'Once Mion confirmed the sound of their footsteps had faded down the hall, she let out an enormous sigh, as though a taut string had finally snapped.' JPN 足音が廊下の向こうに消えた = 'footsteps disappeared beyond the hallway', and 緊張の糸が切れた = 'tension string snapped'. New captures both specific details.",
+    "changeScore": 3
+  },
+  {
+    "index": 210,
+    "MessageID": 89022,
+    "TextENGNew": "She stretched her legs out and flapped the hem of her skirt to fan herself.",
+    "significantChanges": true,
+    "changeReason": "Old: 'She spread her feet on the floor, flapping the rim of her skirt'; new: 'She stretched her legs out and flapped the hem of her skirt to fan herself.' JPN 裾をばたばたと扇ぐ = 'flapping the hem to fan'. New adds 'to fan herself' matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 211,
+    "MessageID": 89023,
+    "TextENGNew": "``Ahh... my shoulders are killing me...",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 89024,
+    "TextENGNew": "Why couldn't you have handled this yourself, Mom...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 89025,
+    "TextENGNew": "``Don't be silly -- your rank is higher than mine.@k@vS09/16/172200042. In situations like these, it's about title, not age.@k@vS09/16/172200043. Kasai, tell the waitress to bring some beer.@k@vS09/16/172200044. And let the boys outside in and get them something cold to drink too.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Don't be silly. Your rank is higher than mine. Rank is everything, not age.'; new: 'Don't be silly -- your rank is higher than mine. In situations like these, it's about title, not age.' JPN 肩書き = 'title/rank'. Old says 'Rank is everything'; new says 'it's about title' which is closer to JPN's specific context.",
+    "changeScore": 3
+  },
+  {
+    "index": 214,
+    "MessageID": 89026,
+    "TextENGNew": "``Just beer, ma'am?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'You want me to bring only beer?'; new: 'Just beer, ma'am?' JPN よろしいですか = polite 'is that alright?' New adds 'ma'am' capturing the deference of a subordinate.",
+    "changeScore": 3
+  },
+  {
+    "index": 215,
+    "MessageID": 89027,
+    "TextENGNew": "``Oh, not for this one.@k@vS09/16/172200046. Order some orange juice for her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 89028,
+    "TextENGNew": "``Hey, don't treat me like a kid.@k@vS09/03/170300611. So much for rank meaning everything, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 89029,
+    "TextENGNew": "``You'll always be a big kid to me, no matter how old you get.@k@vS09/16/172200048. Anyway.@k@vS09/16/172200049. Your father pulled a lot of strings to make this happen.@k@vS09/16/172200050. Make sure you thank him properly.@k@vS09/16/172200051. You too, Kasai.@k@vS09/16/172200052. Next time you deal with civilians, be more careful!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'meeting with the common man' but 堅気 means 'ordinary citizen/non-yakuza'; new captures this better.",
+    "changeScore": 3
+  },
+  {
+    "index": 218,
+    "MessageID": 89030,
+    "TextENGNew": "``...I'm thoroughly ashamed...``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I'm a little embarrassed...'; new: 'I'm thoroughly ashamed...' JPN みっともない限り = 'utterly disgraceful/shameful', much stronger than 'a little embarrassed'.",
+    "changeScore": 3
+  },
+  {
+    "index": 219,
+    "MessageID": 89031,
+    "TextENGNew": "``Still, though -- making a fool out of Ooishi of all people? Rena-chan's got some nerve!@k@vS09/16/172200054. You sure do collect some impressive friends!@k@vS09/16/172200055. You should introduce her to your mother sometime.@k@vS09/16/172200056. I'd love to take her to the theater!",
+    "significantChanges": true,
+    "changeReason": "Old: 'I'm very impressed with Rena-chan for making a fool out of Ooishi'; new: 'making a fool out of Ooishi of all people? Rena-chan's got some nerve!' Different framing - old is admiration, new captures JPN's yakuza-mom tone better.",
+    "changeScore": 3
+  },
+  {
+    "index": 220,
+    "MessageID": 89032,
+    "TextENGNew": "Kasai, next time you see Rena-chan, be sure to pass that along for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 89033,
+    "TextENGNew": "And don't go filling her head with any more scary stories, you hear?!``",
+    "significantChanges": true,
+    "changeReason": "Old: 'don't tell her any more creepy stories, alright?'; new: 'don't go filling her head with any more scary stories, you hear?!' JPN 物騒な話 = 'dangerous/disturbing stories', and the tone in new with 'you hear?!' better matches JPN's commanding register.",
+    "changeScore": 3
+  },
+  {
+    "index": 222,
+    "MessageID": 89034,
+    "TextENGNew": "``O-Of course, I understand perfectly, ma'am.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'O-Of course, I'm well aware of that.'; new: 'O-Of course, I understand perfectly, ma'am.' JPN 姐さん = 'ma'am/big sister' (yakuza term of respect for a woman), which new captures.",
+    "changeScore": 3
+  },
+  {
+    "index": 223,
+    "MessageID": 89035,
+    "TextENGNew": "With that... the dark spell cast by Takano's scrapbooks, which had centered around Rena, should have been broken.",
+    "significantChanges": true,
+    "changeReason": "Old: 'they successfully dispelled the magical power of Takano's scrapbooks'; new: 'the dark spell cast by Takano's scrapbooks should have been broken.' JPN 封殺できたはずだ = 'should have been able to seal away', conditional with はず. Old states it definitively; new preserves the 'should have' uncertainty.",
+    "changeScore": 3
+  },
+  {
+    "index": 224,
+    "MessageID": 89036,
+    "TextENGNew": "There was no reason for the situation to escalate any further.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 89037,
+    "TextENGNew": "All that remained now... was the matter of Rena herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 89038,
+    "TextENGNew": "Rena... where on earth are you hiding...?",
+    "significantChanges": true,
+    "changeReason": "Old: 'Where could she be hiding...?'; new: 'Rena... where on earth are you hiding...?' JPN explicitly says レナ (Rena) and 一体あんた (where on earth you), which old omits.",
+    "changeScore": 3
+  }
+]

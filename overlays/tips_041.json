@@ -1,0 +1,253 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Request Denied",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 13688,
+    "TextENGNew": "\"Welcome back!!\"",
+    "significantChanges": true,
+    "changeReason": "\"I'm back\" changed to \"Welcome back\" -- the Japanese お疲れさまです is said by the greeter to welcome someone back, not by the person arriving.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 13689,
+    "TextENGNew": "\"How did it go? Find any leads?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13690,
+    "TextENGNew": "...The officers shook their heads with obvious disappointment.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13691,
+    "TextENGNew": "Exhaustion was written plainly across every face.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13692,
+    "TextENGNew": "It was only natural.@kNone of them had slept a wink since the day of Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13693,
+    "TextENGNew": "\"Chief, please let the younger ones take naps in shifts.@k@vS20/11/440700162.We've got a long haul ahead of us.@k@vS20/11/440700163.Let's not push too hard -- rest up and take it steady.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13694,
+    "TextENGNew": "\"I keep telling them to rest in shifts, but nobody wants to be the first to lie down.@k@vS20/00/442700021....Could you tell them, Ooishi-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13695,
+    "TextENGNew": "\"Oh dear. You really don't need to force yourselves, you know?@k@vS20/11/440700165.Komiyama-kun.@k@vS20/11/440700166.Please arrange for everyone to rest in shifts, starting with the youngest.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13696,
+    "TextENGNew": "\"Komiyama-san. Please see to it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13697,
+    "TextENGNew": "With the order now repeated by the chief, Komiyama-kun rose from his seat.",
+    "significantChanges": true,
+    "changeReason": "\"Komiyama-san\" changed to \"Komiyama-kun\" -- the Japanese uses くん (kun), a different honorific than さん (san).",
+    "changeScore": 1
+  },
+  {
+    "index": 11,
+    "MessageID": 13698,
+    "TextENGNew": "\"So, Chief. About that request of ours -- still no luck?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13699,
+    "TextENGNew": "\"...In the first place, it's just village rumors, isn't it? Without more concrete evidence, it's going to be difficult.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13700,
+    "TextENGNew": "\"But that evidence might very well be locked up inside there, don't you think?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 13701,
+    "TextENGNew": "\"We need evidence that evidence is locked up in there...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 13702,
+    "TextENGNew": "\"Chief~ This isn't a riddle, you know.@k@vS20/11/440700170.Four people, including the two who died, broke into the forbidden ritual storehouse on the night of Watanagashi, and someone witnessed it!@k@vS20/11/440700171.This much is reliable information.\"",
+    "significantChanges": true,
+    "changeReason": "Old omits 綿流しの晩に (on the night of Watanagashi) and 何者かが見ていた (someone witnessed it), which the new translation includes.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 13703,
+    "TextENGNew": "\"You call it information, but at the end of the day it's still just rumors. It's not proof.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 13704,
+    "TextENGNew": "\"Well sure, we don't have photographs of the four of them sneaking in with towels over their faces.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 13705,
+    "TextENGNew": "\"The point is, those four saw something inside that storehouse! Something worth killing to keep hidden!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 13706,
+    "TextENGNew": "\"Worth killing to keep hidden? And what would that be, exactly?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 13707,
+    "TextENGNew": "...That's precisely why I'm requesting a warrant in the first place...!",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 13708,
+    "TextENGNew": "\"The Sonozaki family's black market connections are a strong possibility. Guns, contraband, that sort of thing.@k@vS20/11/440700175.The Sonozaki family's hidden assets are also a prospect we can't dismiss.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 13709,
+    "TextENGNew": "\"...Ooishi-san, I understand how you feel! But that storehouse is a sacred building belonging to Furude Shrine, and searching it requires the utmost sensitivity toward the locals.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 13710,
+    "TextENGNew": "I heard Assemblyman Sonozaki called the superintendent for a full hour on the phone.@k...Chief, did the brass put the screws on you?",
+    "significantChanges": true,
+    "changeReason": "\"Congressman\" changed to \"Assemblyman\" (県議 = prefectural assemblyman, not national congressman); \"the big man\" changed to \"the superintendent\" (署長 = station chief).",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 13711,
+    "TextENGNew": "\"Regardless! Without substantial evidence, we will not get a search warrant for the storehouse.@k@vS20/00/442700029.The same goes for the Sonozaki main house!@k@vS20/00/442700030.A search of the Sonozaki estate in particular involves Section Four and the prefectural police's organized crime division.@k@vS20/00/442700031.Careful coordination is required!\"",
+    "significantChanges": true,
+    "changeReason": "\"Crime prevention division\" changed to \"organized crime division\" -- 暴対 is short for 暴力団対策 (organized crime countermeasures), specifically anti-yakuza operations, not general crime prevention.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 13712,
+    "TextENGNew": "\"...If coordination is what's needed, I'll go talk to them directly. The Section Four chief is Shige-chan, right?@k@vS20/11/440700177.Organized crime is Sankai-san.@k@vS20/11/440700178.Seems like the kind of guys I could sort things out with faster over a mahjong table.\"",
+    "significantChanges": true,
+    "changeReason": "Same correction of 暴対 from \"crime prevention\" to \"organized crime\"; consistently updating the division name throughout the conversation.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 13713,
+    "TextENGNew": "\"C-Chief, you have a visitor...! Um... oh no!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 13714,
+    "TextENGNew": "Shoving aside the officer who had been escorting him, an old man in a formal crested kimono and hakama -- looking for all the world like a yakuza boss -- barged in.@k...So the phone call wasn't enough for him?",
+    "significantChanges": true,
+    "changeReason": "\"Yakuza member\" changed to \"yakuza boss\" -- 親分 specifically means boss/leader, not just a member.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 13715,
+    "TextENGNew": "\"I am Assemblyman Sonozaki!! Bring me the person responsible for this!!!@k@vS20/00/saburo44002.Now!!\"",
+    "significantChanges": true,
+    "changeReason": "\"Congressman\" corrected to \"Assemblyman\" (県議); \"I demand to know who's responsible\" changed to \"Bring me the person responsible\" matching 責任者を出さんか (bring out the person in charge).",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 13716,
+    "TextENGNew": "\"H-Hello...! I am the division chief, Takasugi!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 13717,
+    "TextENGNew": "\"I don't need YOUR card!! I could have you shipped off to a dead-end post on a whim!@k@vS20/00/saburo44004.And you alone aren't enough!@k@vS20/00/saburo44005.Bring out the man called Ooishi!!@k@vS20/00/saburo44006.The impious wretch who had the audacity to request a search warrant for the sacred Furude Shrine!!!\"",
+    "significantChanges": true,
+    "changeReason": "\"Name\" changed to \"card\" (名刺 = business card, not name); \"demoted\" changed to \"shipped off to a dead-end post\" (閑職に飛ばせる = transfer to a dead-end/sinecure position, which is different from demotion).",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 13718,
+    "TextENGNew": "\"I-I am terribly sorry...! O-Ooishi is currently out on investigation and has been difficult to reach... I will hear your concerns in his stead...!@k@vS20/00/442700034.P-Please, have a seat!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 13719,
+    "TextENGNew": "The chief's eyes were signaling me to slip out while I could.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 13720,
+    "TextENGNew": "...Perhaps I should gratefully accept this favor...@kMaybe I'll go lie down in the nap room for a bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 13721,
+    "TextENGNew": "\"Listen well!! Furude Shrine boasts a history of 2,500 years, second only to the 2,600-year imperial calendar! It is sacred! An inviolable sanctuary!!\"",
+    "significantChanges": true,
+    "changeReason": "Old misinterprets the numbers as additive (\"2600 years + 2500 more\"); the Japanese says the shrine has a 2,500-year history second only to the 2,600-year imperial calendar.",
+    "changeScore": 4
+  },
+  {
+    "index": 35,
+    "MessageID": 13722,
+    "TextENGNew": "\"The eight million gods, Oyashiro-sama, and the spirits of our ancestors are enshrined there. That hallowed shrine watches over Hinamizawa from sunrise to sunset, from moonrise to moonset.@k@vS20/00/saburo44009.And some fool wants to trample upon it with his dirty boots?!?!\"",
+    "significantChanges": true,
+    "changeReason": "\"Eight hundred thousand gods\" corrected to \"eight million gods\" -- 八百万 (yaoyorozu) means eight million, not eight hundred thousand.",
+    "changeScore": 4
+  },
+  {
+    "index": 36,
+    "MessageID": 13723,
+    "TextENGNew": "\"Freedom of religion is the most sacred right of the people, enshrined in the very constitution!!! And you would dare defile that right, using your own investigative incompetence as a pretext!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 13724,
+    "TextENGNew": "\"This is absolutely unforgivable!!! Are you even listening, you utter buffoon?!@k@vS20/00/saburo44012.You would do well not to think you can cross me and walk away unscathed!!!\"",
+    "significantChanges": true,
+    "changeReason": "\"Lying scum\" changed to \"utter buffoon\" -- 大戯け means great fool/buffoon, not liar or scum.",
+    "changeScore": 3
+  }
+]

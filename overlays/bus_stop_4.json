@@ -1,0 +1,738 @@
+[
+  {
+    "index": 1,
+    "MessageID": 156031,
+    "TextENGNew": "A thunderclap.@k@rThe stage gradually brightens.@k@rThe roar of the downpour fades into the distance.@k@rArakawa alone has still not returned from the bathroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 156032,
+    "TextENGNew": "\"...He's taking a while. Arakawa-kun. ...Maybe he's come over ill again...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 156033,
+    "TextENGNew": "\"...Is Arakawa-san unwell?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 156034,
+    "TextENGNew": "\"Oh right, you were in the bathroom. ...While you were out, he was writhing around saying his head was pounding.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'you weren't there, were you?' vs new 'you were in the bathroom'; JPN '梨花さんいなかったんですよね' then 'さっき梨花さんがお手洗に行ってる時' - old keeps it vague, new specifies she was in the bathroom.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 156035,
+    "TextENGNew": "\"He said it felt like an attack of some kind. Let me think... @k@|@y@vS26/53/TMIO_1021. Sub-arack-noid hemorrhaging!\"",
+    "significantChanges": true,
+    "changeReason": "Old 'They said it was a sign of something. Uhh, uhh......Supearninggud hemorrhaging'!' vs new 'He said it felt like an attack of some kind. Let me think... Sub-arack-noid hemorrhaging!'; old 'They said' vs new 'He said' (JPN '発作とか言ってましたけど' = he was saying it felt like an attack). Also the mangled medical term is rendered differently.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 156036,
+    "TextENGNew": "\"Subarachnoid hemorrhage...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 156037,
+    "TextENGNew": "\"...I'll go have a look at him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 156038,
+    "TextENGNew": "Tonegawa exits.@k@rAfter a moment, Rika stands as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 156039,
+    "TextENGNew": "\"...I have some medicine that's good for headaches. ...I'll go too. ...I'll be back shortly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 156040,
+    "TextENGNew": "\"Oh, sure. ...Off you go...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 156041,
+    "TextENGNew": "Mion and Yoshimura are left alone.@k@rThe sound of rain and silence.@k@rMion keeps touching her head, bothered by a dull ache throughout.",
+    "significantChanges": true,
+    "changeReason": "Old 'left behind' vs new 'left alone'; but more significantly old 'There is silence and the sound of rain' vs new 'The sound of rain and silence' (reordered). And old 'Mion is concerned with her light headache' vs new 'Mion keeps touching her head, bothered by a dull ache throughout' - new adds physical action.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 156042,
+    "TextENGNew": "\"...Yaaawn... ...I'm getting sleepy... My head's a bit achy too. ...Maybe I'm coming down with something...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 156043,
+    "TextENGNew": "\"...I went to Tokyo recently for sightseeing. ...Though 'sightseeing' is generous—really I just went to Mousey Land.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 156044,
+    "TextENGNew": "\"Huh?! ...Oh, really?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 156045,
+    "TextENGNew": "\"...I went to Tokyo too! Went to Mousey Land! ...Though honestly, same here, that was the only place I went!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 156046,
+    "TextENGNew": "\"We stayed at a place called Hotel Seaside Edo-umi. A rather stylish hotel not far from the park.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'It's an elegant hotel in Kasai Rinkai Park' vs new 'A rather stylish hotel not far from the park'; old adds specific location 'Kasai Rinkai Park' not in JPN, and uses 'elegant' vs 'stylish'. JPN '瀟洒なホテル' means 'stylish/refined hotel'. Also hotel name differs.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 156047,
+    "TextENGNew": "\"What?! What?! No way?! So did I! I stayed there too! What a coincidence!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 156048,
+    "TextENGNew": "\"I took a walk around the park at night—quite the experience. An absolute sanctuary for couples. Makes you feel rather out of place being there alone.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'That place was a sacred ground for couples. I felt ashamed being there while single.' vs new 'An absolute sanctuary for couples. Makes you feel rather out of place being there alone.'; 'ashamed' vs 'out of place' - JPN '肩身が狭い' means 'feeling uncomfortable/out of place', not ashamed.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 156049,
+    "TextENGNew": "\"Ahahahahahaha! Exactly exactly! I thought the same thing!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 156050,
+    "TextENGNew": "\"The food was far more splendid than I'd imagined.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 156051,
+    "TextENGNew": "\"But ordering the Japanese set to match my parents was a mistake. ...The braised fish just wasn't to my taste, so I left it untouched.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'I lost out, ordering the Japanese meal like my parents did. I didn't like the boiled fish' vs new 'ordering the Japanese set to match my parents was a mistake. The braised fish just wasn't to my taste'; 'boiled fish' vs 'braised fish' - JPN '煮魚' means 'simmered/braised fish', not boiled.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 156052,
+    "TextENGNew": "\"Ahahahahaha! You too, Yoshimura-san? Same with me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 156053,
+    "TextENGNew": "\"So of course that night I couldn't sleep from hunger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 156054,
+    "TextENGNew": "\"With no other choice I slipped out of the hotel and made my way to the cup noodle vending machine by the police box. ...Only to find, to my dismay, that I had no coins.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 156055,
+    "TextENGNew": "\"...That night was truly hungry.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'So, I was starving that night' vs new 'That night was truly hungry'; JPN 'あの時はひもじかったねぇ' is a nostalgic reminiscence 'that time was really hungry, wasn't it'. New preserves the nostalgic tone better.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 156056,
+    "TextENGNew": "\"Ahahahahaha! You too, Yoshimura-san? Same with me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 156057,
+    "TextENGNew": "\"The next morning, I had my father's mobile in my pocket when I went to use the facilities, and accidentally let it slip into the bowl. Terrible business.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 156058,
+    "TextENGNew": "\"I fished it out in a panic without worrying about the filth, and tried drying it with the hair dryer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 156059,
+    "TextENGNew": "\"...I tried to brush it off to my father by saying the battery must have died. It didn't work.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 156060,
+    "TextENGNew": "\"Ahahahahaha! You too, Yoshimura-san? Same with m—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 156061,
+    "TextENGNew": "\"At Mousey Land you really did try every ride. Quite the time you had. The funniest part was the Pirates of the Caribbean one.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'I rode all kinds of rides at Mouse Land. I had a great time. I laughed the most on the pirate one.' (first person) vs new 'At Mousey Land you really did try every ride. Quite the time you had.' (second person 'you'). JPN uses no explicit subject but context suggests Yoshimura is describing Mion's experience, so 'you' in new is correct.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 156062,
+    "TextENGNew": "\"You spotted a mountain of treasure and leaned right out of the gondola to touch it, only to get scolded over the loudspeaker. Theme park staff really do keep a sharp eye on things.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'so I leaned out of the gondola to try and touch it, but they yelled at me' (first person) vs new 'You spotted a mountain of treasure and leaned right out of the gondola to touch it, only to get scolded over the loudspeaker' (second person). JPN is describing Mion's actions, new correctly uses 'you'.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 156063,
+    "TextENGNew": "\"Ahahahahaha! You too, Yoshim—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 156064,
+    "TextENGNew": "\"You played right up until closing time, didn't you. And just before the park closed, you dashed into the ice cream shop and wheedled your mother into buying you rum raisin.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 156065,
+    "TextENGNew": "\"While you were eating it, dripping all over the place, one of the park cleaners was watching you. You waved to him, he looked away, and you pouted over it.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'There was this one man cleaning the park who was looking on as it kept dripping while you ate it. You waved at him, so he turned away from you, and I think you got upset.' vs new 'While you were eating it, dripping all over the place, one of the park cleaners was watching you. You waved to him, he looked away, and you pouted over it.' - 'I think you got upset' vs 'you pouted' - old hedges with 'I think', new states it. JPN 'ムッとした' means pouted/got annoyed.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 156066,
+    "TextENGNew": "\"...Then when you looked back down, the ice cream had dripped all over your skirt. You burst into tears saying you couldn't get on the train like that, didn't you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 156067,
+    "TextENGNew": "\"Haha... hahaha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 156068,
+    "TextENGNew": "\"Perhaps all the excitement took its toll—the next morning you were struck with a terrible headache. You took medicine for it, but it only dulled the pain briefly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 156069,
+    "TextENGNew": "\"...After deliberating, your father and mother decided to cut the trip short and head home.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'they decided to move their plans forward and go home after that' vs new 'they decided to cut the trip short and head home'; JPN '予定を繰り上げて帰る' means 'move up the schedule and return' i.e. leave early. 'Move plans forward' could be ambiguous; 'cut the trip short' is clearer.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 156070,
+    "TextENGNew": "\"Dizzy as you were from the headache, you cried and pleaded—this would pass any moment, you said. But your parents adore you, and they had made up their minds.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 156071,
+    "TextENGNew": "\"...Even now it lingers with you, doesn't it? That Tokyo trip.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'You still regret that, don't you? From the time you went sightseeing in Tokyo.' vs new 'Even now it lingers with you, doesn't it? That Tokyo trip.' - 'regret' vs 'lingers with you'; JPN '心残り' means 'regret/something lingering in one's heart', new captures the lingering quality better.",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 156072,
+    "TextENGNew": "\"...Huh... ...Yeah... ...I suppose...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 156073,
+    "TextENGNew": "Distant thunder. The sound of rain. A long silence. Mion forces a smile, but her face has gone pale. Her shoulders are trembling.",
+    "significantChanges": true,
+    "changeReason": "Old 'Mion is pretending to smile, but her face is pale. Her shoulders are shuddering.' vs new 'Mion forces a smile, but her face has gone pale. Her shoulders are trembling.' - 'shuddering' vs 'trembling'; JPN 'カタカタ震える' is a light trembling/rattling, 'trembling' is more accurate than 'shuddering' which implies violent shaking.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 156074,
+    "TextENGNew": "\"...You're in favor of the dam, aren't you. You're hoping to use the relocation money to move to Tokyo.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'You're hoping that you'll be able to move to Tokyo with the compensation money' vs new 'You're hoping to use the relocation money to move to Tokyo'; 'compensation money' vs 'relocation money' - JPN '立ち退き料' means 'eviction/relocation fee', new is more precise.",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 156075,
+    "TextENGNew": "\"...But because of your parents' work, the move will likely be to the city nearby rather than Tokyo.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'you're likely to move to the local city' vs new 'the move will likely be to the city nearby rather than Tokyo'; new explicitly contrasts with Tokyo, making the disappointment clearer. JPN '引っ越し先は市内' means 'the destination will be within the city'.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 156076,
+    "TextENGNew": "\"...But you can accept that compromise. It's far more urban than Hinamizawa, at the very least. ...There are plenty of buildings taller than the local fire hall there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 156077,
+    "TextENGNew": "\"...How... do you know... all of that...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 156078,
+    "TextENGNew": "\"You left your soul behind in Tokyo. ...Your heart is no longer here in Hinamizawa. ...That's rather dangerous, isn't it? ...Being that way.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'That's bad for you, isn't it? Being like that.' vs new 'That's rather dangerous, isn't it? Being that way.' - 'bad' vs 'dangerous'; JPN 'まずい' means 'bad/dangerous/problematic', new's 'dangerous' shifts the implication toward threat rather than general negativity, which fits the Oyashiro-sama curse context.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 156079,
+    "TextENGNew": "\"...D-Dangerous... how...?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Bad... bad how...?' vs new 'D-Dangerous... how...?'; follows from previous - 'bad' vs 'dangerous' echoing Yoshimura's word choice.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 156080,
+    "TextENGNew": "\"...Oyashiro-sama, of course. ...Oyashiro-sama curses those who try to leave Hinamizawa behind, you know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 156081,
+    "TextENGNew": "\"...If I were Oyashiro-sama... I'd say you were out. ...What do you think?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 156082,
+    "TextENGNew": "Mion takes a step backward, trembling faintly.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 156083,
+    "TextENGNew": "\"...I've always been the sort who believes in these things, ever since I was small. ...Whether it's children's stories, folk tales, or ghost stories, I believe them all.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'I believe in fairy tales, nursery rhymes, and even ghost stories' vs new 'Whether it's children's stories, folk tales, or ghost stories, I believe them all'; JPN '童話でもお伽話でも' - '童話' means children's stories/fairy tales, 'お伽話' means folk/fairy tales. Old's 'nursery rhymes' is incorrect for 'お伽話'.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 156084,
+    "TextENGNew": "\"...I know full well they're invented... and yet I believe them anyway.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 156085,
+    "TextENGNew": "\"...Ever since that headache in Tokyo... you haven't been able to let the talk of Oyashiro-sama slide past you, have you...\"",
+    "significantChanges": true,
+    "changeReason": "Old 'you haven't been able to brush off your worries about Oyashiro-sama, have you...?' vs new 'you haven't been able to let the talk of Oyashiro-sama slide past you, have you...'; 'worries about' vs 'the talk of' - JPN 'オヤシロさまの話' means 'the talk/stories about Oyashiro-sama', not personal worries.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 156086,
+    "TextENGNew": "\"...Even knowing it's all made up... right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 156087,
+    "TextENGNew": "\"...Wh... ...Who... are you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 156088,
+    "TextENGNew": "\"Me? ...You want to know who I am?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Me? ...Who am I?' vs new 'Me? ...You want to know who I am?'; JPN '僕？ …僕かい？' literally 'Me? ...Me?' - new interprets this as a rhetorical question about identity, while old translates more literally.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 156089,
+    "TextENGNew": "\"...Heh heh heh, ahahaha! Ahhhahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 156090,
+    "TextENGNew": "Yoshimura collapses into laughter as if he's lost his mind. Mion stands frozen, at a loss before his bizarre behavior.",
+    "significantChanges": true,
+    "changeReason": "Old 'Yoshimura begins to laugh like crazy. Mion stands there dumbstruck by his bizarre state.' vs new 'Yoshimura collapses into laughter as if he's lost his mind. Mion stands frozen, at a loss before his bizarre behavior.' - 'dumbstruck by his bizarre state' vs 'frozen, at a loss' - JPN '立ち尽くす' means standing still/frozen, 'at a loss' better captures the helplessness.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 156091,
+    "TextENGNew": "\"...I told you before, didn't I? Yoshimura. ...Yoshimura, freelance writer. ...Not to be confused with a part-timer.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates フリーター as 'freeloader' when it means 'part-timer/freeter' — the wordplay between フリーライター and フリーター is lost, and the characterization changes.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 156092,
+    "TextENGNew": "A great peal of thunder. The stage goes dark, accompanied by the roar of a downpour.@rA moment of silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 156093,
+    "TextENGNew": "The stage remains in darkness. A voice crackles over the radio.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 156094,
+    "TextENGNew": "\"...HQ to all units. ...Due to the presence of outsiders, operation start time is postponed. All units hold on standby, ready to move at a moment's notice. ...Stay sharp. We don't know how they'll act.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'HQ to all cars... All cars go to standby.' vs new 'HQ to all units... All units hold on standby.'; JPN '全車' means 'all vehicles/units'. 'Cars' is overly specific; 'units' is standard police/military radio terminology.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 156095,
+    "TextENGNew": "A thunderclap. The stage gradually brightens.@rThe sound of the downpour fades away.@rAll five are seated on the bench.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 156096,
+    "TextENGNew": "\"...How is it? ...Has the medicine taken effect?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 156097,
+    "TextENGNew": "\"...I'm sorry. ...Much better now, thank you. I appreciate it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 156098,
+    "TextENGNew": "\"...It worked? ...Good.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 156099,
+    "TextENGNew": "\"Rika-san, could I have some of that headache medicine too? ...My head's been a little...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 156100,
+    "TextENGNew": "\"...Does it hurt?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 156101,
+    "TextENGNew": "\"No, it's better for now. But it was really awful a little while ago.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 156102,
+    "TextENGNew": "\"I've got some on me. Want it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 156103,
+    "TextENGNew": "\"I-I'm quite alright!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 156104,
+    "TextENGNew": "Mion refuses with far more force than the situation warrants. Yoshimura, Tonegawa, and Arakawa all blink at the intensity of her reaction.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 156105,
+    "TextENGNew": "\"...I... I see. ...Alright then.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 156106,
+    "TextENGNew": "\"Still... the bus really isn't coming, is it. It should have been here by now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 156107,
+    "TextENGNew": "\"...It is raining...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 156108,
+    "TextENGNew": "A moment of silence, accompanied by the rain. Two detectives enter—Hoshino and Okano.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 156109,
+    "TextENGNew": "\"...More people again. ...Why on earth are there so many people here today? ...This place is usually deserted.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 156110,
+    "TextENGNew": "\"...Because it's raining...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 156111,
+    "TextENGNew": "\"Good afternoon. ...Are you all waiting for the bus?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 156112,
+    "TextENGNew": "\"...Yes. It should be along soon, I'd think.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 156113,
+    "TextENGNew": "\"The bus is not coming.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 156114,
+    "TextENGNew": "\"What... what do you mean by that?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Huh?! ...What do you mean by that?!' vs new 'What... what do you mean by that?'; old has 'Huh?!' with exclamation, new has stuttering 'What... what'; JPN 'え、…それはどういう、' trails off - new's trailing nature is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 156115,
+    "TextENGNew": "\"Please remain calm. ...We are with the police. We are currently investigating the area in relation to an incident. We would appreciate your cooperation.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'We're with the police. We're currently investigating the area around here in regards to a case.' vs new 'We are with the police. We are currently investigating the area in relation to an incident.'; 'a case' vs 'an incident' - JPN '事件' means 'incident/case', but 'incident' is more appropriate for police communication.",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 156116,
+    "TextENGNew": "\"An incident?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'A case?' vs new 'An incident?'; follows from above - consistent terminology change.",
+    "changeScore": 2
+  },
+  {
+    "index": 87,
+    "MessageID": 156117,
+    "TextENGNew": "\"What happened? What's going on?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 156118,
+    "TextENGNew": "\"Please, stay calm. ...We believe the perpetrator of a random attack that occurred in the city this morning is hiding somewhere in this area.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'this afternoon' but Japanese 昼前に means 'before noon/this morning' — wrong time of day. Also 'slashing' for 通り魔殺人 (random attack/killing) is imprecise.",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 156119,
+    "TextENGNew": "\"...This area is currently under a police cordon. That is why the bus will not be coming.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 156120,
+    "TextENGNew": "\"A random killing?!\"",
+    "significantChanges": true,
+    "changeReason": "Old 'A slasher?!' vs new 'A random killing?!'; JPN '通り魔殺人' means 'random/indiscriminate murder', not specifically a slasher. New is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 156121,
+    "TextENGNew": "\"A maniac?! A drug addict?! ...Come on... give us a break...\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Some degenerate?! A drug addict?!' vs new 'A maniac?! A drug addict?!'; '変質者' means 'deviant/pervert/maniac', not specifically 'degenerate'. Minor but different implications.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 156122,
+    "TextENGNew": "\"H-How many were killed?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 156123,
+    "TextENGNew": "\"...I'm not at liberty to give details, but there are already several victims.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 156124,
+    "TextENGNew": "\"The perpetrator? ...What sex? What age? ...What can you tell us about them?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 156125,
+    "TextENGNew": "\"...Are you a mystery writer by any chance? ...May I see some identification?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Do you write mysteries for a living, or something?' vs new 'Are you a mystery writer by any chance?'; JPN 'ご職業は推理作家ですか？' means 'Is your profession mystery writer?' - old adds dismissive 'or something' not in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 96,
+    "MessageID": 156126,
+    "TextENGNew": "\"...Ah... would a business card do? ...I'm Yoshimura. Freelance writer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 156127,
+    "TextENGNew": "\"...Do you have anything with a photograph?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 156128,
+    "TextENGNew": "\"Ah... unfortunately not...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 156129,
+    "TextENGNew": "\"And you two?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 156130,
+    "TextENGNew": "\"We're from the Ministry of Construction. We have both employee cards and driver's licenses.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 156131,
+    "TextENGNew": "\"Thank you. We appreciate your service.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 156132,
+    "TextENGNew": "\"And you two over there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 156133,
+    "TextENGNew": "\"Huh? ...Ehehehe...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 156134,
+    "TextENGNew": "\"What does the perpetrator look like?! Someone here may have spotted them.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'So what was the culprit like?! Maybe one of us has seen him.' vs new 'What does the perpetrator look like?! Someone here may have spotted them.' - 'him' vs 'them' (gender neutral in new). JPN doesn't specify gender.",
+    "changeScore": 2
+  },
+  {
+    "index": 105,
+    "MessageID": 156135,
+    "TextENGNew": "\"Y-Yes! ...Exactly! Please, tell us!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 156136,
+    "TextENGNew": "\"...The information is limited, so nothing is certain. ...However, there is a strong possibility the perpetrator or perpetrators number two!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 156137,
+    "TextENGNew": "Yoshimura stands and looks back and forth between the two Ministry men and Mion and Rika.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 156138,
+    "TextENGNew": "\"...Of course, this could be mistaken, and it may be a lone perpetrator. ...As for gender... there is a strong possibility the perpetrator is male!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 156139,
+    "TextENGNew": "Mion stands and looks back and forth between the two Ministry men and Yoshimura. Yoshimura eyes the Ministry men with suspicion. Both of them flinch.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 156140,
+    "TextENGNew": "\"...The eyewitness accounts are ambiguous, so we cannot rule out a female perpetrator either. ...Well, these two from the Ministry are clearly identifiable, so that should present no issue. Their alibis will be easy to verify as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 156141,
+    "TextENGNew": "\"In other words, you haven't the faintest idea what the perpetrator looks like?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'you have absolutely no idea who the culprit might be' vs new 'you haven't the faintest idea what the perpetrator looks like'; 'who' vs 'what they look like' - JPN '犯人はどんなヤツなのかまったく見当がつかない' asks about what kind of person, closer to appearance/description.",
+    "changeScore": 2
+  },
+  {
+    "index": 112,
+    "MessageID": 156142,
+    "TextENGNew": "\"We simply are not in a position to provide specifics. ...As the suspect may be among you.\"",
+    "significantChanges": false
+  }
+]

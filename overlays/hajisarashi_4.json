@@ -1,0 +1,452 @@
+[
+  {
+    "index": 1,
+    "MessageID": 152968,
+    "TextENGNew": "\"Excuse me, this is Sonozaki.@k@vS23/03/VTH_mion1042. Did you page me over the intercom?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 152969,
+    "TextENGNew": "\"You're Mion Sonozaki-san?@k@vS23/00/VTH_uke1005. We received a phone call from a relative of yours just now.@k@vS23/00/VTH_uke1006. Here is the phone number.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 152970,
+    "TextENGNew": "(...Hmm? Uncle Yoshirou from the toy shop?@k@vS23/03/VTH_mion1044. What could he want? And how does he even know I'm at the pool?)",
+    "significantChanges": true,
+    "changeReason": "Old: 'My uncle from the toy shop'; New: 'Uncle Yoshirou from the toy shop'. New adds the specific name 善朗 (Yoshirou).",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 152971,
+    "TextENGNew": "\"Oh, excuse me, could I borrow your phone?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 152972,
+    "TextENGNew": "\"Hello, Uncle?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 152973,
+    "TextENGNew": "\"...Ah, hello, is that you, Mion?!@k@vS23/00/VTH_yoshiro1056. Oh, thank goodness! Maebara-kun is with you today, isn't he?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 152974,
+    "TextENGNew": "\"Kei-chan?@k@vS23/03/VTH_mion1048. Yeah, he's here. But how do you know that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 152975,
+    "TextENGNew": "\"Never mind that!@k@vS23/00/VTH_yoshiro1058. Listen, this is terrible! It's really, really bad! I've done something awful!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 152976,
+    "TextENGNew": "\"...What is it? What happened?@k@vS23/03/VTH_mion1050. Don't tell me those swan swim trunks actually \\*dissolve\\* in water?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 152977,
+    "TextENGNew": "\"No, no!! But it is about the trunks!@k@vS23/00/VTH_yoshiro1060. What kind of trunks is he wearing right now?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 152978,
+    "TextENGNew": "\"Hmm? How do I describe them... The pattern looks like a burglar's handkerchief, I guess.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 152979,
+    "TextENGNew": "\"That's the one, that's it!@k@vS23/00/VTH_yoshiro1062. Those are magical swim trunks -- the \"Ladies' Man Trunks\"!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 152980,
+    "TextENGNew": "\"Wh-what are you talking about...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 152981,
+    "TextENGNew": "\"I'll spare you the details, but the trunks he's wearing have a magical effect -- if he wears them for three straight hours, the spell will take hold!@k@vS23/00/VTH_yoshiro1064. Oh, this is terrible!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 152982,
+    "TextENGNew": "\"If they're called the \"Ladies' Man Trunks,\" I'm guessing they make you irresistible?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 152983,
+    "TextENGNew": "\"That's what I thought too, but it turns out it's a bit different!@k@vS23/00/VTH_yoshiro1066. If you sew a piece of fabric with someone's name inside the trunks, the person whose name is written will fall in love with whoever's wearing them!!@k@vS23/00/VTH_yoshiro1067. And I had Maebara-kun write his own name in there!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 152984,
+    "TextENGNew": "\"...Hmm? I'm not following.@k@vS23/03/VTH_mion1055. The person named on the trunks falls in love with the person wearing them?@k@vS23/03/VTH_mion1056. So... Kei-chan would fall in love with himself??\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 152985,
+    "TextENGNew": "\"Exactly, that's precisely what would happen!!@k@vS23/00/VTH_yoshiro1069. It's not trunks that make you irresistible to everyone -- they make you irresistible to one specific person! I got it backwards!!@k@vS23/00/VTH_yoshiro1070. It was written right there in the instructions, but I completely overlooked it!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 152986,
+    "TextENGNew": "\"Wouldn't it be harmless if Kei-chan just falls in love with himself?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 152987,
+    "TextENGNew": "\"A-absolutely not!!@k@vS23/00/VTH_yoshiro1072. If Maebara-kun falls in love with only himself, he'll lose all interest in other people!@k@vS23/00/VTH_yoshiro1073. Being irresistible to yourself means... well, it means he'd spend the rest of his life staring at his own reflection in the mirror, swooning over himself,@k@vS23/00/VTH_yoshiro1074. becoming a hopelessly self-absorbed narcissist---!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 152988,
+    "TextENGNew": "\"Wha--?!@k@vS23/03/VTH_mion1059. ...So these \"Ladies' Man Trunks\" actually have the complete opposite effect!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 152989,
+    "TextENGNew": "\"If we don't act, Maebara-kun is going to be in serious trouble!!@k@vS23/00/VTH_yoshiro1076. Tell him and get him to take those off immediately!!@k@vS23/00/VTH_yoshiro1077. If he wears them for three straight hours, it'll be too late!!@k@vS23/00/VTH_yoshiro1078. How long has it been since he arrived at the pool?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 152990,
+    "TextENGNew": "\"Umm... almost an hour, I'd say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 152991,
+    "TextENGNew": "\"Then you've only got two hours left!!@k@vS23/00/VTH_yoshiro1080. You have to get those trunks off him within the next two hours, no matter what!@k@vS23/00/VTH_yoshiro1081. I'm begging you, Mion!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 152992,
+    "TextENGNew": "\"Y-you don't have to beg... Jeez...@k@vS23/03/VTH_mion1062. The thought of Kei-chan spending the rest of his life muttering \"Mirror, mirror, on the wall, who is the most beautiful of them all? Why, Keiichi Maebara, of course!\" while ignoring every girl around him... yeah, that'd be pretty awful...@k@|@y@vS23/03/VTH_mion1063. A-all right, I'll figure something out!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 152993,
+    "TextENGNew": "\"Thank you!! And please apologize to Maebara-kun for me!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 152994,
+    "TextENGNew": "\"This is bad -- I have to tell Kei-chan right away!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 152995,
+    "TextENGNew": "\"...And that's what he told me.@k@|@y@vS23/03/VTH_mion1066. So I'm really sorry about this, Kei-chan,@k@vS23/03/VTH_mion1067. but I need you to take those trunks off right now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 152996,
+    "TextENGNew": "\"H-hau... Keiichi-kun turning into a narcissist who spends the rest of his life staring into mirrors and whispering creepy things to himself? Th-th-that's not healthy at all...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 152997,
+    "TextENGNew": "\"A-are you serious...?@k@vS23/01/VTH_k11128. What kind of \"Ladies' Man Trunks\" are these?!\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'Ladies' Man trunks, my ass!!'; New: 'What kind of Ladies' Man Trunks are these?!' Japanese 何が『モテモテの海パン』だー means 'What Ladies Man trunks!' as an exclamation of disbelief. Old uses vulgar dismissal; new is a rhetorical question closer to the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 152998,
+    "TextENGNew": "\"...Poor, poor Keiichi. Doomed to love only himself for all eternity. Nipah~☆.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 152999,
+    "TextENGNew": "\"Rika? What exactly is a narcissist??\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 153000,
+    "TextENGNew": "\"B-but if I take these off, I don't have anything else to wear, you know...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 153001,
+    "TextENGNew": "The moment those words left my mouth, all the club members' eyes lit up with a gleam.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 153002,
+    "TextENGNew": "\"...Hehehehe, heh heh heh heh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 153003,
+    "TextENGNew": "\"H-h-hau~ hauu~!!@k@vS23/02/VTH_rena1028. No way, Mii-chan, are you going to use that?! You're going to use that?!\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'Mion-chan'; New: 'Mii-chan'. Japanese 魅ぃちゃん is Mii-chan, a nickname — not the full name Mion-chan.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 153004,
+    "TextENGNew": "\"My, my, aren't you lucky, Kei-chan?@k@vS23/03/VTH_mion1070. Heh heh heh... As it happens, this old man prepared a replacement swimsuit for you, just in case something like this happened...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 153005,
+    "TextENGNew": "\"G-g-geh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 153006,
+    "TextENGNew": "\"...Meep~! Actually, Mion custom-ordered something really, really cute just for you, Keiichi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 153007,
+    "TextENGNew": "\"Y-you don't have to tell me -- I already know about those embarrassing swan trunks!!@k@vS23/01/VTH_k11132. Am I right?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 153008,
+    "TextENGNew": "\"Oh my? How do you already know about those?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 153009,
+    "TextENGNew": "\"Heh... heheheh!@k@vS23/01/VTH_k11134. ...I see now -- I've figured out your little scheme!@k@vS23/01/VTH_k11135. You cooked up that ridiculous story just to get me into those embarrassing swan trunks, didn't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 153010,
+    "TextENGNew": "\"Huh?!@k@vS23/03/VTH_mion1072. Wh-what are you talking about?! I'm just passing on what my uncle told me!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 153011,
+    "TextENGNew": "\"...No... I see now... I understand...@k@vS23/01/VTH_k11137. This... is the trial that the guy at the toy shop warned me about. The grudge of all those unpopular guys, trying every trick in the book to strip these trunks off me...!!@k@vS23/01/VTH_k11138. Hehehe, I'm not falling for that!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 153012,
+    "TextENGNew": "His expression was fearless... or rather, he looked like he'd stopped listening entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 153013,
+    "TextENGNew": "\"Th-that's not true!@k@vS23/02/VTH_rena1030. We're not lying or anything--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 153014,
+    "TextENGNew": "\"Heheh~. So you want me to take these off, huh?@k@|@y@vS23/01/VTH_k11140. You're scared that I'll become irresistible to every girl in the world? Heh heh~??\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 153015,
+    "TextENGNew": "I let out a crude laugh while pinching both sides of my trunks and snapping the elastic against my skin.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 153016,
+    "TextENGNew": "...Even I have to admit that was a pretty obnoxious move.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 153017,
+    "TextENGNew": "\"K-Kei-chan, you idiot!!@k@vS23/03/VTH_mion1074. We're saying this for your own good, you know?!@k@vS23/03/VTH_mion1075. If you keep wearing those for another two hours, you'll fall so madly in love with yourself that you'll spend the rest of your life whispering weird things at your own reflection like some total weirdo!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 153018,
+    "TextENGNew": "\"Hah, nice try, but I'm not falling for it!@k@|@y@vS23/01/VTH_k11142. If you really want these off me, you're going to have to take them by force!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 153019,
+    "TextENGNew": "\"Ah, Keiichi-kun, waaait!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 153020,
+    "TextENGNew": "\"Wh-what should we do?@k@vS23/04/VTH_satoko1023. He seems to have spectacularly misunderstood the situation...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 153021,
+    "TextENGNew": "\"...Personally, I think watching Keiichi get completely lost in his own little world is rather entertaining. Nipah~☆.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 153022,
+    "TextENGNew": "\"N-no, we can't let that happen...!@k@vS23/02/VTH_rena1033. Hau, that's not wholesome at all... Hau...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 153023,
+    "TextENGNew": "\"...I have absolutely no idea what's so unwholesome about it, but...@k@vS23/04/VTH_satoko1025. in any case, if he's flatly refusing to take them off, then it's the club's duty to force him out of them!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 153024,
+    "TextENGNew": "\"...Meep~! Let us expose Keiichi's birthday suit and fur seal to the entire pool. Right here, right now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 153025,
+    "TextENGNew": "\"I-i-it's not like I'm interested in seeing Kei-chan naked or anything, okay?!@k@vS23/03/VTH_mion1077. B-b-but if we don't do something, Kei-chan's going to be in real trouble...! Um, uh...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 153026,
+    "TextENGNew": "\"It's for Keiichi-kun's sake, it's for his sake...!@k@vS23/02/VTH_rena1035. I mean, we have no choice, right...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 153027,
+    "TextENGNew": "\"Oh ho ho ho!! Precisely.@k@vS23/04/VTH_satoko1027. This is simply something we must do for Keiichi-san's own good!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 153028,
+    "TextENGNew": "\"...In that case, we have no choice but to use force. Nipah☆.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 153029,
+    "TextENGNew": "\"R-...right. ...There's no other way.@k@|@y@vS23/03/VTH_mion1079. All club members, assemble!!@k@vS23/03/VTH_mion1080. We are launching a full-scale assault to free Kei-chan from those cursed trunks!!@k@vS23/03/VTH_mion1081. All weapons authorized!!@k@vS23/03/VTH_mion1082. We've only got two hours left!@k@vS23/03/VTH_mion1083. No matter what it takes, we are stripping those trunks off Kei-chan within the next two hours!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 153030,
+    "TextENGNew": "\"Roger that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 153031,
+    "TextENGNew": "\"Kei-chan and his trunks don't need to come out of this in one piece!!@k@vS23/03/VTH_mion1085. Rena, activate serious mode!!@k@vS23/03/VTH_mion1086. You have full permission to take Kei-chan home with you once he's been stripped!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 153032,
+    "TextENGNew": "\"H-hauuu~!@k@vS23/02/VTH_rena1037. J-just what I wanted~!@k@vS23/02/VTH_rena1038. Hau hau, hauuu~♪\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 153033,
+    "TextENGNew": "\"...Hehe, now things are getting interesting.@k@vS23/05/VTH_rika1033. Hanyuu, you'd better help out too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 153034,
+    "TextENGNew": "\"Au? But Rika, didn't you say you wouldn't mind if Keiichi turned into a narcissistic monkey?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 153035,
+    "TextENGNew": "\"Sure, that would be amusing too.@k@vS23/05/VTH_rika1035. ...But this game of tag sounds just as fun, so we might as well play for as long as we can, right?@k@vS23/05/VTH_rika1036. So Hanyuu, if Keiichi tries to leave the pool, rewind time and make sure he can't escape.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 153036,
+    "TextENGNew": "\"G-geh?! R-Rika, that's demonic!@k@vS23/12/VTH_hanyu1015. That's utterly sacrilegious, you know?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 153037,
+    "TextENGNew": "\"What's the problem? It has divine approval.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 153038,
+    "TextENGNew": "\"Don't just approve things on your own!@k@vS23/12/VTH_hanyu1017. I absolutely refuse to let my powers be used for such fiendish purposes!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 153039,
+    "TextENGNew": "\"...If you keep him from escaping, I'll eat cream puffs every single day during summer break.@k@vS23/05/VTH_rika1039. Plus, once a week I'll order one of those special jumbo cream puffs from Angel Mort.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 153040,
+    "TextENGNew": "\"I will stop him at all costs!@k@|@y@vS23/12/VTH_hanyu1019. I shall teach Keiichi the full folly of defying a god who walks the path of heaven and governs all things! Au!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 153041,
+    "TextENGNew": "\"...Try to be a little more historically accurate, would you?@k@vS23/05/VTH_rika1041. This is the Showa era, remember?\"",
+    "significantChanges": false
+  }
+]

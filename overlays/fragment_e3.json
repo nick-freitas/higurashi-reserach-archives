@@ -1,0 +1,754 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6032,
+    "TextENGNew": "School is the domain of children.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 6033,
+    "TextENGNew": "No value system from the adult world can trespass here.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 6034,
+    "TextENGNew": "Children decide their own values and build their own world.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 6035,
+    "TextENGNew": "And so, whatever irrational rules may run rampant in the adult world of the village, they have no place here.",
+    "significantChanges": true,
+    "changeReason": "Old omits 'whatever irrational rules may run rampant'; JPN '村という大人の世界でどんな理不尽なルールが蔓延っていようとも' specifically mentions irrational rules running rampant in the village, which old abbreviates significantly.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 6036,
+    "TextENGNew": "Even when the Houjou family was being ostracized in the village and the adults whispered behind their backs, none of that was allowed to seep into the school.",
+    "significantChanges": true,
+    "changeReason": "Old 'Even when the villagers badmouth the Houjou family and try to isolate them' is active/present; new 'Even when the Houjou family was being ostracized in the village and the adults whispered behind their backs' is past tense and specifies 'adults' whispering. JPN uses past tense and specifies gossip.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 6037,
+    "TextENGNew": "In the children's world, it is the children who set the values.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 6038,
+    "TextENGNew": "...Rules they deem unjust hold no power here.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 6039,
+    "TextENGNew": "That is why,",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 6040,
+    "TextENGNew": "as the representative of the children's world, as class president, I swore never to let even a trace of those irrational rules creep in.",
+    "significantChanges": true,
+    "changeReason": "New adds 'as class president' (委員長として) which was present in JPN but omitted in old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 6041,
+    "TextENGNew": "Within these school walls, no harassment of the Houjou siblings would be tolerated.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 6042,
+    "TextENGNew": "In the very beginning, some boys had tried to pick on Satoko as a prank,@k but I dealt with them so harshly that nothing like it has happened since.",
+    "significantChanges": true,
+    "changeReason": "Old 'some boys teased Satoko' vs new 'some boys had tried to pick on Satoko as a prank'; JPN 'ふざけて沙都子にちょっかいを出そうとした' specifies it was playful/joking harassment. Also old 'they were punished severely' vs new 'I dealt with them so harshly' - new correctly attributes the punishment to the narrator (Mion).",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 6043,
+    "TextENGNew": "That was my small act of defiance against the injustice of the village...",
+    "significantChanges": true,
+    "changeReason": "Old 'That's the least I can do' (present tense, minimizing) vs new 'That was my small act of defiance against the injustice' (past tense, characterizing it as defiance). JPN 'ささやかな反抗' means 'small rebellion/defiance', which new captures but old omits entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 6044,
+    "TextENGNew": "And so I wanted to believe that, at least while at school, Satoshi and Satoko had a space where they could feel at ease.",
+    "significantChanges": true,
+    "changeReason": "Old 'I hope' (present) vs new 'I wanted to believe' (past, with added uncertainty); JPN 'と思いたい' means 'I want to think/believe' expressing a wish rather than hope. Tense shift is significant for the retrospective narration.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 6045,
+    "TextENGNew": "Satoshi seemed to have noticed my concern, and when he was at school, a gentle smile would appear on his face.",
+    "significantChanges": true,
+    "changeReason": "Old 'Satoshi must notice my concern, because he often smiles when he's here' (present tense, speculative) vs new 'Satoshi seemed to have noticed my concern, and when he was at school, a gentle smile would appear on his face' (past tense, gentler). JPN uses past tense and 'やわらかな笑顔' (gentle smile).",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 6046,
+    "TextENGNew": "But that same smile never appeared on Satoko's face.",
+    "significantChanges": true,
+    "changeReason": "Old 'I never see Satoko smile' (present habitual) vs new 'But that same smile never appeared on Satoko's face' (past tense, and specifying 'that same smile'). JPN is past tense and references the same kind of smile.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 6047,
+    "TextENGNew": "...Her classmates had initially tried to cheer Satoko up, but eventually concluded that leaving her alone was best, and stopped approaching her.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 6048,
+    "TextENGNew": "I too had actively tried to reach out to her at first... but then I realized something, and stopped.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 6049,
+    "TextENGNew": "I was a Sonozaki.",
+    "significantChanges": true,
+    "changeReason": "Old 'I'm a member of the Sonozaki family' (generic member) vs new 'I was a Sonozaki' (identifying with the name itself). JPN '園崎の人間なのだ' emphasizes being 'a person of the Sonozaki', which new captures more directly.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 6050,
+    "TextENGNew": "For Satoko, my mere proximity might be a source of discomfort...",
+    "significantChanges": true,
+    "changeReason": "Old 'To Satoko, I'm one of her enemies' explicitly labels Mion as an enemy, which is not in the JPN; new 'my mere proximity might be a source of discomfort' is closer to JPN '近寄られるだけで不快な思いをさせる' (just approaching might cause discomfort).",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 6051,
+    "TextENGNew": "The only thing I could do was watch over her quietly from a distance.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 6052,
+    "TextENGNew": "And so, in the classroom, Satoko was always alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 6053,
+    "TextENGNew": "The only exceptions were Rika-chan, who clung to her side persistently even when told she was a bother, and Satoshi, who always made sure to stay beside her.",
+    "significantChanges": true,
+    "changeReason": "Old rephrases as Satoko telling Rika she was 'annoying'; new correctly says Rika 'clung to her side persistently even when told she was a bother.' JPN specifies both Rika's persistence and Satoshi always being beside her, which new captures more completely.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 6054,
+    "TextENGNew": "...These two alone were the ones who remained at Satoko's side.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 6055,
+    "TextENGNew": "The insidious mistreatment extended not just to Satoko, but to the entire Houjou family, and it showed no sign of abating.",
+    "significantChanges": true,
+    "changeReason": "Old 'The malicious isolation is still continuing' (present) vs new 'The insidious mistreatment extended not just to Satoko, but to the entire Houjou family, and it showed no sign of abating' - new correctly captures that it's not just Satoko but the whole family, matching JPN '北条家に対する'.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 6056,
+    "TextENGNew": "Because their hysterical aunt openly antagonized the neighbors, no one felt any sympathy for the household.",
+    "significantChanges": true,
+    "changeReason": "Old 'there's nobody who sympathizes with her' (her = Satoko?) vs new 'no one felt any sympathy for the household'; JPN '誰も同情するものがいない' refers to the household, not specifically the aunt or Satoko.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 6057,
+    "TextENGNew": "...There are fights worth having and fights better left alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 6058,
+    "TextENGNew": "If the aunt had possessed even a shred of self-restraint and patience, the cold treatment the Houjou couple had endured would not have been inherited.",
+    "significantChanges": true,
+    "changeReason": "Old 'this isolation wouldn't have continued' vs new 'the cold treatment the Houjou couple had endured would not have been inherited'; JPN specifies '北条夫妻が被っていた冷遇を引き継ぐ' - inheriting the mistreatment from the Houjou couple, a key detail missing from old.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 6059,
+    "TextENGNew": "...Although, to be fair, the village was the one that had first imposed the unreasonable demand that the sins of the elder brother's family be borne by the unrelated younger brother's...",
+    "significantChanges": true,
+    "changeReason": "Old vaguely says 'they weren't related to the issue' while new specifies 'the sins of the elder brother's family be borne by the unrelated younger brother's.' The specific family dynamic is important context but the general meaning is similar.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 6060,
+    "TextENGNew": "Still... if she had simply kept her head down, things would not have deteriorated this far.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 6061,
+    "TextENGNew": "The aunt's belligerence was her own affair, but she had dragged the entire household into it.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 6062,
+    "TextENGNew": "The uncle had apparently never gotten along well with her, and he was rarely home, spending most of his time elsewhere.",
+    "significantChanges": true,
+    "changeReason": "Old 'The uncle and the aunt haven't been getting along' (present) vs new adds 'he was rarely home, spending most of his time elsewhere'; JPN '出歩いてばかりいる' (always out and about) is captured in new but not fully in old.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 6063,
+    "TextENGNew": "Both Satoshi and Satoko were forced to live in a state of constant shame and hardship.",
+    "significantChanges": true,
+    "changeReason": "Old 'forced to live in shame' vs new 'forced to live in a state of constant shame and hardship'; JPN 'とても辛い思い' means 'very painful/hard feelings' - new adds the hardship dimension present in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 6064,
+    "TextENGNew": "The aunt seemed to be using Satoko as an outlet for her frustrations, subjecting her to relentless, underhanded cruelty.",
+    "significantChanges": true,
+    "changeReason": "Old 'The aunt vents her stress by harassing Satoko' omits the persistent, underhanded nature; new 'using Satoko as an outlet for her frustrations, subjecting her to relentless, underhanded cruelty' captures JPN '陰険な仕打ちをずっと受け続けている' (continuously receiving underhanded treatment).",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 6065,
+    "TextENGNew": "...The same pattern held true here.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 6066,
+    "TextENGNew": "...The aunt was Satoko's guardian, after all, yet Satoko showed her undisguised revulsion and made no effort even to feign obedience.",
+    "significantChanges": true,
+    "changeReason": "Old 'Satoko doesn't even try to hide her disgust, so things aren't going smoothly' adds 'things aren't going smoothly' not in JPN; new 'Satoko showed her undisguised revulsion and made no effort even to feign obedience' captures JPN '表向きだけでも大人しくしていようという素振りすらしなかった' (didn't even pretend to be obedient).",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 6067,
+    "TextENGNew": "If she had followed Satoshi's lead and conducted herself quietly, the aunt would not have singled her out.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 6068,
+    "TextENGNew": "...But could one really say, then, that the joyless life Satoko now led—head bowed, eyes empty of light—was merely what she had brought upon herself?",
+    "significantChanges": true,
+    "changeReason": "Old 'So does that mean the sad life Satoko is living right now is something she caused herself?' vs new adds vivid detail 'head bowed, eyes empty of light' from JPN '光の宿らぬ瞳で俯きながら'. The JPN imagery is significant for emotional impact.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 6069,
+    "TextENGNew": "......Of course not.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 6070,
+    "TextENGNew": "But no matter how much I sympathized, no matter how desperately I wanted to help... no one could figure out what to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 6071,
+    "TextENGNew": "An apology from any one person would no longer change the situation.",
+    "significantChanges": true,
+    "changeReason": "Old 'An apology won't change the situation' vs new 'An apology from any one person would no longer change the situation'; JPN '誰かが誰かに謝ったくらいじゃ' specifies 'even if someone apologized to someone' - new captures the futility of any individual action.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 6072,
+    "TextENGNew": "Once the current had set, it could not be reversed.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 6073,
+    "TextENGNew": "The fact that the Houjou family was shunned by the entire village—that tide, that momentum—could not be turned.",
+    "significantChanges": true,
+    "changeReason": "Old 'The fact that the Houjou family is ostracized by the entire village can't be changed' vs new adds 'that tide, that momentum' translating JPN '仕組みが、風向きが' (the system, the direction of the wind), conveying it's a systemic problem.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 6074,
+    "TextENGNew": "That terrifying reality lurked just beneath the surface of our everyday lives.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 6075,
+    "TextENGNew": "...Neighbors, community, social bonds.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 6076,
+    "TextENGNew": "Once those turned against you... the world could become this merciless.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 6077,
+    "TextENGNew": "...The Japanese had known this since ancient times, which is why they cultivated a culture of courtesy and reciprocity toward their neighbors.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6078,
+    "TextENGNew": "No matter who I blamed, it would not bring the smile back to Satoko's face.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 6079,
+    "TextENGNew": "...The only thing I could do was watch over her, ensuring that at least while she was at school, she could find some measure of peace.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 6080,
+    "TextENGNew": "\"......Thank you,@k@vS20/07/VTK1_satoshi1058. Mion.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 6081,
+    "TextENGNew": "\"...Huh?@k@vS20/03/VTK1_mion1002. Ahahaha, sorry, what did you say?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 6082,
+    "TextENGNew": "\"Mm.@k@vS20/07/VTK1_satoshi1060. I just wanted to thank you for always looking out for Satoko.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Mmph' vs new 'Mm'; JPN 'うぅん' is a soft acknowledgment/thinking sound. But more importantly, old 'I just want to thank you for being so concerned' vs new 'I just wanted to thank you for always looking out for Satoko' - new adds 'always' matching JPN 'いつも'.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 6083,
+    "TextENGNew": "Satoshi could seem absent-minded, but every so often he said things as if he could read your very thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 6084,
+    "TextENGNew": "Flustered that he had seen through something so out of character for me, I hastily denied it, but he seemed to read even that reaction, and let out a quiet chuckle.",
+    "significantChanges": true,
+    "changeReason": "Old 'I tried to deny it since it's out of character for me, but he smiled' vs new 'Flustered that he had seen through something so out of character for me, I hastily denied it, but he seemed to read even that reaction, and let out a quiet chuckle.' New captures the layered reading - Satoshi read both the original action AND Mion's denial.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 6085,
+    "TextENGNew": "\"Satoko has only forgotten how to smile.@k@vS20/07/VTK1_satoshi1062. ...When she's at school... she can let her guard down, even if only a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 6086,
+    "TextENGNew": "\"I'm sure that time is something truly precious and gentle for Satoko.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'I'm sure she treasures that time' vs new 'I'm sure that time is something truly precious and gentle for Satoko'; JPN 'とてもやさしい時間' means 'very gentle/kind time' - new preserves the gentleness quality.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 6087,
+    "TextENGNew": "\"Ahahahahaha... That's about the limit of what this old man can manage, I suppose.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 6088,
+    "TextENGNew": "\"...That's not true.@k@vS20/07/VTK1_satoshi1065. I really am grateful.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 6089,
+    "TextENGNew": "\"Stop it.@k@vS20/03/VTK1_mion1006. ...You don't have anything to thank me for.@k@vS20/03/VTK1_mion1007.If anything, my family is the one causing all this grief.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 6090,
+    "TextENGNew": "\"...I don't think of it that way.@k@vS20/07/VTK1_satoshi1067. Not at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 6091,
+    "TextENGNew": "...I may not be the best at reading people's subtle cues, but I knew with certainty that what he just said was a lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 6092,
+    "TextENGNew": "Satoshi knew full well that the source of their family's mistreatment was the Sonozaki family, and he could not help but be conscious of the fact that I was the heir of that very house.",
+    "significantChanges": true,
+    "changeReason": "Old 'he's, of course, aware that I am a member of the Sonozaki family' vs new 'he could not help but be conscious of the fact that I was the heir of that very house'; JPN '本家の娘' means 'daughter of the main family' - new's 'heir' captures the leadership role implied.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 6093,
+    "TextENGNew": "It was only because Satoshi was mature enough not to take it out on me.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 6094,
+    "TextENGNew": "......If Satoshi had been as short-tempered as his aunt, he would have every reason to openly despise me.",
+    "significantChanges": true,
+    "changeReason": "Old 'he would hate me bitterly' vs new 'he would have every reason to openly despise me'; JPN '露骨に毛嫌い' means 'openly/blatantly loathe' - new adds 'every reason to' which shifts from certainty to justification.",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 6095,
+    "TextENGNew": "Perhaps, then, the considerate thing to do would be to keep my distance from them.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 6096,
+    "TextENGNew": "......But I was too meddlesome for that. I could not look the other way when Satoko was sinking into darkness, or when Satoshi wore that brave, forced smile.",
+    "significantChanges": true,
+    "changeReason": "Old 'when I see Satoko looking depressed or Satoshi forcing himself to smile, I have to do something' vs new 'I could not look the other way when Satoko was sinking into darkness, or when Satoshi wore that brave, forced smile'; JPN '暗く沈む沙都子' (Satoko sinking into darkness) and '健気に笑顔を装う悟史' (Satoshi bravely feigning smiles) - new preserves both vivid descriptions.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 6097,
+    "TextENGNew": "...Even though my involvement might only add to the burden they had to bear.",
+    "significantChanges": true,
+    "changeReason": "Old 'That might be even more troublesome to Satoshi and Satoko' vs new 'my involvement might only add to the burden they had to bear'; JPN '余計な気を遣わせている' means 'making them use unnecessary consideration/effort' - new's 'burden' better captures this.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 6098,
+    "TextENGNew": "\"Maybe I just... don't understand Satoko's feelings at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 6099,
+    "TextENGNew": "\"...Why do you say that?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Why?' vs new 'Why do you say that?'; JPN 'どうして？' is ambiguous but in context the new translation is more natural as a follow-up question.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 6100,
+    "TextENGNew": "\"My family is the reason Satoko is suffering.@k@vS20/03/VTK1_mion1010. So for me, a member of that family, to hang around her... am I just being oblivious?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Is that the right thing to do?' vs new 'am I just being oblivious?'; JPN '空気の読めてないこと' means 'not reading the atmosphere/being oblivious', which new correctly translates but old misses entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 6101,
+    "TextENGNew": "\"That's not true.@k@vS20/07/VTK1_satoshi1070. I think that's exactly what makes you you, Mion.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates そんなことはないよ as 'Sure' (agreement) when it means 'That's not true' (disagreement/reassurance), reversing the emotional meaning.",
+    "changeScore": 4
+  },
+  {
+    "index": 71,
+    "MessageID": 6102,
+    "TextENGNew": "\"What's that supposed to mean?@k@vS20/03/VTK1_mion1012. Are you saying being insensitive suits me?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 6103,
+    "TextENGNew": "\"Mm, that's not what I mean.@k@vS20/07/VTK1_satoshi1072. ...If this atmosphere itself is what's stealing Satoko's smile...@k@vS20/07/VTK1_satoshi1073.then only someone who can completely ignore that atmosphere can bring it back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 6104,
+    "TextENGNew": "\"...Y-You make it sound nice, but you're subtly making fun of me, aren't you?@k@vS20/03/VTK1_mion1014. That's mean, ahahaha!\"",
+    "significantChanges": true,
+    "changeReason": "Old 'This ol' man can't tell if you're trying to compliment him or not' vs new 'You make it sound nice, but you're subtly making fun of me, aren't you?'; JPN 'さり気なくおじさんのこと馬鹿にしてるでしょー？' means 'you're subtly making fun of me, right?' - old misses the accusation of being teased.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 6105,
+    "TextENGNew": "\"I'm not making fun of you, really.@k@vS20/07/VTK1_satoshi1075. ...I'm asking for your help.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 6106,
+    "TextENGNew": "\"...Eh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 6107,
+    "TextENGNew": "\"......I can't bring Satoko's smile back on my own.@k@vS20/07/VTK1_satoshi1077. ...I need someone strong like you to help me.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'I need someone like you to help me' vs new 'I need someone strong like you to help me'; JPN '力強い人の助け' means 'a strong/powerful person's help' - new correctly includes 'strong'.",
+    "changeScore": 2
+  },
+  {
+    "index": 77,
+    "MessageID": 6108,
+    "TextENGNew": "\"B-But...@k@vS20/03/VTK1_mion1017. I'm... Mion Sonozaki, you know?@k@vS20/03/VTK1_mion1018. If I blunder in thoughtlessly, I might end up hurting Satoko even more...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 6109,
+    "TextENGNew": "\"That atmosphere is what's keeping Satoko all alone...@k@vS20/07/VTK1_satoshi1079. So are you going to leave her alone too, Mion...?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Satoko is already lonely... Are you going to leave her alone too?' vs new 'That atmosphere is what's keeping Satoko all alone... So are you going to leave her alone too, Mion...?'; JPN 'その空気が沙都子をひとりぼっちにしている' blames 'that atmosphere' not just loneliness - this is a key argument Satoshi makes.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 6110,
+    "TextENGNew": "\".........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 6111,
+    "TextENGNew": "This was the first time Satoshi had ever asked me for something so directly.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 6112,
+    "TextENGNew": "Satoko was the most important person in his world.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 6113,
+    "TextENGNew": "...He was telling me plainly that to bring back Satoko's smile, he needed my help.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 6114,
+    "TextENGNew": "But still...",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 6115,
+    "TextENGNew": "No...",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 6116,
+    "TextENGNew": "...Maybe he was right.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 6117,
+    "TextENGNew": "The conflict between the Sonozaki family and the Houjou family was an adult affair... something that had absolutely nothing to do with us children.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 6118,
+    "TextENGNew": "The irrational rules of the adults' world meant nothing in our world.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 6119,
+    "TextENGNew": "...Perhaps I could protest the injustice of the adult world using the methods of my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 6120,
+    "TextENGNew": "\"...Are you sure Satoko won't mind having me around?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 6121,
+    "TextENGNew": "\"She might, a little, at first.@k@vS20/07/VTK1_satoshi1081. But I'll be right there with you.@k@vS20/07/VTK1_satoshi1082.I'll be with you, Mion.@k@vS20/07/VTK1_satoshi1083.She'll warm up to you in no time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 6122,
+    "TextENGNew": "\"Y-You think so...?!@k@vS20/03/VTK1_mion1022. ......Should we invite Satoko to hang out after school today?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Should we do something after school today?' is generic; new 'Should we invite Satoko to hang out after school today?' explicitly mentions Satoko. JPN '沙都子を遊びに誘ってみる？' specifically says 'try inviting Satoko to play'.",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 6123,
+    "TextENGNew": "\"...If we go home first, our aunt might start in on us, and we might not be able to leave again.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'our aunt might say something, and we might not be able to leave' vs new 'our aunt might start in on us, and we might not be able to leave again'; JPN '色々言われて' means 'be told various things' (i.e., the aunt will nag/berate them), new better conveys this.",
+    "changeScore": 2
+  },
+  {
+    "index": 93,
+    "MessageID": 6124,
+    "TextENGNew": "\"Ha, then it's simple.@k@vS20/03/VTK1_mion1024. Just don't go home first.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 6125,
+    "TextENGNew": "\"But if we get back too late, she'll demand to know why we were dawdling...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 6126,
+    "TextENGNew": "\"Hmm, well, how about this!@k@vS20/03/VTK1_mion1026. What if you said you joined a club?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Why don't you join a club?' suggests actually joining; new 'What if you said you joined a club?' correctly conveys the pretense. JPN '部活動に加わったっていうのはどう？' means 'how about saying you joined club activities?' - it's about using it as an excuse.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 6127,
+    "TextENGNew": "\"A club?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 6128,
+    "TextENGNew": "\"Yeah.@k@vS20/03/VTK1_mion1028. Tell her it's club activities. Just say you're doing something at school before heading home.@k@vS20/03/VTK1_mion1029.Plenty of kids hang around after school before going home.@k@vS20/03/VTK1_mion1030.It'll be totally fine!\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Tell her you are going to an after-school club. Tell her that you're doing something after school before going home.' vs new 'Tell her it's club activities. Just say you're doing something at school before heading home.' - similar but old duplicates the instruction while new is more natural. Also 'There are plenty of people who go out after school' vs 'Plenty of kids hang around after school' - JPN '男の子' means boys specifically.",
+    "changeScore": 2
+  },
+  {
+    "index": 98,
+    "MessageID": 6129,
+    "TextENGNew": "\"Ah, but... if we get our clothes dirty, our aunt will...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 6130,
+    "TextENGNew": "\"Hmph, then we just make it indoor activities instead of outdoor!@k@vS20/03/VTK1_mion1032. That way your clothes stay clean.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'Okay, then we'll do something indoors!' vs new 'Hmph, then we just make it indoor activities instead of outdoor!'; JPN 'ふふん、ならさ、アウトドアじゃなくてインドア中心にすればいいわけよ！' explicitly contrasts outdoor vs indoor, which new preserves but old omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 100,
+    "MessageID": 6131,
+    "TextENGNew": "\"Indoors means the classroom?@k@vS20/07/VTK1_satoshi1089. But if we get too rowdy, won't Chie-sensei say something?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 6132,
+    "TextENGNew": "\"Heh heh heh!@k@vS20/03/VTK1_mion1034. It's entirely possible to play passionately indoors without making a mess.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 6133,
+    "TextENGNew": "\"Contrary to appearances, this old man is a huge fan of games!@k@vS20/03/VTK1_mion1036. I've actually collected quite a few rare imports.",
+    "significantChanges": true,
+    "changeReason": "Old 'Contrary to my appearance, I love playing games!' vs new 'Contrary to appearances, this old man is a huge fan of games!'; JPN 'おじさん、こう見えてもゲームが大好きでね！' uses 'ojisan' (old man, Mion's self-reference) which new preserves but old uses 'my'.",
+    "changeScore": 2
+  },
+  {
+    "index": 103,
+    "MessageID": 6134,
+    "TextENGNew": "\"Some of the manuals are in English and can be tricky, and a lot of them need an opponent to play, so most of them have just been sitting in storage.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 6135,
+    "TextENGNew": "\"Do you think Satoko could play those too?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 6136,
+    "TextENGNew": "\"Absolutely!@k@vS20/03/VTK1_mion1039. Ahahaha, if you don't know the rules, just make them up on the spot!@k@vS20/03/VTK1_mion1040. As long as everyone follows the same rules, it's perfectly fair!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 6137,
+    "TextENGNew": "I said it with great confidence, but would simply bringing games from home and inviting Satoko to play really be enough to bring back her smile?",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 6138,
+    "TextENGNew": "...Nothing ventured, nothing gained.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 6139,
+    "TextENGNew": "...Maybe I'll bring a board game or something tomorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 6140,
+    "TextENGNew": "\"Oh... also, Mion.@k@vS20/07/VTK1_satoshi1092. There's something else I wanted to ask you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 6141,
+    "TextENGNew": "\"What is it?@k@vS20/03/VTK1_mion1042. If it's something this old man can help with, ask away!\"",
+    "significantChanges": true,
+    "changeReason": "Old 'This ol' man is all ears!' vs new 'If it's something this old man can help with, ask away!'; JPN 'おじさんで乗れる相談なら何でも聞いてよ' means 'if it's a consultation I can take on, ask anything' - new captures the conditional 'if I can help' while old omits it.",
+    "changeScore": 2
+  },
+  {
+    "index": 111,
+    "MessageID": 6142,
+    "TextENGNew": "\"I'm... looking for a part-time job.@k@vS20/07/VTK1_satoshi1094. I was thinking that if I could get Satoko a really nice birthday present, it might cheer her up.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'I am looking for a part-time job' (present, formal) vs new 'I'm... looking for a part-time job' (hesitant, with pause); JPN has '僕、…' with a pause. Also new adds 'I was thinking that if I could get Satoko a really nice birthday present, it might cheer her up' which better matches the speculative tone of JPN.",
+    "changeScore": 2
+  }
+]

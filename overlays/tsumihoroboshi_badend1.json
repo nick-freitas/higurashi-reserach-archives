@@ -1,0 +1,1086 @@
+[
+  {
+    "index": 1,
+    "MessageID": 89775,
+    "TextENGNew": "``Okinomiya PS to all units.@k@vS09/00/VTP_OkeijiA_1002. Okinomiya PS to all units.@k@vS09/00/VTP_OkeijiA_1003. A barricade incident has occurred at the Hinamizawa Forestry Service.@k@vS09/00/VTP_OkeijiA_1004. Multiple hostages reported.@k@vS09/00/VTP_OkeijiA_1005. All units proceed to the Hinamizawa Forestry Service immediately.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'hostage situation' but 篭城事件 means 'barricade incident/siege.'",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 89776,
+    "TextENGNew": "``Kuma-chan!!@k@vS09/11/170700309. Sorry I'm late!@k@vS09/11/170700340. What's the situation?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 89777,
+    "TextENGNew": "``Welcome, sir!@k@vS09/19/173100072. Today at approximately 1:00 PM, a classroom occupation occurred at the Hinamizawa branch school section of the Hinamizawa Forestry Service building.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds location detail not in original: 'forestry service'.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 89778,
+    "TextENGNew": "``The suspect's initial demands are to prohibit all entry to the forestry service grounds and to establish a hotline to us.``",
+    "significantChanges": true,
+    "changeReason": "Different locations referenced: old mentions 'branch school', new mentions 'forestry service'.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 89779,
+    "TextENGNew": "``...So they intend to negotiate with us from the outset?@k@vS09/11/170700312. ...What's their game...?``",
+    "significantChanges": true,
+    "changeReason": "Different implication: 'What's going on?' is neutral inquiry while 'What's their game?' implies suspicion about deliberate scheming.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 89780,
+    "TextENGNew": "``...Also, the suspect has requested you specifically as negotiator, Ooishi-san.@k@vS09/19/173100076. The suspect is Reina Ryuugu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 89781,
+    "TextENGNew": "``Ryuugu-san...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 89782,
+    "TextENGNew": "``...Very well.@k@vS09/11/170700315. It seems we're bound by fate at this point.@k@vS09/11/170700316. I'll see this through to the end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 89783,
+    "TextENGNew": "Ooishi gave a bitter smile.",
+    "significantChanges": true,
+    "changeReason": "Different characterization: 'crooked smile' vs 'bitter smile' (JPN 苦々しく = bitter).",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 89784,
+    "TextENGNew": "``It's unknown whether there are any accomplices besides Reina Ryuugu.@k@vS09/19/173100078. The curtains have been drawn, so we've been unable to confirm the situation inside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 89785,
+    "TextENGNew": "``Have you spoken to the person who reported the incident about the conditions during the takeover?``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 89786,
+    "TextENGNew": "``No, it was a direct statement from Reina Ryuugu herself.@k@vS09/19/173100080. Therefore, we have been unable to confirm the internal situation or the condition of the hostages.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 89787,
+    "TextENGNew": "``...She planned this carefully, didn't she.@k@vS09/11/170700319. Any forestry service personnel among the hostages?``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 89788,
+    "TextENGNew": "``The forestry service staff were absent today.@k@vS09/19/173100083. So it's just the twenty-five students.@k@vS09/19/173100084. No teachers, either -- the principal was away, and the homeroom teacher was apparently lured away as well.``",
+    "significantChanges": true,
+    "changeReason": "Numerical quantities differ: old has {24}, new has {25}.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 89789,
+    "TextENGNew": "``So it's just the suspect and the students.@k@vS09/11/170700321. Any other suspicious figures spotted besides Reina Ryuugu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 89790,
+    "TextENGNew": "``No, sir. There have been occasional glimpses of a figure peeking through the curtains, but each time it was confirmed as Ryuugu Reina herself.@k@vS09/19/173100086. ...However, considering the scale and other factors, we estimate there are at least one or two more people inside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 89791,
+    "TextENGNew": "\"......Rena-chan is such a serious, good girl...!@k@vS09/22/171400073. For her to do something like this... there must be some mistake...!@k@vS09/22/171400074. Ooohhh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 89792,
+    "TextENGNew": "\"A-Are you all right...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content with different character references, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 19,
+    "MessageID": 89793,
+    "TextENGNew": "Ooishi hurried over to Chie-sensei, who had broken down crying with a handkerchief pressed to her eyes...",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 89794,
+    "TextENGNew": "Chie-sensei had sunk down completely, and it seemed impossible to get anything more out of her.",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content with different character references, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 21,
+    "MessageID": 89795,
+    "TextENGNew": "``Ooishi-san...!@k@vS09/19/173100091. It's the principal and the homeroom teacher!``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 89796,
+    "TextENGNew": "\"Principal, let me do that!!@k@vS09/22/171400076. It's all my fault, ahhhhhhhhh...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 89797,
+    "TextENGNew": "\"Teachers, please don't blame yourselves.@k@vS09/11/170700329. ...I'll need to ask you about the situation inside the school, so please cooperate with us.\"",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content with different character references, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 24,
+    "MessageID": 89798,
+    "TextENGNew": "\"Bonchi-kun!@k@vS09/11/170700331. Please take them to the floor plans and hear what they have to say.\"",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content from the original, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 25,
+    "MessageID": 89799,
+    "TextENGNew": "\"Excuse me!@k@vS09/19/173100089. Section Chief Takasugi is on Car 1's radio!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 89800,
+    "TextENGNew": "\"Yes, yes, hello... this is Ooishi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 89801,
+    "TextENGNew": "\"Ooishi-san, good work out there!@k@vS09/00/taka17004. Kumagai-kun filled me in on the general situation.@k@vS09/00/taka17005. The suspect is a minor, I hear?@k@vS09/00/taka17006. Make sure you keep strict control over the press!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 89802,
+    "TextENGNew": "\"Understood.@k@vS09/11/170700334. ......Also, it seems the suspect has designated me as negotiator. Is that all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 89803,
+    "TextENGNew": "``Ooishi-san...!@k@vS09/19/173100093. On the car phone... it's the suspect, Reina Ryuugu...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 89804,
+    "TextENGNew": "\"Ooishi-san......!@k@vS09/19/173100091. The suspect—Ryuugu Rena—is on the car phone......!\"",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content with different character references, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 31,
+    "MessageID": 89805,
+    "TextENGNew": "\"...I've already gotten a call from the requested party.@k@vS09/11/170700337. I'll take it now.\"",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content with different character references, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 32,
+    "MessageID": 89806,
+    "TextENGNew": "``...........Thank you.@k@vS09/11/170700339. ......Hello, this is Ooishi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 89807,
+    "TextENGNew": "\"Tch...!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content from the original, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 34,
+    "MessageID": 89808,
+    "TextENGNew": "He clenched his teeth in anger and frustration, balling his fists tightly.",
+    "significantChanges": true,
+    "changeReason": "New translation is entirely different content with different character references, indicating a misaligned passage.",
+    "changeScore": 5
+  },
+  {
+    "index": 35,
+    "MessageID": 89809,
+    "TextENGNew": "An overwhelming wall of police officers blocked my way, and I could feel pathetic for only being able to watch the teachers and the detectives from afar.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 89810,
+    "TextENGNew": "The reason behind why Chie-sensei had been phoned and summoned out of the school.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 89811,
+    "TextENGNew": "...For Rena who wanted to hijack to classroom, the biggest obstacle was Chie-sensei.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 89812,
+    "TextENGNew": "She was someone who had a strong sense of justice.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 89813,
+    "TextENGNew": "Even if Rena had held a pistol to her, Chie-sensei probably wouldn't have hesitated.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 89814,
+    "TextENGNew": "For the welfare of her students, she would put herself in danger... getting rid of someone like her was the primary step in order to hijack the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 89815,
+    "TextENGNew": "Attacking her from behind would have been her very first line of thought but,@k I'm sure she decided taking on an adult directly was a risky affair.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 89816,
+    "TextENGNew": "...In that case, it was better to lure her away to someplace..!",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 89817,
+    "TextENGNew": "Rena had then phoned Chie-sensei, and then told her she wished to seek her advice in someplace private... and asked to meet her near that suspension bridge.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 89818,
+    "TextENGNew": "Including Chie-sensei, a good majority of the people thought that Rena had merely run away from home.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 89819,
+    "TextENGNew": "...So Chie-sensei probably thought Rena merely had some troubles she wished to discuss.@k ......Fooling her was that easy.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 89820,
+    "TextENGNew": "So... where did Rena make the call from...?",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 89821,
+    "TextENGNew": "Yes, it was from within the school.@k Well, not exactly.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 89822,
+    "TextENGNew": "It was most likely from the second floor of the school building, .......from the office room of the Forestry Service.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 89823,
+    "TextENGNew": "The Forestry Service at our school was more like a branch office, so it wasn't like the staff were always present.@k Depending on the day, they might not even be there.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 89824,
+    "TextENGNew": "Rena had known this, and had been hiding on the second floor all this time.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 89825,
+    "TextENGNew": "And then, she had made a call to the ground floor from up there, ......and sent Chie-sensei to a faraway place.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 89826,
+    "TextENGNew": "It probably wasn't a coincidence that the principal had also been away on a business trip today.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 89827,
+    "TextENGNew": "......Rena had most likely snuck into the school yesterday itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 89828,
+    "TextENGNew": "And then, she had discerned the principal's itinerary and the workings of the internal phone line before she put her plan into action.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 89829,
+    "TextENGNew": "......How cunning it all was......",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 89830,
+    "TextENGNew": "......No, I understood.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 89831,
+    "TextENGNew": "...Right now, even as she was possessed by a murderous rage, ...Rena was keeping her composure.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 89832,
+    "TextENGNew": "...She was unbelievably calm despite being plagued by her delusion that controlled her.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 89833,
+    "TextENGNew": "...And so, just thinking about it made my head spin.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 89834,
+    "TextENGNew": "...Because I had even personally experienced what she was going through before.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 89835,
+    "TextENGNew": "Also, what was even more unlucky was the absence of the Sonozaki Family bodyguard who had been standing by the gate.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 89836,
+    "TextENGNew": "......It was because Mion had sent him to follow Chie-sensei who had set out to meet Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 89837,
+    "TextENGNew": ".........Fuck, everything was so screwed up... on so many levels.........",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 89838,
+    "TextENGNew": "``We're trying to come up with a plan for the simultaneous raids as we speak. We're talking to the prefectural police as well as the Public Safety Division.@k@vS09/11/170700375. We're talking about the entire city, so we need a little more time to prepare for it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 89839,
+    "TextENGNew": "``You're taking too long!!!@k@vS09/02/170201483. Ooishi-san, don't you realize what kind of emergency situation Shishibone City is in right now?",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 89840,
+    "TextENGNew": "What are you doing?@k@vS09/02/170201485. Ooishi-san...... you do believe me, don't you?@k@vS09/02/170201486. You're my ally, right?@k@vS09/02/170201487. Right?@k@vS09/02/170201488. Please answer me!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 89841,
+    "TextENGNew": "``O-Of course, I am!@k@vS09/11/170700377. But the police department is a little more complicated than you think...@k@vS09/11/170700378. I'm doing my best, I really am!@k@vS09/11/170700379. The thing is this is on a really big scale...``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 89842,
+    "TextENGNew": "...The negotiations weren't that satisfactory, to be honest.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 89843,
+    "TextENGNew": "Even as they spoke, it was clear from the overwhelming tension that Rena's patience was wearing thinner and thinner.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 89844,
+    "TextENGNew": "``...Okay, call Keiichi-kun over here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 89845,
+    "TextENGNew": "``What?@k@vS09/11/430500002. Could you say that again?``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 89846,
+    "TextENGNew": "``Isn't Keiichi-kun there right now?@k@vS09/02/430400003. I'd like to talk to him now so please call him over immediately!``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 89847,
+    "TextENGNew": "``...I-I understand.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 89848,
+    "TextENGNew": "Ooishi asked one of his subordinates to summon the boy who stood in the front line of the crowd gathered at the barricade.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 89849,
+    "TextENGNew": "He immediately jogged over to the car as soon as he was called.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 89850,
+    "TextENGNew": "``You must be Keiichi Maebara, I assume?``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 89851,
+    "TextENGNew": "``Y-Yes...``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 89852,
+    "TextENGNew": "``Miss Rena Ryuugu would like to have a word with you.@k@vS09/11/430500006. Could you please take the call?``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 89853,
+    "TextENGNew": "``...I understand.``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 89854,
+    "TextENGNew": "Ooishi then handed over the receiver to Keiichi and he noticed something happening outside and left the car.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 89855,
+    "TextENGNew": "``...Hello?``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 89856,
+    "TextENGNew": "``Ah, Keiichi-kun...?@k@vS09/02/430400005. It's good that you came back here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 89857,
+    "TextENGNew": "``Rena...``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 89858,
+    "TextENGNew": "``The police isn't believing what I'm telling them.@k@vS09/02/430400007. Could you please tell them that the things I'm saying are true, and that I'm very serious about what I'm about to do... could you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 89859,
+    "TextENGNew": "``.........@k@vS09/01/430200039. What do you mean by... 'what I'm about to do'...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 89860,
+    "TextENGNew": "``I've just finished pouring gasoline all over this classroom.@k@vS09/02/430400009. So, if I just ignite the lighter I have on hand, all the hostages here will die.@k@vS09/02/430400010. ...Could you please let Ooishi-san know about that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 89861,
+    "TextENGNew": "``Wha-?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 89862,
+    "TextENGNew": "``Wh-Who are you people?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 89863,
+    "TextENGNew": "``Move over.@k@vS09/00/VT3_ootaka1002. Who's in charge here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 89864,
+    "TextENGNew": "Several cars had arrived, producing several men. They weren't from the Okinomiya station.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 89865,
+    "TextENGNew": "One of the men was wearing a suit, despite the hot weather. He approached me, pushing Kumagai aside.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 89866,
+    "TextENGNew": "``...Hey, look who's here.@k@vS09/11/170700523. Good to see you again, Ootaka-kun from the prefectural headquarters.``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 89867,
+    "TextENGNew": "``Watch your mouth.@k@vS09/00/VT3_ootaka1004. I'm ranked much higher than you now, so don't address me so casually.``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 89868,
+    "TextENGNew": "``Can I help you with something, Ootaka-<i>kun</i>?@k@|@y@vS09/11/170700525. I'm rather busy at the moment.@k@vS09/11/170700526. You can't possibly be thinking about taking over this case?@k@vS09/11/170700527. Who approved that, exactly?``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 89869,
+    "TextENGNew": "``I did, Ooishi-kun!``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 89870,
+    "TextENGNew": "``Ch-Chief...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 89871,
+    "TextENGNew": "``Takasugi-kun has informed me of the situation.@k@vS09/00/syocho17003. He also told me that you started all this.@k@vS09/00/syocho17004. You can go now. The troops will take over!``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 89872,
+    "TextENGNew": "``The troops? ...Ootaka-kun, you aren't going to storm the building, are you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 89873,
+    "TextENGNew": "``I understand the risk.@k@vS09/00/VT3_ootaka1006. But we don't have any time left before the bomb goes off.@k@vS09/00/VT3_ootaka1007. You've taken too long.@k@vS09/00/VT3_ootaka1008. We're here to take care of the mess you left behind.@k@vS09/00/VT3_ootaka1009. Just step back for a minute.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 89874,
+    "TextENGNew": "I couldn't talk back if both the chief and a guy from the prefectural headquarters gave me an order.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 89875,
+    "TextENGNew": "``O...Ooishi-san, who the heck is he?``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 89876,
+    "TextENGNew": "``That's Ootaka-kun.@k@vS09/11/170700531. Nfu fu, a long time ago, he was showing off even though he was bad at mahjong, so I taught him a lesson.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 89877,
+    "TextENGNew": "Or maybe he's still holding a grudge from when I knocked him unconscious in that kendo tournament.``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 89878,
+    "TextENGNew": "Obviously, we didn't get along.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 89879,
+    "TextENGNew": "``Give me the latest update, Ooishi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 89880,
+    "TextENGNew": "``Are you serious about storming the school?``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 89881,
+    "TextENGNew": "``A special unit from the prefectural police department will handle the infiltration.@k@vS09/00/VT3_ootaka1012. Your unit will be their backup.``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 89882,
+    "TextENGNew": "``...Chief.``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 89883,
+    "TextENGNew": "``Ooishi-kun,@k@vS09/00/syocho17006. the special unit from the prefectural police department isn't just any old unit.@k@vS09/00/syocho17007. You've heard about the Second Company, haven't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 89884,
+    "TextENGNew": "``What's that, Ooishi-san?@k@vS09/19/173100174. Is this ``Second Company`` that well known?``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 89885,
+    "TextENGNew": "``Do you remember, about five years ago, when the JRA hijacked that airplane? Flight 472?@k@vS09/11/170700548. I've heard that special counter-terrorist units were put together in Tokyo and Osaka after that incident.@k@vS09/11/170700549. So they really do exist...``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 89886,
+    "TextENGNew": "``B-But why would a special unit from Osaka be here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 89887,
+    "TextENGNew": "Ootaka smiled proudly.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 89888,
+    "TextENGNew": "``We just happened to be holding a training session with your prefectural police unit.@k@vS09/00/VT3_ootaka1014. We requested their help.``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 89889,
+    "TextENGNew": "``Na ha ha... you haven't changed, have you?@k@|@y@vS09/11/170700551. ...You have a bad tendency to escalate matters quickly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 89890,
+    "TextENGNew": "The Company members exited the vehicles one after another and took position.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 89891,
+    "TextENGNew": "They didn't move like policemen...",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 89892,
+    "TextENGNew": "``Ootaka-kun!@k@vS09/11/170700553. Are you really going to have a gunfight here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 89893,
+    "TextENGNew": "``Don't worry.@k@vS09/00/VT3_ootaka1016. They won't use firearms.@k@vS09/00/VT3_ootaka1017. They're using riot shields and riot guns.@k@vS09/00/VT3_ootaka1018. These guns send out tear gas at high pressures.@k@vS09/00/VT3_ootaka1019. There will be no issue with explosions.``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 89894,
+    "TextENGNew": "``......Wow, I've never heard of such convenient water guns.@k@vS09/11/170700556. By the way, can that toy reach the classroom from across the schoolyard?``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 89895,
+    "TextENGNew": "``You don't need to worry about that.@k@vS09/00/VT3_ootaka1021. You just move over and let us do our job.``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 89896,
+    "TextENGNew": "And then, following Ootaka's orders, the special forces took positions at a blind spot visible from the school window and prepared to infiltrate.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 89897,
+    "TextENGNew": "Ooishi wrinkled his nose at Ootaka's arrogance and pretentious attitude that didn't give way for counterarguments. Remembering that Rena and Keiichi were having a conversation, he turned on his heel heading over to the patrol car.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 89898,
+    "TextENGNew": "And there...",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 89899,
+    "TextENGNew": "``Detective, we have an emergency!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 89900,
+    "TextENGNew": "At once, the door to the car swung open and Keiichi rushed over to him screaming.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 89901,
+    "TextENGNew": "``What's the matter, Maebara-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 89902,
+    "TextENGNew": "``Re-Rena just told me she's poured gasoline all over the classroom...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 89903,
+    "TextENGNew": "``Whaaa?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 89904,
+    "TextENGNew": "Gasoline...?! I didn't hear that there was something so inflammable in the vicinity!! No, it's not about that, right now—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 89905,
+    "TextENGNew": "``Preparing to shoot, steady—``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 89906,
+    "TextENGNew": "``P-Please wait!@k@vS09/11/430500010. Stop, don't shoot!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 89907,
+    "TextENGNew": "``Fire~!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 89908,
+    "TextENGNew": "``Uwaaaahhhh!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 89909,
+    "TextENGNew": "............",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 89910,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 89911,
+    "TextENGNew": "Our bodies were promptly blown away and hit the ground, we didn't understand what had happened for a moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 89912,
+    "TextENGNew": "``.........@k@vS09/01/430200045. ...gh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 89913,
+    "TextENGNew": "A high pitched tinnitus violently reverberated within my skull, and an overwhelming dizziness distanced me from my consciousness.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 89914,
+    "TextENGNew": "My throat and nasal passage felt irritated from the suspended dust particles and smoldered air.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 89915,
+    "TextENGNew": "``.....gh.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 89916,
+    "TextENGNew": "Spitting out the crunchy debris from my mouth, I dragged my beaten body up into a stance, and faced forward, looking ahead of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 89917,
+    "TextENGNew": "``............@k@vS09/01/430200048..........@k@vS09/01/430200049....Ah.........?``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 89918,
+    "TextENGNew": "There were many police officers scattered about on the ground, groaning from the impact.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 89919,
+    "TextENGNew": "...A voice of agony filled the air next to me. ...As I faced it, it turned out to be the detective I'd been talking to just now.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 89920,
+    "TextENGNew": "``Ugh... ...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 89921,
+    "TextENGNew": "His entire body was covered in dirt and debris, and he was bleeding from his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 89922,
+    "TextENGNew": "As I began to sit down in concern for him, I suddenly remembered Mion and Rena's safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 89923,
+    "TextENGNew": "And then, I turned towards the direction of the school.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 89924,
+    "TextENGNew": "...I@k ...couldn't believe@k ...what I was seeing.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 89925,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 89926,
+    "TextENGNew": "What stood before me was a disordered conglomerate of wood, bricks and other distorted articles mixed in... crudely resembling an enormous camping bonfire.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 89927,
+    "TextENGNew": "The flames that had risen up in between that mass burned so high they seemed to reach up into the evening twilight.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 89928,
+    "TextENGNew": "Even from this faraway distance, I could perceive the heat and the scorching smell.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 89929,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 89930,
+    "TextENGNew": "...No.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 89931,
+    "TextENGNew": "No, this had to be a dream.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 89932,
+    "TextENGNew": "This couldn't be our school.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 89933,
+    "TextENGNew": "...",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 89934,
+    "TextENGNew": "No, this wasn't even a school in the first place...",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 89935,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 89936,
+    "TextENGNew": "I staggered over.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 89937,
+    "TextENGNew": "Fumbling forward with my useless legs, I walked over to that monstrosity.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 89938,
+    "TextENGNew": "And then before me, amidst the crumbled remains of timber, I discovered a face I recognized and drew a breath before I rushed over.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 89939,
+    "TextENGNew": "``Mion...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 89940,
+    "TextENGNew": "Mion's eyes were wide open, facing my way, with her right arm raised.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 89941,
+    "TextENGNew": "Her mouth was slightly open... she probably couldn't speak.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 89942,
+    "TextENGNew": "``Thank god... Mion...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 89943,
+    "TextENGNew": "I had to get her out here first!",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 89944,
+    "TextENGNew": "Thinking that, I tightly grasped that right arm—.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 89945,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 89946,
+    "TextENGNew": "It felt light, there was no resistance.@k And then, from within the rubble,@k@|@y 'it' came out.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 89947,
+    "TextENGNew": "``......Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 89948,
+    "TextENGNew": "And then, a small mass rolled over,@k and touched my feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 89949,
+    "TextENGNew": "Mi@w600.on's@w600. head@w600. had@w600. co@w600.me@w600. a@w600.part@w600. from@w600. her@w600. body@w600....",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 89950,
+    "TextENGNew": "``U-Uwaaaaaaaaaaaahhhhhhhhh!!@k@vS09/01/430200059. Aaaaahhhhhhhhh!!!!``",
+    "significantChanges": false
+  }
+]

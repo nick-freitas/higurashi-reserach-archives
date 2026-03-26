@@ -1,0 +1,87 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Letter from the Forestry Office",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Letter From the Forestry Office\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15398,
+    "TextENGNew": "Though it is only June, the cries of cicadas are already in the air. How are you all faring in Hinamizawa?",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15399,
+    "TextENGNew": "The Watanagashi festival is drawing near once again this year.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'once again this year' reflecting the Japanese 今年も, a temporal detail missing from the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 15400,
+    "TextENGNew": "The live wood-carving demonstration and sale by Hinamizawa Forestry Office staff, which received high praise last year, will be held again.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the sale component (実演販売), the detail that it received high praise last year (大変ご好評をいただきました昨年), and that it will be held again — all present in the Japanese but absent from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 15401,
+    "TextENGNew": "With a parent or guardian present, we can lend our tools to children as well, so why not make it a wonderful family memory?",
+    "significantChanges": true,
+    "changeReason": "Old translation omits the condition of parental accompaniment (保護者の同伴) and mistranslates 記念 as 'memorial gift' instead of 'memory'; new translation accurately captures both the guardian requirement and the family memory intent.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 15402,
+    "TextENGNew": "On another matter, in accordance with the 4th Forest Management Plan, we will be conducting timber felling in the mountain forest this summer.",
+    "significantChanges": true,
+    "changeReason": "Old contains placeholder 'No. XX' and adds 'Landscape' not in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 15403,
+    "TextENGNew": "The purpose of this felling is to preserve the beauty of the woodland by removing aged and dead trees, and to rejuvenate the forest through new planting.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'dead trees' (枯木) and 'rejuvenate the forest' (山林の若返り), both present in the Japanese but missing from the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 15404,
+    "TextENGNew": "The Forestry Office is recruiting volunteers to participate in these felling activities.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15405,
+    "TextENGNew": "Why not take this rare opportunity to experience forestry work under the open sky and immerse yourself in the splendor of nature?",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15406,
+    "TextENGNew": "The timing falls right across summer vacation, making it possible for families with children to participate together.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15407,
+    "TextENGNew": "We hope that this valuable volunteer experience in the summer hills and fields will contribute to the wholesome development of your children.",
+    "significantChanges": true,
+    "changeReason": "New translation captures 健全な育成に貢献 ('contribute to wholesome development') which the original simplified to 'learn about nature and have a valuable experience', losing the specific developmental framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 15408,
+    "TextENGNew": "The planned felling areas are the forests of the Takatsudo and Yagouchi districts.",
+    "significantChanges": false
+  }
+]

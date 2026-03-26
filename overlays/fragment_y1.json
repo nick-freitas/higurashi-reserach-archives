@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11316,
+    "TextENGNew": "...Welcome to Hint I.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11317,
+    "TextENGNew": "I'll tell you the conditions for unlocking B3 A Brother's Anguish in the World of 1980.",
+    "significantChanges": true,
+    "changeReason": "The fragment title changed from 'Suffering of a Big Brother' to 'A Brother's Anguish' (Japanese: 兄の苦悩). 'Big Brother' vs 'Brother' loses the specificity of an older sibling, and 'Suffering' vs 'Anguish' has a different connotation. These are proper nouns used for navigation.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 11318,
+    "TextENGNew": "B5 The Second 'Specimen' in the World of 1980\nH3 Mion Sonozaki in the World of Friends\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "The fragment title changed from 'Second Specimen' to 'The Second Specimen,' and 'pieces' was changed to 'fragments' (Japanese: カケラ means fragments). The term 'fragments' is the standard translation used for this game mechanic.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 11319,
+    "TextENGNew": "And—\nE2 Footsteps of the Fourth Year in the World of 1982\nE3 The Club's Formation in the World of 1982\n...These fragments are also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "Fragment titles changed: 'Footsteps in the Fourth Year' to 'Footsteps of the Fourth Year' and 'Formation of a Club' to 'The Club's Formation.' Also 'involved in their unlocking' vs 'connected to its appearance' shifts the described relationship between fragments.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 11320,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

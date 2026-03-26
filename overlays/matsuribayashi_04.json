@@ -1,0 +1,1864 @@
+[
+  {
+    "index": 1,
+    "MessageID": 115072,
+    "TextENGNew": "``Ohhhhh, Akasaka-saaaaan!!!@k@vS13/11/DS41110009. It's been far too long!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 115073,
+    "TextENGNew": "``Ooishi-san!@k@vS13/13/DS41120050. You haven't changed one bit!``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 115074,
+    "TextENGNew": "``Nfu fu fu fu!@k@vS13/11/DS41110011. That's a bit harsh, don't you think?@k@vS13/11/DS41110012. I just started this apple diet recently, you know?@k@vS13/11/DS41110013. I thought I'd slimmed down a little!``",
+    "significantChanges": true,
+    "changeReason": "Original misses Ooishi's complaint: 'What are you saying?' vs 'That's a bit harsh, don't you think?'; Japanese お変わりなくなんてひどいですなぁ means 'saying I haven't changed is harsh!'",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 115075,
+    "TextENGNew": "``But you, Akasaka-san, you've grown so much I barely recognize you! Look how sturdy you've become!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds detail: 'grown so much I barely recognize you! Look how sturdy!' vs 'But just look at you!! You look great!'; Japanese 見違えるくらい逞しくなった means 'became so sturdy it's hard to recognize you'",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 115076,
+    "TextENGNew": "``Well, if I don't stay in at least this kind of shape, my body won't hold up on the job.``",
+    "significantChanges": true,
+    "changeReason": "New translation captures the conditional: 'if I don't stay in at least this kind of shape, my body won't hold up' vs 'I have to stay in shape'; Japanese この程度には鍛えてないと includes 'at least this much'",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 115077,
+    "TextENGNew": "``Hey, Kura-chan. Is this the fellow?@k@vS13/00/honda10002. That public security officer from Tokyo who came here a few years back?``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'public security officer' (公安の) from the Japanese, absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 115078,
+    "TextENGNew": "``Hondaya-san, it's been a long time.@k@vS13/13/DS41120053. Thank you for taking care of me back then.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Thank you for taking care of me back then' (その節はお世話になりました), a standard Japanese courtesy expression present in the text but omitted from original",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 115079,
+    "TextENGNew": "``Well, well, haven't you grown into quite the impressive young man?@k@vS13/00/honda10004. Ahh, must be nice to be young!!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds the specific compliment: 'grown into quite the impressive young man' (立派に成長しちゃった), more detailed than original's vague 'look at you'",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 115080,
+    "TextENGNew": "``Come now, come now, you came all this way.@k@vS13/11/DS41110016. Let's head straight to the restaurant!@k@vS13/11/DS41110017. I'm a regular there, so they'll let us in before they officially open.@k@vS13/11/DS41110018. Come on, let's go!``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 115081,
+    "TextENGNew": "``Ooishi-san, a-are you sure that's okay?@k@vS13/13/DS41120055. Aren't you still on the clock?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 115082,
+    "TextENGNew": "``What are you talking about?@k@vS13/11/DS41110020. I'm conducting a special training session with a mission investigator from Tokyo HQ!@k@vS13/11/DS41110021. Come on, let's get going!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 115083,
+    "TextENGNew": "``Ah, let me make a call first.@k@vS13/11/DS41110023. They're greenhorns compared to you, Akasaka-san,@k@vS13/11/DS41110024. but let me round up some company for us!``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 115084,
+    "TextENGNew": "``Ah, perfect timing!!@k@vS13/11/DS41110026. Kuma-chaaan!!@k@vS13/11/DS41110027. How about joining us for a night on the town tonight?``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 115085,
+    "TextENGNew": "``Ooishi-san, you really, truly haven't changed at all... hahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 115086,
+    "TextENGNew": "Back then, Akasaka had found Ooishi's casual manner unprofessional and off-putting,@k but years of real-world experience had completely dispelled that preconception.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 115087,
+    "TextENGNew": "Ooishi had been forged by countless experiences, and everything about who he was today came from that tempering.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands: 'forged by countless experiences' vs 'that way because of his experience'; Japanese 数々の経験に鍛え抜かれた means 'thoroughly tempered by numerous experiences'",
+    "changeScore": 4
+  },
+  {
+    "index": 17,
+    "MessageID": 115088,
+    "TextENGNew": "Being a detective wasn't all about squaring your shoulders and charging headlong at every problem.",
+    "significantChanges": true,
+    "changeReason": "New translation captures specific detective context: 'being a detective wasn't all about squaring your shoulders' vs generic 'It's not always best to take things seriously'; Japanese specifically references 刑事 (detective) work",
+    "changeScore": 4
+  },
+  {
+    "index": 18,
+    "MessageID": 115089,
+    "TextENGNew": "In fact, a frank and easygoing approach often yielded better results in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 115090,
+    "TextENGNew": "...In Akasaka's case, he was the one who was constantly told to relax and loosen up.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 115091,
+    "TextENGNew": "Though in Ooishi's case, he could probably stand to straighten his collar just a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 115092,
+    "TextENGNew": "``Come on, come on!!@k@vS13/11/DS41110029. Akasaka-san, let's go!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 115093,
+    "TextENGNew": "``Yes, let's be off!``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 115094,
+    "TextENGNew": "``Yeah, that's a good answer.@k@vS13/11/DS41110031. You've really developed that seasoned veteran's composure.@k@vS13/11/DS41110032. That's the spirit!``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 115095,
+    "TextENGNew": "The old Akasaka would have taken that as a slight, but now he could accept it for what it was: a genuine compliment from a senior colleague.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 115096,
+    "TextENGNew": "``You've gotten quite the tolerance, Akasaka-san.@k@vS13/11/DS41110034. I don't think I can keep up with you when it comes to drinking anymore.@k@vS13/11/DS41110035. They really do say you can't hold your liquor as well once you get old...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 115097,
+    "TextENGNew": "``You're too kind.@k@vS13/13/DS41120059. I'm only this strong because intelligence work doesn't mix well with being a lightweight.@k@vS13/13/DS41120060. I've got a budget set aside specifically for training sessions with my junior colleagues.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 115098,
+    "TextENGNew": "``Japanese sake, Western liquor, Shaoxing wine!@k@vS13/13/DS41120062. Sometimes we're ducking under noren curtains, other times we're under the mirror ball at some fancy club.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 115099,
+    "TextENGNew": "``Na ha ha ha ha!!@k@vS13/11/DS41110037. Now that's the spirit!@k@vS13/11/DS41110038. You'll have to let me come along as a coach next time!``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 115100,
+    "TextENGNew": "``By all means, please come and show them how it's done.@k@vS13/13/DS41120064. The young ones these days are always whining about how they were just born unable to drink.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 115101,
+    "TextENGNew": "``I couldn't drink at all at first either, you know.@k@vS13/13/DS41120066. The more you drink, the stronger you get, and the more you learn to appreciate the taste!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 115102,
+    "TextENGNew": "``Exactly, exactly!!!@k@vS13/11/DS41110040. Are you listening, Kuma-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 115103,
+    "TextENGNew": "``I-I'm sorry, sir...@k@vS14/19/213100002. But I've actually gotten a lot better, you know!``",
+    "significantChanges": true,
+    "changeReason": "Significantly different: 'Yeah, I heard... I can down quite a few now!' vs 'I-I'm sorry, sir... But I've actually gotten a lot better!'; Japanese 面目ないっす means 'I'm embarrassed/sorry sir', completely missed by original",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 115104,
+    "TextENGNew": "``Wa ha ha ha!!@k@vS14/00/213000002. That's for sure. When you first started working with Ooishi, you were ordering oolong tea for the toast!``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 115105,
+    "TextENGNew": "``That simply won't do!@k@vS13/13/DS41120068. A toast has deep significance.@k@vS13/13/DS41120069. Refusing to drink alcohol at the toast is practically announcing that you have a problem with the gathering.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 115106,
+    "TextENGNew": "``That's why I make sure to set those young officers straight!@k@vS13/13/DS41120071. I'm not saying you have to chug it!@k@vS13/13/DS41120072. Just the first round, at least a medium-sized mug!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 115107,
+    "TextENGNew": "When Akasaka first visited Okinomiya years ago, he had been wound tight as a spring with tension.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 115108,
+    "TextENGNew": "But there was no trace of that in the Akasaka of today.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 115109,
+    "TextENGNew": "...That composure was something he had earned through years of hard-won experience.",
+    "significantChanges": true,
+    "changeReason": "Old has completely different content ('Ooishi realized') from JPN which describes composure earned through hard-won experience; text appears misaligned between adjacent entries.",
+    "changeScore": 5
+  },
+  {
+    "index": 39,
+    "MessageID": 115110,
+    "TextENGNew": "Ooishi could sense it.",
+    "significantChanges": true,
+    "changeReason": "Old contains misaligned text about Akasaka learning; JPN それを大石は感じていた simply means 'Ooishi was sensing that.' Adjacent entries appear swapped in the original translation.",
+    "changeScore": 5
+  },
+  {
+    "index": 40,
+    "MessageID": 115111,
+    "TextENGNew": "``Na ha ha ha ha!!@k@vS13/11/DS41110042. Looking good, Akasaka-san!!!@k@vS13/11/DS41110043. Man, you've really become dependable!``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 115112,
+    "TextENGNew": "``To me, these past few years were just counting down to retirement. But in that same time, you've grown this strong.@k@vS13/11/DS41110045. It really drives home the point that old soldiers should step aside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 115113,
+    "TextENGNew": "``That's not true at all!@k@vS13/13/DS41120074. If anything, I've learned the hard way just how much experience counts in this line of work.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 115114,
+    "TextENGNew": "``Leave the grunt work and the fieldwork to us younger officers. Veterans like you, Ooishi-san, should hold your heads high at your desks and work us to the bone!``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 115115,
+    "TextENGNew": "``You hear that, Kuma-chaaan?! Did you hear thaaaat?!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 115116,
+    "TextENGNew": "``Ow, ow, ow, ow, yes sir, yes sir!!!@k@vS14/19/213100004. I'll do my best!!``",
+    "significantChanges": true,
+    "changeReason": "Significantly different: 'Okay, okayyyy! I heard him!!' vs 'Ow, ow, ow, ow, yes sir, yes sir!!!'; Japanese いてててて means 'ow ow ow' (physical pain) and すんません means 'sorry'",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 115117,
+    "TextENGNew": "``Wa ha ha ha ha!@k@vS14/00/213000004. Ooishi, Kumagai-kun is working hard too, you know.@k@vS14/00/213000005. He's the one diligently making the rounds to cover for your laziness!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds dig at Ooishi: 面倒臭がりのお前さんに代わって means 'on behalf of lazy you', absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 115118,
+    "TextENGNew": "``Ooishi-san is quite the handful, isn't he?@k@vS13/13/DS41120077. I only worked with him for a few days, but I can certainly sympathize with what you're going through.``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 115119,
+    "TextENGNew": "``But trust me, Ooishi-san will make you into a fine officer.@k@vS13/13/DS41120079. Believe in him and stick with him to the end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 115120,
+    "TextENGNew": "``Y-Yes sir! I'll do my best!!@k@vS14/19/213100006. But even if I build up my drinking, I can't do anything about mahjong!!@k@vS14/19/213100007. Ooishi-san cleans out my paycheck before I can even hand it to my wife!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 115121,
+    "TextENGNew": "``No, no, mahjong is all about experience too!@k@vS13/13/DS41120081. The more games you play, the stronger and more confident you get!@k@vS13/13/DS41120082. Let's play together later. I'll teach you a strategy that won't lose!``",
+    "significantChanges": true,
+    "changeReason": "Original mistranslation: 'Mahjong is intellectual baggage you need!' vs 'mahjong is all about experience too!'; Japanese 麻雀も経験 means 'mahjong is also about experience'",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 115122,
+    "TextENGNew": "``...Ooishi, that's a fine young man you've got there.@k@vS14/00/213000010. Reminds me a bit of you back when you were reckless and wild!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds characterization: 'back when you were reckless and wild' from 無茶やってた (when you were being reckless), absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 115123,
+    "TextENGNew": "``Come now, no way!@k@vS13/11/DS41110048. I was never nearly that handsome.@k@vS13/11/DS41110049. Nfu fu fu!``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 115124,
+    "TextENGNew": "For those who knew Ooishi well, it was the first time they had ever seen him welcome a guest in such high spirits.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies: 'For those who knew Ooishi well, it was the first time' vs vague 'It was unusual'; Japanese 大石をよく知る者にとって...初めてだった is more specific",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 115125,
+    "TextENGNew": "Ooishi and Akasaka had only worked together for a few days, years ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 115126,
+    "TextENGNew": "They'd exchanged New Year's cards and the like afterward, but that was about the extent of their relationship.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 115127,
+    "TextENGNew": "Yet Ooishi had never realized just how happy it would make him to see a young officer who had once been a pale-faced rookie return as such a capable man.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'pale-faced rookie' from 青白い新米 (pale-faced novice), absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 115128,
+    "TextENGNew": "Ooishi had always intended to stay active until the day he retired.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 115129,
+    "TextENGNew": "But seeing a junior colleague grow this dependable, he was starting to think it might not be so bad to hand over his seat and watch from the sidelines.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 115130,
+    "TextENGNew": "Both Ooishi and Akasaka found themselves enjoying their reunion far more than either had expected...",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 115131,
+    "TextENGNew": "The shop owner was carrying the electric sign from out front back inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 115132,
+    "TextENGNew": "The chairs at all the other tables had been stacked upside down, and the proprietress was lightly mopping the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 115133,
+    "TextENGNew": "Before they knew it, there were no other customers left.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 115134,
+    "TextENGNew": "The clock's hands were creeping toward three in the morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 115135,
+    "TextENGNew": "``This is a reunion for you guys, right, Kura-chan?@k@vS14/00/master10002. Take your time, no rush.@k@vS14/00/master10003. Just wake me up when you're leaving so I can lock up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 115136,
+    "TextENGNew": "``Sorry for the trouble, really.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 115137,
+    "TextENGNew": "At this hour, there was nowhere else they could move to.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 115138,
+    "TextENGNew": "Ooishi and his companions still had plenty to talk about, so they gratefully took the owner up on his kindness.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 115139,
+    "TextENGNew": "Kumagai had lost his battle with drowsiness, his head bobbing and swaying as though rocked by waves.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 115140,
+    "TextENGNew": "The conversation had turned to Akasaka's current work.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 115141,
+    "TextENGNew": "Akasaka worked in a particularly unusual division within Public Safety.",
+    "significantChanges": true,
+    "changeReason": "Different: 'specializing in Public Safety' vs 'particularly unusual division within Public Safety'; Japanese 特に普通ではない部署 means 'particularly abnormal/unusual division'",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 115142,
+    "TextENGNew": "His tales of battle-like days and dangerous tightrope walks had Ooishi and the others hanging on every word.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 115143,
+    "TextENGNew": "``...And actually, while I'm here, there's a girl I've been meaning to see. Rika Furude.``",
+    "significantChanges": true,
+    "changeReason": "Old simplifies but preserves core meaning; new adds the nuance of 'since I came here' and wanting to see 'a girl,' closer to the Japanese phrasing.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 115144,
+    "TextENGNew": "``Rika Furude? You mean little Rika-chan, the last of the Furude family?``",
+    "significantChanges": true,
+    "changeReason": "Different: 'orphaned daughter' vs 'little Rika-chan, the last of the Furude family'; Japanese 忘れ形見 means 'keepsake child/last remnant' and 梨花ちゃま is a specific honorific",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 115145,
+    "TextENGNew": "``The last of...?@k@vS13/13/DS41120085. ......Does that mean her parents are...?``",
+    "significantChanges": true,
+    "changeReason": "Different: 'Orphaned...?' vs 'The last of...?'; 忘れ形見 is being echoed back, meaning 'keepsake/last remnant', not 'orphaned'",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 115146,
+    "TextENGNew": "Rika Furude had once prophesied to Akasaka that a series of strange incidents would occur in Hinamizawa for five consecutive years.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 115147,
+    "TextENGNew": "One of those predictions, the third year if he recalled correctly, had included the deaths of her own parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 115148,
+    "TextENGNew": "``Yes, it was the third year of the so-called curse of Oyashiro-sama. Hmm, that would be 1981.``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 115149,
+    "TextENGNew": "``The Furude couple died under rather suspicious circumstances.@k@vS13/11/DS41110054. It was exactly three years after your visit to Hinamizawa, Akasaka-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 115150,
+    "TextENGNew": "``...Three years later...?!@k@vS13/13/DS41120087. It happened in June, three years after I visited?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 115151,
+    "TextENGNew": "``Yes, that's right.@k@vS13/11/DS41110056. ...What is it?@k@vS13/11/DS41110057. Something bothering you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 115152,
+    "TextENGNew": "Akasaka squeezed his eyes shut, trying to force the alcohol from his brain, struggling to recall every detail of the girl's prophecy.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 115153,
+    "TextENGNew": "...That's right. This was the very reason he had come here...",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 115154,
+    "TextENGNew": "``I first visited in 1978.@k@vS13/13/DS41120089. The following year, the dam construction foreman was killed, wasn't he?@k@vS13/13/DS41120090. ...That's right, he was the man I played mahjong with.@k@vS13/13/DS41120091. What happened to him?``",
+    "significantChanges": true,
+    "changeReason": "New translation restructures to include all details: explicitly states 'The following year, the dam construction foreman was killed' and 'That was the man I played mahjong with' rather than leaving it ambiguous",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 115155,
+    "TextENGNew": "``...I thought it made a big splash in the papers, but maybe that was just the local ones.@k@vS13/11/DS41110059. ...Well, the following year, he was killed in a dispute with the workers.``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 115156,
+    "TextENGNew": "The man had been brutally murdered, and then...",
+    "significantChanges": true,
+    "changeReason": "Old fabricates content about Rika predicting dismemberment, not present in this line's JPN which simply states 'brutally murdered, and then...' Text appears misaligned.",
+    "changeScore": 5
+  },
+  {
+    "index": 86,
+    "MessageID": 115157,
+    "TextENGNew": "``Was his body... dismembered?``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 115158,
+    "TextENGNew": "``Oh, so you already know about it.@k@vS13/11/DS41110061. ...That's exactly right.@k@vS13/11/DS41110062. His right arm still hasn't been found.@k@vS13/11/DS41110063. Poor soul...``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 115159,
+    "TextENGNew": "...The following year, on this same day in June 1980.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 115160,
+    "TextENGNew": "......Satoko's parents will be pushed off a cliff and die.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies: 'pushed off a cliff and die' vs 'pushed to their deaths'; Japanese 突き落とされて死にます specifically mentions being pushed off (a cliff)",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 115161,
+    "TextENGNew": "...Or perhaps it should be called an accident.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 115162,
+    "TextENGNew": "...An unfortunate accident.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 115163,
+    "TextENGNew": "``L-Let me continue confirming.@k@vS13/13/DS41120094. The year after that.@k@vS13/13/DS41120095. The year after the foreman's murder.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'I'll continue' vs 'L-Let me continue confirming'; Japanese つ、続けて確認します shows stuttering and 'confirming' specifically",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 115164,
+    "TextENGNew": "``......If I recall, ...um, ...that's right.@k@vS13/13/DS41120097. Satoko-san, I believe she's a young girl.@k@vS13/13/DS41120098. Did her parents die in a fall?``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 115165,
+    "TextENGNew": "``My, you are well-informed.@k@vS13/11/DS41110065. That's correct.@k@vS13/11/DS41110066. The Houjou couple, who had supported the dam, fell from an observation platform while on vacation.@k@vS13/11/DS41110067. Whether it was an accident or foul play has never been determined.``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 115166,
+    "TextENGNew": "And then the following year, on this same day in June 1981.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 115167,
+    "TextENGNew": "...My parents will be killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 115168,
+    "TextENGNew": "``...And then, ...the year after that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 115169,
+    "TextENGNew": "``Yes.@k@vS13/11/DS41110069. Rika Furude's parents died.@k@vS13/11/DS41110070. ...But that case never sat right with me either.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'none of those incidents make sense' vs 'that case never sat right with me either'; Japanese 今ひとつ腑に落ちない means 'doesn't quite sit right with me'",
+    "changeScore": 3
+  },
+  {
+    "index": 99,
+    "MessageID": 115170,
+    "TextENGNew": "``You sure know a lot about the curse of Oyashiro-sama, young man.@k@vS14/00/213000012. These incidents were kept quiet due to pressure from the locals,@k@vS14/00/213000013. so I'm surprised you know so much about them from all the way in Tokyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 115171,
+    "TextENGNew": "``............What... in the world...``",
+    "significantChanges": true,
+    "changeReason": "Different: 'I can't believe this' vs 'What in the world'; Japanese 何てことだ means 'what in the world / what a situation'",
+    "changeScore": 3
+  },
+  {
+    "index": 101,
+    "MessageID": 115172,
+    "TextENGNew": "``But even you can't know about the year after that.@k@vS14/00/213000015. Starting with the fourth year, the investigation was classified as confidential.``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 115173,
+    "TextENGNew": "``...No, ......I think I do know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 115174,
+    "TextENGNew": "And then the year after that, on this same day in June 1982.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 115175,
+    "TextENGNew": "Satoko's cruel aunt will be killed. Her skull will be bashed in.",
+    "significantChanges": true,
+    "changeReason": "Different: 'mean aunt' vs 'cruel aunt'; but more importantly 'will die' vs 'will be killed'; Japanese 頭を割られて死にます means 'will be killed (head smashed)', new version clarifies it's murder",
+    "changeScore": 3
+  },
+  {
+    "index": 105,
+    "MessageID": 115176,
+    "TextENGNew": "``The year after that would be last year.@k@vS13/13/DS41120103. ...Satoko-san's aunt, was she bludgeoned to death?``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 115177,
+    "TextENGNew": "``Th-...That's right, bull's-eye.@k@vS13/11/DS41110072. Akasaka-san, how do you know all of this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 115178,
+    "TextENGNew": "``......I believe... I also know who will be killed the year after that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 115179,
+    "TextENGNew": "``Wh-What are you saying, young man...?@k@vS14/00/213000017. The year after last year is... this year...``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 115180,
+    "TextENGNew": "...I will be killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 115181,
+    "TextENGNew": "``June 1983.@k@vS13/13/DS41120106. In other words, this month.@k@vS13/13/DS41120107. ...Rika Furude will be killed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 115182,
+    "TextENGNew": "Ooishi and the others were struck speechless.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 115183,
+    "TextENGNew": "Akasaka had laid out four consecutive mysterious deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 115184,
+    "TextENGNew": "Although he had been stationed far away for a long time, he belonged to a highly specialized unit within Public Safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 115185,
+    "TextENGNew": "Even with the investigations classified as confidential, it would have been possible for him to learn of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 115186,
+    "TextENGNew": "...That was why it wasn't terribly surprising that Akasaka, despite years away from Hinamizawa, could recount the string of mysterious deaths one after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 115187,
+    "TextENGNew": "But it was the look of stunned disbelief on Akasaka's own face as his words proved true, one after another,",
+    "significantChanges": true,
+    "changeReason": "Significantly restructured: original simply says 'he also named the next victim'; new version describes Akasaka's own shocked face as his predictions proved true, matching the Japanese which describes his 呆然とした表情 (stunned expression)",
+    "changeScore": 3
+  },
+  {
+    "index": 117,
+    "MessageID": 115188,
+    "TextENGNew": "and his naming of this year's predicted victim that sobered them all up completely...",
+    "significantChanges": true,
+    "changeReason": "Different: original says simply 'had sobered up entirely'; new version connects the sobering to seeing Akasaka name this year's victim, matching the Japanese structure",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 115189,
+    "TextENGNew": "``Akasaka-san, ......it's gotten very late.@k@vS13/11/DS41110074. We're all exhausted, so let's be direct about this.@k@vS13/11/DS41110075. ...What exactly does all of this mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 115190,
+    "TextENGNew": "``Right.@k@vS13/13/DS41120109. Everything I just told you is what she told me when I visited Hinamizawa in June of 1978.``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 115191,
+    "TextENGNew": "``.........What did you say...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 115192,
+    "TextENGNew": "Ooishi wanted to say 'That's absurd,'@k but the shock left his jaw hanging open, and no further words would come.",
+    "significantChanges": true,
+    "changeReason": "Different: 'couldn't believe what he was hearing. He was left speechless' vs 'wanted to say That's absurd, but the shock left his jaw hanging open'; Japanese describes the specific interrupted reaction",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 115193,
+    "TextENGNew": "``I understand how hard this is to believe.@k@vS13/13/DS41120111. When she told me back then, I thought it was nothing more than a little girl's whimsical game.@k@vS13/13/DS41120112. ...But she told me that in the fifth year, she herself would be killed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 115194,
+    "TextENGNew": "``That was clearly a plea for help, I think.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'she asked me to help her, I think' vs 'That was clearly a plea for help, I think'; Japanese 明白なメッセージ means 'clear message'",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 115195,
+    "TextENGNew": "``...The main reason I came to Hinamizawa this time was to find her and confirm whether she still needs my help.``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 115196,
+    "TextENGNew": "``...Akasaka-san, I'm retiring this year.@k@vS13/11/DS41110078. I want to avenge the foreman who was killed in the first year, no matter what, before my time is up.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'take revenge on the people who killed the manager' vs 'avenge the foreman who was killed'; おやっさんの仇 means 'friend/boss's revenge'; 'manager' vs 'foreman' is also different",
+    "changeScore": 3
+  },
+  {
+    "index": 126,
+    "MessageID": 115197,
+    "TextENGNew": "``That's why I'll latch onto any lead I can find, no matter how small or dubious.``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 115198,
+    "TextENGNew": "``...So let me just confirm this.@k@vS13/11/DS41110081. What you just told us isn't a joke, is it?@k@vS13/11/DS41110082. If it is, tell me now...``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 115199,
+    "TextENGNew": "``I'm telling you the truth.@k@vS13/13/DS41120116. Rika Furude told me all of this in June 1978.@k@vS13/13/DS41120117. ...But at the time, I didn't think it was important, so I never told you, Ooishi-san.@k@vS13/13/DS41120118. I'm deeply sorry for that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 115200,
+    "TextENGNew": "``N-No, that's understandable.@k@vS14/00/213000019. Even if someone told me something like that out of the blue, I couldn't have taken it seriously.@k@vS14/00/213000020. It's only because four years have passed that we can believe such a story now.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'you didn't know' vs 'that's understandable'; Japanese 無理もない means 'it's understandable/can't be helped'",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 115201,
+    "TextENGNew": "Ooishi must have harbored the bitter thought that if only Akasaka had shared that story with him, he might have been able to prevent his friend's death.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 115202,
+    "TextENGNew": "...But what the old forensics man said was right.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 115203,
+    "TextENGNew": "Even if he had been told back then, Ooishi wouldn't have believed it.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 115204,
+    "TextENGNew": "And in the end, his friend would have died all the same, leaving him with nothing but the regret of having failed to act.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 115205,
+    "TextENGNew": "``......You're right.@k@vS13/11/DS41110084. No, I should be the one apologizing.@k@vS13/11/DS41110085. ......Still, ...Rika Furude.@k@vS13/11/DS41110086. ...Why would Rika Furude...?@k@vS13/11/DS41110087. ......Hmmmm...``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 115206,
+    "TextENGNew": "``I don't know much about the current state of affairs in Hinamizawa either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 115207,
+    "TextENGNew": "``I did read in the papers at the time that the dam project had been frozen indefinitely.@k@vS13/13/DS41120121. So I assumed that with the dam conflict over, the village had returned to a peaceful life.``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 115208,
+    "TextENGNew": "``Mm. The dam conflict is certainly over.@k@vS14/00/213000022. ...But starting the following year, these mysterious deaths, locally known as the curse of Oyashiro-sama, began occurring every year.``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 115209,
+    "TextENGNew": "``...And the details are exactly as you just described.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 115210,
+    "TextENGNew": "``......It seems I've been entrusted with something of tremendous importance.@k@vS13/13/DS41120123. ...Ooishi-san, let me ask you directly.@k@vS13/13/DS41120124. ...Do you think it's plausible that Rika Furude could be killed this year?``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 115211,
+    "TextENGNew": "``...The Furude couple had been looked down upon for their passive stance during the dam conflict.@k@vS13/11/DS41110089. That's commonly believed to be why the curse fell upon them in the third year.@k@vS13/11/DS41110090. ...Following that logic, ......Rika Furude's death.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 115212,
+    "TextENGNew": "``...It's possible, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 115213,
+    "TextENGNew": "Ooishi said nothing, and slowly nodded.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 115214,
+    "TextENGNew": "``......I'm going to try contacting Rika Furude tomorrow.@k@vS13/13/DS41120127. It seems the only thing to do is hear it directly from her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 115215,
+    "TextENGNew": "``Akasaka-san, could I come with you?@k@vS13/11/DS41110092. ...This matter concerning Rika Furude sounds like it could be extremely important for me as well.``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 115216,
+    "TextENGNew": "``...My my... ...you've brought us quite the extraordinary gift, young man...``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 115217,
+    "TextENGNew": "``I have to say, things are getting interesting.@k@vS14/00/213000026. I never thought I'd live to see these mystifying cases actually get solved.``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 115218,
+    "TextENGNew": "``However, I do have questions of my own.@k@vS13/13/DS41120129. Why did she confide something this important to me alone?@k@vS13/13/DS41120130. If she wanted help, the logical choice would be the local police, not a visiting officer from Tokyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 115219,
+    "TextENGNew": "``.........Hmm.@k@vS13/11/DS41110094. ...Most likely, she couldn't fully trust the local police.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'I bet she doesn't have faith in the local police' vs 'she couldn't fully trust the local police'; 信用しきれない means 'couldn't fully trust', more nuanced",
+    "changeScore": 3
+  },
+  {
+    "index": 149,
+    "MessageID": 115220,
+    "TextENGNew": "``I'm a rough-around-the-edges sort myself.@k@vS13/11/DS41110096. Rika-san may not have trusted me.@k@vS13/11/DS41110097. ...Besides, there are more than a few people at the Okinomiya station with ties to the S-family.``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 115221,
+    "TextENGNew": "``In other words, I was the most trustworthy option, precisely because I came from Tokyo...?``",
+    "significantChanges": true,
+    "changeReason": "Different framing: 'she trusted me more than anybody' (positive) vs 'I was the most trustworthy option, precisely because I came from Tokyo...?' (circumstantial); Japanese frames it as a question",
+    "changeScore": 3
+  },
+  {
+    "index": 151,
+    "MessageID": 115222,
+    "TextENGNew": "``It's galling to admit, but that's probably the case.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'Yeah, I guess' (casual) vs 'It's galling to admit, but that's probably the case' (reluctant); Japanese 悔しいですが means 'it's frustrating/galling but'",
+    "changeScore": 4
+  },
+  {
+    "index": 152,
+    "MessageID": 115223,
+    "TextENGNew": "``...If that's so, Ooishi-san.@k@vS13/13/DS41120133. Please keep this matter strictly between us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 115224,
+    "TextENGNew": "``Of course.@k@vS13/11/DS41110100. ...In any case, let's go to Hinamizawa tomorrow and speak with Rika-san directly.@k@vS13/11/DS41110101. We can decide what to do from there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 115225,
+    "TextENGNew": "``......I can hardly believe it.@k@vS13/05/DS41050060. ......But... that is the truth, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 115226,
+    "TextENGNew": "In the quiet depths of the night, only the chirping of insects and Satoko's snoring could be heard.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 115227,
+    "TextENGNew": "Rika sat by her favorite spot at the window.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 115228,
+    "TextENGNew": "``...That's right.@k@vS13/12/DS41070059. The one who killed you, Rika... was Takano.@k@vS13/12/DS41070060. You and I both saw it clearly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 115229,
+    "TextENGNew": "``You tried so hard to burn Takano's face into your memory...@k@vS13/12/DS41070062. Even as she sliced your stomach open, you gritted your teeth and kept your eyes locked on her face...``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 115230,
+    "TextENGNew": "``............What an awful way to die.@k@vS13/05/DS41050062. ...I suppose I should be grateful I never retained that memory.@k@vS13/05/DS41050063. ......But somehow, I can picture it.@k@vS13/05/DS41050064. That's exactly the kind of killing Takano would favor.``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 115231,
+    "TextENGNew": "``...Au au au au...``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 115232,
+    "TextENGNew": "``But I don't understand.@k@vS13/05/DS41050066. ......Why would Takano kill me?@k@vS13/05/DS41050067. I'm the queen carrier. If I die, it would trigger a catastrophe, wouldn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 115233,
+    "TextENGNew": "``Isn't that the entire reason the Irie Institute and the Mountain Dogs protect me?@k@vS13/05/DS41050069. So why would Takano, who sits at the very top, have me killed?``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 115234,
+    "TextENGNew": "``...Au... au...``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 115235,
+    "TextENGNew": "``Sorry, that's a pointless question.@k@vS13/05/DS41050071. ...Takano killed me.@k@vS13/05/DS41050072. That's the truth, and her motive is beside the point.@k@vS13/05/DS41050073. ...But... even so.@k@vS13/05/DS41050074. ......Of all people, why Takano...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 115236,
+    "TextENGNew": "Even as she said the motive didn't matter, the question clawed its way out of her mouth almost immediately.",
+    "significantChanges": true,
+    "changeReason": "Different: 'she went back to the same question' vs 'the question clawed its way out of her mouth almost immediately'; different imagery for the compulsion",
+    "changeScore": 3
+  },
+  {
+    "index": 166,
+    "MessageID": 115237,
+    "TextENGNew": "Takano's protection of the queen carrier wasn't solely about preventing the catastrophe of a village-wide outbreak.",
+    "significantChanges": true,
+    "changeReason": "Different scope: 'wasn't because she wanted to prevent the rest of Hinamizawa from developing the syndrome' vs 'wasn't solely about preventing'; Japanese だけではない means 'not just/solely', not complete negation",
+    "changeScore": 3
+  },
+  {
+    "index": 167,
+    "MessageID": 115238,
+    "TextENGNew": "...Rika was an invaluable specimen for her obsessive research.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'obsessive' (偏執的な = obsessive) and 'specimen' (サンプル); original's 'subject of her research' is less specific",
+    "changeScore": 3
+  },
+  {
+    "index": 168,
+    "MessageID": 115239,
+    "TextENGNew": "So why would she, with her own hands, kill the queen carrier who was more precious to her research than anything?",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 115240,
+    "TextENGNew": "``Is Takano my only enemy?``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 115241,
+    "TextENGNew": "``...Au au...@k@vS13/12/DS41070066. The Mountain Dogs were enemies too.@k@vS13/12/DS41070067. I'm not sure whether Irie was an enemy or not... but I don't think he was.``",
+    "significantChanges": true,
+    "changeReason": "Tense change: 'The Mountain Dogs are after you too' (present) vs 'The Mountain Dogs were enemies too' (past); Japanese 敵でした uses past tense",
+    "changeScore": 3
+  },
+  {
+    "index": 171,
+    "MessageID": 115242,
+    "TextENGNew": "``Takano and the Mountain Dogs are my enemies...?@k@vS13/05/DS41050077. ......You can't be serious. How are a couple of girls supposed to fight against that?@k@vS13/05/DS41050078. It's impossible.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'How can we possibly win?' vs 'How are a couple of girls supposed to fight against...?'; Japanese 小娘 means 'young girls', adding the gender/age vulnerability aspect",
+    "changeScore": 3
+  },
+  {
+    "index": 172,
+    "MessageID": 115243,
+    "TextENGNew": "``...Unless some kind of miracle happens, there's no way we can win against people like them.@k@vS13/05/DS41050080. And Watanagashi is this coming Sunday.@k@vS13/05/DS41050081. I'll be killed on the 22nd.@k@vS13/05/DS41050082. That's about one week from now, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 115244,
+    "TextENGNew": "``How are we supposed to fight back in that little time?@k@vS13/05/DS41050084. Should we ambush Takano with a metal bat in a dark alley?@k@vS13/05/DS41050085. That's meaningless. Takano is just one piece of the whole operation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 115245,
+    "TextENGNew": "``Even if we took Takano down, the Mountain Dogs would surround us and that would be the end of it!@k@vS13/05/DS41050087. What do we do? What can we possibly do?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 115246,
+    "TextENGNew": "``I-...I don't know either...!@k@vS13/12/DS41070069. But, but... but...@k@vS13/12/DS41070070. ......Up until now, no matter how many times we repeated this, we didn't even know who our enemy was.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'we didn't even know our enemy before now' vs 'no matter how many times we repeated, we couldn't even learn our enemy's name'; Japanese 何度繰り返しても refers to repeated time loops",
+    "changeScore": 3
+  },
+  {
+    "index": 176,
+    "MessageID": 115247,
+    "TextENGNew": "``...This time... we finally have that answer.@k@vS13/12/DS41070072. There must be... something we can do...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 115248,
+    "TextENGNew": "It was the first time Hanyuu had ever pushed back this strongly.",
+    "significantChanges": true,
+    "changeReason": "Different: 'first time in a long time that Hanyuu had spoken so positively' vs 'first time Hanyuu had ever pushed back this strongly'; Japanese 強く言い返す means 'strongly talked back/pushed back'",
+    "changeScore": 3
+  },
+  {
+    "index": 178,
+    "MessageID": 115249,
+    "TextENGNew": "Rika was caught off guard for a moment, and then realized she had been losing her composure. She took a deep breath and reset her racing thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 115250,
+    "TextENGNew": "...The biggest reason for her turmoil was the revelation that the culprit was Takano.",
+    "significantChanges": true,
+    "changeReason": "Different: 'still confused' vs 'biggest reason for her turmoil was the revelation'; Japanese 最大の理由 means 'biggest/greatest reason'",
+    "changeScore": 3
+  },
+  {
+    "index": 180,
+    "MessageID": 115251,
+    "TextENGNew": "Setting aside Takano's personal quirks, Rika had always believed her to be a dependable ally.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'setting aside Takano's personal quirks' (個人的な性格はともかく), present in Japanese but absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 181,
+    "MessageID": 115252,
+    "TextENGNew": "She could think of many reasons why Takano would want to keep her safe.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 115253,
+    "TextENGNew": "...But she could not think of a single reason why Takano would want her dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 115254,
+    "TextENGNew": "Still, Takano was the type to entertain deeply unsettling ideas.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 115255,
+    "TextENGNew": "......There was no guarantee that some reasoning far beyond common sense couldn't serve as her motive.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 115256,
+    "TextENGNew": "``...Then that means... if Tomitake is being killed...@k@vS13/05/DS41050089. ...does that make him... an ally?``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 115257,
+    "TextENGNew": "``I... I think so.@k@vS13/12/DS41070074. ...That's it, Rika.@k@vS13/12/DS41070075. You should consult Tomitake!``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 115258,
+    "TextENGNew": "......The reason Takano commanded the Mountain Dogs was because of the organization known as 'Tokyo.'",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 115259,
+    "TextENGNew": "Did that mean Rika could only seek help from someone connected to 'Tokyo'?",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 115260,
+    "TextENGNew": "...If so, then Tomitake was the only person she could confide in about this.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 115261,
+    "TextENGNew": "That said, Irie was surely worth consulting as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 115262,
+    "TextENGNew": "But then...... that was precisely why she needed to know.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 115263,
+    "TextENGNew": "She needed to know the motive behind why Takano had to kill her!",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 115264,
+    "TextENGNew": "Unless she could explain that, neither of them would give her story the time of day.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 115265,
+    "TextENGNew": "On top of everything, Tomitake was hopelessly in love with Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 115266,
+    "TextENGNew": "He wouldn't suspect her over anything short of ironclad proof...",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 115267,
+    "TextENGNew": "Irie seemed to keep a certain distance from Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 115268,
+    "TextENGNew": "He might be more inclined to believe the story than Tomitake.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 115269,
+    "TextENGNew": "......But Irie was just a doctor, largely ignorant of 'Tokyo' and its workings.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 115270,
+    "TextENGNew": "Whether he could actually be of any use was doubtful.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 115271,
+    "TextENGNew": "Go to the police?",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 115272,
+    "TextENGNew": "Don't be absurd. That was absolutely out of the question.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 115273,
+    "TextENGNew": "There was no way they would believe her.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 115274,
+    "TextENGNew": "If she called to say that a shadowy organization called 'Tokyo' was trying to kill her, they would question her sanity without a second thought...!",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 115275,
+    "TextENGNew": "Then what could she do? How could she save herself?",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 115276,
+    "TextENGNew": "The most dangerous people in all of Hinamizawa were coming to kill her.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 115277,
+    "TextENGNew": "How could she run?",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 115278,
+    "TextENGNew": "How could she fight?",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 115279,
+    "TextENGNew": "What could she do, what could she possibly do...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 115280,
+    "TextENGNew": "...If she had the same memory Hanyuu described, of Takano killing her, she wouldn't be in such turmoil.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 115281,
+    "TextENGNew": "After all, seeing is believing.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 115282,
+    "TextENGNew": "...But she didn't remember.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 115283,
+    "TextENGNew": "Because she only had Hanyuu's word for it, the truth she needed to accept, that Takano and her forces were the enemy,@k kept threatening to collapse into escapism, dismissing it all as Hanyuu's delusion......",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 115284,
+    "TextENGNew": "``...C-...Calm down, Rika.@k@vS13/12/DS41070077. We learned so much in the previous world...!@k@vS13/12/DS41070078. Don't you remember what happened in the world before this one?``",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 115285,
+    "TextENGNew": "``...The previous world... you mean... the one where Rena poured gasoline all over the school and barricaded herself inside...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 115286,
+    "TextENGNew": "``No, not that one...!@k@vS13/12/DS41070080. There was another world after that...!@k@vS13/12/DS41070081. You really don't remember...?!@k@vS13/12/DS41070082. In that world, he came back.@k@vS13/12/DS41070083. Teppei Houjou!``",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 115287,
+    "TextENGNew": "``......The worst kind of world.@k@vS13/05/DS41050092. No matter what you do, the counseling center takes a wait-and-see approach, and Satoko breaks down within days.@k@vS13/05/DS41050093. Let me guess, one of our friends developed the syndrome and attacked Teppei?``",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 115288,
+    "TextENGNew": "``No, no, no!!@k@vS13/12/DS41070085. In that world, everyone joined forces, petitioned the counseling center, and properly saved Satoko!@k@vS13/12/DS41070086. In that world, Keiichi taught you so much, Rika!``",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 115289,
+    "TextENGNew": "``Miracles won't happen if you don't believe in them.@k@vS13/12/DS41070088. And if everyone believes, a miracle will definitely occur!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 115290,
+    "TextENGNew": "``...That certainly sounds like something Keiichi would say.@k@vS13/05/DS41050095. ...But that's remarkable.@k@vS13/05/DS41050096. To actually overcome the world where Teppei returns... something we could never manage even once before...``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 115291,
+    "TextENGNew": "``Do you know how Keiichi and the others pulled off that miracle?!@k@vS13/12/DS41070090. They talked to everyone! They asked for help!``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 115292,
+    "TextENGNew": "``Instead of assuming it was hopeless, instead of agonizing alone, they consulted everyone around them...!!@k@vS13/12/DS41070092. That's how the miracle happened...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 115293,
+    "TextENGNew": "``Everyone, you say?@k@vS13/05/DS41050098. ...You want me to talk to Keiichi and the others about Takano?@k@vS13/05/DS41050099. You think they'd believe me if I told them a shadowy organization called Tokyo is trying to kill me...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 115294,
+    "TextENGNew": "``They will believe you!!@k@vS13/12/DS41070094. They believed you in the last world!!!@k@vS13/12/DS41070095. Why won't you believe what I'm telling you, Rika...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 115295,
+    "TextENGNew": "``...I'm sorry.@k@vS13/05/DS41050101. It's not that I don't believe you.@k@vS13/05/DS41050102. ...You saw it with your own eyes, so it has to be the truth.``",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 115296,
+    "TextENGNew": "``............I never realized how frustrating it could be... to feel such a gulf between us just because my own memories didn't carry over...``",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 115297,
+    "TextENGNew": "``In any case, the two of us worrying alone won't solve anything.@k@vS13/12/DS41070097. By ourselves, we're far too powerless...!@k@vS13/12/DS41070098. But we have a weapon.@k@vS13/12/DS41070099. That weapon is the truth!``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 115298,
+    "TextENGNew": "``We don't know her motive... but we know the culprit is Takano!!@k@vS13/12/DS41070101. That makes this the most advantageous starting position we've ever had across all our worlds...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 115299,
+    "TextENGNew": "``...And yet why... why at the very end of everything... am I the only one whose memories don't connect...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 115300,
+    "TextENGNew": "Hanyuu ground her teeth in sheer frustration.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 115301,
+    "TextENGNew": "...She had just witnessed the 'answer' firsthand, so she couldn't fathom why Rika, sitting there bewildered and oblivious to the true solution, didn't share those memories.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 115302,
+    "TextENGNew": "If you had seen it with your own eyes, you could believe it readily, even without understanding the motive.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 115303,
+    "TextENGNew": "But not having seen it yourself, not having that certainty... was so much harder to swallow...",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 115304,
+    "TextENGNew": "Why were Hanyuu's memories intact while hers were severed...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 115305,
+    "TextENGNew": "Did it mean their long journey was drawing to its close?",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 115306,
+    "TextENGNew": "Or perhaps... the infinitely repeating journey had already ended for her... and this was the very last trip of all...?",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 115307,
+    "TextENGNew": "``...............Wheeeeew...@k@vS13/05/DS41050105. I thought this was a strange world from the start, what with everyone being able to see you and you even transferring into our school... but it seems this world is truly extraordinary.``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 115308,
+    "TextENGNew": "``...There's nothing strange about it at all.@k@vS13/12/DS41070104. ...It's simply the final world.``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 115309,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 115310,
+    "TextENGNew": "``...I came to this final world so that I could stand alongside everyone and fight together.@k@vS13/12/DS41070106. ...I'm not a bystander here.@k@vS13/12/DS41070107. I'm your ally, Rika. Everyone's ally.``",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 115311,
+    "TextENGNew": "``.........Come to think of it, you're right.@k@vS13/05/DS41050108. ...You've given up being a bystander.``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 115312,
+    "TextENGNew": "``......I refuse to be afraid of getting hurt and stay off the stage any longer.@k@vS13/12/DS41070109. I'll face that fear and believe, together with everyone.@k@vS13/12/DS41070110. That's how we'll make a miracle happen...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 115313,
+    "TextENGNew": "``This is a game world with June 1983 on the line.@k@vS13/12/DS41070112. The combatants are you, Rika, and Takano.@k@vS13/12/DS41070113. If you can't defeat your enemy before the deadline, you automatically lose.@k@vS13/12/DS41070114. Takano has many powerful pieces at her disposal, like the Mountain Dogs.``",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 115314,
+    "TextENGNew": "``Gathering just a few pieces won't be nearly enough to stand against her.@k@vS13/12/DS41070116. So unless you reach out to every possible person for help and assemble a force that can match hers, the game won't even begin...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 115315,
+    "TextENGNew": "``We've been learning the rules of this game board through countless repetitions.@k@vS13/12/DS41070118. It was like playing a game with no instruction manual.``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 115316,
+    "TextENGNew": "``But we've studied, we've learned how to fight, and now we even know the identity of the enemy's pieces from the very start, an unprecedented advantage...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 115317,
+    "TextENGNew": "``Rika, this is no time to sit around in a daze!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 115318,
+    "TextENGNew": "``One week until Watanagashi!@k@vS13/12/DS41070122. In the previous world we had two weeks to work with, but this time we only have one!@k@vS13/12/DS41070123. In other words, this truly is the final world!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 115319,
+    "TextENGNew": "``......All right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 115320,
+    "TextENGNew": "``...Rather than lamenting the misfortune of what I can't remember, I should be grateful for the fortune that you do remember. If you had forgotten too, this final world would have ended while we floundered about in confusion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 115321,
+    "TextENGNew": "``...Besides, if I approach Keiichi and the others the right way, they might come up with some brilliant ideas.``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 115322,
+    "TextENGNew": "``...After all, Keiichi is the man who, in a world where the school was all but certain to explode, fought Rena head-on and brought her back to her senses. He pulled off a genuine miracle.``",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 115323,
+    "TextENGNew": "``Exactly!@k@vS13/12/DS41070125. Let's talk to everyone we can.@k@vS13/12/DS41070126. The two of us alone are far too weak.@k@vS13/12/DS41070127. Let's gather our allies and figure out what to do...!@k@vS13/12/DS41070128. Even the road to a miracle begins with a single step!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 115324,
+    "TextENGNew": "``And we have to do all of that in just one week.``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 115325,
+    "TextENGNew": "Had Hanyuu ever encouraged her this passionately before?",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 115326,
+    "TextENGNew": "She had always acted like a mere bystander.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 115327,
+    "TextENGNew": "...Her stance had been to expect nothing, to avoid the pain of hoping and failing.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 115328,
+    "TextENGNew": "And yet here was that same Hanyuu, so fervently, so proactively trying to intervene in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 115329,
+    "TextENGNew": "......According to Hanyuu, there had been another world after the one where Rena took over the school.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 115330,
+    "TextENGNew": "......In that world, it seemed Keiichi had instilled in her a burning conviction.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 115331,
+    "TextENGNew": "...There was nothing to lose by trying.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 115332,
+    "TextENGNew": "...She would start by consulting those she thought she could trust.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 115333,
+    "TextENGNew": "Whether she struggled or did nothing, the final day was fast approaching.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 115334,
+    "TextENGNew": "In that case, she would put up the most spirited fight she possibly could.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 115335,
+    "TextENGNew": "She would never again confuse resignation with enlightenment, playing the detached witch sipping wine as the end drew near. There was nothing admirable about that...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 115336,
+    "TextENGNew": "``Hello.@k@vS13/00/VT4A_nomura1002. It has been quite some time.@k@vS13/00/VT4A_nomura1003. This is Nomura.``",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 115337,
+    "TextENGNew": "``......Yes, thank you for the detailed materials the other day.@k@vS13/00/VT4A_nomura1005. Thanks to your thorough documentation, the officials at the Ministry of Health and Welfare now fully understand the danger of Hinamizawa Syndrome.``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 115338,
+    "TextENGNew": "``......Fu fu fu, that's entirely the fruit of your research and the late Dr. Takano's work.@k@vS13/00/VT4A_nomura1007. I've merely ensured that legitimate research receives its rightful recognition.``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 115339,
+    "TextENGNew": "``............Of course.@k@vS13/00/VT4A_nomura1009. ...I'll see to it that your materials eventually reach the Prime Minister's hands as well.@k@vS13/00/VT4A_nomura1010. The Prime Minister is the leader of this nation, after all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 115340,
+    "TextENGNew": "``I shall have the most powerful person in this country read the papers you and your grandfather wrote,@k@vS13/00/VT4A_nomura1012. and I will ensure he understands what extraordinary research this is and how exceptional Hinamizawa Syndrome truly is.``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 115341,
+    "TextENGNew": "``And I will make the current board of directors, who neglected this research and so cruelly trampled upon your and your grandfather's papers, realize just how foolish they have been.``",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 115342,
+    "TextENGNew": "``............Yes.@k@vS13/00/VT4A_nomura1015. Fu fu fu, I have wonderful news for you.@k@vS13/00/VT4A_nomura1016. After the terminal operation concludes, the site will be quarantined and sealed off, and a separate JSDF division will take over the research.``",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 115343,
+    "TextENGNew": "``You will be welcomed there, free from factional politics and budget anxieties, able to devote yourself to your research to your heart's content.``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 115344,
+    "TextENGNew": "``............Fu fu fu, our client wishes to reward your devoted efforts, and that is simply the expression of his generosity.@k@vS13/00/VT4A_nomura1019. You will be given the position of director, and this time you can truly immerse yourself in research without restraint.``",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 115345,
+    "TextENGNew": "``Fu fu fu, isn't that simply wonderful?``",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 115346,
+    "TextENGNew": "``And with your research on Hinamizawa Syndrome serving as a stepping stone, you will reach the true stage that the late Dr. Takano sought.``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 115347,
+    "TextENGNew": "``You will advance your research into the parasitic entities that influence human thought, and accomplish a feat that overturns the very foundations of human knowledge.``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 115348,
+    "TextENGNew": "``......No, this isn't flattery in the least.@k@vS13/00/VT4A_nomura1024. This is our client's honest assessment of you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 115349,
+    "TextENGNew": "``.........I see.@k@vS13/00/VT4A_nomura1026. I'm sorry to have kept you so long.@k@vS13/00/VT4A_nomura1027. Well then, I'll be going.@k@vS13/00/VT4A_nomura1028. I'll contact you again soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 115350,
+    "TextENGNew": "The woman placed the car phone's handset back in its cradle, took a breath,@k then immediately picked it up again and dialed a different number.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 115351,
+    "TextENGNew": "``Extension 1001, please.@k@vS13/00/VT4A_nomura1030. ...Yes, tell them it's Watanabe.@k@vS13/00/VT4A_nomura1031. ...............Watanabe speaking.@k@vS13/00/VT4A_nomura1032. Yes, the matter from the other day has been concluded without incident.``",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 115352,
+    "TextENGNew": "``............Yes.@k@vS13/00/VT4A_nomura1034. Major Takano's materials are superb.@k@vS13/00/VT4A_nomura1035. I also brought along staff from the national research institute, so the suits swallowed it whole without question.``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 115353,
+    "TextENGNew": "``.........Fu fu fu, yes, quite.@k@vS13/00/VT4A_nomura1037. No problems on that front either.@k@vS13/00/VT4A_nomura1038. After the 20th, most cabinet ministers from rival factions will be out of Tokyo, either on overseas trips or retreats.``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 115354,
+    "TextENGNew": "``......Yes.@k@vS13/00/VT4A_nomura1040. A few uncertainties remain, but by June 23rd, every moat around the Prime Minister's residence should be completely filled.``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 115355,
+    "TextENGNew": "``............Yes.@k@vS13/00/VT4A_nomura1042. Therefore, the field operation will be executed on the night of June 22nd, with an emergency authorization request submitted to the Prime Minister on the 23rd.``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 115356,
+    "TextENGNew": "``............Yes. Every advisor available to support the Prime Minister that day will be our people.@k@vS13/00/VT4A_nomura1044. He won't harbor even a shadow of doubt.``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 115357,
+    "TextENGNew": "``.........Yes.@k@vS13/00/VT4A_nomura1046. Without question.@k@vS13/00/VT4A_nomura1047. ...The Prime Minister will sign Emergency Manual No. 34.``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 115358,
+    "TextENGNew": "``...Afterward, the investigation into Alphabet's accountability will begin, and the Okuno-Chiba faction along with the old Koizumi faction will lose a great deal of influence.``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 115359,
+    "TextENGNew": "``......Yes.@k@vS13/00/VT4A_nomura1050. Exactly.@k@vS13/00/VT4A_nomura1051. Imamura-sensei's restoration is merely a matter of time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 115360,
+    "TextENGNew": "``......Indeed.@k@vS13/00/VT4A_nomura1053. The Lowell Incident was a terrible blow, but we all believed from the start that he was innocent.``",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 115361,
+    "TextENGNew": "``Yes... even if it goes to trial, the prosecution won't have a leg to stand on.@k@vS13/00/VT4A_nomura1055. The leak of Lowell's classified information was a trap engineered by a certain foreign agency to have him expelled from the Foreign Ministry, after all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 115362,
+    "TextENGNew": "``......Yes, exactly.@k@vS13/00/VT4A_nomura1057. They may have thought they had outmaneuvered us at the time, but this round is unquestionably our victory.@k@vS13/00/VT4A_nomura1058. Fu fu fu fu fu fu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 115363,
+    "TextENGNew": "``......Yes, understood.@k@vS13/00/VT4A_nomura1060. ...Then I look forward to seeing you in Macau next week.``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 115364,
+    "TextENGNew": "``...Fu fu fu, yes, I do love casinos.@k@vS13/00/VT4A_nomura1062. ......Yes, well then, I'll take my leave.@k@vS13/00/VT4A_nomura1063. I'll be in touch again soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 115365,
+    "TextENGNew": "The woman set the car phone's handset down and let out a breath.@k After a self-satisfied smirk at how smoothly her work was progressing, she picked up the receiver once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 115366,
+    "TextENGNew": "``The Chief Cabinet Secretary's office, please.@k@vS13/00/VT4A_nomura1065. ...Yes, tell them it's Maizawa.@k@vS13/00/VT4A_nomura1066. ...............@k@vS13/00/VT4A_nomura1067. .........Yes, it's me.@k@vS13/00/VT4A_nomura1068. Chief Secretary Okuno.``",
+    "significantChanges": false
+  }
+]

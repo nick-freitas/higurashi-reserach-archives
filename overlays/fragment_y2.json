@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11321,
+    "TextENGNew": "...Welcome to Hint II.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11322,
+    "TextENGNew": "I'll tell you the conditions for unlocking C6 The Mysterious Deaths of the Furude Couple in the World of the Furude Family.",
+    "significantChanges": true,
+    "changeReason": "\"Mysterious Death\" (singular) changed to \"Mysterious Deaths\" (plural), altering whether one or multiple deaths are implied in the title.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 11323,
+    "TextENGNew": "C5 The Third 'Specimen' in the World of the Furude Family@rD3 The Old Man in the World of the Dam War@r...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "\"The Old Guy\" changed to \"The Old Man\" (different register/characterization for おやっさん), and \"pieces\" changed to \"fragments\" (カケラ is specifically 'fragments' in Higurashi terminology).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11324,
+    "TextENGNew": "And—@rE3 The Club's Formation in the World of 1982@rM1 The Red Capsule Medicine in the World of Conspiracy@r...These fragments are also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "\"A Red Capsule\" changed to \"The Red Capsule Medicine\" — the addition of \"Medicine\" (薬) specifies the capsule is a drug/medicine, which is meaningful context about the object.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11325,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

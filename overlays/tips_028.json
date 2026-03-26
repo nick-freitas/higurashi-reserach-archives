@@ -1,0 +1,91 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook III",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"From The Scrapbook III\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13444,
+    "TextENGNew": "<Regarding the Ritual Implements>",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13445,
+    "TextENGNew": "The tools used in ancient religious ceremonies are known as \"ritual implements,\" and some of them remain enshrined to this day at the Furude Shrine and in the storehouses of the Three Families.",
+    "significantChanges": true,
+    "changeReason": "The new translation specifies \"storehouses of the Three Families\" (蔵) whereas the original says \"on the property of,\" which is vaguer. The Japanese 御三家の蔵 specifically means the storehouses/warehouses, making the new translation more precise.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 13446,
+    "TextENGNew": "However, all the identifiable \"implements\" are purely decorative, and not a single one appears to have been used in the rituals governing the darker aspects of Onigafuchi Village.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13447,
+    "TextENGNew": "Were they lost along with the numerous traditional ceremonies that disappeared during the transition from the late Edo period to the Meiji era,@kor were they deliberately buried in darkness?",
+    "significantChanges": true,
+    "changeReason": "The new translation adds \"deliberately\" for the burying in darkness, conveying intentionality from the Japanese 闇に葬られて. It also specifies \"transition from the late Edo period to the Meiji era\" matching 幕末から明治にかけ more precisely than the original's vague \"as the Edo era came to a close.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 13448,
+    "TextENGNew": "I do not believe so.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13449,
+    "TextENGNew": "The \"implements\" used on the night of the Onikakushi feast and those used in the sacrificial ritual must still exist—enshrined in secret, hidden from the public eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13450,
+    "TextENGNew": "Without a doubt, they exist here in Hinamizawa, at this very moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13451,
+    "TextENGNew": "And I am nearly certain where they have been enshrined.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13452,
+    "TextENGNew": "The lock that had always been so formidable has, for some reason, been replaced this year with a cheap, flimsy padlock.@kA lock of that caliber... he might be able to manage it.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13453,
+    "TextENGNew": "However, the location is not far from the assembly hall, and there are always people nearby.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13454,
+    "TextENGNew": "But I will not give up.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13455,
+    "TextENGNew": "...The night when every villager in Hinamizawa will have their eyes elsewhere is fast approaching.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13456,
+    "TextENGNew": "Soon, it will be Watanagashi.",
+    "significantChanges": false
+  }
+]

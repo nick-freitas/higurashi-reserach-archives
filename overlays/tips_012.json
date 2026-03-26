@@ -1,0 +1,61 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Radio Transmission Log",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Radio Log\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12835,
+    "TextENGNew": "``Unit 3, come in. Unit 3, come in.``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12836,
+    "TextENGNew": "``This is Unit 3. Reading you loud and clear.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 12837,
+    "TextENGNew": "``Backup is en route. Hold your position until further orders.@k@vS20/00/KeijiC44003. Over.``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12838,
+    "TextENGNew": "``Copy that. Unit 3, acknowledged.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12839,
+    "TextENGNew": "``Also, keep the lights off, please. Nice and quiet.``",
+    "significantChanges": true,
+    "changeReason": "The original mistranslates 回転灯 (rotating/emergency lights) as 'headlights' and 静か静かで (nice and quiet) as 'radio silence'; the new version correctly identifies the request to keep emergency lights off and to approach quietly.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 12840,
+    "TextENGNew": "``The doctor just arrived. He wants to move the body. What should we do?@k@vS20/11/440700004. Over.``",
+    "significantChanges": true,
+    "changeReason": "The original omits 運びたいそうですが (he says he wants to move [the body]), dropping the doctor's specific request that prompts the question to dispatch.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 12841,
+    "TextENGNew": "``Understood. Leave it to the doctor.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12842,
+    "TextENGNew": "``Roger that. Understood.@k@vS20/11/440700006. ...Ah, backup just arrived as well.@k@vS20/11/440700007. Shouldn't we let them get photos first?@k@vS20/11/440700008. ...I'm pretty sure the victim's a goner.``",
+    "significantChanges": false
+  }
+]

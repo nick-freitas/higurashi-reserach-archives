@@ -1,0 +1,63 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Summer Vacation Picture Diary",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"My Summer Vacation Picture Diary\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15309,
+    "TextENGNew": "Today I went to the pool resort with Mama.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly renders プールリゾート as 'pool resort' rather than 'swimming pool,' and uses 'Mama' to better match the childlike voice of the diary.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 15310,
+    "TextENGNew": "Uncle Akihito came along too.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15311,
+    "TextENGNew": "He's mean to Rena sometimes so I don't like him, but he's a very kind and funny uncle.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves Rena's distinctive habit of referring to herself in third person ('Rena' instead of 'me') and correctly translates おじさん as 'uncle' rather than 'old man,' since Akihito is addressed as an uncle figure.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 15312,
+    "TextENGNew": "He said that while we were at the pool he would be Rena's daddy, so Rena-chan should call him Papa.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the Japanese dialogue structure including Rena's third-person self-reference and 'Rena-chan' address form, and uses 'Papa' to match パパ in the source rather than 'Daddy.'",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 15313,
+    "TextENGNew": "Mama called him Papa too, so Rena called him Papa as well, and Uncle Akihito looked so happy, and gave Rena lots and lots of spending money.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves Rena's third-person self-reference, renders いっぱいいっぱい as the emphatic 'lots and lots' (vs flat 'a lot'), and correctly specifies おこずかい as 'spending money' rather than generic 'money.'",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 15314,
+    "TextENGNew": "Mama looked so happy too, and Rena was very happy.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves Rena's third-person self-reference and more faithfully renders the simple childlike statement rather than adding causal logic ('it made me happy') not in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 15315,
+    "TextENGNew": "I want to come play again. I thought it would be nice if Papa could come along next time.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the ambiguity of お父さん ('Papa' — possibly her real father or Akihito) rather than resolving it as 'my dad,' and more accurately renders the child's reflective tone with 'I thought it would be nice if' matching 思いました.",
+    "changeScore": 2
+  }
+]

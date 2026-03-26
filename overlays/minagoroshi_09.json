@@ -1,0 +1,2726 @@
+[
+  {
+    "index": 1,
+    "MessageID": 102351,
+    "TextENGNew": "After examining the donated items gathered at the assembly hall the other day, we discovered there was nothing remotely appealing to children.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits the assembly hall location (集会所) present in the Japanese and incorrectly references an auction; new translation restores the correct setting.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 102352,
+    "TextENGNew": "Keiichi insisted that without items kids would beg their parents for, the auction would never truly come alive.",
+    "significantChanges": true,
+    "changeReason": "Old translation refers to \"the show\" while new translation specifies \"the auction,\" changing the type of event described; additionally \"success\" vs \"come alive\" shifts the characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 102353,
+    "TextENGNew": "He had a point.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 102354,
+    "TextENGNew": "And so we found ourselves visiting that toy store once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 102355,
+    "TextENGNew": "The plan was to coax the owner into donating some toys that children would find exciting.",
+    "significantChanges": true,
+    "changeReason": "Old translation adds \"all the kids attending the festival\" not present in the Japanese and uses vague \"something\" where the original specifies 玩具 (toys); new translation is more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 102356,
+    "TextENGNew": "``I see...@k@vS12/00/yoshi18011. I did get to sell off my old stock, I mean... you know!@k@vS12/00/yoshi18012. Different games... the other day, because of you guys.@k@vS12/00/yoshi18013. I want to support you if I can...``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 102357,
+    "TextENGNew": "``My grandma wants the auction to be something that both kids and adults can enjoy. That's what she's 'hoping for.' You understand...?",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 102358,
+    "TextENGNew": "Can't you help us, Uncle Yoshirou...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 102359,
+    "TextENGNew": "``Weeeeeeell...!@k@vS12/00/yoshi18015. If that's what your grandmother wants...!@k@vS12/00/yoshi18016. Okay, I'll do my best!@k@vS12/00/yoshi18017. I don't know what she would say to me on New Year's if I refused... Hahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 102360,
+    "TextENGNew": "``Wow...@k@vS12/01/180100307. I guess Mion's grandma is pretty scary...``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 102361,
+    "TextENGNew": "``We have never met, but I have heard of how terrifying she can be!",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 102362,
+    "TextENGNew": "According to Shion-san, she enjoys ripping people's nails off!``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 102363,
+    "TextENGNew": "``That's just Shii-chan trying to scare you.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 102364,
+    "TextENGNew": "I know Mii-chan's grandma very well.@k@vS12/02/180200163. She's a very nice lady.@k@vS12/02/180200164. As long as you're polite to her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 102365,
+    "TextENGNew": "...I'm impressed that she can refer to that monster as a nice lady.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 102366,
+    "TextENGNew": "``She's scary when you're not polite.@k@vS12/05/180500391. Also, she's scary when you don't show proper respect.@k@vS12/05/180500392. Nipah~☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 102367,
+    "TextENGNew": "``S-So, are you saying that she wouldn't be nice to me...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 102368,
+    "TextENGNew": "``Kei-chan, we have a deal! He said we can take some stuff!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 102369,
+    "TextENGNew": "``Haha, hahahahahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 102370,
+    "TextENGNew": "His laugh was a painful one.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 102371,
+    "TextENGNew": "``...How come the people in this village always listen to Mion?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 102372,
+    "TextENGNew": "``It's the power of the Sonozaki family.@k@vS12/05/180500394. Mion is like their princess.@k@vS12/05/180500395. No one would dare contradict her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 102373,
+    "TextENGNew": "``...You're also the princess of the Furude family, aren't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 102374,
+    "TextENGNew": "``Hee hee, thank you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 102375,
+    "TextENGNew": "The members of Sonozaki branch families who own businesses usually get their funding from Mion's family.@k They can never go against the will of the main branch.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 102376,
+    "TextENGNew": "The Sonozaki family made a fortune on the black market after the War, and they've invested those funds as capital into businesses run by their family and the villagers.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 102377,
+    "TextENGNew": "They charge almost no interest, and required no cosigners or collateral.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 102378,
+    "TextENGNew": "So long as one gives a proper explanation, they'll provide a notable sum.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 102379,
+    "TextENGNew": "The money has to be paid back, of course, but it's lent between family and community.@k They're willing to make some adjustments if one goes begging.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 102380,
+    "TextENGNew": "For that reason, everyone is borrowing money from the family.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 102381,
+    "TextENGNew": "And that, more than anything, is why they can never refuse a request from Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 102382,
+    "TextENGNew": "``All right, try and find something that might be interesting to kids!@k@vS12/01/180100309. I need something big in size.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 102383,
+    "TextENGNew": "It's not that exciting to sell a deck of cards at an auction, you know?@k@vS12/01/180100311. Big things will attract more attention!``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 102384,
+    "TextENGNew": "``......So we need to look for something big and expensive.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 102385,
+    "TextENGNew": "``Ohh ho ho ho!@k@vS12/04/180400120. Leave it up to me!@k@vS12/04/180400121. I'm very good at finding things like that!``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 102386,
+    "TextENGNew": "``Ah, ahahahaha... Let's try and be considerate of the owner too, everyone...``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 102387,
+    "TextENGNew": "``Wow, look Rena!",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 102388,
+    "TextENGNew": "This stuffed animal is so cute!``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 102389,
+    "TextENGNew": "``What?",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 102390,
+    "TextENGNew": "Hauuu!!",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 102391,
+    "TextENGNew": "It's adorable!!",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 102392,
+    "TextENGNew": "I'm taking all of them home with me!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 102393,
+    "TextENGNew": "``Umm... ...you know... ...you guys... please don't take too much...@k@vS12/00/yoshi18020. Okay...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 102394,
+    "TextENGNew": "The shop owner smiled bitterly at us...",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 102395,
+    "TextENGNew": "``What do you think this is, Keiichi-kun?",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 102396,
+    "TextENGNew": "It says 'swing' on it.@k@vS12/02/180200172. Is it like a playground kind of swing...?",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 102397,
+    "TextENGNew": "Wow... it's so heavy!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 102398,
+    "TextENGNew": "``It must be a build-it-yourself swing.@k@vS12/01/180100313. You can build it inside the house or outside in the yard.@k@vS12/01/180100314. It's not as big as the swings you see on playgrounds, but it's big enough for little kids to play on.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 102399,
+    "TextENGNew": "It's fun in the beginning,@k@vS12/01/180100316. but they'll eventually get bored with it, and it'll be used to hang the laundry on instead...``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 102400,
+    "TextENGNew": "``......That sounds like it's coming from experience.@k@vS12/05/180500399. Did you have one of these, Keiichi?``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 102401,
+    "TextENGNew": "``In my last house.@k@vS12/01/180100318. I got it for Christmas when I was little.@k@vS12/01/180100319. It looks really impressive, doesn't it?@k@vS12/01/180100320. That's a good choice, Rena!``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 102402,
+    "TextENGNew": "``Here, Kei-chan, stick this paper on it.@k@vS12/03/180300148. People from the council will pick it up later.``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 102403,
+    "TextENGNew": "Mion handed Keiichi a piece of paper that said ``town council`` on it.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 102404,
+    "TextENGNew": "She was carrying around a whole stack of them.@k She's really thorough when it comes to things like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 102405,
+    "TextENGNew": "``Keiichi-san!@k@vS12/04/180400123. How about this one?@k@vS12/04/180400124. It's a small pool you can put in your yard!``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 102406,
+    "TextENGNew": "``Ho ho, that's a good choice, too!@k@vS12/01/180100322. What do you think, Mion?``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 102407,
+    "TextENGNew": "``Well, in Hinamizawa, you can always go to the river if you want to play in the water...@k@vS12/03/180300150. I don't know about that one...``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 102408,
+    "TextENGNew": "``But this goldfish pattern is adorable!",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 102409,
+    "TextENGNew": "I think this pool is a good one, I think!``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 102410,
+    "TextENGNew": "``I think so as well!@k@vS12/04/180400126. Doesn't it just look perfect for setting up all kinds of traps?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 102411,
+    "TextENGNew": "``No way, no way!@k@vS12/01/180100324. I'm the one who's going to end up trapped in there.@k@vS12/01/180100325. We're not taking this one!``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 102412,
+    "TextENGNew": "``......How about this one?@k@vS12/05/180500401. It's an elephant slide, meep!``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 102413,
+    "TextENGNew": "``...I think this one is nice, too.@k@vS12/12/181100118. I want to take it home with me!``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 102414,
+    "TextENGNew": "``If I pushed Satoko off the top, she would roll down like a ball...@k@vS12/05/180500403. ...Ahh, wouldn't that be so much fun...@k@vS12/05/180500404. Don't you think so, Hanyuu...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 102415,
+    "TextENGNew": "``...Au au... stop being so mean to Satoko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 102416,
+    "TextENGNew": "``Hauu!@k@vS12/02/180200177. That one's nice too, I'm taking it home with me!``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 102417,
+    "TextENGNew": "``All right, let me stick this paper on it.@k@vS12/03/180300152. Heh heh heh...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 102418,
+    "TextENGNew": "We enjoyed the privilege of picking donations for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 102419,
+    "TextENGNew": "I began to feel bad seeing the owner's troubled expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 102420,
+    "TextENGNew": "I patted him on the head to try to comfort him.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 102421,
+    "TextENGNew": "Rub rub☆",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 102422,
+    "TextENGNew": "Pat pat...",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 102423,
+    "TextENGNew": "Nipah~☆",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 102424,
+    "TextENGNew": "``Wow, this is mahjong.``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 102425,
+    "TextENGNew": "``What is it, Kei-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 102426,
+    "TextENGNew": "Keiichi found something in the tabletop game section.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 102427,
+    "TextENGNew": "I walked toward him to see what it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 102428,
+    "TextENGNew": "There I saw a green mat on the table, with the mahjong tiles all lined up on it.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 102429,
+    "TextENGNew": "They were arranged in a square shape, as if someone was playing there until just a few minutes ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 102430,
+    "TextENGNew": "``Huh?@k@vS12/03/180300155. What's this, Uncle Yoshirou?@k@vS12/03/180300156. Were you playing mahjong at work?``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 102431,
+    "TextENGNew": "``No, that's not it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 102432,
+    "TextENGNew": "I had expected to see board games and card games in the toy store, but not mahjong...",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 102433,
+    "TextENGNew": "I guess it isn't weird for a toy store to sell this, though...",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 102434,
+    "TextENGNew": "``Wow, it's been a long time.@k@vS12/02/180200179. I think I've forgotten most of the rules...``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 102435,
+    "TextENGNew": "``Whoa, it's incredible for a girl like you to know mahjong.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 102436,
+    "TextENGNew": "...Oh, let me guess.@k@vS12/01/180100329. You guys played this at the club, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 102437,
+    "TextENGNew": "``It must have been the end of last year.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 102438,
+    "TextENGNew": "Of course, I was very good at it too!!@k@vS12/04/180400129. There were lots of traps lying in my discard pile!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 102439,
+    "TextENGNew": "``Mion... Listen here, you had four young girls together, and you played mahjong at school...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 102440,
+    "TextENGNew": "``Hey Kei-chan, you can't underestimate this game.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 102441,
+    "TextENGNew": "Hinamizawa gets a lot of snow in the winter.@k@vS12/03/180300159. The whole village enjoys mahjong in those months!",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 102442,
+    "TextENGNew": "We hole up inside a warm room and enjoy some tangerines and mahjong.@k@vS12/03/180300161. We turn on the end-of-year music program on the TV...@k@vS12/03/180300162. That's what winter is like here...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 102443,
+    "TextENGNew": "...That's probably how the Sonozaki family spends its winter.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 102444,
+    "TextENGNew": "That doesn't mean the whole village does that...",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 102445,
+    "TextENGNew": "``I forgot that Hinamizawa gets lots of snow in the winter...",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 102446,
+    "TextENGNew": "I see. I guess mahjong would be the standard game adults play around the kotatsu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 102447,
+    "TextENGNew": "``Kei-chan, mahjong is a serious game.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 102448,
+    "TextENGNew": "It's a necessity in every man's social life!",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 102449,
+    "TextENGNew": "When they sit around the square jungle, they become Seiryuu in the east, Byakko in the west, Suzaku in the south, and Genbu in the north!",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 102450,
+    "TextENGNew": "Abandoning their hierarchy and squabbles, they fight on equal terms!@k@vS12/03/180300167. It's the same spirit as in the ancient Olympic games!@k@vS12/03/180300168. See!@k@vS12/03/180300169. Isn't it amazing?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 102451,
+    "TextENGNew": "``...I'm less concerned with that, and more afraid of what kind of punishment you'll set when you bring it out at club again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 102452,
+    "TextENGNew": "``Do you know how to play, Keiichi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 102453,
+    "TextENGNew": "``My dad loves it.@k@vS12/01/180100335. He always forces me to play when he doesn't have enough people to play with.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 102454,
+    "TextENGNew": "I don't know if I'm good, but I know the rules.@k@vS12/01/180100337. I don't know how to calculate anything though...@k@vS12/01/180100338. Anyway, why is there a mahjong table here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 102455,
+    "TextENGNew": "Everyone looked at the owner.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 102456,
+    "TextENGNew": "``Well, I was talking with a customer this afternoon, and he said he could show me how to do the Tsubame Gaeshi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 102457,
+    "TextENGNew": "``What!?@k@vS12/01/180100340. Did you say the 'Tsubame Gaeshi'!?",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 102458,
+    "TextENGNew": "That's the greatest scam in the history of mahjong!",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 102459,
+    "TextENGNew": "The ultimate technique of Chinese martial arts, created by a legendary master in ancient China!",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 102460,
+    "TextENGNew": "Its power was so great that the emperor of that time banned its use.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 102461,
+    "TextENGNew": "By the way, this is a second-hand story I got from my father, so I can't guarantee the authenticity.``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 102462,
+    "TextENGNew": "``Tsubame Gaeshi? Isn't that a technique of Musashi Miyamoto's?@k@vS12/02/180200182. How does that involve mahjong?``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 102463,
+    "TextENGNew": "``...It's a bold technique where you switch your hand with the wall in a flash.@k@vS12/05/180500406. Nipah~☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 102464,
+    "TextENGNew": "``Hey Mion...@k@vS12/01/180100346. Why would you teach something that bad to an innocent girl like this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 102465,
+    "TextENGNew": "``Well... Ahya hya hya hya!``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 102466,
+    "TextENGNew": "``Hau... I want to see it!@k@vS12/02/180200184. Can anybody do it?@k@vS12/02/180200185. Can you, Rika-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 102467,
+    "TextENGNew": "``......I only know about it, I can't do it myself.@k@vS12/05/180500408. ...Satoko, weren't you practicing it a while ago?``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 102468,
+    "TextENGNew": "``Wait a minute, Satoko.@k@vS12/01/180100348. Don't practice something like that at your age...``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 102469,
+    "TextENGNew": "``But she's a trap master. It sounds like something that she would do...``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 102470,
+    "TextENGNew": "``Oh ho ho ho!@k@vS12/04/180400131. The best time to set a trap is when the opponent is sure of his victory!``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 102471,
+    "TextENGNew": "``So did you ever get to master it?@k@vS12/03/180300173. You were practicing, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 102472,
+    "TextENGNew": "``...Well, I could never use it in a real game.@k@vS12/04/180400133. Even in practice I only succeeded once or twice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 102473,
+    "TextENGNew": "``Wow!@k@vS12/02/180200187. I want to see it!@k@vS12/02/180200188. Do it for us!``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 102474,
+    "TextENGNew": "``......Meep!@k@vS12/05/180500410. I want to see it too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 102475,
+    "TextENGNew": "``V-Very well, you all.@k@vS12/04/180400135. Don't laugh if I can't pull it off, all right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 102476,
+    "TextENGNew": "Satoko sat in front of the table and started piling up the tiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 102477,
+    "TextENGNew": "``...Do you really think Satoko can do it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 102478,
+    "TextENGNew": "``Well, I don't know.@k@vS12/05/180500412. It'll be amazing if she can do it, and cute if she can't.@k@vS12/05/180500413. I don't care if she makes it or not, because I enjoy seeing her act shy like this.@k@vS12/05/180500414. Hee hee...``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 102479,
+    "TextENGNew": "``Well... first of all...@k@vS12/04/180400137. You start by planting the tiles you want into the wall ahead of time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 102480,
+    "TextENGNew": "``I see.@k@vS12/02/180200190. Then you later swap them for your hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 102481,
+    "TextENGNew": "...But how?@k@vS12/02/180200192. Sleight of hand?``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 102482,
+    "TextENGNew": "``Heh heh heh!@k@vS12/03/180300175. Well, you instantly swap all the tiles from your hand with the planted tiles!",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 102483,
+    "TextENGNew": "This is a scene I'd love to show you all through an animation video or something...@k@vS12/03/180300177. Since we can only use words here, please make up for it with your imagination!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 102484,
+    "TextENGNew": "``......I have no idea who Mii could be talking to.``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 102485,
+    "TextENGNew": "``You say, looking at the camera...``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 102486,
+    "TextENGNew": "``Are you ready...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 102487,
+    "TextENGNew": "Everyone gulped and looked closely at the table.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 102488,
+    "TextENGNew": "Satoko moved her hands like a swan on a lake.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 102489,
+    "TextENGNew": "She had thirteen tiles in front of her...",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 102490,
+    "TextENGNew": "Then she silently flipped them all face down.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 102491,
+    "TextENGNew": "Then she lifted them up by holding both ends, and silently placed them against the back edge of the wall, keeping them hidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 102492,
+    "TextENGNew": "``This is it, Satoko!``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 102493,
+    "TextENGNew": "``I don't know if I can do it, but I'll try...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 102494,
+    "TextENGNew": "We all went quiet...",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 102495,
+    "TextENGNew": "Satoko reached out toward the yamahai.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 102496,
+    "TextENGNew": "Then she grabbed the whole thing with her small little hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 102497,
+    "TextENGNew": "``Let me explain how hard it is to pick up the wall, for those unfamiliar with mahjong!",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 102498,
+    "TextENGNew": "Your hand is usually made of thirteen tiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 102499,
+    "TextENGNew": "If you push into them from either side hard enough with both hands, you can lift them up in the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 102500,
+    "TextENGNew": "You might drop and scatter them if you're not experienced, but it's still not that difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 102501,
+    "TextENGNew": "However, it's not that easy for the wall.@k@vS12/03/180300184. The yamahai usually consists of seventeen tiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 102502,
+    "TextENGNew": "And plus, there are two rows on top of each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 102503,
+    "TextENGNew": "This is the important part.@k@vS12/03/180300187. It's not as simple as lifting up two rows of seventeen tiles on top of each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 102504,
+    "TextENGNew": "You must lift up the seventeen tiles from the top row, and only the four tiles on the edges of the bottom row!",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 102505,
+    "TextENGNew": "By setting them on the thirteen tiles from your hand placed behind the wall, you can bury your hand in the wall, and the lower thirteen tiles that remain from moving the wall become your new hand!",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 102506,
+    "TextENGNew": "This is the ultimate technique, the Tsubame Gaeshi!!",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 102507,
+    "TextENGNew": "It's a technique that lets you switch all thirteen tiles in a split second!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 102508,
+    "TextENGNew": "``......You can do it, Satoko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 102509,
+    "TextENGNew": "I could see Satoko trying to concentrate...",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 102510,
+    "TextENGNew": "She was supposed to be doing this more naturally since it's a technique for cheating...",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 102511,
+    "TextENGNew": "But since for the moment it was just performance, I suppose it's fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 102512,
+    "TextENGNew": "Someone audibly swallowed, and at that exact moment she made her move.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 102513,
+    "TextENGNew": "``Hnn............ There!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 102514,
+    "TextENGNew": "Crash!!",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 102515,
+    "TextENGNew": "She had put too much strength into it.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 102516,
+    "TextENGNew": "Her tiles fell apart.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 102517,
+    "TextENGNew": "``...I can't do it...@k@vS12/04/180400142. It's not that easy, you know!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 102518,
+    "TextENGNew": "``Hmm, I see... but I think I understood the gist of it from Mion's explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 102519,
+    "TextENGNew": "Let me try it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 102520,
+    "TextENGNew": "``I'm going to try too!",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 102521,
+    "TextENGNew": "I guess I have to master this one now or else it'll be troublesome later on...``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 102522,
+    "TextENGNew": "``......I'm trying it too, then.``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 102523,
+    "TextENGNew": "All of us except Mion took a seat and started piling up the tiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 102524,
+    "TextENGNew": "``Hahahaha... At a glance, you look like small children who are just playing with the tiles... Ahahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 102525,
+    "TextENGNew": "``But they're actually practicing the Tsubame Gaeshi...",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 102526,
+    "TextENGNew": "I'm proud of how my club members are growing up to be decent kids!@k@vS12/03/180300194. Heh heh heh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 102527,
+    "TextENGNew": "My hands and Satoko's hands are about the same size.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 102528,
+    "TextENGNew": "If she can do it, I know I can too.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 102529,
+    "TextENGNew": "Of course, I can't really use this trick during a real game.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 102530,
+    "TextENGNew": "We were just playing around, but I was having a good time.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 102531,
+    "TextENGNew": "I've never done this before in my one hundred years of life.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 102532,
+    "TextENGNew": "``Hmmm... I think my hands are slowing down...@k@vS12/04/180400144. I'm so frustrated!``",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 102533,
+    "TextENGNew": "``It's so hard just to lift up the first thirteen tiles.@k@vS12/02/180200196. Hau...``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 102534,
+    "TextENGNew": "``Listen, Rena, you have to use your pinky fingers.@k@vS12/01/180100353. There you go.@k@vS12/01/180100354. It's going to explode if you push too strongly!``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 102535,
+    "TextENGNew": "``But you have to use enough strength to lift it up.@k@vS12/03/180300196. It's difficult, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 102536,
+    "TextENGNew": "It's very difficult to lift up the first thirteen tiles to begin with.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 102537,
+    "TextENGNew": "Not everyone can get past this stage.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 102538,
+    "TextENGNew": "Satoko was doing well the first time, but she lost her concentration and is dropping her tiles now.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 102539,
+    "TextENGNew": "I took Keiichi's advice and supported the tiles with my pinky fingers, and ...lifted it up...@k Oh, I did it!",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 102540,
+    "TextENGNew": "``Meep!@k@vS12/05/180500419. I lifted up the first thirteen tiles!``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 102541,
+    "TextENGNew": "``Good for you!@k@vS12/01/180100356. Rika-chan has a lead on us! We need to do better!``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 102542,
+    "TextENGNew": "``...You're good at this.@k@vS12/12/181100122. Can you do the next step?``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 102543,
+    "TextENGNew": "``It's not that easy...@k@vS12/05/180500421. But I really want to get it right before anyone else.@k@vS12/05/180500422. That's what we're racing towards right now.@k@vS12/05/180500423. Hee hee.@k@vS12/05/180500424. I'm going to do it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 102544,
+    "TextENGNew": "``Is Rika-chan going to be the first one...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 102545,
+    "TextENGNew": "``You're done if you pull off the next move!",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 102546,
+    "TextENGNew": "But that one is so difficult!``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 102547,
+    "TextENGNew": "``...Gooo, Rika!``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 102548,
+    "TextENGNew": "``This is the hard part!``",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 102549,
+    "TextENGNew": "I had to lift up the whole top row and only four tiles from the bottom row...",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 102550,
+    "TextENGNew": "I probably didn't need to use too much force.@k I can do this...",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 102551,
+    "TextENGNew": "Crash.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 102552,
+    "TextENGNew": "``Hau, too bad!``",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 102553,
+    "TextENGNew": "``With the number of tiles increased to seventeen, it got more difficult, didn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 102554,
+    "TextENGNew": "``......I'm going to do this before everyone else.@k@vS12/05/180500426. There'll probably be a punishment for those who can't make it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 102555,
+    "TextENGNew": "``What? Is that true, Mion?``",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 102556,
+    "TextENGNew": "``Hmm... I wonder what I should do.@k@vS12/03/180300199. Heh heh heh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 102557,
+    "TextENGNew": "There were only four seats, so Mion wasn't even in the game.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 102558,
+    "TextENGNew": "...Did that mean that she could set up a punishment with no risk to herself...?",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 102559,
+    "TextENGNew": "``Hauuu!@k@vS12/02/180200201. It's not fair! You're not even playing, Mii-chan!``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 102560,
+    "TextENGNew": "``If you have time to complain, you should practice harder!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 102561,
+    "TextENGNew": "``...This is getting interesting.@k@vS12/12/181100125. Hee hee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 102562,
+    "TextENGNew": "I'd thought we came all the way to Okinomiya to get donations for the auction. Why were we doing this now...?",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 102563,
+    "TextENGNew": "...Although, that's why I love hanging out with these people.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 102564,
+    "TextENGNew": "If it wasn't for them, I would've lost my soul a long time ago. I would have become a worthless piece of flesh.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 102565,
+    "TextENGNew": "I've heard that rabbits can die from loneliness, but humans are no different.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 102566,
+    "TextENGNew": "Humans can also die from boredom.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 102567,
+    "TextENGNew": "``Hanyuu.@k@vS12/05/180500428. I really do think this world is special.@k@vS12/05/180500429. I know all of these events could happen individually, but now they are all happening at the same time. This is like a miracle.``",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 102568,
+    "TextENGNew": "``...Your fate really was too unfortunate up to this point.@k@vS12/12/181100127. You deserve this kind of happiness every once in a while.``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 102569,
+    "TextENGNew": "``Hee hee, you're right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 102570,
+    "TextENGNew": "If I have such a miserable and deadly fate, I do deserve some happiness that evens out the sadness.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 102571,
+    "TextENGNew": "I felt like the luck I'd been getting in this life was something that I'd been saving up for a hundred years.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 102572,
+    "TextENGNew": "The people I love are all healthy and happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 102573,
+    "TextENGNew": "I also asked Takano to reinforce my security.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 102574,
+    "TextENGNew": "I don't know if she really will, but she promised me.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 102575,
+    "TextENGNew": "She never did that in my previous lives.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 102576,
+    "TextENGNew": "I think her reaction to my request was the best one so far.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 102577,
+    "TextENGNew": "...In fact, she was skipping on her way back home. She must have been in a good mood.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 102578,
+    "TextENGNew": "...I was sorry for breaking the family rules, but I think it was worth it.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 102579,
+    "TextENGNew": "I told them that their lives were also in danger, but I doubt they really believed that.@k They didn't seem too frightened by it.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 102580,
+    "TextENGNew": "I'd have to give them a final warning on the night of Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 102581,
+    "TextENGNew": "If I try warning them too often, they'd never believe me.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 102582,
+    "TextENGNew": "``..........Does that mean that there's nothing for me to do in this world right now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 102583,
+    "TextENGNew": "``...I don't know.@k@vS12/12/181100129. Until the moment of truth is here, it's impossible to tell.``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 102584,
+    "TextENGNew": "I'm blessed with miraculously good fortune in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 102585,
+    "TextENGNew": "I gave it my best effort using all my previous experience.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 102586,
+    "TextENGNew": "But did I do enough...?",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 102587,
+    "TextENGNew": "I wish I could have my fortune told.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 102588,
+    "TextENGNew": "I just wanted something to tell me that I did everything right.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 102589,
+    "TextENGNew": "Please tell me what my fortune is...",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 102590,
+    "TextENGNew": "And as soon as I made the wish, God granted it to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 102591,
+    "TextENGNew": "``Oh, what's going on in here...!?``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 102592,
+    "TextENGNew": "I suddenly heard a low voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 102593,
+    "TextENGNew": "Keiichi and Rena dropped their tiles as soon as they heard it.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 102594,
+    "TextENGNew": "``Hey, Ooishi-san!@k@vS12/03/180300201. What are you doing in a toy store during working hours?``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 102595,
+    "TextENGNew": "``Hello there.@k@vS12/11/180700003. Don't worry, I'm off-duty today!@k@vS12/11/180700004. Nfu fu fu!``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 102596,
+    "TextENGNew": "``...you mean bad luck today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 102597,
+    "TextENGNew": "``What are you all doing here?@k@vS12/11/180700006. Eh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 102598,
+    "TextENGNew": "It looked like Ooishi was ordering something from the owner.@k I wondered what this old guy wanted from a toy store of all places.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 102599,
+    "TextENGNew": "Mion was wondering the same,@k and she asked him instead of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 102600,
+    "TextENGNew": "``Na ha ha ha!@k@vS12/11/180700008. My mahjong mat is warped because I kept it rolled up in storage for a long time.@k@vS12/11/180700009. The green cloth is peeling off the underside of my kotatsu board too, so I couldn't use that one either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 102601,
+    "TextENGNew": "``Hmmm, you play mahjong at home?@k@vS12/03/180300203. That's a nice way to spend your day off.@k@vS12/03/180300204. Perhaps you got in trouble at the mahjong bar and they banned you from going in there, or something...``",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 102602,
+    "TextENGNew": "``No way, no way.@k@vS12/11/180700011. I'm a gentleman in any public establishment.@k@vS12/11/180700012. I'd never cause any trouble like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 102603,
+    "TextENGNew": "Anyway, you kids like mahjong...?@k@vS12/11/180700014. I figured that young people didn't even know about the game.``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 102604,
+    "TextENGNew": "``Heh heh heh!@k@vS12/03/180300206. Please don't underestimate my club!",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 102605,
+    "TextENGNew": "We'll play anything that has a winner and a loser!@k@vS12/03/180300208. We never turn our backs to a battle!@k@vS12/03/180300209. We play mahjong, slot machines, horse racing, bike racing, boat racing, calligraphy, flower arrangement, and croquet!``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 102606,
+    "TextENGNew": "``...I think she'll make us fight in the middle of a lava pit someday.``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 102607,
+    "TextENGNew": "``It's okay, Rika-chan.@k@vS12/01/180100360. Even if you die on that battlefield, you'll come back out of nowhere two or three chapters later.``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 102608,
+    "TextENGNew": "``I have no idea what Keiichi-san and Rika are talking about...``",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 102609,
+    "TextENGNew": "``Hmm, what are you guys doing?@k@vS12/11/180700016. Are you piling up the tiles?``",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 102610,
+    "TextENGNew": "``No, not that.@k@vS12/02/180200203. We're practicing the Tsubame Gaeshi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 102611,
+    "TextENGNew": "``You're practicing the Tsubame Gaeshi...?@k@vS12/11/180700018. Na ha ha ha... oh dear!``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 102612,
+    "TextENGNew": "``He's the one who showed me how to do the Tsubame Gaeshi earlier today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 102613,
+    "TextENGNew": "``Wh-What did you say?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 102614,
+    "TextENGNew": "``Nfu fu!@k@vS12/11/180700020. It's not like I can use it in a real game, but it's one of the tricks I can do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 102615,
+    "TextENGNew": "``Ooishi-san...@k@vS12/01/180100363. Will you please show it to us?",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 102616,
+    "TextENGNew": "I really want to master that technique!@k@vS12/01/180100365. If I don't, I'm going to get in real trouble this winter...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 102617,
+    "TextENGNew": "``Na ha ha!@k@vS12/11/180700022. Sure, let me show it to you.@k@vS12/11/180700023. You must be... the boy from the Maebara mansion...``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 102618,
+    "TextENGNew": "``Oh, sorry.@k@vS12/01/180100367. Yes, I am.@k@vS12/01/180100368. I'm Keiichi Maebara. I moved here recently.@k@vS12/01/180100369. Nice to meet you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 102619,
+    "TextENGNew": "``Hey, you've never met him before?",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 102620,
+    "TextENGNew": "This is Ooishi-san from the police department.@k@vS12/03/180300213. He's on the festival committee as head of the security team, so you'll see him at the meeting too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 102621,
+    "TextENGNew": "``I've heard about you!@k@vS12/11/180700025_1. They say you're always full of energy.@k@vS12/11/180700026. I've been looking forward to meeting you, because everyone is saying that you're going to be a great auction host.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 102622,
+    "TextENGNew": "You'll have such a big responsibility at the festival.@k@vS12/11/180700028. I'm surprised you accepted the offer!@k@vS12/11/180700029. You have a lot of courage.``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 102623,
+    "TextENGNew": "``A-Ahahahahaha!@k@vS12/01/180100371. But I'll do my best since I took on the job, so I hope things go well!@k@vS12/01/180100372. I'm Keiichi Maebara.@k@vS12/01/180100373. It'll be a pleasure working with you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 102624,
+    "TextENGNew": "``Hmm... you're also a very polite young man!@k@vS12/11/180700031. I'm impressed.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 102625,
+    "TextENGNew": "I'm Ooishi from the Okinomiya PD.@k@vS12/11/180700033. You can call me Kura-chan if you want.@k@vS12/11/180700034. Nfu fu fu!``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 102626,
+    "TextENGNew": "``You can sit in my seat, Ooishi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 102627,
+    "TextENGNew": "``Oh, thank you.@k@vS12/11/180700036. Let me show you the trick, then...``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 102628,
+    "TextENGNew": "He rapidly gathered up the tiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 102629,
+    "TextENGNew": "I could tell that he'd been doing it for a long time.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 102630,
+    "TextENGNew": "``I heard that judo fighters can tell their opponent's rank just by looking at how he ties his belt.@k@vS12/01/180100375. It's just like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 102631,
+    "TextENGNew": "``Na ha ha!@k@vS12/11/180700038_1. Thank you for complimenting me already.@k@vS12/11/180700039. All right, are you ready?@k@vS12/11/180700040. I'm going to do it now.@k@vS12/11/180700041. There... you... go!``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 102632,
+    "TextENGNew": "Thud, swoosh,",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 102633,
+    "TextENGNew": "``I'm all done now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 102634,
+    "TextENGNew": "``````Wooooooooow! That was fast!!``````",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 102635,
+    "TextENGNew": "We all broke out in cheers!!",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 102636,
+    "TextENGNew": "You often hear the audience cheer for a big performance on TV, but it really was more impressive seeing in person.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 102637,
+    "TextENGNew": "He did it so quickly, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 102638,
+    "TextENGNew": "He made it look so simple that anyone could do it, but...",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 102639,
+    "TextENGNew": "Everyone here knows that it's very difficult to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 102640,
+    "TextENGNew": "That was why we were all impressed at how easily he performed the trick.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 102641,
+    "TextENGNew": "``Hauuu!!@k@vS12/02/180200207. You're amazing!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 102642,
+    "TextENGNew": "``You're so good!``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 102643,
+    "TextENGNew": "``That was incredible! I'm seriously impressed!!!@k@vS12/01/180100378. Will you teach me in slow motion?``",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 102644,
+    "TextENGNew": "``Heh heh heh!@k@vS12/11/180700044. Sure, why not?@k@vS12/11/180700045. Try and do what I do.@k@vS12/11/180700046. It's more difficult in slow motion, but pay attention to how I use my fingers.@k@vS12/11/180700047. Especially my pinkies.``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 102645,
+    "TextENGNew": "``First, you go like this, right...?@k@vS12/11/180700049. Okay, you understand that part...@k@vS12/11/180700050. Now, what comes next...?",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 102646,
+    "TextENGNew": "Then you do it like this. No, don't lift it up.@k@vS12/11/180700052. Try and think of it as sliding it forward!@k@vS12/11/180700053. But don't push it!@k@vS12/11/180700054. Just slightly lift it up, like a hovercraft...``",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 102647,
+    "TextENGNew": "``Slightly lift it up like a hovercraft... There!!@k@vS12/01/180100380. Damn it!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 102648,
+    "TextENGNew": "``You don't need any strength.@k@vS12/11/180700056. You can't make any noise, you know?@k@vS12/11/180700057. You have to do it silently, like a ninja.``",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 102649,
+    "TextENGNew": "``Silently like a ninja...@k@vS12/01/180100382. Let me try one more time!``",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 102650,
+    "TextENGNew": "It was strange...",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 102651,
+    "TextENGNew": "I had never seen Keiichi and Ooishi play mahjong together.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 102652,
+    "TextENGNew": "``Keiichi-kun and Ooishi-san look like they could become good friends.``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 102653,
+    "TextENGNew": "``I guess that's like male bonding or something.``",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 102654,
+    "TextENGNew": "Ooishi usually appears only after Takano and Tomitake get murdered on the night of Watanagashi.@k He has only ever appeared on the scene as a detective.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 102655,
+    "TextENGNew": "He always approached Keiichi as a detective, so he never thought of him as someone he could trust.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 102656,
+    "TextENGNew": "He only thought of Keiichi as a decoy to expose the culprits among the villagers, or some nonsense like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 102657,
+    "TextENGNew": "So even when you see it, it's hard to believe that Keiichi and Ooishi are having a good time together like friends...",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 102658,
+    "TextENGNew": "``...I've never seen Keiichi and Ooishi getting along with each other...``",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 102659,
+    "TextENGNew": "``I know.@k@vS12/05/180500438. It's my first time too.@k@vS12/05/180500439. How am I supposed to react to this...?@k@vS12/05/180500440. I thought it was a bad thing when I first saw Ooishi today...``",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 102660,
+    "TextENGNew": "I couldn't understand this world at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 102661,
+    "TextENGNew": "My heart was pounding, and I had the strong feeling that I'd roll a six every time I threw the die...",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 102662,
+    "TextENGNew": "I should roll it again.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 102663,
+    "TextENGNew": "I think I'll roll a six again.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 102664,
+    "TextENGNew": "I'll know it before I roll it.@k I will roll that six...!",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 102665,
+    "TextENGNew": "And I will finally defeat my deadly fate...!",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 102666,
+    "TextENGNew": "``Welcome to our store.``",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 102667,
+    "TextENGNew": "``Oh, there you are...@k@vS12/13/181300002. Ooishi-san, I got it for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 102668,
+    "TextENGNew": "My heart started racing.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 102669,
+    "TextENGNew": "The voice sounded so familiar. I'd heard it before...",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 102670,
+    "TextENGNew": "But that couldn't be right...",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 102671,
+    "TextENGNew": "Hanyuu always warned me...",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 102672,
+    "TextENGNew": "Don't expect too much. It couldn't be him...",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 102673,
+    "TextENGNew": "``Oh, Akasaka-san!@k@vS12/11/180700059. Thank you very much.@k@vS12/11/180700060. Did you have any trouble finding the store?``",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 102674,
+    "TextENGNew": "``I'm sorry, I got lost.@k@vS12/13/181300004. Who knows where I would be now if that nice postman didn't help me?@k@vS12/13/181300005. Hahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 102675,
+    "TextENGNew": "A young man was standing there.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 102676,
+    "TextENGNew": "He was wearing a casual outfit and holding a plastic bag in his hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 102677,
+    "TextENGNew": "...I always thought Akasaka wore a shirt and tie.@k He also seemed much smaller.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 102678,
+    "TextENGNew": "He looked at me as I stared at him.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 102679,
+    "TextENGNew": "...Normally, you look away when you make eye contact with a stranger.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 102680,
+    "TextENGNew": "But we stare at each other without averting our gazes.",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 102681,
+    "TextENGNew": "``......Is that you, Akasaka...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 102682,
+    "TextENGNew": "``...And you are... Rika-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 102683,
+    "TextENGNew": "``Huh? You know him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 102684,
+    "TextENGNew": "``Akasaka-san, you knew Furude-san?@k@vS12/11/180700062. That's a big surprise!``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 102685,
+    "TextENGNew": "``It's been so long.@k@vS12/13/181300008. ...You grew taller, didn't you...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 102686,
+    "TextENGNew": "``You seem stronger, too...``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 102687,
+    "TextENGNew": "This is Mamoru Akasaka.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 102688,
+    "TextENGNew": "He's a detective from the Tokyo Metropolitan Public Safety Department. He sometimes shows up in Hinamizawa in 1978...",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 102689,
+    "TextENGNew": "He has no relation to Hinamizawa or my deadly curse, but outside the village, he's the person I trust the most.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 102690,
+    "TextENGNew": "I've asked for his help in the past several times...",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 102691,
+    "TextENGNew": "But... nothing ever came of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 102692,
+    "TextENGNew": "He's from so far away.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 102693,
+    "TextENGNew": "He forgets about me once he returns to Tokyo.@k That's why I had given up on him.",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 102694,
+    "TextENGNew": "``Why are you here in Hinamizawa again...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 102695,
+    "TextENGNew": "``I left my daughter with my parents,@k@vS12/13/181300010. and I came here on a trip with my wife.``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 102696,
+    "TextENGNew": "``Your wife...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 102697,
+    "TextENGNew": "``Yes.@k@vS12/13/181300012. You saved her life.@k@vS12/13/181300013. Hahaha, you must have no idea.``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 102698,
+    "TextENGNew": "``Akasaka-san loves his wife so much.@k@vS12/11/180700064. Was it five years ago...?",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 102699,
+    "TextENGNew": "He was in Okinomiya for a business trip, but he suddenly abandoned his job to return to her side.@k@vS12/11/180700066. That's how much he loves her!``",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 102700,
+    "TextENGNew": "``Hau... That's so romantic...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 102701,
+    "TextENGNew": "``You warned me that something bad was going to happen if I didn't go back to Tokyo.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 102702,
+    "TextENGNew": "That really concerned me, so I went right back to the hospital where Yukie was...@k@vS12/13/181300016. Then I heard that a janitor got in an accident on the stairs that led to the rooftop that day.``",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 102703,
+    "TextENGNew": "The tiles on the stairs were loose.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 102704,
+    "TextENGNew": "The janitor fell down the stairs and got seriously injured.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 102705,
+    "TextENGNew": "I knew that was going to happen, because I'd seen him lose his mind after hearing about his wife's death in a life I lived a long time ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 102706,
+    "TextENGNew": "Falling down the stairs seems like just the luck of the draw.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 102707,
+    "TextENGNew": "I didn't think it would happen all the time, but it had happened to him over and over...",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 102708,
+    "TextENGNew": "So I thought there must be some kind of reason behind it.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 102709,
+    "TextENGNew": "I guessed it was because of the broken tiles on the stairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 102710,
+    "TextENGNew": "If he didn't show up at the hospital that day, his wife would've gone up those stairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 102711,
+    "TextENGNew": "It was her daily routine, but she didn't go because he showed up.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 102712,
+    "TextENGNew": "Meanwhile, the janitor went up the stairs and got injured...",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 102713,
+    "TextENGNew": "``Rika-chan saved Yukie's life.``",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 102714,
+    "TextENGNew": "``I'm not sure if that's really true...@k@vS12/11/180700068. But Akasaka-san has no doubt that you saved his wife's life.@k@vS12/11/180700069. He really wanted to meet you again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 102715,
+    "TextENGNew": "``Rika is good at predicting things sometimes, though...``",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 102716,
+    "TextENGNew": "``That's because she's the reincarnation of Oyashiro-sama!``",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 102717,
+    "TextENGNew": "``Oops.@k@vS12/11/180700071. Kuma-chan and Sato-san should be here soon.@k@vS12/11/180700072. We have to hurry, Akasaka-san.@k@vS12/11/180700073. Well, Maebara-san, let's do this again.@k@vS12/11/180700074. I'll teach you something more useful next time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 102718,
+    "TextENGNew": "``Sure!@k@vS12/01/180100384. Thank you very much!``",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 102719,
+    "TextENGNew": "``See you again, Rika-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 102720,
+    "TextENGNew": "``How long are you staying here, Akasaka?``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 102721,
+    "TextENGNew": "``I'll be here until after Watanagashi.@k@vS12/13/181300020. Hahaha, kind of long for a vacation, isn't it?@k@vS12/13/181300021. They told me that I need to use up my vacation days.@k@vS12/13/181300022. I just finished a big job, so my boss told me to take some time off.",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 102722,
+    "TextENGNew": "I'll be there at the festival.@k@vS12/13/181300024. I heard that it's going to be a huge event.``",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 102723,
+    "TextENGNew": "``Th-That's right.@k@vS12/05/180500447. It'll be more than just the drinking party you had last time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 102724,
+    "TextENGNew": "``Akasaka-san, let's go!``",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 102725,
+    "TextENGNew": "``You saved Yukie's life.@k@vS12/13/181300026. I'm going to make it up to you one day.@k@vS12/13/181300027. When that time comes, I'll lend you my strength.``",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 102726,
+    "TextENGNew": "I will be killed in June of 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 102727,
+    "TextENGNew": "``It's been five years, and I'm stronger and more experienced.@k@vS12/13/181300029. I'm different now.@k@vS12/13/181300030. I'm sure I can help you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 102728,
+    "TextENGNew": "I felt like I rolled a six without even throwing the die...",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 102729,
+    "TextENGNew": "Akasaka followed Ooishi and ran outside into the bright sunlight.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 102730,
+    "TextENGNew": "``.........Hanyuu, does this also seem like luck to you...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 102731,
+    "TextENGNew": "``......Au au...@k@vS12/12/181100132. It seems like fate is on your side this time...``",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 102732,
+    "TextENGNew": "``Remember that day we held a club activity in this toy store...?@k@vS12/05/180500450. The moment I refused to play the fishing game, this world started changing.@k@vS12/05/180500451. My strong will is changing the path of fate...``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 102733,
+    "TextENGNew": "My strong will is going to change my fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 102734,
+    "TextENGNew": "If I have a strong will, I can also change these results...",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 102735,
+    "TextENGNew": "We rode our bikes back home together.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 102736,
+    "TextENGNew": "I was in a good mood. I almost felt like humming a song.",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 102737,
+    "TextENGNew": "I could feel my deadly fate slowly falling to pieces.",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 102738,
+    "TextENGNew": "I felt like my fate was urging me to move on.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 102739,
+    "TextENGNew": "Just like the sun and the moon during an eclipse, the wheels of my fortune were perfectly matched for the first time in a long time.",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 102740,
+    "TextENGNew": "This really... might have been a miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 102741,
+    "TextENGNew": "This wasn't like the true miracle of Keiichi remembering the past. It was good fortune within expectations... but when it was arranged this well, it was enough to be considered a miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 102742,
+    "TextENGNew": "I couldn't remember the last time I felt so good in June of 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 102743,
+    "TextENGNew": "My name is Rika Furude.@k My ominous fate was moving away from me.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 102744,
+    "TextENGNew": "With each step I took, that deadly fate withdrew further and further.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 102745,
+    "TextENGNew": "I'd have to stay strong and take advantage of this miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 102746,
+    "TextENGNew": "I moved forward at high speed.@k Watanagashi was so close.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 102747,
+    "TextENGNew": "My luck and effort had brought about a miracle.@k And so, I will defeat my fate!",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 102748,
+    "TextENGNew": "``This time...@k@vS12/05/180500453. This time for sure...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 102749,
+    "TextENGNew": "``...Go for it, yay.``",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 102750,
+    "TextENGNew": "The next moment, something happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 102751,
+    "TextENGNew": "Keiichi had accidentally scratched a motorcycle that was parked by the street.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 102752,
+    "TextENGNew": "A group of three delinquents were trying to intimidate him.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 102753,
+    "TextENGNew": "``......Au au. What shall we do...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 102754,
+    "TextENGNew": "``Hmm... just watch.@k@vS12/05/180500455. I have the power to get rid of them now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 102755,
+    "TextENGNew": "``I think we should call the police...``",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 102756,
+    "TextENGNew": "``......Don't worry, Satoko.@k@vS12/05/180500457. Leave it up to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 102757,
+    "TextENGNew": "``R-Rika...?!@k@vS12/04/180400155. Hey, Rika!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 102758,
+    "TextENGNew": "I walked toward the delinquents even as they grabbed Keiichi by his collar.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 102759,
+    "TextENGNew": "What the hell are these pathetic guys...?",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 102760,
+    "TextENGNew": "Are they trying to stand in my way when I'm trying to have a happy future?",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 102761,
+    "TextENGNew": "I should teach them that nothing can stop me now!",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 102762,
+    "TextENGNew": "I know I'm rolling a six without even throwing the die...!",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 102763,
+    "TextENGNew": "``Say something, you punk!!",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 102764,
+    "TextENGNew": "Are you listening to me?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 102765,
+    "TextENGNew": "They continued to grab Keiichi's shirt.",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 102766,
+    "TextENGNew": "Keiichi, Mion and Rena were staring at them with a vicious look in their eyes.@k I got in between them.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 102767,
+    "TextENGNew": "``Huh?@k@vS12/00/badA18004. What the hell do you want?``",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 102768,
+    "TextENGNew": "``...Ouch!``",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 102769,
+    "TextENGNew": "``......Get the hell out of here.@k@vS12/05/180500459. Don't even think about ruining my fate...``",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 102770,
+    "TextENGNew": "I plucked his nose with my fingers again.",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 102771,
+    "TextENGNew": "He never expected that a little girl like me would attack him.",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 102772,
+    "TextENGNew": "He seemed surprised, but he quickly returned to being angry.@k Then he picks me up by my collar too.",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 102773,
+    "TextENGNew": "``R-Rika-chan!!@k@vS12/02/180200211. Stop it, you jerks! Let her go!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 102774,
+    "TextENGNew": "``......Au au au!@k@vS12/12/181100136. Rika...!@k@vS12/12/181100137. Do you have a plan...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 102775,
+    "TextENGNew": "``No, I don't.@k@vS12/05/180500461. But I'm trying to prove that this is nothing compared to the power I have now.@k@vS12/05/180500462. If I can't deal with this situation, I'll never escape from my deadly fate...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 102776,
+    "TextENGNew": "I rolled the die, knowing what I was going to get.@k I knew that I'd be rolling a six...!",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 102777,
+    "TextENGNew": "The next moment, two men in working overalls came up to the three delinquents and tapped them on the shoulders.",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 102778,
+    "TextENGNew": "``Let go of her.@k@vS12/14/183400002. She's just a little kid, you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 102779,
+    "TextENGNew": "``Who the hell are you?!@k@vS12/00/badB18002. They started the fight. Shut up and go away!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 102780,
+    "TextENGNew": "Those working men weren't just random people who were passing by.@k ...I knew who they were.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 102781,
+    "TextENGNew": "``Let's have a talk over there...``",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 102782,
+    "TextENGNew": "One of the men pushed the three delinquents to the side of the street.",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 102783,
+    "TextENGNew": "The other man spoke to me in a calm voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 102784,
+    "TextENGNew": "``Are you okay?@k@vS12/00/manB18003. Rika-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 102785,
+    "TextENGNew": "``......Thank you very much.@k@vS12/05/180500464. You saved us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 102786,
+    "TextENGNew": "He lent me his hand so I could stand up.",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 102787,
+    "TextENGNew": "``Off with you, now.@k@vS12/00/manB18005. We'll take care of the rest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 102788,
+    "TextENGNew": "``I don't know who you are, but thank you so much.``",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 102789,
+    "TextENGNew": "``Are you sure we can go now...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 102790,
+    "TextENGNew": "``Yes.@k@vS12/00/manB18007. Don't worry about us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 102791,
+    "TextENGNew": "``Th-Thank you very much...``",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 102792,
+    "TextENGNew": "``I can hardly believe that Keiichi-san was so weak...``",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 102793,
+    "TextENGNew": "``Let's go, everyone...``",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 102794,
+    "TextENGNew": "We got back on our bikes in a hurry, and left the scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 102795,
+    "TextENGNew": "They had no idea who saved us, but were glad that all of us were safe.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 102796,
+    "TextENGNew": "But I knew who they were...@k Those must have been the security guards who work for Takano...",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 102797,
+    "TextENGNew": "Takano kept her promise...",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 102798,
+    "TextENGNew": "Those guys are professional bodyguards.",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 102799,
+    "TextENGNew": "They only do what they are ordered to, but they make sure their mission is complete.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 102800,
+    "TextENGNew": "If Takano told them to protect me, that's the best protection I can get...!",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 102801,
+    "TextENGNew": "Everything was working in my favor for the first time ever.",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 102802,
+    "TextENGNew": "The pedals seemed so light that day.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 102803,
+    "TextENGNew": "I felt like I could fly into the sky if I wanted to...",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Investigation Is Back to Square One",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Investigation Has Begun\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 17019,
+    "TextENGNew": "Shingo Fujita wiped the sweat from his forehead as he stepped back onto the First Investigation Division floor and returned to his desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 17020,
+    "TextENGNew": "\"Good work, everyone. I'm bac— whoa?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation removes voice tags and changes quote style (`` to \"), changes 'Nice to see you. I'm back.' to 'Good work, everyone. I'm bac—' matching Japanese おつかれーっす。ただいま帰りま (casual greeting cut off mid-word). Old missed the cut-off.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 17021,
+    "TextENGNew": "He glanced diagonally forward to Assistant Director Minai's desk by the window, and his eyes went wide.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 17022,
+    "TextENGNew": "Stacked into a towering heap on the desk were colorful round wrappers — red, blue, yellow — ten, no, twenty... no, even more than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 17023,
+    "TextENGNew": "\"Wh-what are you eating...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 17024,
+    "TextENGNew": "\"Hamburgers. Can't you tell?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 17025,
+    "TextENGNew": "\"N-no, I'm not asking what, I'm asking about the quantity...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 17026,
+    "TextENGNew": "The sheer volume of hamburgers inspired nausea in him rather than appetite, and he looked away.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 17027,
+    "TextENGNew": "...Only to be rendered even more speechless when he saw the nearby trash can stuffed to overflowing with crumpled hamburger wrappers.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 17028,
+    "TextENGNew": "Surely not... this person sitting at the assistant director's desk hadn't eaten all of them herself, had she?",
+    "significantChanges": true,
+    "changeReason": "New translation 'this person sitting at the assistant director's desk hadn't eaten all of them herself, had she?' vs 'Could this person sitting alone have eaten all of these?' — adds 'herself' and specifies 'at the assistant director's desk' matching 次長席.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 17029,
+    "TextENGNew": "\"Ahm... fmhfimfahn. Hoh, dyoo fink sho?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 17030,
+    "TextENGNew": "\"...Please swallow before you talk.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 17031,
+    "TextENGNew": "\"Mph...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 17032,
+    "TextENGNew": "Tomoe reached over and grabbed the cup from her desk, clamped the straw between her lips, and took a long, vigorous slurp. ...Come on, even the drink is a sugary shake?",
+    "significantChanges": true,
+    "changeReason": "New translation 'took a long, vigorous slurp' vs 'vigorously inhaled' and 'even the drink is a sugary shake?' vs 'Even her beverage is junk food?' — different characterization: 'sugary shake' vs 'junk food'.",
+    "changeScore": 1
+  },
+  {
+    "index": 15,
+    "MessageID": 17033,
+    "TextENGNew": "\"Haaah... That's the spot~.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'That's the spot~' vs 'Time to take a breather~' — different meaning: one is about satisfaction from drinking, other about resting. Japanese 一息ついた means 'took a breather'.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 17034,
+    "TextENGNew": "\"...How much did you eat before 'taking a breather,' Minai-san? With all due respect... you never gain any weight, do you? At this point it's gone past strange and into outright eerie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 17035,
+    "TextENGNew": "\"Oh, hush. Physical work demands energy. And a brain pushed to its limits requires large quantities of sugar to recover. ...Do you have a complaint?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 17036,
+    "TextENGNew": "\"No, not exactly, but...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 17037,
+    "TextENGNew": "Fujita barely managed to stop himself from adding that there still had to be a limit.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 17038,
+    "TextENGNew": "...Nearly half a year had passed since he'd been placed under this female inspector whose baby face made it hard to believe she was the same age as him.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 17039,
+    "TextENGNew": "She was an elite from the so-called \"associate career track,\" personally recruited by Chief Yamaoki of the Kakiuchi precinct through his own connections.",
+    "significantChanges": true,
+    "changeReason": "New translation clarifies: 'personally recruited by Chief Yamaoki... through his own connections' vs old's 'personally assembled by Chief Yamaoki' — adds 人脈を駆使して (using connections) detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 17040,
+    "TextENGNew": "(That said, it could hardly be called smooth sailing at the start...)",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 17041,
+    "TextENGNew": "As is common in any organization, this precinct had its share of internal factions.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 17042,
+    "TextENGNew": "From the moment she was assigned, Tomoe was (unilaterally) branded an ally of the chief's faction, earning the jealousy and obstruction of the deputy chief's faction. She was subsequently elevated to the ceremonial title of \"Assistant Director\" — outranking section chiefs in name, but holding no real authority in the chain of command.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands: adds 'earning the jealousy and obstruction of the deputy chief's faction' and explains 'outranking section chiefs in name, but holding no real authority in the chain of command' — captures Japanese detail about ラインとしての権限を持たない名誉職 that old compressed.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 17043,
+    "TextENGNew": "...As a result, Fujita's official superior was technically Section Chief Yamamura of the First Investigation Division.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 17044,
+    "TextENGNew": "At first, both he and the other detectives felt some sympathy for Tomoe's situation, but their preconceptions about her being a young woman on a career track led them to watch her with a cool, \"let's see what she can do\" attitude.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 17045,
+    "TextENGNew": "(Most people would have gotten angry, or just sulked. ...But she was different.)",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 17046,
+    "TextENGNew": "Almost immediately upon taking her post, Tomoe demonstrated a boldness and sharp insight that put many of her male colleagues to shame, cracking a difficult case that had been on the verge of going cold.",
+    "significantChanges": true,
+    "changeReason": "New translation 'demonstrated a boldness and sharp insight that put many of her male colleagues to shame' vs old which omitted 男顔負け (putting men to shame). Also 'cracking a difficult case that had been on the verge of going cold' vs 'solve a difficult case just before it went unsolved'.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 17047,
+    "TextENGNew": "Without a trace of arrogance, she visited every kind of crime scene, worked day and night without sparing herself, and threw herself headlong into solving cases.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 17048,
+    "TextENGNew": "Overwhelmed by her single-minded dedication, Section Chief Yamamura and the rest of the First Investigation Division had come to recognize her as their true boss in both name and deed. Fujita was no exception.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 17049,
+    "TextENGNew": "And precisely because he genuinely respected her... he couldn't help feeling it was a tremendous waste — that if not for this ruinous eating habit, a woman of her looks and lively personality could have had her pick of any number of suitors...",
+    "significantChanges": true,
+    "changeReason": "New translation correctly captures 大食い癖 (big-eating habit) and changes meaning: old says 'they'd grown to respect her / deeply regretted' mixing subjects, while new clarifies it's about her eating habit being a waste given her looks.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 17050,
+    "TextENGNew": "\"Never mind that — how did your end of the investigation go? What was the Hatakeyama family like?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 17051,
+    "TextENGNew": "\"The son and his wife left early, so I spoke with them. I did a voluntary interview, but... I got nothing. They were completely closed off.\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures and removes voice tags but preserves core: got nothing from voluntary interview, they were closed off.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 17052,
+    "TextENGNew": "\"Closed off, huh... When I met with them before, they had quite a lot to say about Hinamizawa.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops 'Clams, huh...?' wordplay from Japanese 貝 (clam/clamming up).",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 17053,
+    "TextENGNew": "\"It seems like they're afraid of the curse now. Kazuma Hatakeyama's sudden transformation must have been an enormous shock for them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 17054,
+    "TextENGNew": "\"I suppose so. Once it happens to you directly, you can't laugh it off as superstition anymore, can you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 17055,
+    "TextENGNew": "Saying that, Tomoe popped another fry into her mouth.",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'potato chip' to 'fry' — ポテト in this context (from a hamburger restaurant) means fries, not chips. More accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 38,
+    "MessageID": 17056,
+    "TextENGNew": "...As Natsumi Kimiyoshi had testified, even among Hinamizawa natives it was mostly the elderly who truly believed in Oyashiro-sama's curse. Those of middle age and younger either laughed it off or at most held a vague, obligatory reverence.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 17057,
+    "TextENGNew": "The son and his wife had agreed to cooperate with the investigation precisely because their fear of the curse was relatively low.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 17058,
+    "TextENGNew": "That would probably no longer be the case going forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 17059,
+    "TextENGNew": "\"They may even resent the police, thinking we're the ones who set things in motion...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 17060,
+    "TextENGNew": "\"Come on... If we're going down that road, it started when they put him in the care facility to begin with. Blaming the police for it seems entirely misplaced, wouldn't you say?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 17061,
+    "TextENGNew": "\"They know that. Probably. But they don't want to admit it — the possibility that they themselves may have driven Kazuma Hatakeyama to his death.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 17062,
+    "TextENGNew": "Kazuma's son Masao Hatakeyama had struck Fujita as a kind-natured man in middle age from his very first impression. His wife Yoshiko was reportedly a caring woman well-liked in the neighborhood.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 17063,
+    "TextENGNew": "Both of them had shown genuine concern for Kazuma. When he lost his lifelong companion at the end of last year, it was reportedly Yoshiko rather than the son who had offered to have him live with them.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 17064,
+    "TextENGNew": "People of such exceptional warmth — this incident must have struck them with unbearable force.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 17065,
+    "TextENGNew": "\"Still... if that's the case, why did they put him in the care facility after only a few months of living together? Was there some kind of trouble?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 17066,
+    "TextENGNew": "\"According to the care staff, he became depressed after losing his wife and withdrew into himself. His legs deteriorated, and after he had to be taken by ambulance once, things became even harder...\"",
+    "significantChanges": true,
+    "changeReason": "New translation significantly restructures: 'His legs deteriorated, and after he had to be taken by ambulance once, things became even harder' better conveys the Japanese flow than old's 'his legs atrophied... It became too much to bear'.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 17067,
+    "TextENGNew": "\"He wouldn't respond even when his son, daughter-in-law, or grandchildren tried talking to him. So they thought maybe an environment surrounded by people his own age would help. And since Yoshiko was promoted from part-time to full-time work around then, the decision became unavoidable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 17068,
+    "TextENGNew": "Masao had apparently considered sending him back to Hinamizawa, but Yoshiko had opposed it, saying that in his current state it would be too hard on him.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 17069,
+    "TextENGNew": "Once Kazuma recovered, they had planned to sit down as a family and decide together whether he would come back to live with them or return to his hometown — so a neighbor woman who was close to them had told Tomoe...",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 17070,
+    "TextENGNew": "\"...There's just nothing you can do with something like this.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'There's just nothing you can do with something like this' vs 'It sounds unbearable' — different meaning: old is about emotional weight, new is about helplessness. Japanese やりきれない means unbearable/can't stand it.",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 17071,
+    "TextENGNew": "\"I know. If everything you did for someone's happiness ended up bringing them misery instead... what does kindness even mean?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 17072,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 17073,
+    "TextENGNew": "Fujita had no answer and let out a quiet sigh. Tomoe was silent for a moment as well, but then crumpled the empty fry box and tossed it in the trash, raising her eyes to look at him.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 17074,
+    "TextENGNew": "\"Well, good work. Sorry for dragging you along on my own agenda.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 17075,
+    "TextENGNew": "\"Oh, it's nothing. ...What are you going to do after this, Minai-san? If you're still planning to dig into the Hinamizawa angle, I'll come with you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 17076,
+    "TextENGNew": "\"Hmm...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 17077,
+    "TextENGNew": "Tomoe craned her neck to look out the window behind her. Through the narrow gap in the sun shade blinds, colorful neon signs flickered in the shadows of the buildings.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 17078,
+    "TextENGNew": "\"...I was hoping it might lead to some clue about the missing Ooishi-san, but it seems there's nothing more to be found here. I promised that girl it would be the last time, too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 17079,
+    "TextENGNew": "\"Um, Minai-san. Do you really think investigating Oyashiro-sama's curse will actually tell us something about the detective Ooishi's whereabouts? I have to admit I don't follow the logic...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 17080,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 17081,
+    "TextENGNew": "\"I'm sorry. I'm not trying to pick holes in your reasoning, it's just...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 17082,
+    "TextENGNew": "\"It's all right, Fujita-kun. I think I understand what you're getting at. Honestly, I'm not fully convinced myself. But...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 17083,
+    "TextENGNew": "...That phone call from Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 17084,
+    "TextENGNew": "Just hours after being asked to look into the body of a victim who had fallen to Oyashiro-sama's curse... the gas disaster struck Hinamizawa, and Ooishi... disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 17085,
+    "TextENGNew": "It might have been a coincidence. ...But the timing was far too convenient.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 17086,
+    "TextENGNew": "So by finding the truth of it, she thought she might be able to learn something of what he had been trying to uncover... but...",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 17087,
+    "TextENGNew": "\"Well... let's set this aside for now. It's not as though we don't have other work, and... the more I drag Fujita-kun around with me, the more his wife might start suspecting something, and that would be unpleasant in all sorts of ways, now wouldn't it♪\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 17088,
+    "TextENGNew": "\"M-Minai-san, you never let that go! Yuuko and I both apologized profusely for that, didn't we?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'M-Minai-san, you never let that go!' vs 'M-Minai-san, don't be nosy!' — 'never let that go' (しつこい = persistent) vs 'don't be nosy' — different meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 71,
+    "MessageID": 17089,
+    "TextENGNew": "\"Ahahahaha! Oh, this much is fine. It's just a lonely single woman letting off a little steam~. I'm keeping it in my arsenal as my trump card for times of need, to be treasured for life.\"",
+    "significantChanges": true,
+    "changeReason": "New translation completely changes meaning: old 'Your family is your treasure, so you should keep it close for life' vs new 'I'm keeping it in my arsenal as my trump card for times of need, to be treasured for life' — old misunderstood; new correctly translates 伝家の宝刀 (family heirloom sword/trump card) as Tomoe keeping the embarrassing incident as blackmail material.",
+    "changeScore": 2
+  },
+  {
+    "index": 72,
+    "MessageID": 17090,
+    "TextENGNew": "\"Y-you're a demon, you know that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 17091,
+    "TextENGNew": "\"Heheheh...! Anyway, how about it, Fujita-kun, want to join me? You must be hungry.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'how about it, Fujita-kun, want to join me? You must be hungry' vs old 'how about it, Fujita-kun? Do you want to head out? I'm feeling a little hungry' — old says SHE is hungry, new says HE must be hungry, matching Japanese おなか空いてるでしょ (you must be hungry).",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 17092,
+    "TextENGNew": "\"I'll pass.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 17093,
+    "TextENGNew": "\"...Quick answer. Can't handle my taste in food?\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Can't handle my taste in food?' vs 'Can you not handle the meals I recommend?' — same meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 17094,
+    "TextENGNew": "\"I like hamburgers fine. ...But staring at a mountain of them like that doesn't exactly whet my appetite.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'staring at a mountain of them like that doesn't exactly whet my appetite' vs old's awkward 'with that huge mass of flesh before my eyes, I can't bring myself to move a finger' — old misinterpreted 食指は動きません (appetite doesn't stir) as literally 'can't move a finger', and 量 (quantity) as 'mass of flesh'.",
+    "changeScore": 2
+  },
+  {
+    "index": 77,
+    "MessageID": 17095,
+    "TextENGNew": "\"What's that supposed to mean~! Are you calling me a glutton—?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Are you calling me a glutton—?!' vs old 'You make it sound like cannibalism...!' — old misinterpreted 大食い (big eater/glutton) as cannibalism. Significantly different.",
+    "changeScore": 2
+  },
+  {
+    "index": 78,
+    "MessageID": 17096,
+    "TextENGNew": "Just then.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 17097,
+    "TextENGNew": "A blaring alarm rang out across the entire floor, and the relaxed atmosphere snapped taut in an instant. A voice crackled through the speakers, mixed with static.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 17098,
+    "TextENGNew": "\"This is Prefectural Police Headquarters calling the Kakiuchi Station Criminal Investigation Division. Repeat — this is Prefectural Police Headquarters calling the Kakiuchi Station Criminal Investigation Division. A murder has occurred. The suspect's whereabouts are unknown. The location of the crime scene is—\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures the police dispatch announcement, removing old's quote marks for a more broadcast-style delivery.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 17099,
+    "TextENGNew": "Tomoe quickly jotted down the address as it was read out, then strode to the map board on the wall. She stopped, suddenly noticing Section Chief Yamamura standing beside it.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 17100,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 17101,
+    "TextENGNew": "\"—Go ahead.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 17102,
+    "TextENGNew": "Yamamura shrugged as if to say not to mind him, smiling and nodding. A genial man nearing retirement, he had recently delegated most of his duties and command authority to Tomoe.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 17103,
+    "TextENGNew": "Tomoe acknowledged the gesture with a nod, then ran her eyes quickly over the dispatch roster. She turned to face the detectives, who had already risen from their seats and stood waiting for her orders.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 17104,
+    "TextENGNew": "\"Takayashiki-san and Hanada-kun, take car number five! Handle forensics support! Yamagami-san and Andou-san, coordinate with the traffic division and manage the 4th block intersection — seal off the left-turn road!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 17105,
+    "TextENGNew": "\"Nakayama-kun and Shima-san, take the 3rd block intersection on the other side! And Fujita-kun, you're with me! Pull car number two around front!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 17106,
+    "TextENGNew": "\"\"Understood!!\"\"",
+    "significantChanges": true,
+    "changeReason": "New translation '\"\"Understood!!\"\"' vs '````Roger!!````' — different response words.",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 17107,
+    "TextENGNew": "\"Section Chief Yamamura! Depending on the situation we may need to contact headquarters — please handle that if it comes to it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 17108,
+    "TextENGNew": "\"Understood. I'm counting on you!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 17109,
+    "TextENGNew": "\"Yes sir!! All right everyone — move out!!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation '\"\"Yeahhhhh!!!\"\"' vs '````Let's gooooooo!!!````' — different exclamation for おおぉおぉっす.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 17110,
+    "TextENGNew": "\"\"Yeahhhhh!!!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 17111,
+    "TextENGNew": "At Tomoe's order, the detectives all burst from the floor at once, each trying to be first out the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 17112,
+    "TextENGNew": "But the next announcement from the speakers brought Tomoe to a halt in the hallway, and she turned back with a look of stunned disbelief.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 17113,
+    "TextENGNew": "\"— Update from the Prefectural Police Headquarters First Mobile Investigation Team. After investigators arrived on scene, the suspect is believed to have attempted suicide inside the residence. Suspect is unconscious — local detectives are to immediately secure a path for emergency vehicles and personnel.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 17114,
+    "TextENGNew": "\"The crime scene is a private residence. The victims are the suspect's wife and two children — all three confirmed dead. The suspect's name is — Masao Hatakeyama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 17115,
+    "TextENGNew": "\"—What... what?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 17116,
+    "TextENGNew": "...Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 17117,
+    "TextENGNew": "The incident still wasn't over.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 17118,
+    "TextENGNew": "On the contrary, it had barely begun.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Opening Lines of the Notebook",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Notebook's Beginning\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14857,
+    "TextENGNew": "A certain day in June, 1982.",
+    "significantChanges": true,
+    "changeReason": "New translation includes \"a certain day\" (某日), specifying this refers to a particular unidentified date, while old just says \"June, 1982.\"",
+    "changeScore": 1
+  },
+  {
+    "index": 2,
+    "MessageID": 14858,
+    "TextENGNew": "Satoshi Houjou disappeared several days after the Watanagashi festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14859,
+    "TextENGNew": "Thinking rationally, there are three possible explanations for his disappearance.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14860,
+    "TextENGNew": "The first is an accident of some kind.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14861,
+    "TextENGNew": "It is not unheard of for someone struck by a car to end up in an irrigation ditch, their body not discovered for months.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14862,
+    "TextENGNew": "However, the police conducted a thorough search of the areas Satoshi-kun frequented, and since nothing was found, this seems unlikely.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14863,
+    "TextENGNew": "The second possibility is voluntary disappearance.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14864,
+    "TextENGNew": "Satoshi-kun had been living under extreme psychological pressure.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies \"extreme psychological pressure\" matching JPN \"精神的に非常に追い詰められた,\" while old uses the vaguer \"dire circumstances\" which omits the psychological aspect.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 14865,
+    "TextENGNew": "In fact, he reportedly let slip to those around him that he wanted to vanish.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14866,
+    "TextENGNew": "The police believed he had killed his aunt and fled.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14867,
+    "TextENGNew": "Considering all these factors, that seemed the most plausible explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14868,
+    "TextENGNew": "However, after another suspect was identified as the actual killer, this theory was ruled out.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14869,
+    "TextENGNew": "The final possibility is that he fell victim to the Hinamizawa serial mysterious deaths -- commonly known as the curse of Oyashiro-sama -- and was made to disappear.",
+    "significantChanges": true,
+    "changeReason": "New translation uses \"was made to disappear,\" implying someone caused the disappearance, matching the context of this theory about the Oyashiro-sama curse being human-engineered, while old simply says \"disappeared.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 14870,
+    "TextENGNew": "Unless the occult existence of Oyashiro-sama can be proven, these incidents are unquestionably the work of human hands.",
+    "significantChanges": true,
+    "changeReason": "Old translates \"事件\" (incidents) as \"curse,\" while new correctly renders it as \"incidents,\" changing what is attributed to human agency.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 14871,
+    "TextENGNew": "The most reasonable conclusion is that Satoshi-kun was eliminated by someone.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14872,
+    "TextENGNew": "If so, the crucial question becomes: by whom?",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14873,
+    "TextENGNew": "To state my conclusion upfront:",
+    "significantChanges": true,
+    "changeReason": "JPN \"結論から言うと\" means \"to state the conclusion first,\" a rhetorical framing device. The old translation invents a different meaning (\"The possibilities are quite limited\").",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 14874,
+    "TextENGNew": "The culprit is almost certainly either the Sonozaki main family itself, or someone among the Three Families or their relatives who acted on the Sonozakis' wishes.",
+    "significantChanges": true,
+    "changeReason": "New translation captures \"その意向を汲んだ\" (acting on the Sonozakis' wishes/intent), specifying that relatives acted at the Sonozakis' direction rather than independently, which is absent from the old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 14875,
+    "TextENGNew": "...No, even the police could deduce this much.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14876,
+    "TextENGNew": "The real work begins from here.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14877,
+    "TextENGNew": "Specifically: who did it, by what means, and for what purpose?",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14878,
+    "TextENGNew": "Why did Satoshi-kun have to become a victim?",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14879,
+    "TextENGNew": "What was the motive?",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14880,
+    "TextENGNew": "Who gave out that order?",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14881,
+    "TextENGNew": "Who actually did it?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 14882,
+    "TextENGNew": "The mastermind, the perpetrator, and the truth itself --",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 14883,
+    "TextENGNew": "all of them lie close at hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 14884,
+    "TextENGNew": "Perhaps they are right behind me, just over my shoulder.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 14885,
+    "TextENGNew": "But even on one's own back, not every spot can be easily reached.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 14886,
+    "TextENGNew": "There are spots so awkward to reach that you must strain your shoulder joints and clench your teeth just to graze them with your fingertips.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14887,
+    "TextENGNew": "What I seek is hidden in just such a place.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14888,
+    "TextENGNew": "What I am about to record here...",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14889,
+    "TextENGNew": "...serves both as notes to organize my thoughts and as a confession of my own regrets.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits the entire second clause about the notes serving as \"a confession of my own regrets\" (悔悟を書き記したもの), which is a significant element of the writer's purpose.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 14890,
+    "TextENGNew": "I expect no eyes but my own will ever see these notes.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 14891,
+    "TextENGNew": "But if someone other than me should happen to read them...",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 14892,
+    "TextENGNew": "...it will mean either that I uncovered the truth and discarded these notes as no longer needed,@kor that I fell victim to the \"curse of Oyashiro-sama\" before reaching my goal, and only these notes survived.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 14893,
+    "TextENGNew": "If it is the former, then all is well.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 14894,
+    "TextENGNew": "...But if it is the latter...",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 14895,
+    "TextENGNew": "Then please --",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 14896,
+    "TextENGNew": "I need your help.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 14897,
+    "TextENGNew": "For the sake of this powerless, ordinary girl.",
+    "significantChanges": false
+  }
+]

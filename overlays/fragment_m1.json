@@ -1,0 +1,1574 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9362,
+    "TextENGNew": "That strange medicine — the one that refuses to stay in memory — was a capsule, I think.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 9363,
+    "TextENGNew": "Or perhaps a larger, oval-shaped tablet.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9364,
+    "TextENGNew": "It had such a vicious red to it... ah, then it must have been a capsule.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 9365,
+    "TextENGNew": "I can't imagine a tablet that shade of red.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 9366,
+    "TextENGNew": "Yes, it must have been a capsule.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 9367,
+    "TextENGNew": "...And I feel like it was just a little larger than a normal capsule.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 9368,
+    "TextENGNew": "...I think.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 9369,
+    "TextENGNew": "I think.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9370,
+    "TextENGNew": "...I can't remember.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9371,
+    "TextENGNew": "Even as hazy as my memory is, if I were to see that medicine again, I know I would remember it as clearly as if it were yesterday...",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 9372,
+    "TextENGNew": "That medicine takes things from you.",
+    "significantChanges": true,
+    "changeReason": "Old's \"strips away humanity\" more closely translates 人間を奪う (\"steals the human/person\"), while new's \"takes things from you\" significantly softens and generalizes the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 9373,
+    "TextENGNew": "...It takes your heart, takes your memory, takes your emotions, makes your body heavy and dull as lead.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 9374,
+    "TextENGNew": "You can't think of anything. Nothing interests you. You don't want to be awake and you don't want to be asleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 9375,
+    "TextENGNew": "Even the passage of time loses its shape — sometimes you've spent an eternity only to find the second hand has barely moved one tick,",
+    "significantChanges": true,
+    "changeReason": "Old reduces a detailed description of time distortion (時間の経過すらも曖昧になり, sometimes spending eternity while only a second passes) to just \"There's no sense of time,\" losing the specific imagery.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 9376,
+    "TextENGNew": "and sometimes you watch the hour hand sweep its full circle as if it were nothing.",
+    "significantChanges": true,
+    "changeReason": "Old includes content from the previous entry ('a second can feel like an eternity') along with the current entry's content about the hour hand — partial contamination from adjacent line rather than wrong meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 9377,
+    "TextENGNew": "...But whichever it is, you feel nothing about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 9378,
+    "TextENGNew": "The medicine makes sure of that.",
+    "significantChanges": true,
+    "changeReason": "Old renders 抱かせない as \"I can't feel emotion\" (narrator as agent) while the Japanese causative form means \"it won't let you feel\" — new's \"the medicine makes sure of that\" correctly attributes agency to the medicine.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 9379,
+    "TextENGNew": "...It's a medicine that leaves you with nothing to do but lie in your futon staring at the ceiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 9380,
+    "TextENGNew": "How terrible and painful a medicine it is — only those who have taken it could ever understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 9381,
+    "TextENGNew": "And the most terrifying thing about it is that while you're taking it, you cannot perceive just how terrifying it is.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 9382,
+    "TextENGNew": "...Day after day, adrift in that fog, unable to see that the medicine is destroying me, swallowing it one after another — I would lose myself forever, piece by piece.",
+    "significantChanges": true,
+    "changeReason": "Old drastically simplifies, omitting the key horror of being unable to recognize the medicine as harmful while in a foggy state — changed emotional register and missing nuance, but core meaning (medication causing loss of self) preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 9383,
+    "TextENGNew": "So when, by some chance or coincidence, the medicine's effect wore off—",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 9384,
+    "TextENGNew": "I realized I must never take that medicine again.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 9385,
+    "TextENGNew": "...Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 9386,
+    "TextENGNew": "This isn't medicine.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 9387,
+    "TextENGNew": "It's poison — poison designed to kill me slowly.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 9388,
+    "TextENGNew": "I'm certain that if I kept taking it, one day I would fall into a state where I could no longer tell whether I was living or dying, and I would never be able to reclaim myself again.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 9389,
+    "TextENGNew": "...Eternal days of nothing but lying there, staring at the ceiling without feeling, watching the clock hands go round and round.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 9390,
+    "TextENGNew": "If I took the medicine again, I would lose the thoughts I had only just managed to reclaim.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 9391,
+    "TextENGNew": "...And I might never find myself again.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 9392,
+    "TextENGNew": "...From the day I understood this, I began pretending to take the medicine and throwing it away.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 9393,
+    "TextENGNew": "\"When the doctor gives you medicine, make sure you take it all the way to the end — even after you feel better.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 9394,
+    "TextENGNew": "That's my mother's voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 9395,
+    "TextENGNew": "Her voice from every time I was given medicine at the hospital when I was little.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 9396,
+    "TextENGNew": "The voice she used to talk sense into me when I'd get well before the medicine ran out and stop taking it.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 9397,
+    "TextENGNew": "But this medicine is different.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 9398,
+    "TextENGNew": "That voice — the one from an age I can no longer even recall — telling me to take every last capsule even of this garish poison, I drive it out of my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 9399,
+    "TextENGNew": "I clamp my head firmly between my elbows, press down hard enough to make it ache... and I drive out both the conviction that I must keep taking the medicine, and my mother's voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 9400,
+    "TextENGNew": "Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 9401,
+    "TextENGNew": "...As the fog thinned, the true, ugly nature of my gentle mother came back to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 9402,
+    "TextENGNew": "My mother betrayed the family.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 9403,
+    "TextENGNew": "...She betrayed me and my father, who waited at home for her and had three plates of food ready.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 9404,
+    "TextENGNew": "She betrayed our family's trust, secretly meeting another man in the shadows, claiming to be busy with work while she made herself part of a different family.",
+    "significantChanges": true,
+    "changeReason": "Old condenses to \"having an affair\" while the Japanese details: secretly meeting another man (別の男と密会を重ね), claiming work was busy, and placing herself in a different family — new preserves these specifics.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 9405,
+    "TextENGNew": "That alone was a devastating betrayal — and yet she committed an even greater crime by delivering her absolute rejection to my father, who had devoted himself so tenderly to caring for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 9406,
+    "TextENGNew": "But there was something I couldn't forgive even more than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 9407,
+    "TextENGNew": "...She tried to take me with her — to that family I could never belong to.",
+    "significantChanges": true,
+    "changeReason": "Old adds \"new family\" and \"only me\" not yet established in the Japanese; the Japanese 私とは相容れない家族に誘った means \"invited me to a family incompatible with me\" — new captures the incompatibility element.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 9408,
+    "TextENGNew": "She didn't invite Father. She invited only me.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 9409,
+    "TextENGNew": "Father and I are a family.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 9410,
+    "TextENGNew": "Family means being together.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 9411,
+    "TextENGNew": "She tried to split that family apart.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 9412,
+    "TextENGNew": "Not content with her affair alone, she attempted to sever even the bond between me and my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 9413,
+    "TextENGNew": "Yes, of course — thinking back on it now, it was something truly unforgivable, something maddening, something I could despise forever...",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 9414,
+    "TextENGNew": "The back of my eyes began to throb, and I could feel the ferocity of my hatred distorting my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 9415,
+    "TextENGNew": "The hatred spilled over and would not stop, no longer contained to my mother alone — it reached toward the man, her lover.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 9416,
+    "TextENGNew": "...Her lover.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 9417,
+    "TextENGNew": "Uncle Akihito.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 9418,
+    "TextENGNew": "He used to tease me and I wasn't comfortable around him — but he gave me pocket money, and he was a cheerful man who always tried to make me happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 9419,
+    "TextENGNew": "I loved him like a dear uncle.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 9420,
+    "TextENGNew": "But all that kindness was calculated.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 9421,
+    "TextENGNew": "Calculated to shatter the bond of the family that was built from me and Father and Mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 9422,
+    "TextENGNew": "...That's why I should never have called Uncle Akihito a dear uncle...!",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 9423,
+    "TextENGNew": "Yes, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 9424,
+    "TextENGNew": "It keeps coming back to me, becoming clearer and clearer.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 9425,
+    "TextENGNew": "I can see who my true enemies are.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 9426,
+    "TextENGNew": "The reason Mother had her affair was Uncle Akihito's fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 9427,
+    "TextENGNew": "Because Mother was, truly, a wonderful mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 9428,
+    "TextENGNew": "And it was Uncle Akihito who turned her into a terrible one.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 9429,
+    "TextENGNew": "So the most guilty one is Uncle Akihito.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 9430,
+    "TextENGNew": "When exactly did Uncle Akihito first appear before me?",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 9431,
+    "TextENGNew": "Going out with Mother, having lunch at some department store — wasn't it then that a man calling himself a colleague of hers sat down with us?",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 9432,
+    "TextENGNew": "That time.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 9433,
+    "TextENGNew": "...Now that I think of it, back at the very first moment—",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 9434,
+    "TextENGNew": "Didn't I sense something wrong in the way Mother treated Uncle Akihito? A wrongness, a revulsion?",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 9435,
+    "TextENGNew": "Yes, of course — I really did feel it.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 9436,
+    "TextENGNew": "I thought something was strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 9437,
+    "TextENGNew": "I thought something felt disgusting.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 9438,
+    "TextENGNew": "...I should never have doubted that intuition.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 9439,
+    "TextENGNew": "...How foolish I was, to think Uncle Akihito was a kind person simply because he gave me the strawberry from his shortcake...!",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 9440,
+    "TextENGNew": "Father bears no responsibility in any of this.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 9441,
+    "TextENGNew": "He never met Uncle Akihito even once.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 9442,
+    "TextENGNew": "But I do bear responsibility.",
+    "significantChanges": true,
+    "changeReason": "Old's \"But I have\" is an ambiguous fragment (should reference responsibility from the Japanese 私には責任がある = \"I bear responsibility\"); new makes the meaning explicit.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 9443,
+    "TextENGNew": "...I met the enemy that was Uncle Akihito many times, and there were countless opportunities when I could have recognized him for what he was.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 9444,
+    "TextENGNew": "Meaning that if I had only held a firm will to protect the happiness I had — if I hadn't been swayed by small acts of kindness — perhaps I could have seen that man as my enemy...!",
+    "significantChanges": true,
+    "changeReason": "Old captures the core idea (strong will could have helped notice something) but omits the specific details about being misled by deceptions and recognizing 'that man' as an enemy — loses narrative specificity.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 9445,
+    "TextENGNew": "I can't forget that day — Father's face.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 9446,
+    "TextENGNew": "Gentle, good-natured Father — digging his nails into his knees, weeping in great falling drops. I can't forget that Father.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 9447,
+    "TextENGNew": "He asked me, did I know about Uncle Akihito? And I answered yes, I knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 9448,
+    "TextENGNew": "And Father slapped me.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 9449,
+    "TextENGNew": "...It was only after being slapped that I finally understood.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 9450,
+    "TextENGNew": "What a foolish thing it had been — to have been so won over by that man.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 9451,
+    "TextENGNew": "Yes, of course... it was my fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 9452,
+    "TextENGNew": "...The small happiness I had wished would go on forever — I shattered it with my own hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 9453,
+    "TextENGNew": "If I hadn't been so foolish, Father would never have wept that day, and Mother would have stayed a good mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 9454,
+    "TextENGNew": "If only I hadn't been so foolish...!",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 9455,
+    "TextENGNew": "My fault, my fault...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 9456,
+    "TextENGNew": "I can't forgive Mother, I can't forgive Uncle Akihito.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 9457,
+    "TextENGNew": "Ah — and what I cannot forgive even more is myself, still calling him 'uncle' as a term of affection even as I curse him with everything I have...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 9458,
+    "TextENGNew": "It was my fault, everything was my fault!",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 9459,
+    "TextENGNew": "Because I was so stupid and foolish that it came to this!!",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 9460,
+    "TextENGNew": "Full of hatred and sorrow, humiliation and rage that wouldn't cool!",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 9461,
+    "TextENGNew": "If Mother ever came back to this house, I was going to tear her apart with my own fingernails!!",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 9462,
+    "TextENGNew": "But Mother never came back.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 9463,
+    "TextENGNew": "The rage that had nowhere to go turned itself on every trace of her that remained within reach.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 9464,
+    "TextENGNew": "I smashed everything she had left behind in the house, one after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 9465,
+    "TextENGNew": "Pounding, shattering, breaking.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 9466,
+    "TextENGNew": "But my rage wouldn't be satisfied with that much.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 9467,
+    "TextENGNew": "I turned the whole house upside down and still my rage, with nowhere to go, would not quiet in the least.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 9468,
+    "TextENGNew": "Where does rage gather?",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 9469,
+    "TextENGNew": "It wells up from deep in the chest, travels through the arms, collects in the fingertips, bursts out through the nails.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 9470,
+    "TextENGNew": "Where else is there to strike it?",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 9471,
+    "TextENGNew": "...When that thought came to me, my nails turned naturally on my own body.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 9472,
+    "TextENGNew": "Yes — by now, it was my own body that was most accursed, most unclean.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 9473,
+    "TextENGNew": "I was the root cause of everything, I was the worst of all.",
+    "significantChanges": true,
+    "changeReason": "Old understates 私が全ての元凶で私が一番悪い (\"I am the root cause of everything, the worst of all\") as merely \"I am the one to be blamed.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 9474,
+    "TextENGNew": "No, no, no — I'm not the bad one, Mother is the worst, Mother is the most unclean!",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 9475,
+    "TextENGNew": "Everything about me — body and soul — is unclean!!",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 9476,
+    "TextENGNew": "I wanted to defile Rena Ryuugu utterly, leave nothing but scraps of flesh!!",
+    "significantChanges": true,
+    "changeReason": "Old translates 竜宮礼奈を穢し尽くし as \"stain myself\" instead of naming \"Rena Ryuugu\" — the Japanese explicitly uses the character's full name, showing self-alienation, which old misses.",
+    "changeScore": 4
+  },
+  {
+    "index": 116,
+    "MessageID": 9477,
+    "TextENGNew": "And then one day, I came to know it at last.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 9478,
+    "TextENGNew": "That within the blood filling me, within my veins... something unknowable existed.",
+    "significantChanges": true,
+    "changeReason": "Old invents \"maggots\" not present in the Japanese (得体のしれない何か = \"something unknowable/unidentifiable\"); new correctly translates the vague, mysterious nature of what the narrator perceives in her blood.",
+    "changeScore": 5
+  },
+  {
+    "index": 118,
+    "MessageID": 9479,
+    "TextENGNew": "Yes... I was filthy from the inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 9480,
+    "TextENGNew": "And my heart, too, had grown murky and stagnant...!",
+    "significantChanges": true,
+    "changeReason": "Old's \"Come on, rot more\" is not present in the Japanese (心さえも濁って、淀んで = \"my heart grew murky and stagnant\"); new correctly translates the description of emotional degradation.",
+    "changeScore": 4
+  },
+  {
+    "index": 120,
+    "MessageID": 9481,
+    "TextENGNew": "So that was why my skin itched all over — itched and itched and itched and itched and itched and itched!",
+    "significantChanges": true,
+    "changeReason": "Old omits the causal connection (だから、そのせいで = \"that's why\") and the Japanese's frantic repetition of 痒くて (itchy) that conveys the escalating desperation.",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 9482,
+    "TextENGNew": "When I carelessly injured myself in a minor accident... blood welled up from the wound.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates graphic details (\"stabbed my thigh with a razor blade in the bathroom,\" \"reddish-black maggots\") not present in the Japanese (ちょっとした不注意で怪我 = \"a small careless injury\"); new accurately translates the understated original.",
+    "changeScore": 5
+  },
+  {
+    "index": 122,
+    "MessageID": 9483,
+    "TextENGNew": "And mingled with that blood... something revolting began to show itself...!",
+    "significantChanges": true,
+    "changeReason": "Old fabricates \"forced myself to open blood vessels with my thumbs\" and \"maggots\" not in the Japanese (気持ちの悪い何か = \"something disgusting/foul\"); new correctly translates the vague horror.",
+    "changeScore": 5
+  },
+  {
+    "index": 123,
+    "MessageID": 9484,
+    "TextENGNew": "Crawling, crawling, crawling, crawling crawling crawling crawling, crawling crawling crawling crawling crawling crawling crawling...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 9485,
+    "TextENGNew": "This repulsive \"thing\" wasn't limited to where I was injured.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates \"maggots from my left thigh\" and \"right thigh\" not in the Japanese (不快な『モノ』= \"unpleasant Thing\"); new correctly translates the abstract, unnamed horror spreading beyond the wound.",
+    "changeScore": 5
+  },
+  {
+    "index": 125,
+    "MessageID": 9486,
+    "TextENGNew": "Arms, legs, stomach, face, head — I couldn't stop feeling it seething and crawling all through every part of my body, squirming through me...!!",
+    "significantChanges": true,
+    "changeReason": "Old lists wrong body parts (calves, chest, neck) vs the Japanese (腕/arms, 足/legs, お腹/stomach, 顔/face, 頭/head) and invents \"maggots in neck blood vessels\"; new correctly translates the body part list.",
+    "changeScore": 4
+  },
+  {
+    "index": 126,
+    "MessageID": 9487,
+    "TextENGNew": "Strangely enough, even as I felt horror and revulsion at this Thing mixed into the deep red blood, a part of me remained calm.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 9488,
+    "TextENGNew": "And I thought, with surprising calm, that if the blood still flowing from this wound didn't stop, I would eventually die.",
+    "significantChanges": true,
+    "changeReason": "Old invents \"ripping myself apart\" not in the Japanese; the original describes passively observing blood flowing from a wound (この傷からあふれる血液が止まらなかったら) and calmly acknowledging potential death.",
+    "changeScore": 5
+  },
+  {
+    "index": 128,
+    "MessageID": 9489,
+    "TextENGNew": "But everything was my responsibility, and I was the worst of all.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 9490,
+    "TextENGNew": "Even if I blamed it on Mother, there was nothing left in my heart with which to accuse her.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates as \"the only way I can disgrace her is with my own body\" while the Japanese means \"I no longer had the mental/emotional capacity to accuse her\" (非難するだけの余裕が心に残っていなくて).",
+    "changeScore": 4
+  },
+  {
+    "index": 130,
+    "MessageID": 9491,
+    "TextENGNew": "...Ah, yes. I see.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 9492,
+    "TextENGNew": "The only way to put an end to my rage was to hurt myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 9493,
+    "TextENGNew": "...I think I was reasoning through it in a remarkably clear-headed way.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 9494,
+    "TextENGNew": "So in order to grant myself absolution... I needed a fault that wasn't my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 9495,
+    "TextENGNew": "Someone else's fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 9496,
+    "TextENGNew": "Such a thing didn't exist.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 9497,
+    "TextENGNew": "No matter how I thought, no matter how I twisted it, hurting myself was the only outlet for my anger.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 9498,
+    "TextENGNew": "So as long as no fault other than my own existed, I had no choice but to go on this way — hurting myself, suffering, being in pain.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 9499,
+    "TextENGNew": "...The way I must have looked right then, seen from outside — it must have been truly ghastly.",
+    "significantChanges": true,
+    "changeReason": "Old is an entirely different sentence (\"no matter how much I scratch/rip\") while the Japanese describes the narrator stepping outside herself to observe how ghastly she must look (客観的に見たら凄惨).",
+    "changeScore": 4
+  },
+  {
+    "index": 139,
+    "MessageID": 9500,
+    "TextENGNew": "Even as I kept up a pretense of composure, the sharp pain running all through me could not be deceived.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 9501,
+    "TextENGNew": "From all the blood that had spilled — or perhaps that was why — my whole body was cold, frozen deep from within.",
+    "significantChanges": true,
+    "changeReason": "Old invents \"naked in the bathroom\" not in the Japanese; the original attributes the cold to blood loss (血が溢れすぎた) and feeling frozen from within (奥から凍るように).",
+    "changeScore": 4
+  },
+  {
+    "index": 141,
+    "MessageID": 9502,
+    "TextENGNew": "And yet my whole body throbbed and ached, my heart hammering like a warning bell.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 9503,
+    "TextENGNew": "Cold and hot, in pain, in sorrow, in rage.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 9504,
+    "TextENGNew": "...I sought, from the bottom of my heart, for something that could grant me forgiveness.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 9505,
+    "TextENGNew": "And then, at that moment... it arrived.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 9506,
+    "TextENGNew": "I feel as though it arrived amid a sacred light.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 9507,
+    "TextENGNew": "Something utterly mysterious, mystical, bearing no sense of reality whatsoever.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 9508,
+    "TextENGNew": "It apologized.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 9509,
+    "TextENGNew": "I'm sorry, it said — over and over, it apologized.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 9510,
+    "TextENGNew": "Why was this Something apologizing to me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 9511,
+    "TextENGNew": "An apology is something offered when a sin has been confessed.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 9512,
+    "TextENGNew": "...This Something I was meeting for the very first time acknowledged the wrong it had done to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 9513,
+    "TextENGNew": "Which meant... I hadn't done anything wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 9514,
+    "TextENGNew": "...The one who was truly at fault was this Something.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 9515,
+    "TextENGNew": "Aha... ahahahahahaha...?",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 9516,
+    "TextENGNew": "The pain from all over my body surged over me.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 9517,
+    "TextENGNew": "And with it, the pain in my heart surged too.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 9518,
+    "TextENGNew": "...Up until a moment ago, I had been telling myself this pain was a punishment I deserved.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 9519,
+    "TextENGNew": "But since I hadn't done anything wrong — since it was truly this Something's fault — I didn't have to accept this pain as my punishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 9520,
+    "TextENGNew": "...So I didn't have to hurt my own body anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 9521,
+    "TextENGNew": "She went on apologizing — on and on, endlessly — to me as I lay crushed at the bottom of self-loathing.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 9522,
+    "TextENGNew": "Every time I wanted to blame myself, she apologized, and kept whispering to me that it wasn't my fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 9523,
+    "TextENGNew": "Oyashiro-sama is here.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 9524,
+    "TextENGNew": "She is always beside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 9525,
+    "TextENGNew": "Pitter-patter, pitter-patter.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 9526,
+    "TextENGNew": "And every time I came close to breaking under the weight of my guilt, she apologized and told me — Rena did nothing wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 9527,
+    "TextENGNew": "It was all Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 9528,
+    "TextENGNew": "...Because we broke the prohibition against leaving Hinamizawa, everything went wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 9529,
+    "TextENGNew": "...Now I remember.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 9530,
+    "TextENGNew": "When we moved away from Hinamizawa, the old woman next door gave me a charm.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 9531,
+    "TextENGNew": "She said that those who leave Hinamizawa will suffer Oyashiro-sama's curse, so take this protective charm with you.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 9532,
+    "TextENGNew": "Yes, she did — she really did give it to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 9533,
+    "TextENGNew": "She gave me something that looked like formal paper, with difficult-looking writing in brush ink.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 9534,
+    "TextENGNew": "But I can't recall ever seeing it again after we moved.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 9535,
+    "TextENGNew": "It must have gotten lost somewhere in the move.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 9536,
+    "TextENGNew": "Then there was nothing for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 9537,
+    "TextENGNew": "Those who are of Hinamizawa and leave — that is their destined fate: to suffer the curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 9538,
+    "TextENGNew": "Me and Mother, and perhaps even Uncle Akihito — we had all gone wrong because of Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 9539,
+    "TextENGNew": "No one was ever wrong in the first place.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 9540,
+    "TextENGNew": "Because it was all Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 9541,
+    "TextENGNew": "No one is wrong, no one, no one, no one!",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 9542,
+    "TextENGNew": "At last I could forgive everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 9543,
+    "TextENGNew": "The rage that had defiled everything around me and myself, body and soul, and still would not be satisfied — it had finally quieted.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 9544,
+    "TextENGNew": "Father.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 9545,
+    "TextENGNew": "...I finally understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 9546,
+    "TextENGNew": "That Mother left us, that both you and I have been made so sad — it was all Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 9547,
+    "TextENGNew": "Father, do you remember Oyashiro-sama?",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 9548,
+    "TextENGNew": "Oyashiro-sama — the guardian deity of Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 9549,
+    "TextENGNew": "...Yes, that's right.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 9550,
+    "TextENGNew": "The people of Hinamizawa must not venture out into the defiled secular world — that's how it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 9551,
+    "TextENGNew": "That's why Mother became 'unclean.'",
+    "significantChanges": true,
+    "changeReason": "Old translates 汚れて (\"became defiled/unclean\") as \"went insane\" — the Japanese uses the specific concept of ritual impurity (汚れ), which is thematically crucial to the curse narrative; new preserves this with \"became unclean.\"",
+    "changeScore": 4
+  },
+  {
+    "index": 191,
+    "MessageID": 9552,
+    "TextENGNew": "That's why it's Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 9553,
+    "TextENGNew": "If our family had never left Hinamizawa, surely we would still be happy now.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 9554,
+    "TextENGNew": "Oyashiro-sama came to me to tell me that.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 9555,
+    "TextENGNew": "Now that I think of it, Oyashiro-sama had been trying to tell me all along.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 9556,
+    "TextENGNew": "Since back when Mother left, when I had no idea what had caused it all, when I didn't know what to direct my anger toward — she was always following me, trying to tell me.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 9557,
+    "TextENGNew": "Following me all that time.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 9558,
+    "TextENGNew": "Softly, quietly.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 9559,
+    "TextENGNew": "But I pretended not to notice.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 9560,
+    "TextENGNew": "...Ahaha, I'm so dense, aren't I.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 9561,
+    "TextENGNew": "I couldn't hear Oyashiro-sama's voice until I had cut up my body this much.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 9562,
+    "TextENGNew": "If only I had listened more closely to Oyashiro-sama's voice —",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 9563,
+    "TextENGNew": "...I think she may have been warning me from around the time Uncle Akihito appeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 9564,
+    "TextENGNew": "Because, because — if we had all gone back to Hinamizawa as a family, Mother never would have had an affair.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 9565,
+    "TextENGNew": "We could have lived happily there, the three of us in Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 9566,
+    "TextENGNew": "That's what Oyashiro-sama had been trying to say — yes, that's right — Oyashiro-sama must have been trying to tell us from the moment we left Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 9567,
+    "TextENGNew": "She was always with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 9568,
+    "TextENGNew": "Always, always, following me wherever I went.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 9569,
+    "TextENGNew": "It was foolish of me to dismiss it as imagination, to pretend I hadn't noticed.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 9570,
+    "TextENGNew": "...Yes, because I was so foolish it came to this.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 9571,
+    "TextENGNew": "...If I had only heard Oyashiro-sama's voice, our family would never have been made unhappy by the curse...!",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 9572,
+    "TextENGNew": "I was foolish, I was dense — it's all my fault!!",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 9573,
+    "TextENGNew": "Ah, Oyashiro-sama is apologizing, she keeps apologizing — that it's her own fault things came to this...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 9574,
+    "TextENGNew": "Yes, of course — so it isn't my fault, is it?",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 9575,
+    "TextENGNew": "Because this is all Oyashiro-sama's curse, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 9576,
+    "TextENGNew": "She's apologizing, apologizing — I'm sorry, I'm sorry, I'm sorry!",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 9577,
+    "TextENGNew": "Oyashiro-sama is apologizing so much!!",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 9578,
+    "TextENGNew": "So I'm sorry too — I'm sorry, I'm sorry, I'm sorry!!",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 9579,
+    "TextENGNew": "I'm sorry I couldn't hear your voice — I'm sorry, I'm sorry, I'm sorry!!",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 9580,
+    "TextENGNew": "We are people of Hinamizawa — we must always be listening for your voice!!",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 9581,
+    "TextENGNew": "Ah, she's here — Oyashiro-sama is here, she's really here!",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 9582,
+    "TextENGNew": "Can't you hear her, Father?",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 9583,
+    "TextENGNew": "Can't you see her?",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 9584,
+    "TextENGNew": "She's apologizing right there, right now — I'm sorry, I'm sorry!!",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 9585,
+    "TextENGNew": "I'll apologize too — Father, let's both apologize! Mother doesn't need to apologize — Mother can just die from Oyashiro-sama's curse!!",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 9586,
+    "TextENGNew": "I hate Mother, I hate her, I hate her, I hate her!!",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 9587,
+    "TextENGNew": "I hate that Mother's blood flows through my veins!!",
+    "significantChanges": true,
+    "changeReason": "Old translates お母さんの血が私に流れているのが憎い as 'I hate myself for being your daughter' — captures the self-directed hatred related to the mother, but loses the specific blood imagery that connects to the broader blood/parasite horror theme.",
+    "changeScore": 3
+  },
+  {
+    "index": 227,
+    "MessageID": 9588,
+    "TextENGNew": "So all this pain and suffering is Mother's fault — the something in my blood is thrashing around making me itch!!",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 9589,
+    "TextENGNew": "I'm sorry, I'm sorry!!",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 9590,
+    "TextENGNew": "I'm sorry, I'm sorry!",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 9591,
+    "TextENGNew": "No — no! I won't take that medicine!!",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 9592,
+    "TextENGNew": "That's something that hateful, hateful Mother brought — so I won't have it, I won't take it!!",
+    "significantChanges": true,
+    "changeReason": "Old adds \"to kill me\" not present in the Japanese (憎い憎いお母さんが持ってきたもの = \"thing that hateful Mother brought\"); new accurately preserves the emotional accusation without the fabricated intent.",
+    "changeScore": 4
+  },
+  {
+    "index": 232,
+    "MessageID": 9593,
+    "TextENGNew": "I said I won't take it, stop it, stop!!",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 9594,
+    "TextENGNew": "This is a curse — medicine can't heal it!",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 9595,
+    "TextENGNew": "The itch in my body can't be cured by medicine — because it's a curse!!",
+    "significantChanges": true,
+    "changeReason": "Old substitutes \"maggots\" for the Japanese 痒み (\"itch/itchiness\"); new correctly translates the symptom as bodily itching, which is the actual Hinamizawa Syndrome symptom.",
+    "changeScore": 4
+  },
+  {
+    "index": 235,
+    "MessageID": 9596,
+    "TextENGNew": "I don't want a shot either — stop it, stop!!",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 9597,
+    "TextENGNew": "It hurts — it hurts, it hurts, it hurts, it hurts...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 9598,
+    "TextENGNew": "......The world drains down into grey.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 9599,
+    "TextENGNew": "Father's voice, the doctor's voice, clamoring around me — like something happening far away.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 9600,
+    "TextENGNew": "Even what happened just a moment ago feels like the distant past.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 9601,
+    "TextENGNew": "...And they give me that capsule again, and even the vivid memories of this moment are buried in the depths of forgetting...",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 9602,
+    "TextENGNew": "......Once again I am lying in my futon, staring at nothing but the ceiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 9603,
+    "TextENGNew": "The only thing in my field of vision that moves, the only thing that holds my interest, is the clock's hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 9604,
+    "TextENGNew": "...Tick-tock, tick-tock.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 9605,
+    "TextENGNew": "Watching the minute hand sweep around, watching the hour hand trace its slow circle.",
+    "significantChanges": true,
+    "changeReason": "Old translates 夕暮れ時 (\"dusk/twilight\") as \"night,\" changing the time of day; new correctly renders it as \"at dusk.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 245,
+    "MessageID": 9606,
+    "TextENGNew": "Other things enter my view.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 9607,
+    "TextENGNew": "Those too, like the clock hands, repeat the same thing over and over, endlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 9608,
+    "TextENGNew": "I'm sorry. I'm sorry.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 9609,
+    "TextENGNew": "I'm sorry — it's my fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 9610,
+    "TextENGNew": "...Oyashiro-sama goes on apologizing endlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 9611,
+    "TextENGNew": "Tick-tock. Tick-tock. I'm sorry. I'm sorry.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 9612,
+    "TextENGNew": "Tick-tock. Tick-tock. I'm sorry. I'm sorry.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 9613,
+    "TextENGNew": "...That alone goes on and on and on, repeating......",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 9614,
+    "TextENGNew": "The cry of the higurashi, stealing in through the window from outside at dusk, seemed — for some reason — to ring especially loud...",
+    "significantChanges": false
+  }
+]

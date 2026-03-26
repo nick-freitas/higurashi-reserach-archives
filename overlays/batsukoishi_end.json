@@ -1,0 +1,240 @@
+[
+  {
+    "index": 1,
+    "MessageID": 157129,
+    "TextENGNew": "\"Oishi-san, are you there? There's an outside call for you — from a civilian.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 157130,
+    "TextENGNew": "\"Wh-Why can't I declare ron?! Ah, please wait, Oishi-saaaan!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 157131,
+    "TextENGNew": "\"Oh, excuse me for a moment! I'll be right back!\"",
+    "significantChanges": true,
+    "changeReason": "Old translation adds 'thank you' not in original; new translation correctly renders ちょいと失礼 as 'excuse me for a moment,' better matching the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 157132,
+    "TextENGNew": "The man sitting across from Oishi was waving a receiver at him.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 157133,
+    "TextENGNew": "\"Outside line. Public telephone.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 157134,
+    "TextENGNew": "\"Aah, terribly sorry! ...Sorry for the wait, this is Oishi. Hello?\"",
+    "significantChanges": true,
+    "changeReason": "Old translation renders もしもし as 'Who is this?' while new correctly translates it as 'Hello?' — a standard Japanese phone greeting, not a demand for identification.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 157135,
+    "TextENGNew": "\"I-Is that you, Oishi-san?! Hello?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 157136,
+    "TextENGNew": "\"Well, if it isn't Maebara-san. Good afternoon, what brings you to call?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 157137,
+    "TextENGNew": "\"...I-I thought this was going to be an ordinary bonus scenario at first. ...But from the very start, everything has been completely wrong!!\"",
+    "significantChanges": true,
+    "changeReason": "Old translates おまけシナリオ as 'afterparty' while new correctly renders it as 'bonus scenario' — a meta-narrative term referring to extra story content, not a party.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 157138,
+    "TextENGNew": "\"Please, calm down, Maebara-san! I'll dispatch a patrol car to your location immediately! Just hold on for three minutes — you can do it!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 157139,
+    "TextENGNew": "\"Three minutes?! I'm already surrounded... gyah, gyah!! Stop!! At least be gentle with me!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 157140,
+    "TextENGNew": "*scuffle*!",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 157141,
+    "TextENGNew": "\"Would you hold still! A grown man who can't accept defeat gracefully!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 157142,
+    "TextENGNew": "\"Someone help!! Mooooom!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 157143,
+    "TextENGNew": "\"Hau-au, Keiichi-kun is so cute even when he's struggling~~ I'm taking you home with me!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 157144,
+    "TextENGNew": "\"The moment you fled into this phone booth, you walked straight into my trap~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 157145,
+    "TextENGNew": "\"Squeeeeze~~~~~!! Urghhhh...\"",
+    "significantChanges": true,
+    "changeReason": "Old translation adds '*thud*' which is not present in the Japanese original; new translation removes this addition, more faithfully representing the source.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 157146,
+    "TextENGNew": "\"Hello?! Hello?! Can you hear me, Maebara-san?!\"",
+    "significantChanges": true,
+    "changeReason": "Old translates the repeated もしもし/もしもーし as 'Are you there?' and 'Hello?' while new correctly renders both as 'Hello?' matching the Japanese phone greeting pattern.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 157147,
+    "TextENGNew": "I knew all too well how distant that voice from the dangling receiver was.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 157148,
+    "TextENGNew": "But... I couldn't help shouting anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 157149,
+    "TextENGNew": "And then, from the far end of the line... I heard a faint murmur.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 157150,
+    "TextENGNew": "\"...Nipah~☆\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 157151,
+    "TextENGNew": "I don't know what he was saying.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 157152,
+    "TextENGNew": "...From the tone of voice... was it talking to himself?",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 157153,
+    "TextENGNew": "Or was he addressing someone there with him?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 157154,
+    "TextENGNew": "I sharpened my senses... straining to catch something more...",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 157155,
+    "TextENGNew": "What had he been trying to convey...?",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 157156,
+    "TextENGNew": "Just what... on earth...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 157157,
+    "TextENGNew": "*click* *beep* *beep* *beep* *beep*...",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 157158,
+    "TextENGNew": "Cut off so abruptly. ...Had the ten-yen coin run out?!",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 157159,
+    "TextENGNew": "It was a pay phone, after all...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 157160,
+    "TextENGNew": "\"......Ah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 157161,
+    "TextENGNew": "And because it cut off so abruptly.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 157162,
+    "TextENGNew": "...The very last words were etched all the more vividly in my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 157163,
+    "TextENGNew": "\"'...Nipah~☆,' he said.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 157164,
+    "TextENGNew": "In that moment, something told me.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 157165,
+    "TextENGNew": "......That there was no longer any reason to hurry.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 157166,
+    "TextENGNew": "And so it was that one hapless young man was swallowed once more by the darkness of Hinamizawa...",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11360,
+    "TextENGNew": "...Welcome to Hint X.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11361,
+    "TextENGNew": "The gateway to Miotsukushi opens when you find—\nX1 Incident Report 3 in the World of Afterwards\nX2 Incident Report 4 in the World of Afterwards\nX3 Incident Report 5 in the World of Afterwards\nK6 A Fragment of Tokihogushi in the World of Elucidation\n...Once you've seen all of the above, L3 A Fragment of Miotsukushi will appear in the World of Hope.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 11362,
+    "TextENGNew": "After selecting it, look at L4 The Gears Turn in Reverse, then look once more at L3 A Fragment of Miotsukushi, and the way forward will open.",
+    "significantChanges": true,
+    "changeReason": "The fragment title 'L4 Reversing the Gears' was retranslated as 'L4 The Gears Turn in Reverse' (Japanese: 逆回りの歯車), which is a different rendering of a proper noun used as a navigation reference.",
+    "changeScore": 1
+  },
+  {
+    "index": 4,
+    "MessageID": 11363,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

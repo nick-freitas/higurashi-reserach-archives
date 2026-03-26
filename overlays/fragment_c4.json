@@ -1,0 +1,506 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5009,
+    "TextENGNew": "The meeting hall within the grounds of the Furude Shrine served as the headquarters of the Onigafuchi Preservation Alliance.",
+    "significantChanges": true,
+    "changeReason": "Changed group name from 'Onigafuchi Guardians' to 'Onigafuchi Preservation Alliance'; 死守同盟 ('fight-to-the-death alliance') is rendered differently, altering the faction's identity.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 5010,
+    "TextENGNew": "The normally tranquil shrine grounds were bristling with banners reading 'OPPOSE THE DAM!', making it unmistakably clear that this was the main base of the anti-dam forces.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 5011,
+    "TextENGNew": "Inside the hall, more than thirty core members of the Preservation Alliance sat packed together, engaged in earnest exchanges of opinion on future strategy.",
+    "significantChanges": true,
+    "changeReason": "Changed 'members' to 'core members'; 幹部 means executives/leaders, not rank-and-file members. Also reflects updated group name.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 5012,
+    "TextENGNew": "Although the meeting hall lay within the Furude family's grounds, it was a communal facility shared by the villagers, and a rule had been established that its use must end by nine in the evening.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 5013,
+    "TextENGNew": "Of course, when discussions heated up, they sometimes ran over — but in general, the meeting was expected to close at nine.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 5014,
+    "TextENGNew": "If the talks ended early, they would pass the remaining time until nine in casual conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5015,
+    "TextENGNew": "That was their customary flow.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 5016,
+    "TextENGNew": "Though 'casual conversation' was something of a misnomer given that the dam war was raging — the topics almost always circled back to the dam.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 5017,
+    "TextENGNew": "...Someone had been turned away at the door of some ministry or other. Someone had been wrongfully arrested by the police. The construction site office was being rough-handed. That sort of thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 5018,
+    "TextENGNew": "Being casual talk, the conversation often grew emotional, and accordingly, gossip about the Houjou family was far from rare.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 5019,
+    "TextENGNew": "\"...And then they said they'd thrown out the neighbourhood circular, just like that! I mean, who actually does something like that?!\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'she threw' to 'they said they'd thrown out'; the new version reports it as a claim rather than a direct action, and uses plural, better matching the indirect JPN phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 5020,
+    "TextENGNew": "\"That wife over there — she's too proud and aggressive by half, I tell you. Just the other day at the rubbish area, she was at it again with old Mrs. Makino—\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'that woman is crazy' to 'too proud and aggressive'; the JPN 勝ち気が過ぎて攻撃的 ('overly competitive and aggressive') is more specific than 'crazy.'",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 5021,
+    "TextENGNew": "\"Well, whatever you say, honestly the husband is just plain rough, isn't he. He really is. Like, you know—\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'rude' to 'rough'; 粗暴 means violent/uncouth rather than merely rude. Also restructured to match the more conversational JPN flow.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 5022,
+    "TextENGNew": "\"Oh, didn't you see the local briefing? It was something else, it really was, wasn't it?!\"",
+    "significantChanges": true,
+    "changeReason": "New version omits the latter part about them needing to leave the village (あそこまで言うからにゃもう村にはおれんよ), significantly reducing the hostility expressed.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 5023,
+    "TextENGNew": "\"Going on about compensation money and all that! What shamelessness, I tell you!\"",
+    "significantChanges": true,
+    "changeReason": "Changed vague 'said something about money' to specific 'compensation money'; better reflects the dam-compensation context of the JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 5024,
+    "TextENGNew": "\"Oh now, now, now, now! If we're talking no sense of restraint, that wife of his is just as bad!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 5025,
+    "TextENGNew": "\"And it must be hereditary, mustn't it? I often see that daughter of theirs when I'm shopping, and I try to say hello, but she just looks the other way—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 5026,
+    "TextENGNew": "\"So we got tired of it and started pretending we don't see her, after that.\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'don't say anything to her' to 'pretending we don't see her'; the JPN 知らないふり describes actively ignoring, not just staying silent.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 5027,
+    "TextENGNew": "\"And speaking of which — their son always goes around with this gloomy look on his face too! Ahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 5028,
+    "TextENGNew": "Before anyone had quite noticed, a narrative had crystallised: the Houjou family were enemies of the village, traitors — and badmouthing them had become the greatest common denominator, a topic anyone could freely join.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 5029,
+    "TextENGNew": "...How much influence the Three Families wielded in this village — in particular, what the Sonozaki family had become — was no small matter.",
+    "significantChanges": true,
+    "changeReason": "Changed from a conditional ('if he had known') to a declarative statement about the Three Families' influence; the new version matches the JPN's declarative tone better.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 5030,
+    "TextENGNew": "And anyone who truly understood what kind of person Oryou-san was would never have started that kind of quarrel.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 5031,
+    "TextENGNew": "The Houjou couple were village residents too.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 5032,
+    "TextENGNew": "Whatever their lack of enthusiasm for town association activities, they could not have been unaware of what Oryou-san was like.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 5033,
+    "TextENGNew": "...If you insulted her publicly like that, it would inevitably come back at you multiplied many times over. They should have been able to foresee that.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 5034,
+    "TextENGNew": "...And yet they had given in to a moment of feeling and let those harsh words loose.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5035,
+    "TextENGNew": "In that sense, the prevailing view of the Houjou family's current isolation was not so much sympathy as 'they brought it on themselves.'",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 5036,
+    "TextENGNew": "...If they wanted to negotiate with the government over compensation for relocating, they should have done it quietly, behind the scenes.",
+    "significantChanges": true,
+    "changeReason": "Added 'compensation' to the negotiation context; JPN 立ち退きで国と交渉 refers specifically to negotiating relocation terms/compensation.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 5037,
+    "TextENGNew": "Speaking out so openly at a public meeting like that was, one might say, a foolish thing to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 5038,
+    "TextENGNew": "For that reason as well, there were few who sympathised with the Houjou family.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 5039,
+    "TextENGNew": "Because of the great quarrel at that briefing, the Sonozaki family had come to regard the Houjou family as an enemy, and had begun to wage a relentless campaign against them.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 5040,
+    "TextENGNew": "...As a result, the other pro-relocation voices who had existed before could no longer speak up, and those who feared being made the next scapegoat had reluctantly had to give up on relocation.",
+    "significantChanges": true,
+    "changeReason": "Changed 'pro-dam families' to 'pro-relocation voices'; 立ち退き派 means those who favored relocating (and accepting compensation), not those who supported the dam itself.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 5041,
+    "TextENGNew": "...Even among those people, some were said to voice the criticism that if only the Houjou couple had not started that reckless quarrel, they would never have lost their chance at relocation compensation.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 5042,
+    "TextENGNew": "Hated by the anti-dam faction and by the former pro-relocation voices alike, the Houjou family sank ever deeper into true isolation in the village...",
+    "significantChanges": true,
+    "changeReason": "Changed 'pro-dam people' to 'former pro-relocation voices'; consistent correction of 立ち退き派 translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 5043,
+    "TextENGNew": "Moreover, the Houjou couple were hot-tempered — and where they might have bowed their heads until the storm passed,",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 5044,
+    "TextENGNew": "they instead met every quarrel aimed at them head-on, and so even the small number who had once sympathised with them eventually drifted away. Now there was not one voice of dissent against the criticism of the Houjou family.",
+    "significantChanges": true,
+    "changeReason": "Changed 'nobody says anything to them' to 'not one voice of dissent against the criticism'; the JPN describes absence of defenders, not absence of communication.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 5045,
+    "TextENGNew": "That was perfectly plain from the gossip one heard in every corner of the meeting hall...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 5046,
+    "TextENGNew": "Rika was helping to tidy up the teacups, but she must certainly have heard that gossip.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 5047,
+    "TextENGNew": "...One of the people they were speaking ill of was Satoko-chan, Rika's friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 5048,
+    "TextENGNew": "...My chest ached when I imagined what Rika must have felt hearing those things...",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 5049,
+    "TextENGNew": "...Was it right for me, as the priest of the Furude Shrine, to allow this to continue?",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 5050,
+    "TextENGNew": "Oyashiro-sama was, at heart, a deity of connection — one who brought even adversaries into harmony and reconciliation.",
+    "significantChanges": true,
+    "changeReason": "Changed 'a god who makes peace' to 'a deity of connection'; 縁結びの神さま literally means a deity of bonds/connection, a more specific characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 5051,
+    "TextENGNew": "When humans and demons who could not coexist came to war, it was said that Oyashiro-sama descended from the heavens and intervened to reconcile them.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 5052,
+    "TextENGNew": "...Surely it was not acceptable for me, who enshrined that deity, to stand by and allow this state of affairs...",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 5053,
+    "TextENGNew": "I sat down beside Oryou-san, who was spitting with fury as she launched her tirade against the Houjou family.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 5054,
+    "TextENGNew": "\"That damned fool doesn't know what he's talking about!!\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'that ass was talking shit to me' to 'that damned fool doesn't know what he's talking about'; the old version was more vulgar than the JPN dialect warrants.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 5055,
+    "TextENGNew": "\"Not a shred of gratitude in 'em, not a shred!! That traitor had better watch out — Oyashiro-sama's curse will come for 'em for certain!!\"",
+    "significantChanges": true,
+    "changeReason": "New version adds 'not a shred of gratitude' (恩を知らん) which was missing from the old translation, and restructures the curse threat.",
+    "changeScore": 2
+  },
+  {
+    "index": 48,
+    "MessageID": 5056,
+    "TextENGNew": "The old people around her agreed heartily.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 5057,
+    "TextENGNew": "......I was about to cut into a conversation where everyone was clearly having the time of their lives.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 5058,
+    "TextENGNew": "It was unlikely to remain a civil exchange...",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 5059,
+    "TextENGNew": "But I steeled myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 5060,
+    "TextENGNew": "...As the priest of the Furude Shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 5061,
+    "TextENGNew": "And for Satoko-chan, Rika's friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 5062,
+    "TextENGNew": "\"...Oryou-san. ...Isn't it about time we let the talk about the Houjous rest?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 5063,
+    "TextENGNew": "\"Haaah?! What's that you're saying...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 5064,
+    "TextENGNew": "``Well,@k@vS20/00/VTK1_rikaF1122. I'm sure Houjou-san really didn't mean what he said.@k@vS20/00/VTK1_rikaF1123. Isn't it a bit much for this kind of treatment to go on for so long...?``",
+    "significantChanges": false,
+    "changeReason": "Reverted: truncated: cuts off mid-sentence, missing the plea about prolonged treatment",
+    "changeScore": 0
+  },
+  {
+    "index": 57,
+    "MessageID": 5065,
+    "TextENGNew": "``Oh, don't be ridiculous!!!@|@y@k@vS20/17/VTK1_oryou1007. You heard what was said, didn't you?! How can you not be outraged?!@k@vS20/17/VTK1_oryou1008. How utterly ridiculous!!@k@vS20/17/VTK1_oryou1009. Ahh, ridiculous, ridiculous!!``",
+    "significantChanges": true,
+    "changeReason": "Old translates しゃあらしい (Kansai dialect for 'ridiculous/annoying') as 'SHUT UP!!!' and 'shit, shit!' - wrong register and meaning, though both convey displeasure.",
+    "changeScore": 3
+  },
+  {
+    "index": 58,
+    "MessageID": 5066,
+    "TextENGNew": "...Oryou-san was the head of the Sonozaki family.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 5067,
+    "TextENGNew": "The one who inherits the demon.",
+    "significantChanges": true,
+    "changeReason": "Changed 'demons' (plural) to 'demon' (singular); 鬼を継ぐ者 uses the singular 鬼.",
+    "changeScore": 1
+  },
+  {
+    "index": 60,
+    "MessageID": 5068,
+    "TextENGNew": "She never forgave those who stood against her.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 5069,
+    "TextENGNew": "Words like 'perhaps it's time to let them off' could never reach those ears...",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 5070,
+    "TextENGNew": "Oryou-san and her circle were now completely inflamed, and it was clear they had no intention of listening.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 5071,
+    "TextENGNew": "In the course of things, I had also let slip that the dam plan would surely come to nothing eventually, and perhaps they might settle down a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 5072,
+    "TextENGNew": "...This was because the people at the Irie Clinic had told me that pressure was already being applied behind the scenes at the government level, and that the dam plan would certainly be halted in the near future.",
+    "significantChanges": true,
+    "changeReason": "Removed mention of 'Ministry of Construction' (not in JPN) and more accurately rendered 政府の裏側で as 'behind the scenes at the government level.'",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 5073,
+    "TextENGNew": "In their eyes, this apparently made me look like an opportunist.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 5074,
+    "TextENGNew": "...Before I knew it, it seemed criticism had begun to be directed at me as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 5075,
+    "TextENGNew": "...From that day onwards, I realised that without quite noticing it, I had been branded an opportunist...",
+    "significantChanges": true,
+    "changeReason": "Changed 'fence-sitter' to 'opportunist'; 日和見主義者 means opportunist (one who changes sides for personal advantage), not merely undecided.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 5076,
+    "TextENGNew": "......Even with a demon, if there is any room to listen, one can still mediate.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 5077,
+    "TextENGNew": "...But how does one mediate among people who refuse to hear a word?",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 5078,
+    "TextENGNew": "I had thoroughly ruined their mood, and there was nothing left for me but to give up and hold my tongue...",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 5079,
+    "TextENGNew": "And then — a small hand rested gently against my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 5080,
+    "TextENGNew": "\"Rika. ...It's getting late. Go on back to the house.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 5081,
+    "TextENGNew": "\"...No matter how hard we try... it doesn't reach them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 5082,
+    "TextENGNew": "Rika said those words with a faraway look in her eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 5083,
+    "TextENGNew": "\"...Perhaps there is nothing we who dwell in this stagnant village can do about its stagnant ills... But... we mustn't give up hope.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 5084,
+    "TextENGNew": "\"...Someday, surely... someone will come who can break through all of this. Someday... surely...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 5085,
+    "TextENGNew": "In those eyes... it seemed a future was reflected that only the shrine maiden of the Furudes could see...",
+    "significantChanges": false
+  }
+]

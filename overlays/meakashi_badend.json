@@ -1,0 +1,140 @@
+[
+  {
+    "index": 1,
+    "MessageID": 72768,
+    "TextENGNew": "June, 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 72769,
+    "TextENGNew": "A series of disappearances occurred in Hinamizawa Village, Shishibone City.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 72770,
+    "TextENGNew": "The suspect: Sonozaki Shion.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 72771,
+    "TextENGNew": "The suspect is alleged to have abducted, confined, and murdered four residents of Hinamizawa Village (Sonozaki Oryou, Kimiyoshi Kiichirou, Furude Rika, and Houjou Satoko) between June 19th and 21st.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 72772,
+    "TextENGNew": "The initial investigation was hampered by insufficient information, but the case was resolved abruptly and unexpectedly.",
+    "significantChanges": true,
+    "changeReason": "Original says 'insufficient evidence'; the Japanese 情報不足 means 'insufficient information,' which is materially different in an investigative context.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 72773,
+    "TextENGNew": "On the morning of the 22nd, a patrol car stationed outside the Sonozaki residence heard screams from within and, as an emergency measure, stormed the premises.",
+    "significantChanges": true,
+    "changeReason": "Original says officers 'infiltrated the premises' (implying stealth); the Japanese 突入 means 'stormed/rushed in,' which the new translation correctly conveys.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 72774,
+    "TextENGNew": "The suspect's missing elder sister (Sonozaki Mion) and two of her classmates (Ryuugu Reina and Maebara Keiichi) were taken into protective custody.",
+    "significantChanges": true,
+    "changeReason": "Original says 'taken into custody' (implying arrest); the Japanese 保護した means 'taken into protective custody' (i.e., rescued), which changes the meaning entirely.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 72775,
+    "TextENGNew": "However, one classmate, Maebara Keiichi, who had entered the residence earlier to attempt to negotiate with the suspect, sustained stab wounds during the suspect's resistance. He was transported to an emergency hospital but was diagnosed with only minor injuries.",
+    "significantChanges": true,
+    "changeReason": "Original says Keiichi was 'lured into the crime scene'; the Japanese says he entered to 説得を行っていた (attempt to persuade/negotiate with the suspect) -- opposite implications.",
+    "changeScore": 4
+  },
+  {
+    "index": 9,
+    "MessageID": 72776,
+    "TextENGNew": "As the individual who had the most opportunity to engage in conversation with the suspect prior to the resolution, he will be interviewed once his mental state has sufficiently recovered.",
+    "significantChanges": true,
+    "changeReason": "Original says he will be 'subject to interrogation'; the Japanese 事情聴取 means 'interviewed/questioned' as a witness, not interrogated as a suspect.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 72777,
+    "TextENGNew": "The suspect was apprehended approximately two meters from where Maebara Keiichi had been restrained, having collapsed with lacerations to the throat. She was also transported to an emergency hospital, but was pronounced dead at 1:48 PM on the 22nd.",
+    "significantChanges": true,
+    "changeReason": "Original says 'scratch wounds' (擦過傷); the new translation says 'lacerations,' which is a different wound type. The Japanese 擦過傷 specifically means abrasions/scratches, and neither fully captures the context of a throat wound, but the original is closer to the literal term.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 72778,
+    "TextENGNew": "The judicial autopsy determined the immediate cause of death to be hemorrhagic shock due to excessive blood loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 72779,
+    "TextENGNew": "In the hidden underground chamber of a detached structure on the Sonozaki estate, where the victims are believed to have been killed, hair, skin fragments, and blood belonging to the four missing persons (Sonozaki Oryou, Kimiyoshi Kiichirou, Furude Rika, and Houjou Satoko) were recovered.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 72780,
+    "TextENGNew": "It was concluded that the victims were subjected to physical violence within the hidden chamber.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 72781,
+    "TextENGNew": "Their remains were discovered at the bottom of an old well, based on testimony provided by the rescued Sonozaki Mion.",
+    "significantChanges": true,
+    "changeReason": "Original calls Mion 'the victim'; the Japanese 保護された means 'rescued/protected,' which the new translation correctly uses.",
+    "changeScore": 4
+  },
+  {
+    "index": 15,
+    "MessageID": 72782,
+    "TextENGNew": "Additionally, investigation continues into possible connections to the Series of Mysterious Deaths in recent years, which the suspect allegedly alluded to. However, no evidence has been found linking Sonozaki Shion directly or indirectly to those incidents.",
+    "significantChanges": true,
+    "changeReason": "New adds 'which the suspect allegedly alluded to' (ほのめかしたとされる) from the Japanese, providing context missing in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 72783,
+    "TextENGNew": "Many aspects of the motive remain unclear, and due to extreme non-cooperation from both the Sonozaki family and the residents of Hinamizawa, the investigation is expected to require an extensive period of time.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 72784,
+    "TextENGNew": "According to the local police familiar with the region, the incident may have been an internal punishment or lynching related to perceived blasphemy against Hinamizawa's religious beliefs.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 72785,
+    "TextENGNew": "There is no doubt that this is a case deeply rooted in the region's unique cultural character, and the Prefectural Police Headquarters has ordered a cautious investigation.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 72786,
+    "TextENGNew": "Hopes were placed on obtaining critical leads from the suspect's sister and the missing person believed to have been confined the longest (Sonozaki Mion),@|@y@k@|@yhowever, she appears to have suffered severe psychological trauma in the aftermath, and interviews have been postponed for a period to allow for mental and physical recovery.",
+    "significantChanges": true,
+    "changeReason": "Original introduces first-person 'We expected' not present in the Japanese, which uses passive/impersonal construction.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 72787,
+    "TextENGNew": "According to her attending physician, although her condition is serious, there are prospects for recovery, and she is currently undergoing rehabilitation with the support of her friends.",
+    "significantChanges": false
+  }
+]

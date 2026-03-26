@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11335,
+    "TextENGNew": "...Welcome to Hint V.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11336,
+    "TextENGNew": "I'll tell you the conditions for unlocking C2 The Queen Carrier's Mother's Distrust in the World of the Furude Family.",
+    "significantChanges": true,
+    "changeReason": "\"Mother of a Queen\" changed to \"Queen Carrier's Mother\" — the addition of \"Carrier\" references the Higurashi-specific concept of a queen carrier (女王感染者), which significantly changes who is being referred to and adds plot-relevant context.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 11337,
+    "TextENGNew": "B2 H170 in the World of 1980\nB6 The Shirakawa Park Fall Accident in the World of 1980\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "\"An Accident at the Shirakawa Park\" changed to \"The Shirakawa Park Fall Accident\" — the addition of \"Fall\" (転落) specifies the type of accident, providing meaningful context about the event.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11338,
+    "TextENGNew": "And—\nC5 The Third 'Specimen' in the World of the Furude Family\nA3 One, Two, Three, Four in the World of Miyo Takano\n...These fragments are also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "The original omits the fragment identifier \"C5\" from \"Third 'Specimen'\" which is present in the Japanese (C5 三番目の「検体」); the new translation correctly includes it, affecting how readers would locate this fragment.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11339,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

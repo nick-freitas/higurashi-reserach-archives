@@ -1,0 +1,740 @@
+[
+  {
+    "index": 1,
+    "MessageID": 7933,
+    "TextENGNew": "I was lounging in the living room, cooling off, when I heard a voice calling me from the front entrance.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 7934,
+    "TextENGNew": "It was Kyouko, our housekeeper. Someone had come to visit.",
+    "significantChanges": true,
+    "changeReason": "Old translation calls Kyouko a 'nanny'; new correctly calls her 'housekeeper' matching JPN お手伝い (household helper).",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 7935,
+    "TextENGNew": "I couldn't quite catch the name, but whoever it was seemed to be here for me.",
+    "significantChanges": true,
+    "changeReason": "'customer' implies a business relationship; new translation correctly reflects JPN お客さん as a visitor/guest without commercial connotation.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 7936,
+    "TextENGNew": "Our house sits some distance from the gate, which makes it hard to notice visitors.@k We'd been planning to install an intercom—partly for security—sometime soon.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates content about doorbells and yelling; JPN describes distance from gate making visitors hard to notice and plans to install an intercom for security.",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 7937,
+    "TextENGNew": "``Ah, yes, thank you.@k@vS20/03/VTK2_mion2037. Who is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 7938,
+    "TextENGNew": "Poking my head into the hallway as I said that, I spotted Rika-chan standing in the entryway beside Kyouko.",
+    "significantChanges": true,
+    "changeReason": "Old says Mion 'walked into the hallway' but JPN 顔だけ出す means she only peeked her face out; also 'Kyoko' corrected to 'Kyouko' matching the name used elsewhere.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 7939,
+    "TextENGNew": "Normally, guests would be greeted at the gate, but Kyouko must have ushered her inside so she wouldn't have to wait in the blazing sun.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 7940,
+    "TextENGNew": "``Oh, there you are.@k@vS20/03/VTK2_mion2039. Could you let Granny know Rika-chama is here?@k@vS20/03/VTK2_mion2040. She's probably on the veranda.@k@vS20/03/VTK2_mion2041. I'll go pull the watermelon up from the well.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 7941,
+    "TextENGNew": "Granny had received a whole bunch of gorgeous watermelons as a gift, so she decided to share them around.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 7942,
+    "TextENGNew": "I had just called the Furude household a short while ago, so Rika-chan must have come to pick one up.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 7943,
+    "TextENGNew": "...Did she come by bicycle?",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 7944,
+    "TextENGNew": "Was the front basket on Rika-chan's bicycle even big enough for a watermelon?",
+    "significantChanges": true,
+    "changeReason": "New specifies the front basket (前かご) and whether a watermelon would fit, matching JPN precisely; old was vague about a 'big enough basket'.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 7945,
+    "TextENGNew": "Fretting over that needless worry, I hauled up the watermelon that had been hanging in the well out back.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 7946,
+    "TextENGNew": "Having been chilled in the cold well water, the watermelon was beaded with cool droplets and looked absolutely delicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 7947,
+    "TextENGNew": "For the three-person Furude household, it would last at least two evenings.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 7948,
+    "TextENGNew": "``...Mii?@k@vS20/05/VTK2_rika2039. I'm supposed to take it home?@k@vS20/05/VTK2_rika2040. I was sure we'd be...``",
+    "significantChanges": true,
+    "changeReason": "'Meep' changed to 'Mii' which directly transliterates JPN みー; also better captures the nuance of 'I was sure we'd be...' from JPN てっきり.",
+    "changeScore": 1
+  },
+  {
+    "index": 17,
+    "MessageID": 7949,
+    "TextENGNew": "``Huh?@k@vS20/03/VTK2_mion2043. Didn't your father tell you?!``",
+    "significantChanges": true,
+    "changeReason": "'dad' changed to 'father'; JPN おじさん here refers to Rika's father the priest, and 'father' better fits the formal register.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 7950,
+    "TextENGNew": "I had told the priest who answered the phone that we had watermelon and to come pick one up, or so I thought...",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 7951,
+    "TextENGNew": "Whether my phrasing was unclear or the message got garbled, it seems Rika-chan was under the impression she'd been invited over@k to eat watermelon here, rather than take one home.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 7952,
+    "TextENGNew": "The small basket on Rika-chan's bicycle couldn't possibly hold a watermelon this size,@k and riding one-handed while balancing it would be downright dangerous.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 7953,
+    "TextENGNew": "``Mion, be a dear and carry it to Rika-chama's house for her.@k@vS20/17/VTK2_oryou2044. She can't ride her bicycle holding a watermelon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 7954,
+    "TextENGNew": "``...Mii.@k@vS20/05/VTK2_rika2042. I can carry a watermelon, you know.``",
+    "significantChanges": true,
+    "changeReason": "'Meep' changed to 'Mii' matching JPN みー, Rika's characteristic vocalization.",
+    "changeScore": 1
+  },
+  {
+    "index": 23,
+    "MessageID": 7955,
+    "TextENGNew": "``Too dangerous, too dangerous!@k@vS20/17/VTK2_oryou2046. If anything happened to Rika-chama, I wouldn't know how to face Oyashiro-sama.@k@vS20/17/VTK2_oryou2047. Mion will carry it for you, just leave it to her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 7956,
+    "TextENGNew": "``All right, all right, leave it to me.@k@vS20/03/VTK2_mion2045. I'll pop in and say hello to the priest while I'm at it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 7957,
+    "TextENGNew": "Whether riding or walking her bicycle, Rika-chan's hands would be occupied either way.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 7958,
+    "TextENGNew": "So I was appointed watermelon carrier.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 7959,
+    "TextENGNew": "The sky was tinged with a faint amber glow.",
+    "significantChanges": true,
+    "changeReason": "'auburn' changed to 'amber'; JPN 茜色 (akane-iro) means madder-red, a different hue from either, but changes the reader's visual impression.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 7960,
+    "TextENGNew": "...A wonderfully cool breeze was blowing, and the sandals on my bare feet felt lovely.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 7961,
+    "TextENGNew": "The plastic grocery bag I carried held the watermelon, along with several small bags of konpeitou sugar candy—a little bonus@k for Rika-chan, since she'd come all the way to the Sonozaki main house.",
+    "significantChanges": true,
+    "changeReason": "'rock candy' changed to 'konpeitou sugar candy'; JPN 金平糖 is konpeitou, a specific Japanese confection distinct from generic rock candy.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 7962,
+    "TextENGNew": "Apparently, if her mother found them she'd confiscate them, so we decided to eat them on the spot. We opened the bags and savored the simple sweetness of the konpeitou...",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 7963,
+    "TextENGNew": "It wasn't just for Rika-chan, actually—whenever a neighborhood child came by on an errand,@k Granny's rule was to give them a little treat as a reward.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 7964,
+    "TextENGNew": "In fact, that sort of custom is fairly common here in rural Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 7965,
+    "TextENGNew": "It even leads to funny stories about siblings racing each other to deliver the circular notice to the next house before their parents have even read it.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 7966,
+    "TextENGNew": "...This konpeitou was one such treat.",
+    "significantChanges": true,
+    "changeReason": "'rock candy' changed to 'konpeitou', correctly identifying the specific Japanese confection 金平糖.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 7967,
+    "TextENGNew": "Though normally, the reward would be much more modest.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 7968,
+    "TextENGNew": "A single piece of hard candy at most.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 7969,
+    "TextENGNew": "...So this was clearly Granny giving Rika-chama special treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 7970,
+    "TextENGNew": "``...I feel bad getting so much more than everyone else.``",
+    "significantChanges": true,
+    "changeReason": "New captures Rika's concern about receiving more than others (JPN 他の人に悪い気がします = feel bad toward others), which the old translation omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 7971,
+    "TextENGNew": "``Oh, don't worry about it.@k@vS20/03/VTK2_mion2047. It's Granny's way of showing affection.@k@vS20/03/VTK2_mion2048. Rather than making a fuss about declining, I think it's better to just be a kid about it—say thank you and give her a big smile.``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 7972,
+    "TextENGNew": "``...Does Mii get lots of treats?``",
+    "significantChanges": true,
+    "changeReason": "'you' changed to 'Mii', preserving Rika's distinctive nickname for Mion (JPN 魅ぃ).",
+    "changeScore": 1
+  },
+  {
+    "index": 41,
+    "MessageID": 7973,
+    "TextENGNew": "``Hmm, I used to!@k@vS20/03/VTK2_mion2050. But at my age, they've stopped giving me any.@k@vS20/03/VTK2_mion2051. If they did now, I'd probably feel like I was being treated like a little kid, ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 7974,
+    "TextENGNew": "``...Mii.@k@vS20/05/VTK2_rika2046. So I'm being treated like a child, then.``",
+    "significantChanges": true,
+    "changeReason": "'Meep' changed to 'Mii' matching JPN みー.",
+    "changeScore": 1
+  },
+  {
+    "index": 43,
+    "MessageID": 7975,
+    "TextENGNew": "``Ahahahahaha, that's perfectly fine!@k@vS20/03/VTK2_mion2053. Enjoy it while you can.@k@vS20/03/VTK2_mion2054. Once you're my age, you won't get any even if you wanted them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 7976,
+    "TextENGNew": "We'd been chatting about nothing in particular, so I was surprised to notice Rika-chan's expression turning cloudy.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 7977,
+    "TextENGNew": "``What's wrong?``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 7978,
+    "TextENGNew": "``...Whenever I go shopping, I always get candy as a treat.@k@vS20/05/VTK2_rika2048. ...But Satoko doesn't, even when she comes with me.``",
+    "significantChanges": true,
+    "changeReason": "'run errands' changed to 'go shopping' matching JPN お買い物; also adds frequency aspect 'always' from JPN よく.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 7979,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 7980,
+    "TextENGNew": "I could read many things into why Rika-chan would say that to me... and there was no end to it.",
+    "significantChanges": true,
+    "changeReason": "Old oversimplifies to 'so many reasons why'; new captures the full JPN meaning of endlessly deep-reading Rika's intent (深読みしたらきりがない).",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 7981,
+    "TextENGNew": "It's no secret to anyone in Hinamizawa that the Houjou family—not just Satoko—is treated coldly by the entire village.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 7982,
+    "TextENGNew": "...And the ones who fanned those flames were none other than the Sonozaki main house.",
+    "significantChanges": true,
+    "changeReason": "'Sonozaki family' changed to 'Sonozaki main house' matching JPN 園崎本家, which specifically refers to the main branch—an important distinction in the clan structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 7983,
+    "TextENGNew": "Moreover, the two dam supporters from the Houjou family had already died in an accident.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 7984,
+    "TextENGNew": "And yet the hostility toward the Houjou family continued unabated,@k extending even to the children, Satoko and Satoshi,@k ...and to the aunt and uncle who had taken them in.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 7985,
+    "TextENGNew": "It's true that the bitter feud between the Houjou and Sonozaki families at the dam project meeting was what started the conflict.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 7986,
+    "TextENGNew": "...But that was the Houjou couple. It should have nothing to do with the children or their aunt and uncle.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 7987,
+    "TextENGNew": "...Yet somehow, the label 'village traitors equals Houjou family' took on a life of its own, creating an atmosphere that continues to shun anyone bearing the Houjou name...",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 7988,
+    "TextENGNew": "The aunt and uncle were never dam supporters.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 7989,
+    "TextENGNew": "So with time, the attacks against them should have ceased.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 7990,
+    "TextENGNew": "...But it turned out the aunt and uncle were difficult people who kept getting into trouble with the neighbors.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 7991,
+    "TextENGNew": "Ignoring the garbage disposal rules, forgetting their turn on the rotation roster, spraying pesticide on their garden trees without regard for the neighbors' laundry...",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 7992,
+    "TextENGNew": "...They apparently quarreled frequently with the community council and the neighbors. Even without the dam conflict, they would have been disliked.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 7993,
+    "TextENGNew": "...And so, the cold treatment of the Houjou family persisted.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 7994,
+    "TextENGNew": "But even so, none of it should have anything to do with Satoko and Satoshi...",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 7995,
+    "TextENGNew": "At school, I've often seen the strained expressions on Satoko's and Satoshi's faces.",
+    "significantChanges": true,
+    "changeReason": "'depressed' changed to 'strained expressions'; JPN 辛そうな顔 means pained/strained faces, an observable description rather than a clinical diagnosis.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 7996,
+    "TextENGNew": "...I try to keep the Houjou-Sonozaki conflict out of school, at the very least... but I have no way of knowing how Satoko and the others truly feel about that.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 7997,
+    "TextENGNew": "From their perspective, I'm just another member of the family that makes their lives miserable...",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 7998,
+    "TextENGNew": "``...I don't want any of that in the school, at least.@k@vS20/03/VTK2_mion2058. That's why I try to be their friend while we're there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 7999,
+    "TextENGNew": "``...How can that same spirit be extended beyond the school walls...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 8000,
+    "TextENGNew": "...That would be terribly difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 8001,
+    "TextENGNew": "The Houjou family made enemies of the Three Families.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 8002,
+    "TextENGNew": "They were branded as traitors, and that stigma remains to this day.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 8003,
+    "TextENGNew": "Even if one person stood up and said, 'The dam war is over, let's all get along,' it would be like pouring water on a hot stone—utterly futile.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 8004,
+    "TextENGNew": "...If anything, it would just make that person a target as well.",
+    "significantChanges": true,
+    "changeReason": "'put them in the same position' changed to 'make that person a target'; JPN 後ろ指をさされる means being gossiped about behind one's back.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 8005,
+    "TextENGNew": "...I feel for Satoko and the others, but@k their only option is to endure patiently until the animosity cools on its own.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 8006,
+    "TextENGNew": "The most I can do is try to be a small refuge for them until that day comes.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 8007,
+    "TextENGNew": "``...Then how long must Satoko endure...?``",
+    "significantChanges": true,
+    "changeReason": "'wait' changed to 'endure' matching JPN 耐え忍べば (to endure patiently), a much heavier word than simply waiting.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 8008,
+    "TextENGNew": "``...I don't know.@k@vS20/03/VTK2_mion2060. The dam conflict lasted years.@k@vS20/03/VTK2_mion2061. Since the stigma was branded back then, it might take just as long to wash it away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 8009,
+    "TextENGNew": "``...Does that mean@k@vS20/05/VTK2_rika2052. Satoko and the others won't be forgiven until they're grown?@k@vS20/05/VTK2_rika2053. That Satoko has to spend her entire childhood under those cold stares?``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 8010,
+    "TextENGNew": "``That would be... unbearably cruel...``",
+    "significantChanges": true,
+    "changeReason": "'pretty miserable' significantly understates JPN あまりにも辛い (unbearably painful/cruel); new translation captures the emotional weight.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 8011,
+    "TextENGNew": "``...Mii.@k@vS20/05/VTK2_rika2055. We're Satoko's and Satoshi's friends, aren't we?``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 8012,
+    "TextENGNew": "``Of course.@k@vS20/03/VTK2_mion2064. To me, they're my friends.@k@vS20/03/VTK2_mion2065. We're all in this together.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 8013,
+    "TextENGNew": "``...Then isn't there something we can do to save our friends...?``",
+    "significantChanges": true,
+    "changeReason": "'help' changed to 'save' matching JPN 救う which means to save/rescue, carrying much stronger urgency than merely helping.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 8014,
+    "TextENGNew": "``...What could we possibly do...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 8015,
+    "TextENGNew": "Even if the Sonozaki main house declared that the dam war was over and everyone should be kind to the Houjou family,@k that alone wouldn't solve anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 8016,
+    "TextENGNew": "In the first place, Granny still despises the Houjou family so fiercely that even uttering their name in her presence is taboo.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 8017,
+    "TextENGNew": "This isn't a matter of one person forgiving another.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 8018,
+    "TextENGNew": "...It's a matter of the village as a community—where countless human connections are tangled in complex ways.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 8019,
+    "TextENGNew": "...Making an enemy of that community is a terrifying thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 8020,
+    "TextENGNew": "Everyone knows that, which is why no one neglects their neighborly relations.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 8021,
+    "TextENGNew": "...Anyone who deliberately makes enemies of it will face the consequences.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 8022,
+    "TextENGNew": "...That is the unwritten law of Japanese community life.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 8023,
+    "TextENGNew": "And the Sonozaki family is woven into that very law.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 8024,
+    "TextENGNew": "Once the hostility toward the Houjou family took root, not even the Sonozaki family could easily sever it.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 8025,
+    "TextENGNew": "``...Are you saying that even a problem within Hinamizawa... cannot be solved by Hinamizawa's own people?``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 8026,
+    "TextENGNew": "``.........Sadly... that may be the case.@k@vS20/03/VTK2_mion2068. If there were someone who could save Satoko,``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 8027,
+    "TextENGNew": "``...it would have to be someone unburdened by the village's entanglements.@k@vS20/03/VTK2_mion2070. ...But no such person exists here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 8028,
+    "TextENGNew": "``...Are you saying someone from outside the village... has to come to her rescue...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 8029,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 8030,
+    "TextENGNew": "Could it really happen—a knight in shining armor arriving from beyond the village, as Rika-chan suggested, to send a fresh wind through this stale air that has festered for hundreds of years?",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 8031,
+    "TextENGNew": "It couldn't.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 8032,
+    "TextENGNew": "It was just wishful thinking, same as always.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 8033,
+    "TextENGNew": "...Time would eventually solve it.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 8034,
+    "TextENGNew": "Until then, the least I could do was be their ally.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 8035,
+    "TextENGNew": "Nothing more than that came to mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 8036,
+    "TextENGNew": "Rika-chan and I crunched on our konpeitou, able to do nothing more than pray that someday, everyone would forgive Satoko and her family...",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 8037,
+    "TextENGNew": "Rika-chan gently broke the bitter silence.",
+    "significantChanges": true,
+    "changeReason": "'heavy silence' changed to 'bitter silence' matching JPN 苦々しい which specifically means bitter/unpleasant.",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 8038,
+    "TextENGNew": "``...Surely...``",
+    "significantChanges": true,
+    "changeReason": "'I know' changed to 'Surely' better matching JPN きっと (surely/certainly); 'I know' implies certain knowledge while 'Surely' conveys hopeful conviction.",
+    "changeScore": 2
+  },
+  {
+    "index": 107,
+    "MessageID": 8039,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 8040,
+    "TextENGNew": "``...Surely... someone unbound by the village's ties will come here from outside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 8041,
+    "TextENGNew": "``That's right.@k@vS20/03/VTK2_mion2074. Now that the dam war's over, it'd be great if people moved in from outside.@k@vS20/03/VTK2_mion2075. Wouldn't it be fun if a kid around our age transferred in?``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 8042,
+    "TextENGNew": "``...He will come.@k@vS20/05/VTK2_rika2062. I know it.@k@vS20/05/VTK2_rika2063. And together with him, we will shatter this village's wicked customs.@k@vS20/05/VTK2_rika2064. ...That will be the first key to the three locks sealing our future.``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 8043,
+    "TextENGNew": "``...Huh?@k@vS20/03/VTK2_mion2077. What's that?@k@vS20/03/VTK2_mion2078. Are you quoting a novel or something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 8044,
+    "TextENGNew": "Rika-chan said cryptic things like that from time to time.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 8045,
+    "TextENGNew": "When she did, she seemed so mature... I almost doubted she was really younger than me.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 8046,
+    "TextENGNew": "The irrational persecution of the Houjou family...",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 8047,
+    "TextENGNew": "...Would someone truly appear—someone free of the village's chains—to break it all apart...?",
+    "significantChanges": false
+  }
+]

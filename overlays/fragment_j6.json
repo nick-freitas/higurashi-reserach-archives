@@ -1,0 +1,56 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8373,
+    "TextENGNew": "After so many sad stories, you must be close to breaking, no?",
+    "significantChanges": true,
+    "changeReason": "Original implies the reader's heart is already broken; new translation correctly conveys the Japanese ongoing/prospective nuance (折れちゃうでしょう) as 'close to breaking,' preserving the speaker's empathetic concern.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 8374,
+    "TextENGNew": "So this piece is a little palate cleanser — a small diversion meant just for you.",
+    "significantChanges": true,
+    "changeReason": "New translation captures あなたへの ('for you') which the original omits, and renders 箸休め as 'palate cleanser' with 'small diversion' rather than adding the unwarranted 'served between main courses' not present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 8375,
+    "TextENGNew": "A snapshot cut from the happy, ordinary days that came before Watanagashi — before the tragedy began.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 8376,
+    "TextENGNew": "A raucous, lively commotion sweeping up the club members, Tomitake, Irie... and even Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 8377,
+    "TextENGNew": "But... it seems what's here is a copy of the original piece... which is why the shape and color are a little off.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8378,
+    "TextENGNew": "Perhaps the real piece can be found somewhere out there.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 8379,
+    "TextENGNew": "And if you do find it, won't you tell me?",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 8380,
+    "TextENGNew": "I'm very curious what the original story was like... Hehe.",
+    "significantChanges": true,
+    "changeReason": "New translation includes 本来 ('original') specifying curiosity about what the original version of the story was like, which the old translation omits, losing the contrast between the copy and the true fragment.",
+    "changeScore": 2
+  }
+]

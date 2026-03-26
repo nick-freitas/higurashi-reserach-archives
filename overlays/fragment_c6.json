@@ -1,0 +1,642 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5246,
+    "TextENGNew": "Deep down... I had steeled myself for the possibility that something might happen again tonight.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 5247,
+    "TextENGNew": "The first year, someone had incited the construction workers into murdering and dismembering the foreman. The second year, the Houjou couple had been killed in what was staged to look like an accident.",
+    "significantChanges": true,
+    "changeReason": "New specifies 'someone had incited the construction workers into murdering and dismembering the foreman' and 'staged to look like an accident' (事故に装って), while old says 'workers were stirred into a frenzy' and 'killed through a fake accident', losing the staging nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 5248,
+    "TextENGNew": "...Ever since the dam conflict, only people who had been despised by the village had died—and always on the night of the Watanagashi festival, the most significant day in Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "New adds 'the most significant day in Hinamizawa' (雛見沢にとってもっとも意味のある) and 'the night of the Watanagashi festival', details omitted from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 5249,
+    "TextENGNew": "I was well aware that some villagers had begun calling these incidents \"the curse of Oyashiro-sama.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'I was well aware' (無論、私の耳にも入っていた), making it explicit the narrator knew, while old just says 'some people were calling' without the narrator's awareness.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 5250,
+    "TextENGNew": "Now that the dam conflict was over, perhaps killing the village's enemies on the night of the festival served some kind of ritualistic purpose.",
+    "significantChanges": true,
+    "changeReason": "Opposite interpretation: JPN 何かの意味を持つのではないか means 'perhaps it served some ritualistic purpose' (affirming purpose), but old says 'there would be no meaning' (negating purpose).",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 5251,
+    "TextENGNew": "...That was my theory.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5252,
+    "TextENGNew": "If that was the case, then there should still be several more people who had been considered enemies during the dam conflict.",
+    "significantChanges": true,
+    "changeReason": "New adds 'several more people who had been considered enemies during the dam conflict' (ダム戦争の時の戦犯はまだ何人か), more specific than old's 'some enemies left over'.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 5253,
+    "TextENGNew": "...Perhaps the same thing would happen on the night of the festival for a third consecutive year.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 5254,
+    "TextENGNew": "...My hunch proved correct.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 5255,
+    "TextENGNew": "At first, however, everything looked so natural that it didn't even register as an incident.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I didn't think anything of it', new says 'it didn't even register as an incident'; JPN 事件にはまるで見えなかった means 'it didn't look like an incident at all', the new version is closer.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 5256,
+    "TextENGNew": "The festival was winding down, and the village officials were packed into the main tent.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 5257,
+    "TextENGNew": "They were knocking back beers, making merry over leftover stewed tripe and grilled corn from the food stalls.",
+    "significantChanges": true,
+    "changeReason": "Old says 'braised cow tripe' while new says 'stewed tripe'; JPN モツ煮込み is 'stewed offal/tripe', and 'braised cow tripe' is less accurate. Also 'knocking back beers' vs 'opened their beers' and 'making merry' vs 'enjoyed' better match the JPN tone of 大いに盛り上がっていた.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 5258,
+    "TextENGNew": "I was there too, seated in the main tent as a guest of the village council.",
+    "significantChanges": true,
+    "changeReason": "Old says 'being entertained by the villagers', new says 'seated as a guest of the village council'; JPN 町会の連中にもてなされていて means 'being hosted by the council members', specifying the village council rather than generic villagers.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 5259,
+    "TextENGNew": "...So I must have been present from the very beginning of the third year's incident.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I was actually there at the scene', new says 'I must have been present from the very beginning'; JPN 一番最初に立ち会っているはず means 'should have been present at the very start', with the uncertainty (はず) that old misses.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 5260,
+    "TextENGNew": "...And yet, I failed to notice when it started...",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 5261,
+    "TextENGNew": "\"Hey, Furude-san, what's the matter?@k@vS20/00/VTK1_elderA1002. Feeling unwell?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 5262,
+    "TextENGNew": "Most of the village elders were heavy drinkers, but a few couldn't hold their liquor.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 5263,
+    "TextENGNew": "The priest was one of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 5264,
+    "TextENGNew": "During the Watanagashi festival, the priest served as both the representative and the host.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 5265,
+    "TextENGNew": "He greeted every visiting dignitary and accepted a drink each time, so it was easy to imagine how worn out he'd be by nightfall.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 5266,
+    "TextENGNew": "So when I saw the priest slumped forward in a folding chair, away from the revelry, I didn't think anything was amiss.",
+    "significantChanges": true,
+    "changeReason": "Old says 'sitting by himself in a folding chair', new says 'slumped forward in a folding chair, away from the revelry'; JPN 喧騒から外れてパイプ椅子に俯くように means 'away from the noise, slumped/bent forward in a pipe chair', adding the physical posture and separation from festivities.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 5267,
+    "TextENGNew": "A man sitting beside him tapped his shoulder and asked if he was all right.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates character identity: JPN says 隣に座っていた男 (a man sitting beside him) without naming anyone, but old identifies him as 'The mayor, Kimiyoshi.'",
+    "changeScore": 4
+  },
+  {
+    "index": 23,
+    "MessageID": 5268,
+    "TextENGNew": "\"...Are you okay?@k@vS20/00/VTK1_elderA1004. Ahhhahahahaha, you've had too much to drink!@k@vS20/00/VTK1_elderA1005. What? Your chest hurts?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 5269,
+    "TextENGNew": "\"......Hmmm...@k@vS20/00/VTK1_rikaF1127. I'm sorry. I seem to have overdone it.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm a little tired', new says 'I seem to have overdone it'; JPN ちょっと疲れたようです could go either way but 'overdone it' better fits the context of drinking too much.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 5270,
+    "TextENGNew": "\"Didn't you used to have heart trouble?@k@vS20/00/VTK1_elderA1007. Sudden pain like that is a bad sign!@k@vS20/00/VTK1_elderA1008. Dr. Irie!!@k@vS20/00/VTK1_elderA1009. Doctor!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 5271,
+    "TextENGNew": "\"What happened?@k@vS20/10/VTK1_irie1238. ...Your chest?@k@vS20/10/VTK1_irie1239. That's not good...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5272,
+    "TextENGNew": "\"......Mmmmm... Oooh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 5273,
+    "TextENGNew": "When I looked more closely, the priest was drenched in a cold, clammy sweat. He clearly wasn't just relaxing in his chair and enjoying the evening breeze.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 5274,
+    "TextENGNew": "His complexion was terrible. He looked like he needed to lie down immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 5275,
+    "TextENGNew": "\"......I should probably take you to the clinic.@k@vS20/10/VTK1_irie1241. Can you stand?@k@vS20/10/VTK1_irie1242. Here, hold on to my shoulder.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Are you okay? Can you hold on to my shoulder?' (questions), new says 'Can you stand? Here, hold on to my shoulder.' (question + instruction); JPN 肩に掴まれますか is 'can you hold on to my shoulder', but the shift from 'are you okay' to 'can you stand' for 大丈夫ですか changes the medical context.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 5276,
+    "TextENGNew": "\"Someone, come help!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 5277,
+    "TextENGNew": "\"The priest isn't feeling well...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 5278,
+    "TextENGNew": "\"What's wrong with my husband?@k@vS20/00/VTK1_rikaM1100. Dear, are you all right...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 5279,
+    "TextENGNew": "\"Takano-san!!@k@vS20/10/VTK1_irie1244. Perfect timing!@k@vS20/10/VTK1_irie1245. The priest isn't well, so I'm taking him to the clinic.@k@vS20/10/VTK1_irie1246. Could you bring the car around to the bottom of the shrine steps?\"",
+    "significantChanges": true,
+    "changeReason": "New says 'bring the car around to the back' which adds spatial detail not in old 'have the car ready'; JPN 境内の下に車を回して means 'bring the car around to below the shrine grounds'.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 5280,
+    "TextENGNew": "\"Of course.@k@vS20/09/VTK1_takano1210. No trouble at all.@k@vS20/09/VTK1_takano1211. ...Hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 5281,
+    "TextENGNew": "And so the priest and his wife left for the clinic with Irie and the others.",
+    "significantChanges": true,
+    "changeReason": "Old says 'headed to the clinic with Dr. Irie', new says 'left for the clinic with Irie and the others'; JPN 入江たちと means 'with Irie and others', plural, while old implies just Irie.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 5282,
+    "TextENGNew": "...Young people may not know their bodies well, but the elderly do.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 5283,
+    "TextENGNew": "It was rare for them to push themselves to the point of becoming ill.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 5284,
+    "TextENGNew": "It was hard to imagine someone as seasoned as the priest drinking himself sick.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 5285,
+    "TextENGNew": "My instincts, honed over many years, were telling me something...",
+    "significantChanges": true,
+    "changeReason": "Old says 'cumulative experience of my years', new says 'instincts, honed over many years'; JPN 嗅覚 literally means 'sense of smell/instinct', not 'experience'.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 5286,
+    "TextENGNew": "...Deciding it was better to be safe, I headed for the Irie Clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 5287,
+    "TextENGNew": "I tried to follow by car, but the festival was ending and the food stalls were packing up, creating a stream of vehicles coming and going that made it nearly impossible to get out of the temporary parking lot.",
+    "significantChanges": true,
+    "changeReason": "New adds detail about 'food stalls packing up' and 'temporary parking' (臨時駐車場) from JPN; old just says 'stands were closing up' and 'the town'.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 5288,
+    "TextENGNew": "By the time I reached the clinic, more than twenty minutes had passed since the priest had been carried in.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 5289,
+    "TextENGNew": "Twenty minutes.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 5290,
+    "TextENGNew": "If not for those twenty minutes, my involvement in this year's incident would have been very different.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 5291,
+    "TextENGNew": "...The moment I realized my car was stuck, I should have gone on foot. That regret haunted me.",
+    "significantChanges": true,
+    "changeReason": "New restructures to 'The moment I realized my car was stuck, I should have gone on foot. That regret haunted me.' which matches JPN better - the regret is about not going on foot immediately, not about 'not leaving on foot' as the old somewhat confusingly states.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 5292,
+    "TextENGNew": "......All that remains is to record the facts.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 5293,
+    "TextENGNew": "Because in the mere twenty minutes between the priest leaving the festival and my arrival at the clinic, this year's curse had already run its course.",
+    "significantChanges": true,
+    "changeReason": "New adds 'mere' and 'already run its course' (全て行なわれてしまった), emphasizing completeness; old says 'had taken place' which is close but misses the 'all of it was already done' emphasis.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 5294,
+    "TextENGNew": "The priest's condition deteriorated rapidly shortly after he was brought into the clinic.",
+    "significantChanges": true,
+    "changeReason": "Old says 'changed for the worse', new says 'deteriorated rapidly'; JPN 容態が急変 means 'condition suddenly changed', and 急変 specifically implies rapidity that old doesn't capture.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 5295,
+    "TextENGNew": "He died.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 5296,
+    "TextENGNew": "...The subsequent autopsy ruled it heart failure, but I couldn't accept that at face value.",
+    "significantChanges": true,
+    "changeReason": "New adds 'at face value' (鵜呑みに) matching JPN 鵜呑みになどとてもできない (couldn't possibly swallow it whole/take at face value), while old just says 'how can I accept that'.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 5297,
+    "TextENGNew": "I had heard nothing about the priest having health problems, and his death came as a shock to everyone.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I don't think the priest was having health problems' (speaker's opinion), new says 'I had heard nothing about the priest having health problems' (lack of information); JPN 聞いていない means 'hadn't heard', making new more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 5298,
+    "TextENGNew": "Moreover, the priest's wife, who should have been at his side, had vanished.",
+    "significantChanges": true,
+    "changeReason": "New adds 'who should have been at his side' (付き添いをしていたはず) from JPN, important context that she was supposed to be attending to him.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 5299,
+    "TextENGNew": "According to the clinic staff, she had definitely been present right after his death, but when they next looked, she was gone.",
+    "significantChanges": true,
+    "changeReason": "New says 'she had definitely been present right after his death, but when they next looked, she was gone' which more accurately captures JPN ふと気付いたら姿が見えなくなっていた (when they happened to notice, she had disappeared), versus old's simpler 'she was with him... but she's nowhere to be seen now'.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 5300,
+    "TextENGNew": "Of course, she hadn't gone home.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she's not at home either' (present tense, she isn't there), new says 'she hadn't gone home' (past tense, she never went); JPN 帰っていない means 'has not returned home'.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 5301,
+    "TextENGNew": "By this point, I strongly suspected that someone had slipped poison into the priest's drink.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Maybe someone poisoned the priest' (speculation), new says 'I strongly suspected someone had slipped poison into the priest's drink' (strong suspicion); JPN 疑っていた means 'was suspecting/doubting', and 強く is implied by the context. Also new specifies 'drink' (飲まされた/made to drink).",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 5302,
+    "TextENGNew": "...During the dam conflict, the priest had drawn criticism for his fence-sitting remarks—that the dam project would be canceled eventually, so there was no need for such an uproar.",
+    "significantChanges": true,
+    "changeReason": "New adds 'fence-sitting' (日和見的) and 'drawn criticism' (ひんしゅくを買った) which are more specific than old's 'frowned upon for his remarks', better matching the JPN political nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 58,
+    "MessageID": 5303,
+    "TextENGNew": "The village elders were the grudge-bearing sort and hadn't forgotten. I had heard them whispering that such a man was unfit to preside over the shrine of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 5304,
+    "TextENGNew": "I immediately called for backup and ordered a search for the missing wife.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 5305,
+    "TextENGNew": "...Given the precedent of the previous year's couple falling to their deaths, the possibility that both husband and wife had become victims couldn't be ruled out.",
+    "significantChanges": true,
+    "changeReason": "Old says 'it was easy to believe', new says 'couldn't be ruled out'; JPN 考えられないことではなかった means 'it wasn't something that couldn't be considered', a double negative closer to 'couldn't be ruled out'.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 5306,
+    "TextENGNew": "The village youth association was mobilized and a search was conducted from the village to the mountains, and as a result...",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 5307,
+    "TextENGNew": "...a neatly arranged pair of sandals and a farewell letter were found at the edge of the Onigafuchi Swamp.",
+    "significantChanges": true,
+    "changeReason": "New says 'neatly arranged pair of sandals and a farewell letter' while old says 'a set of sandals and a will'; JPN 揃えた草履 means 'neatly arranged sandals' (a detail of ritual suicide preparation) and 遺書 can be 'will' or 'farewell letter'.",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 5308,
+    "TextENGNew": "The letter spoke of her husband's death as the curse of Oyashiro-sama, and expressed her intent to calm the god's wrath by offering herself.@k In other words, it implied she had drowned herself in the swamp.",
+    "significantChanges": true,
+    "changeReason": "New says 'expressed her intent to calm the god's wrath by offering herself' and 'implied she had drowned herself' while old says 'she was throwing herself in'; JPN ほのめかしていた means 'hinted/implied', not stated directly.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 5309,
+    "TextENGNew": "Since ancient times, the Onigafuchi Swamp was said to be a bottomless mire connected to the realm of demons—once you sank, you would never return.",
+    "significantChanges": true,
+    "changeReason": "New says 'bottomless mire connected to the realm of demons' matching JPN 鬼の国 (country/realm of demons), while old says 'connected directly to Hell'. Also new adds 'since ancient times' (大昔から).",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 5310,
+    "TextENGNew": "Police divers conducted a careful search, but they never recovered the body...",
+    "significantChanges": true,
+    "changeReason": "Old says 'her body was nowhere to be found' (not located), new says 'they never recovered the body' (unrecoverable); JPN ついに遺体を見つけることはできなかった means 'in the end could not find the body', and new's trailing '...' matches the JPN ellipsis.",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 5311,
+    "TextENGNew": "The previous two mysterious death cases had been neatly resolved as unrelated incidents, just as the brass insisted.",
+    "significantChanges": true,
+    "changeReason": "Old says 'solved individually', new says 'neatly resolved as unrelated incidents'; JPN 個別の事件ですでに解決している means 'already resolved as separate/individual cases', and 'neatly resolved as unrelated' better captures the forced-closure implication.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 5312,
+    "TextENGNew": "...But something about this third case didn't sit right.",
+    "significantChanges": true,
+    "changeReason": "Old says 'something is odd', new says 'something didn't sit right'; also new specifies 'third case' while old just says 'this year's'.",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 5313,
+    "TextENGNew": "The ailing priest was carried to the clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 5314,
+    "TextENGNew": "His wife accompanied him.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 5315,
+    "TextENGNew": "And in the span of a mere twenty minutes, the priest died of heart failure, and his wife either drowned herself in the swamp or simply disappeared.",
+    "significantChanges": true,
+    "changeReason": "New adds 'drowned herself in the swamp' (沼に入水自殺) as an explicit option, while old just says 'committed suicide or disappeared', missing the drowning method.",
+    "changeScore": 2
+  },
+  {
+    "index": 71,
+    "MessageID": 5316,
+    "TextENGNew": "Perhaps the priest really had succumbed to a sudden cardiac episode.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 5317,
+    "TextENGNew": "But for his wife to interpret it as a curse, resolve to appease the gods by drowning herself—and for all of that to happen in twenty minutes—was, by any measure, profoundly unnatural.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 5318,
+    "TextENGNew": "The Furude family had no relatives.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 5319,
+    "TextENGNew": "Even the most devout believer in Oyashiro-sama would never commit suicide and leave behind her only daughter.",
+    "significantChanges": true,
+    "changeReason": "Old says 'how could she commit suicide while leaving behind her one and only daughter' (questioning), new says 'would never commit suicide and leave behind her only daughter' (asserting); JPN しないはずだ means 'should not/would not', an assertion, not a question.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 5320,
+    "TextENGNew": "...Irie was hiding something, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 5321,
+    "TextENGNew": "But Irie was merely a village doctor—a pawn, if anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 5322,
+    "TextENGNew": "...If this was a conspiracy and the priest had been assassinated, then someone was pulling the strings from behind the scenes.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 5323,
+    "TextENGNew": "I had been on the verge of thinking that forcing a connection between the village and the first two incidents was perhaps overly aggressive on my part, but...",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 5324,
+    "TextENGNew": "...this case was enough to convince me beyond all doubt that the Hinamizawa serial mysterious deaths were a connected series of crimes, driven by a single deliberate will...",
+    "significantChanges": true,
+    "changeReason": "New adds 'a connected series of crimes, driven by a single deliberate will' matching JPN あるひとつの意思に基づいて行なわれている連続事件, while old just says 'grounded in one intention'.",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 5325,
+    "TextENGNew": "This case was buried under a mountain of suspicious details too numerous to count, but someone from the village appeared to be pressuring the higher-ups.",
+    "significantChanges": true,
+    "changeReason": "Old says 'countless discrepancies... someone from the village seems to be putting pressure' as one sentence; new correctly separates into 'buried under a mountain of suspicious details' and identifies the pressure on higher-ups, matching JPN structure better. New also clarifies 'pressuring the higher-ups' (上層部に圧力).",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 5326,
+    "TextENGNew": "And just like the previous cases, this one would be treated as an isolated incident and forcibly consigned to oblivion...",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 5327,
+    "TextENGNew": "Three years running—by now, everyone in the village was whispering that it had to be the curse of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 5328,
+    "TextENGNew": "...I had a feeling that was precisely the culprit's aim.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 5329,
+    "TextENGNew": "Belief in Oyashiro-sama had once waned after the war.",
+    "significantChanges": true,
+    "changeReason": "Old says 'became antiquated', new says 'had once waned'; JPN 一度は廃れた means 'once declined/waned', implying it could return, while 'antiquated' suggests it simply became old-fashioned.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 5330,
+    "TextENGNew": "...Was someone committing these ritualistic murders to restore the god's authority?",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 5331,
+    "TextENGNew": "The one pulling the strings... had to be the Sonozaki main family.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 5332,
+    "TextENGNew": "Several months passed.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 5333,
+    "TextENGNew": "During that time, Oryou Sonozaki made a public declaration that the priest had gotten what was coming to him—that he deserved to be cursed by Oyashiro-sama—and formally decreed that the priest's case would be incorporated into the series of Hinamizawa mysterious deaths, popularly known as \"Oyashiro-sama's curse.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'made a public declaration' and 'formally decreed' conveying Oryou's authoritative pronouncement; also new specifies she 'formally decreed that the priest's case was part of the curse series', while old is less specific about the formal nature of the decree.",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 5334,
+    "TextENGNew": "At first, all I had wanted was to avenge the old man.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 5335,
+    "TextENGNew": "...But the case had now grown into something bizarre—an uncanny series of events tracing the contours of the village's faith, taking on a monstrous shape.",
+    "significantChanges": true,
+    "changeReason": "New says 'something bizarre—an uncanny series of events tracing the contours of the village's faith, taking on a monstrous shape' which captures JPN 奇怪な事件に成長し、異様な輪郭を見せつつある (grew into a bizarre case, showing an eerie outline), while old simply says 'abnormal one, centered on the village's faith'.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 5336,
+    "TextENGNew": "...Damn it all.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 5337,
+    "TextENGNew": "The old man's killer was human.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 5338,
+    "TextENGNew": "...I refused to let this be brushed aside as some incomprehensible curse!",
+    "significantChanges": false
+  }
+]

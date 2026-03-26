@@ -1,0 +1,2420 @@
+[
+  {
+    "index": 1,
+    "MessageID": 73966,
+    "TextENGNew": "And then came the next day, Saturday.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 73967,
+    "TextENGNew": "Waiting for us there was Coach... along with the Hinamizawa Fighters and the Okinomiya Titans.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 73968,
+    "TextENGNew": "Which meant this place was...",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 73969,
+    "TextENGNew": "``A-a baseball fieeeeld?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 73970,
+    "TextENGNew": "On top of that, today happened to be a joint practice day for both teams.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 73971,
+    "TextENGNew": "``Ahh, I knew it...``@k@vS07/03/330300132. I had a feeling this might be the case, since he deliberately waited a whole night and specified this location.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 73972,
+    "TextENGNew": "``Unbelievable!``@k@vS07/06/330600090. If he'd just quit this nonsense and hand it over, everything would be settled already!``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 73973,
+    "TextENGNew": "``...Mii, this is terribly roundabout.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 73974,
+    "TextENGNew": "``No, no, that simply won't do!``@k@vS07/10/331000134. This contest has my long-cherished ambitions riding on it!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 73975,
+    "TextENGNew": "``Whether my dream is fulfilled or I'm forced to give it up, I need you challengers to show me the strength of your own resolve!!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 73976,
+    "TextENGNew": "``Yeah, yeah, we get it... Sheesh.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 73977,
+    "TextENGNew": "Incidentally, when we tried to send Rena home afterward, she fought back so violently that we had to restrain her and put her to sleep with Coach's special sleeping medication. Apparently she won't wake up until close to evening.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 73978,
+    "TextENGNew": "Normally that would have meant an unexcused absence, but luckily today was a school holiday due to a teacher's scheduling conflict.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 73979,
+    "TextENGNew": "Which was why we could all head out to Okinomiya first thing in the morning without a care.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 73980,
+    "TextENGNew": "Hmm? ...All of \"us\"?",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 73981,
+    "TextENGNew": "``Hey, Shion.``@k@vS07/01/330100259. I thought your school wasn't closed today...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 73982,
+    "TextENGNew": "``Huh?``@k@vS07/06/330600092. Oh really~? Was it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 73983,
+    "TextENGNew": "...Well, whatever. She seemed to have skipped yesterday too, so I decided not to pry.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 73984,
+    "TextENGNew": "``Anyway, let's settle this quick and get the magatama back!``@k@vS07/01/330100261. All right, Coach, what's the challenge?!``@k@vS07/01/330100262. Whatever it is, bring it on!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 73985,
+    "TextENGNew": "``Heh heh heh... It's quite simple.``@k@vS07/10/331000137. Let us settle this with a home run derby!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 73986,
+    "TextENGNew": "``A h-home run derby?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 73987,
+    "TextENGNew": "``That's right!``@k@vS07/10/331000139. You may select power hitters from the Hinamizawa Fighters, and the match will be decided by how many home runs each side's representative hits out of ten pitches!``",
+    "significantChanges": true,
+    "changeReason": "Different numbers: old has {'10'}, new has set().",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 73988,
+    "TextENGNew": "``And if the score is tied after ten pitches, we go to sudden death until one side pulls ahead!``@k@vS07/10/331000141. So, what do you say? Will you accept the challenge?!``",
+    "significantChanges": true,
+    "changeReason": "Different numbers: old has {'10'}, new has set().",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 73989,
+    "TextENGNew": "``Hell yeah, you're on!!``@k@vS07/01/330100264. By the way, we get to choose which pitcher goes against the opposing batter, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 73990,
+    "TextENGNew": "``Certainly.``@k@vS07/10/331000143. Now then, the Hinamizawa Fighters' representative will be...``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 73991,
+    "TextENGNew": "``Here, here!``@k@vS07/02/330200240. Rena Ryuugu, reporting for duty~♪``",
+    "significantChanges": true,
+    "changeReason": "Significantly different wording changes the reader's understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 73992,
+    "TextENGNew": "````Wh-whaaaaaat?!````",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 73993,
+    "TextENGNew": "``W-wait, Rena!``@k@vS07/01/330100267. Weren't you supposed to be knocked out cold from those sleeping pills?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 73994,
+    "TextENGNew": "...I glanced over at Coach, and he looked just as surprised. So this wasn't part of his plan after all.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 73995,
+    "TextENGNew": "``R-Ryuugu-san?``@k@vS07/10/331000146. How did you wake up?``@k@vS07/10/331000147. That dose should have been enough to put an elephant to sleep for a full day?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 73996,
+    "TextENGNew": "``...Hold on, Coach. That's definitely a lethal dose for a human being, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 73997,
+    "TextENGNew": "``Ahahahaha!``@k@vS07/02/330200242. It's the power of love, Master♪``@k@vS07/02/330200243. Anyone who tries to break the bond between Rena and her Master will be beaten to death with this bat~♪``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 73998,
+    "TextENGNew": "``...L-love? Master?``@k@vS07/10/331000149. Wh-whooooaaaa?!``@k@vS07/10/331000150. As expected of the Super Maid I bestowed the title of Maid-Craft Master upon!!``@k@vS07/10/331000151. In that case, Ryuugu-san!``@k@vS07/10/331000152. I leave everything in your hands!!``@k@vS07/10/331000153. Give them everything you've got!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 73999,
+    "TextENGNew": "``Yes, sir!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 74000,
+    "TextENGNew": "Hey, don't just go deciding things on impulse, Coach.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 74001,
+    "TextENGNew": "...Besides, Rena isn't even on the Hinamizawa Fighters, is she?",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 74002,
+    "TextENGNew": "The team members behind us who'd been raring to go were clearly sulking now.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 74003,
+    "TextENGNew": "I just hoped this wouldn't cause problems at the next practice...",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 74004,
+    "TextENGNew": "``Th-this is bad, Keiichi-san...!``@k@vS07/04/330400191. Believe it or not, when Rena-san helped out the Fighters before, she was an even bigger power slugger than Mion-san!``@k@vS07/04/330400192. Any ordinary pitcher would have every ball launched into the stands!!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 74005,
+    "TextENGNew": "``Heh... Don't worry, Satoko.``@k@vS07/01/330100269. I anticipated something like this, so yesterday I called in the ultimate ace.``@k@vS07/01/330100270. ...Your time has come!! Kameda-kuuun!!!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 74006,
+    "TextENGNew": "``Gah ha ha ha!!``@k@vS07/23/VT2A_kameda1002. I've been waiting for you to call, Keeeei!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 74007,
+    "TextENGNew": "And then, standing tall and proud, the Koshien-caliber ace pitcher appeared -- Kameda-kun!!",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 74008,
+    "TextENGNew": "Normally he's a hot-blooded idiot with a sweet tooth, but in his uniform he transforms into a completely different person -- a total demon on the mound!!",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 74009,
+    "TextENGNew": "Not even Rena could possibly hit his blazing fastballs!!",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 74010,
+    "TextENGNew": "``I'm counting on you, Kameda-kun!``@k@vS07/01/330100272. Lend us that iron arm of yours for today!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 74011,
+    "TextENGNew": "``Don't be a stranger, Keeeei!!``@k@vS07/23/VT2A_kameda1004. You and I are comrades who shared a jumbo parfait together!!``@k@vS07/23/VT2A_kameda1005. We're sworn friends -- practically brothers!!``@k@vS07/23/VT2A_kameda1006. For something like this, I'll always come running to your side, K!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 74012,
+    "TextENGNew": "``All riiiight!!``@k@vS07/01/330100274. I knew you'd say that, my friend!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 74013,
+    "TextENGNew": "We shared a firm, passionate handshake of friendship. ...Behind us, Mion and the others were giving us the coldest, most withering stares imaginable, but I chose to ignore them.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 74014,
+    "TextENGNew": "``So there you have it!``@k@vS07/01/330100276. Rena, your opponent is Kameda-kun!!``@k@vS07/01/330100277. Even you are no match for him!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 74015,
+    "TextENGNew": "``Ahahahaha!!``@k@vS07/02/330200246. Too naive, Keiichi-kun, way too naive!!``@k@vS07/02/330200247. Rena anticipated this and woke up early to devour biographies of major leaguers!!``@k@vS07/02/330200248. Don't think things will go the way you planned~??``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 74016,
+    "TextENGNew": "``...Umm, Mion-san.``@k@vS07/04/330400194. Does reading baseball player biographies actually improve your playing skills?``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 74017,
+    "TextENGNew": "``Wh-who knows...``@k@vS07/03/330300135. This ol' man doesn't really think those are related...``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 74018,
+    "TextENGNew": "``...Mii.``@k@vS07/05/330500155. It's probably like when people watch kung fu movies and think they've gotten stronger.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 74019,
+    "TextENGNew": "...Anyway, as the representative of Coach's team (you could hardly call them the Hinamizawa Fighters at this point), Rena Ryuugu would be batting. Pitching against her would be Kameda-kun.",
+    "significantChanges": true,
+    "changeReason": "New translation adds specific name/reference: ryuugu.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 74020,
+    "TextENGNew": "Meanwhile, the representative for our club team would be me, Keiichi Maebara!",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 74021,
+    "TextENGNew": "And the pitcher facing me would be...",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 74022,
+    "TextENGNew": "``Hey, to keep things fair, how about I pitch to K... I mean, to Keiichi Maebara as well?``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 74023,
+    "TextENGNew": "``Oh?``@k@vS07/01/330100279. You'd do that, Kameda-kun?``@k@vS07/01/330100280. Wow, thanks! In that case, let's do th--``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 74024,
+    "TextENGNew": "``Kameda!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 74025,
+    "TextENGNew": "``--?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 74026,
+    "TextENGNew": "``Ahahahahaha. Kameda-kun, Keiichi-kun.``@k@vS07/02/330200251. ...No cheating, got it?``@k@vS07/02/330200252. The two of you are scheming something, aren't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 74027,
+    "TextENGNew": "``W-we're not scheming anyth--``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 74028,
+    "TextENGNew": "``Liar!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 74029,
+    "TextENGNew": "``I know how close you two are, all right?``@k@vS07/02/330200255. So Kameda-kun is probably planning to throw easy pitches when it's Keiichi-kun's turn.``@k@vS07/02/330200256. That was the plan, wasn't it? Am I wrong? ...Am I?``@k@vS07/02/330200257. Ahahahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 74030,
+    "TextENGNew": "``I-I... I was...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 74031,
+    "TextENGNew": "``So here's what we'll do, Keiichi-kun.``@k@vS07/02/330200259. When it's your turn, Rena will be the one pitching.``@k@vS07/02/330200260. Don't worry, it'll be fine.``@k@vS07/02/330200261. It's not like my hand would slip and the ball would fly at your head or anything.``@k@vS07/02/330200262. Ahahahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 74032,
+    "TextENGNew": "``R-right...``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 74033,
+    "TextENGNew": "The truly terrifying part was not knowing whether she was joking or dead serious...",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 74034,
+    "TextENGNew": "Before long, the first at-bat began.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 74035,
+    "TextENGNew": "Rena was up first. Kameda-kun took the mound.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 74036,
+    "TextENGNew": "``Now then, let us begin!``@k@vS07/10/331000155. I, Kyousuke Irie, coach of the Hinamizawa Fighters, shall serve as umpire!``@k@vS07/10/331000156. Balls don't count, so pitchers, please keep your pitches in the strike zone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 74037,
+    "TextENGNew": "``And everyone from both teams, please handle ball retrieval -- think of it as outfield practice~!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 74038,
+    "TextENGNew": "````...Okaaay...````",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 74039,
+    "TextENGNew": "...Sorry, everyone. Getting you all dragged into our ridiculous showdown before your actual game.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 74040,
+    "TextENGNew": "Some of the kids were even muttering, ``Maybe I should just go home today...``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 74041,
+    "TextENGNew": "``...Heh.``@k@vS07/23/VT2A_kameda1011. To think that I, the great Kameda-sama, would be going all-out against a girl.``@k@vS07/23/VT2A_kameda1012. Fair warning -- my fastball is seriously fast, you know~?``@k@vS07/23/VT2A_kameda1013. If you want to give up, now's your chance.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 74042,
+    "TextENGNew": "``...Weak dogs bark the loudest.``@k@vS07/02/330200264. Whatever. Just hurry up and throw... Parfait Boy.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 74043,
+    "TextENGNew": "``...!``@k@vS07/23/VT2A_kameda1015. Then take this!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 74044,
+    "TextENGNew": "Kameda-kun's blazing fastball came screaming toward Rena's inside corner!!@k But then--",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 74045,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 74046,
+    "TextENGNew": "``...Wh-whaaaat?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 74047,
+    "TextENGNew": "Rena took a full, powerful swing and sent Kameda-kun's pitch flying effortlessly... sailing clear over the home run line and far into the distance.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 74048,
+    "TextENGNew": "``I-incredible...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 74049,
+    "TextENGNew": "``N-no way...?!``@k@vS07/23/VT2A_kameda1018. Nobody has ever managed to hit my full-power fastball, not even in the regional qualifiers...??``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 74050,
+    "TextENGNew": "``And with that, Rena takes the first point!``@k@vS07/02/330200266. ...All right, you're up next, Keiichi-kun.``@k@vS07/02/330200267. Step into the batter's box.``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 74051,
+    "TextENGNew": "``Y-yeah...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 74052,
+    "TextENGNew": "I faced Rena as she briskly walked to the pitcher's mound, then stepped into the batter's box and raised my bat.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 74053,
+    "TextENGNew": "``Here I come--!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 74054,
+    "TextENGNew": "Rena slowly raised her leg from the set position, and in one fluid motion -- from shoulder to elbow to wrist -- delivered the pitch with flawless efficiency.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 74055,
+    "TextENGNew": "``...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 74056,
+    "TextENGNew": "Center of the zone, slightly low... Wait -- it's fast?!",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 74057,
+    "TextENGNew": "Bewildered as I was, I somehow managed to tighten my grip, and then--!!",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 74058,
+    "TextENGNew": "*SMAAACK*!!",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 74059,
+    "TextENGNew": "``Strike!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 74060,
+    "TextENGNew": "Rena's pitch slipped right past my swing and landed in the catcher's mitt behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 74061,
+    "TextENGNew": "``Ahahahaha!``@k@vS07/02/330200270. Rena starts off with a one-point lead~!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 74062,
+    "TextENGNew": "``Rgh...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 74063,
+    "TextENGNew": "Even accounting for my carelessness... to swing and miss completely... What a blunder!",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 74064,
+    "TextENGNew": "``K-Keiichi-san...``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 74065,
+    "TextENGNew": "``Keiichi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 74066,
+    "TextENGNew": "Satoko and the others watched me anxiously.",
+    "significantChanges": true,
+    "changeReason": "Significantly different wording changes the reader's understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 103,
+    "MessageID": 74067,
+    "TextENGNew": "...It's not over yet! That was only the first at-bat!",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 74068,
+    "TextENGNew": "If Rena misses the next one and I connect...!",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 74069,
+    "TextENGNew": "*ping*!",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 74070,
+    "TextENGNew": "``Foul!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 74071,
+    "TextENGNew": "My bat barely grazed Rena's pitch, and the ball dribbled weakly into the foul zone on the first-base side.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 74072,
+    "TextENGNew": "``So close, ahahaha!``@k@vS07/02/330200274. Rena starts off with a one-point lead~!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 74073,
+    "TextENGNew": "``Rgh...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 74074,
+    "TextENGNew": "Even accounting for my carelessness... to mis-hit like that... What a blunder!",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 74075,
+    "TextENGNew": "``K-Kei-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 74076,
+    "TextENGNew": "``Come on, pull yourself together!``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 74077,
+    "TextENGNew": "Mion and the others watched me anxiously.",
+    "significantChanges": true,
+    "changeReason": "Significantly different wording changes the reader's understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 74078,
+    "TextENGNew": "...It's not over yet! That was only the first at-bat!",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 74079,
+    "TextENGNew": "If Rena misses the next one and I connect...!",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 74080,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 74081,
+    "TextENGNew": "``Wh-whaaaaaa?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 74082,
+    "TextENGNew": "Rena's hit once again sailed deep over the outfield line. Another home run.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 74083,
+    "TextENGNew": "On the mound, Kameda-kun's shoulders slumped in defeat. ...One look at him made it obvious -- he hadn't held back or made any mistakes on that pitch.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 74084,
+    "TextENGNew": "``All right, your turn, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 74085,
+    "TextENGNew": "``R-right...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 74086,
+    "TextENGNew": "Facing Rena on the mound, I gripped the bat and steadied my stance.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 74087,
+    "TextENGNew": "``--Here!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 74088,
+    "TextENGNew": "Okay... inside corner, a bit low, right through the middle!",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 74089,
+    "TextENGNew": "I timed my swing, and then--",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 74090,
+    "TextENGNew": "*SMAAACK*!!",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 74091,
+    "TextENGNew": "``Strike!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 74092,
+    "TextENGNew": "Once again, Rena's pitch slipped past my swing and landed squarely in the catcher's mitt.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 74093,
+    "TextENGNew": "``Oh man~, his timing is completely off...``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 74094,
+    "TextENGNew": "``Come on, Kei-chan, what are you doing~?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 74095,
+    "TextENGNew": "Rgh...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 74096,
+    "TextENGNew": "I was sure I had it perfectly timed... so what went wrong?!",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 134,
+    "MessageID": 74097,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 74098,
+    "TextENGNew": "``Fair!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 74099,
+    "TextENGNew": "I put everything I had into hitting Rena's pitch, and the ball shot down the third-base line like a bullet!!",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 74100,
+    "TextENGNew": "``Yes, an extra-base hit!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 138,
+    "MessageID": 74101,
+    "TextENGNew": "``What are you talking about? A base hit is useless~!``@k@vS07/03/330300141. This is a home run derby, remember?!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 139,
+    "MessageID": 74102,
+    "TextENGNew": "Still... I hate to say it, but my timing and my read on the pitch should have been spot-on.",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 140,
+    "MessageID": 74103,
+    "TextENGNew": "I was sure I'd nailed it perfectly... so why did the result feel so wrong?!",
+    "significantChanges": true,
+    "changeReason": "Significantly different wording changes the reader's understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 141,
+    "MessageID": 74104,
+    "TextENGNew": "``...Mii, could it be?``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 74105,
+    "TextENGNew": "``You noticed it too, Rika?``@k@vS07/04/330400197. I thought so -- there's no mistaking it...!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 143,
+    "MessageID": 74106,
+    "TextENGNew": "Satoko seemed to have realized something and walked over to me. Then--",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 74107,
+    "TextENGNew": "``Keiichi-san, be careful!``@k@vS07/04/330400199. ...That pitch Rena-san just threw -- it was a slider!``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 74108,
+    "TextENGNew": "``A slider? ...What's that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 74109,
+    "TextENGNew": "``You don't know?!``@k@vS07/04/330400201. It's a breaking ball that travels at nearly the same speed as a fastball but curves away from the batter at the last moment!``@k@vS07/04/330400202. In some ways it's even harder to hit than a curveball -- a deadly pitch that the pros rely on!``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 74110,
+    "TextENGNew": "``Wh-what?!``@k@vS07/01/330100291. How can Rena throw a pitch like that?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 74111,
+    "TextENGNew": "``Well... probably because she read those biographies?``@k@vS07/03/330300139. Of legendary pitchers from the past?``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 74112,
+    "TextENGNew": "``What kind of logic is that?!``@k@vS07/01/330100293. If you could master killer pitches just by reading books, pro baseball players wouldn't be earning those massive salaries!!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 150,
+    "MessageID": 74113,
+    "TextENGNew": "``...And yet she's actually throwing them.``@k@vS07/06/330600098. I'd like to say it's typical of Rena-san, but... honestly, I'm astonished.``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 74114,
+    "TextENGNew": "``...Mii.``@k@vS07/05/330500159. Even if the magatama's power is behind it, being able to throw magic pitches for the sake of the person she loves -- Rena is truly something else.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 1
+  },
+  {
+    "index": 152,
+    "MessageID": 74115,
+    "TextENGNew": "``T-true...``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 74116,
+    "TextENGNew": "While we were still talking, Rena's third at-bat began, and Kameda-kun -- now half in tears, his pride shattered -- threw his third pitch. And then--",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 74117,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 74118,
+    "TextENGNew": "``E-eeeek?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 74119,
+    "TextENGNew": "The batted ball traced yet another majestic arc, soaring high into the blue sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 74120,
+    "TextENGNew": "But... for better or worse, its trajectory carried it past the foul line. Foul ball.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 158,
+    "MessageID": 74121,
+    "TextENGNew": "``...Though in terms of distance alone, that would have easily cleared the stands.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 159,
+    "MessageID": 74122,
+    "TextENGNew": "``...Gh.``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 74123,
+    "TextENGNew": "A chill ran through me as I was reminded yet again just what a formidable opponent I was facing.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 161,
+    "MessageID": 74124,
+    "TextENGNew": "``...Tch, put a little too much into that one.``@k@vS07/02/330200276. All right, Keiichi-kun, step up for your third at-bat.``@k@vS07/02/330200277. Ready?``@k@vS07/02/330200278. Ahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 74125,
+    "TextENGNew": "``...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 74126,
+    "TextENGNew": "With the overwhelming gap in power laid bare, I stepped up to the plate.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 164,
+    "MessageID": 74127,
+    "TextENGNew": "Would the next one be a breaking ball, or a fastball...?",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 74128,
+    "TextENGNew": "Damn it, having to worry about the type of pitch on top of the course -- I can't focus at all...!",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 166,
+    "MessageID": 74129,
+    "TextENGNew": "``--There!``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 74130,
+    "TextENGNew": "Rena's pitch came hurtling toward the outside corner!",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 74131,
+    "TextENGNew": "Just barely within reach of my bat!",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 74132,
+    "TextENGNew": "*TIIIING*!!",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 74133,
+    "TextENGNew": "``...Foul!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 74134,
+    "TextENGNew": "The ball grazed the top of my bat as I swung and slammed into the backstop.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 74135,
+    "TextENGNew": "I had the timing right, but... was that a straight pitch just now?",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 74136,
+    "TextENGNew": "``...Timeout!``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 74137,
+    "TextENGNew": "Just then, Satoko leaped up with a look of exasperation and ran over to me.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 176,
+    "MessageID": 74138,
+    "TextENGNew": "And then--",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 74139,
+    "TextENGNew": "``...Keiichi-san, what did you read that last pitch as?``",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 74140,
+    "TextENGNew": "``Huh?``@k@vS07/01/330100299. Umm... a fastball?``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 74141,
+    "TextENGNew": "``Wrong!``@k@vS07/04/330400206. That was another slider!``@k@vS07/04/330400207. ...This is bad.``@k@vS07/04/330400208. At this rate, you'll barely be able to make contact, let alone hit a home run...!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 180,
+    "MessageID": 74142,
+    "TextENGNew": "``D-damn it...!``@k@vS07/01/330100301. Satoko, what should I do?``@k@vS07/01/330100302. Do you know how to hit a slider?``",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 74143,
+    "TextENGNew": "``I've only ever read about it in books.``@k@vS07/04/330400210. I've never actually played against someone who could throw breaking balls...``@k@vS07/04/330400211. What on earth should we -- oh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 74144,
+    "TextENGNew": "Then, as if struck by a flash of inspiration, Satoko clapped her hands together.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 74145,
+    "TextENGNew": "``Keiichi-san, Keiichi-san! Would you let me handle the remaining at-bats?``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 74146,
+    "TextENGNew": "``I just had a wonderful idea... Oh ho ho ho!``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 74147,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 74148,
+    "TextENGNew": "````Wh-whoooaaa!!````",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 74149,
+    "TextENGNew": "Yes!!",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 74150,
+    "TextENGNew": "The ball was hit cleanly, the batter's body weight perfectly behind it, and it shot in a straight line toward the home run zone in right field!!",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 189,
+    "MessageID": 74151,
+    "TextENGNew": "However--",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 74152,
+    "TextENGNew": "``...Ah, aaah~!``@k@vS07/06/330600102. So close~~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 74153,
+    "TextENGNew": "The ball dropped just a few meters -- no, just a few dozen centimeters short.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 74154,
+    "TextENGNew": "But my timing seemed to be getting better, so the next one should be doable! All riiight...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 74155,
+    "TextENGNew": "``...Hmph.``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 74156,
+    "TextENGNew": "I had expected Rena to feel threatened, but instead she wore a pitying smile as she removed her glove, picked up a bat, and spoke.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 195,
+    "MessageID": 74157,
+    "TextENGNew": "``...I'm a bit disappointed, Keiichi-kun.``@k@vS07/02/330200282. Rena even went to the trouble of going easy on you to make it a good match.``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 74158,
+    "TextENGNew": "``Wh-what?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 74159,
+    "TextENGNew": "``Keiichi-san... that was a fastball.``@k@vS07/04/330400216. And a very deliberately aimed one at that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 74160,
+    "TextENGNew": "Satoko added that reluctantly.",
+    "significantChanges": true,
+    "changeReason": "New translation removes specific name/reference: rena.",
+    "changeScore": 3
+  },
+  {
+    "index": 199,
+    "MessageID": 74161,
+    "TextENGNew": "Damn...! Did my indecision about whether it was a breaking ball or a fastball cost me the distance?",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 200,
+    "MessageID": 74162,
+    "TextENGNew": "``If you can't catch up even with that, the outcome is already decided.``@k@vS07/02/330200284. From here on, Rena's going all out, so brace yourself.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds specific name/reference: rena.",
+    "changeScore": 3
+  },
+  {
+    "index": 201,
+    "MessageID": 74163,
+    "TextENGNew": "``...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 74164,
+    "TextENGNew": "N-no good...! As much as I hate to admit it, the gap between Rena and me right now is just too wide!!",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 203,
+    "MessageID": 74165,
+    "TextENGNew": "``D-damn it...!``@k@vS07/01/330100301. Satoko, what should I do?``@k@vS07/01/330100302. Do you know how to hit a slider?``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 74166,
+    "TextENGNew": "``I've only ever read about it in books.``@k@vS07/04/330400210. I've never actually played against someone who could throw breaking balls...``@k@vS07/04/330400211. What on earth should we -- oh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 74167,
+    "TextENGNew": "Then, as if struck by a flash of inspiration, Satoko clapped her hands together.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 74168,
+    "TextENGNew": "``Keiichi-san, Keiichi-san! Would you let me handle the remaining at-bats?``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 74169,
+    "TextENGNew": "``I just had a wonderful idea... Oh ho ho ho!``",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 74171,
+    "TextENGNew": "``All right... I'm counting on you, Satoko!``@k@vS07/01/330100306. But wait, are we even allowed to switch hitters mid-game?``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 74172,
+    "TextENGNew": "Feeling a bit uneasy, I ran the suggestion by Coach and Rena. But since they had such a commanding lead, they agreed without hesitation.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 211,
+    "MessageID": 74173,
+    "TextENGNew": "``Of course, of course! That's perfectly fine!``",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 74174,
+    "TextENGNew": "``Ahh... to have Ryuugu-san and Satoko-chan fighting over my exclusive maid position...!``@k@vS07/10/331000165. Truly a sad, lamentable showdown...``",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 74175,
+    "TextENGNew": "``But this is a tragedy born of my own irresistible charm!!``@k@vS07/10/331000167. Oh, how I hate myself!! I despise my inability to stop these two beautiful girls from being drawn to me!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 74176,
+    "TextENGNew": "``...If anything, watching you is what's giving me convulsions.``@k@vS07/04/330400218. Shall I just slug him and remove the root cause?``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 215,
+    "MessageID": 74177,
+    "TextENGNew": "``Ahahahahaha!@k@vS07/02/330200286. The stronger the enemy, the sweeter the prize~!@k@vS07/02/330200287. Whatever tricks you have, bring them on.@k@vS07/02/330200288. In the end, Rena and her Master will be the victors~?``",
+    "significantChanges": true,
+    "changeReason": "Minor rewording: 'value in victory' -> 'sweeter the prize'. Same meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 216,
+    "MessageID": 74178,
+    "TextENGNew": "``Oh ho ho ho!``@k@vS07/04/330400220. Enjoy your confidence while it lasts~.``@k@vS07/04/330400221. Now, behold my true power!!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 217,
+    "MessageID": 74179,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 74180,
+    "TextENGNew": "``Th-that's impossible...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 74181,
+    "TextENGNew": "This time, Kameda-kun sank to his knees right there on the mound.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 74182,
+    "TextENGNew": "Rena's third home run of the day sailed in a high arc toward center field and vanished from sight.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 221,
+    "MessageID": 74183,
+    "TextENGNew": "``S-Satoko...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 74184,
+    "TextENGNew": "``Leave it to me.``@k@vS07/04/330400223. Our first priority is to claw back at least one point.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 223,
+    "MessageID": 74185,
+    "TextENGNew": "And with that, Satoko stepped up to the plate.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 74186,
+    "TextENGNew": "``Ahahahaha.``@k@vS07/02/330200290. Ready, Satoko-chan?``@k@vS07/02/330200291. Rena won't hold back, not even for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 74187,
+    "TextENGNew": "``Of course~.``@k@vS07/04/330400225. The stronger the opponent, the more my blood stirs!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 226,
+    "MessageID": 74188,
+    "TextENGNew": "``Aahahaha, bold of you!``@k@vS07/02/330200293. All right then, here I come!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 227,
+    "MessageID": 74189,
+    "TextENGNew": "``Oh, one thing, Rena-san.``@k@vS07/04/330400227. ...You might want to watch the tell in your pitching arm when you throw that slider!``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 74190,
+    "TextENGNew": "``Huh--?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 74191,
+    "TextENGNew": "Rena was already in her pitching motion, but Satoko's remark made her eyes fly open in bewilderment.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 230,
+    "MessageID": 74192,
+    "TextENGNew": "She couldn't stop mid-delivery, so she released the ball in a visibly awkward throw, and--",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 231,
+    "MessageID": 74193,
+    "TextENGNew": "``...Ah?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 74194,
+    "TextENGNew": "``...Heh.``@k@vS07/04/330400229. I'll take that!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 74195,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 74196,
+    "TextENGNew": "Naturally, Satoko wasn't about to let a sloppy pitch slip by -- she swung the bat clean through.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 74197,
+    "TextENGNew": "The ball traced a powerful arc high into the sky, then disappeared deep into left field.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 236,
+    "MessageID": 74198,
+    "TextENGNew": "``A-all riiiight!!``@k@vS07/03/330300144. Way to go, Satoko! Nice hit!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 74199,
+    "TextENGNew": "``Oh ho ho ho!!``@k@vS07/04/330400231. All in a day's work!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 74200,
+    "TextENGNew": "Okay... that makes it 3 to 1!",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 74201,
+    "TextENGNew": "We're still at a disadvantage, sure, but psychologically it's a world of difference compared to having zero!",
+    "significantChanges": true,
+    "changeReason": "Different numbers: old has {'0'}, new has set().",
+    "changeScore": 2
+  },
+  {
+    "index": 240,
+    "MessageID": 74202,
+    "TextENGNew": "``S-...splendid!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 74203,
+    "TextENGNew": "``Oh, Tomita-kun.``@k@vS07/10/331000170. Forget the ball -- go get the camera from my bag!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 74204,
+    "TextENGNew": "I watched, feeling sorry for Tomita-kun being given such an absurd order, but he responded ``Yes, sir!!`` with sparkling eyes and dashed toward the third-base bench.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 74205,
+    "TextENGNew": "Hey, Coach, Tomita-kun... you all came here to play baseball today, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 74206,
+    "TextENGNew": "``...Tch!``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 74207,
+    "TextENGNew": "*TIIIING*!!",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 74208,
+    "TextENGNew": "``Aaah...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 74209,
+    "TextENGNew": "Maybe the frustration of being hit was still rattling her, because Rena's fifth at-bat resulted in a poorly struck infield pop fly.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 248,
+    "MessageID": 74210,
+    "TextENGNew": "And then came Satoko's second at-bat...",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 74211,
+    "TextENGNew": "``...I let my guard down, Satoko-chan.``@k@vS07/02/330200299. But next time won't be so easy...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 74212,
+    "TextENGNew": "Rena raised her arm with all her might and hurled the pitch with everything she had!",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 251,
+    "MessageID": 74213,
+    "TextENGNew": "It was the fastest pitch yet, screaming toward Satoko's inside corner!",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 74214,
+    "TextENGNew": "However--",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 74215,
+    "TextENGNew": "``...If all it has is speed, I can manage!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 254,
+    "MessageID": 74216,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 74217,
+    "TextENGNew": "``Wh-whoooaaa!!``@k@vS07/01/330100309. A-amazing, Satoko!``@k@vS07/01/330100310. Back-to-back home runs!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 256,
+    "MessageID": 74218,
+    "TextENGNew": "``Oh ho ho ho!!``@k@vS07/04/330400234. I can make up the difference in power by reading the pitches!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 257,
+    "MessageID": 74219,
+    "TextENGNew": "...Way to go, Satoko!",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 74220,
+    "TextENGNew": "She must have predicted that after having her slider tell exposed and giving up a hit, Rena would come in with a pure fastball!",
+    "significantChanges": true,
+    "changeReason": "New translation removes specific name/reference: satoko.",
+    "changeScore": 3
+  },
+  {
+    "index": 259,
+    "MessageID": 74221,
+    "TextENGNew": "``Ohhh! Ohhhhhh!!``@k@vS07/10/331000172. Marvelous, simply marvelous, Satoko-chan!!``@k@vS07/10/331000173. Please, you must join the Hinamizawa Fighters! I'll draft you as our cleanup batter for the very next game!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 74222,
+    "TextENGNew": "``...Master?``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 74223,
+    "TextENGNew": "``...Huh?!``@k@vS07/10/331000175. Oh, my apologies, Rena-san.``@k@vS07/10/331000176. Competition is ruthless -- please give it everything you've got!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 74224,
+    "TextENGNew": "``Yes, Master!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 74225,
+    "TextENGNew": "``All right, the score's now 3 to 2!``@k@vS07/03/330300146. ...I should back Satoko up here too.``@k@vS07/03/330300147. Heeeey, Kameda-kuuun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 74226,
+    "TextENGNew": "``...Fweh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 74227,
+    "TextENGNew": "Mion called out to Kameda-kun, who was utterly burned out -- his confidence and pride shattered to pieces. She leaned in and whispered something into his ear...",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 74228,
+    "TextENGNew": "``...R-really?!``@k@vS07/23/VT2A_kameda1024. Is that true, my angel?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 74229,
+    "TextENGNew": "``Yeah, but could you not call me 'my angel'...``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 74230,
+    "TextENGNew": "``Anyway, it's a promise.``@k@vS07/03/330300150. So snap out of it and give it everything you've got!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 74231,
+    "TextENGNew": "``Y-yeaaaahhhh!!``@k@vS07/23/VT2A_kameda1026. I can do this! I'm gonna do it!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 74232,
+    "TextENGNew": "``I'm about to become a demon of war!!``@k@vS07/23/VT2A_kameda1028. Any man who crosses my path will fall!!``@k@vS07/23/VT2A_kameda1029. Any demon who crosses my path will fall!!``@k@vS07/23/VT2A_kameda1030. The fate of the empire rests on this maaatch!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 74233,
+    "TextENGNew": "With that, all traces of his earlier exhaustion vanished, and Kameda-kun took the mound with an aura of blazing flames at his back.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 272,
+    "MessageID": 74234,
+    "TextENGNew": "He turned to face Rena, who stood calmly smiling in the batter's box. He carefully applied rosin to his hands, then gripped the ball tight.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 273,
+    "MessageID": 74235,
+    "TextENGNew": "``...What's this?``@k@vS07/02/330200303. What happened, little loser?``@k@vS07/02/330200304. Full of energy all of a sudden... but it won't change the outcome, you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 74236,
+    "TextENGNew": "``Heh, heheheh...!``@k@vS07/23/VT2A_kameda1032. Sorry about this, miss.``@k@vS07/23/VT2A_kameda1033. The man I was a moment ago... just died!``",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 74237,
+    "TextENGNew": "``And standing before you now is the reborn NEW KAMEDA!!``@k@vS07/23/VT2A_kameda1035. A completely different pitcher from before!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 74238,
+    "TextENGNew": "Kameda-kun raised his leg sky-high -- as if thrusting it toward the heavens -- and lunged forward, pouring every ounce of his weight and willpower into a blazing fastball!!",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 74239,
+    "TextENGNew": "``UOOOOOO!!``@k@vS07/23/VT2A_kameda1037. Take my soul!! EAT THIIIIIS!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 74240,
+    "TextENGNew": "``--Rgh?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 74241,
+    "TextENGNew": "Overwhelmed by the sheer force of the pitch, even Rena couldn't hit it back properly -- the best she could manage was to get her bat on it.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 74242,
+    "TextENGNew": "...The weakly hit ball dribbled through the infield and rolled to a stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 74243,
+    "TextENGNew": "``H-hey, Mion...``@k@vS07/01/330100312. What exactly did you tell Kameda-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 74244,
+    "TextENGNew": "``Oh, nothing much.``@k@vS07/03/330300152. I just told him that for every pitch he shuts Rena down on, I'd add a special menu item for him at the next Dessert Fest.``@k@vS07/03/330300153. ...But wow, that really did the trick.``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 74245,
+    "TextENGNew": "``I-I see...``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 74246,
+    "TextENGNew": "Classic Mion, what a deal...",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 74247,
+    "TextENGNew": "............",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 74248,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 74249,
+    "TextENGNew": "And so, the fierce struggle between Rena and Satoko continued with the score locked at 3 to 2.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 74250,
+    "TextENGNew": "And then came Rena's final at-bat...!",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 74251,
+    "TextENGNew": "*CRAAACK*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 74252,
+    "TextENGNew": "The satisfying crack of Rena's bat rang out for the first time in a while, but the pitch had caught her slightly off-balance, and the ball dropped just short of the home run zone.",
+    "significantChanges": true,
+    "changeReason": "Minor rewording of Rena's batting scene. Same meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 291,
+    "MessageID": 74253,
+    "TextENGNew": "In the end, Rena's final tally was three home runs.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 74254,
+    "TextENGNew": "Considering she'd gone up against a Koshien-caliber ace pitcher, it was nothing short of a remarkable feat.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 293,
+    "MessageID": 74255,
+    "TextENGNew": "``...Which means, if Satoko can hit a home run on her next at-bat, we go to sudden death.``@k@vS07/05/330500162. You can do it, Satoko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 74256,
+    "TextENGNew": "``...Satoko?``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 74257,
+    "TextENGNew": "``...Uu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 74258,
+    "TextENGNew": "Seeing Satoko's face twisted in pain, we all rushed over.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 74259,
+    "TextENGNew": "``What's wrong, Satoko?``",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 74260,
+    "TextENGNew": "``Sorry... I got a bit clumsy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 74261,
+    "TextENGNew": "Satoko smiled ruefully and held up her right hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 74262,
+    "TextENGNew": "Looking closely, the area around her index fingernail was stained a dark reddish-black from internal bleeding...",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 74263,
+    "TextENGNew": "``...?! Satoko, you're injured!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 74264,
+    "TextENGNew": "``Oh no... That looks bad.``@k@vS07/03/330300155. Coach, get over here!``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 74265,
+    "TextENGNew": "Mion frantically called Coach over from where he'd been brushing dirt off home plate.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 74266,
+    "TextENGNew": "Coach immediately grasped the situation, grabbed the first aid kit, rushed over, sat Satoko down on the bench, and began treating her.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 74267,
+    "TextENGNew": "``The ball must have struck your finger when you hit that foul tip earlier.``@k@vS07/10/331000178. We need to get you to the clinic right away.``@k@vS07/10/331000179. We'll take my car.``",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 74268,
+    "TextENGNew": "``I-I'm fine.``@k@vS07/04/330400238. This is nothing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 74269,
+    "TextENGNew": "Brave as ever, Satoko gripped the bat tightly and tried to head back to the batter's box.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 308,
+    "MessageID": 74270,
+    "TextENGNew": "But Rika-chan stepped in front of her, arms outstretched, blocking her path.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 309,
+    "MessageID": 74271,
+    "TextENGNew": "``Satoko, you did wonderfully.``@k@vS07/05/330500165. You don't need to push yourself any further.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 310,
+    "MessageID": 74272,
+    "TextENGNew": "``...That's not good enough!``@k@vS07/04/330400240. If we don't settle this match, Rena-san will stay like this forever!``@k@vS07/04/330400241. We have to do it! No -- I have to do it!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 311,
+    "MessageID": 74273,
+    "TextENGNew": "``S-Satoko-chan... that's enough.``@k@vS07/10/331000181. You win. I'll return the magatama to everyone.``@k@vS07/10/331000182. I got carried away and dragged you all into my silly game. I'm sorry...``",
+    "significantChanges": true,
+    "changeReason": "New translation omits content present in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 312,
+    "MessageID": 74274,
+    "TextENGNew": "``...Silly game?``",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 74275,
+    "TextENGNew": "``Coach, that's insulting to Rena-san! She's competing with everything she has!``@k@vS07/04/330400244. At the very least, she doesn't think of it that way!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 314,
+    "MessageID": 74276,
+    "TextENGNew": "Satoko fixed Coach with a sharp glare, reprimanding him for his careless words.",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 315,
+    "MessageID": 74277,
+    "TextENGNew": "``Satoko...``",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 74278,
+    "TextENGNew": "``...At first, I honestly thought the way Rena-san was acting was ridiculous, and I teased her for it.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 317,
+    "MessageID": 74279,
+    "TextENGNew": "``But partway through, I found myself genuinely moved.``@k@vS07/04/330400247. Even if it's the magatama's influence, the way Rena-san throws herself so completely into it for the person she loves... it really is incredible.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 318,
+    "MessageID": 74280,
+    "TextENGNew": "``That's why I felt it would be disrespectful not to meet Rena-san's wholehearted passion head-on...``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 319,
+    "MessageID": 74281,
+    "TextENGNew": "...Come to think of it, right after taking over for me, Satoko had been rattling Rena with bluffs and exploiting psychological openings... but at some point, she'd shifted to competing earnestly, with no tricks at all.",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 320,
+    "MessageID": 74282,
+    "TextENGNew": "Perhaps by facing Rena directly, Satoko could feel the intensity of her devotion more keenly than anyone else...",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 321,
+    "MessageID": 74283,
+    "TextENGNew": "I knew the basic rules of baseball from club activities, but there was no way I had the ability to compete against a pitcher of Koshien caliber.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 74284,
+    "TextENGNew": "...And yet, driven by the Magatama of Fuwarazu's effect and her love for Coach, Rena had studied magic pitches and actually caught up to that level -- all for Coach's sake.",
+    "significantChanges": true,
+    "changeReason": "Different names/references: old has kameda, new has rena.",
+    "changeScore": 3
+  },
+  {
+    "index": 323,
+    "MessageID": 74285,
+    "TextENGNew": "``...Mii.``@k@vS07/05/330500167. Rena's latent potential is truly frightening...``",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 74286,
+    "TextENGNew": "``...This whole ordeal has proven once and for all that Rena-san is a force to be reckoned with.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 325,
+    "MessageID": 74287,
+    "TextENGNew": "``Yeah... this ol' man is genuinely impressed.``",
+    "significantChanges": true,
+    "changeReason": "Significantly different wording changes the reader's understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 326,
+    "MessageID": 74288,
+    "TextENGNew": "``Impressed doesn't even cover it!``@k@vS07/01/330100317. Even without the magatama, Rena has the skills to hold her own at Koshien!``",
+    "significantChanges": true,
+    "changeReason": "New translation removes specific name/reference: fuwarazu.",
+    "changeScore": 3
+  },
+  {
+    "index": 327,
+    "MessageID": 74289,
+    "TextENGNew": "``Ah, no, that's not what I meant.``",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 74290,
+    "TextENGNew": "``...I mean, the way she worked so hard to match herself to the person she likes... that's what I find admirable.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 329,
+    "MessageID": 74291,
+    "TextENGNew": "``When you start liking someone, don't you usually try to pull them into your own world first?``@k@vS07/03/330300160. You try to make them like the things you like.``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 74292,
+    "TextENGNew": "``...Isn't that just normal?``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 74293,
+    "TextENGNew": "``I'd do the same thing.``@k@vS07/03/330300162. I bet more people are like that than you'd think.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 332,
+    "MessageID": 74294,
+    "TextENGNew": "``...But Rena's different.``@k@vS07/03/330300164. Whether it was Tomitake-san, Takano-san, or Coach.``@k@vS07/03/330300165. She tried her hardest to adapt herself to their interests.``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 74295,
+    "TextENGNew": "``Sure, the extent to which she accommodated them was extreme, but what really struck me wasn't that -- it was the sheer effort she poured into it.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 334,
+    "MessageID": 74296,
+    "TextENGNew": "``Is that really how it works...?``@k@vS07/06/330600106. Wouldn't it be exhausting to always be the one adapting?``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 335,
+    "MessageID": 74297,
+    "TextENGNew": "``Exactly.``@k@vS07/03/330300168. Maybe pulling someone into your world means you're actually wearing them out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 74298,
+    "TextENGNew": "``So really, if two people are right for each other, they both need to meet the other halfway.``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 337,
+    "MessageID": 74299,
+    "TextENGNew": "``...But very few people try to take that first step on their own.``@k@vS07/03/330300171. Most people just make the other person step into their world, never making the effort to step into theirs.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 338,
+    "MessageID": 74300,
+    "TextENGNew": "...Mion's uncharacteristically thoughtful words struck a nerve with all of us.",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 339,
+    "MessageID": 74301,
+    "TextENGNew": "``...I understand what Mii is saying.``@k@vS07/05/330500170. I think I've always pulled others into my world too, without ever trying to step into theirs.``",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 74302,
+    "TextENGNew": "``...That probably goes for Satoko as well.``@k@vS07/05/330500172. And for Mii.``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 74303,
+    "TextENGNew": "``...Come to think of it, Mii, you never let anyone who asked into the club, but you went out of your way to invite Keiichi yourself, didn't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 74304,
+    "TextENGNew": "``Uh, huh?!``@k@vS07/03/330300173. Ah, ahahaha, did I?!``@k@vS07/03/330300174. W-well, that was, th-there was no ulterior motive, ahahahahaha, this ol' man has no idea what you're talking about~!``",
+    "significantChanges": true,
+    "changeReason": "Significantly different wording changes the reader's understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 343,
+    "MessageID": 74305,
+    "TextENGNew": "``...Hopeless.``",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 74306,
+    "TextENGNew": "...If this whole ordeal taught me one thing, it was that Rena would surely make a wonderful wife someday.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 345,
+    "MessageID": 74307,
+    "TextENGNew": "``...Which means we need to finish this match quickly and bring Rena back to her senses.``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 346,
+    "MessageID": 74308,
+    "TextENGNew": "With that, Rika-chan turned her gaze toward Rena on the pitcher's mound.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 74309,
+    "TextENGNew": "Playing both batter and pitcher had clearly taken its toll on Rena -- she looked exhausted -- but her eyes still burned with fighting spirit, brimming with the will to win.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 348,
+    "MessageID": 74310,
+    "TextENGNew": "``...Keiichi.``@k@vS07/05/330500176. ...We now fully understand what a good person Rena truly is.``@k@vS07/05/330500177. ...So let's end this.``@k@vS07/05/330500178. This farce...``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 74311,
+    "TextENGNew": "``......Yeah.``@k@vS07/01/330100319. I don't know what kind of love Rena will find, or who she'll marry someday.``@k@vS07/01/330100320. ...But that's for Rena to decide on her own.``@k@vS07/01/330100321. ...She doesn't need any strange magic for that!``",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 74312,
+    "TextENGNew": "Of course, some people might want to rely on magic like that. But there are others who can carve out their own destiny through sheer will alone. ...And Rena was clearly the latter.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 351,
+    "MessageID": 74313,
+    "TextENGNew": "No... there is no \"former\" or \"latter.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 74314,
+    "TextENGNew": "Everyone has the power to forge their own destiny.",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 353,
+    "MessageID": 74315,
+    "TextENGNew": "The moment you start believing that some people can do it and others can't, you've already admitted that you can't.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 74316,
+    "TextENGNew": "...Rena's strength of will seemed almost divine.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 74317,
+    "TextENGNew": "The way she kept smiling despite being completely spent -- there was something noble about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 74318,
+    "TextENGNew": "The lesson Rena had come to understand in her still-young life was precious to us all -- something we must never forget.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 74319,
+    "TextENGNew": "That's why I believed that radiant smile of hers should only be given to the person she truly chose, from the very depths of her heart...",
+    "significantChanges": true,
+    "changeReason": "New translation removes specific name/reference: rena.",
+    "changeScore": 3
+  },
+  {
+    "index": 358,
+    "MessageID": 74320,
+    "TextENGNew": "``Then Kei-chan, we're leaving everything to you.``@k@vS07/03/330300176. ...So you better not let us down!``",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 74321,
+    "TextENGNew": "``...Yeah!``@k@vS07/01/330100323. All right, Satoko, tag me in!``@k@vS07/01/330100324. This was my fight from the start -- I'll carry your spirit with me!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 360,
+    "MessageID": 74322,
+    "TextENGNew": "``Keiichi-san...``",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 74323,
+    "TextENGNew": "Satoko stared hard at my face, peering into my eyes as if gauging my resolve. Then--",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 362,
+    "MessageID": 74324,
+    "TextENGNew": "``...Very well, Keiichi-san, I leave it to you!``@k@vS07/04/330400251. At least tie the score with this last at-bat and force it into sudden death!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 363,
+    "MessageID": 74325,
+    "TextENGNew": "``You got it!``@k@vS07/01/330100326. Leave it to me!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 74326,
+    "TextENGNew": "I took the bat from Satoko and walked toward the batter's box.",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 74327,
+    "TextENGNew": "Facing Rena, now drenched in sweat and breathing hard, I tightened my grip and assumed my batting stance.",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 366,
+    "MessageID": 74328,
+    "TextENGNew": "``All right, Rena!``@k@vS07/01/330100328. For better or worse, this is the final showdown!``@k@vS07/01/330100329. Fastball, breaking ball -- throw whatever you want!!``",
+    "significantChanges": true,
+    "changeReason": "Multiple significant content differences alter the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 367,
+    "MessageID": 74329,
+    "TextENGNew": "``...Ahahahaha.``@k@vS07/02/330200307. So it comes down to you and me in the end, Keiichi-kun.``@k@vS07/02/330200308. Things didn't quite go the way I expected, and that was frustrating, but...``@k@vS07/02/330200309. ...it was really, truly fun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 74330,
+    "TextENGNew": "``So this is it -- the real, final showdown!``@k@vS07/02/330200311. No more tricks, no more schemes -- just a head-on contest!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 74331,
+    "TextENGNew": "``Yeah!!``@k@vS07/01/330100331. All right, bring it oooon!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 74332,
+    "TextENGNew": "``...No, Satoko!``@k@vS07/01/330100333. Now that I've decided to do this, my pride won't let me hand it off to someone else!!``@k@vS07/01/330100334. Let me handle this, please!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 74333,
+    "TextENGNew": "``Is... that so?``@k@vS07/04/330400253. Then I won't stop you, but... are you really sure you'll be all right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 74334,
+    "TextENGNew": "``Yeah, count on it!``@k@vS07/01/330100336. After those last pitches, I've got Rena's tells completely figured out!!``",
+    "significantChanges": true,
+    "changeReason": "Substantially different translation conveys different meaning.",
+    "changeScore": 3
+  }
+]

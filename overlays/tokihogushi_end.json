@@ -1,0 +1,1368 @@
+[
+  {
+    "index": 1,
+    "MessageID": 114010,
+    "TextENGNew": "\"...So in the end, the joint investigation headquarters hasn't made any headway either.\"",
+    "significantChanges": true,
+    "changeReason": "JPN 合同捜査本部 refers to the joint investigation headquarters itself; OLD's 'investigation with HQ' implies cooperation between entities rather than the single HQ.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 114011,
+    "TextENGNew": "\"That bastard Okabe seems wound pretty tight.@k@vS11/32/VT3B_hanada2002. He's got two liaison officers from prefectural HQ to babysit now.@k@vS11/32/VT3B_hanada2003. The rest of his caseload has fallen behind, and Deputy Chief Hata gave him an earful about it.\"",
+    "significantChanges": true,
+    "changeReason": "JPN 県警本部の世話役 refers to oversight/liaison roles from prefectural HQ; OLD's 'mediators' implies conflict resolution while NEW's 'liaison officers to babysit' better captures the supervisory burden.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 114012,
+    "TextENGNew": "\"Hah, serves him right.@k@vS11/31/421200093. Should've known his place.\"",
+    "significantChanges": true,
+    "changeReason": "JPN directs the comment at Okabe specifically (singular); OLD pluralizes to ''em' while NEW correctly uses singular 'him.'",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 114013,
+    "TextENGNew": "They had nothing — no clues from the crime scene, not even a preliminary profile of the suspect.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 114014,
+    "TextENGNew": "Following up on known deviants and the victim's classmates had yielded absolutely nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 114015,
+    "TextENGNew": "The case was almost certainly headed for cold-case status, and morale on the ground was plummeting.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 114016,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 114017,
+    "TextENGNew": "\"Come to think of it... her. I wonder how she's doing these days.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 114018,
+    "TextENGNew": "\"What, Fujita?@k@vS11/32/VT3B_hanada2005. You sweet on her or something?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 114019,
+    "TextENGNew": "\"Don't be stupid, that's not it.@k@vS11/31/421200096. She got shunted off to the public relations office. I'm just worried she might have gotten so demoralized she quit.@k@vS11/31/421200097. ...That's all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 114020,
+    "TextENGNew": "Honestly, Fujita doubted there was another detective that capable in the entire National Police Agency or the Metropolitan Police Department.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 114021,
+    "TextENGNew": "Setting aside age and gender, her extraordinary initiative and analytical skill ranked among the very best Fujita had ever worked with.",
+    "significantChanges": true,
+    "changeReason": "JPN 行動力と分析力 means 'initiative/drive and analytical ability'; OLD's 'work ethic and analytical capability' misrepresents 行動力 which emphasizes proactive action rather than work ethic.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 114022,
+    "TextENGNew": "Had she been part of the joint investigation, she would have brought her signature initiative and analysis to bear, and might have at least narrowed down the suspect profile enough to give them a lead.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 114023,
+    "TextENGNew": "At the very least, Fujita and the others had seen enough to believe Tomoe was capable of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 114024,
+    "TextENGNew": "\"The First Division hasn't been the same since she left, has it?@k@vS11/31/421200099. It just feels like all the drive went out of the place.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 114025,
+    "TextENGNew": "\"...That's true.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 114026,
+    "TextENGNew": "Shirou Hanada, his fellow graduate sitting beside him, nodded in agreement.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 114027,
+    "TextENGNew": "Her investigation methodology had been so clear and easy to follow that the results felt worlds apart from the old days of running on gut instinct without solid evidence.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 114028,
+    "TextENGNew": "Of course, there was no denying that luck played a part — the cases they handled just happened to align with Tomoe's analyses.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 114029,
+    "TextENGNew": "Even so, certain people have the power to draw luck toward them. And that, too, was a kind of strength.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 114030,
+    "TextENGNew": "\"Well, I suppose someone that unconventional was never going to fit in with the sectionalism of the police world.@k@vS11/31/421200100. It's a real shame, though.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 114031,
+    "TextENGNew": "\"...Who are you calling unconventional?\"",
+    "significantChanges": true,
+    "changeReason": "Old misinterprets rhetorical challenge 'Who are you calling unconventional?' as genuine question.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 114032,
+    "TextENGNew": "\"\"Huh...?!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 114033,
+    "TextENGNew": "The voice came from behind them without warning. Fujita and Hanada both leapt from their seats in unison.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 114034,
+    "TextENGNew": "And standing there when they turned around was—",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 114035,
+    "TextENGNew": "\"M... Minai-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 114036,
+    "TextENGNew": "\"What's the deal? You look like you've seen a ghost.@k@vS11/28/420101379. Look, I have legs.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 114037,
+    "TextENGNew": "\"N-no, that's not it!@k@vS11/31/421200105. What are you doing here?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 114038,
+    "TextENGNew": "\"Is it really so unusual for a police officer to be visiting here?@k@vS11/28/420101381. What's odd about that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 114039,
+    "TextENGNew": "Indeed, even though Tomoe worked for the public relations office, she was still a police officer so it wasn't that unusual for her to come to Kakiuchi Station.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 114040,
+    "TextENGNew": "Although... knowing her character, she wasn't the type to say, \"I just came to say hi~.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 114041,
+    "TextENGNew": "So, what was the meaning of this...?",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 114042,
+    "TextENGNew": "\"Fujita-kun, Hanada-kun.@k@vS11/28/420101383. I know this is sudden, but would the two of you lend me your aid once again?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 114043,
+    "TextENGNew": "\"Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 114044,
+    "TextENGNew": "\"T-then you mean...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 114045,
+    "TextENGNew": "\"...Oh, before that I'll have to talk to Section Chief Yamamura.@k@vS11/28/420101385. Right, I should have gone to him earlier.@k@vS11/28/420101386. Also...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 114046,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 114047,
+    "TextENGNew": "And even though Tomoe was no longer in a position to order them around anymore, Fujita and Hanada immediately responded to her request by saying, \"U-understood!\" and quickly rushing out.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 114048,
+    "TextENGNew": "...Their sense of servitude was so deeply ingrained they were like loyal dogs.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 114049,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 114050,
+    "TextENGNew": "But as Fujita ran down the corridor, before long his cheeks split into a huge grin...",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 114051,
+    "TextENGNew": "\"Chief Yamaoki, sign here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 114052,
+    "TextENGNew": "\"Sure.@k@vS11/30/420200264. ...Oh, right, Madoka-kun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 114053,
+    "TextENGNew": "\"It's Officer Minai.@k@vS11/29/420400238. Make sure you get it right.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 114054,
+    "TextENGNew": "\"R-right...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 114055,
+    "TextENGNew": "Yamaoki looked embarrassed after being corrected in such a sharp, cold tone.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 114056,
+    "TextENGNew": "\"Then, well... Officer Minai.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 114057,
+    "TextENGNew": "\"Yes, Chief Yamaoki.@k@vS11/29/420400240. Do you need something from me?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 114058,
+    "TextENGNew": "\"Actually, I happened to receive two theater tickets from an old acquaintance of mine earlier.@k@vS11/30/420200268. Would you care to go this time?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 114059,
+    "TextENGNew": "\"My apologies, but my holiday schedule is completely booked for the next three months.@k@vS11/29/420400242. But if it's some time after that, feel free to invite me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 114060,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 114061,
+    "TextENGNew": "She'd been so blunt that she wouldn't even give him the time of day. ...She'd been like this toward him for the last half a year.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 114062,
+    "TextENGNew": "When he told her that Tomoe was being transferred to the public relations office... she was deeply upset.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 114063,
+    "TextENGNew": "Crying, yelling, telling him off, and in the end even throwing things around...",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 114064,
+    "TextENGNew": "There were still marks on his desk from when Madoka struck it with a golf club back then.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 114065,
+    "TextENGNew": "In that way... she was really so much like her sister. And so, Yamaoki let out a sigh.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 114066,
+    "TextENGNew": "\"Madoka-kun.@k@vS11/30/420200271. Like I've told you many times before, there was a very good reason for this...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 114067,
+    "TextENGNew": "\"Yes, I suppose there was.@k@vS11/29/420400244. So that's not what concerns me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 114068,
+    "TextENGNew": "\"...I'm just angry because I'm one extremely disgruntled tiny police officer who can't see the big picture.@k@vS11/29/420400245_1. So please don't mind me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 114069,
+    "TextENGNew": "\"...Mmm.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 114070,
+    "TextENGNew": "He was at his wits' end. With things as they were, no progress would be made unless they talked about it... but he couldn't say anything now.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 114071,
+    "TextENGNew": "Madoka had finally returned to living in Yamaoki's house, but she had been living in Tomoe's old single-occupancy apartment until last month.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 114072,
+    "TextENGNew": "With that in mind, you could say their relationship was still getting better, but it was hard to deny the possibility that just one more little thing could spell the end of their engagement...",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 114073,
+    "TextENGNew": "Though, that catastrophic pattern was typical in relationships, regardless of age difference. He just had to let her sort out her feelings.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 114074,
+    "TextENGNew": "Also, Madoka caused a great deal of turmoil since she first started at Kakiuchi Station, enough so that she was expecting a one-month suspension.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 114075,
+    "TextENGNew": "However... Yamaoki had lived alone for so many years that when she moved out, the space felt especially small and lonely...",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 114076,
+    "TextENGNew": "It was hard for anyone who knew him to believe, but he had already deeply bowed his head and apologized to her over 20 times. ...But she still hadn't forgiven him, and that cold war continued even now.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 114077,
+    "TextENGNew": "And so, all it took was a single fierce glare... and he couldn't think of anything else. He easily recognized the outcome of any action he took, so he never did anything. There was nothing he could do.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 114078,
+    "TextENGNew": "Because of that, he ended up repeating the same sad questions and answers... and in some ways, maybe even being taken advantage of by his feelings for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 114079,
+    "TextENGNew": "Just then, he heard a knock on the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 114080,
+    "TextENGNew": "Normally, he would've asked the person to announce who they were before entering the room, but in this case he wanted to shake off the dreary atmosphere, so he responded, \"Come in,\" in a dignified voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 114081,
+    "TextENGNew": "And then...",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 114082,
+    "TextENGNew": "\"S-Sis?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 114083,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 114084,
+    "TextENGNew": "The door swung open and she came in saying, \"Excuse me.\" Madoka and Yamaoki's eyes opened wide in shock as soon as they recognized Tomoe.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 114085,
+    "TextENGNew": "Naturally, they didn't know in advance that she was coming. ...When Tomoe noticed their reactions, she had a mischievous smile on her face as she donned a salute.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 114086,
+    "TextENGNew": "\"...This is Tomoe Minai, greeting you on behalf of the Director of General Affairs and the Secretariat to the Commissioner of the National Police Agency.@k@vS11/28/420101388. May I ask a moment of your time?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 114087,
+    "TextENGNew": "\"O-of course...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 114088,
+    "TextENGNew": "\"Th-then, I'll...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 114089,
+    "TextENGNew": "\"It's all right, you can stay.@k@vS11/28/420101390. This is something everyone will hear sooner or later.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 114090,
+    "TextENGNew": "\"Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 114091,
+    "TextENGNew": "Madoka stared on in disbelief as Tomoe spread the file in her hands out in front of Yamaoki.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 114092,
+    "TextENGNew": "Inside were a bunch of documents clipped together.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 114093,
+    "TextENGNew": "\"This is a request for cooperation between Aichi prefectural police and Kakiuchi Station, on behalf of the Secretariat of the Commissioner of the National Police Agency.@k@vS11/28/420101392. A formal letter of notice will be sent at a later date, after receiving your consent.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 114094,
+    "TextENGNew": "The heading inscribed on the cover said this:.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 114095,
+    "TextENGNew": "\"Establishing an operational test regarding the use of profiling techniques to investigate unsolved cases.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 114096,
+    "TextENGNew": "\"...What is this?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 114097,
+    "TextENGNew": "\"Actually, Public Relations Director Maeno introduced me to the director of general affairs the other day, and I even had the opportunity to meet up with the secretariat of the commissioner.@k@vS11/28/420101394. I was able to chat with them for a little while.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 114098,
+    "TextENGNew": "It was totally coincidental, but incredibly fortuitous. ...And it was a rare one-in-a-million opportunity that she had earned through her strong convictions.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 114099,
+    "TextENGNew": "A few days after Tomoe started at the public relations office, the secretariat heard that she was a fellow alumnus of Kashima University, so he called her into his office just to give her encouragement.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 114100,
+    "TextENGNew": "During their chat, Tomoe offhandedly mentioned her \"profiling\" investigation technique to the secretariat.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 114101,
+    "TextENGNew": "And she mentioned that it had already been tested in Kakiuchi, with wonderful results.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 114102,
+    "TextENGNew": "\"Of course, I knew it was presumptuous of me to bring it up... but I did \"casually\" bring the file with me summarizing the results so far. And fortunately, he took the time to look through it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 114103,
+    "TextENGNew": "Both the secretariat and the director of general affairs were a bit surprised when they saw it.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 114104,
+    "TextENGNew": "After all, these profiling techniques were published in lengthy documents written in English, so it was difficult to decipher the details without putting significant effort into it.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 114105,
+    "TextENGNew": "And this young elite trainee \"casually\" translated and summarized it, achieved amicable results while testing it on real cases, and assembled a report detailing all her findings...",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 114106,
+    "TextENGNew": "The secretariat was always interested in pursuing new techniques, and thanks to all the work she put into it, he was particularly interested.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 114107,
+    "TextENGNew": "\"Thanks to that, the secretariat pulled some strings to get the contents of that report submitted to the National Research Institute of Police Science.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 114108,
+    "TextENGNew": "\"And by some <i>fluke</i>, the details of that report escalated all the way to the general manager of NRIPS.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 114109,
+    "TextENGNew": "...The reaction was stunning.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 114110,
+    "TextENGNew": "Originally... the National Research Institute of Police Science was conducting their own research on Western profiling techniques.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 114111,
+    "TextENGNew": "But even though they understood the basic premises, they had no operational data to analyze.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 114112,
+    "TextENGNew": "And even when they attempted to pursue that endeavor, progress was extremely slow because of the sectionalized nature of the police force. Detectives in the field were also anxious that new techniques would jeopardize their positions.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 114113,
+    "TextENGNew": "Meanwhile, Tomoe showed up with all the data compiled from her time at the Ibaraki prefectural police department and her two months at Kakiuchi and offered it up for <i>free</i>, so they welcomed it with open arms.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 114114,
+    "TextENGNew": "In response to that, the general manager of NRIPS invited the director to a hearing with her.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 114115,
+    "TextENGNew": "Of course, the fact that Tomoe was a woman certainly did pique some curiosity.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 114116,
+    "TextENGNew": "But even so, she opted to use that to her advantage. And after talking it over, the director gave an official proclamation that the process should be tested on an actual investigation.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 114117,
+    "TextENGNew": "As a result, NRIPS assembled a research team and launched a full scale investigation into profiling methodology.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 114118,
+    "TextENGNew": "\"B-but you're with the public relations office...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 114119,
+    "TextENGNew": "\"That's right, so I'm not directly involved.@k@vS11/28/420101399. Instead, as subsection chief at the public relations office, I've been charged with reporting on this matter.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 114120,
+    "TextENGNew": "\"Reporting...?@k@vS11/30/420200279. This is being released to the mass media?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 114121,
+    "TextENGNew": "\"That's right.@k@vS11/28/420101401. In fact, I brought the proposal to the TV station.@k@vS11/28/420101402. Don't you think the latest investigation methods from the West would make a nice feature?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 114122,
+    "TextENGNew": "\"\"Mysterious Unsolved Case Cracked in Three Months.\" They'll be proud to declare that, and I happily jumped at the chance to be the person covering it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 114123,
+    "TextENGNew": "\"Huh...? Wh-whaaat?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 114124,
+    "TextENGNew": "Madoka shouted in astonishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 114125,
+    "TextENGNew": "Tomoe had always hated working with the media... so what on earth brought about this change of heart?!",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 114126,
+    "TextENGNew": "\"B-but Sis, weren't you the one who said it wasn't good to disclose the details of active investigations?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 114127,
+    "TextENGNew": "\"Of course, we'll only show them part of the information. Just the surface details.@k@vS11/28/420101405. Plus, the station requested two exclusive interviews with a woman, so in reality their priorities are elsewhere.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 114128,
+    "TextENGNew": "\"They just wanted to have a strong speaker about the expansion of women's rights, so they were more than happy to cooperate♪.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 114129,
+    "TextENGNew": "\"Y-you're terrible...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 114130,
+    "TextENGNew": "\"Thank you. That's the best praise I can receive.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 114131,
+    "TextENGNew": "Tomoe nonchalantly shot that back.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 114132,
+    "TextENGNew": "Disregarding her name to obtain results was normal for her... but compromising and cooperating with all manner of people was totally different from Tomoe's old way of thinking.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 114133,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 114134,
+    "TextENGNew": "So, Madoka, feeling like she was dreaming right now, pinched her own cheek hard.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 114135,
+    "TextENGNew": "...It was incredibly painful.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 114136,
+    "TextENGNew": "Just then, Fujita knocked on the door and then entered the chief's office.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 114137,
+    "TextENGNew": "\"M-Minai-saaan.@k@vS11/31/421200108. The First Investigation Division just received a large package. What's this about?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 114138,
+    "TextENGNew": "\"Aah, Fujita-kun, that's my luggage.@k@vS11/28/420101408. There's a personal computer in there, so handle it with care.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 114139,
+    "TextENGNew": "\"C-computer?@k@vS11/31/421200110. What on earth are you doing with one of those?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 114140,
+    "TextENGNew": "\"Don't fall behind, Fujita-kun.@k@vS11/28/420101410. The age of computers is just starting, you know?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 114141,
+    "TextENGNew": "\"...Oh, Chief Yamaoki. I'd like to set up a dedicated line between Kakiuchi Station and the joint investigation headquarters. Would you be willing to sign off on that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 114142,
+    "TextENGNew": "\"Ah, sure...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 114143,
+    "TextENGNew": "Still unable to dismiss his feelings of confusion, Yamaoki simply nodded.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 114144,
+    "TextENGNew": "...Didn't she say she wasn't interested in computers before?",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 114145,
+    "TextENGNew": "It was a completely unthinkable change. ...Was this really Tomoe Minai?",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 114146,
+    "TextENGNew": "Was there any chance she was actually replaced by an alien taking her form?",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 114147,
+    "TextENGNew": "The next moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 114148,
+    "TextENGNew": "\"...Chief Yamaoki.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 114149,
+    "TextENGNew": "She turned to him with a serious expression... and deeply bowed her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 114150,
+    "TextENGNew": "And then,.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 114151,
+    "TextENGNew": "\"Thank you, chief.@k@vS11/28/420101414. I was on the verge of losing sight of justice.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 114152,
+    "TextENGNew": "The look on her face as she said that had a pleasant atmosphere, suggesting she had dispelled her earlier demons.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 114153,
+    "TextENGNew": "\"Emotion-fueled revenge and the pursuit of self-interest are the detestable products of one who refuses to acknowledge their own failures.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 114154,
+    "TextENGNew": "\"I had a foolish, immature, and misguided view of justice. I thought myself the only one correct, and refused to listen to or rely on anyone else.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 114155,
+    "TextENGNew": "\"...But that way of thinking can't defeat true evil.@k@vS11/28/420101418. No, it can't even fight it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 114156,
+    "TextENGNew": "\"Though we have the knowledge and means to crack down on crime, our adversaries are polishing their weapons and making preparations of their own.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 114157,
+    "TextENGNew": "\"I realize now that those sorts of people can't be overcome on my own.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 114158,
+    "TextENGNew": "So, Tomoe gathered all her hatred and resentment... and cast them aside.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 114159,
+    "TextENGNew": "And she replaced her selfish thoughts and convictions with a general desire to gain the understanding of the people around her.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 114160,
+    "TextENGNew": "\"My justice, and the police department's justice...@k@vS11/28/420101422. When these two are in conflict with one another, you have to compromise a little to match the police version of justice.@k@vS11/28/420101423. However... the opposite is also certainly true.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 114161,
+    "TextENGNew": "\"You can persuade the people around you in various positions of power, try to get them to understand, and more importantly, earn their cooperation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 114162,
+    "TextENGNew": "Of course, that takes a great deal of time and effort... and sincerity. And there's still no guarantee of success.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 114163,
+    "TextENGNew": "But even so, the possibility is greater than zero. It's definitely not impossible.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 114164,
+    "TextENGNew": "So, Tomoe identified her small pieces of luck and used them to their maximum effect.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 114165,
+    "TextENGNew": "Her contacts at the National Police Agency.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 114166,
+    "TextENGNew": "The staff of the National Research Institution of Police Science.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 114167,
+    "TextENGNew": "And the profiling investigation methodology she learned with Honjou and her comrades at the Ibaraki prefectural police department...",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 114168,
+    "TextENGNew": "She never spared a moment of free time either. She was always negotiating with them during her usual daily work... consulting with them, requesting they share data, and seeking their approval on matters.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 114169,
+    "TextENGNew": "And even if it seems an easy thing to say, accomplishing that in just half a year was no simple task.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 114170,
+    "TextENGNew": "But even so, she never gave up.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 114171,
+    "TextENGNew": "She earned the help and cooperation of so many people by approaching other parties over and over, and persuading them... trying to win their agreement.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 114172,
+    "TextENGNew": "And as a result, she was able to greet everyone here today...!",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 114173,
+    "TextENGNew": "\"If the results on this case are successful, the findings will go straight to NRIPS.@k@vS11/28/420101426. I, myself, will have pretty much no direct involvement.@k@vS11/28/420101427. ...Still, this is about justice.@k@vS11/28/420101428. That's the reason I'm here, as a police officer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 114174,
+    "TextENGNew": "...From the perspective of many police officials, she looked like a soft-souled person. She was also aware of how people perceived her as a woman.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 114175,
+    "TextENGNew": "But that was what she wanted. If they were willing to lend Tomoe their strength... or, as long as they weren't trying to get in her way, it was ultimately beneficial for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 114176,
+    "TextENGNew": "Tomoe wasn't simply performing well to achieve career advancement.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 114177,
+    "TextENGNew": "And she wasn't investigating crimes to clear up her own hatred or personal grudges.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 114178,
+    "TextENGNew": "To go even further, she wasn't doing that for the victims or their families either. ...The police shouldn't carry out investigations seeking revenge.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 114179,
+    "TextENGNew": "There absolutely is justice in this world to judge wrongdoers and admonish their sins.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 114180,
+    "TextENGNew": "And those who stand before the wall of justice with evil in their hearts will surrender to its power and discipline themselves. ...It was Yamaoki who taught Tomoe that.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 114181,
+    "TextENGNew": "...In order to create a society that can believe in that, the police need to fight crime with the full backing of the law.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 114182,
+    "TextENGNew": "To that end, it's necessary to understand the psychology of the criminal... and sometimes even be in sync with them.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 114183,
+    "TextENGNew": "It was a truly naive way of thinking... but it was first-class!",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 114184,
+    "TextENGNew": "Even if my effort and feelings aren't always rewarded... so what?!",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 114185,
+    "TextENGNew": "Rather than twisting the world to my own intentions, I'll bet everything on living my life honestly!",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 114186,
+    "TextENGNew": "It's fine to get hurt. And even if you fall, even if you're pushed down... you have to get up again and again, no matter how hard it is, doing your best to maintain your convictions!",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 114187,
+    "TextENGNew": "That's why I choose to follow the path of the police force...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 114188,
+    "TextENGNew": "\"Tomoe-kun, you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 114189,
+    "TextENGNew": "\"Besides, evil will never stop at anything, so why should justice be any different?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 114190,
+    "TextENGNew": "\"Even if five evildoers combine into one villain that octo-punches you, even if you get stomped by a giant robot, as long as justice still lives it's cowardice to think anything otherwise.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 114191,
+    "TextENGNew": "\"Because justice must always prevail!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 114192,
+    "TextENGNew": "\"...S-Sis.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 114193,
+    "TextENGNew": "\"Minai-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 114194,
+    "TextENGNew": "Madoka and Fujita could only stare on looking overwhelmed as Tomoe so proudly declared that.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 114195,
+    "TextENGNew": "...But, Yamaoki wasn't like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 114196,
+    "TextENGNew": "Her answer was so earnest that it was comical.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 114197,
+    "TextENGNew": "And he couldn't bear the absurdity of how exasperatingly resolute she was.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 114198,
+    "TextENGNew": "\"Hehe, hehehehehe.@k@vS11/30/420200283. Hehahahahahahahahahah!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 114199,
+    "TextENGNew": "Hey, Yuusuke...!",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 114200,
+    "TextENGNew": "This incredibly bold willingness to take action, to never give in...",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 114201,
+    "TextENGNew": "Your daughter is exactly like you, from head to toe!",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 114202,
+    "TextENGNew": "\"And so, I'll need to ask for a little more of your help going forward.@k@vS11/28/420101433. ...Please don't be too hard on me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 114203,
+    "TextENGNew": "\"Of course... do as you please.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 114204,
+    "TextENGNew": "Very well... let's see this girl's future all the way through to the end.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 114205,
+    "TextENGNew": "Yamaoki said that to himself and watched her back as she turned and stepped out of the room...",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 114206,
+    "TextENGNew": "\"...Starting today, a special team at NRIPS will be joining the joint investigation for the Oumaki schoolgirl murder case.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 114207,
+    "TextENGNew": "\"This will be an important case for creating operational guidelines on profiling investigation techniques. Thank you very much for your cooperation and understanding.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 114208,
+    "TextENGNew": "The senior researcher dispatched from NRIPS spoke respectfully... but with a dignified demeanor, as he addressed the entire investigation team.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 114209,
+    "TextENGNew": "In the center was the person responsible for this investigation headquarters, Director Yamaguchi, and Section Chief Doujima of the First Investigation Division at prefectural HQ.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 114210,
+    "TextENGNew": "Tomoe was sitting on the left corner of the executive seating area of the platform.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 114211,
+    "TextENGNew": "\"And so, with that out of the way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 114212,
+    "TextENGNew": "\"The victim of this case was dating Kouhei Sawamura at the time of his fatal falling incident at his hospital.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 114213,
+    "TextENGNew": "\"And by investigating the relationship with the Youko Hiranuma suicide incident, who was considered related to this death, we are planning to conduct analysis and develop an image of the criminal.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 114214,
+    "TextENGNew": "\"Additionally, the cooperation of local authorities will be essential in this operation...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 114215,
+    "TextENGNew": "While listening to the explanation from the meeting facilitator, Section Chief Doujima... She pulled a photo out of her handbag.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 114216,
+    "TextENGNew": "It was one of Nagisa Ozaki's belongings found at the crime scene... a copy of the photo of Nagisa and Reina found in her pink wallet.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 114217,
+    "TextENGNew": "(Ozaki-san... I've finally made it here.)",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 114218,
+    "TextENGNew": "She whispered that to herself while gently smiling at the photo.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 114219,
+    "TextENGNew": "...In addition to the photo, the contents of the wallet included a train ticket bound for Okinomiya and a receipt for a store she visited on the date of the incident.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 114220,
+    "TextENGNew": "In other words, Nagisa went to see Reina Ryuugu... Although it wasn't clear if they were able to meet and talk, but it meant she was caught up in the incident after coming back from there.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 114221,
+    "TextENGNew": "And there were two separate times Tomoe was attacked by that girl...",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 114222,
+    "TextENGNew": "With that in mind, it was highly likely that Reina Ryuugu was involved in some way, even if she wasn't the actual culprit.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 114223,
+    "TextENGNew": "No, she has to know something...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 114224,
+    "TextENGNew": "(Just you wait... Reina Ryuugu.)",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 114225,
+    "TextENGNew": "...That's right. Everything starts now.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 114226,
+    "TextENGNew": "I won't let it end... Not a chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 114227,
+    "TextENGNew": "No matter how cunning, or even supernatural my foe may be... I'll bring this chain of tragedies to a close.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 114228,
+    "TextENGNew": "And for that reason, I'll use everything at my disposal and keep on fighting...!",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 114229,
+    "TextENGNew": "\"...And from here on, the National Police Agency's public relations office will be in charge of disseminating information to the mass media.@k@vS11/00/VT3B_doujima2006. ...Please welcome Subsection Chief Minai.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 114230,
+    "TextENGNew": "At Section Chief Doujima's urging, Tomoe stood up and took a bow.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 114231,
+    "TextENGNew": "...She could see Madoka standing near the opposite wall, offering an encouraging smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 114232,
+    "TextENGNew": "\"My name is Minai, the specially appointed subsection chief of the public relations office.@k@vS11/28/420101437. I will be in charge of all media correspondence.@k@vS11/28/420101438. I look forward to working with you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 114233,
+    "TextENGNew": "...I won't give up. Ever.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 114234,
+    "TextENGNew": "I'll make that miracle a reality.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 114235,
+    "TextENGNew": "I'll carve a path to destiny... with my own two hands!!",
+    "significantChanges": false
+  }
+]

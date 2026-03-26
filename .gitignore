@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/annotations.json
+.superpowers/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+*.swp
+.playwright-mcp/
+game_text/
+upstream/
+public/higurashi.db
+public/sql-wasm.wasm
+*.tsbuildinfo
+docs/

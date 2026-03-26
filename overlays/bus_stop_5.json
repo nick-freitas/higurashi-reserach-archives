@@ -1,0 +1,638 @@
+[
+  {
+    "index": 1,
+    "MessageID": 156143,
+    "TextENGNew": "\"...And? ...Your identification?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 156144,
+    "TextENGNew": "\"Haha, ha! ...Would a post office card do...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 156145,
+    "TextENGNew": "\"...You're students, aren't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 156146,
+    "TextENGNew": "\"Detective, if you ask me, that guy Yoshimura over there is the suspicious one...\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'if you ask me' and 'over there' and changes 'suspicious' framing to be more colloquial; JPN says 'あの吉村ってオッサン' (that guy Yoshimura) — 'that man Yoshimura there' vs 'that guy Yoshimura over there' are close. But 'if you ask me' (私ゃ思うに) from JPN is added in new.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 156147,
+    "TextENGNew": "\"...It's a weekday. Shouldn't you be in school?\"",
+    "significantChanges": true,
+    "changeReason": "JPN asks '学校はどうしたの？' (what happened with school?); original adds 'Hmm?' not in JPN. New translation's 'Shouldn't you be in school?' changes from asking about what happened to a suggestion.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 156148,
+    "TextENGNew": "\"Well, ehehehe! ...You see... today's the school's founding anniversary...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 156149,
+    "TextENGNew": "\"...Mind if we step over there and have a word with you?\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'step over there and have a word' (ちょっと向こうで話を聞かせてもらっていい); original says 'Do you mind if we talk to them for a bit' — 'them' vs 'you' changes who is being addressed. New correctly uses 'you.'",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 156150,
+    "TextENGNew": "\"No, wait, actually! Class was cancelled! Everyone came down with the flu!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says '学級閉鎖' (class cancellation); original says 'School was closed' (entire school) vs new's 'Class was cancelled' (specific class). These are different scales.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 156151,
+    "TextENGNew": "\"...First it's the founding anniversary, now class is cancelled? ...What's it going to be next...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'school's closed' to 'class is cancelled' matching the 学級閉鎖 distinction from the previous line.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 156152,
+    "TextENGNew": "\"Ah, ah, ah... Because it's raining!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 156153,
+    "TextENGNew": "Hoshino exits, taking Mion and Rika with him.",
+    "significantChanges": true,
+    "changeReason": "JPN says '魅音と梨花を伴って星野退場' (Hoshino exits, taking Mion and Rika); original says 'Mion and Rika leave the scene with Hoshino' — the subject (who initiates) differs. New correctly identifies Hoshino as the one exiting and taking them along.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 156154,
+    "TextENGNew": "\"...Um...... would it be alright if I used the restroom...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 156155,
+    "TextENGNew": "\"Of course not. Go right ahead.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 156156,
+    "TextENGNew": "\"...I'll be just a moment.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 156157,
+    "TextENGNew": "Tonegawa exits. After a brief interval, Okano's phone rings.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 156158,
+    "TextENGNew": "\"Yes, this is Okano. ................Yes. .....................Yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 156159,
+    "TextENGNew": "Okano exits, still speaking into his phone.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 156160,
+    "TextENGNew": "Yoshimura watches them go, his mouth hanging open.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 156161,
+    "TextENGNew": "Arakawa grips his head; his headache has apparently started again.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 156162,
+    "TextENGNew": "\"What's wrong? ...Another headache?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 156163,
+    "TextENGNew": "\"...Yeah... Yeah... ...It's starting to... hurt again...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 156164,
+    "TextENGNew": "\"You do look like you're suffering. ......If I could take the pain on in your place, I truly would.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'if I could take the pain on in your place, I truly would' (代われるものなら代わってあげたい) matching JPN; original's 'If I could take them on for you, I would' is close but the new's 'in your place' and 'truly' add emphasis from JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 156165,
+    "TextENGNew": "\"......Damn it...... ......This is awful... ......Kgh.......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 156166,
+    "TextENGNew": "\"There are apparently many causes for headaches. Colds and eye fatigue are the most common, but there are any number of others as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 156167,
+    "TextENGNew": "\"What's curious, though, is that the brain itself feels no pain when it's damaged.\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'the brain itself feels no pain when it's damaged' (脳自身は傷つけられても痛みを感じない); original says 'you don't feel any pain when the brain itself is damaged.' New translation restructures with 'the brain itself feels no pain' making the brain the subject, which is more precise.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 156168,
+    "TextENGNew": "\"......Even when it hurts this much...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 156169,
+    "TextENGNew": "\"When people take their own lives, they sometimes shoot themselves in the head, you know. ...Apparently that's the death that causes the least pain.\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'the death with the least pain' (一番痛みを感じない死に方); original says 'you actually experience the least amount of pain that way.' New says 'that's the death with the least pain' which is closer to JPN's framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 156170,
+    "TextENGNew": "\"...On the other hand, seppuku is surprisingly agonizing. Unlike the brain, the stomach is exquisitely sensitive to pain.\"",
+    "significantChanges": true,
+    "changeReason": "New translation says 'exquisitely sensitive to pain' for 痛みをまともに感じる; original says 'you feel all the pain.' The word 'exquisitely' adds a specific quality not explicitly in original.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 156171,
+    "TextENGNew": "\"That's why they had a second, you see. ...Someone to take off one's head before the suffering became too great. ...Hahaha! I suppose that wasn't a terribly pleasant subject.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 156172,
+    "TextENGNew": "\".........Ha ha......... Kgh......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 156173,
+    "TextENGNew": "\"You really do look like you're suffering. ...I almost wish I could act as your second.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 156174,
+    "TextENGNew": "\".........That's not funny... .........Nngh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 156175,
+    "TextENGNew": "\"In your case, I suspect the source of these headaches is sleep deprivation. Would you say that's accurate?\"",
+    "significantChanges": true,
+    "changeReason": "JPN asks about sleep deprivation as the cause; original says 'Does that sound right?' while new says 'Would you say that's accurate?' — but more importantly, new uses 'sleep deprivation' vs 'lack of sleep.' Both valid.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 156176,
+    "TextENGNew": "\"...Are you getting a proper six hours of sleep? What time did you go to bed last night?\"",
+    "significantChanges": true,
+    "changeReason": "JPN asks '昨夜は何時に床に就きましたか？' (what time did you go to bed last night?); original asks 'What time do you usually turn in for bed?' (habitual) vs new's 'What time did you go to bed last night?' (specific). Different temporal reference.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 156177,
+    "TextENGNew": "\"......I turn the lights out before midnight. ...I get a full seven hours...! ......Ngh...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 156178,
+    "TextENGNew": "\"Is that right? ...If you were truly sleeping that much, you shouldn't be in this kind of pain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 156179,
+    "TextENGNew": "Arakawa writhes in agony. Yoshimura speaks on, pleased with himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 156180,
+    "TextENGNew": "\"...Were you truly able to sleep? ...Truly?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 156181,
+    "TextENGNew": "\"...I slept! ...I'm sleeping fine.\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'ちょっと消し忘れただけ' (just forgot once); original says 'forgot to turn them off a bit' (degree) vs new says 'forgot to turn them off once' (frequency). 'A bit' vs 'once' is different.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 156182,
+    "TextENGNew": "\"You're making sure to turn the lights off? ...You can't sleep deeply if you leave them on, you know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 156183,
+    "TextENGNew": "\"......I just...... forgot to turn them off once...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 156184,
+    "TextENGNew": "\"Were your eyes actually closed? ...Simply lying in bed doesn't count as sleep, you know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 156185,
+    "TextENGNew": "\"They were closed! ...I shut my eyes properly and tried to sleep!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 156186,
+    "TextENGNew": "\"...But you couldn't fall asleep...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 156187,
+    "TextENGNew": "\"......I tried to sleep! I was trying to!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 156188,
+    "TextENGNew": "\".........Then why couldn't you keep your eyes closed?\"",
+    "significantChanges": true,
+    "changeReason": "JPN asks 'why couldn't you keep your eyes closed?' (どうして瞼を閉じられなかったんです); original asks 'Why couldn't you close your eyes?' (initial action) vs new's 'why couldn't you keep your eyes closed?' (maintaining state). Different nuance.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 156189,
+    "TextENGNew": "\"......Leave me alone! ...None of that matters!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'うるさいなぁッ！' which can mean 'shut up' or 'leave me alone'; original uses 'Shut up!' vs new's 'Leave me alone!' These convey different things — one about speech, one about general interference.",
+    "changeScore": 2
+  },
+  {
+    "index": 48,
+    "MessageID": 156190,
+    "TextENGNew": "\"...It must be terrible, lying awake every night like that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 156191,
+    "TextENGNew": "\"I am not...... having trouble... sleeping!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says '不眠なんかじゃないッ' (I don't have insomnia); original says 'I'm not going without sleep!' vs new's 'I am not having trouble sleeping!' New avoids explicitly naming insomnia like the original avoids it, but 'going without sleep' vs 'having trouble sleeping' are different conditions.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 156192,
+    "TextENGNew": "\"...Kondou-san said exactly the same thing. ......That the sleeplessness was torment.\"",
+    "significantChanges": true,
+    "changeReason": "New translation says 'the sleeplessness was torment' vs original's 'it was tough missing sleep.' 'Torment' (辛い in JPN) is stronger than 'tough.'",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 156193,
+    "TextENGNew": "\"I don't care about Kondou-san! ...I am not suffering from insomnia!\"",
+    "significantChanges": true,
+    "changeReason": "Original says 'I'm not going without sleep!' vs new's 'I am not suffering from insomnia!' — 'insomnia' is an explicit medical term vs the original's more casual phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 156194,
+    "TextENGNew": "\"...You try to sleep, but something unsettles you and you wake up again. ...That's what's happening, isn't it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 156195,
+    "TextENGNew": "\"That is not what's happening!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 156196,
+    "TextENGNew": "\"...But at some point you started to sense it, didn't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 156197,
+    "TextENGNew": "\"Sense it?! ...I don't sense anything! Nothing at all!\"",
+    "significantChanges": true,
+    "changeReason": "Original says 'Feel it?!' vs new's 'Sense it?!' — consistent with previous line's 'sense' vs 'feel.' Also mirrors dialogue partner's word choice.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 156198,
+    "TextENGNew": "The stage is bathed in a deep red light.",
+    "significantChanges": true,
+    "changeReason": "JPN says '真っ赤なライト' (deep red/bright red light); original says 'dim, pure red light.' 'Dim' contradicts JPN's 真っ赤な (vivid red). New's 'deep red light' is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 156199,
+    "TextENGNew": "\"...............You don't feel anything, Ara-chan? ...At night?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 156200,
+    "TextENGNew": "\"I don't feel anything! Nothing at all!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 156201,
+    "TextENGNew": "\"..........It's definitely there. .........It's there.\"",
+    "significantChanges": true,
+    "changeReason": "JPN uses singular 'いる' throughout this passage; original uses 'they're there' (plural) vs new's 'It's definitely there' (singular). The entity being discussed is singular in JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 60,
+    "MessageID": 156202,
+    "TextENGNew": "\"It's not there! ...There's nothing there!\"",
+    "significantChanges": true,
+    "changeReason": "Continues the singular vs plural distinction: original 'They're not there' vs new 'It's not there.'",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 156203,
+    "TextENGNew": "\".........Kondou-san was saying the same thing, you know. ...About a month before the end, he was saying exactly that...\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'About a month before the end' (implying death) vs original's 'about a month before now.' JPN says 'ひと月くらい前から' which is ambiguous but in context refers to before Kondou's demise.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 156204,
+    "TextENGNew": "The deep red light shifts to blue.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 156205,
+    "TextENGNew": "\"...Haha. ...Go ahead and laugh if you want. ......But... ...It's really......... there...!\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: original 'They are really there' vs new 'It's really there.'",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 156206,
+    "TextENGNew": "\"It's not there! ...It's all a lie!\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: original 'They're not there! It's all!' vs new 'It's not there! It's all a lie!' — also original's 'It's all!' appears truncated/garbled.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 156207,
+    "TextENGNew": "\"......No, it's there. ......Sure, it's easy to doubt something you can't see for yourself.\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural distinction.",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 156208,
+    "TextENGNew": "\"......But even if you can't see it, it's still...... it's still there!\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural distinction.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 156209,
+    "TextENGNew": "\"Waaaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 156210,
+    "TextENGNew": "The blue light shifts back to deep red once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 156211,
+    "TextENGNew": "\"...Aaaaaah! ...Don't touch me! Don't you dare touch me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 156212,
+    "TextENGNew": "\"Katou-san! ...Please, calm down!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 156213,
+    "TextENGNew": "\"...Don't patronize me! ...Every last one of you is laughing at me! ...Aaaaaaaaaah!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'なめやがって' (don't patronize me/look down on me); original says 'You're looking down on me' vs new's 'Don't patronize me.' Different connotation — looking down vs patronizing.",
+    "changeScore": 2
+  },
+  {
+    "index": 72,
+    "MessageID": 156214,
+    "TextENGNew": "\"......Fine by me. ...You want a fight? You've got one. ...You don't scare me one damn bit...!\"",
+    "significantChanges": true,
+    "changeReason": "New translation is punchier and more colloquial: 'You want a fight? You've got one' vs 'I'll accept that fight of yours.' JPN says 'そのケンカ、買ってやろうじゃねえか' which the new captures more naturally.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 156215,
+    "TextENGNew": "\"Nobody's picking a fight with you! Please, just calm down!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 156216,
+    "TextENGNew": "\"...Come on then! ...I'll kill you! ...I'll kill every last person who laughs at me!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'every last person who laughs at me' (俺を馬鹿にするヤツはみんな); original says 'everyone who makes fun of me.' 'Laughs at me' vs 'makes fun of me' is a minor but distinct difference in the type of mockery.",
+    "changeScore": 2
+  },
+  {
+    "index": 75,
+    "MessageID": 156217,
+    "TextENGNew": "\"......To hell with Oyashiro-sama! ...You think some curse is going to stop me from fighting?!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says '祟りが怖くてケンカができるかぁ' (you think the curse will stop me from fighting); original says 'too scared of the curse to fight' while new says 'some curse is going to stop me from fighting.' New downplays the curse with 'some curse' showing more contempt.",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 156218,
+    "TextENGNew": "\"Ka-Ka-Katou-san! ...Th-the train is coming...! ...Ah, ah... aaaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 156219,
+    "TextENGNew": "The sound of an approaching train.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 156220,
+    "TextENGNew": "\"...Aaaaaah! ...It doesn't exist! ...There is no Oyashiro-sama...!\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: original 'They don't exist!' vs new 'It doesn't exist!'",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 156221,
+    "TextENGNew": "\"...It must be unbearable. ...To know it's there, and yet be unable to meet it. ...It's maddening, isn't it? ......When it's right there.\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: original 'Not being able to meet them when they're there' vs new 'To know it's there, and yet be unable to meet it.'",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 156222,
+    "TextENGNew": "\"It's not there! It's not there! It's not theeeere!\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural distinction.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 156223,
+    "TextENGNew": "\"...Kondou-san met it. ...Kakinuma-san did too.\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: 'got to meet them' vs 'met it.'",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 156224,
+    "TextENGNew": "\"No! No! No!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 156225,
+    "TextENGNew": "\"Mori-san met it. Katou-san met it.\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: 'met them too/also' vs 'met it.'",
+    "changeScore": 2
+  },
+  {
+    "index": 84,
+    "MessageID": 156226,
+    "TextENGNew": "\"Stop it! ...I've had enough! Enough!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 156227,
+    "TextENGNew": "\"...You want to meet it, don't you? ...Deep down, you must want to.\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: 'meet them' vs 'meet it.'",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 156228,
+    "TextENGNew": "\"No! No! ...Someone help me!\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Someone help me!' vs original's just 'Help!' — JPN 助けて could go either way but new is more specific.",
+    "changeScore": 2
+  },
+  {
+    "index": 87,
+    "MessageID": 156229,
+    "TextENGNew": "Arakawa drops to the ground and tries to crawl away anywhere at all. But the headache is too severe, and he can barely move.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'drops to the ground and tries to crawl away anywhere at all' vs original's 'crawls along the ground, trying to escape to anywhere else.' Also 'he can barely manage' vs 'he doesn't get very far' — different characterization.",
+    "changeScore": 2
+  },
+  {
+    "index": 88,
+    "MessageID": 156230,
+    "TextENGNew": "\"...Why do you keep refusing? ......You'd be saved, if you only met it.\"",
+    "significantChanges": true,
+    "changeReason": "Continues singular vs plural: 'him/he' vs 'it.' Also 'Why do you refuse him?' vs 'Why do you keep refusing?' — adding 'keep' implies ongoing resistance.",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 156231,
+    "TextENGNew": "\"Aaaaaaaah! ......No! ...No...! ...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 156232,
+    "TextENGNew": "\"......A grown man shouldn't be so frightened... ...It's really quite undignified.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 156233,
+    "TextENGNew": "Arakawa's legs buckle at center stage. He can do nothing but tremble.",
+    "significantChanges": true,
+    "changeReason": "JPN says '腰をぬかし' (legs buckle/give out); both translations capture this. But 'just keeps shuddering' vs 'He can do nothing but tremble' — 'can do nothing but' implies helplessness more explicitly.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 156234,
+    "TextENGNew": "\"......Oh my. ...Did you have an accident, by any chance...? ......How dreadfully embarrassing...\"",
+    "significantChanges": true,
+    "changeReason": "JPN says '失禁しました' (incontinence/wet yourself); original says 'wet yourself' vs new's 'had an accident.' 'Had an accident' is a euphemism that changes the register. Also 'How embarrassing' vs 'How dreadfully embarrassing.'",
+    "changeScore": 2
+  }
+]

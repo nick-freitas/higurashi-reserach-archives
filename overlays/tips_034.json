@@ -1,0 +1,85 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook VII",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"From The Scrapbook VII\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13570,
+    "TextENGNew": "<The Three Families>@k@r\"The Three Families\" refers to three ancient houses that have effectively governed Onigafuchi Village.@kThey are the Kimiyoshi family, the Furude family, and the Sonozaki family, all of which survive to this day.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13571,
+    "TextENGNew": "(While they no longer wield the absolute control of antiquity, they appear to maintain considerable influence even now.)",
+    "significantChanges": true,
+    "changeReason": "JPN 'ようである' (it appears/seems) indicates uncertainty, which NEW captures with 'they appear to maintain' while OLD states it as definitive fact with 'they still hold.' This shifts the epistemic certainty of the claim.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 13572,
+    "TextENGNew": "Legend holds that the blood of the demons who emerged from Onigafuchi Swamp runs thickest in the Three Families.",
+    "significantChanges": true,
+    "changeReason": "OLD omits the proper noun '鬼ヶ淵沼' (Onigafuchi Swamp), using only 'swamp demons,' while NEW specifies 'demons who emerged from Onigafuchi Swamp,' preserving the specific place name from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 13573,
+    "TextENGNew": "<The Kimiyoshi Family>@k@rThe Kimiyoshi family apparently held great power as the foremost of the Three Families, but today they no longer lead them.@kThe current village chief (Kiichirou Kimiyoshi) comes from this family.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13574,
+    "TextENGNew": "Until popular elections were introduced, the Kimiyoshi family automatically assumed the position of village chief each generation—a vestige of the old order.@kOf course, since no rival candidates have ever emerged, the Kimiyoshi family continues to hold the office even under the postwar electoral system.",
+    "significantChanges": true,
+    "changeReason": "OLD says the family 'are elected as mayor every generation' omitting the JPN distinction that before public elections they 'automatically assumed' the position (公選制が導入されるまで、自動的に). NEW correctly captures the two-phase history: automatic succession before elections, continued dominance after.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 13575,
+    "TextENGNew": "<The Furude Family>@k@rSince ancient times, this family has been the center of the village's faith, guarding the sole shrine dedicated to Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13576,
+    "TextENGNew": "Long revered as the only ones who could speak for Oyashiro-sama, they lost most of their branch families during the war, and now only the main house remains.",
+    "significantChanges": true,
+    "changeReason": "OLD says 'the family branched off after the war and lost most of its power,' but JPN '戦争で分家筋がほとんど絶え' means 'most branch families died out during the war.' OLD mischaracterizes the event (family splitting vs branch families perishing) and misplaces the timing (after vs during the war).",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 13577,
+    "TextENGNew": "Even the main house now consists of only a single daughter (Rika Furude), and the lineage may end with this generation.@kThere is apparently an old custom of venerating females of the Furude family, so the sole daughter, Rika, is greatly revered by the village elders.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13578,
+    "TextENGNew": "<The Sonozaki Family>@k@rThis family is said to have served a quasi-police role, enforcing the commandments of Onigafuchi Village.@kTheir relatively weak position among the Three Families is evident from their placement at the bottom of the hierarchy.",
+    "significantChanges": true,
+    "changeReason": "OLD says 'from me putting them here last' (a personal editorial choice by the writer), while JPN '御三家の末番に数えられること' means 'from being counted last among the Three Families' — an established hierarchical ranking, not the author's arbitrary ordering. NEW correctly conveys this as 'their placement at the bottom of the hierarchy.'",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 13579,
+    "TextENGNew": "That said, the Sonozaki family has risen to unprecedented prominence today, completely reversing the old power dynamic within the Three Families.@kOne could say they now hold all of Hinamizawa in their grip.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13580,
+    "TextENGNew": "While the tradition of the Three Families conferring together persists as a formality, village decisions are effectively made single-handedly by the current head, Oryou Sonozaki.",
+    "significantChanges": false
+  }
+]

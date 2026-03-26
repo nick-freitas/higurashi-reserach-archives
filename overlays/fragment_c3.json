@@ -1,0 +1,662 @@
+[
+  {
+    "index": 1,
+    "MessageID": 4907,
+    "TextENGNew": "That night.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 4908,
+    "TextENGNew": "The head of the Furude family, the priest, gathered his wife and Rika in the Japanese-style room, saying there was a family meeting to be held.",
+    "significantChanges": true,
+    "changeReason": "New adds the detail that they were gathered in the Japanese-style room (和室) and that the priest stated there was a family meeting, both present in the JPN but omitted in the old.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 4909,
+    "TextENGNew": "It was the tradition of Hinamizawa for the Three Families to convene and deliberate on village matters.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 4910,
+    "TextENGNew": "Along with that, large households like the Sonozakis or the Kimiyoshis might well hold preliminary clan or family meetings to align opinions.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 4911,
+    "TextENGNew": "...But the Furude family's branch lines had died out, and now there were only three people remaining — the one main household.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 4912,
+    "TextENGNew": "And so they had never once held anything that could be called a family meeting.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 4913,
+    "TextENGNew": "\"What is all this formality? ...Is it something to do with the dam?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 4914,
+    "TextENGNew": "The most pressing matter in the village at present was the dam issue — nothing else came close.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 4915,
+    "TextENGNew": "His wife assumed that whatever the priest was about to raise was connected to that.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 4916,
+    "TextENGNew": "...And if he had gathered the family to discuss it, it must involve some weighty decision.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 4917,
+    "TextENGNew": "...Something like agreeing to vacate, perhaps — that was what she had assumed it would be.",
+    "significantChanges": true,
+    "changeReason": "Old interprets 立ち退きに応じる as 'joining the pro-evacuation camp' (a political faction); new correctly translates it as 'agreeing to vacate,' which is the personal decision to comply with relocation demands.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 4918,
+    "TextENGNew": "\"...No, it is not about the dam. ...But it is a matter of the utmost importance — concerning this village, and indeed the ancestors of this village.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 4919,
+    "TextENGNew": "The Furude family had served as priests for generations, enshrining Oyashiro-sama, the guardian deity of the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 4920,
+    "TextENGNew": "...For the head of that family to open with such words, the matter must be extraordinary indeed.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 4921,
+    "TextENGNew": "And yet if it was not about the dam, then what on earth could it be...?",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 4922,
+    "TextENGNew": "\"...I married into this family. And so I want you two — you and Rika, who carry the true blood of the Furudes — to listen carefully.\"",
+    "significantChanges": true,
+    "changeReason": "Old includes the full statement including 'You two aren't normal human beings' (お前たちは普通の人間ではないのだ); new truncates, omitting this critical revelation.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 4923,
+    "TextENGNew": "\"...I am the reincarnation of Oyashiro-sama, you know?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 4924,
+    "TextENGNew": "\"Rika, you mustn't say such things! ...Dear, if you want to discuss that sort of topic, please do it when Rika is not present.\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's third complaint about the village elders filling Rika's head with strange ideas (集会所のお年寄りたちが梨花に妙なことばかり吹き込んで), which provides context for her reaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 4925,
+    "TextENGNew": "\"That — that Rika is the reincarnation of Oyashiro-sama — it seems that may actually be true.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 4926,
+    "TextENGNew": "\"...What?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 4927,
+    "TextENGNew": "\"...This will take a while to explain. Both of you, please stay quiet and hear me out.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 4928,
+    "TextENGNew": "His wife wore a puzzled expression, unsure what story was about to begin — but Rika, as always, was wearing her usual blank look, entirely unruffled.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 4929,
+    "TextENGNew": "The priest waited until his wife had settled somewhat, and then he began to speak...",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 4930,
+    "TextENGNew": "\"There is a disease that has existed in this village since ancient times.@k@vS20/00/VTK1_rikaF1033. ...It is a special affliction found only here — what is called an endemic disease.@k@vS20/00/VTK1_rikaF1034. ...And everyone living in this village is infected.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 4931,
+    "TextENGNew": "\"It is not only the people living in this village today. All the ancestors who lived here from long, long ago — each and every one of them has carried this illness all this time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 4932,
+    "TextENGNew": "\"That can't be... But we all live perfectly normal lives.\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's protest about never having heard of such a disease (この村だけの病気なんて、聞いたこともない), reducing the emotional escalation.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 4933,
+    "TextENGNew": "\"Calm yourself.@k@vS20/00/VTK1_rikaF1038. ...The disease causes no trouble at all, so long as one remains in this village.@k@vS20/00/VTK1_rikaF1039. But if you leave and travel to distant lands, it manifests.@k@vS20/00/VTK1_rikaF1040. ...Do you understand?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 4934,
+    "TextENGNew": "\"H-How could I understand? I have no idea what you're talking about!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 4935,
+    "TextENGNew": "\"...It is the same as the curse of Oyashiro-sama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 4936,
+    "TextENGNew": "In perfect contrast to her nearly-panicking mother, Rika spoke in a calm, unhurried voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 4937,
+    "TextENGNew": "\"That's right. It is the same as the curse that strikes those who leave this village. ...People have called it the curse of Oyashiro-sama for a very long time — but that too was the work of this disease.\"",
+    "significantChanges": true,
+    "changeReason": "New omits the priest's explanation that 'Oyashiro-sama's curse has always been the work of this disease' and that leaving triggers it, condensing three key revelations into a partial statement.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 4938,
+    "TextENGNew": "\"That can't be right.@k@vS20/00/VTK1_rikaM1044. Because we do sometimes leave the village ourselves, don't we?@k@vS20/00/VTK1_rikaM1045. Other villagers travel far away for work, and some even go overseas!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 4939,
+    "TextENGNew": "\"Yes. That is because over a long, long time, the disease has gradually weakened. ...Though apparently the dam war has thrown that into disarray.\"",
+    "significantChanges": true,
+    "changeReason": "New merges content from the next JPN entry (about the dam war disrupting things) into this one, and drops the original ending about the disease potentially disappearing entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 4940,
+    "TextENGNew": "\"...It seems the dam war has put the village into an abnormal state. ...The excitement and agitation sweeping the village right now—\"",
+    "significantChanges": true,
+    "changeReason": "New truncates, dropping the detail that the entire village being in a fever-pitch state of excitement (村中が熱に浮かされたように興奮している) is understood by everyone.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 4941,
+    "TextENGNew": "\"...That kind of excitement, that emotional instability — it seems to make this disease worse.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 4942,
+    "TextENGNew": "\"I'm not quite following... But what you're saying is that all of what has been called a curse since ancient times — all of it is the work of this disease?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 4943,
+    "TextENGNew": "\"That's right. Every rule created by Oyashiro-sama was a rule meant to protect the villagers from this disease.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 4944,
+    "TextENGNew": "\"...That can't be...! Then Oyashiro-sama is not a deity — it's a disease that is the true nature of things?!\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's anguished protests about how to explain this to the Furude ancestors and the desecration of tradition, which convey her emotional state.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 4945,
+    "TextENGNew": "\"Calm yourself. The faith in Oyashiro-sama is unchanged. Oyashiro-sama has always watched over us, and always will.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 4946,
+    "TextENGNew": "\"...What it comes to is simply this: there has existed in this village, since ancient times, a disease that mimics the curse of Oyashiro-sama. That is all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 4947,
+    "TextENGNew": "\"I cannot accept this!! How would you explain this to our predecessors, and the generations before them?!\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's accusation of desecration (冒涜) of the Furude family traditions and of Oyashiro-sama itself, significant escalation of her emotional reaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 4948,
+    "TextENGNew": "\"Who is the one who put these strange ideas into your head?! This is the height of rudeness!!\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's demand for proof that the disease exists (そんな変な病気が実在するという証拠があるんですか), which is the pivot point that leads the father to reveal his evidence.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 4949,
+    "TextENGNew": "\"...There is proof!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 4950,
+    "TextENGNew": "\"What proof?! From whom?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 4951,
+    "TextENGNew": "\"From people at the Ministry of Health and the National Institute for Infectious Disease Research. The pathogen has already been identified, and they are currently in the midst of researching treatments.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 4952,
+    "TextENGNew": "\"...Last week, they actually showed me the documents and specimens themselves. The Ministry of Health apparently calls this disease Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 4953,
+    "TextENGNew": "\"...That can't be...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 4954,
+    "TextENGNew": "\"Hinamizawa Syndrome apparently has no harmful effects so long as one lives normally. However, if one travels far from Hinamizawa, or experiences great mental or emotional stress—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 4955,
+    "TextENGNew": "\"When the disease erupts, one may be seized by delusions, and in the worst case, act in abnormal ways. ...This disease, they say, was first discovered during the war—\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 異常行動 as 'go mad,' which overstates the meaning; new uses 'act in abnormal ways,' more faithfully reflecting the JPN term for exhibiting abnormal behavior.",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 4956,
+    "TextENGNew": "\"A great scholar noticed that only the soldiers from Hinamizawa fell ill with this strange disease in the field, and research has been ongoing ever since.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 4957,
+    "TextENGNew": "\"...They explained that part in considerable detail, but — forgive me. It was complex material and I cannot explain it well from my own mouth beyond this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 4958,
+    "TextENGNew": "\"If my explanation is not enough to convince you, you can go and hear it directly yourself. ...I was sceptical at first too, thinking it was nonsense—\"",
+    "significantChanges": true,
+    "changeReason": "Old correctly uses 'indignant' for 憤慨; new weakens this to 'sceptical,' which doesn't capture the anger the priest felt at the perceived blasphemy.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 4959,
+    "TextENGNew": "\"...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 4960,
+    "TextENGNew": "\"The Irie Clinic was built to research this disease.@k@vS20/00/VTK1_rikaF1071. On the surface it functions as an ordinary clinic, but in reality it appears to be a hidden research laboratory for studying the disease.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 4961,
+    "TextENGNew": "\"Conducting research in secret? That's suspicious, isn't it! If the Ministry of Health is behind it, why not do it openly?\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 胡散臭い as 'ridiculous'; new correctly uses 'suspicious,' reflecting the mother's distrust rather than disbelief.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 4962,
+    "TextENGNew": "\"It seems it cannot be done that way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 4963,
+    "TextENGNew": "\"If the reality of this disease were to spread widely before it was fully understood, with incomplete knowledge, the people who carry it — to say nothing of entirely unrelated people — would face misguided discrimination.\"",
+    "significantChanges": true,
+    "changeReason": "Old invents a leprosy comparison not present in JPN; the original discusses how incomplete knowledge of the disease would cause misguided discrimination against carriers and unrelated people.",
+    "changeScore": 4
+  },
+  {
+    "index": 58,
+    "MessageID": 4964,
+    "TextENGNew": "\"...If a rumour spread across all of Japan that every person in Hinamizawa carried some suspicious disease and might do terrible things because of it — that would be disastrous.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 4965,
+    "TextENGNew": "\"The Ministry of Health is also worried about that, and it seems their intention is to keep this disease strictly concealed while pursuing treatment.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 4966,
+    "TextENGNew": "\"Do not misunderstand — they are not trying to put us on display.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 4967,
+    "TextENGNew": "\"They are trying to eradicate this disease and free this village from it. ...In ancient times, when the village was self-sufficient, it may not have mattered — but in the modern age—\"",
+    "significantChanges": true,
+    "changeReason": "New truncates mid-thought, cutting the priest's argument that in modern times one cannot live without ever leaving the village (村から一歩も出ずに生活などなりたたん).",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 4968,
+    "TextENGNew": "\"You understand how dangerous a disease can be, if it may erupt simply from leaving the village.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 4969,
+    "TextENGNew": "\"...To repeat myself, the village is currently in a state of intense agitation due to the dam war, and it seems to be a very bad situation for Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 4970,
+    "TextENGNew": "\"...If the villagers all started behaving strangely and something terrible happened, the cameras would certainly be clicking away like mad.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 4971,
+    "TextENGNew": "\"That's right. By the time it reached that point, it would be too late.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 4972,
+    "TextENGNew": "\"...That's... I can't believe it just from being told all this. ...How am I supposed to simply accept something like—\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's questions about whether the people are truly from the government and whether the priest is being deceived (変な詐欺に騙されてる), removing her specific objections.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 4973,
+    "TextENGNew": "\"I understand why you can't. ...They say we are welcome to come and see the research facility any time.\"",
+    "significantChanges": true,
+    "changeReason": "New omits the priest's personal testimony that he has already seen the facility and it is far beyond any fraud (詐欺とかそういうレベルではない).",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 4974,
+    "TextENGNew": "\"...Even that big hospital in Kakuragou doesn't have equipment on that scale. ...If you cannot accept what I've told you, go hear the full explanation at the research facility.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates the place name 穀倉 as 'Gogura'; new translates it as 'Kakuragou.' These are different romanizations that could cause reader confusion about which location is referenced.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 4975,
+    "TextENGNew": "\"They say that if the research facility's explanation still isn't enough, they would be willing to explain at the National Research Institute in Tokyo, or even at the Ministry of Health headquarters directly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 4976,
+    "TextENGNew": "\"...But... setting aside whether I believe it or not... what does this have to do with us?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 4977,
+    "TextENGNew": "\"The Furude family has been said, since ancient times, to carry the blood of Oyashiro-sama. And if eight successive generations produce daughters, the eighth generation is said to be the reincarnation of Oyashiro-sama—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 4978,
+    "TextENGNew": "\"...Mii.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 4979,
+    "TextENGNew": "\"That's right. I am the seventh generation. Rika is the eighth.\"",
+    "significantChanges": true,
+    "changeReason": "New omits the mother's question connecting this to the disease (でも、それとその病気に何の関係があるというんです), which serves as the transition to the queen parasite revelation.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 4980,
+    "TextENGNew": "\"Yes. ...This disease called Hinamizawa Syndrome is apparently caused by a kind of parasite. Within the infected population there is, it seems, one 'queen' parasite—\"",
+    "significantChanges": true,
+    "changeReason": "New heavily condenses the explanation, skipping the details about the parasites being microscopically tiny and invisible to the naked eye, and prematurely introduces the 'queen' concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 4981,
+    "TextENGNew": "\"S-Surely you're not saying that is the Furude family?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 4982,
+    "TextENGNew": "\"The queen parasite is apparently passed down only through the direct lineage of the Furude family, from generation to generation. Which means... the previous generation is you. And the current one—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 4983,
+    "TextENGNew": "\"...Mii.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 4984,
+    "TextENGNew": "\"Th-That's preposterous!!@k@vS20/00/VTK1_rikaM1077. I knew this whole story was absurd!@k@vS20/00/VTK1_rikaM1078. And parasites, of all things — how revolting!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 4985,
+    "TextENGNew": "\"Would you please calm down!!@k@vS20/00/VTK1_rikaF1101. I am not good at explaining this.@k@vS20/00/VTK1_rikaF1102. Have the experts explain it to you properly.@k@vS20/00/VTK1_rikaF1103. And according to them, in order to research a cure for this disease, studying the queen parasite is absolutely essential.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 4986,
+    "TextENGNew": "\"No!! I refuse to let Rika anywhere near this suspicious research!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 4987,
+    "TextENGNew": "\"I keep telling you to calm down!! According to their research, Hinamizawa Syndrome does not erupt merely from leaving the village — it is the queen parasite's influence—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 4988,
+    "TextENGNew": "\"...You were told by the villagers, when you were small, that you had a kind of divine power, were you not?@k@vS20/00/VTK1_rikaF1107. The divine power where elderly villagers who traveled far away and suffered from migraines would have their headaches vanish the moment you laid hands on them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 4989,
+    "TextENGNew": "\"...That in itself is said to be evidence of the queen's presence. The blood of the Furudes holds the power to save the afflicted. If a carrier of the disease comes near the queen—\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'if a carrier of the disease comes near the queen—' which is not in the JPN text for this entry, and omits that research is 'extremely important' for discovering a cure.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 4990,
+    "TextENGNew": "\"...If you research me, everyone in the village will be saved?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 4991,
+    "TextENGNew": "\"That is what they say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 4992,
+    "TextENGNew": "\"...Does everyone in the village have this disease?@k@vS20/05/VTK1_rika1056. Me too?@k@vS20/05/VTK1_rika1057. Everyone?@k@vS20/05/VTK1_rika1058. Satoko too?\"",
+    "significantChanges": true,
+    "changeReason": "New drops Rika's specific mention of Satoko (沙都子も?), a character-defining moment showing Rika's concern for Satoko, and adds 'Mii' which is not in this JPN entry.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 4993,
+    "TextENGNew": "\"...Yes. Not only everyone living in the village, but all relatives in Okinomiya as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 4994,
+    "TextENGNew": "\"Precisely because it is such a serious disease, the Ministry of Health went to the trouble of investing a great deal of funding to build a dedicated research facility.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 4995,
+    "TextENGNew": "\"I — I am against this! Offering our Rika as a sacrifice to such suspicious research!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 4996,
+    "TextENGNew": "\"...I don't mind. If I am the sacrifice and Satoko is saved, that is perfectly fine with me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 4997,
+    "TextENGNew": "\"Rika, you be quiet!! I am absolutely opposed to this, whatever the case!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 4998,
+    "TextENGNew": "\"I will go and speak directly to the people who put these strange ideas into your head, and refuse them outright. I will not allow Rika to be killed by their strange experiments.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 4999,
+    "TextENGNew": "\"Besides — Rika is the one and only heir to the Furude family?! If something were to happen to her, the Furude bloodline might end here—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 5000,
+    "TextENGNew": "\"You really need to think more about the Furude family!! That is exactly why people in the village call you an opportunist and—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 5001,
+    "TextENGNew": "\"And another thing — isn't there something contradictory here?! The Ministry of Construction wants to sink the village with the dam. And the Ministry of Health wants to research it—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 5002,
+    "TextENGNew": "\"The Ministry of Health has warned that this disease is particularly prone to erupt with changes in the environment, and they are apparently pushing the Ministry of Construction to halt the dam plan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 5003,
+    "TextENGNew": "\"So please, go and have a look at the research facility. There would be no reason to build such an extensive installation on land that might be submerged by a dam lake—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 5004,
+    "TextENGNew": "\"...Uuuuaaahh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 5005,
+    "TextENGNew": "Rika let out a great yawn.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 5006,
+    "TextENGNew": "For a girl like Rika, this must have been enough to last her.",
+    "significantChanges": true,
+    "changeReason": "Old interprets もう堪える時間 as 'past bedtime'; new better captures the meaning of it being a strain/endurance for a girl like Rika (堪える = endure), though both are somewhat interpretive.",
+    "changeScore": 3
+  },
+  {
+    "index": 101,
+    "MessageID": 5007,
+    "TextENGNew": "\"...I'm going to bed now. ...Father, please tell those people I am willing to cooperate any time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 5008,
+    "TextENGNew": "\"R-Rika!! You can't just decide something like that without asking your mother first!!!\"",
+    "significantChanges": false
+  }
+]

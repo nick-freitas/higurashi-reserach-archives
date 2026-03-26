@@ -1,0 +1,289 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Four or More Culprits?",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"There Are More Than Four Perpetrators?\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12843,
+    "TextENGNew": "``Death by hemorrhagic shock from clawing open his own throat.@k@vS20/00/443200002. Skin fragments remain under the nails. They’re unmistakably his own.@k@vS20/00/443200003. The wound patterns match as well.``",
+    "significantChanges": true,
+    "changeReason": "Multiple meaningful corrections: 'hypovolemic shock' to 'hemorrhagic shock' (matching JPN), 'tissue' to 'skin fragments' (JPN 皮膚片), and 'scars' to 'wound patterns' (JPN 傷の形).",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 12844,
+    "TextENGNew": "``Yeah, yeah. I know the immediate cause of death was suicide.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 12845,
+    "TextENGNew": "``I know what you’re after. You want to know if something could have artificially induced this kind of behavior, right?``",
+    "significantChanges": true,
+    "changeReason": "Old asks if 'the cause of death is unnatural'; new correctly asks if 'something could have artificially induced this behavior,' matching the JPN about whether symptoms could be caused artificially.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 12846,
+    "TextENGNew": "``It’s not quite the same as scratching your back too hard and drawing a little blood, after all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12847,
+    "TextENGNew": "Some of Tomitake’s fingernails had been torn off.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12848,
+    "TextENGNew": "Fingernails actually come off fairly easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12849,
+    "TextENGNew": "But it hurts terribly.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12850,
+    "TextENGNew": "Which is why, under normal circumstances, no one would scratch hard enough to tear them off.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12851,
+    "TextENGNew": "And then there were the numerous bruises on Tomitake’s body.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 12852,
+    "TextENGNew": "...From their shape and other characteristics, it was clear they were inflicted by bare-handed assault—and by multiple assailants at that.",
+    "significantChanges": true,
+    "changeReason": "Old hedges with 'someone or a group'; new correctly states 'bare-handed assault by multiple assailants,' matching the JPN's certainty about multiple unarmed attackers.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 12853,
+    "TextENGNew": "``Judging from the secretions, there’s no doubt the deceased was in an extreme state of agitation.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'according to the toxicology report'; new correctly says 'judging from the secretions' (JPN 分泌物), a different evidentiary basis entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 12854,
+    "TextENGNew": "``So he got into a brawl, and in his frenzy he clawed his own throat out? His attackers must have been stunned.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12855,
+    "TextENGNew": "Certainly, a person driven to extreme agitation in an extreme environment can behave in ways that a sound-minded individual would never imagine.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12856,
+    "TextENGNew": "Of course, such cases are exceedingly rare.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12857,
+    "TextENGNew": "``Actually, Ooishi. That wooden plank the deceased supposedly used as a weapon?@k@vS20/00/443200007. All they found on it were grains of sand and flecks of guardrail paint.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12858,
+    "TextENGNew": "``What about clothing fibers from the perp, or skin fragments?``",
+    "significantChanges": true,
+    "changeReason": "Old omits 'from the perp' (JPN ホシの); new specifies 'clothing fibers from the perp,' clarifying whose evidence is being sought.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 12859,
+    "TextENGNew": "``Nothing. The deceased never struck his attackers.@k@vS20/00/443200009. ...Or perhaps the attackers took away the plank he actually hit them with.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12860,
+    "TextENGNew": "``If that were the case, they wouldn’t have gone out of their way to leave a different plank behind. They’d have taken them all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12861,
+    "TextENGNew": "``Ha ha ha ha! Fair point.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12862,
+    "TextENGNew": "``Tomitake was pretty well built—tanned, good physique. ...He was obviously athletic.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12863,
+    "TextENGNew": "``Hm? That’s right.@k@vS20/00/443200012. Looks like he exercised regularly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12864,
+    "TextENGNew": "...I couldn’t say what sport he practiced when he was alive, but his physical fitness was clearly above average.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12865,
+    "TextENGNew": "In other words, he should have been no pushover in a fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12866,
+    "TextENGNew": "A man with that kind of build, sensing mortal danger, swinging a weapon for all he’s worth—",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 12867,
+    "TextENGNew": "it’s simply inconceivable that he wouldn’t land a single blow on his attackers.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 12868,
+    "TextENGNew": "Especially when his opponents were unarmed.",
+    "significantChanges": true,
+    "changeReason": "Old uses singular 'opponent'; new correctly uses plural 'opponents,' consistent with the discussion about multiple attackers.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 12869,
+    "TextENGNew": "He had a wooden plank, so you’d think he’d have hit them at least once...",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 12870,
+    "TextENGNew": "``To surround and overpower someone with this kind of physique... how many people would it take, I wonder.``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 12871,
+    "TextENGNew": "``You dunce. That’s more your area of expertise.@k@vS20/00/443200014. Try remembering your old roughneck days!``",
+    "significantChanges": true,
+    "changeReason": "Old translates 悪タレ時代 as 'Bad Cop days' implying a policing style; new correctly renders it as 'roughneck days,' referring to Ooishi's rough youth.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 12872,
+    "TextENGNew": "If I were to take this guy in a fight, how many men would I want?",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 12873,
+    "TextENGNew": "Just as a pack can bring down big game, attacking in numbers is fundamental when hunting larger prey.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 12874,
+    "TextENGNew": "...About four, I’d say.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 12875,
+    "TextENGNew": "Even accounting for differences in build, that many should be enough to manage.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 12876,
+    "TextENGNew": "``In that case, there were quite a few perpetrators.@k@vS20/00/443200016. So any group of four or more who got rowdy and drunk at the festival would be suspicious?``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 12877,
+    "TextENGNew": "...A group of four or more.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 12878,
+    "TextENGNew": "But... with that many people, couldn’t they have hidden the body somewhere less conspicuous?",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 12879,
+    "TextENGNew": "Or... did he somehow manage to escape while on the brink of death...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 12880,
+    "TextENGNew": "If so, there would be no reason to commit suicide.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 12881,
+    "TextENGNew": "And beyond that, I still can’t fathom that grotesque manner of death...@kNothing but mysteries.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 12882,
+    "TextENGNew": "``I’m taking this very seriously on my end as well. I intend to be thorough, but... don’t get your hopes up.@k@vS20/00/443200018. After all, there’s no precedent for a death like this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 12883,
+    "TextENGNew": "``I’m not getting my hopes up. But I will be looking forward to the results.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 12884,
+    "TextENGNew": "``Ooishi-san~! The chief is calling for you!``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 12885,
+    "TextENGNew": "``Excuse me, then. Let’s meet again next year.``",
+    "significantChanges": true,
+    "changeReason": "Old 'Thanks. See ya round' drops the specific 'next year' timeframe; new correctly includes 'Let's meet again next year' (JPN また来年お会いしましょう).",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 12886,
+    "TextENGNew": "``Sure thing. Have a good one!``",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Emergency",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 14142,
+    "TextENGNew": "June 18, 1983",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14143,
+    "TextENGNew": "Regarding the Domestic Situation Concerning Satoko Houjou (URGENT)",
+    "significantChanges": true,
+    "changeReason": "Old translation says \"Abuse issues\" which specifies abuse, but the Japanese 家庭問題 means \"domestic/family issues\" — a broader, less accusatory term. The new translation \"Domestic Situation\" is more accurate to the formal bureaucratic tone and avoids inserting a conclusion not present in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 14144,
+    "TextENGNew": "Regarding the above matter, I submit the following recommendation: Satoko Houjou must be placed under emergency protection without delay.",
+    "significantChanges": true,
+    "changeReason": "Old uses \"We propose\" (plural) and \"custody\" while the Japanese 進言します is a first-person singular recommendation and 保護 means \"protection\" not \"custody\" — a meaningful legal/procedural distinction in a child welfare document.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 14145,
+    "TextENGNew": "1. Home Situation",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14146,
+    "TextENGNew": "  The difficulties arising from the recent return of the adoptive father to Hinamizawa are severe, and it is considered essential that the consultation center respond with the utmost urgency.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'unendurable physical and mental abuse' not in the Japanese, which simply states the problems are severe.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 14147,
+    "TextENGNew": "2. Response by the Okinomiya Life Consultation Center",
+    "significantChanges": true,
+    "changeReason": "The old translation omits the place name and changes the institution type to \"Child consultation center,\" while the Japanese 興宮生活相談所 specifically names the Okinomiya Life Consultation Center — a distinct type of agency.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 14148,
+    "TextENGNew": "  A caseworker was dispatched yesterday, the 17th, but due to the precedent of the 1977 case, a cautious approach was adopted and the case was designated for ongoing guidance.",
+    "significantChanges": true,
+    "changeReason": "Old says \"child probation officer\" and adds \"from the prefecture welfare office\" (not in Japanese). The Japanese 担当職員 means \"assigned caseworker\" and 継続指導 means \"ongoing guidance,\" not \"continued coaching and cautionary action.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 14149,
+    "TextENGNew": "  Regrettably, the head of the consultation center cannot be said to have a proper grasp of the situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14150,
+    "TextENGNew": "3. Condition of the Child in Question",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14151,
+    "TextENGNew": "  Based on our findings and cross-referencing with past cases, the likelihood that the child is suffering serious harm is considered very high.",
+    "significantChanges": true,
+    "changeReason": "Old introduces specific diagnoses ('neurosis or manic depression') not in the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 14152,
+    "TextENGNew": "  Allowing the situation to continue without intervention risks leading to consequences of far greater severity.",
+    "significantChanges": true,
+    "changeReason": "Old adds extensive content not in the Japanese ('unstable pubescent mind,' 'stimulated by stress,' etc.).",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 14153,
+    "TextENGNew": "4. Petition to the Shishibone City Family Guidance Division",
+    "significantChanges": true,
+    "changeReason": "Old says 'family court' but Japanese 生活指導部 refers to a city administrative body, not a court.",
+    "changeScore": 4
+  },
+  {
+    "index": 13,
+    "MessageID": 14154,
+    "TextENGNew": "  Based on the foregoing, I submit the recommendation that an emergency response regarding Satoko Houjou be undertaken without delay.",
+    "significantChanges": true,
+    "changeReason": "Old says \"protective custody\" while Japanese 対応 means \"response/action\" — a broader term. The old translation also uses \"We propose\" (plural) while the Japanese uses singular first-person 進言します.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 14155,
+    "TextENGNew": "  I formally request emergency coordination among all relevant agencies.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'family court under Article 28' entirely absent from the Japanese.",
+    "changeScore": 4
+  }
+]

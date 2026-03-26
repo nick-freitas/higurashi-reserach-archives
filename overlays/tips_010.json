@@ -1,0 +1,49 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Death by Illness of the Furude Shrine Priest",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Terminal Illness Death of Shinto Priest Furude\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12829,
+    "TextENGNew": "From the evening edition, June XX, 1981.",
+    "significantChanges": true,
+    "changeReason": "The original omits '夕刊' (evening edition) and the 'XX日' date reference. The new translation specifies it's an evening newspaper edition on a specific date, which matters for establishing the timeline of events.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 12830,
+    "TextENGNew": "Around 10 PM on the XXth, the Shinto priest of Furude Shrine, XXXX-san, from Hinamizawa village, X district, Shishibone City, fell ill and was treated at a hospital. He appeared to recover briefly, but his condition took a sudden turn for the worse in the middle of the night, and he passed away.",
+    "significantChanges": true,
+    "changeReason": "The original omits key details from the JP: that the priest was treated at a hospital and initially appeared to recover before his condition suddenly worsened at night. Also 'Shishibone prefecture' is corrected to 'Shishibone City' (鹿骨市 = city, not prefecture).",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 12831,
+    "TextENGNew": "According to those close to him, he had been under considerable strain due to preparations for the festival being held that day.",
+    "significantChanges": true,
+    "changeReason": "The original says 'anxiety issues' while the JP 心労 means mental strain/stress from overwork. The new translation's 'considerable strain due to preparations' correctly captures that it was the workload of festival preparations (準備等), not an anxiety disorder.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 12832,
+    "TextENGNew": "Shortly after XXXX-san's death, his wife XXXX-san disappeared, leaving behind a farewell note.",
+    "significantChanges": true,
+    "changeReason": "The original says 'after' while the JP 死亡直後 means 'immediately/shortly after death.' The timing specificity matters — it implies the wife's disappearance was a direct, rapid response to the death.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 12833,
+    "TextENGNew": "The police and local youth association have continued their search, but progress has been difficult—the Onigafuchi Swamp where she hinted she would go in her note is known locally as a bottomless swamp.",
+    "significantChanges": true,
+    "changeReason": "The original omits that the farewell note specifically hinted at suicide at Onigafuchi Swamp. The JP 遺書で自殺をほのめかした鬼ヶ淵沼 explicitly connects the note's suicide hint to the swamp location, a critical detail for understanding why the search focused there.",
+    "changeScore": 4
+  }
+]

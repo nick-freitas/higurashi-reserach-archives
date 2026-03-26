@@ -1,0 +1,104 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8439,
+    "TextENGNew": "Through this piece, you will come close to grasping one edge of the truth.",
+    "significantChanges": true,
+    "changeReason": "Old: 'you can grasp one piece of the truth' (definite ability) vs New: 'you will come close to grasping one edge of the truth' — TextJPN 'つかみかける' means 'about to grasp / nearly grasp', so the new correctly conveys incompleteness while the old implies successful grasping.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 8440,
+    "TextENGNew": "...But on the other hand, you must have found yourself confronted by a new mystery you never could have anticipated.",
+    "significantChanges": true,
+    "changeReason": "Old: 'it means facing a new mystery' (statement) vs New: 'you must have found yourself confronted by a new mystery you never could have anticipated' — TextJPN ends with 'んじゃないかしら？' (rhetorical question/supposition), which the old renders as a question but the new as a confident supposition. Also 'never imagined' vs 'never could have anticipated' is minor but the structural change matters.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 8441,
+    "TextENGNew": "At last, Akasaka and the others become aware of the true nature of the calamity — but by then, the chain of tragedies can no longer be stopped.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Akasaka and his companions notice there's something more to this calamity' vs New: 'Akasaka and the others become aware of the true nature of the calamity.' TextJPN '事の異変に気づいてくれる' means noticing something is wrong/abnormal, not 'something more' — the new is more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 8442,
+    "TextENGNew": "And the hope that was born in Someutsushi — even that has its light stolen by a malevolent miasma, erased without a trace.",
+    "significantChanges": true,
+    "changeReason": "Old: 'was viciously robbed of its light, erased without a trace' (past tense, implies violence by an agent) vs New: 'has its light stolen by a malevolent miasma' — the new adds '禍々しい瘴気' (malevolent miasma) which was present in TextJPN but omitted from the old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 8443,
+    "TextENGNew": "In the end, they are blocked by someone with tremendous power and forced to withdraw against their will — an ending that cannot be called happy by any measure.",
+    "significantChanges": true,
+    "changeReason": "Old: 'someone with enormous power obstructed their investigation and forced them to withdraw' vs New: 'they are blocked by someone with tremendous power and forced to withdraw against their will.' The new adds 'against their will' matching '不本意なまま' from TextJPN, which was missing in the old.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 8444,
+    "TextENGNew": "...And yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 8445,
+    "TextENGNew": "That they were obstructed so aggressively means, by the same token, that they had drawn close to the enemy's vital point.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 8446,
+    "TextENGNew": "Regrettably, its true nature remained unknown — but you must have glimpsed the fact that this tragedy was not the work of any curse.",
+    "significantChanges": true,
+    "changeReason": "Old: 'I can't say I know what that actually is' (first person inability) vs New: 'its true nature remained unknown' (objective statement). TextJPN 'その正体を知ることはできなかったけど' means 'could not learn its identity' — the new is closer. Also old starts with 'Unfortunately' while new uses 'Regrettably' — minor.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 8447,
+    "TextENGNew": "And Natsumi — who had long suffered under Hinamizawa's dark shadow and the sad past hidden within it — was finally able to understand what it was she truly needed.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8448,
+    "TextENGNew": "Through so many sacrifices, and through the kindness each person showed...",
+    "significantChanges": true,
+    "changeReason": "Old: 'by the grace of their kindness' vs New: 'through the kindness each person showed.' TextJPN 'それぞれの優しさ' means 'each person's kindness' — the new correctly distributes the kindness to individuals rather than treating it as collective grace.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 8449,
+    "TextENGNew": "The world she had believed to be cold was warm in places she had never known.",
+    "significantChanges": true,
+    "changeReason": "Old: 'began to warm up without her even noticing' (process of warming, she's unaware) vs New: 'was warm in places she had never known' (already warm, she was ignorant of those places). TextJPN says the world was warm '彼女の知らないところで' (in places she didn't know) — the new matches this spatial meaning better.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 8450,
+    "TextENGNew": "...And so, though still tormented by regret and the ache of conscience, she resolved to move forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 8451,
+    "TextENGNew": "Surely that sight must have become a source of hope for Akasaka and the others.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 8452,
+    "TextENGNew": "I believe that... I choose to believe it.",
+    "significantChanges": true,
+    "changeReason": "Old: 'That's what I choose to believe...' (single statement) vs New: 'I believe that... I choose to believe it.' TextJPN 'そう、信じている' has a pause (そう、) creating two beats — the new preserves this structure with the split phrasing.",
+    "changeScore": 2
+  }
+]

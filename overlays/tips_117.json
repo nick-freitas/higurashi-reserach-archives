@@ -1,0 +1,123 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Right Before the Getaway",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Before the Flight\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15843,
+    "TextENGNew": "``Here's your plane ticket. Don't be late.@k@vS20/00/badA44002. You'll get the rest of the money when we arrive.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"when you get there\" (implying only one person travels) while new says \"when we arrive\" (implying both travel together), changing the understood plan for the getaway.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 15844,
+    "TextENGNew": "``Much obliged. Here you go, Mamiya.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15845,
+    "TextENGNew": "``Kyahaha, thanks! I've always wanted to visit Sapporo!``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15846,
+    "TextENGNew": "``......Houjou doesn't suspect anything, does he?``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15847,
+    "TextENGNew": "``Don't worry. He's an idiot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 15848,
+    "TextENGNew": "``The only things big about him are his voice and his attitude.``",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 声 (voice) as a vulgar sexual term; Japanese clearly says 'voice and attitude.'",
+    "changeScore": 4
+  },
+  {
+    "index": 7,
+    "MessageID": 15849,
+    "TextENGNew": "``Hehaha, is that so?``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15850,
+    "TextENGNew": "At that moment, they heard the sharp screech of tires--several of them.",
+    "significantChanges": true,
+    "changeReason": "Old omits the key sensory detail of tire screeching (タイヤの鋭い泣き声) and just says \"cars coming,\" losing the urgency and threat conveyed by the sound.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 15851,
+    "TextENGNew": "Startled, the man peered through a gap in the curtains. Three black cars had just screeched to a halt in front of the apartment building, parked at reckless angles.",
+    "significantChanges": true,
+    "changeReason": "Old omits that he peered through a curtain gap (カーテンの隙間から) and the detail of reckless parking angles (乱暴な停め方), both of which convey the furtiveness and menace of the scene.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 15852,
+    "TextENGNew": "A swarm of clearly dangerous-looking men poured out of the cars.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15853,
+    "TextENGNew": "Several of them looked up toward this very window.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15854,
+    "TextENGNew": "He thought their eyes met and hastily closed the sliver of curtain.",
+    "significantChanges": true,
+    "changeReason": "Old omits the crucial detail that he felt their eyes met (目が合った気がして), which adds tension and the sense of being discovered to the scene.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 15855,
+    "TextENGNew": "``Shit, they found us!! Run!!``",
+    "significantChanges": true,
+    "changeReason": "Old says \"they're here\" (mere arrival) while new says \"they found us\" matching 嗅ぎ付けやがった (they sniffed us out), implying active tracking and discovery rather than coincidence.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 15856,
+    "TextENGNew": "``Wait... no way, seriously?! Why today of all days?!``",
+    "significantChanges": true,
+    "changeReason": "Old omits \"today of all days\" (何で今日) which conveys that this was their last day before fleeing — critical context for understanding the dramatic irony of their escape being foiled.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 15857,
+    "TextENGNew": "``Move it, Mamiya!! If they catch us, we're dead!!!``",
+    "significantChanges": true,
+    "changeReason": "Old addresses only \"you\" (Mamiya) while the Japanese uses inclusive \"we'll be killed\" (殺されンぞ); also old lacks the conditional \"if caught\" (捕まったら) present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 15858,
+    "TextENGNew": "The thunder of many footsteps charging up the emergency stairs, accompanied by furious shouts, was closing in fast.",
+    "significantChanges": true,
+    "changeReason": "Old omits \"emergency stairs\" (非常階段), reduces \"furious shouts\" (怒声) to merely \"sounded angry,\" and loses the urgency of \"closing in fast\" (すぐそこまで迫ってきていた).",
+    "changeScore": 3
+  }
+]

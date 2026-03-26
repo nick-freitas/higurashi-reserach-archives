@@ -1,0 +1,3056 @@
+[
+  {
+    "index": 1,
+    "MessageID": 2313,
+    "TextENGNew": "...At first, I thought the rain would be just the thing to cool my boiling heart.@k ...But as my body grew colder, it only brought more suffering.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 2314,
+    "TextENGNew": "My bare feet were swollen a reddish-purple, throbbing with dull pain, making them feel as though they'd ballooned to twice their actual size.",
+    "significantChanges": true,
+    "changeReason": "New adds 'reddish-purple' detail for 赤紫 that old omits, providing the specific visual description from the JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 2315,
+    "TextENGNew": "The gravel road stretched on endlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 2316,
+    "TextENGNew": "...Which direction I was even walking -- I'd long since lost any sense of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 2317,
+    "TextENGNew": "There was no sign of the staff pursuing me any longer.",
+    "significantChanges": true,
+    "changeReason": "Old says 'hear my pursuer' (singular); new says 'sign of the staff pursuing me' (plural), matching JPN 職員 (staff, plural).",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 2318,
+    "TextENGNew": "I'd probably shaken them off by tearing recklessly through one stretch of forest after another.",
+    "significantChanges": true,
+    "changeReason": "Old says 'lost him' (singular); new says 'shaken them off' (plural), matching JPN 追っ手 (pursuers).",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 2319,
+    "TextENGNew": "Apparently, I'd scraped myself against branches and treetops while doing so.",
+    "significantChanges": true,
+    "changeReason": "Old says 'body covered in scratches'; new specifies scraping against branches/treetops (梢の先), matching the JPN cause-and-effect.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 2320,
+    "TextENGNew": "Only now was the pain catching up to let me know.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 2321,
+    "TextENGNew": "My body was thoroughly chilled, and I was starting to feel hunger as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 2322,
+    "TextENGNew": "There was no roof to take shelter from the rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 2323,
+    "TextENGNew": "Just a little path through the woods.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 2324,
+    "TextENGNew": "The most terrifying thought was that in my frantic flight, I might have gotten turned around -- that I was actually walking back toward the very facility I'd escaped from.",
+    "significantChanges": true,
+    "changeReason": "Old translates 施設 as 'orphanage'; new uses 'facility', which is more accurate to the institutional context.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 2325,
+    "TextENGNew": "I'd fought back against several of the staff to avoid being caught -- punching, kicking, even biting them.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 2326,
+    "TextENGNew": "...Thinking about that, it was easy to imagine what horrible things would be done to me if I were dragged back to the facility...",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old translation belongs to the previous JPN line; JPN here is about imagining horrible punishment if dragged back to facility.",
+    "changeScore": 5
+  },
+  {
+    "index": 15,
+    "MessageID": 2327,
+    "TextENGNew": "...That's why I absolutely had to escape...",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old contains previous line's content; JPN says 'I absolutely had to escape.'",
+    "changeScore": 5
+  },
+  {
+    "index": 16,
+    "MessageID": 2328,
+    "TextENGNew": "If only there were sunlight, I could at least get a rough sense of direction from it...",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old mentions 'House of Love and Mercy' not in JPN; JPN is about wishing for sunlight to determine direction.",
+    "changeScore": 5
+  },
+  {
+    "index": 17,
+    "MessageID": 2329,
+    "TextENGNew": "But in this rain that showed no signs of letting up, even that was impossible.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old is about daytime navigation; JPN says 'in this unending rain, even that was impossible.'",
+    "changeScore": 5
+  },
+  {
+    "index": 18,
+    "MessageID": 2330,
+    "TextENGNew": "But stopping here would accomplish nothing.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'nothing I could do' (resignation); JPN says 'stopping here would accomplish nothing' (motivation to continue).",
+    "changeScore": 5
+  },
+  {
+    "index": 19,
+    "MessageID": 2331,
+    "TextENGNew": "...All I could do was keep walking until I reached something...",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'I couldn't stop'; JPN says 'all I could do was keep walking until I reached something.'",
+    "changeScore": 5
+  },
+  {
+    "index": 20,
+    "MessageID": 2332,
+    "TextENGNew": "Had Eriko and the others managed to escape safely?",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old is about walking; JPN asks whether Eriko and others escaped safely.",
+    "changeScore": 5
+  },
+  {
+    "index": 21,
+    "MessageID": 2333,
+    "TextENGNew": "I wasn't sure how many staff members had come chasing after us, but at least one had pursued me.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old asks about Eriko's escape; JPN is about how many staff pursued and at least one chased the narrator.",
+    "changeScore": 5
+  },
+  {
+    "index": 22,
+    "MessageID": 2334,
+    "TextENGNew": "...That alone meant the others had a better chance of getting away.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old is about pursuers; JPN says that alone meant the others had better chances.",
+    "changeScore": 5
+  },
+  {
+    "index": 23,
+    "MessageID": 2335,
+    "TextENGNew": "Had they safely found some kind-hearted person to take them in?",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'better chance'; JPN asks if they found a kind-hearted person to shelter them.",
+    "changeScore": 5
+  },
+  {
+    "index": 24,
+    "MessageID": 2336,
+    "TextENGNew": "Had they been given soft, fluffy towels to dry their rain-soaked bodies and warm themselves?",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old mentions 'House of Love and Mercy'; JPN asks about soft towels to dry rain-soaked bodies.",
+    "changeScore": 5
+  },
+  {
+    "index": 25,
+    "MessageID": 2337,
+    "TextENGNew": "And if they still remembered me... I just hoped they'd keep a towel ready for me...",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old asks about drying with towels; JPN hopes they'd keep a towel ready for the narrator.",
+    "changeScore": 5
+  },
+  {
+    "index": 26,
+    "MessageID": 2338,
+    "TextENGNew": "That was how thoroughly chilled my body was right now.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old asks about saving a towel; JPN states how thoroughly chilled the narrator's body was.",
+    "changeScore": 5
+  },
+  {
+    "index": 27,
+    "MessageID": 2339,
+    "TextENGNew": "If I could just find a place out of the rain, I wanted to sit down there.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'I felt so cold'; JPN is about wanting to find a rain-free spot to sit.",
+    "changeScore": 5
+  },
+  {
+    "index": 28,
+    "MessageID": 2340,
+    "TextENGNew": "...But there was no such place anywhere.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'I wanted to find shelter'; JPN says 'there was no such place anywhere.'",
+    "changeScore": 5
+  },
+  {
+    "index": 29,
+    "MessageID": 2341,
+    "TextENGNew": "The shade under the trees looked at first like it might shelter me from the rain, but the branches and leaves had soaked up so much water that it fell in large, heavy drops—making it even more unpleasant underneath.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'nothing of the sort'; JPN describes tree shade being worse due to accumulated water drops.",
+    "changeScore": 5
+  },
+  {
+    "index": 30,
+    "MessageID": 2342,
+    "TextENGNew": "Before long, I could feel the sky gradually growing darker.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old describes dripping tree; JPN says 'I could feel the sky gradually growing darker.'",
+    "changeScore": 5
+  },
+  {
+    "index": 31,
+    "MessageID": 2343,
+    "TextENGNew": "Was the day going to end while this rain was still falling?",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'sky getting darker'; JPN asks 'would the day end while this rain continues?'",
+    "changeScore": 5
+  },
+  {
+    "index": 32,
+    "MessageID": 2344,
+    "TextENGNew": "There wasn't a single streetlight anywhere around.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old asks 'would this day end in rain?'; JPN says 'there wasn't a single streetlight anywhere.'",
+    "changeScore": 5
+  },
+  {
+    "index": 33,
+    "MessageID": 2345,
+    "TextENGNew": "At this rate, I would be trapped in total darkness.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'no street lights'; JPN says 'at this rate, I would be trapped in total darkness.'",
+    "changeScore": 5
+  },
+  {
+    "index": 34,
+    "MessageID": 2346,
+    "TextENGNew": "And then I wouldn't be able to take a single step.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'totally dark'; JPN says 'then I wouldn't be able to take a single step.'",
+    "changeScore": 5
+  },
+  {
+    "index": 35,
+    "MessageID": 2347,
+    "TextENGNew": "...Even if I'd be soaking in the rain, the urge to just sit down and rest my aching feet was growing stronger.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'wouldn't be able to walk'; JPN is about the urge to sit down and rest aching feet growing stronger.",
+    "changeScore": 5
+  },
+  {
+    "index": 36,
+    "MessageID": 2348,
+    "TextENGNew": "But if I sat down, I was sure I'd never find the willpower to stand up again.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'wanted to sit down in rain'; JPN says 'if I sat down, I'd never find willpower to stand again.'",
+    "changeScore": 5
+  },
+  {
+    "index": 37,
+    "MessageID": 2349,
+    "TextENGNew": "...So I gritted my teeth and fought off that urge.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old conflates two thoughts ('wouldn't stand up again. So I endured.'); JPN simply says 'gritted my teeth and fought off that urge.'",
+    "changeScore": 5
+  },
+  {
+    "index": 38,
+    "MessageID": 2350,
+    "TextENGNew": "If I hadn't chosen to escape with Eriko and the others, I wouldn't be shivering in the cold rain right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 2351,
+    "TextENGNew": "But... compared to the unbearable life at that facility, this was nothing...",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 2352,
+    "TextENGNew": "...I could only keep telling myself that to deceive my screaming legs into moving.",
+    "significantChanges": true,
+    "changeReason": "New preserves vivid imagery of 'deceiving screaming legs' (悲鳴を上げかかっている両足を騙す) that old simplifies to 'make myself move'.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 2353,
+    "TextENGNew": "But my aching feet talked back.",
+    "significantChanges": true,
+    "changeReason": "Old says 'when I thought about that'; new correctly translates 軋む足が言い返す as 'my aching feet talked back', preserving personification.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 2354,
+    "TextENGNew": "Sure, compared to the horrible life at the facility, freezing in the cold rain might be the better deal.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 2355,
+    "TextENGNew": "...But that was only when compared to the facility.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 2356,
+    "TextENGNew": "...Could I honestly say this was better than the lives of ordinary children my age?",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 2357,
+    "TextENGNew": "...I didn't want to hear things like that from my own feet.",
+    "significantChanges": true,
+    "changeReason": "Old says 'didn't even need to think about that'; new correctly translates 自分の足に言われたくなかった as 'didn't want to hear that from my own feet'.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 2358,
+    "TextENGNew": "When I lived with Mom and Dad, we weren't especially well-off, but I think we had a perfectly normal, average life for our neighborhood.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 2359,
+    "TextENGNew": "Gentle smiles and the occasional indulged whim.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 2360,
+    "TextENGNew": "The warm sound of the cutting board in the morning kitchen,@k the rustle of a newspaper being folded in the living room -- I missed them all so terribly.",
+    "significantChanges": true,
+    "changeReason": "New specifies 'cutting board sound' (まな板) and 'living room' (居間) details from JPN that old renders generically as 'mother cooking'.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 2361,
+    "TextENGNew": "It was a life with nothing lacking.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 2362,
+    "TextENGNew": "I had plenty of friends in the neighborhood and at school, and I enjoyed my time there.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 2363,
+    "TextENGNew": "I didn't like my teacher, but I liked studying.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 2364,
+    "TextENGNew": "I had everything I needed.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 2365,
+    "TextENGNew": "That was enough for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 2366,
+    "TextENGNew": "I never complained.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 2367,
+    "TextENGNew": "I never did anything bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 2368,
+    "TextENGNew": "So why was this happening to me?",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 2369,
+    "TextENGNew": "Everything went downhill after that train accident.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 2370,
+    "TextENGNew": "The die of fate kept rolling a one.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 2371,
+    "TextENGNew": "The die never showed its good side to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 2372,
+    "TextENGNew": "If the accident was my fault, then I could have accepted it.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 2373,
+    "TextENGNew": "But it wasn't.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 2374,
+    "TextENGNew": "I wasn't even there.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 2375,
+    "TextENGNew": "I waited for my parents at home.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 2376,
+    "TextENGNew": "I liked going to the mall with them.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 2377,
+    "TextENGNew": "We always had a meal at the restaurant in the mall.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 2378,
+    "TextENGNew": "I always told them to let me know if they were going to the mall.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 2379,
+    "TextENGNew": "But on that day, they went without me while I went to my friend's house to play.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 2380,
+    "TextENGNew": "My friend wasn't in, so I went back home.@k I didn't see anyone at home and found a note that said they were going to the mall.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 2381,
+    "TextENGNew": "I regretted going to my friend's house. I waited at home.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 2382,
+    "TextENGNew": "They didn't come home. They were still gone by dinner time.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 2383,
+    "TextENGNew": "I was getting hungry, and got angry with my parents for leaving me.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 2384,
+    "TextENGNew": "I thought they were having dinner at the mall restaurant without me.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 2385,
+    "TextENGNew": "If I hadn't gone to my friend's house, I would be eating dinner at the restaurant too.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 2386,
+    "TextENGNew": "I loved the little flags that came with the kids' meals.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 2387,
+    "TextENGNew": "I was collecting those flags...",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 2388,
+    "TextENGNew": "Yes, I was.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 2389,
+    "TextENGNew": "I was trying to collect twenty of them, thinking that once I collected twenty, something wonderful would happen.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 2390,
+    "TextENGNew": "But I couldn't collect twenty of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 2391,
+    "TextENGNew": "I only needed one more...",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 2392,
+    "TextENGNew": "If I had one more, maybe the accident wouldn't have happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 2393,
+    "TextENGNew": "A very sad memory of a flag from a kid's meal...",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 2394,
+    "TextENGNew": "I kept waiting for my parents to come home from the mall.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 2395,
+    "TextENGNew": "I was hungry, so I started to eat some dried fish.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 2396,
+    "TextENGNew": "If I ate too much, my mother would find out, so I was careful not to gorge myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 2397,
+    "TextENGNew": "Then the phone rang.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 2398,
+    "TextENGNew": "I assumed it was from my parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 2399,
+    "TextENGNew": "I answered the phone in an angry manner.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 2400,
+    "TextENGNew": "But it wasn't them at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 2401,
+    "TextENGNew": "............",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 2402,
+    "TextENGNew": "What happened to the house?",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 2403,
+    "TextENGNew": "We had rented it, so maybe somebody else had already moved in.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 2404,
+    "TextENGNew": "What happened to my room?",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 2405,
+    "TextENGNew": "What about my desk and all the flags that were in the right middle drawer?",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 2406,
+    "TextENGNew": "If it wasn't my house anymore,",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 2407,
+    "TextENGNew": "then where was I supposed to go?",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 2408,
+    "TextENGNew": "Even if it remained my house,",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 2409,
+    "TextENGNew": "my parents wouldn't be there to welcome me or protect me.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 2410,
+    "TextENGNew": "Just because I didn't have my parents to protect me, the whole world became so cruel.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 2411,
+    "TextENGNew": "How could anyone take me away from the house I was used to living in, just because my parents were gone?",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 2412,
+    "TextENGNew": "Why didn't they just leave me alone?",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 2413,
+    "TextENGNew": "They asked me many things.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 2414,
+    "TextENGNew": "They tried to confirm many things.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 2415,
+    "TextENGNew": "But how could I have understood any of the forms they gave me?",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 2416,
+    "TextENGNew": "I was asked a yes or no question. I had no choice but to answer yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 2417,
+    "TextENGNew": "And before I knew it, I ended up at the orphanage.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 2418,
+    "TextENGNew": "It was beyond heartless.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 2419,
+    "TextENGNew": "I didn't do anything wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 2420,
+    "TextENGNew": "I was just a little girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 2421,
+    "TextENGNew": "I had to sign so many papers... but why this?",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 2422,
+    "TextENGNew": "The warm and gentle world ended suddenly without advance notice.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 2423,
+    "TextENGNew": "And I was thrown into the cruel and merciless world alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 2424,
+    "TextENGNew": "Was this the real world?",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 2425,
+    "TextENGNew": "Did I have any allies at all?",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 2426,
+    "TextENGNew": "Just because my parents died and I didn't have any relatives, the world had become so sad.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 2427,
+    "TextENGNew": "When is the die going to come up with a six instead of a one to make up for the continuous series of the latter?",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 2428,
+    "TextENGNew": "``......Ooh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 2429,
+    "TextENGNew": "Tears were pouring down my cheeks.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 2430,
+    "TextENGNew": "The salty taste further saddened and irritated me.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 2431,
+    "TextENGNew": "I couldn't do anything but cry...",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 2432,
+    "TextENGNew": "But no matter how hard I cried or pitied myself...",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 2433,
+    "TextENGNew": "The cold rain wouldn't warm my body@k or save me.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 2434,
+    "TextENGNew": "I didn't even know where I was or in which direction I should go.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 2435,
+    "TextENGNew": "Eriko showed me the map to The House of Love and Mercy when we were planning our escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 2436,
+    "TextENGNew": "But we only learned the shortest route.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 2437,
+    "TextENGNew": "I was completely lost.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 2438,
+    "TextENGNew": "But strangely, after I finished crying,@k I felt a groundless strength within myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 2439,
+    "TextENGNew": "I once learned that tears wash away particles in the eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 2440,
+    "TextENGNew": "But there is a different purpose to them too.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 2441,
+    "TextENGNew": "Tears also wash away what's in the heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 2442,
+    "TextENGNew": "I clenched my fists and forced my feet to move. I headed in the direction that I believed to be correct on the gravel road.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 2443,
+    "TextENGNew": "The rain was still pouring.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 2444,
+    "TextENGNew": "And it was getting darker and darker.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 2445,
+    "TextENGNew": "I roared at the sky amidst the rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 2446,
+    "TextENGNew": "My sadness was turning into anger.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 2447,
+    "TextENGNew": "``You stupid God!@k@vS13/48/550100059. Why?!@k@vS13/48/550100060. What have I done to deserve this?",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 2448,
+    "TextENGNew": "What did I do?@k@vS13/48/550100062. I didn't do anything!!@k@vS13/48/550100063. I was just living a normal life, that's all!!@k@vS13/48/550100064. So why this?!",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 2449,
+    "TextENGNew": "My daddy told me there are good things and bad things in life, but neither lasts for long!",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 2450,
+    "TextENGNew": "That means this misery won't last that long either, right?@k@vS13/48/550100067. I won't be all alone in this miserable place forever, right?@k@vS13/48/550100068. Isn't that right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 2451,
+    "TextENGNew": "As I looked up, I felt the raindrops hit my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 2452,
+    "TextENGNew": "There is no God. I knew that in my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 2453,
+    "TextENGNew": "But such disbelief wouldn't save me.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 2454,
+    "TextENGNew": "If I believed he was there, I should have been saved.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 2455,
+    "TextENGNew": "No, I needed him to BE there!",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 2456,
+    "TextENGNew": "Was he going to answer me?",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 2457,
+    "TextENGNew": "I heard thunder.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 2458,
+    "TextENGNew": "Then I realized",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 2459,
+    "TextENGNew": "he was there.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 2460,
+    "TextENGNew": "He was there, and he was listening to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 2461,
+    "TextENGNew": "In his eyes, everyone was supposed to be equal.@k And he was listening to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 2462,
+    "TextENGNew": "``I've gone through enough!@k@vS13/48/550100070. More than enough!!",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 2463,
+    "TextENGNew": "If I was too happy before, then I could take this misery.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 2464,
+    "TextENGNew": "But I wasn't!!@k@vS13/48/550100073. I was living a normal life.@k@vS13/48/550100074. If you ask me if I was happy, then... sure, I was.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 2465,
+    "TextENGNew": "But this is what I get in return? That's not fair at all!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 2466,
+    "TextENGNew": "I heard thunder again.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 2467,
+    "TextENGNew": "He was listening.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 2468,
+    "TextENGNew": "I continued.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 2469,
+    "TextENGNew": "``If...@k@vS13/48/550100077. If this fate of mine was your mistake,@k@vS13/48/550100078. then let me be free!!@k@vS13/48/550100079. Please end my misery and let me be happy again!!",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 2470,
+    "TextENGNew": "But if...@k@vS13/48/550100081. this is, in fact, my fate, and I'm supposed to live this way until the end,@k@vS13/48/550100082. then I don't want it!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 2471,
+    "TextENGNew": "Kill me!!@k@vS13/48/550100084. Kill me now with your lightning!!",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 2472,
+    "TextENGNew": "Just finish me off now!!@k@vS13/48/550100086. Come on!!",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 2473,
+    "TextENGNew": "Kill me ruthlessly, right here and now!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 2474,
+    "TextENGNew": "I heard thunder again.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 2475,
+    "TextENGNew": "It was loud enough to make me shiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 2476,
+    "TextENGNew": "Normally, I would just hide in the house and wait until the thunder went away.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 2477,
+    "TextENGNew": "But on that day, I wasn't afraid.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 2478,
+    "TextENGNew": "``Come on!! Kill me!!@k@vS13/48/550100089. Miyoko Tanashi is right here!!@k@vS13/48/550100090. Just like you killed my parents, take my life too!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 2479,
+    "TextENGNew": "The heavens replied to my provocation.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 2480,
+    "TextENGNew": "The heavens took aim at me, a lowly human who dared sling constant, insolent insults at them.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 2481,
+    "TextENGNew": "That was my wish. I opened my arms.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 2482,
+    "TextENGNew": "He's God, so he wouldn't miss me.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 2483,
+    "TextENGNew": "However, I guess even God makes mistakes sometimes.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 2484,
+    "TextENGNew": "Although he's supposed to be fair, he had been unfair with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 2485,
+    "TextENGNew": "``Come on, kill me!!!@k@vS13/48/550100092. Take me to Heaven!!",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 2486,
+    "TextENGNew": "But if you fail to kill me, then...@k@vS13/48/550100093. Try turning my destiny around!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 2487,
+    "TextENGNew": "``.........Pitiful child...``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 2488,
+    "TextENGNew": "A flash from Heaven.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 2489,
+    "TextENGNew": "I thought I smelled something burning just before it hit.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 2490,
+    "TextENGNew": "The sheer force knocked me to the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 2491,
+    "TextENGNew": "It was a strange experience.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 2492,
+    "TextENGNew": "It was something that had just happened, but it already felt like it happened many years ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 2493,
+    "TextENGNew": "I had no idea how long I was down for.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 2494,
+    "TextENGNew": "I smelled something odd.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 2495,
+    "TextENGNew": "The bad stench woke me up.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 2496,
+    "TextENGNew": "When I looked, I saw that a huge tree behind me had been split open. Its leaves were smoldering.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 2497,
+    "TextENGNew": "I looked up, and saw sparks in the darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 2498,
+    "TextENGNew": "I couldn't understand what just happened... I just stood there...",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 2499,
+    "TextENGNew": "The thunderbolt had struck.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 2500,
+    "TextENGNew": "It didn't strike me. It struck the tree behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 2501,
+    "TextENGNew": "I didn't get to die.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 2502,
+    "TextENGNew": "He was telling me to keep walking in the woods in the cold rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 2503,
+    "TextENGNew": "I won my bet with God.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 2504,
+    "TextENGNew": "I bet my life.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 2505,
+    "TextENGNew": "I bet my life against the lightning and thunder.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 2506,
+    "TextENGNew": "It could have killed me instantly.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 2507,
+    "TextENGNew": "But he missed,@k so he had to fix my life.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 2508,
+    "TextENGNew": "I looked up at the sky, laughing and bragging that I was still alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 2509,
+    "TextENGNew": "I heard thunder again. It was acknowledging its loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 2510,
+    "TextENGNew": "Come on, God.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 2511,
+    "TextENGNew": "Save me.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 2512,
+    "TextENGNew": "I won the bet, so save me from this misery.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 2513,
+    "TextENGNew": "............",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 2514,
+    "TextENGNew": "I stood there.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 2515,
+    "TextENGNew": "I waited for God to do something while the rain poured down on me.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 2516,
+    "TextENGNew": "But he didn't answer me again.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 2517,
+    "TextENGNew": "I couldn't hear the thunder anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 2518,
+    "TextENGNew": "Again, I felt the warm tears pour down my cheeks.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 2519,
+    "TextENGNew": "What was I thinking?",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 2520,
+    "TextENGNew": "If there was a God in Heaven, he wouldn't have let anything like this happen to me...",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 2521,
+    "TextENGNew": "My miserable life was the proof of God's nonexistence.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 2522,
+    "TextENGNew": "The darkness was about to swallow me utterly.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 2523,
+    "TextENGNew": "Would I have to sleep out there?",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 2524,
+    "TextENGNew": "God must have wanted me to die slowly in this cold rain instead of granting me an instant death by lightning.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 2525,
+    "TextENGNew": "I wished the sun would go away.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 2526,
+    "TextENGNew": "I wished the sun would never rise.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 2527,
+    "TextENGNew": "I wished that, as the woods had grown completely dark, my existence would be hidden by that darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 2528,
+    "TextENGNew": "I wished that I could just disappear...",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 2529,
+    "TextENGNew": "Had it been an eternity, or was it a matter of seconds?",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 2530,
+    "TextENGNew": "I couldn't even tell time in such darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 2531,
+    "TextENGNew": "It was then that I saw something.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 2532,
+    "TextENGNew": "It was... a light.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 2533,
+    "TextENGNew": "I noticed it only because the woods were so dark.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 2534,
+    "TextENGNew": "But was it really there?",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 2535,
+    "TextENGNew": "Had it been there this whole time?",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 2536,
+    "TextENGNew": "I felt like the light was inviting me towards it.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 2537,
+    "TextENGNew": "It was a fluorescent light.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 2538,
+    "TextENGNew": "I didn't normally like fluorescent lights, because I always thought they looked cold.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 2539,
+    "TextENGNew": "But I didn't feel coldness from that white light.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 2540,
+    "TextENGNew": "I made myself believe that the light was a guide sent by God.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 2541,
+    "TextENGNew": "I had to believe, otherwise I wouldn't be saved.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 2542,
+    "TextENGNew": "The light reflected in a puddle.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 2543,
+    "TextENGNew": "It wasn't a muddy puddle.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 2544,
+    "TextENGNew": "It was a puddle on asphalt.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 2545,
+    "TextENGNew": "I had made it out of the woods and was on a paved road.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 2546,
+    "TextENGNew": "The light was a street light.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 2547,
+    "TextENGNew": "Being on a paved road didn't really resolve anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 2548,
+    "TextENGNew": "It was just a country road.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 2549,
+    "TextENGNew": "It was a road that went through the woods, so there were no houses, no shops, and not even a single car going by.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 2550,
+    "TextENGNew": "There weren't too many street lights on the road, so it was still very dark.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 2551,
+    "TextENGNew": "My feet touched the asphalt.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 2552,
+    "TextENGNew": "It felt so different from the gravel I had been walking on earlier. It felt almost merciful.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 2553,
+    "TextENGNew": "My feet had grown used to walking on gravel,@k but after feeling the softness of asphalt, I never wanted to go back to the former again.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 2554,
+    "TextENGNew": "I could only choose between heading left or heading right.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 2555,
+    "TextENGNew": "I was grateful to God for leading me to this asphalt road,@k but I wished@k that he had given me a little more guidance.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 2556,
+    "TextENGNew": "Such a little bit of luck couldn't make up for all the unhappiness I'd gone through.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 2557,
+    "TextENGNew": "...And that was when...",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 2558,
+    "TextENGNew": "I sensed his guidance.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 2559,
+    "TextENGNew": "I saw another light in a distance.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 2560,
+    "TextENGNew": "It was only on the right side.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 2561,
+    "TextENGNew": "I headed towards it.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 2562,
+    "TextENGNew": "And when I got there, I understood what it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 2563,
+    "TextENGNew": "...I was amazed to find it there. ...A telephone booth.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 2564,
+    "TextENGNew": "Who would actually make a call in the middle of nowhere?",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 2565,
+    "TextENGNew": "A telephone booth in the countryside was rather unusual.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 2566,
+    "TextENGNew": "There were plenty of red public phones all over, but I had always thought telephone booths only existed in big cities.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 2567,
+    "TextENGNew": "It almost looked as though the telephone booth had been put there as punishment for doing something bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 2568,
+    "TextENGNew": "When I thought that, I felt bad for the lonely telephone booth... it reminded me of myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 2569,
+    "TextENGNew": "Even if I went inside the telephone booth, what could I even do in there anyway?",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 2570,
+    "TextENGNew": "I already knew the answer to that question, but no matter what, I just had to get in there.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 2571,
+    "TextENGNew": "The door squeaked as I opened it.@k There were lots of moths and other bugs flittering around the light.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 2572,
+    "TextENGNew": "I usually hated bugs, but in that moment I felt like that they were my friends, sheltering from the rain like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 2573,
+    "TextENGNew": "There was no heater,",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 2574,
+    "TextENGNew": "but it was still very warm inside of the booth.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 2575,
+    "TextENGNew": "It sheltered me from the cold rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 2576,
+    "TextENGNew": "Soon enough, I crumbled to the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 2577,
+    "TextENGNew": "The warmth from the fluorescent light embraced me gently, and I felt like it was telling me that it was okay to cry.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 2578,
+    "TextENGNew": "But I had no more tears left, because I cried them all when the lightning struck.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 2579,
+    "TextENGNew": "Aching scratches covered my body.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 2580,
+    "TextENGNew": "My calves were in pain too.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 2581,
+    "TextENGNew": "Everything hurt everywhere and I didn't want to get up ever again.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 2582,
+    "TextENGNew": "I wished I could fall asleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 2583,
+    "TextENGNew": "But if I did that, the staff from the orphanage might find me.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 2584,
+    "TextENGNew": "The windows on the booth were high up, so if I sat down I wouldn't be visible from the outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 2585,
+    "TextENGNew": "But as it was the only shelter in these dark woods,",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 2586,
+    "TextENGNew": "the staff would be sure to check it.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 2587,
+    "TextENGNew": "That was why I couldn't stay there for long.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 2588,
+    "TextENGNew": "My exhausted spirit understood that I had to move.@k But I just couldn't make myself...",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 2589,
+    "TextENGNew": "Maybe... I was experiencing some kind of vision...",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 2590,
+    "TextENGNew": "I felt a strange calmness that I'd never experienced before.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 2591,
+    "TextENGNew": "I didn't feel that I was myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 2592,
+    "TextENGNew": "It was very strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 2593,
+    "TextENGNew": "I thought that maybe I was killed by that lightning.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 2594,
+    "TextENGNew": "I'd assumed I was still Miyoko Tanashi, but maybe I wasn't her at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 2595,
+    "TextENGNew": "I seriously considered those things.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 2596,
+    "TextENGNew": "Then I started to think that the telephone booth had something to do with it.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 2597,
+    "TextENGNew": "Because God led me there.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 2598,
+    "TextENGNew": "He couldn't have done so just because it was providing shelter from the rain. There had to be something else.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 2599,
+    "TextENGNew": "I wondered what it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 2600,
+    "TextENGNew": "Could there be something in the booth that could save me?",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 2601,
+    "TextENGNew": "But what?",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 2602,
+    "TextENGNew": "A telephone booth is used to make a phone call.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 2603,
+    "TextENGNew": "But I didn't have any money.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 2604,
+    "TextENGNew": "But then...",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 2605,
+    "TextENGNew": "I noticed something that looked like copper.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 2606,
+    "TextENGNew": "...My heart skipped a beat.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 2607,
+    "TextENGNew": "The ten yen coin I saw wasn't there before.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 2608,
+    "TextENGNew": "Did I just miss it?",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 2609,
+    "TextENGNew": "I didn't think so.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 2610,
+    "TextENGNew": "It must have just showed up.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 2611,
+    "TextENGNew": "In other words, this ten yen coin was guidance from God.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 2612,
+    "TextENGNew": "He was telling me to make a call with that coin.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 2613,
+    "TextENGNew": "But... who?",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 2614,
+    "TextENGNew": "There was no telephone book.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 2615,
+    "TextENGNew": "In that case,",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 2616,
+    "TextENGNew": "I could only call a number I knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 2617,
+    "TextENGNew": "Did God want me to do that, then?",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 2618,
+    "TextENGNew": "There was only one coin.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 2619,
+    "TextENGNew": "I could only call one number.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 2620,
+    "TextENGNew": "And I couldn't talk for that long.",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 2621,
+    "TextENGNew": "I had challenged God earlier, so it was just a matter of course to think that God was challenging me in return.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 2622,
+    "TextENGNew": "I had only one chance, and he wanted me to test my luck with that chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 2623,
+    "TextENGNew": "I left the phone booth and looked up at the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 2624,
+    "TextENGNew": "Then I yelled in my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 2625,
+    "TextENGNew": "You're on, God!",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 2626,
+    "TextENGNew": "I wondered who I could call.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 2627,
+    "TextENGNew": "My house?",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 2628,
+    "TextENGNew": "My parents were dead, and I had no relatives.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 2629,
+    "TextENGNew": "Even if I called, nobody would answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 2630,
+    "TextENGNew": "Actually, the phone bill wouldn't have been paid for a long time, so the phone line would already be disconnected.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 2631,
+    "TextENGNew": "My house was my lost life itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 2632,
+    "TextENGNew": "No, the debris of my life.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 2633,
+    "TextENGNew": "...Calling home would simply be an expression of regret...@k ...which ran counter to the positive attitude of one trying to change their life.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 2634,
+    "TextENGNew": "So surely using the coin to call my house was wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 2635,
+    "TextENGNew": "Which meant... I had to cast this ten yen coin towards my future.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 2636,
+    "TextENGNew": "Future.",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 2637,
+    "TextENGNew": "My future?",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 2638,
+    "TextENGNew": "What future, anyway?",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 2639,
+    "TextENGNew": "Then I heard a huge thunderclap, which cleared my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 2640,
+    "TextENGNew": "In that clear state of mind,@k I saw something from the past.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 2641,
+    "TextENGNew": "It was the last sight of my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 2642,
+    "TextENGNew": "His final moments on the hospital bed. Though suffering from pain, he tried to tell me something very important.",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 2643,
+    "TextENGNew": "``If by chance... I am to die,@k@vS13/00/550400017. turn to Dr. Takano.@k@vS13/00/550400018. Dr. Hifumi Takano.@k@vS13/00/550400019. Say it for me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 2644,
+    "TextENGNew": "``Hifumi Takano.``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 2645,
+    "TextENGNew": "``That's right.@k@vS13/00/550400021. Dr. Hifumi Takano.@k@vS13/00/550400022. He's my former teacher.@k@vS13/00/550400023. He will help you...@k@vS13/00/550400024. cough cough!! Cough!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 2646,
+    "TextENGNew": "``Daddy,@k@vS13/48/550100052. Daddy, Daddy, Daddy!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 2647,
+    "TextENGNew": "Many doctors came into the room in a hurry.",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 2648,
+    "TextENGNew": "He wanted to tell me something else,@k but the doctors stopped him from talking, so it wasn't audible.",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 2649,
+    "TextENGNew": "It shouldn't have been... but it was to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 2650,
+    "TextENGNew": "I heard it.",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 2651,
+    "TextENGNew": "I heard it, but I didn't want to hear him say it while suffering, so I pretended that I didn't hear...",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 2652,
+    "TextENGNew": "He said it while coughing.",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 2653,
+    "TextENGNew": "I heard it.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 2654,
+    "TextENGNew": "They were numbers.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 2655,
+    "TextENGNew": "......I swallowed once.",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 2656,
+    "TextENGNew": "That's right,",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 2657,
+    "TextENGNew": "...It was... a phone number.",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 2658,
+    "TextENGNew": "He knew nobody would take me in, because we had no relatives. He told me to get in touch with him, Dr. Hifumi Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 2659,
+    "TextENGNew": "He tried to tell me his phone number...",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 2660,
+    "TextENGNew": "Ahhh, what had I done?",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 2661,
+    "TextENGNew": "He tried so hard, using his last chance to tell me the most important thing...",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 2662,
+    "TextENGNew": "The thunder from earlier had made me remember it.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 2663,
+    "TextENGNew": "The number I couldn't remember even once came out so smoothly.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 2664,
+    "TextENGNew": "I dialed it in.",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 2665,
+    "TextENGNew": "This really was it.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 2666,
+    "TextENGNew": "This was the number for my father's teacher, Dr. Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 2667,
+    "TextENGNew": "But my hand stopped just as I tried to put the coin in.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 2668,
+    "TextENGNew": "What if I hadn't remembered it correctly?",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 2669,
+    "TextENGNew": "......No, there was no need to hesitate.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 2670,
+    "TextENGNew": "I had to believe in myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 2671,
+    "TextENGNew": "This had to be the correct number.",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 2672,
+    "TextENGNew": "I had to dial it before I forgot it again.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 2673,
+    "TextENGNew": "I picked up the phone and put the coin in.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 2674,
+    "TextENGNew": "Beep...",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 2675,
+    "TextENGNew": "I heard the dial tone on the other end.",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 2676,
+    "TextENGNew": "At that point, I decided to kill myself if it didn't work.",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 2677,
+    "TextENGNew": "I could go back into the woods and wait for another lightning bolt.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 2678,
+    "TextENGNew": "I could lie down and let the rain water drown me, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 2679,
+    "TextENGNew": "I could also fall asleep in the middle of the road and wait for a car to run me over.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 2680,
+    "TextENGNew": "I made up my mind and put the coin in.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 2681,
+    "TextENGNew": "I didn't hesitate any longer.",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 2682,
+    "TextENGNew": "I dialed the number at once.",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 2683,
+    "TextENGNew": "But,",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 2684,
+    "TextENGNew": "I had to be careful.",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 2685,
+    "TextENGNew": "If you dial quickly, sometimes you can make mistakes.",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 2686,
+    "TextENGNew": "I was getting irritated, and that almost made the phone number go vague in my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 2687,
+    "TextENGNew": "I dialed the last digit, and heard some electronic sounds on the other end.",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 2688,
+    "TextENGNew": "I hoped that I dialed the correct number.",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 2689,
+    "TextENGNew": "I didn't know what to say to Dr. Takano if it did connect.",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 2690,
+    "TextENGNew": "Where was I?",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 2691,
+    "TextENGNew": "What was I supposed to do?",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 2692,
+    "TextENGNew": "What was I supposed to ask him?",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 2693,
+    "TextENGNew": "I didn't know any of those things.",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 2694,
+    "TextENGNew": "Making a call isn't cheap.",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 2695,
+    "TextENGNew": "One ten yen coin would only buy me short time to talk.",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 2696,
+    "TextENGNew": "The line must have connected then.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 2697,
+    "TextENGNew": "I heard a ring tone.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 2698,
+    "TextENGNew": "I only had a short time once someone answered the phone.",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 2699,
+    "TextENGNew": "I thought for a moment that I should put the phone down.",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 2700,
+    "TextENGNew": "Then I could at least get the coin back.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 2701,
+    "TextENGNew": "I could call back after sorting out my thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 2702,
+    "TextENGNew": "But then, someone answered.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 2703,
+    "TextENGNew": "``Hello,@k@vS13/00/550200086. this is the Takano residence.``",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 2704,
+    "TextENGNew": "``.........Ah,``",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 2705,
+    "TextENGNew": "I felt like I was suffocating.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 2706,
+    "TextENGNew": "......My memory had been correct.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 2707,
+    "TextENGNew": "I couldn't tell the age of the speaker, but it was a grown man's voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 2708,
+    "TextENGNew": "Anyone who was my father's teacher must have been quite old.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 2709,
+    "TextENGNew": "Never mind that.",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 2710,
+    "TextENGNew": "I had to hurry and say something.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 2711,
+    "TextENGNew": "Hurry, hurry...",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 2712,
+    "TextENGNew": "``Ah...@k@vS13/48/550100099. are... are you Dr. Takano?@k@vS13/48/550100100. Uh... ooh,@k@vS13/48/550100101. Dr. Hifumi Takano?``",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 2713,
+    "TextENGNew": "``......Hm?@k@vS13/00/550200088. Yes, who is this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 2714,
+    "TextENGNew": "He must have been suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 2715,
+    "TextENGNew": "I couldn't blame him.",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 2716,
+    "TextENGNew": "A stranger was asking him about his name. Of course he'd get suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 2717,
+    "TextENGNew": "``I'm sorry...@k@vS13/48/550100103. I'm Tanashi.@k@vS13/48/550100104. Miyoko Tanashi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 2718,
+    "TextENGNew": "``Tanashi-san?@k@vS13/00/550200090. Yes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 2719,
+    "TextENGNew": "``Uh...@k@vS13/48/550100106. My father told me to get in touch with you.@k@vS13/48/550100107. His name is Takemitsu Tanashi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 2720,
+    "TextENGNew": "``...Tanashi@k@vS13/00/550200092. ...Tanashi.@k@vS13/00/550200093. ......Ah, Tanashi-kun!@k@vS13/00/550200094. I remember him!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 2721,
+    "TextENGNew": "His voice suddenly changed.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 2722,
+    "TextENGNew": "Dr. Takano had remembered his old student.",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 2723,
+    "TextENGNew": "``I'm his daughter!@k@vS13/48/550100109. He told me to call you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 2724,
+    "TextENGNew": "``Did something happen to Tanashi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 2725,
+    "TextENGNew": "Aah, not good.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 2726,
+    "TextENGNew": "I was going to run out of time...!",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 2727,
+    "TextENGNew": "``My parents died in a train accident.@k@vS13/48/550100112. And I was told to call you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 2728,
+    "TextENGNew": "``Tanashi-kun is dead...?!@k@vS13/00/550200096. I see...@k@vS13/00/550200097. Both of them?@k@vS13/00/550200098. I'm sorry to hear that.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 2729,
+    "TextENGNew": "I knew him from when I was teaching at a college.@k@vS13/00/550200100. He was a very hard-working young man.@k@vS13/00/550200101. I think the last time I saw him was at the wedding...``",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 2730,
+    "TextENGNew": "Obviously, he didn't know I was born.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 2731,
+    "TextENGNew": "But he remembered my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 2732,
+    "TextENGNew": "That was truly a stroke of luck.",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 2733,
+    "TextENGNew": "``So,@k@vS13/00/550200103. what did Tanashi-kun want to tell me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 2734,
+    "TextENGNew": "``Ah...@k@vS13/48/550100114. well...@k@vS13/48/550100115. ......``",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 2735,
+    "TextENGNew": "I didn't know what to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 2736,
+    "TextENGNew": "I was only told to call Dr. Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 2737,
+    "TextENGNew": "How could I tell him that?",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 2738,
+    "TextENGNew": "My time was running out.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 2739,
+    "TextENGNew": "I felt more and more anxious by the minute...",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 2740,
+    "TextENGNew": "...Phone calls are disconnected without notice.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 2741,
+    "TextENGNew": "But somehow, I sensed it.",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 2742,
+    "TextENGNew": "I only had enough time left for one sentence.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 2743,
+    "TextENGNew": "So I decided to say one sentence filled with all of my hopes.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 2744,
+    "TextENGNew": "``H-Help meee!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 2745,
+    "TextENGNew": "The phone call got disconnected.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 2746,
+    "TextENGNew": "Maybe he only heard part of what I said.",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 2747,
+    "TextENGNew": "I could only hope he was able to sense my despair.",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 2748,
+    "TextENGNew": "I couldn't hear anything from the receiver anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 2749,
+    "TextENGNew": "But I actually talked to Dr. Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 2750,
+    "TextENGNew": "I confirmed that Dr. Takano existed.",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 2751,
+    "TextENGNew": "He existed, and he remembered my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 2752,
+    "TextENGNew": "If he grieved over his student's death, he would come visit my house.",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 2753,
+    "TextENGNew": "And he would find out I was sent to an orphanage.",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 2754,
+    "TextENGNew": "Then he would come get me.",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 2755,
+    "TextENGNew": "That's when tears flowed down my cheeks again.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 2756,
+    "TextENGNew": "I'd thought that my life was hopeless.",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 2757,
+    "TextENGNew": "I never knew that finding even a grain of hope could make me feel so happy and strong.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 2758,
+    "TextENGNew": "The voice I heard on the phone was so warm and dependable.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 2759,
+    "TextENGNew": "My father must have thought about me for a long time in that hospital bed.",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 2760,
+    "TextENGNew": "And came up with a name that he could trust his daughter with.",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 2761,
+    "TextENGNew": "Dr. Hifumi Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 2762,
+    "TextENGNew": "So I could trust Dr. Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 2763,
+    "TextENGNew": "I had to believe that he would find me.",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 2764,
+    "TextENGNew": "But it might take more than just a few days.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 2765,
+    "TextENGNew": "I'd have to wait patiently.",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 2766,
+    "TextENGNew": "A few days? A month? More?",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 2767,
+    "TextENGNew": "I could only wait patiently.",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 2768,
+    "TextENGNew": "Either way, I couldn't stay in the telephone box. The staff would easily find me there.",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 2769,
+    "TextENGNew": "I went out into the rain again.",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 2770,
+    "TextENGNew": "But this time, the rain felt a little warmer than before.",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 2771,
+    "TextENGNew": "I had wished to die by lightning.",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 2772,
+    "TextENGNew": "...But after that phone call,",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 2773,
+    "TextENGNew": "I was filled with hope and the will to live.",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 2774,
+    "TextENGNew": "I wanted to live, and that was why I felt pain all over my body.",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 2775,
+    "TextENGNew": "When I still wished to die, I didn't feel anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 2776,
+    "TextENGNew": "I had to wait patiently until Dr. Takano came to pick me up.",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 2777,
+    "TextENGNew": "...Let's go to the police.",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 2778,
+    "TextENGNew": "Let's run to the police and wait for Dr. Takano to come.",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 2779,
+    "TextENGNew": "The facility might not say that I escaped.",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 2780,
+    "TextENGNew": "But if they were serious about looking for me, they would get to the police someday.",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 2781,
+    "TextENGNew": "So again I can tell them that he will protect me.",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 2782,
+    "TextENGNew": "...But where is the police?",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 2783,
+    "TextENGNew": "There was nothing to indicate where I was, not even which direction the facility I had escaped from was in, let alone the police station.",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 2784,
+    "TextENGNew": "In the first place, I don't even know that there was a police force in this neighborhood.",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 2785,
+    "TextENGNew": "But I couldn't just stand here.",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 2786,
+    "TextENGNew": "I have to walk.",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 2787,
+    "TextENGNew": "Then I had to find a place to take shelter from the rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 2788,
+    "TextENGNew": "Find people, ask for directions, and aim for a place where I can escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 2789,
+    "TextENGNew": "The only thin thread that would bring me back to the life I had lost was finally hanging in front of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 2790,
+    "TextENGNew": "The cold air and dull pain tormented my whole body.",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 2791,
+    "TextENGNew": "I'm never going to die until I meet Dr. Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 2792,
+    "TextENGNew": "At the very least, I wonder if a car will drive by.",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 2793,
+    "TextENGNew": "If it was a local, I might be able to get directions.",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 2794,
+    "TextENGNew": "Either way, I wanted someone to show up.",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 2795,
+    "TextENGNew": "Otherwise, I would have to walk forever on this endless asphalt of darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 2796,
+    "TextENGNew": "So I'm going to believe.",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 2797,
+    "TextENGNew": "This is the last time.",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 2798,
+    "TextENGNew": "I'm not in a feeble frame of mind to rely on God.",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 2799,
+    "TextENGNew": "This is the same bet, the same game... the same battle as before.",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 2800,
+    "TextENGNew": "Now, come on, god.",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 2801,
+    "TextENGNew": "Listen to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 2802,
+    "TextENGNew": "If only my struggling could give me a sense of my own superiority.",
+    "significantChanges": false
+  },
+  {
+    "index": 491,
+    "MessageID": 2803,
+    "TextENGNew": "If you think my struggling and thrashing around is even remotely amusing...",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 2804,
+    "TextENGNew": "I'll show you more.",
+    "significantChanges": false
+  },
+  {
+    "index": 493,
+    "MessageID": 2805,
+    "TextENGNew": "I will stay here and dance as hard as I can until you get tired of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 2806,
+    "TextENGNew": "So, I'm not going to cry.",
+    "significantChanges": false
+  },
+  {
+    "index": 495,
+    "MessageID": 2807,
+    "TextENGNew": "Never.",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 2808,
+    "TextENGNew": "No matter what happens.",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 2809,
+    "TextENGNew": "I'm not crying.",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 2810,
+    "TextENGNew": "I'm not going to cry...!!",
+    "significantChanges": false
+  }
+]

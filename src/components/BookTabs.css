@@ -1,0 +1,133 @@
+.book-tabs {
+  display: flex;
+  flex-direction: column;
+  background: #121118;
+  border-right: 1px solid #2a2930;
+  overflow-y: auto;
+  flex-shrink: 0;
+}
+
+.book-tabs__tab {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  padding: 14px 2px;
+  cursor: pointer;
+  transition: background 0.1s, color 0.1s;
+  border-bottom: 1px solid rgba(42, 41, 48, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.book-tabs__tab:hover {
+  background: #1e1d25;
+}
+
+.book-tabs__tab--active {
+  background: #16151b;
+  border-right: 2px solid #c8b060;
+  margin-right: -1px;
+}
+
+.book-tabs__label {
+  font-family: "Cormorant", serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #908a80;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+.book-tabs__tab--active .book-tabs__label {
+  color: #c8b060;
+}
+
+.book-tabs__spacer {
+  flex: 1;
+}
+
+.book-tabs__tab--sc {
+  background: #c8b060;
+}
+
+.book-tabs__tab--sc .book-tabs__label {
+  color: #121118;
+}
+
+.book-tabs__tab--sc:hover {
+  background: #d4c070;
+}
+
+.book-tabs__tab--sc.book-tabs__tab--active {
+  background: #b0c8a0;
+  border-right-color: #4a6a40;
+}
+
+.book-tabs__tab--sc.book-tabs__tab--active:hover {
+  background: #c0d8b0;
+}
+
+.book-tabs__tab--sc.book-tabs__tab--active .book-tabs__label {
+  color: #121118;
+}
+
+/* Collapsed mode */
+.book-tabs--collapsed {
+  width: 22px;
+  min-width: 22px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s;
+}
+
+.book-tabs__collapsed-main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.book-tabs__collapsed-main:hover {
+  background: #1e1d25;
+}
+
+.book-tabs__collapsed-sc {
+  padding: 10px 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #c8b060;
+  border-top: 1px solid #2a2930;
+}
+
+.book-tabs__collapsed-sc .book-tabs__collapsed-label {
+  color: #121118;
+}
+
+.book-tabs__collapsed-sc:hover {
+  background: #d4c070;
+}
+
+.book-tabs__collapsed-sc--active {
+  background: #b0c8a0;
+}
+
+.book-tabs__collapsed-sc--active:hover {
+  background: #c0d8b0;
+}
+
+.book-tabs__collapsed-label {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-family: "Cormorant", serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #c8b060;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}

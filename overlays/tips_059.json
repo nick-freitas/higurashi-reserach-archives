@@ -1,0 +1,103 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Fifth Year's Victim",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Victim of the Fifth Year\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14208,
+    "TextENGNew": "\"...So this is this year's curse, then?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14209,
+    "TextENGNew": "\"...I suppose it would be, wouldn't it. ...Every year we're treated to a different method, but this one stands out even among them.\"",
+    "significantChanges": true,
+    "changeReason": "Old translation attributes killings to a specific male perpetrator ('He kills them'), while new uses impersonal phrasing ('we're treated to a different method'), matching the Japanese which does not specify a subject.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 14210,
+    "TextENGNew": "\"Tearing out your own throat... that's just not normal...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14211,
+    "TextENGNew": "\"Let's leave the rest to the old man in forensics. He'll turn up some suspicious substance, I'm sure of it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14212,
+    "TextENGNew": "\"Good work, everyone! Good work out there!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14213,
+    "TextENGNew": "\"Oh, Ooishi-san! Komiyama-san and his team are here!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14214,
+    "TextENGNew": "\"Ooishi-san, good work! I heard this year's one is a real prize.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14215,
+    "TextENGNew": "\"Indeed. They got the better of us. ...I was absolutely convinced it would be Teppei Houjou dying tonight...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14216,
+    "TextENGNew": "\"Who's the victim?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14217,
+    "TextENGNew": "\"Jirou Tomitake. An amateur photographer who comes to Hinamizawa a few times a year. ...We had no eyes on him at all...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14218,
+    "TextENGNew": "\"...What do you think? Did they figure out we had eyes on the Houjou house and switch targets?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14219,
+    "TextENGNew": "\"...Maybe so. ...We really walked right into that one...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14220,
+    "TextENGNew": "\"And Teppei Houjou's all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14221,
+    "TextENGNew": "\"Yes. His daughter left for the festival early in the evening, and a little while after that he rode off on his bike. ...His daughter came home first... actually, wait. He still hasn't come back? Is he out getting drunk somewhere...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14222,
+    "TextENGNew": "\"Ooishi-san, are you there?! Call from Division Chief Takasugi on the radio in Car 1!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'Division Chief' (課長) rather than just 'Chief', and correctly renders 無線 as 'radio' rather than implying a phone line.",
+    "changeScore": 2
+  }
+]

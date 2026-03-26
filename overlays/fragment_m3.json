@@ -1,0 +1,70 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9639,
+    "TextENGNew": "[Incident Report 2: Ibaraki-Aichi Consecutive Suspicious Deaths]",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 9640,
+    "TextENGNew": "＜Due to the ongoing nature of this investigation, a portion of this document is not for public release.＞",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9641,
+    "TextENGNew": "1. Dates of Occurrence\n[First Incident] Saturday, October 2nd, Showa 57 (1982), around 4:00 PM\n[Second Incident] Sunday, October 24th, Showa 57 (1982), around 11:00 PM\n[Third Incident] Friday, October 29th, Showa 57 (1982), around 3:00 PM",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 9642,
+    "TextENGNew": "2. Locations\n[First Incident] ■■ General Hospital Psychiatric Ward, Ibaraki Prefecture\n[Second Incident] National Route ◯◯, Oomaki City, Aichi Prefecture\n[Third Incident] International Departure Lobby, Narita Airport",
+    "significantChanges": true,
+    "changeReason": "The new translation adds 'General' (総合) to the hospital name, preserves the original ◯◯ symbols from the Japanese instead of substituting 'XX,' and more precisely renders 国際線ロビー as 'International Departure Lobby' rather than the vague 'International Airport lobby.'",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 9643,
+    "TextENGNew": "3. Summary\n[First Incident] Kouhei Sawamura (13), who had been hospitalized and receiving treatment in the psychiatric ward of ■■ General Hospital, Ibaraki Prefecture, fell from his hospital room window and died instantly.\n[Second Incident] Nagisa Ozaki (13), a resident of Oomaki City, was struck by a truck on the national highway and died instantly.\n[Third Incident] Youko Hiranuma (37), a passenger boarding a flight bound for Macau at Narita Airport, suddenly began screaming incoherently, then took her own life with a fruit knife she had on her person.",
+    "significantChanges": true,
+    "changeReason": "The new translation more vividly renders 奇声を上げ as 'screaming incoherently' instead of the understated 'making strange noises,' and adds the detail that the knife was 'on her person' (持っていた), matching the Japanese source.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 9644,
+    "TextENGNew": "4. Going Forward\nAt first glance, these three incidents occurred in different locations and appear to have no connection to one another.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 9645,
+    "TextENGNew": "However, there are many suspicious circumstances surrounding the fact that within the span of a single month, a patient, that patient's friend (who he is said to have been romantically involved with), and the nurse assigned to his care all died under unnatural circumstances.",
+    "significantChanges": true,
+    "changeReason": "The original omits the critical qualifier 変死 (unnatural/suspicious death), rendering it simply as 'died,' while the new translation correctly specifies they 'died under unnatural circumstances,' which is significant for the investigative context.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 9646,
+    "TextENGNew": "Furthermore, an autopsy performed on Youko Hiranuma's body revealed the presence of a chemical substance mixed with alcohol in her throat and a portion of her digestive tract.",
+    "significantChanges": true,
+    "changeReason": "The new translation more accurately renders 消化器の一部 as 'a portion of her digestive tract' rather than simply 'stomach,' which is a more specific anatomical distinction relevant to the forensic context.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 9647,
+    "TextENGNew": "According to analysis by the National Research Institute of Police Science, while it was not possible to determine the precise nature of the substance, several of its components were confirmed to have psychological effects.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9648,
+    "TextENGNew": "A joint investigation team comprising the National Police Agency, the Aichi Prefectural Police Headquarters, and the National Research Institute of Police Science has been formed to investigate any connection between these incidents, and the investigation is currently ongoing...",
+    "significantChanges": false
+  }
+]

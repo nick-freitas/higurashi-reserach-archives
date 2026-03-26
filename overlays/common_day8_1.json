@@ -1,0 +1,1658 @@
+[
+  {
+    "index": 2,
+    "MessageID": 22726,
+    "TextENGNew": "\"...How is it that afternoon classes always make you so drowsy?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 22727,
+    "TextENGNew": "Mion's voice, drowsy enough to make whoever heard it yawn along with her, drifted over to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 22728,
+    "TextENGNew": "\"Do you really need a medical explanation for sleepiness? I could give one, but it'll only make you more drowsy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 22729,
+    "TextENGNew": "\"...Ugh~ ...Have mercy~...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 22730,
+    "TextENGNew": "Nearly three o'clock.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 22731,
+    "TextENGNew": "Sixth period was almost over.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 22732,
+    "TextENGNew": "Satoko and the other lower-grade students had been released after fifth period, so they were probably out running around the schoolyard by now.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 22733,
+    "TextENGNew": "The cheerful voices of the younger kids drifting up from the yard were genuinely enviable.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 22734,
+    "TextENGNew": "\"Come on, Mii-chan — you're class rep, you have to set a better example. No falling asleep~.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 22735,
+    "TextENGNew": "\"You know, I'd rather be captain of the swimming club than class rep. They get to sleep a lot more.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'boxing club' (ボクシング); Japanese says 水泳部 (swimming club). New correctly translates as 'swimming club.'",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 22736,
+    "TextENGNew": "\"Oh? ...And what's your reasoning?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 22737,
+    "TextENGNew": "\"Swimming club — get it? Slee-ming~ club~ ...just kidding~...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates the pun as 'hitting the sack' (boxing); Japanese pun is 水泳/スイミン (swimming/sleeping). New preserves the actual wordplay.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 22738,
+    "TextENGNew": "THWACK!",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 22739,
+    "TextENGNew": "The teacher cackled as she rapped Mion on the back of the head with the corner of her textbook.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 22740,
+    "TextENGNew": "\"...And on that note, I think that's all for today. Representative, please close out the class.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 22741,
+    "TextENGNew": "\"Aaaall riiiise! Attentiooooon!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 22742,
+    "TextENGNew": "Mion, who had been half-asleep moments before, snapped back to life the instant she heard class was over.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 22743,
+    "TextENGNew": "...Watching someone be that shameless about it was almost refreshing.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 22744,
+    "TextENGNew": "Homeroom doubled as the final period for the younger grades, so when the last class ended, everyone dispersed on the spot.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Homeroom was done after the lower grades finished their lessons'; Japanese says homeroom doubles as the final period for lower grades, so when last class ends everyone disperses. New is more accurate to the system described.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 22745,
+    "TextENGNew": "One of the quirks unique to our mixed-grade school.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 22746,
+    "TextENGNew": "When word got around that class was over, Satoko and Rika-chan came back into the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 22747,
+    "TextENGNew": "\"...Good work today.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 22748,
+    "TextENGNew": "\"Right! Time for club activities!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 22749,
+    "TextENGNew": "\"Alright! So~ what should we do today?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 22750,
+    "TextENGNew": "\"Hey, Mii-chan. Aren't we continuing what we started yesterday?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 22751,
+    "TextENGNew": "\"Yes yes! We can't just leave it hanging like that after all the excitement — it's unsatisfying!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 22752,
+    "TextENGNew": "\"Now, now. I understand the feeling, but let's save it for another occasion! Somewhere more fitting than a classroom after school — a proper stage for it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 22753,
+    "TextENGNew": "\"Anytime works for me. The finals are supposed to have some of the younger kids watching too, so just give me advance notice.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 22754,
+    "TextENGNew": "\"Whoa! Keiichi-kun, that's amazing! You have a cheering section! A cheering section! ...I wonder if anyone's cheering for Rena...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 22755,
+    "TextENGNew": "I caught the moment Rena slipped into her starry-eyed maiden-in-love mode.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 22756,
+    "TextENGNew": "\"I won't be pulling any punches — but I'll be rooting for your victory, Rena.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 22757,
+    "TextENGNew": "Flashing a smile sweet enough to rot teeth, I ruffled Rena's hair roughly.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 22758,
+    "TextENGNew": "\"Wha?! Hau~~!?!? K-K-K-K-Keiichi-kun, what... does that...hau~~...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 22759,
+    "TextENGNew": "Rena turned scarlet and short-circuited, wisps of smoke curling from both ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 22760,
+    "TextENGNew": "When I peered into her eyes, I could just make out a vision of the two of us holding hands and skipping through a mysterious flower-filled meadow...",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 22761,
+    "TextENGNew": "...Even knowing it was just someone else's fantasy, I found it deeply unsettling...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 22762,
+    "TextENGNew": "\"...I present to you: Keiichi, Slayer of Renas.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 22763,
+    "TextENGNew": "When Rika-chan said that, everyone burst out laughing.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 22764,
+    "TextENGNew": "\"Ahaha! Though that same Rena is a terror to Satoko and Rika-chan, isn't she.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 22765,
+    "TextENGNew": "\"We may not be able to beat Rena, but we won't lose to Keiichi-san!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 22766,
+    "TextENGNew": "\"Oh? Now that's an interesting dynamic. Our strengths play off each other like rock-paper-scissors! ...But that leaves Mion out entirely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 22767,
+    "TextENGNew": "\"Obviously. I don't have a weakness. I don't lose to anyone, regardless of matchups.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 22768,
+    "TextENGNew": "Mion grinned — the grin of a club president. No, the grin of an empress.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 22769,
+    "TextENGNew": "The mood in the room was heating up. The moment had come — it was time to begin!",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 22770,
+    "TextENGNew": "\"Alright! Let's get started!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 22771,
+    "TextENGNew": "\"Yeah! So what are we doing today, Mii-chan? Today?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 22772,
+    "TextENGNew": "Mion made a low humming sound as she rummaged through what we called the Club Locker.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 22773,
+    "TextENGNew": "Every time I looked, that thing was packed to bursting.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 22774,
+    "TextENGNew": "Everything crammed in there was some kind of game, wasn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 22775,
+    "TextENGNew": "On top of that, she also kept penalty-game props like cat ears and collars in there... the sheer capacity of that thing was beyond comprehension.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 22776,
+    "TextENGNew": "My working theory: that locker actually punched through the back wall into the fourth dimension.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 22777,
+    "TextENGNew": "Nothing else explains how she can keep pulling out one thing after another!",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 22778,
+    "TextENGNew": "Mion tapped her chin in thought for a moment, then turned around without taking any game out.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 22779,
+    "TextENGNew": "\"How about we keep it simple today? We've been relying on games with lots of pieces lately — it gets a bit monotonous.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 22780,
+    "TextENGNew": "\"...Whatever the game is, playing together is what makes it fun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 22781,
+    "TextENGNew": "\"Yeah. That's true. That's so true!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 22782,
+    "TextENGNew": "I nodded along with Rena. ...She's right.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 22783,
+    "TextENGNew": "With this group, even pulling weeds in the schoolyard would be a good time.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 22784,
+    "TextENGNew": "\"...I wouldn't enjoy that. Pulling weeds or whatever.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 22785,
+    "TextENGNew": "\"Ah, fair enough. ...That said, Satoko — stop reading people's thoughts from their expressions.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 22786,
+    "TextENGNew": "\"Keiichi-kun, you wear everything on your face. Whatever you're thinking shows right away~.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 22787,
+    "TextENGNew": "I'd always been told that, but ever since I transferred here it seemed to have gotten noticeably worse...",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 22788,
+    "TextENGNew": "I needed to work on a poker face or I'd be in trouble...",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 22789,
+    "TextENGNew": "\"Okay! Everyone pay attention~! I'll explain the rules!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 22790,
+    "TextENGNew": "We all stopped our idle chatter and snapped into sharp focus.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 22791,
+    "TextENGNew": "Before long everyone was listening with the watchful eyes of a tiger or a shark.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 22792,
+    "TextENGNew": "That's right. From the moment the rules are explained... the game has already begun!",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 22793,
+    "TextENGNew": "\"Today's game is... one that's fairly well known at parties. It's called 'Sympathy.' Has anyone heard of it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 22794,
+    "TextENGNew": "...Sympathy.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 22795,
+    "TextENGNew": "As in sharing someone's feelings. ...Wait, do I actually know this game?",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 22796,
+    "TextENGNew": "\"Mii-chan, could it be... the game where everyone picks a topic, and then writes down whatever word it makes you think of... and the more people who write the same answer, the more points you get?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 22797,
+    "TextENGNew": "\"If that's the one, Rena knows it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 22798,
+    "TextENGNew": "Ahh... it's coming back to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 22799,
+    "TextENGNew": "I'm pretty sure we played a game like that on the bus during an elementary school field trip!",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 22800,
+    "TextENGNew": "\"I'm not familiar with this game. Could someone explain?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 22801,
+    "TextENGNew": "\"First, the leader picks a topic. For example — say the topic is 'Dessert.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 22802,
+    "TextENGNew": "\"Heheh! So Satoko, if someone says 'Dessert,' what's the first thing that comes to mind?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 22803,
+    "TextENGNew": "\"Hmm... let's see. Something like... 'Pudding'?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 22804,
+    "TextENGNew": "\"Got it! Then Satoko writes 'Pudding' on her notepad. Then everyone reveals their answer at the same time. If two or more people wrote 'Pudding,' those people get points!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 22805,
+    "TextENGNew": "\"The more people who match, the higher the score — if everyone writes the same answer, that's the maximum of five points!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 22806,
+    "TextENGNew": "\"...In other words, the trick is to think of the same answer as everyone else.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 22807,
+    "TextENGNew": "Exactly what Rika-chan said.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 22808,
+    "TextENGNew": "The key to this game is that thinking that one word — the same word as everyone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 22809,
+    "TextENGNew": "For example — you hear 'Dessert' and immediately think 'Strawberry Anmitsu!'... but that won't get you points if no one else writes the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 22810,
+    "TextENGNew": "So you have to hold back your first instinct and switch to whatever everyone else seems likely to write...",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 22811,
+    "TextENGNew": "The key isn't what you yourself think — it's how well you can read what the others will answer. A deeply sophisticated battle of the mind!!",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 22812,
+    "TextENGNew": "\"...Mii, for Satoko's sake, let's do one practice round.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 22813,
+    "TextENGNew": "\"Sure. I'll be the leader since I'm club president. The topic can be something random...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 22814,
+    "TextENGNew": "She pulled out her Japanese literature textbook and started flipping through it.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 22815,
+    "TextENGNew": "\"Alright then... just one practice round!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 22816,
+    "TextENGNew": "\"...The first topic is — 'Shaved Ice'!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 22817,
+    "TextENGNew": "\"Ahahaha! When you say 'shaved ice'... there's really only one answer, isn't there~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 22818,
+    "TextENGNew": "For shaved ice, the standards are strawberry, melon, and Blue Hawaii.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 22819,
+    "TextENGNew": "And the most popular of those is clearly melon!",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 22820,
+    "TextENGNew": "\"Everyone got their answers? Then reveal all at once — ready, go!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 22821,
+    "TextENGNew": "\"Strawberry.\" / \"Melon.\" / \"Uji-kintoki.\" / \"Strawberry.\" / \"Strawberry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 22822,
+    "TextENGNew": "What the—?! I'm the only one... who wrote melon?!",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 22823,
+    "TextENGNew": "\"H-Hey, come on! Don't go for something so painfully ordinary like strawberry!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 22824,
+    "TextENGNew": "\"Rena! Would you actually order strawberry shaved ice?! Everyone knows melon is always the first to sell out at summer festivals!?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 22825,
+    "TextENGNew": "\"Rena loves melon too! But still... strawberry is just the classic, you know? You know~☆\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 22826,
+    "TextENGNew": "\"Kei-chan, between you and me I'd actually pick melon too. But this is a word association game — if someone says 'shaved ice,' strawberry is the first thing you think of!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 22827,
+    "TextENGNew": "I wasn't entirely convinced... but anyway. That's the game!",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 22828,
+    "TextENGNew": "\"W-What does Rika's say... Is that a type of shaved ice??\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 22829,
+    "TextENGNew": "\"...It's uji-kintoki. Incomparably delicious.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 22830,
+    "TextENGNew": "Sure, it's delicious, but it's a bit unusual for a first instinct... though, on reflection... that's quite a refined choice.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 22831,
+    "TextENGNew": "\"Satoko, does that give you a sense of how it works? The three people who wrote 'strawberry' each get 3 points! That's how you compete!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 22832,
+    "TextENGNew": "\"Yes, yes! I understand!! More importantly, Mion-san — what will the penalty game be?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 22833,
+    "TextENGNew": "\"Hau...! Th-There really is one... What'll it be... What'll it be!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 22834,
+    "TextENGNew": "\"Hmm... What should it be? ...Kei-chan, any suggestions?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 22835,
+    "TextENGNew": "\"Oh, the penalty game? Let me think... back in elementary school, whenever there was a penalty game... yeah. It can only be one thing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 22836,
+    "TextENGNew": "\"Bag-carrying duty!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 22837,
+    "TextENGNew": "\"So the loser has to carry everyone else's stuff home. Boys do this a lot. You see little kids staggering around under a mountain of backpacks all the time~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 22838,
+    "TextENGNew": "\"But... how would we do that? Satoko-chan and Rika-chan's houses are in the opposite direction from ours.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 22839,
+    "TextENGNew": "\"Then how about the loser just carries the winner's stuff to their house? Delivering to everyone would cover quite a distance.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 22840,
+    "TextENGNew": "\"Oh, yeah. That much... sounds reasonable!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 22841,
+    "TextENGNew": "\"...Today's penalty game seems rather easy, doesn't it. At this level, it wouldn't even be satisfying to make Keiichi-san do it!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 22842,
+    "TextENGNew": "\"Then let's raise the stakes a bit!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 22843,
+    "TextENGNew": "\"Not just carrying stuff... *ta-daaa!*\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 22844,
+    "TextENGNew": "\"How about they carry everything dressed in *this*!?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 22845,
+    "TextENGNew": "\"Wh-Wha―!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 22846,
+    "TextENGNew": "\"A MAID OUTFIT, WHY IS IT A MAID OUTFIT!?!?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 22847,
+    "TextENGNew": "\"H-Hau...! I-It is cute, but... n-no way, no way, no way~~~~!!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 22848,
+    "TextENGNew": "\"...But, but! What if Keiichi-san loses?! If there's no size that fits him...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 22849,
+    "TextENGNew": "\"Not a problem~! I went ahead and had an XL prepared just for Kei-chan!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 22850,
+    "TextENGNew": "\"So, Kei-chan, are you ready!? I'm going to parade you around outside in a full maid costume!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 22851,
+    "TextENGNew": "\"The headband, the stockings, everything from top to bottom — it's all right here!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 22852,
+    "TextENGNew": "\"Th-This is insane!! Why do you have every size of that in the locker!?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 22853,
+    "TextENGNew": "Th-This is bad, Keiichi Maebara...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 22854,
+    "TextENGNew": "Somehow... it's become a situation where losing has catastrophic consequences specifically for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 22855,
+    "TextENGNew": "What if I actually end up losing by accident?!",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 22856,
+    "TextENGNew": "I'd never be able to show my face in public again!!",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 22857,
+    "TextENGNew": "\"Oh my, isn't that the Maebara boy?\" \"You heard? Apparently he has a thing for cross-dressing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 22858,
+    "TextENGNew": "\"My, really? How mortifying for his family, ohohoho!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 22859,
+    "TextENGNew": "\"NOOOO!! Th-That's too cruel!!!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 22860,
+    "TextENGNew": "That would be simply... devastating!! If I'm going to restore this penalty to something sane, now is my only chance!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 22861,
+    "TextENGNew": "E-Everyone, let's put a stop to this unspeakable penalty game...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 22862,
+    "TextENGNew": "Why, on the walk home from school, should someone be forced to follow you around in a maid outfit carrying your bags?!",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 22863,
+    "TextENGNew": "And make them call you \"Master\" while dragging them through the village in that embarrassing getup... *huff huff*. ...Wait, why am I huffing?",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 22864,
+    "TextENGNew": "...What... is this feeling welling up inside me...",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 22865,
+    "TextENGNew": "\"Hey, can we just make it a regular bag-carrying penalty...!? Keiichi-kun has completely frozen up over there...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 22866,
+    "TextENGNew": "*FWOOM*!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 22867,
+    "TextENGNew": "My hands, blazing with inner fire, slapped firmly down on Rena's shoulders!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 22868,
+    "TextENGNew": "\"Rena, the problem isn't what the penalty is. ...I just have to win!! Right, everyone!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 22869,
+    "TextENGNew": "I turned to face them all, my smile bright and sparkling.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 22870,
+    "TextENGNew": "\"Oh! Now Kei-chan's got the right idea!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 22871,
+    "TextENGNew": "\"Fear no penalty game!! If you win, there's nothing to worry about!! Right, everyone?! Come on, let's go—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 22872,
+    "TextENGNew": "\"YEAAAAAH!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 22873,
+    "TextENGNew": "From Mion to Rika-chan, everyone thrust their fists into the air!!",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 22874,
+    "TextENGNew": "Only Rena seemed unable to make up her mind, standing there flustered.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 22875,
+    "TextENGNew": "...She's a slow one. If she wins, it's quite the golden opportunity even for Rena!",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 22876,
+    "TextENGNew": "\"Hey, Rena. This is a seriously big chance, you know?! ...Rika-chan or Satoko-chan in a maid outfit, delivered straight to your door. The greatest opportunity in recorded history, isn't it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 22877,
+    "TextENGNew": "Splurt!",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 22878,
+    "TextENGNew": "Rena erupted in a magnificent nosebleed.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 22879,
+    "TextENGNew": "The color in her eyes shifted entirely... she's switched into Kyute Mode!",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 22880,
+    "TextENGNew": "I've been waiting for this, Rena!! That look in your eyes!!",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 22881,
+    "TextENGNew": "\"Hau~~~, bring them home~~~!!! It doesn't have to be Keiichi-kun or Mii-chan either~ Hau!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 22882,
+    "TextENGNew": "\"Alright!! Everyone's ready!! Get your notepads! First question, here we go!?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 22883,
+    "TextENGNew": "Mion flipped her textbook to a random page and read out a word that caught her eye!",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 22884,
+    "TextENGNew": "\"The first topic is... 'Summer Break'!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 22885,
+    "TextENGNew": "That's another... abstract keyword.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 22886,
+    "TextENGNew": "...Well then, I'll play it safe and go with something straightforward.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 22887,
+    "TextENGNew": "\"Everyone good?! Here we go! Ready, go!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 22888,
+    "TextENGNew": "At Mion's signal, everyone held up their notepads simultaneously.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 22889,
+    "TextENGNew": "Let's see... what did everyone write?",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 22890,
+    "TextENGNew": "\"Summer Festival.\" / \"Summer Festival.\" / \"Fireworks.\" / \"Mosquito Coil.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 22891,
+    "TextENGNew": "\"Oh, Rena and I matched! Alright — two points each!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 22892,
+    "TextENGNew": "\"But Satoko's 'Fireworks' was good too. And Rika-chan's 'Mosquito Coil' — it has that seasonal-word quality, like a haiku image.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 22893,
+    "TextENGNew": "\"...Every answer conjures something quite cooling.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 22894,
+    "TextENGNew": "\"Summer break is almost here. ...I wonder what this year's will be like.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 22895,
+    "TextENGNew": "Words that call up the cool feeling of summer... they really do lift the spirit.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 22896,
+    "TextENGNew": "Everyone seemed to have all kinds of dreams painted across their thoughts for the coming summer...",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 22897,
+    "TextENGNew": "\"...By the way, what did you write, Keiichi-san? Let's see it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 22898,
+    "TextENGNew": "\"Ah, ...it's... nothing worth showing...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 22899,
+    "TextENGNew": "\"No excuses! Showing it is part of the rules! Come on, come on!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 22900,
+    "TextENGNew": "\"Ah, stop it!! D-Don't look...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 22901,
+    "TextENGNew": "\"Homework.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 22902,
+    "TextENGNew": "Silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 22903,
+    "TextENGNew": "...Not a single word of sympathy from anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 22904,
+    "TextENGNew": "As though my careless answer had somehow soiled the beautiful dreams of the approaching summer...",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 22905,
+    "TextENGNew": "\"Keiichi-kun's summers... were never fun, were they...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 22906,
+    "TextENGNew": "\"...It's alright. Let's all spend the summer together. ...We won't leave you alone, Keiichi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 22907,
+    "TextENGNew": "Rika-chan reached up and gently patted my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 22908,
+    "TextENGNew": "What had summer break ever meant to me...",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 22909,
+    "TextENGNew": "...Cram school.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 22910,
+    "TextENGNew": "Sunflower observation charts.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 22911,
+    "TextENGNew": "Practice exams.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 22912,
+    "TextENGNew": "Summer intensive study courses...",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 22913,
+    "TextENGNew": "...I don't know anything about hot summers. I was always in an air-conditioned prep school...",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 22914,
+    "TextENGNew": "...Ugh... the tears...",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 22915,
+    "TextENGNew": "\"...Your summers were grey, weren't they, Kei-chan...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 22916,
+    "TextENGNew": "\"W-Waaaaaaaa!!! Stop looking at me with those pitiiiiiing eeeeyes!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 22917,
+    "TextENGNew": "...This game called 'Sympathy' may be more terrifying than I ever imagined...",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 22918,
+    "TextENGNew": "\"Anyway! Rena and I each get two points!! Keep going!! ...Next is... 'Fish'!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 22919,
+    "TextENGNew": "Fish! ...Come to think of it, I haven't had sushi in a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 22920,
+    "TextENGNew": "For what it's worth, I happen to be a connoisseur who favors flounder over lean tuna!",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 22921,
+    "TextENGNew": "...Maybe this time I'll match with someone.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 22922,
+    "TextENGNew": "There's an answer any Japanese person would think of.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 22923,
+    "TextENGNew": "\"Alright, everyone! This time I'll go first!! Ready, go!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 22924,
+    "TextENGNew": "\"Sushi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 22925,
+    "TextENGNew": "That has to be it this time!",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 22926,
+    "TextENGNew": "When you see a fresh fish, who wants to grill or steam it?",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 22927,
+    "TextENGNew": "Fresh sashimi is the pinnacle!",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 22928,
+    "TextENGNew": "And rather than write \"sashimi,\" swapping in the friendlier word \"sushi\" — that's my cunning strategy!!",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 22929,
+    "TextENGNew": "...But despite my confident answer, everyone's expressions were utterly blank.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 22930,
+    "TextENGNew": "\"Oh... I see... 'Fish'... yeah. ...Sushi is tasty, isn't it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 22931,
+    "TextENGNew": "\"WaaaaAAAAA!! Don't say it in that consoling toooone!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 22932,
+    "TextENGNew": "\"Then everyone else reveal yours? Ready, go!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 22933,
+    "TextENGNew": "\"Aquarium.\" / \"Dolphin.\" / \"Whale.\" / \"Aquarium.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 22934,
+    "TextENGNew": "\"Rika and I matched! Two points!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 22935,
+    "TextENGNew": "\"Rena went with whale? I thought about it too, but I went with dolphin.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 22936,
+    "TextENGNew": "\"Oh, really?! Rena was going to write dolphin at first... but thought maybe nobody else would...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 22937,
+    "TextENGNew": "\"...Both are very kyute.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 22938,
+    "TextENGNew": "The four of them, all but me, had their thoughts drifting toward the horizon, as if they could hear the sound of waves rolling in from somewhere far away...",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 22939,
+    "TextENGNew": "\"So everyone has two points! Everyone except Keiichi-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 22940,
+    "TextENGNew": "\"...Keiichi-kun's answers were worth zero points, but... Rena thinks they were very unique and interesting! So interesting!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 22941,
+    "TextENGNew": "\"Going straight to eating when you hear the word 'fish'... Kei-chan, you should really be ashamed of how shallow your soul is.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 22942,
+    "TextENGNew": "\"WaaaAAA!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 22943,
+    "TextENGNew": "\"Don't call my soul shaaaaaallow!! Besides, what about Mion and Rena?! Those aren't even fish — they're mammals!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 22944,
+    "TextENGNew": "\"Overruled, unanimously!! ...Right then! Next question!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 22945,
+    "TextENGNew": "Wh-What a rotten game this is today!!",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 22946,
+    "TextENGNew": "The more rounds go by, the more I seem to be exposing myself as a shallow human being!!",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 22947,
+    "TextENGNew": "I'm still the only one with zero points...!! I have to score on the next one at least!!",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 22948,
+    "TextENGNew": "\"Now then, the next topic is...... 'Sakura'!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 22949,
+    "TextENGNew": "Damn it all!! I'll get it this time!!",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 22950,
+    "TextENGNew": "Stay cool, Keiichi Maebara!",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 22951,
+    "TextENGNew": "Don't think what you'd normally think!",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 22952,
+    "TextENGNew": "Everyone else here is a girl!",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 22953,
+    "TextENGNew": "Stop thinking like a man!!",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 22954,
+    "TextENGNew": "If you write \"Sakura Mochi\" here, you'll be repeating the tragedy!",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 22955,
+    "TextENGNew": "Throw out that gastrocentric male sensibility!",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 22956,
+    "TextENGNew": "Just for now, think of yourself as a girl!",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 22957,
+    "TextENGNew": "I'm a girl... I'm a girl... I am a girl...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 22958,
+    "TextENGNew": "\"Everyone done?! Here we go!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 22959,
+    "TextENGNew": "\"Keiichi-san, won't it be dangerous if you don't score this time~?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 22960,
+    "TextENGNew": "Hmph! This time I've got it. I've suppressed my instincts perfectly.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 22961,
+    "TextENGNew": "This time... I'll match! No — I *will* make it match!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 22962,
+    "TextENGNew": "\"Keiichi-kun, you look so confident this time! You know, Rena thought like a boy this time to match your answer. Ehehe~... 'Sakura Mochi'☆\"",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 22963,
+    "TextENGNew": "\"...I love them too. I wrote it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 22964,
+    "TextENGNew": "Rena and Rika-chan giggled together.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 22965,
+    "TextENGNew": "\"WhOOAAaaa!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 22966,
+    "TextENGNew": "\"This is not the time to be thinking about food!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 22967,
+    "TextENGNew": "\"Then did Keiichi-san write the same as me? I put 'Hanami'!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 22968,
+    "TextENGNew": "\"That's it! When you say 'Sakura' it can only be 'Hanami,' can't it! I wrote that too!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 22969,
+    "TextENGNew": "Mion and Satoko wrote 'Hanami'!... H-Hanami?!?!",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 22970,
+    "TextENGNew": "\"H-Hanami is the staple of old men getting drunk and making fools of themselves — that's what that is!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 22971,
+    "TextENGNew": "\"And why did you suddenly give up on answering from a girl's perspective of all things!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 22972,
+    "TextENGNew": "\"So then, Kei-chan. ...What exactly did *you* write for your girlish answer?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 22973,
+    "TextENGNew": "\"N-N-Nothing! Let's move on, next question, next— ...Ah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 22974,
+    "TextENGNew": "Before I realized it, Rika-chan had slipped behind me and was calmly reading the note I had hidden behind my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 22975,
+    "TextENGNew": "\"...It says 'Magical Girl.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 22976,
+    "TextENGNew": "...A hush fell over the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 22977,
+    "TextENGNew": "...Nobody said anything when the paper was revealed... or maybe nobody could?",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 22978,
+    "TextENGNew": "I wished someone would at least laugh, or make fun of me, or say something dumb... but there wasn't a single reaction.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 22979,
+    "TextENGNew": "The color drained from my face, then flooded back all at once — the pressure cooker deep in my gut reached its limit and exploded.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 22980,
+    "TextENGNew": "\"W-Well! 'Sakura' is the default color for magical girls, isn't it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 22981,
+    "TextENGNew": "\"Pink hair! Pink clothes! Pink lace and frills and wands! Even I know that much!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 22982,
+    "TextENGNew": "\"...I mean, you don't have to argue so passionately about it. You're talking about that cute show that's been on TV lately, right? Yeah, yeah, I know it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 22983,
+    "TextENGNew": "\"Yes, yes! It's so cute, isn't it?! Rena watches it every week too! It's so fun watching how the girls interact with each other~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 22984,
+    "TextENGNew": "\"Indeed. I laugh every time the pet cat quips with its unique way of speaking!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 22985,
+    "TextENGNew": "\"That's not a cat. That's a tiger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 22986,
+    "TextENGNew": "\"When it's so small, what does it matter!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 22987,
+    "TextENGNew": "\"Anyway, that's one thing, but the fact that 'Sakura' makes you think of *that*...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 22988,
+    "TextENGNew": "\"Wh-What's wrong with it!! I was just thinking from a girl's perspective!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 22989,
+    "TextENGNew": "\"Sakura pink equals magical girl! That's the natural way to think!! That's the only right answer!! That has to be the case!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 22990,
+    "TextENGNew": "*pat*",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 22991,
+    "TextENGNew": "Mion silently put her hand on my shoulder.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 22992,
+    "TextENGNew": "\"Kei-chan. ...I'm certain of it now. ...You are, to the very core of your being... an old man. Past the point of correction.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 22993,
+    "TextENGNew": "\"GYAAAAAAA!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 22994,
+    "TextENGNew": "\"Why is everyone looking at me with those piiiiitiiiing eeeeyes!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 22995,
+    "TextENGNew": "\"Th-That's not true, Keiichi-kun... OK! Let's give it our all! This is where the comeback starts!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 22996,
+    "TextENGNew": "\"An old man like Keiichi-san doesn't make comebacks!! Just quietly accept today's penalty game!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 22997,
+    "TextENGNew": "R-Right, today's penalty game was... what was it again?!",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 22998,
+    "TextENGNew": "\"...Dressing in a full maid outfit, headband and knee-socks included, while carrying the winner's belongings to their home.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 22999,
+    "TextENGNew": "\"NOOOOooooOOOO!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 23000,
+    "TextENGNew": "\"Alright!! If you're truly members of this club, show me you can turn this around!! Let's keep rolling!!\"",
+    "significantChanges": false
+  }
+]

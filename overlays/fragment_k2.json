@@ -1,0 +1,104 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8393,
+    "TextENGNew": "The piece of Shion Sonozaki, undone by Rule X.",
+    "significantChanges": true,
+    "changeReason": "Old: 'goes mad after being taken in by Rule X' explicitly states she goes mad, while new: 'undone by Rule X' is more ambiguous about the nature of her downfall. TextJPN '惑わされる' means 'led astray/deluded' — neither translation is exact, but they convey different impressions.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 8394,
+    "TextENGNew": "A heartbreaking piece that allows no room for sympathy — one can only look upon it with pity.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 8395,
+    "TextENGNew": "...It must have made the keyhole of the padlock called Rule Z unmistakably clear.",
+    "significantChanges": true,
+    "changeReason": "Old states it as fact: 'It distinctly identifies the keyhole' while new adds uncertainty: 'It must have made the keyhole...unmistakably clear.' TextJPN uses 'に違いない' (must be/no doubt), so the new version's inference is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 8396,
+    "TextENGNew": "And into that keyhole, Keiichi Maebara will in time become the key that forces it open.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Keiichi Maebara becomes a key himself to pry open this padlock' (present tense, immediate) vs New: 'in time become the key that forces it open' — adds 'in time' matching 'やがて' (eventually), indicating this happens later, not immediately.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 8397,
+    "TextENGNew": "And just as Mion Sonozaki had hoped, he sweeps away the stagnant air that has long settled over the village.",
+    "significantChanges": true,
+    "changeReason": "Old says Maebara 'becomes a wind that clears out the stagnant air' (metaphorical addition not in Japanese) while new says 'he sweeps away the stagnant air' — the 'wind' metaphor is absent from TextJPN. Also old uses 'wished for' (past) vs new 'had hoped' (past perfect), matching the Japanese better.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 8398,
+    "TextENGNew": "This piece, too, is an essential step in our learning.",
+    "significantChanges": true,
+    "changeReason": "Old: 'teaches us an important lesson' (lesson/moral) vs New: 'is an essential step in our learning' (process/curriculum). TextJPN '学ぶ上での重要な課程' literally means 'important course/step in learning', so 'step in our learning' is closer to the original's meaning of a curriculum stage.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 8399,
+    "TextENGNew": "Shion Sonozaki learns within this piece, and thereafter becomes a steadfast ally to Satoko Houjou.",
+    "significantChanges": true,
+    "changeReason": "Old: 'becomes a strong ally for Satoko' vs New: 'becomes a steadfast ally to Satoko.' Additionally, old says 'then' (immediately after) while new says 'thereafter' matching '以後' (from then on). The temporal nuance differs.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 8400,
+    "TextENGNew": "...Come to think of it, Satoko Houjou may herself be the piece that represents the very padlock of Rule Z.",
+    "significantChanges": true,
+    "changeReason": "Old: 'In that way, maybe Satoko Houjou is a piece that represents the padlock' vs New: 'Come to think of it, Satoko Houjou may herself be the piece that represents the very padlock.' 'In that way' vs 'Come to think of it' (そう言えば) changes the logical connection; old implies consequence while new implies realization.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 8401,
+    "TextENGNew": "Unless she is saved, Rule Z cannot be broken.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8402,
+    "TextENGNew": "And when she is saved, it is proof that Rule Z has been overcome.",
+    "significantChanges": true,
+    "changeReason": "Old: 'that means Rule Z is defeated' (simple equivalence) vs New: 'it is proof that Rule Z has been overcome' — 'proof/示される' adds evidential framing matching TextJPN's 'が示される' (is demonstrated/shown).",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 8403,
+    "TextENGNew": "That is all this piece has shown us. And nothing more.",
+    "significantChanges": true,
+    "changeReason": "New adds 'And nothing more' which is not in the old. TextJPN 'それだけのこと' means 'only/just that much' — the added emphasis in the new version makes the limiting nature more explicit.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 8404,
+    "TextENGNew": "That alone is what Shion Sonozaki staked her life to learn.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 8405,
+    "TextENGNew": "But now, I think — it was something tremendously important.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 8406,
+    "TextENGNew": "Every time I see Satoko and Shion bickering over pumpkins, I think that.",
+    "significantChanges": false
+  }
+]

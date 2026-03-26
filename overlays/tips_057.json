@@ -1,0 +1,123 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "To the Department Handling the Housewife Beating Murder",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"To Those on the Housewife Murder Incident\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14181,
+    "TextENGNew": "July 18, 1982",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14182,
+    "TextENGNew": "Okinomiya Police Station, First Investigative Division",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14183,
+    "TextENGNew": "To the Attention of: Division Chief Takasugi",
+    "significantChanges": true,
+    "changeReason": "New specifies \"Division Chief\" (課長) rather than generic \"Chief\" and adds the formal addressing structure matching the Japanese 殿 convention, clarifying Takasugi's specific rank.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 14184,
+    "TextENGNew": "Narcotics Crime Eradication Headquarters",
+    "significantChanges": true,
+    "changeReason": "Old adds a prefecture police reference not in the Japanese; new accurately translates the department name.",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 14185,
+    "TextENGNew": "Shishibone Branch Chief, Naoyuki Sorimachi",
+    "significantChanges": true,
+    "changeReason": "Old uses blank placeholders for the name; new correctly provides 'Naoyuki Sorimachi' from 反町尚之.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 14186,
+    "TextENGNew": "Re: Undercover Investigation Designation No. 168",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14187,
+    "TextENGNew": "We hereby notify you that a section of the statement records pertaining to a case under this headquarters' jurisdiction has been found to contain material believed to be related to the above-referenced undercover investigation (Okinomiya Police Station Case No. 168, the Hinamizawa Village housewife bludgeoning murder).",
+    "significantChanges": true,
+    "changeReason": "Old uses placeholder 'X' for case number and 'slaughter' for 撲殺 (bludgeoning murder); new provides correct details.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 14188,
+    "TextENGNew": "During questioning of a suspect arrested in flagrante delicto for violation of the Narcotics Control Act on July 3rd, statements were made that appeared to allude to the commission of the above-referenced crime. It became clear that these statements contained information that could only be known by the perpetrator.",
+    "significantChanges": true,
+    "changeReason": "New adds arrest date (July 3rd) and specifies legal charge more accurately per the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 9,
+    "MessageID": 14189,
+    "TextENGNew": "Accordingly, this headquarters is prepared to furnish your division with a copy of the relevant statement records.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14190,
+    "TextENGNew": "Should these statements be deemed reliable, it is considered highly probable that the suspect in question is the perpetrator of the above-referenced crime.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates blank placeholder names not in the Japanese; new correctly says 'the suspect in question.'",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 14191,
+    "TextENGNew": "It should be noted that upon receiving these statements, the investigating officer inquired with the Okinomiya Police Station regarding this case;",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14192,
+    "TextENGNew": "however, the Okinomiya Police Station officer responsible for handling the Undercover Investigation Designation issued by the Prefectural Police Superintendent-General on July 1st (1982, General Administration, Directive I-1-12) misinterpreted the directive,",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates the directive reference as \"B1-12\" when the Japanese イ１－１２ should be \"I-1-12\"; also old says \"prefectural police headquarters\" while new correctly translates 県警本部長 as \"Prefectural Police Superintendent-General\" (a person, not a place).",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 14193,
+    "TextENGNew": "and failed to properly apprise the investigating officer of the existence of this case.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14194,
+    "TextENGNew": "As a result, the investigating officer did not recognize the significance of the statements in relation to the above-referenced case,",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14195,
+    "TextENGNew": "and consequently neglected to conduct an on-site verification or take other necessary measures, allowing the matter to go unaddressed until now. We offer our sincerest apologies for this oversight.",
+    "significantChanges": true,
+    "changeReason": "Old says \"combing the scene\" (thoroughly searching) while the Japanese 現場確認 means \"on-site verification\" (confirming/checking the scene), a meaningfully different investigative action.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 14196,
+    "TextENGNew": "Additionally, we note that the suspect in question died in the holding cell on July 4th.",
+    "significantChanges": true,
+    "changeReason": "Old gives wrong date (July 7th vs correct July 4th per ７月４日), and fabricates placeholder names.",
+    "changeScore": 5
+  }
+]

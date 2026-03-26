@@ -1,0 +1,165 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Lunch Delivery List",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Lunch Takeout List\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15409,
+    "TextENGNew": "Watanuki Mental Clinic",
+    "significantChanges": true,
+    "changeReason": "Old translates 四月一日 as 'Kuroda'; new correctly renders it as 'Watanuki.'",
+    "changeScore": 4
+  },
+  {
+    "index": 2,
+    "MessageID": 15410,
+    "TextENGNew": "Without preamble.",
+    "significantChanges": true,
+    "changeReason": "Old translation 'Hello' doesn't reflect the formal Japanese letter convention 前略 (dispensing with formalities); new translation 'Without preamble' captures this epistolary convention.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 15411,
+    "TextENGNew": "To state the conclusion first: the subject's problematic behavior appears to be influenced by extremely severe psychological stress.",
+    "significantChanges": true,
+    "changeReason": "Old diagnoses 'post-traumatic stress disorder' specifically; Japanese only says 'extremely severe psychological stress.'",
+    "changeScore": 4
+  },
+  {
+    "index": 4,
+    "MessageID": 15412,
+    "TextENGNew": "It is presumed that the anguish of being forced to choose between parents following her parents' sudden divorce has imposed severe stress on the subject.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15413,
+    "TextENGNew": "In addition, the subject holds a strong conviction that she bears responsibility for her parents' divorce.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'self-mutilation' not present in the Japanese text.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 15414,
+    "TextENGNew": "The greatest shock to the subject lies in feeling betrayed by the home — the very place she trusted as absolutely safe — through her parents' divorce.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15415,
+    "TextENGNew": "Consequently, there is a possibility that going forward she may tend toward excessive defensive behavior in order to secure her place in the parent-child relationship.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'high possibility' and 'to protect her family'; new translation says 'possibility' and 'to secure her place in the parent-child relationship', which more accurately reflects the Japanese 親子の居場所の確保 (securing the parent-child place/belonging).",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 15416,
+    "TextENGNew": "First and foremost, what matters is the subject's communication with the father she has chosen to live with.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 9,
+    "MessageID": 15417,
+    "TextENGNew": "It is of the utmost importance that the father deepen his communication with the subject, thereby strengthening family bonds and alleviating her anxiety.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 10,
+    "MessageID": 15418,
+    "TextENGNew": "However, even if she appears to have recovered, memories associated with the stress may resurface through some trigger, and there is a risk of the same type of problem recurring.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 11,
+    "MessageID": 15419,
+    "TextENGNew": "A critical point in this particular case is that the excessive delusional behavior believed to underlie the subject's problematic conduct appears to be connected to lore passed down from her home village.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 12,
+    "MessageID": 15420,
+    "TextENGNew": "The subject is convinced that leaving her home village incurs a curse, and believes her parents' divorce was the result of that curse.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 13,
+    "MessageID": 15421,
+    "TextENGNew": "Through this, she appears to be unconsciously asserting and acting out a form of psychological self-justification by shifting responsibility away from herself and onto the curse of her home village.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 14,
+    "MessageID": 15422,
+    "TextENGNew": "The problem is that the customs of this home village are extremely strict and insular.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 15,
+    "MessageID": 15423,
+    "TextENGNew": "The delusion that something lurks within the blood — cited as the reason for the subject's problematic behavior — is perhaps the most extreme manifestation of this.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 16,
+    "MessageID": 15424,
+    "TextENGNew": "Cases in which delusions are linked to problematic behavior indicate an extremely dangerous condition for the subject.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 17,
+    "MessageID": 15425,
+    "TextENGNew": "If the father has the financial means, returning to the home village — or transferring the subject's living environment to that of relatives in the home village — would also be an important consideration.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 18,
+    "MessageID": 15426,
+    "TextENGNew": "※ This B5 stationery was found among a pad of notepaper used on the reverse side.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 19,
+    "MessageID": 15427,
+    "TextENGNew": "The memo written on the blank reverse side reads as follows.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 20,
+    "MessageID": 15428,
+    "TextENGNew": "Chinese rice bowl x1, Shanghai-style mixed yakisoba x3, large fried rice x1",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  }
+]

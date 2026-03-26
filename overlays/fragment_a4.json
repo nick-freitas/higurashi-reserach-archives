@@ -1,0 +1,674 @@
+[
+  {
+    "index": 1,
+    "MessageID": 3849,
+    "TextENGNew": "......It happened without warning.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 3850,
+    "TextENGNew": "Uncle Koizumi had passed away.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 3851,
+    "TextENGNew": "I had never heard that he was ill, or that he wasn't feeling well.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 3852,
+    "TextENGNew": "His chest suddenly began to hurt and he couldn't sleep. Saying he didn't think he could make it until morning, he called an ambulance for the first time in his life. He was rushed to the emergency room, but he didn't survive the night.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 3853,
+    "TextENGNew": "Acute myocardial infarction, they said. ...But in a way, perhaps it was the most merciful end he could have had.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 3854,
+    "TextENGNew": "Rather than wasting away in bed over years of decline, he had been vigorous right up until the very end. In that sense, one could say he had lived his life to the fullest.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 3855,
+    "TextENGNew": "But still... it was far too sudden.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 3856,
+    "TextENGNew": "I wish I had called him 'Grandpa' more often... Even though I regret it now, it's too late. ...No matter how many times I call out to him, Uncle Koizumi will never return that bashful smile of his again.",
+    "significantChanges": true,
+    "changeReason": "Old translates おじいちゃん (grandpa) as 'Uncle' — different familial term that changes the perceived relationship type, though the emotional closeness is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 3857,
+    "TextENGNew": "......He had been my guardian until now. He always watched over me, ensuring my efforts received proper recognition.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 3858,
+    "TextENGNew": "Perhaps it was his way of atoning for being unable to support my grandfather while he was alive. But regardless, he was irreplaceable to me... someone truly precious. Not merely as a political backer.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 3859,
+    "TextENGNew": "But I hadn't realized any of that while he was still alive. I'm ashamed to admit there were times I thought only of how to use his vast power for my own ends.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 3860,
+    "TextENGNew": "It wasn't until he was gone that I finally understood.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 3861,
+    "TextENGNew": "Uncle Koizumi had been... a grandfather to me. He had provided, through his quiet watchfulness, exactly what I had always yearned for from my own grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 3862,
+    "TextENGNew": "When I rushed to his funeral and offered incense, I shed tears... tears I had forgotten how to cry since my grandfather died...",
+    "significantChanges": true,
+    "changeReason": "New includes details from the JPN that the old omits: rushing to the funeral (駆けつけ), offering incense (焼香), and that the tears were ones she hadn't cried since her grandfather's death (祖父が死んだ時以来).",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 3863,
+    "TextENGNew": "``...Grandpa... Thank you for everything... I should have called you Grandpa more often, shouldn't I... .......Ohhhhh...``",
+    "significantChanges": true,
+    "changeReason": "Old translates おじいちゃん (grandpa) as 'Uncle' in dialogue — different familial term, though the emotional context of loss and regret is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 3864,
+    "TextENGNew": "No matter how many times I called out, he would never answer again.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 3865,
+    "TextENGNew": "The only way I could repay him now was to complete the research he had paved the way for. ...In other words, to accomplish my goal without fail.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 3866,
+    "TextENGNew": "When my grandfather's research was finally vindicated, Uncle Koizumi's name would be remembered as its sole champion. That was surely the only way to repay all he had done.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 3867,
+    "TextENGNew": "...Before his portrait, I vowed to pour every ounce of my being into my work from this day forward...",
+    "significantChanges": true,
+    "changeReason": "New includes the detail of vowing before his portrait (遺影に誓う) which the old omits, establishing the solemn funeral context.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 3868,
+    "TextENGNew": "But... as the saying goes, misfortune never comes alone. ...Hardships and sorrows always arrive in company.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 3869,
+    "TextENGNew": "It was as though the favorable wind that had been at my back until now had suddenly died... and turned into a headwind. ......A change so abrupt it was cruel. Strong, cold, and sorrowful.",
+    "significantChanges": true,
+    "changeReason": "Old omits the emotional descriptors from the JPN: 'A change so abrupt... Strong, cold, and sorrowful' (あまりに突然な、風向きの変化。強く、冷たく、悲しく), which convey the narrator's emotional state.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 3870,
+    "TextENGNew": "\"......What? What do you mean, Jirou-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 3871,
+    "TextENGNew": "\"...Well, you know that Koizumi-sensei was the key figure behind establishing the Irie Institute, right? ...The related agencies wouldn't approve it, but Koizumi-sensei used his political weight to force it through.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 3872,
+    "TextENGNew": "...After all, he was one of the towering figures of postwar Japan's reconstruction, with enormous achievements in the pharmaceutical industry. He wielded tremendous influence in both political and financial circles.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 医薬品業界 as 'medical industry'; new correctly specifies 'pharmaceutical industry,' which is a distinct sector.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 3873,
+    "TextENGNew": "\"...So with Koizumi-sensei gone, the things he pushed through by sheer force of will can no longer hold...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 3874,
+    "TextENGNew": "\"It's just a rumor, and I don't know the specifics myself, but... I've heard they're reviewing certain budget allocations and projects.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 3875,
+    "TextENGNew": "\"...Are you saying the Irie Institute will be shut down?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 3876,
+    "TextENGNew": "\"No, I haven't heard anything about disbanding the Institute specifically. ...But since Koizumi-sensei's death, rumors are flying about fierce infighting among the elders' factions and the struggle for succession.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 3877,
+    "TextENGNew": "Apparently, it's already starting to affect personnel decisions among our clients.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 3878,
+    "TextENGNew": "So there's speculation that projects and protected budgets championed by the Koizumi faction may face serious scrutiny...",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 聖域予算 (protected/sacrosanct budgets) as 'holy treasure chest' — a misreading of the political budget terminology.",
+    "changeScore": 4
+  },
+  {
+    "index": 31,
+    "MessageID": 3879,
+    "TextENGNew": "Of course, this is all well above my pay grade. It's nothing more than secondhand rumors...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 3880,
+    "TextENGNew": "Jirou-san kept qualifying it all as mere rumor, but... what he was telling me was that the wind had shifted against us.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 3881,
+    "TextENGNew": "...Or perhaps Jirou-san already knew everything, and was simply trying to warn me about the coming storm...",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 3882,
+    "TextENGNew": "And then, at the next routine audit, it was stated plainly from Jirou-san's own mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 3883,
+    "TextENGNew": "That audit included not only Jirou-san, but high-ranking officials who had never visited before. ...Just seeing those faces told me a turning point had arrived.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 3884,
+    "TextENGNew": "``As you are aware, the Alphabet Project was established to strengthen Japan's standing in the international community in the postwar era.``",
+    "significantChanges": true,
+    "changeReason": "Old adds 'with the view of developing deterrent weaponry' which is not in the JPN text for this entry; new correctly limits to the stated purpose of strengthening Japan's international standing.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 3885,
+    "TextENGNew": "However, we are now well into the late Showa period, and the twenty-first century is nearly upon us.\"",
+    "significantChanges": true,
+    "changeReason": "New includes the Showa era reference (昭和も５０年代) which the old omits, providing the specific historical time frame.",
+    "changeScore": 2
+  },
+  {
+    "index": 38,
+    "MessageID": 3886,
+    "TextENGNew": "The meaning was clear. Japan had already moved beyond its postwar identity. And it was time to sever ties with the ghosts still clinging to past glories.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'wished to resurrect the militaristic might of the pre-war era' which is not in the JPN text; new stays faithful with 'ghosts still clinging to past glories' (過去の栄光にしがみつく亡霊).",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 3887,
+    "TextENGNew": "\"In the forty years since the war's end, our nation has sought peaceful contributions to the world and has successfully established its international standing.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'strong alliance with the United States' not present in JPN, which simply states Japan sought peaceful contributions and established international standing.",
+    "changeScore": 4
+  },
+  {
+    "index": 40,
+    "MessageID": 3888,
+    "TextENGNew": "Japan has matured into a nation that plays a vital role in the international community, and in the coming century, our presence will only grow stronger.\"",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'renouncing war and nuclear weapons' and 'nation of peace'; JPN says Japan matured into an important international role with growing presence.",
+    "changeScore": 4
+  },
+  {
+    "index": 41,
+    "MessageID": 3889,
+    "TextENGNew": "The Alphabet Project, the Irie Institute's sponsoring body, had originally been founded with the purpose of exploring ways to strengthen Japan's voice on the world stage.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'develop a weapon that would act as a deterrent to nuclear weapons'; JPN says 発言力を高める手段 (ways to strengthen international voice).",
+    "changeScore": 4
+  },
+  {
+    "index": 42,
+    "MessageID": 3890,
+    "TextENGNew": "...For them to come to the Irie Institute, one of its subsidiary organizations, and declare that Japan had already achieved international standing... it was obvious that a strong, cold headwind was bearing down on us.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'Japan has now renounced nuclear arms'; JPN says Japan had achieved international standing (国際社会に地位を築いた).",
+    "changeScore": 4
+  },
+  {
+    "index": 43,
+    "MessageID": 3891,
+    "TextENGNew": "The roll of one on the die, which should have ended on that stormy night, was showing its face to me once more...",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 3892,
+    "TextENGNew": "......As if a mere roll of the die could break me... As if my will could ever be defeated by the playthings of gods...",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 3893,
+    "TextENGNew": "\"Therefore, we are currently restructuring the Alphabet Project to better reflect the needs of the modern era.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 3894,
+    "TextENGNew": "``The new Alphabet Project will pursue Japan's enhanced standing through the dual pillars of international exchange and economic development, from the perspective of peaceful diplomacy.\"``",
+    "significantChanges": true,
+    "changeReason": "Old generalizes as 'not through militaristic means'; new accurately specifies the JPN's 'dual pillars of international exchange and economic development' (国際交流と経済発展の２軸) and 'peaceful diplomacy' (平和外交).",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 3895,
+    "TextENGNew": "...The power brokers who held sway over Japan's politics and industry were all born before the war. Their fondest wish was to recapture past glory.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 3896,
+    "TextENGNew": "The very notion of reclaiming lost glory was itself a relic of the past, a specter of a bygone era.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'research the new bomb that defeated us'; JPN simply says the notion of reclaiming lost glory is itself a relic of the past.",
+    "changeScore": 4
+  },
+  {
+    "index": 49,
+    "MessageID": 3897,
+    "TextENGNew": "...No, everyone had known that. But no one could speak against the grandstanding elders to whom they owed so much.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 3898,
+    "TextENGNew": "In time, the old generation would age and pass, and a new generation would come to be called the elders.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 3899,
+    "TextENGNew": "...Uncle Koizumi had been the last bastion of that old generation. His death was simply the catalyst for a changing of the guard among those who pulled the strings.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 3900,
+    "TextENGNew": "Things that could never be criticized openly were now being questioned and reconsidered, one after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 3901,
+    "TextENGNew": "From the very beginning, the Alphabet Project had been criticized as a privately controlled advisory body, siphoning public funds for the benefit of a select few.",
+    "significantChanges": true,
+    "changeReason": "Old misses that it was an 'advisory body' and says 'personal satisfaction'; new correctly identifies it as a 'privately controlled advisory body siphoning public funds,' though core criticism is similar.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 3902,
+    "TextENGNew": "And so, the privileges of the old generation were stripped away... only to cycle around and become the privileges of the new.",
+    "significantChanges": true,
+    "changeReason": "Old oversimplifies as 'politicians taking over'; new correctly captures the cynical observation that privileges are stripped from the old generation only to cycle into the new generation's hands (利権 = vested interests/privileges).",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 3903,
+    "TextENGNew": "\"Therefore, all projects under the Alphabet umbrella will undergo substantial budget revisions going forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 3904,
+    "TextENGNew": "The Irie Institute is, of course, no exception. We ask for your understanding and cooperation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 3905,
+    "TextENGNew": "\"...I understand. Our research exists thanks to our sponsors. Please, we are at your disposal.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 3906,
+    "TextENGNew": "Irie gave a formal response, but he couldn't hide his bewilderment.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 3907,
+    "TextENGNew": "The Irie Institute had been furnished with the finest equipment and the most talented personnel.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 3908,
+    "TextENGNew": "In blunt terms, it was an expensive operation. ...To anyone with no interest in Hinamizawa Syndrome, it must have seemed incomprehensible why such an enormous budget was being poured into the study of some mysterious phenomenon.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'disgusting parasites' which is not in the JPN text (得体の知れない現象 = mysterious phenomenon); new accurately translates the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 3909,
+    "TextENGNew": "But a tightening of the budget was still manageable. ...Our funding had been lavish to begin with. This was merely a correction to appropriate levels.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 3910,
+    "TextENGNew": "......It would certainly be painful, but we could endure it. ...Or so I thought. ...But if mere endurance were enough, it wouldn't deserve to be called a one on the die.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 3911,
+    "TextENGNew": "...And in that sense... this was unmistakably a roll of one.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 3912,
+    "TextENGNew": "\"...And so, with the new governing board established this April, new policies have been outlined for all projects. Please refer to the materials being distributed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 3913,
+    "TextENGNew": "The documents were passed around the table. The facilitator began reading through them at a leisurely pace, but I read ahead as fast as I could, desperate to learn what outrageous pronouncement these papers were about to make...",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 3914,
+    "TextENGNew": "\"The Irie Institute has achieved remarkable results through its cutting-edge research, successfully elucidating the full scope of Hinamizawa Syndrome and developing a treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 3915,
+    "TextENGNew": "The board of directors holds these accomplishments in the highest regard. We recognize that this is the result of the tireless efforts of Director Irie and the entire staff of the Irie Institute.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 3916,
+    "TextENGNew": "\"Thank you very much.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 3917,
+    "TextENGNew": "It should have been a compliment, but neither Irie nor I could relax. ...It's standard practice to build someone up before delivering the real blow.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 3918,
+    "TextENGNew": "If the main point is good news, you lead with something bad to make it shine brighter. ...The reverse works the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 3919,
+    "TextENGNew": "``The Irie Institute had two primary objectives. Research and treatment of Hinamizawa Syndrome, and the exploration of potential multi-domain applications.``",
+    "significantChanges": true,
+    "changeReason": "Old narrows 多面運用の模索 (exploration of multi-domain applications) to 'military applications', adding specificity not in source but not completely wrong given context.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 3920,
+    "TextENGNew": "The new board has decided to immediately cease all work related to the latter.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 3921,
+    "TextENGNew": "``The fact that such research was conducted on Japanese soil could become an Achilles' heel.``",
+    "significantChanges": true,
+    "changeReason": "Old adds 'biological weapons' not in the JPN; new correctly says 'the fact that such research was conducted on Japanese soil could become an Achilles' heel' matching the JPN's deliberate avoidance of naming weapons.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 3922,
+    "TextENGNew": "The Irie Institute is to cease all related research immediately and destroy everything pertaining to it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 3923,
+    "TextENGNew": "\"Understood. We will comply with your directives.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 3924,
+    "TextENGNew": "Irie answered without hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 3925,
+    "TextENGNew": "Irie had always been proactive about finding a cure but thoroughly disinterested in everything else. The military applications had never held the slightest interest for him. He accepted the directive as a welcome development.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 3926,
+    "TextENGNew": "Of course, this was deeply frustrating for me. Because it threatened to restrict the Irie Institute's research to nothing more than treating Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 3927,
+    "TextENGNew": "...To me, the treatment research was merely a byproduct of the process of uncovering the syndrome's full truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 3928,
+    "TextENGNew": "\"Additionally, regarding the Irie Institute, we plan to conclude your research within a maximum of three years. The budget will be reduced in stages accordingly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 3929,
+    "TextENGNew": "\"W-Wait, please...! We've only recently begun to understand Hinamizawa Syndrome, and we're in the midst of advancing our treatment research.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 3930,
+    "TextENGNew": "We are making progress every day, but I cannot guarantee that our work can be completed within as short a period as three years!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 3931,
+    "TextENGNew": "\"It is the board's understanding that the Irie Institute has already completed sufficient research to produce a viable treatment. You've already developed the C117 vaccine and accumulated substantial clinical data\\u2014\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 3932,
+    "TextENGNew": "\"No, it's far from complete! It's still only a prototype, and we have absolutely no timeline for being able to treat all the villagers!",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 3933,
+    "TextENGNew": "Discussing the termination of our research at this stage is nothing short of reckless!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 3934,
+    "TextENGNew": "I was surprised that Irie pushed back so forcefully. Thanks to him, I didn't have to be the one making a scene. ...If he hadn't objected, I surely would have been shrieking in protest.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 3935,
+    "TextENGNew": "\"In that case, you are confirming that the Irie Institute is not yet capable of curing all infected individuals or fully eradicating Hinamizawa Syndrome, correct?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 3936,
+    "TextENGNew": "\"Correct. Of course, curing all villagers and eradicating the syndrome is not impossible in the future\\u2014that remains our ultimate goal.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 3937,
+    "TextENGNew": "But achieving that requires sufficient time, and naturally, adequate funding as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 3938,
+    "TextENGNew": "Our work is to investigate, develop practices, and establish results. This is fundamentally different from manufacturing, where following a blueprint guarantees a product within a set timeframe. I ask that you not confuse the two.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 3939,
+    "TextENGNew": "Irie could be surprisingly assertive when the situation demanded it. And what he said was entirely right. Research doesn't guarantee results simply because you throw money and time at it.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 3940,
+    "TextENGNew": "...Still, I couldn't agree with everything he said. He was objecting to the timeline and budget, but he was essentially accepting the restriction of our research to treatment alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 3941,
+    "TextENGNew": "That wouldn't do. We'd never unravel the mysteries that way. The discovery of Hinamizawa Syndrome would never be recognized as my grandfather's great achievement!",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 3942,
+    "TextENGNew": "\"I see. Your point is well taken, Director Irie. Our primary concern is the complete disposal of all evidence that military research was conducted.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 3943,
+    "TextENGNew": "Therefore, we believe that all traces of research into Hinamizawa Syndrome, including the very fact of its existence, should be concealed.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 3944,
+    "TextENGNew": "If the syndrome can be eradicated without the public ever learning of it, then the necessary time and funding would naturally be indispensable. ...Shall we discuss the specifics at a later date?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 3945,
+    "TextENGNew": "\"Yes. I have no objections.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 3946,
+    "TextENGNew": "\"Then, please prepare and submit a plan and budget proposal for the covert eradication of Hinamizawa Syndrome as soon as possible. We will do our utmost to accommodate your recommendations.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 3947,
+    "TextENGNew": "\"Understood. I will have it submitted promptly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 3948,
+    "TextENGNew": "\"Please understand\\u2014our intention is not to halt your research immediately. We wish to bring it to a satisfactory conclusion. Please appreciate that distinction.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 3949,
+    "TextENGNew": "\"Yes, of course. I understand completely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 3950,
+    "TextENGNew": "......While this exchange was taking place, I sat stunned by a single phrase they had uttered.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 3951,
+    "TextENGNew": "Eradicate the syndrome in secrecy.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 3952,
+    "TextENGNew": "That was the same as saying Hinamizawa Syndrome had never existed. ...If that happened, my grandfather's achievement would never be honored by anyone...",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 3953,
+    "TextENGNew": "In the meeting room, where only the rustle of papers and the drone of proceedings could be heard, I sat clenching my sweating palms, hearing nothing but the tick of the clock......",
+    "significantChanges": false
+  }
+]

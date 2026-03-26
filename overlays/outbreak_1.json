@@ -1,0 +1,416 @@
+[
+  {
+    "index": 2,
+    "MessageID": 153421,
+    "TextENGNew": "\"This is the Japan Ground Self-Defense Force! As of 0400 hours today, the Hinamizawa district and surrounding areas designated by the prefectural governor have been placed under epidemic quarantine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 153422,
+    "TextENGNew": "\"We ask all residents to please remain in your homes and await further instructions. Please use disaster management radio broadcasts, television, and radio to stay informed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 153423,
+    "TextENGNew": "\"You will not be permitted to leave this district until epidemic safety can be confirmed. We repeat—you will not be permitted to leave this district! Anyone who fails to comply will be subject to punishment under domestic law! Please, everyone—return to your homes and remain calm!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'dealt with according to national law' (vague consequence) while new says 'subject to punishment under domestic law' (explicit punishment), making the threat more concrete; this matches the Japanese 処罰されます (will be punished).",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 153424,
+    "TextENGNew": "The voice crackled through the rough speaker, nearly swallowed by the roar of the camouflage helicopter thundering overhead.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 153425,
+    "TextENGNew": "\"...a previously unidentified virus has been detected. It falls into the most dangerous classification among viruses designated by the WHO, the World Health Organization...\"",
+    "significantChanges": true,
+    "changeReason": "Old adds 'the outbreak of' which isn't in the Japanese (ウィルスが検出された means simply 'virus was detected'); also old says 'most hazardous of viruses' while new says 'most dangerous classification among viruses', with new being closer to the JPN 最も危険な分類.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 153426,
+    "TextENGNew": "\"Several government sources have already confirmed that the American government has offered emergency assistance in developing a vaccine. The government is believed to have begun preparations to accept that aid.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 153427,
+    "TextENGNew": "\"This virus has an incubation period of thirty to fifty days, and securing enough vaccine for the two thousand quarantined residents has become an urgent priority.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 153428,
+    "TextENGNew": "\"At present, phone lines to the Hinamizawa district are completely flooded and nearly all calls are failing to connect. The prefectural disaster prevention headquarters warns that this congestion threatens its ability to assess the situation...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 153429,
+    "TextENGNew": "\"Furthermore, the use of tap water and well water is strictly prohibited! Please consume only water provided by Self-Defense Force water supply trucks! Additionally, illegal parking on roads will hinder disaster relief efforts. Please move your vehicles immediately!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 153430,
+    "TextENGNew": "\"Representative Kaihara of the Shamei Party has criticized the disaster dispatch order for bypassing proper procedures, denouncing it as a regression toward militarism and warning it could lead to Japan's further isolation within the Asian political community...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 社明党 as 'Democratic Socialist Party' (a real party name) while new uses 'Shamei Party' (the fictional party name); also the name 海原 is read as 'Unabara' in old vs 'Kaihara' in new, which are different valid readings of the kanji.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 153431,
+    "TextENGNew": "\"This is the Disaster Countermeasures Headquarters! Beginning at noon today, simultaneous medical examinations will be conducted at the following locations. Please assemble in accordance with instructions from your town or neighborhood council. Unless you have extenuating circumstances, you must attend! If you are experiencing any abnormal symptoms, please be sure to report...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 災害対策本部 as 'Prefecture Disaster Prevention Center' which is a different organization name; new correctly renders it as 'Disaster Countermeasures Headquarters' matching the Japanese term and the character label.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 153432,
+    "TextENGNew": "\"This is the Japan Ground Self-Defense Force! By order of the prefectural governor, this district has been placed under emergency quarantine for epidemic prevention purposes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 153433,
+    "TextENGNew": "\"You are not permitted to leave the quarantine zone! Food, drinking water, daily necessities, electricity, and freedom of communication will all be secured for you! Please continue to remain calm!!\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 通信の自由 as 'communication systems' (infrastructure) while JPN means 'freedom of communication' (civil rights guarantee); different emphasis in a quarantine context.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 153434,
+    "TextENGNew": "The dull, ordinary rhythm of everyday life was shattered without warning one day.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 153435,
+    "TextENGNew": "Everyone must have woken that morning expecting it to be no different from any other early summer day. The sky was the same blue it always was—and the sun rose without questioning it either.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 153436,
+    "TextENGNew": "But the helicopters circling low with their speakers blaring, and the sight of traffic backed up at the blockade on the main road into town, told everyone plainly that this morning was unlike any that had come before.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 153437,
+    "TextENGNew": "By the time the morning news broadcast, the early chaos had settled into something approaching order.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 153438,
+    "TextENGNew": "The residents of Hinamizawa couldn't help but experience those emergency broadcasts as though they were happening in some distant town... yet this was undeniably an emergency unfolding in the very village they called home...",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 153439,
+    "TextENGNew": "I learned the news the way I always crawled out of bed—slowly, reluctantly—and came downstairs to find my parents glued to the television. I caught a glimpse over their shoulders.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 153440,
+    "TextENGNew": "I wonder how many other villagers uttered the exact same words as I did first.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 153441,
+    "TextENGNew": "\"......Wha... what...? What is this news...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 153442,
+    "TextENGNew": "\"Keiichi! This is terrible! Listen—they've found some horrible virus here in Hinamizawa, and now the whole village is being quarantined!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 153443,
+    "TextENGNew": "\"This is a real problem... when are they going to lift it? I have a meeting in Osaka tomorrow for that event...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 153444,
+    "TextENGNew": "\"Quarantined... so we can't even go into town?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 153445,
+    "TextENGNew": "\"It seems that way... They say they'll provide food and supplies... but what a headache! I was planning to go to that sale in Okinomiya today—our refrigerator is almost completely bare.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 153446,
+    "TextENGNew": "\"More importantly, what even is this virus?! It must be pretty terrifying if they're quarantining the whole area! What's going on with it? Are we infected too?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 153447,
+    "TextENGNew": "\"...Shh! They're explaining it on TV right now!! ...Once symptoms appear, the following develop within approximately one week... ...Oh god,\"",
+    "significantChanges": true,
+    "changeReason": "Old renders the reaction ぅ as 'Hhh!' (a gasp) while new uses 'Oh god,' (a verbal exclamation), giving a different characterization of Keiichi's shock; also new changes 'initial signs appear' to just 'symptoms appear'.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 153448,
+    "TextENGNew": "Our entire family—no, every person in the village must have gone speechless the moment that footage aired.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 153449,
+    "TextENGNew": "...It showed the devastation wrought on a small foreign village, wiped out entirely—the mangled remains of the dead were beyond horrifying to look at.",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'a small African village' while Japanese says 外国の小さな村 (a small foreign village) without naming Africa; new correctly uses 'small foreign village'.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 153450,
+    "TextENGNew": "For viewers watching from the safety of their homes, with no danger to themselves, the urge to see just what harm this mysterious killer virus could do was nothing more than morbid curiosity.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 153451,
+    "TextENGNew": "...But for those of us facing this crisis firsthand... it was far too real, and far too terrifying to endure.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 153452,
+    "TextENGNew": "I glanced up at the clock and realized the time I'd agreed to meet Rena had long since passed. I was already late.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 153453,
+    "TextENGNew": "Normally, Rena would have come to get me herself if I was more than five minutes past our meeting time. ...But that didn't happen this morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 153454,
+    "TextENGNew": "...Of course not. Rena was probably sitting with her own family, just as transfixed by the television as mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 153455,
+    "TextENGNew": "Or worse—maybe this mysterious virus had already taken hold of her, and she was suffering somewhere...",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 153456,
+    "TextENGNew": "The moment that thought entered my mind, I was gripped with worry not just for Rena but for Mion, Satoko, and Rika-chan too.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 153457,
+    "TextENGNew": "I ran to the hallway on impulse, grabbed the receiver, and dialed—but I couldn't even get the usual dial tone.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 153458,
+    "TextENGNew": "...Understandable. Every person in the village, and the countless more who had relatives here, had probably reached for their phones at the same moment I did. It wasn't hard to picture the lines overwhelmed.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 153459,
+    "TextENGNew": "Then I'd just have to visit them in person—to confirm their safety with my own eyes. ...But the virus might be everywhere outside. Would setting foot outdoors be nothing short of suicidal...?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 153460,
+    "TextENGNew": "\"Keiichi! Get over here!! Right now!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 153461,
+    "TextENGNew": "Dad was coming out of his atelier. He was carrying cardboard boxes. Looking closer, they were packed full of duct tape in unopened plastic wrap—supplies he must have been stockpiling for use with his paintings.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 153462,
+    "TextENGNew": "It didn't even occur to me to wonder why he was grabbing duct tape in a crisis. I understood immediately what he was calling me to help with.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 153463,
+    "TextENGNew": "\"Take the second floor, Keiichi! Shut every window tight and seal them with duct tape!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 153464,
+    "TextENGNew": "\"The air conditioner might be connected to the outside air too! Cover the vents with newspaper first, then seal them firmly with duct tape! I'll handle the first floor! Your mother can cover the kitchen!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 153465,
+    "TextENGNew": "\"Dear, it's too late for any of that now. Regular duct tape won't do anything to stop something as microscopic as a virus...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 153466,
+    "TextENGNew": "\"Even so, it's better than nothing!! Just do it!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 153467,
+    "TextENGNew": "Dad barked in a tone that left no room for argument. ...But Mom's reasoning was sound—she was keeping her head remarkably well, all things considered.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 153468,
+    "TextENGNew": "Viruses are far, far smaller than dust particles. Thinking that sealing gaps with hardware-store cloth tape could keep them out was pure delusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 153469,
+    "TextENGNew": "And yet I understood Dad's feelings too. ...This had all come so suddenly. No one could keep their composure.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 153470,
+    "TextENGNew": "Not because there was any scientific basis for it—not even as much more than a superstition or a comfort—he still couldn't stand to do nothing. ...And surely that was far better for his peace of mind than sitting in front of the television.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 153471,
+    "TextENGNew": "When those two started arguing—Mom with her strange stubbornness, Dad with his emotional outbursts—I always retreated upstairs to keep out of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 153472,
+    "TextENGNew": "Mom was right—I knew perfectly well it wouldn't do anything to stop infection. ...But I shared Dad's feeling that I had to do something, even if it was nothing more than a charm, a small prayer.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 153473,
+    "TextENGNew": "I looked out the window. ...The sweeping view before me had moved me deeply when we first moved here—the landscape I'd taken such pride in.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 153474,
+    "TextENGNew": "That magnificent scenery was unchanged: the same Hinamizawa it had been yesterday, its beautiful traditional buildings lining the valley.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 153475,
+    "TextENGNew": "But there was no one to be seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 153476,
+    "TextENGNew": "I couldn't find a single villager working the paddy fields.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 153477,
+    "TextENGNew": "...I'd foolishly assumed that even in a situation like this, the stubborn old farmers wouldn't abandon their work. That naive hope was quickly dashed.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 153478,
+    "TextENGNew": "...I realized then that part of me had wanted to find them there—to find comfort in that one small proof that the world was still turning normally.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 153479,
+    "TextENGNew": "Now even the most stubborn elders were nowhere to be found.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 153480,
+    "TextENGNew": "It wasn't fear of catching the virus that kept them indoors. It was fear of being seen as infected—and cast out from the village.",
+    "significantChanges": true,
+    "changeReason": "Old presents two possibilities ('maybe afraid of virus, or maybe afraid of being thought infected') while JPN and new clearly state it was NOT fear of infection but fear of being seen as infected and cast out; the old mistranslates the definitive negation.",
+    "changeScore": 4
+  },
+  {
+    "index": 62,
+    "MessageID": 153481,
+    "TextENGNew": "In that sense, Dad's amateur instinct to do something—anything—was far more human than Mom's calm insistence on questioning its scientific merit.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 153482,
+    "TextENGNew": "The village lay wrapped in the fear of silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 153483,
+    "TextENGNew": "The only sounds to break it were voices from the disaster management radios, and the overwhelming roar of the Self-Defense Force helicopters.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 153484,
+    "TextENGNew": "Those sounds only made the silence more unsettling, thrown into sharper relief against it.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 153485,
+    "TextENGNew": "...The cicadas had started their chorus, same as any other day...",
+    "significantChanges": true,
+    "changeReason": "Old says the cicadas 'would be starting' (hypothetical) while JPN states they HAD started their chorus as usual (普段通りにセミたちは合唱を始めている); new correctly uses 'had started their chorus, same as any other day'.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 153486,
+    "TextENGNew": "But their song reached no villager's ears...",
+    "significantChanges": false
+  }
+]

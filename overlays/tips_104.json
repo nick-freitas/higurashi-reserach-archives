@@ -1,0 +1,117 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Property Estimate",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 15340,
+    "TextENGNew": "Dear Ritsuko Mamiya\nExecutive Housing Co., Ltd.",
+    "significantChanges": true,
+    "changeReason": "New changes company legal designation from \"Corporation\" to \"Co., Ltd.\" matching the Japanese 株式会社, and removes the Japanese honorific \"-sama\" from the English text.",
+    "changeScore": 1
+  },
+  {
+    "index": 2,
+    "MessageID": 15341,
+    "TextENGNew": "Re: Attached Estimate",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15342,
+    "TextENGNew": "Thank you very much for your continued patronage of our company.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates \"past visits and inquiries to our office\" not present in the Japanese ご愛顧 (patronage); new accurately translates the general expression of gratitude for patronage.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 15343,
+    "TextENGNew": "Regarding the property you inquired about, please find our estimate below.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15344,
+    "TextENGNew": "Details\nProperty Name:  Palace of Versailles, Room 707\nProperty No.:  14M1421",
+    "significantChanges": true,
+    "changeReason": "Old translates 記 as \"Basic Information\" when it means \"Details/Record\"; also changes \"Property Code\" to the more accurate \"Property No.\" for 物件番号.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 15345,
+    "TextENGNew": "Property Type:  New Condominium\nFloor Plan:  2LDK",
+    "significantChanges": true,
+    "changeReason": "Old translates 新築 as \"Modern\" when it means \"newly built/new construction\"; this changes the reader's understanding of the property from stylistically modern to recently constructed.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 15346,
+    "TextENGNew": "Location:  2-chome, Koiwa-cho, Shishibone City@rAccess:  Gogura Station, 5 minutes on foot",
+    "significantChanges": true,
+    "changeReason": "Old fabricates a placeholder 'XXX Line' train line name not in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 15347,
+    "TextENGNew": "Price:  49,800,000 yen    Maintenance Fee:  20,000 yen",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15348,
+    "TextENGNew": "Other:  Southeast corner unit, elevator floor\nFitness club membership within the building included",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15349,
+    "TextENGNew": "Thank you for your inquiry.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15350,
+    "TextENGNew": "This property is a luxury condominium located near Gogura Station, an area currently undergoing rapid development. It is an excellent investment, expected to appreciate further as land values in the surrounding area rise.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15351,
+    "TextENGNew": "We have already received inquiries from several times the number of available units.",
+    "significantChanges": true,
+    "changeReason": "Old vaguely says \"many prospective buyers are interested\" while the Japanese specifies inquiries exceeding available units by several times (募集数の数倍), a concrete detail conveying much higher demand.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 15352,
+    "TextENGNew": "Please be advised in advance that selection will therefore be carried out by lottery.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15353,
+    "TextENGNew": "We also offer our \"Celebrity Member Priority Allocation,\" which affords significantly greater advantages in the lottery.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15354,
+    "TextENGNew": "Please feel free to contact our representative for further details.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15355,
+    "TextENGNew": "Executive Housing Co., Ltd.\nCelebrity Account Manager: Kawabata",
+    "significantChanges": true,
+    "changeReason": "New changes company legal designation from \"Corporation\" to \"Co., Ltd.\" matching the Japanese 株式会社.",
+    "changeScore": 1
+  }
+]

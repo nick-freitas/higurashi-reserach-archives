@@ -1,0 +1,140 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11218,
+    "TextENGNew": "[Incident Report 4: The Murder of a Female Detective at Kakiuchi Service Area]",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11219,
+    "TextENGNew": "1. Date of Occurrence\nShowa 58 (1983), August [date redacted]",
+    "significantChanges": true,
+    "changeReason": "New translation preserves 'Showa 58' (昭和５８年) from the Japanese, adding the era-based dating system alongside the Western year.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 11220,
+    "TextENGNew": "2. Location\nKakiuchi Service Area, Kakiuchi City, Aichi Prefecture",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 11221,
+    "TextENGNew": "3. Summary\nA 110 emergency call was placed to the communications dispatch center of the Aichi Prefectural Police Headquarters via a public telephone line.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly specifies '110 emergency call' (１１０番通報) from the Japanese, and changes header from 'Overview' to 'Summary' (概要).",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11222,
+    "TextENGNew": "The call originated from public phone booth No. 8 within the Kakiuchi Service Area. The caller was an anonymous male.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 11223,
+    "TextENGNew": "He said he had stopped at the service area on his way home from a family trip, and upon exiting the restaurant and heading to the public restrooms alone, he spotted someone behaving suspiciously in a nearby parking lot.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 11224,
+    "TextENGNew": "In response to the report, police cruiser No. 7, which had been conducting patrol in the area, was contacted by the Kakiuchi Police Station having jurisdiction over the area, and two officers rushed to the scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 11225,
+    "TextENGNew": "They arrived seventeen minutes after the call and approached a man matching the caller's description for routine questioning, whereupon the suspect immediately fled.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 11226,
+    "TextENGNew": "As he shoved one of the officers in the process, the man was pursued, apprehended, and restrained inside the police vehicle on charges of obstructing official duties.",
+    "significantChanges": true,
+    "changeReason": "Old says officer was 'knocked out' while JPN 突き飛ばした means 'shoved/pushed away' — different severity of the physical confrontation, but both describe an assault on an officer.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 11227,
+    "TextENGNew": "A body search was then conducted, which revealed several tools, a weapon (a knife with a blade under 20 centimeters), and multiple wallets in the pockets of his jacket.",
+    "significantChanges": true,
+    "changeReason": "Original incorrectly pluralizes to 'weapons (knives)'; the Japanese 凶器（ナイフ） is singular: one weapon (a knife).",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 11228,
+    "TextENGNew": "Among these was a driver's license clearly not belonging to the suspect himself, leading to a determination that the crime was vehicle burglary.",
+    "significantChanges": true,
+    "changeReason": "Original says 'not a single one of the wallets had a driver's license that matched him'; the Japanese says 'a driver's license clearly not belonging to him was included among them' -- a different factual claim.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 11229,
+    "TextENGNew": "A Kakiuchi Station detective who arrived shortly afterward confirmed the situation, and the man was arrested on the spot on charges of theft and property destruction, then transported to Kakiuchi Station.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 11230,
+    "TextENGNew": "During subsequent interrogation, one of the detectives noted a striking similarity between the suspect's methods and those of the July murder of Chief Inspector Tomoe Minai (posthumously promoted to Senior Superintendent) which had also taken place at the Kakiuchi Service Area.",
+    "significantChanges": true,
+    "changeReason": "New correctly specifies 'one of the detectives' (捜査員の１人) noted the similarity, where the original generalized to 'investigators' (plural).",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 11231,
+    "TextENGNew": "The man initially denied the charges, but began to confess after investigators pointed out that he had let slip information only the true perpetrator could have known during casual conversation.",
+    "significantChanges": true,
+    "changeReason": "New adds 'during casual conversation' (雑談の際に) from the Japanese, providing important context about how the information was inadvertently revealed.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 11232,
+    "TextENGNew": "He admitted to the murder of Chief Inspector Minai and signed the written statement, upon which he was rearrested on charges of robbery with murder. The prosecution filed for immediate indictment.",
+    "significantChanges": true,
+    "changeReason": "Original omits that the suspect 'signed the written statement' (調書に署名) and was 're-arrested' (再逮捕), both present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 11233,
+    "TextENGNew": "4. Trial Proceedings\nHowever, at the first trial held several months later, the man reversed course and denied all charges.",
+    "significantChanges": true,
+    "changeReason": "New correctly specifies 'the first trial' (一審) where the original just says 'the trial,' losing the legal procedural context.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 11234,
+    "TextENGNew": "His reasoning was that \"the testimony was fabricated by the investigating detective, who twisted responses that had been coerced from an exhausted defendant subjected to relentless interrogation.\"",
+    "significantChanges": true,
+    "changeReason": "New is substantially more accurate to the Japanese: the testimony was 'fabricated by the detective who twisted coerced responses,' not simply 'coerced by detectives.'",
+    "changeScore": 4
+  },
+  {
+    "index": 18,
+    "MessageID": 11235,
+    "TextENGNew": "Some media outlets raised the possibility of wrongful conviction, but given that the defendant had two prior criminal convictions as a habitual thief, the first trial handed down a death sentence.",
+    "significantChanges": true,
+    "changeReason": "Original says 'two previous charges'; the Japanese 前科二犯 means 'two prior convictions,' which is legally distinct -- convictions imply guilt was established.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 11236,
+    "TextENGNew": "The defendant filed an appeal that same day, and the case is currently under retrial...",
+    "significantChanges": true,
+    "changeReason": "Original says 'awaiting a new trial'; the Japanese 再審理中 means 'currently under retrial,' indicating proceedings are already underway.",
+    "changeScore": 3
+  }
+]

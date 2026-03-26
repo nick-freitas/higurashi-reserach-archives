@@ -1,0 +1,1960 @@
+[
+  {
+    "index": 1,
+    "MessageID": 101146,
+    "TextENGNew": "``What?!@k@vS12/01/180100150. I-I do feel like I heard someone mention something like that, but... they were actually serious?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 101147,
+    "TextENGNew": "...You know how people make those polite, feel-good suggestions as a social courtesy?",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 101148,
+    "TextENGNew": "The kind where you just laugh and say, 'Yeah, that'd be nice,' without really meaning it.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 101149,
+    "TextENGNew": "Those things are fine precisely because they stay as jokes -- but when they actually become real, that's a whole different story!!",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 101150,
+    "TextENGNew": "``Yeah, dead serious!@k@vS12/03/180300051. Uncle Yoshirou was singing your praises too!@k@vS12/03/180300052. He said the way you livened things up during yesterday's club game at the toy store was absolutely spectacular!``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 101151,
+    "TextENGNew": "``Rena had no idea you could play a game like that or make things so exciting!``",
+    "significantChanges": true,
+    "changeReason": "Rena speaks in third person in the Japanese ('レナも'); original omits this and uses 'I' while new correctly preserves Rena's characteristic third-person speech pattern.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 101152,
+    "TextENGNew": "``Just between us, the kids sitting near me were saying they wished they could've been at Keiichi-san's table instead!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds Keiichi-san's name and specifies the children wished they'd been at his table, matching the Japanese more closely than the original's vaguer version.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 101153,
+    "TextENGNew": "``...Keiichi is a genius when it comes to making any game look like the most fun in the world.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 101154,
+    "TextENGNew": "Come on, I wasn't out there having fun -- I was pouring every last ounce of energy into winning because I couldn't afford to lose...",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 101155,
+    "TextENGNew": "But apparently, me going all out like that looked incredibly entertaining to everyone watching.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 101156,
+    "TextENGNew": "``It's true -- Kei-chan always brings such energy to our regular club activities.@k@vS12/06/180600002. The Coach was saying the Hinamizawa Fighters would really come alive if Kei-chan joined the team.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 101157,
+    "TextENGNew": "``He certainly was.@k@vS12/22/181400002. At last night's meeting, Dr. Irie had nothing but praise for you, Maebara-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 101158,
+    "TextENGNew": "``Keiichi-kun, you have a far greater power to make people enjoy themselves than you give yourself credit for.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 101159,
+    "TextENGNew": "``...Y-You really think so...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 101160,
+    "TextENGNew": "``This old man didn't put your name forward just because you're one of my friends.@k@vS12/03/180300054. Kei-chan, you genuinely earned it!``",
+    "significantChanges": true,
+    "changeReason": "Original 'He did it because he's confident you can do the job' differs from new 'Kei-chan, you genuinely earned it'; the Japanese emphasizes believing Keiichi can fulfill the important role.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 101161,
+    "TextENGNew": "``I was at the meeting too, and I was surprised that not a single person objected.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 101162,
+    "TextENGNew": "``You have a much better reputation around the village than you realize, Maebara-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 101163,
+    "TextENGNew": "``You're well known in Okinomiya too.@k@vS12/06/180600004. People are still talking about that incredible play you made against the Okinomiya Titans the other day.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 101164,
+    "TextENGNew": "``It truly was something else...@k@vS12/04/180400074. Even the reporters who came for Kameda-kun were blown away!``",
+    "significantChanges": true,
+    "changeReason": "Honorific change from 'Kameda-san' to 'Kameda-kun'; Japanese uses '亀田さん' (san), so the original is accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 101165,
+    "TextENGNew": "...Ah, that rigged baseball match with Kameda-kun...",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 101166,
+    "TextENGNew": "As far as the public was concerned, the Koshien-bound pitcher walked me because my batting eye intimidated him...",
+    "significantChanges": true,
+    "changeReason": "Japanese '甲子園ピッチャー' specifically means 'Koshien pitcher'; original's generic 'talented pitcher' loses this culturally significant reference.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 101167,
+    "TextENGNew": "Kameda-kun and I have had a strange senpai-kouhai dynamic ever since, but I'll leave that story for another time...",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 101168,
+    "TextENGNew": "``What do you say, Keiichi-kun?@k@vS12/02/180200030. Rena believes you have the talent for this.@k@vS12/02/180200031. So why not give it a try?``",
+    "significantChanges": true,
+    "changeReason": "New translation omits the specific mention of the Watanagashi committee role that is present in the Japanese and the original translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 101169,
+    "TextENGNew": "Watanagashi is an annual village festival held every June.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 101170,
+    "TextENGNew": "It's apparently the biggest event on the village calendar, drawing nearly every resident for a huge, lively celebration.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 101171,
+    "TextENGNew": "Naturally, an event that large requires an organizing committee centered on the neighborhood association, and they'd been holding meetings and coordinating preparations for months.",
+    "significantChanges": true,
+    "changeReason": "New translation adds details about the 'neighborhood association' and 'months' of preparation that are present in the Japanese but omitted in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 101172,
+    "TextENGNew": "The festival was only two weeks away, and here they were asking me -- someone who'd barely just moved here -- to join the committee out of the blue!",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 101173,
+    "TextENGNew": "``F-First of all, I don't know the first thing about committee work, so I'd be completely useless!``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 101174,
+    "TextENGNew": "``Don't let the fancy title scare you!``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 101175,
+    "TextENGNew": "``The job we unanimously want you for is -- drumroll please -- emcee for the bargain auction!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 101176,
+    "TextENGNew": "``Wh-What the heck is that?!@k@vS12/01/180100154. Am I supposed to be hawking bananas?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 101177,
+    "TextENGNew": "``Let me explain that part.@k@vS12/22/181400005. This year's festival is trying something new: an auction-style event where donated items are sold off to raise funds.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 101178,
+    "TextENGNew": "``Ahaha, there's kind of a complicated story behind it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 101179,
+    "TextENGNew": "``The committee wanted to collect donated items and use them as prizes for some kind of event everyone could participate in,@k@vS12/03/180300059. but lotteries and raffles are strictly off the table.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 101180,
+    "TextENGNew": "``Long story short, our grandmother threw a fit ages ago and then couldn't back down.@k@vS12/06/180600007. So lotteries have been banned ever since.``",
+    "significantChanges": true,
+    "changeReason": "Original 'she didn't really consider any specifics' completely misses the Japanese point about lotteries being banned; new correctly conveys this.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 101181,
+    "TextENGNew": "``Yeah... ahahaha...@k@vS12/03/180300061. Anyway, that's why we needed to come up with some other fun event where people could win prizes, and we settled on the auction idea.``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 101182,
+    "TextENGNew": "``An auction sounds really fun!@k@vS12/02/180200034. You might be able to snag something incredible for cheap!``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 101183,
+    "TextENGNew": "``And since everything was donated, the cost to the committee is zero.@k@vS12/04/180400076. The organizers certainly know how to turn a profit.``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 101184,
+    "TextENGNew": "``...All the profits go toward the bubbly barley tea fund for the committee's winter hot-spring trip.@k@vS12/05/180500174. That's not fair.``",
+    "significantChanges": true,
+    "changeReason": "Japanese '泡麦茶' (bubbly barley tea) is a humorous euphemism for beer; original translates directly as 'beer' while new preserves the joke.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 101185,
+    "TextENGNew": "``Furude-san, you are far too young for bubbly barley tea!``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 101186,
+    "TextENGNew": "``I-I think I get the gist of it now...@k@vS12/01/180100156. ...But I've never hosted an auction before. How am I supposed to do this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 101187,
+    "TextENGNew": "``I'm sure you can do it, Keiichi-kun.@k@vS12/02/180200037. Plus, you get ten percent of the proceeds as spending money. Isn't that great?``",
+    "significantChanges": true,
+    "changeReason": "Original frames the 10% as a hypothetical motivator; new presents it as an actual arrangement, changing the nature of the offer.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 101188,
+    "TextENGNew": "``W-Well, when you put it that way...@k@vS12/01/180100158. If I get something based on performance, then yeah, I'd be giving it my all!``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 101189,
+    "TextENGNew": "``On the other hand, there might be a dreadful penalty game waiting if you don't deliver results.``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 101190,
+    "TextENGNew": "``W-Wait a second, Satoko!@k@vS12/01/180100160. Why would I agree to something with that kind of risk?!``",
+    "significantChanges": true,
+    "changeReason": "New translation truncates the last portion about being in an asking position, losing content present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 101191,
+    "TextENGNew": "``I'm a very busy guy, you know!@k@vS12/01/180100163. Talk to my manager about my schedule first!``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 101192,
+    "TextENGNew": "``Ahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 101193,
+    "TextENGNew": "``So what do you say, Kei-chan?@k@vS12/03/180300065. If you need some kind of reward, I'll negotiate the terms and conditions for you. How's that sound?``",
+    "significantChanges": true,
+    "changeReason": "New translation significantly restructures and truncates Mion's dialogue, losing her promise to make maximum accommodations.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 101194,
+    "TextENGNew": "``Oho!@k@vS12/01/180100165. Now that's generous!@k@vS12/01/180100166. Let me think about what to ask for...``",
+    "significantChanges": true,
+    "changeReason": "Original 'That sounds interesting' vs new 'Now that's generous!' -- different reactions; Japanese 'ほー！太っ腹' means 'how generous!' matching the new version.",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 101195,
+    "TextENGNew": "``We always talk about what the punishment should be, but I think this might be the first time we've ever discussed what the reward should be!``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 101196,
+    "TextENGNew": "``Now that you mention it, you're right.@k@vS12/04/180400079. We really do spend all our time fighting under the harshest conditions.``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 101197,
+    "TextENGNew": "Rena had a point.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 101198,
+    "TextENGNew": "...Fundamentally, club activities are all about escaping the penalty game -- that's the primary motivation.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 101199,
+    "TextENGNew": "Aiming for first place is a matter of principle, sure, but it's not like we play for prizes or rewards.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 101200,
+    "TextENGNew": "``...Keiichi is so flustered by this rare sweet deal that he doesn't know what to do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 101201,
+    "TextENGNew": "``Mii-chan, can't you suggest something?@k@vS12/02/180200040. When someone says 'anything goes,' it actually makes it harder to decide.``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 101202,
+    "TextENGNew": "``Hmm, let me think...@k@vS12/03/180300069. Ah, how about this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 101203,
+    "TextENGNew": "``An admission ticket to Angel Mort's Dessert Fiesta!``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 101204,
+    "TextENGNew": "``Come on, Sis, don't be stingy. Just give him like three whole years' worth.``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 101205,
+    "TextENGNew": "``Oh my!@k@vS12/04/180400081. Now that's a lavish reward!``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 101206,
+    "TextENGNew": "``If I remember right, Dessert Fiesta tickets are impossibly hard to get, and there's even a black market for them, right?@k@vS12/01/180100168. You can really arrange that?``",
+    "significantChanges": true,
+    "changeReason": "New translation adds the specific name 'Dessert Fiesta' (デザートフェスタ) from the Japanese, which the original omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 101207,
+    "TextENGNew": "``Of course -- but it's performance-based!@k@vS12/03/180300072. You'd better bring the house down, or no deal!``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 101208,
+    "TextENGNew": "``Don't worry.@k@vS12/02/180200042. With Keiichi-kun running it, it's guaranteed to be a blast!``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 101209,
+    "TextENGNew": "``I completely agree.@k@vS12/06/180600009. Honestly, I can't wait to see what kind of outrageous sales pitches he comes up with.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 101210,
+    "TextENGNew": "``He could probably get people lining up for takoyaki with no octopus in it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 101211,
+    "TextENGNew": "``Hey, hey -- even I couldn't sell octopus-less takoyaki...``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 101212,
+    "TextENGNew": "``No, no... I bet you actually could, Kei-chan!``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 101213,
+    "TextENGNew": "``Yeah!@k@vS12/02/180200044. He'd probably call it a wholesome, healthy wheat-flour treat or something.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 101214,
+    "TextENGNew": "``Are you guys flattering me or making fun of me? I honestly can't tell...``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 101215,
+    "TextENGNew": "``What do you say, Maebara-kun?@k@vS12/22/181400008. I'm sure you'll do a wonderful job of exciting the crowd.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 101216,
+    "TextENGNew": "Incidentally, Chie-sensei was on the committee too.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 101217,
+    "TextENGNew": "She must have thrown her full support behind Mion's recommendation.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 101218,
+    "TextENGNew": "``...I want to see Keiichi's silver-tongue magic too.@k@vS12/05/180500177. Nipah~``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 101219,
+    "TextENGNew": "``Even banana hawkers succeed because people are so charmed by the showmanship that they can't help buying.``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 101220,
+    "TextENGNew": "``The Keiichi Maebara One-Man Show!@k@vS12/04/180400084. That sounds like such fun!``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 101221,
+    "TextENGNew": "``Hey, I haven't actually said I'd do it yet!``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 101222,
+    "TextENGNew": "``Don't worry, Keiichi-kun. You can do it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 101223,
+    "TextENGNew": "``Easy for you to say when it's not your problem, Rena!``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 101224,
+    "TextENGNew": "``Hau, that's not what I meant!``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 101225,
+    "TextENGNew": "The principal, who had been silently observing the exchange, finally spoke up.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 101226,
+    "TextENGNew": "``What say you, Maebara-kun?@k@vS12/00/183200002. I too believe you're up to the task.``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 101227,
+    "TextENGNew": "``Hmmmmmm...``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 101228,
+    "TextENGNew": "``As a man, won't you step up and meet everyone's expectations...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 101229,
+    "TextENGNew": "If they told me to do it, I could probably manage.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 101230,
+    "TextENGNew": "I'd crossed plenty of dangerous bridges in Mion's club activities by now.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 101231,
+    "TextENGNew": "All reward with no penalty game -- I'd never heard of such cushy terms before.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 101232,
+    "TextENGNew": "It would probably be fun if I took it on...",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 101233,
+    "TextENGNew": "More than anything, this was the first time in my life that so many people had placed their hopes in me for something.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 101234,
+    "TextENGNew": "If I'm being honest, it made me a little happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 101235,
+    "TextENGNew": "...Still, a small part of me wondered if I was being sweet-talked into shouldering a bothersome role.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 101236,
+    "TextENGNew": "That thought crossed my mind briefly.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 101237,
+    "TextENGNew": "But that was the kind of thinking that belonged somewhere other than Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 101238,
+    "TextENGNew": "Here in Hinamizawa, when these people smiled and talked like this, there wasn't an ounce of ulterior motive.",
+    "significantChanges": true,
+    "changeReason": "Original 'The people in this village would never do anything to betray me' is a broader claim than the new translation's scene-specific observation about no ulterior motives; the Japanese describes the specific moment.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 101239,
+    "TextENGNew": "They genuinely believed that if I became the emcee, the festival would come alive and become an unforgettable memory for everyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 101240,
+    "TextENGNew": "In the short but incredibly rich time since I'd transferred here, I already knew that about them.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 101241,
+    "TextENGNew": "``All right...@k@vS12/01/180100176. I'm a man, after all.@k@vS12/01/180100177. If you're all going to put it that way, I can't exactly turn you down!``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 101242,
+    "TextENGNew": "``Just you watch -- when I take something on, I go all out! I'll blow that auction wide open!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 101243,
+    "TextENGNew": "``And don't forget those Angel Mort tickets! I'll put on such a show you'll want to give me not three years' worth, but ten!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 101244,
+    "TextENGNew": "``That's the spirit, Kei-chan!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 101245,
+    "TextENGNew": "Everyone applauded.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 101246,
+    "TextENGNew": "...How many times in my life had I received applause that was genuinely meant to celebrate me?",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 101247,
+    "TextENGNew": "Never.@k This was truly the first time.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 101248,
+    "TextENGNew": "``Still, I'm surprised the committee actually agreed to nominate a kid like me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 101249,
+    "TextENGNew": "You'd expect the neighborhood association to be full of stubborn old folks with no patience for youngsters.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 101250,
+    "TextENGNew": "On top of that, I was a city kid who'd only just moved here -- a total outsider.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 101251,
+    "TextENGNew": "...Even granting that Mion carried considerable influence within the association, it was remarkable they'd accepted someone like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 101252,
+    "TextENGNew": "``Well, most of them are pretty set in their ways...@k@vS12/06/180600011. But times are gradually changing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 101253,
+    "TextENGNew": "``Hinamizawa won the dam conflict, and now we need to build a new era and keep growing stronger.@k@vS12/03/180300077. So welcoming young people and outsiders is essential!``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 101254,
+    "TextENGNew": "``...Keiichi is young, from the city, and well-liked on top of that -- a perfect fit.``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 101255,
+    "TextENGNew": "``Well-liked, huh?@k@vS12/01/180100182. I honestly can't figure out why so many people around here know who I am.``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 101256,
+    "TextENGNew": "``It probably has a lot to do with Mii-chan's penalty games, I think... I think.``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 101257,
+    "TextENGNew": "``I knew it!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 101258,
+    "TextENGNew": "````Ahahahahahahahaha!````",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 101259,
+    "TextENGNew": "``Then it's settled.@k@vS12/22/181400010. I'll call your parents tonight to explain, so please mention it to them yourself as well, Maebara-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 101260,
+    "TextENGNew": "Well, I supposed parental consent would be necessary.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 101261,
+    "TextENGNew": "...My parents wouldn't object.@k If anything, I'd probably be peppered with questions about why I was nominated...",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 101262,
+    "TextENGNew": "Chie-sensei and the principal praised my decisiveness, then headed back to the faculty room.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 101263,
+    "TextENGNew": "This had all happened during lunch break, incidentally.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 101264,
+    "TextENGNew": "When Chie-sensei and the principal showed up together,@k and then Mion announced she had something important to discuss, I'd been thoroughly rattled.@k My stomach was still paying the price.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 101265,
+    "TextENGNew": "``Maebara-san! I heard everything! That's amazing!``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 101266,
+    "TextENGNew": "``Being recommended by the neighborhood association is a real honor...``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 101267,
+    "TextENGNew": "``Oh, Tomita-kun, Okamura-kun.@k@vS12/01/180100185. If it's such an honor, I'd be happy to pass it along to you guys.``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 101268,
+    "TextENGNew": "``N-No way... only you could pull it off, Maebara-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 101269,
+    "TextENGNew": "Looking around, the entire class was buzzing about me accepting the emcee role.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 101270,
+    "TextENGNew": "They were saying things like how this year's Watanagashi was going to be so much fun, and how they couldn't wait.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 101271,
+    "TextENGNew": "...The weight of responsibility only seemed to grow.@k Well, now that I'd accepted, I had to go all out!",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 101272,
+    "TextENGNew": "``Oh, right -- I almost forgot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 101273,
+    "TextENGNew": "``My Granny made a mountain of ohagi.@k@vS12/03/180300081. She told me to bring them for everyone at school.``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 101274,
+    "TextENGNew": "Mion clapped her hands as if suddenly remembering, then opened the large bag she'd had with her since that morning and set a furoshiki-wrapped box on the desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 101275,
+    "TextENGNew": "When she lifted the lid, there inside was a generous array of ohagi, neatly lined up in rows.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 101276,
+    "TextENGNew": "``My, there are so many!@k@vS12/04/180400087. There might even be enough for the whole class!``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 101277,
+    "TextENGNew": "``Hauuu!!@k@vS12/02/180200050. So cuuute and yummy-looking!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 101278,
+    "TextENGNew": "``For some reason, Granny just loves making ohagi!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 101279,
+    "TextENGNew": "``...That's because Souhei loved them so much.``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 101280,
+    "TextENGNew": "``Ah, right... I heard Gramps used to love ohagi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 101281,
+    "TextENGNew": "``He ate mountains of them!``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 101282,
+    "TextENGNew": "``So for your grandmother, ohagi is something precious that reminds her of your late grandfather.``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 101283,
+    "TextENGNew": "``Really?@k@vS12/06/180600014. I always thought Gramps' favorite food was canned stuff.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 101284,
+    "TextENGNew": "``Heh heh heh!@k@vS12/03/180300085. Shion can't stand canned food, can she?``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 101285,
+    "TextENGNew": "``Huh?@k@vS12/02/180200053. Is that true?@k@vS12/02/180200054. How come?``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 101286,
+    "TextENGNew": "``Hmmmm, how to put it... the canned-food smell...@k@vS12/06/180600016. That peculiar metallic odor just doesn't agree with me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 101287,
+    "TextENGNew": "``Oh, really?!@k@vS12/04/180400089. This coming from the person who forced me to eat pumpkin and lectured me about being a picky eater!``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 101288,
+    "TextENGNew": "``Well, you see, the truth is -- heh heh heh!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 101289,
+    "TextENGNew": "``W-Wait, Sis!@k@vS12/06/180600018. Telling people things they'd rather keep secret is the absolute worst!``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 101290,
+    "TextENGNew": "``I don't know what this is about, but it sounds like Mion's got some rare dirt on Shion.@k@vS12/01/180100187. This is perfect -- avenge all those times she got the better of you!@k@vS12/01/180100188. Come on, spill it!``",
+    "significantChanges": true,
+    "changeReason": "Original 'Tell it to us! Go on!' vs new's encouragement to 'avenge all those times she got the better of you!' -- the Japanese mentions getting back at Shion for past grievances.",
+    "changeScore": 3
+  },
+  {
+    "index": 146,
+    "MessageID": 101291,
+    "TextENGNew": "The reason behind Shion's dislike of canned food was apparently hilarious -- and deeply mortifying for Shion.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 101292,
+    "TextENGNew": "The two sisters tussled for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 101293,
+    "TextENGNew": "Mion's close-range knee barrage wasn't bad, but she apparently hadn't anticipated Shion countering with a captiude throw.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 101294,
+    "TextENGNew": "Shion really was a cut above...",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 101295,
+    "TextENGNew": "``I'd rather explain it myself than let Sis do it.@k@vS12/06/180600020. So, there's this ornery old man named Kasai...``",
+    "significantChanges": true,
+    "changeReason": "Japanese '性質の悪いオヤジ' means 'ill-natured/cantankerous old man'; original's 'bad guy' is too strong while new's 'ornery old man' is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 151,
+    "MessageID": 101296,
+    "TextENGNew": "``And he once told me,@k@vS12/06/180600022. back when I was young and pure and innocent,@k@vS12/06/180600023. that sometimes human flesh gets mixed into canned food...``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 101297,
+    "TextENGNew": "``Ahahahaha, there's urban legends like that, aren't there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 101298,
+    "TextENGNew": "``Totally!@k@vS12/01/180100190. Where I'm from, people used to say the meat in beef bowls is actually dog, or that hamburgers have earthworms mixed in!``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 101299,
+    "TextENGNew": "``Th-Th-That can't be true, can it?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 101300,
+    "TextENGNew": "``Now I'll never be able to eat beef bowls or hamburgers again...``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 101301,
+    "TextENGNew": "``Exactly, Satoko!@k@vS12/06/180600025. I'm a victim of trauma here!``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 101302,
+    "TextENGNew": "``You have my sympathy, but it's nowhere near enough to cancel out the grudge I hold over that pumpkin full-course meal!``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 101303,
+    "TextENGNew": "``Satoko holds grudges too long.@k@vS12/05/180500182. I thought it was delicious and gobbled it right up.``",
+    "significantChanges": true,
+    "changeReason": "Original 'You need to let go of that one' is generic advice; new 'Satoko holds grudges too long' correctly identifies who is being discussed and matches the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 159,
+    "MessageID": 101304,
+    "TextENGNew": "``Ahaha!@k@vS12/01/180100192. You know, all this talk...@k@vS12/01/180100193. makes me wonder if Mion's ohagi have some kind of surprise hidden in them too!``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 101305,
+    "TextENGNew": "``Oh?@k@vS12/03/180300088. These are ohagi that I brought, after all.@k@vS12/03/180300089. You can't exactly guarantee there's nothing suspicious inside, can you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 101306,
+    "TextENGNew": "...Mion's ohagi.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 101307,
+    "TextENGNew": "...Knowing Mion, it would be stranger if she hadn't done something to them.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 101308,
+    "TextENGNew": "...What was this feeling?@k Something... I felt like I was forgetting something...",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 101309,
+    "TextENGNew": "But I had no idea what.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 101310,
+    "TextENGNew": "It must be one of those deja vu moments you get when you're tired.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 101311,
+    "TextENGNew": "Something that's happening for the first time, yet your mind tells you that you already know about it... a minor glitch in memory.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 101312,
+    "TextENGNew": "``...What's wrong, Keiichi?``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 101313,
+    "TextENGNew": "``Nothing...@k@vS12/01/180100195. I just feel like Mion's given me ohagi before...@k@vS12/01/180100196. Must be my imagination.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 101314,
+    "TextENGNew": "``Really?@k@vS12/02/180200057. Mii-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 101315,
+    "TextENGNew": "``I think this is the first time, isn't it?@k@vS12/03/180300092. You must be confusing it with something else.``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 101316,
+    "TextENGNew": "``As far as I remember, this is the first time Mion-san has brought ohagi to school this year.``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 101317,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 101318,
+    "TextENGNew": "``Ahhh, I get it.@k@vS12/03/180300094. Since it's this old man who brought the ohagi, you're worried there's some kind of trap, aren't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 101319,
+    "TextENGNew": "``That's nothing to brag about. You should be reflecting on your usual behavior instead.``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 101320,
+    "TextENGNew": "``...Hahaha, you're right.@k@vS12/01/180100198. If Rena or someone had made these ohagi, I wouldn't feel this way at all.@k@vS12/01/180100199. Knowing it's from Mion just makes me a little wary.``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 101321,
+    "TextENGNew": "``...Huh?@k@vS12/02/180200059. Rena's never made ohagi before, though...``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 101322,
+    "TextENGNew": "...Wait, what?@k ...Right...?",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 101323,
+    "TextENGNew": "Why did I just say Rena had made ohagi...?",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 101324,
+    "TextENGNew": "Why would I know that Rena's ohagi would be small but carefully made...?",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 101325,
+    "TextENGNew": "...???",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 101326,
+    "TextENGNew": "A confusion of memories I couldn't account for even to myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 101327,
+    "TextENGNew": "It would all be settled if I just admitted it was a mistake on my part.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 101328,
+    "TextENGNew": "Mion herself was saying this was the first time she'd brought ohagi.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 101329,
+    "TextENGNew": "While I sat there tilting my head in puzzlement, everyone else had already started reaching for the ohagi.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 101330,
+    "TextENGNew": "Rena took one out for me and placed it on the lid of a tupperware container.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 101331,
+    "TextENGNew": "For some reason, I found myself staring at it intently.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 101332,
+    "TextENGNew": "What was it that bothered me so much...?",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 101333,
+    "TextENGNew": "Mion assumed I was worried she'd done something suspicious to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 101334,
+    "TextENGNew": "...But 'worried' didn't quite describe it.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 101335,
+    "TextENGNew": "How could I put it...",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 101336,
+    "TextENGNew": "...It was like a sense of obligation to remember something I'd forgotten.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 101337,
+    "TextENGNew": "I had completely forgotten something I was supposed to remember,@k and all that remained was this nagging sense of duty, prodding at me -- a strange sensation.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 101338,
+    "TextENGNew": "Just a single ohagi sat before me. An ohagi that Mion had simply brought from home. Nothing more.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 101339,
+    "TextENGNew": "...A dull restlessness quietly gnawed at me.@k But I truly had no idea what it was about.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 101340,
+    "TextENGNew": "There was no way for me to remember in the first place.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 101341,
+    "TextENGNew": "...Because I 'didn't know.'",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 101342,
+    "TextENGNew": "``...Keiichi, you've been staring at that ohagi for a while now. What's the matter...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 101343,
+    "TextENGNew": "``Oh, it's just... deja vu, I think.@k@vS12/01/180100202. You know that feeling?@k@vS12/01/180100203. Where something is happening for the first time, but you feel like you've done it before?``",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 101344,
+    "TextENGNew": "``...Keiichi... you feel as though Mion has given you ohagi before...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 101345,
+    "TextENGNew": "``...Hahaha, it's just my imagination, I'm sure.@k@vS12/01/180100205. Mion herself just said she doesn't remember anything like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 101346,
+    "TextENGNew": "``...Keiichi.@k@vS12/05/180500188. Memories that don't exist can't exist.@k@vS12/05/180500189. If you remember it, then it happened. ...I want you to believe that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 101347,
+    "TextENGNew": "...Rika-chan was saying something strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 101348,
+    "TextENGNew": "Normally, I would have brushed it off as one of her playful non sequiturs...",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 101349,
+    "TextENGNew": "...But ever since I'd witnessed her 'prediction' at the toy store the other day, I'd started half-believing what the village elders said about Rika-chan's mystical powers.",
+    "significantChanges": true,
+    "changeReason": "New translation more accurately conveys the Japanese, specifying the village elders' claims about Rika-chan's powers, while the original vaguely says 'curious about her special powers.'",
+    "changeScore": 3
+  },
+  {
+    "index": 205,
+    "MessageID": 101350,
+    "TextENGNew": "So it felt like her words carried some deeper meaning.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 101351,
+    "TextENGNew": "``Heh, coming from Rika the Great Prophet, that gives me a kind of eerie feeling.@k@vS12/01/180100207. You mean like reincarnation and past lives, that sort of thing?``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 101352,
+    "TextENGNew": "``...I don't know much about religion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 101353,
+    "TextENGNew": "``I just want to say this... if you know something, then it happened.@k@vS12/05/180500192. So I want you to 'remember' it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 101354,
+    "TextENGNew": "``Don't dismiss it as a mistake. Accept it as a real memory.@k@vS12/05/180500194. ...Do you understand what I'm trying to say...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 101355,
+    "TextENGNew": "``Umm... I guess...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 101356,
+    "TextENGNew": "I was a little taken aback -- I hadn't expected Rika-chan to talk about something so serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 101357,
+    "TextENGNew": "The Rika-chan I knew was a younger girl who goofed around with baby talk like 'mii~' and 'nipah~.'",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 101358,
+    "TextENGNew": "But the Rika-chan in front of me now had a distinctly different air about her.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 101359,
+    "TextENGNew": "Was I supposed to play dumb and deflect with a joke...?",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 101360,
+    "TextENGNew": "But Rika-chan's eyes -- more serious than I'd ever seen them -- made it perfectly clear that now was not the time for levity.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 101361,
+    "TextENGNew": "``If you say so, Rika-chan... then I guess, in some other world or something, I really did get ohagi from Mion.``",
+    "significantChanges": true,
+    "changeReason": "Japanese '別の世界' means 'another world'; original mistranslates as 'previous life' while new correctly says 'in some other world.'",
+    "changeScore": 4
+  },
+  {
+    "index": 217,
+    "MessageID": 101362,
+    "TextENGNew": "``...I won't laugh at you, so please tell me everything.@k@vS12/05/180500196. Where, how, and why did Mii give you ohagi?``",
+    "significantChanges": true,
+    "changeReason": "Japanese asks 'どこでどうして、なぜ' (where, how, why); original only asks 'Why' while new correctly includes all three question words.",
+    "changeScore": 3
+  },
+  {
+    "index": 218,
+    "MessageID": 101363,
+    "TextENGNew": "``The more specifically you ask me when, where, and how... the more it really does feel like it was all just my imagination.@k@vS12/01/180100211. It was probably just a muddled dream I had while half-asleep or something.``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 101364,
+    "TextENGNew": "``...Even if it was a dream, that's fine.@k@vS12/05/180500198. You should remember more than that.@k@vS12/05/180500199. Please, tell me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 101365,
+    "TextENGNew": "What had gotten into her?@k Rika-chan was being unusually persistent.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 101366,
+    "TextENGNew": "I couldn't see why this was such an interesting topic.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 101367,
+    "TextENGNew": "It didn't seem like the kind of thing Rika-chan should be getting this serious about, and I was starting to feel a gap between her intensity and mine.",
+    "significantChanges": true,
+    "changeReason": "Original simplifies to just feeling uncomfortable; new accurately conveys the gap in intensity between Rika and Keiichi that the Japanese describes.",
+    "changeScore": 3
+  },
+  {
+    "index": 223,
+    "MessageID": 101368,
+    "TextENGNew": "But the low-grade restlessness I'd been feeling even before Rika-chan spoke to me was urging me to answer her seriously...",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 101369,
+    "TextENGNew": "...Maybe Rika-chan could do fortune-telling through dream interpretation or something.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 101370,
+    "TextENGNew": "Well, might as well humor her.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 101371,
+    "TextENGNew": "She was the miko of the revered Oyashiro-sama, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 101372,
+    "TextENGNew": "``Ummm...@k@vS12/01/180100213. I think I was staying home from school.@k@vS12/01/180100214. A cold, probably.``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 101373,
+    "TextENGNew": "Fragments of memory, crushed so fine you could call them powder.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 101374,
+    "TextENGNew": "...Beyond them, I could faintly see myself standing at the entrance...",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 101375,
+    "TextENGNew": "...welcoming Mion... and one other person.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 101376,
+    "TextENGNew": "I think it was Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 101377,
+    "TextENGNew": "``And then Mion said she'd brought ohagi as a get-well gift.@k@vS12/01/180100216. Just like today, she said her grandmother made them, I think...``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 101378,
+    "TextENGNew": "``...And then?``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 101379,
+    "TextENGNew": "``...Yeah.@k@vS12/01/180100218. And then I ate the ohagi.@k@vS12/01/180100219. After I saw the two of them off.@k@vS12/01/180100220. And inside...``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 101380,
+    "TextENGNew": "``...Ahahahahaha!@k@vS12/01/180100222. From this point on, I'm definitely just stealing from a manga.@k@vS12/01/180100223. I probably read it when I was a kid and mixed it up with a real memory.``",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 101381,
+    "TextENGNew": "``...Keiichi, keep going.@k@vS12/05/180500202. You ate the ohagi, and inside it...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 101382,
+    "TextENGNew": "``Oh, well... when I was in elementary school, I read this scary manga where someone hid sewing needles inside a hamburger steak.``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 101383,
+    "TextENGNew": "``Ahahaha, you heard what Shion said just now, right?@k@vS12/01/180100227. When something scares you as a kid, it sticks with you as a trauma.``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 101384,
+    "TextENGNew": "My memory of the manga was quite hazy.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 101385,
+    "TextENGNew": "It was about a girl who suffered a disfiguring injury in a chance encounter and cursed the person responsible. Something like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 101386,
+    "TextENGNew": "Looking back now, it was a ridiculously cheap story with no plot coherence, designed solely to frighten readers.@k But for a grade-schooler like me, the oppressive art style had been terrifyingly effective.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 101387,
+    "TextENGNew": "One of the episodes featured a curse that contaminated the victim's food with all sorts of dangerous objects.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 101388,
+    "TextENGNew": "The very first scene was of a dinner hamburger steak with sewing needles hidden inside -- and the victim biting into it, going 'Gyaaah! Guehhh!'",
+    "significantChanges": true,
+    "changeReason": "Japanese 'ハンバーグ' is hamburger steak (a Japanese dish), not a burger; new correctly translates as 'hamburger steak' while original says 'burger.'",
+    "changeScore": 3
+  },
+  {
+    "index": 244,
+    "MessageID": 101389,
+    "TextENGNew": "...Even recalling it now sent a chill through me. It had been an incredibly grotesque and shocking scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 101390,
+    "TextENGNew": "It left a kind of trauma, and for a while afterward, I couldn't eat anything without meticulously checking for needles first.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 101391,
+    "TextENGNew": "So foods you bite into whole -- like rice balls or hamburgers -- were completely off-limits for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 101392,
+    "TextENGNew": "...My parents eventually said something about it, and anyway, a growing boy's appetite always wins over trauma.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 101393,
+    "TextENGNew": "Just like bedwetting, that trivial little trauma eventually cured itself with time...",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 101394,
+    "TextENGNew": "``Even now, if the situation seems even slightly suspicious, a part of me starts wondering if there might be a needle inside.@k@vS12/01/180100229. Of course, I know it's completely irrational.``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 101395,
+    "TextENGNew": "``When we're all sharing lunch together, it would be rude to inspect every bite.@k@vS12/01/180100231. Nobody would ever pull a dangerous prank like putting needles in food. I know that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 101396,
+    "TextENGNew": "``...But you're still a little scared?``",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 101397,
+    "TextENGNew": "``Hmm... the fact that I still can't completely forget about it means... maybe a tiny bit of it lingers somewhere deep down.``",
+    "significantChanges": true,
+    "changeReason": "Original truncates to 'Maybe I am somewhere inside my heart'; new correctly conveys the full Japanese meaning about the inability to forget suggesting something lingers deep down.",
+    "changeScore": 3
+  },
+  {
+    "index": 253,
+    "MessageID": 101398,
+    "TextENGNew": "``...Then... you did find something inside Mii's ohagi...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 101399,
+    "TextENGNew": "...",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 101400,
+    "TextENGNew": "``...A sewing needle.``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 101401,
+    "TextENGNew": "``Yeah.@k@vS12/01/180100234. ...It was in there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 101402,
+    "TextENGNew": "Inside that ohagi... as if answering my fear of needles, there was indeed a needle...",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 101403,
+    "TextENGNew": "...Why was I discussing something so incoherent -- neither waking fantasy nor daydream -- with such dead seriousness?",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 101404,
+    "TextENGNew": "...Mion and Rena came to visit while I was home sick, and left ohagi as a get-well gift.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 101405,
+    "TextENGNew": "...That never happened, so this was obviously a memory error.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 101406,
+    "TextENGNew": "But Rika-chan had said she wouldn't laugh, and told me to talk.@k So I talked.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 101407,
+    "TextENGNew": "``...Keiichi, does this ohagi in front of you right now frighten you? Do you feel like there might be a needle inside?@k@vS12/05/180500207. Is that why you haven't been able to touch it this whole time?``",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 101408,
+    "TextENGNew": "I realized Mion and Rena were looking at me too.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 101409,
+    "TextENGNew": "...They seemed puzzled by the solemn expression on my face as I stared at the ohagi without eating it.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 101410,
+    "TextENGNew": "``Oh... Kei-chan, do you not like ohagi?@k@vS12/03/180300096. If you don't, you don't have to force yourself...``",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 101411,
+    "TextENGNew": "Mion apparently assumed I disliked ohagi.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 101412,
+    "TextENGNew": "...The apologetic look on her face, as if she felt bad for pressuring me to eat something I didn't want, was practically spelled out in letters across her expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 101413,
+    "TextENGNew": "The instant I saw that slightly pained expression on Mion's face, it clawed at my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 101414,
+    "TextENGNew": "``Sis, he obviously thinks you hid something weird inside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 101415,
+    "TextENGNew": "When Shion said that, I reflexively shot back.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 101416,
+    "TextENGNew": "...It was the kind of thing no one else could possibly understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 101417,
+    "TextENGNew": "I didn't even understand what I was saying myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 101418,
+    "TextENGNew": "``No -- I can say with absolute certainty that there are no needles in Mion's ohagi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 101419,
+    "TextENGNew": "``A-A needle?!@k@vS12/03/180300098. Why on earth would this old man put something like that in there!``",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 101420,
+    "TextENGNew": "``Ahahaha... of course you wouldn't.@k@vS12/01/180100237. You're definitely not the type to just show up quietly with a get-well gift.@k@vS12/01/180100238. But you wouldn't pull a dangerous prank either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 101421,
+    "TextENGNew": "``You know where the line is between a joke and something serious.@k@vS12/01/180100240. So something like that would absolutely never happen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 101422,
+    "TextENGNew": "I grabbed the ohagi firmly in my hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 101423,
+    "TextENGNew": "As I brought it to my mouth, the memory of that childhood horror manga surged back one last time, stirring the urge to check the inside before biting in.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 101424,
+    "TextENGNew": "...I spoke firmly to that cowardly part of myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 101425,
+    "TextENGNew": "Hey -- you gutless fool!",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 101426,
+    "TextENGNew": "How long are you going to let some manga you read as a kid scare you?",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 101427,
+    "TextENGNew": "Mion brought these ohagi because she wanted to share them with everyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 101428,
+    "TextENGNew": "There are absolutely no needles in here!!",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 101429,
+    "TextENGNew": "I severed ties with that petty, foolish obsession from my past and bit into the ohagi.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 101430,
+    "TextENGNew": "``...Mmm -- this is great!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 101431,
+    "TextENGNew": "``Of course it is!@k@vS12/03/180300100. There wasn't any needle inside, was there?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 101432,
+    "TextENGNew": "``Obviously not.@k@vS12/01/180100243. I'm really sorry.@k@vS12/01/180100244. I can't believe I let such a stupid trauma hold me back for so long.``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 101433,
+    "TextENGNew": "The knot in my chest dissolved, and a sense of clarity washed over me.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 101434,
+    "TextENGNew": "Then, for some reason, words I felt compelled to say rose up from deep in my chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 101435,
+    "TextENGNew": "...They weren't exactly appropriate for the situation, but I felt I had to say them right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 101436,
+    "TextENGNew": "``Hey, Mion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 101437,
+    "TextENGNew": "``Hm? What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 101438,
+    "TextENGNew": "``The ohagi was delicious.``",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 101439,
+    "TextENGNew": "``Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 101440,
+    "TextENGNew": "``Ahahahahaha -- I'm glad it was worth lugging that huge bag all the way here!``",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 101441,
+    "TextENGNew": "I didn't really understand why I felt the need to tell her again that the ohagi was delicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 101442,
+    "TextENGNew": "But I was glad I said it to Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 101443,
+    "TextENGNew": "...And with that, I was finally released from the vague restlessness that had been gnawing at me all this time.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 101444,
+    "TextENGNew": "``All right, come on!@k@vS12/06/180600029. Satoko, take a page from Kei-chan's book and chomp right into that pumpkin!@k@vS12/06/180600030. Let's go!``",
+    "significantChanges": true,
+    "changeReason": "New translation substantially changes Shion's dialogue, omitting the reference to the food being soft/sweet and restructuring the encouragement differently.",
+    "changeScore": 3
+  },
+  {
+    "index": 300,
+    "MessageID": 101445,
+    "TextENGNew": "``Every single thing in your lunch box turns out to be pumpkin!!@k@vS12/04/180400095. You're giving me a complex!``",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 101446,
+    "TextENGNew": "``Ahahahaha!@k@vS12/02/180200061. Shii-chan is really working hard to cure Satoko-chan's picky eating!``",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 101447,
+    "TextENGNew": "``She's so devoted to the cause, honestly.@k@vS12/03/180300105. Maybe she fancies herself Satoko's future sister? Heh heh heh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 101448,
+    "TextENGNew": "By the time I finished my ohagi, we had settled into our usual, relaxed after-meal conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 101449,
+    "TextENGNew": "``...Keiichi.@k@vS12/05/180500209. Hypothetically?``",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 101450,
+    "TextENGNew": "``Hm?@k@vS12/01/180100248. Hypothetically what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 101451,
+    "TextENGNew": "``...What if a sewing needle really did come out of your food? ...What would you do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 101452,
+    "TextENGNew": "``That's never going to happen.@k@vS12/01/180100250. Don't try to scare me, Rika-chan~``",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 101453,
+    "TextENGNew": "``...Keiichi.@k@vS12/05/180500212. Even so... what if it really did happen...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 101454,
+    "TextENGNew": "As I tried to laugh it off, Rika-chan was serious again.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 101455,
+    "TextENGNew": "...What had gotten into her today...?",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 101456,
+    "TextENGNew": "``You're being persistent.@k@vS12/01/180100252. That's absolutely never going to happen, and I refuse to believe otherwise.``",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 101457,
+    "TextENGNew": "I had just overcome this petty trauma of mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 101458,
+    "TextENGNew": "So I told Rika-chan firmly.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 101459,
+    "TextENGNew": "``I understand.@k@vS12/05/180500214. ...Keiichi.@k@vS12/05/180500215. I'm sorry for being so persistent.@k@vS12/05/180500216. But I want you to remember what you just told me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 101460,
+    "TextENGNew": "``You're telling me not to doubt Mion, right?@k@vS12/01/180100254. Yeah, of course!@k@vS12/01/180100255. I will never doubt my friends!``",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 101461,
+    "TextENGNew": "I raised my fist with conviction for her to see.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 101462,
+    "TextENGNew": "That finally seemed to satisfy Rika-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 101463,
+    "TextENGNew": "She gave me a relieved smile.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook I",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 13429,
+    "TextENGNew": "<Regarding the Curse of Oyashiro-sama>",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Regarding' to match について in the Japanese, changing the meaning from a simple title to a topic descriptor ('about the curse').",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 13430,
+    "TextENGNew": "In ancient Onigafuchi Village, the wrath of Oyashiro-sama—his curse—was feared above all else.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13431,
+    "TextENGNew": "However, there are remarkably few records detailing what divine punishment (curse) would ultimately be visited upon the people when Oyashiro-sama grew angry.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly renders 神罰 as 'divine punishment' (not 'judgement') and 記述が少ない as 'remarkably few records' rather than 'seldom stated,' better reflecting the Japanese source's emphasis on sparse written documentation.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 13432,
+    "TextENGNew": "From what can be gathered through oral accounts:@k\"The gates of hell shall open.\"@k\"Demons shall pour forth.\"@k\"The miasma of hell shall flood outward, and not a single villager shall escape—all shall perish.\"@kSuch ominous phrases, all evoking the total annihilation of the village, are the most prominent.",
+    "significantChanges": true,
+    "changeReason": "New translation renders 伝聞 as 'oral accounts' rather than 'reports,' correctly reflecting the hearsay/oral tradition nature of the source; also provides more literal renderings of the quoted prophecies.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 13433,
+    "TextENGNew": "These terrifying visions of divine punishment are virtually identical to the apocalyptic (hellish) imagery found in many other religions. It is easy to imagine them as expedient fictions designed to compel adherence to doctrine.",
+    "significantChanges": true,
+    "changeReason": "New translation renders ほぼ同じ as 'virtually identical' (more accurate than 'in alignment') and captures 方便 as 'expedient fictions' rather than 'just ways of convincing,' better reflecting the scholarly analytical tone of the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 13434,
+    "TextENGNew": "The conditions that provoke Oyashiro-sama's wrath can be considered equivalent to the taboos of Onigafuchi Village.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13435,
+    "TextENGNew": "When an act violating these taboos was committed, Oyashiro-sama was said to have become \"wrathful,\"@kand it is believed that the aforementioned \"sacrificial ritual\" was performed to appease that wrath.",
+    "significantChanges": true,
+    "changeReason": "Original incorrectly inserts first-person 'I believe,' implying a personal narrator opinion; new translation uses impersonal 'it is believed,' matching the Japanese passive construction (考えられる) and the text's scholarly, objective tone.",
+    "changeScore": 3
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "index": 1,
+    "MessageID": 156290,
+    "TextENGNew": "A flash, then darkness. Thunder rolls.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 156291,
+    "TextENGNew": "A prolonged silence. The stage remains dark. A voice crackles over a radio.",
+    "significantChanges": true,
+    "changeReason": "JPN しばらくの沈黙 means 'a prolonged silence'; original shortens this to 'a moment', and 'crackles over a radio' adds texture not in original.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 156292,
+    "TextENGNew": "\"...HQ to all units. ......Move in as soon as all civilians have been cleared. ...I repeat, move in as soon as all civilians have been cleared.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'all cars' to 'all units' and 'outsiders removed' to 'civilians cleared'; the term 部外者排除 more naturally refers to clearing non-combatants from the area.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 156293,
+    "TextENGNew": "A crack of thunder. The stage gradually brightens.",
+    "significantChanges": true,
+    "changeReason": "JPN 落雷 means a lightning strike/thunderbolt; 'A crack of thunder' is more precise than 'Thunder echoes out'.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 156294,
+    "TextENGNew": "Arakawa lies convulsing on the ground, his throat and fingers drenched in blood. Yoshimura stands nearby in a panic, at a loss for what to do. Hoshino, Okano, Mion, Rika, and Tonegawa return to the stage.",
+    "significantChanges": true,
+    "changeReason": "Original adds 'at center stage' not in JPN; new translation restructures the stage directions to flow more naturally and removes the fabricated detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 156295,
+    "TextENGNew": "\"Arakawa-kun?! What happened?! Are you alright?!\"",
+    "significantChanges": true,
+    "changeReason": "JPN どうしたんだ specifically means 'What happened?'; the original's 'What's going on?' has a different nuance.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 156296,
+    "TextENGNew": "\"What happened here?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 156297,
+    "TextENGNew": "\"That's what I'd like to know! ......Suddenly, without warning...! ......He just started shrieking nonsense and went berserk!\"",
+    "significantChanges": true,
+    "changeReason": "JPN わめきながら means 'while shrieking/yelling'; original's 'groaning some nonsense' significantly understates the intensity. New also changes 暴れ出した from 'went crazy' to 'went berserk'.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 156298,
+    "TextENGNew": "\"...I thought he was going to kill me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 156299,
+    "TextENGNew": "Hoshino kneels to examine Arakawa's wounds.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'kneels to examine' where JPN just says 傷口を見る (looks at the wounds); this adds an action not present in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 156300,
+    "TextENGNew": "\"Did you do this to him?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 156301,
+    "TextENGNew": "\"Of course not! ...He just — that man! ...He suddenly started tearing at his own throat...! ......The blood! ...All that blood!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'scratching out his own throat' to 'tearing at his own throat'; also restructures the stuttering pattern for more natural English.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 156302,
+    "TextENGNew": "\"......He's in a critical state. ......We need to move him. Okano! ...Give me a hand!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'He's gone' implying death, but JPN 末期 means terminal/critical state — character is still alive. Significant plot difference.",
+    "changeScore": 4
+  },
+  {
+    "index": 14,
+    "MessageID": 156303,
+    "TextENGNew": "\"Is he — w-will he survive?! Tell me! Please!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 156304,
+    "TextENGNew": "Hoshino and Okano carry Arakawa off the stage. Tonegawa follows them.",
+    "significantChanges": true,
+    "changeReason": "Original has Tonegawa leading while JPN specifies Hoshino and Okano carry Arakawa with Tonegawa following; new translation corrects the order.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 156305,
+    "TextENGNew": "\".........He suddenly went berserk...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 156306,
+    "TextENGNew": "\"That's right! ...I didn't do anything to him! ...He tore at his own throat with his own hands!\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'with his own hands' emphasis and changes 'scratched out' to 'tore at', better conveying the violence of 掻きむしった.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 156307,
+    "TextENGNew": "\"...Check the fingerprints, do whatever you have to do! It wasn't me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 156308,
+    "TextENGNew": "\"......Nobody said you killed him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 156309,
+    "TextENGNew": "\"......K-Killed?! ...Is he going to d-die...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 156310,
+    "TextENGNew": "\"......Do you think anyone could survive in that condition?\"",
+    "significantChanges": true,
+    "changeReason": "Original asks about external rescue ('can they save him?'); new asks about inherent survivability ('could anyone survive?'), matching JPN 助かると思う (do you think he can be saved/survive).",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 156311,
+    "TextENGNew": "\".........Just what...... is going on here......?!\"",
+    "significantChanges": true,
+    "changeReason": "JPN 何があったって言うんですか asks 'what happened?'; original adds 'are you saying', shifting blame. New translation is more natural.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 156312,
+    "TextENGNew": "\"...Arakawa-san tore at his own throat until he died. ...That is simply what happened.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'scratched out' to 'tore at...until he died' and 'Those are the facts' to 'That is simply what happened', more accurately conveying the violent self-harm.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 156313,
+    "TextENGNew": "\"But why?! ...Why would he do something like that!\"",
+    "significantChanges": true,
+    "changeReason": "JPN どうしてそんな事を means 'why would he do such a thing'; original's 'How did that happen?' removes the personal agency implicit in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 156314,
+    "TextENGNew": "\"That's what I'd like to know! ...You were right there with him, weren't you?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 156315,
+    "TextENGNew": "\"..............................He...... ......He......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 156316,
+    "TextENGNew": "\"......So he's the fifth victim? ...Isn't that right, Yoshimura-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 156317,
+    "TextENGNew": "\"...You mean... this is Oyashiro-sama's... curse......?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 156318,
+    "TextENGNew": "\"...Good material for your story, isn't it? ...Did you get your photographs? ...Did you record the interview? ......Or is this all off the record?\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'for your story' and changes 'Did you manage to record your interview with him?' to just 'Did you record the interview?', making the accusation sharper and more concise.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 156319,
+    "TextENGNew": "\"Wh-wh-wh-what are you...... You idiot! ...This is hardly the time...... for that......!\"",
+    "significantChanges": true,
+    "changeReason": "JPN ばばばばばば…ばかやろう stutters on the ば of ばかやろう; original interprets as stuttering 'You' while new correctly stutters on 'What' leading into 'You idiot'.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 156320,
+    "TextENGNew": "\"...I wonder who the sixth victim will be? ...Don't you wonder, Yoshimura-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 156321,
+    "TextENGNew": "\"...P-Please, Rika-san, let's stop...! ...Let's just stop this...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 156322,
+    "TextENGNew": "\"...The sixth victim... might be the first one who has nothing to do with the Ministry of Construction.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 156323,
+    "TextENGNew": "\"...You know, Yoshimura-san. ......Wouldn't a first-hand account be so much more compelling... than an interview...?\"",
+    "significantChanges": true,
+    "changeReason": "Changes framing from 'more effective' to 'so much more compelling' and from 'write down your own experience' to 'a first-hand account', making Rika's veiled threat more menacing.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 156324,
+    "TextENGNew": "\"A-Alright, I understand! ...I'll forget I ever heard of Oyashiro-sama! ...I'm dropping this story entirely! ...I'm going back to the inn and packing my bags!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 156325,
+    "TextENGNew": "\"...That's the right attitude. ......But... do you think Oyashiro-sama will forgive you so easily...?\"",
+    "significantChanges": true,
+    "changeReason": "JPN 許してくれるかしら asks about forgiveness; original's 'will permit that' is weaker than new's 'will forgive you so easily', which better captures the menacing implication.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 156326,
+    "TextENGNew": "A tense silence falls. Then Hoshino approaches.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 156327,
+    "TextENGNew": "\"Furude Rika-san. ...Could you come with me for a moment?\"",
+    "significantChanges": true,
+    "changeReason": "Changes Western name order 'Rika Furude-san' to Japanese order 'Furude Rika-san', which is more appropriate for this Japanese setting.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 156328,
+    "TextENGNew": "\".....................Yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 156329,
+    "TextENGNew": "Rika follows Hoshino off the stage, her eyes fixed on Yoshimura until the very last instant.",
+    "significantChanges": true,
+    "changeReason": "JPN 目で威嚇し means 'intimidating with her eyes'; new translation softens 'menace' to 'fixed on', losing the explicit intimidation but changing the staging emphasis.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 156330,
+    "TextENGNew": "\"Hah! .........Haaaaah......... ......That girl... she's far too terrifying...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 156331,
+    "TextENGNew": "\"......Did Arakawa-san...... actually die...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 156332,
+    "TextENGNew": "\".........How would I know?! It all happened so suddenly!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 156333,
+    "TextENGNew": "\"...He just suddenly started screaming... swinging his umbrella around, thrashing wildly......! ......I had absolutely no idea what was happening...!\"",
+    "significantChanges": true,
+    "changeReason": "JPN わめき出して means 'started screaming/shrieking'; original's 'groaning to himself' significantly understates the intensity.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 156334,
+    "TextENGNew": "\"......So he died because of Oyashiro-sama's curse...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 156335,
+    "TextENGNew": "\"...He did say that name! ...Oyashiro-sama! ......But something like this... can't really be happening...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 156336,
+    "TextENGNew": "\"......Really? ......He actually said 'Oyashiro-sama'...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 156337,
+    "TextENGNew": "\"...He said it! ...He said it, I tell you! ...I'm absolutely certain!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 156338,
+    "TextENGNew": "Thunder rolls in the distance.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'in the distance' which is not present in JPN 轟く雷鳴 (thundering thunder); this adds spatial information.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 156339,
+    "TextENGNew": "\"...Damn it...! ......I'm scared... I'm scared! ...Damn it...... damn it all...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 156340,
+    "TextENGNew": "Yoshimura stares at the ground, shaking uncontrollably, on the verge of tears.",
+    "significantChanges": true,
+    "changeReason": "JPN ガタガタと震え means 'trembling violently'; original's 'shudders' understates this vs new's 'shaking uncontrollably'.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 156341,
+    "TextENGNew": "\".........Hey... Yoshimura-san. ...........It was you, wasn't it? ...You did this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 156342,
+    "TextENGNew": "\"What?! ...Don't say something so ridiculous! ...There's absolutely no way I did this!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 156343,
+    "TextENGNew": "\".........The random attacker the police have been looking for... that's you, isn't it?\"",
+    "significantChanges": true,
+    "changeReason": "JPN 通り魔殺人犯 means 'random/indiscriminate killer'; 'slasher' implies a specific weapon while 'random attacker' is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 156344,
+    "TextENGNew": "\"What on earth are you saying?! ...I've had just about enough!\"",
+    "significantChanges": true,
+    "changeReason": "JPN 怒るぞ means 'I'll get angry'; original's casual 'You're pissing me off' differs from new's more restrained 'I've had just about enough'.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 156345,
+    "TextENGNew": "\"...Whoa, hold it right there! ...If I raise my voice, the detectives will come running...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 156346,
+    "TextENGNew": "\"S-Stop this nonsense! ...What is wrong with you! ...What exactly are you accusing me of?!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'What are you even saying?! What are you claiming that I did?' to 'What is wrong with you! What exactly are you accusing me of?!' shifting the emotional register.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 156347,
+    "TextENGNew": "\"...What happened to that composed, confident manner you had before?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 156348,
+    "TextENGNew": "\"......Tell me. ...Who are you, really? ......How do you know so much about me?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 156349,
+    "TextENGNew": "\"What is this about?! ...You and that other one before you...! ......What is happening here?!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'What is wrong with you all?' to 'What is happening here?', shifting from blaming people to questioning the situation, matching JPN どうなってんだよ.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 156350,
+    "TextENGNew": "\"...You're all insane! ...This place... everyone here is insane! ...Waaaaaaaaaah!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'fucking mad' to 'insane' and shifts from 'this whole place' to 'everyone here'; JPN 狂ってやがる is strong but not profane.",
+    "changeScore": 2
+  },
+  {
+    "index": 62,
+    "MessageID": 156351,
+    "TextENGNew": "Yoshimura collapses to his knees, sobbing uncontrollably. Mion watches with detached calm.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 156352,
+    "TextENGNew": "\"...You're the strange one here...! ......So who are you?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 156353,
+    "TextENGNew": "A sharp, stabbing pain shoots through Mion's head.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 156354,
+    "TextENGNew": "\"...Ah...... Kgh...! ......My head......! ......Nngh...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 156355,
+    "TextENGNew": "\"...Hahahahahaha... ...Ahhhahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 156356,
+    "TextENGNew": "Yoshimura's sobbing has, without anyone quite noticing, transformed into laughter.",
+    "significantChanges": true,
+    "changeReason": "JPN いつの間にか means 'before anyone noticed'; original's 'somehow' is vaguer while new captures the unnoticed transition.",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 156357,
+    "TextENGNew": "\"......Yoshi......mura......?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 156358,
+    "TextENGNew": "\"...Who am I? ...I've said it any number of times. I'm Yoshimura. ...Yoshimura, freelance writer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 156359,
+    "TextENGNew": "\"...Get...... Get away from me...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 156360,
+    "TextENGNew": "\"Am I the one who killed Arakawa-san? ......Hahahahaha, hahahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 156361,
+    "TextENGNew": "\"Som...... Somebodyyyy! Help meeeeee!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'Come heeeere!' to 'Help meeee!'; JPN 来て means 'come' not 'help', so original is more literal, but new changes the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 156362,
+    "TextENGNew": "\"......You'll need to shout a bit louder than that if you want anyone to hear you. ...Sonozaki Mion-san.\"",
+    "significantChanges": true,
+    "changeReason": "Changes name from Western order 'Mion Sonozaki-san' to Japanese order 'Sonozaki Mion-san'.",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 156363,
+    "TextENGNew": "\"Detectiiiiiiives! ...Rika-saaaaaaan?! ...Kgh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 156364,
+    "TextENGNew": "Yoshimura raises his hand with a smooth, almost casual gesture. Mion chokes, clutching at her throat.",
+    "significantChanges": true,
+    "changeReason": "Changes 'gently waves his hand' to 'raises his hand with a smooth gesture' and 'coughs' to 'chokes, clutching at her throat', significantly increasing the threatening quality of the scene.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 156365,
+    "TextENGNew": "\"How unbecoming. ...A young woman of your age shouldn't be screaming like that for no reason.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 156366,
+    "TextENGNew": "\"...H-How?! ......Where did everyone go?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 156367,
+    "TextENGNew": "\"Allow me to answer your first question. ...Did I kill Arakawa-san? ......Fufufufu! ...The answer is yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 156368,
+    "TextENGNew": "\"......Wh......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 156369,
+    "TextENGNew": "\"Now your second question. ...Am I the random attacker? ......Also yes.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'the slasher' to 'the random attacker' (通り魔), and 'That is also a yes!' to 'Also yes.' making the response more chillingly understated.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 156370,
+    "TextENGNew": "\"......No...... Stay back......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 156371,
+    "TextENGNew": "\"How do I know so much about you? ......I'm afraid I'll have to decline any question that can't be answered with a simple yes or no.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 156372,
+    "TextENGNew": "\"...Wh...... Why do you kill them...?!\"",
+    "significantChanges": true,
+    "changeReason": "JPN 何で殺すの is present tense 'why do you kill'; original past tense 'Why did you kill him?' refers to one victim, while new 'Why do you kill them?' matches the general questioning.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 156373,
+    "TextENGNew": "\"...Must there be a reason? ...How interesting. ......So you're saying that some killings can be justified, depending on the reason? ...Is that what you mean...?\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'some murders are permitted' to 'some killings can be justified'; JPN 許される殺し = 'forgivable killing' is closer to 'justified' than 'permitted'.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 156374,
+    "TextENGNew": "\"You...... Murdererrrrr! ......Kgh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 156375,
+    "TextENGNew": "Yoshimura raises his hand once more. Mion's voice is cut off, choking as though something is lodged in her throat.",
+    "significantChanges": true,
+    "changeReason": "Original simply says 'coughs like something's stuck'; new adds 'voice is cut off, choking' which more dramatically conveys the supernatural throat-closing described in the stage direction.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 156376,
+    "TextENGNew": "\"......That's unbecoming — please stop. ...The screaming.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 156377,
+    "TextENGNew": "\"So-...... s-s-s-someone help me......!\"",
+    "significantChanges": true,
+    "changeReason": "JPN たたた…助けて stutters on 助けて (tasukete = help me); original incorrectly stutters 'he' while new correctly stutters on 'someone'.",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 156378,
+    "TextENGNew": "\"......It cannot be helped, you see. ...You say you hate Hinamizawa — that it's just a backward little village.\"",
+    "significantChanges": true,
+    "changeReason": "Old renders 仕方がないじゃないですか as 'What are we going to do with you?' (exasperation at a person) when it means 'it can't be helped' (resignation about a situation) — different emotional register.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 156379,
+    "TextENGNew": "\"...You want the city. You want Tokyo. ...You've been saying so. ...That simply won't do. Oyashiro-sama cannot forgive that.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'Oyashiro-sama won't allow it' to 'cannot forgive that'; JPN 許してくれません means 'won't forgive' not 'won't allow', matching the theme of divine judgment.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 156380,
+    "TextENGNew": "\"...Oy...... Oyashiro-sama......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 156381,
+    "TextENGNew": "\"...Your late grandmother warned you so insistently... ......And yet Tokyo captured your heart all the same. ...How regrettable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 156382,
+    "TextENGNew": "\"P-P-Please, don't kill me...!\"",
+    "significantChanges": true,
+    "changeReason": "JPN stutters on こ before 殺さないで (don't kill me); new adds 'Please' making it a plea rather than a panicked command, changing the character's emotional register.",
+    "changeScore": 2
+  },
+  {
+    "index": 94,
+    "MessageID": 156383,
+    "TextENGNew": "\"The men from the Ministry of Construction were all outsiders, after all. ...They knew so little of Oyashiro-sama that certain allowances were made.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'he was lenient with them' to 'certain allowances were made'; JPN 大目にも見ました uses passive/impersonal voice, and 'allowances were made' matches better.",
+    "changeScore": 2
+  },
+  {
+    "index": 95,
+    "MessageID": 156384,
+    "TextENGNew": "\"...But for you... for someone born of Hinamizawa... there will be no such mercy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 156385,
+    "TextENGNew": "\"P-P-Please, stop, don't kill me... Please forgive me......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 156386,
+    "TextENGNew": "\"...You wish...... to be forgiven...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 156387,
+    "TextENGNew": "\"Y-Y-Y-Yes! ...Yes!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 156388,
+    "TextENGNew": "\"...Your father told you, didn't he? ...You only need to say yes once. ...When you say it twice, it loses all sincerity.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 156389,
+    "TextENGNew": "\"I-I-I'm sorry...! ...Yes!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 156390,
+    "TextENGNew": "\"...Will you swear never to yearn for Tokyo again?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 156391,
+    "TextENGNew": "\"Yes!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 156392,
+    "TextENGNew": "\"...Will you swear to live in Hinamizawa, and to die in Hinamizawa?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 156393,
+    "TextENGNew": "\"Yes! ...Yes!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 156394,
+    "TextENGNew": "\"One answer is sufficient!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 156395,
+    "TextENGNew": "\"I-I-I'm so sorry!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 156396,
+    "TextENGNew": "\"...You could never accept the dam, could you? ...You'll oppose it?\"",
+    "significantChanges": true,
+    "changeReason": "Original adds 'the existence of' and 'surely...possibly' creating double hedging not in JPN; new translation is more direct and matches the simpler JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 108,
+    "MessageID": 156397,
+    "TextENGNew": "\"Ye... Yes!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 156398,
+    "TextENGNew": "\"...Wonderful. ......You are a truly admirable young woman who loves her homeland.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 156399,
+    "TextENGNew": "\"......Very well. ...If you can keep those vows for the rest of your life... then as a special exception this time! ......It may be possible to overlook this transgression.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 156400,
+    "TextENGNew": "\"Th-Thank you so much!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 156401,
+    "TextENGNew": "\"......However... we cannot simply leave things as they are.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 156402,
+    "TextENGNew": "\"......The black filth caked to your insides — that wicked corruption that made you want to abandon Hinamizawa — must be purged entirely.\"",
+    "significantChanges": true,
+    "changeReason": "Restructures from active 'we need to cleanse you' to passive 'the filth must be purged', and changes 'corruption stuck in your stomach' to 'filth caked to your insides', more vividly matching JPN 真っ黒にこびりついている.",
+    "changeScore": 2
+  },
+  {
+    "index": 114,
+    "MessageID": 156403,
+    "TextENGNew": "\"I don't care what it is! ...I'll do anything, anything at all, if it means being forgiven!\"",
+    "significantChanges": true,
+    "changeReason": "JPN 何でもいいです means 'anything is fine/I don't care what it is'; original's 'I! I'll do anything!' misses this nuance while new correctly conveys the desperate acceptance.",
+    "changeScore": 2
+  },
+  {
+    "index": 115,
+    "MessageID": 156404,
+    "TextENGNew": "\"......It will be painful. ...It will be agonizing. ......If you cannot endure it... you may die all the same. ......You understand?\"",
+    "significantChanges": true,
+    "changeReason": "Changes casual 'It's going to hurt, you know?' to formal 'It will be painful. It will be agonizing.'; JPN 痛い/苦しい (painful/agonizing) are distinct words, and new separates them more clearly.",
+    "changeScore": 2
+  },
+  {
+    "index": 116,
+    "MessageID": 156405,
+    "TextENGNew": "\"Wait...... It's going to hurt......?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 156406,
+    "TextENGNew": "\"Only by enduring that pain... can you become a true daughter of Hinamizawa once more. ..........Here we go.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'a villager' to 'a true daughter', adding gendered specificity since the character is female; also changes 'Here I go' to 'Here we go'.",
+    "changeScore": 2
+  },
+  {
+    "index": 118,
+    "MessageID": 156407,
+    "TextENGNew": "Yoshimura raises his hand. Searing pain tears through Mion's stomach. She screams.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 156408,
+    "TextENGNew": "\"Ple... Please stop...! ......Aaaaaah...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 156409,
+    "TextENGNew": "\"...Endure it. ...Think of this as divine punishment and accept it.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'divine' before 'punishment'; JPN バチ specifically means divine punishment/karma, which 'your punishment' alone doesn't convey.",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 156410,
+    "TextENGNew": "\"Ugaaaaaaaaah...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 156411,
+    "TextENGNew": "Mion groans, writhing in pain. Then, gradually, she reaches for the umbrella Arakawa dropped and hauls herself to her feet.",
+    "significantChanges": true,
+    "changeReason": "Changes 'groans over and over' to 'groans, writhing in pain' and adds physical struggle detail 'hauls herself to her feet', better conveying the JPN よろよろと (staggeringly).",
+    "changeScore": 2
+  },
+  {
+    "index": 123,
+    "MessageID": 156412,
+    "TextENGNew": "\"......And just what do you think you're doing...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 156413,
+    "TextENGNew": "\"Ghooooooh...! ......I'll...... I'll kill... you...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 156414,
+    "TextENGNew": "\"...Fu...... hahahahahaha! You'll kill me? ...Hah, hahahahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 156415,
+    "TextENGNew": "\"Gaaaaaah...! ...Stop it. ...Stop this right now! Right now!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 156416,
+    "TextENGNew": "\"...If I stop, the corruption inside you will never be purged.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 156417,
+    "TextENGNew": "\"Stop it... Stop it stop it...! ......If you don't stop, I'll kill you...! ...I'll kill youuuuuu!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 156418,
+    "TextENGNew": "\"...What a pity. ...In the end, you couldn't manage it. ...What a pity.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 156419,
+    "TextENGNew": "\"Uoooooooooooh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 156420,
+    "TextENGNew": "Mion charges at him with a battle cry, swinging the umbrella. Yoshimura sidesteps it effortlessly.",
+    "significantChanges": true,
+    "changeReason": "New adds 'charges at him' and 'battle cry' for more vivid staging; JPN 雄叫びを上げながら = 'while raising a war cry', which 'a roar' underplays.",
+    "changeScore": 2
+  },
+  {
+    "index": 132,
+    "MessageID": 156421,
+    "TextENGNew": "\"...Then die. Vomit out every last drop of the filth within you! ...Crawl through it and die in it! ...Just like Arakawa-kun!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'coughing up' to 'vomit out' and restructures for more forceful delivery; JPN 吐き尽くして means 'vomit/spit out completely'.",
+    "changeScore": 2
+  },
+  {
+    "index": 133,
+    "MessageID": 156422,
+    "TextENGNew": "\"Aggaah! ......It's climbing up...! ......It's coming up...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 156423,
+    "TextENGNew": "\"...It seems to have risen from your stomach up into your esophagus. ...The filth at the very bottom of your belly is climbing up... as maggots.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 156424,
+    "TextENGNew": "\"Ma-... Maggots?! ...Noooooooooooo!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 156425,
+    "TextENGNew": "\"Now! Spit it all out! Go on! Go on!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 156426,
+    "TextENGNew": "\"No! No! Noooooooo! Somebody help me! Rika-san! ...Rika-saaaaaaan! ...Aaaaaaaaaaaaaaaaaah! My thr- my throat, it... it iiiiitches!\"",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Maebara Estate",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Maebara Manor\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12663,
+    "TextENGNew": "``...So Kei-chan, you're not actually some great wealthy person?``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12664,
+    "TextENGNew": "``Where's that coming from? Did I ever show up to school in a luxury car?``",
+    "significantChanges": true,
+    "changeReason": "Old translates 高級車 as 'limo' (a specific type of vehicle) while new correctly renders it as 'luxury car,' which is the actual meaning of the Japanese term.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 12665,
+    "TextENGNew": "``How much is your monthly allowance?``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12666,
+    "TextENGNew": "``A thousand yen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12667,
+    "TextENGNew": "``My. That's rather ordinary, I must say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12668,
+    "TextENGNew": "``...His lunchbox side dishes are ordinary. He isn't wealthy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12669,
+    "TextENGNew": "What on earth was this conversation?!",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12670,
+    "TextENGNew": "Out of nowhere I'm asked about my allowance, then told I'm ordinary and not wealthy!",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12671,
+    "TextENGNew": "``Ahahaha. Sorry, sorry!``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 12672,
+    "TextENGNew": "Rena seemed to notice my bewildered expression and laughed cheerfully.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 12673,
+    "TextENGNew": "``Your house is enormous, isn't it, Kei-chan? So even while it was being built, all of Hinamizawa was calling it the Maebara Manor and watching it with great interest.``",
+    "significantChanges": true,
+    "changeReason": "Old misses 建築中から ('since during construction') — the point is that the nickname started while the house was still being built, not just that the architecture itself drew attention.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 12674,
+    "TextENGNew": "The... the Maebara Manor~?!",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12675,
+    "TextENGNew": "``With a house that big, everyone was whispering about what kind of wealthy person must live there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12676,
+    "TextENGNew": "Ah, I see.@k That explains it.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12677,
+    "TextENGNew": "...The house is undeniably large in stature.@k That sort of misunderstanding was bound to happen.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12678,
+    "TextENGNew": "``My hypothesis is that you spent so much money building the house that you are now quite destitute~!``",
+    "significantChanges": true,
+    "changeReason": "Old uses third person ('they spent') when Satoko is directly addressing Keiichi; new correctly uses second person ('you spent') matching the JPN dialogue.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 12679,
+    "TextENGNew": "``...Being poor, how sad, how very sad.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12680,
+    "TextENGNew": "...Rika-chan patted my head with pity in her eyes.@k I went from being treated as a millionaire to a pauper in an instant...",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12681,
+    "TextENGNew": "``Sorry to ruin the fun, but we're neither rich nor poor. An extremely ordinary, average household—nothing more.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12682,
+    "TextENGNew": "``A house that big cannot be called ordinary! And the entryway is magnificent, and the gate is wide enough for a large vehicle to pass through!!@k That is absolutely not ordinary!``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12683,
+    "TextENGNew": "As if the size of a house were the measure of one's wealth.",
+    "significantChanges": true,
+    "changeReason": "Old frames it as an accepted saying ('They do say...') but the Japanese (言わんばかりだな) expresses Keiichi's sarcastic observation that they're acting 'as if' house size measures wealth.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 12684,
+    "TextENGNew": "Our house is so large because it includes my father's atelier.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12685,
+    "TextENGNew": "There are multiple workrooms, and his past pieces are displayed all over the place...@k And every single one of them is massive.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12686,
+    "TextENGNew": "With all that, the part of the house the family actually lives in is perhaps a third of the total.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 12687,
+    "TextENGNew": "He designed it with the idea of someday hosting a personal exhibition at home, so the layout accommodates the flow of people and vehicles.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 12688,
+    "TextENGNew": "...Incidentally, the magnificent entryway Mion mentioned belongs to the atelier side and is normally kept closed.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 12689,
+    "TextENGNew": "The entrance the Maebara family actually uses is quite plain and modest.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 12690,
+    "TextENGNew": "Appearance and reality are worlds apart, that's all.",
+    "significantChanges": true,
+    "changeReason": "Old translates this as a literal statement about the house interior versus exterior, but the Japanese (見かけと中身は大違い) is a general observation meaning 'appearances and reality are very different' — a broader philosophical point.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 12691,
+    "TextENGNew": "``I'd really love to explore your house sometime, Kei-chan. You claim not to be wealthy, yet there's that manor!!@k Just what on earth is hidden inside?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 12692,
+    "TextENGNew": "``M-Maybe there's something adorable hidden inside! Hau~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 12693,
+    "TextENGNew": "``I'm sure you've spent all your money and have nothing left for furniture, so it's full of bleak, empty rooms!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 12694,
+    "TextENGNew": "``...If there are carpeted rooms, I would very much like to roll around in them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 12695,
+    "TextENGNew": "``Wahh~! Yes, yes! Rena wants to roll around too~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 12696,
+    "TextENGNew": "...Their imaginations were running away with them in very cheerful directions...",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 12697,
+    "TextENGNew": "Still... in the not-too-distant future, maybe I'd invite everyone over.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 12698,
+    "TextENGNew": "...Father has a soft spot for girls, so he might even let them look around the atelier.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 12699,
+    "TextENGNew": "The cicadas' cries grew ever more lively, and the sky stretched on without end.",
+    "significantChanges": true,
+    "changeReason": "Old translates セミ as 'higurashi' (a specific cicada species) when the Japanese uses the generic term for cicadas; new correctly uses 'cicadas.' Also, the old's 'sky towered over everything' misses どこまでも高い ('endlessly high/stretched without end').",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 12700,
+    "TextENGNew": "Hot, but crisp—it smelled of early summer.",
+    "significantChanges": false
+  }
+]

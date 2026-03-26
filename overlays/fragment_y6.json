@@ -1,0 +1,36 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11340,
+    "TextENGNew": "...Welcome to Hint VI.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11341,
+    "TextENGNew": "I'll tell you the conditions for unlocking G1 Scouting the Residential Lots in the World of 1983.",
+    "significantChanges": true,
+    "changeReason": "\"Preview of Lots for Sale\" changed to \"Scouting the Residential Lots\" — different action (previewing vs scouting) and different description of the lots (for sale vs residential), altering the implied purpose and nature of the location.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 11342,
+    "TextENGNew": "E5 The Murder of Satoshi's Aunt in the World of 1982\nH2 Rena Ryuugu in the World of Friends\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "\"Death\" changed to \"Murder\" — 撲殺 specifically means killing by beating, so \"murder\" accurately reflects the violent, criminal nature of the event rather than the neutral \"death.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11343,
+    "TextENGNew": "And—\nH1 Keiichi Maebara in the World of Friends\n...This fragment is also connected to its appearance.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 11344,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

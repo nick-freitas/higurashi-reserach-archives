@@ -1,0 +1,117 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Why Did the Shepherd Lie?",
+    "significantChanges": true,
+    "changeReason": "English translation was missing; ENG field contained untranslated Japanese text.",
+    "changeScore": 5
+  },
+  {
+    "index": 1,
+    "MessageID": 14005,
+    "TextENGNew": "The autopsy indicates the victim was killed in the following manner.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14006,
+    "TextENGNew": "1. Entire body restrained",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14007,
+    "TextENGNew": "Abrasion marks consistent with resistance suggest the victim was immobilized using a full-body restraint apparatus rather than ropes or similar common methods. Particularly concentrated abrasions around the finger joints of both hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14008,
+    "TextENGNew": "The specificity of these marks strongly suggests the restraint device was either custom-built or homemade.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14009,
+    "TextENGNew": "2. Both ears and nasal appendage severed with a sharp instrument",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14010,
+    "TextENGNew": "Evidence of restraint and other indicators suggest at least one additional perpetrator held the victim's head steady during the severing. Multiple blades may have been employed, one of which was likely scissors or shears.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14011,
+    "TextENGNew": "3. Multiple penetrating wounds to the fingers of both hands",
+    "significantChanges": true,
+    "changeReason": "Old specifies \"five nails\" when the Japanese 複数 means \"multiple\" without a specific count; old also introduces \"nails\" as the instrument when the Japanese 貫通した刺創 says \"penetrating stab wounds\" without specifying the instrument here.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 14012,
+    "TextENGNew": "One elongated nail driven through each joint of every finger on both hands, totaling thirty. The victim's fingers were nailed to wooden planks approximately twenty centimeters square; these planks were almost certainly integrated into the restraint apparatus. Evidence strongly suggests the table was designed expressly for this purpose.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14013,
+    "TextENGNew": "4. Abdomen incised; internal organs removed",
+    "significantChanges": true,
+    "changeReason": "Old says \"intestines\" (a specific organ) while new says \"internal organs\" (broader category), changing the understood scope of the mutilation performed on the victim.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 14014,
+    "TextENGNew": "The abdominal incision appears to have been performed with a sharp blade using methods grounded in medical technique.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14015,
+    "TextENGNew": "It is estimated that the victim's life was not yet threatened at this stage. Subsequently, the exposed organs were dismantled and extracted. The victim is believed to have died as a result of this process.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14016,
+    "TextENGNew": "5. Disposal of the body",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14017,
+    "TextENGNew": "The victim's neck was fitted with a commercial pet collar, to which a dumbbell weight was fastened. The body was then abandoned in the Ouji River's third drainage culvert.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14018,
+    "TextENGNew": "Given the weight of the dumbbell, at least three adult males would have been needed to transport and dispose of the body.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14019,
+    "TextENGNew": "To Ooishi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14020,
+    "TextENGNew": "Here is the copy of the preliminary autopsy report for the mutilated corpse found in the Ouji River, as you requested.",
+    "significantChanges": true,
+    "changeReason": "Old omits \"as you requested\" (頼まれてた) which establishes that Ooishi specifically asked for this document, an important character detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 14021,
+    "TextENGNew": "Chief Shigeharu suspects a possible connection to the S-group.@kWhat are your thoughts, Ooishi-san?",
+    "significantChanges": false
+  }
+]

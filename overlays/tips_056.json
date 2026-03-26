@@ -1,0 +1,173 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Document E2-3 No. 44",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"E2-3 Number 44\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14156,
+    "TextENGNew": "Child Welfare, General Affairs, E2-3 No. 44",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly renders 福児庶 as 'Children with special needs'; new correctly identifies it as 'Child Welfare, General Affairs.'",
+    "changeScore": 4
+  },
+  {
+    "index": 2,
+    "MessageID": 14157,
+    "TextENGNew": "March 17, 1977",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14158,
+    "TextENGNew": "Child's Name: Satoko Houjou",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14159,
+    "TextENGNew": "  Resident of Hinamizawa Village, Shishibone City",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14160,
+    "TextENGNew": "(1) How the Consultation Came About",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14161,
+    "TextENGNew": "  A telephone consultation was received directly from the child at the Okinomiya Life Consultation Center in Shishibone City.",
+    "significantChanges": true,
+    "changeReason": "Old is a drastically abbreviated paraphrase ('Telephone SOS from child of child abuse') that omits details and adds 'child abuse' not in the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 7,
+    "MessageID": 14162,
+    "TextENGNew": "(2) Situation",
+    "significantChanges": true,
+    "changeReason": "Old translation adds 'Abuse' to the section header (状況 simply means 'Situation'), which prejudges the case findings before they are established in the document.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 14163,
+    "TextENGNew": "  The child herself reports that her home life with her adoptive father has become problematic.",
+    "significantChanges": true,
+    "changeReason": "Old says 'physically abused' but Japanese 生活に問題をきたしている means 'having problems in home life' -- different severity.",
+    "changeScore": 4
+  },
+  {
+    "index": 9,
+    "MessageID": 14164,
+    "TextENGNew": "(3) Family Composition",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14165,
+    "TextENGNew": "  Adoptive father, biological mother, older brother, the child in question",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14166,
+    "TextENGNew": "  ※ The adoptive father and biological mother were registered as a household unit in 1976.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14167,
+    "TextENGNew": "  The child is the daughter of the mother's former husband, from whom she is divorced.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14168,
+    "TextENGNew": "(4) Response by the Okinomiya Life Consultation Center",
+    "significantChanges": true,
+    "changeReason": "Old translation uses 'Child consultation center,' which is a different type of facility; new correctly identifies it as the 'Okinomiya Life Consultation Center' (興宮生活相談所).",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 14169,
+    "TextENGNew": "  Upon receiving the telephone consultation from the child, the center called her school that same day and inquired into her circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14170,
+    "TextENGNew": "  On that same day, the assigned caseworker visited the child's home and conducted a face-to-face interview.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14171,
+    "TextENGNew": "  The adoptive father received the guidance sincerely and agreed to attend parenting workshops organized by the consultation center going forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14172,
+    "TextENGNew": "  The case is classified as advisory guidance; the situation will continue to be monitored.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14173,
+    "TextENGNew": "(5) Additional Notes",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14174,
+    "TextENGNew": "  Following several counseling sessions with the child at the Shishibone City Education Consultation Center, it emerged that the likely cause is the child's excessive distrust of her adoptive father, stemming from a breakdown in communication.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14175,
+    "TextENGNew": "  The problems originally reported by the child do not appear to have actually occurred; it seems she made a false report in order to distance herself from her adoptive father.",
+    "significantChanges": true,
+    "changeReason": "Old translation uses 'abuse' for 問題 (problems), adding a specific characterization not present in the Japanese; new translation neutrally says 'the problems originally reported.'",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 14176,
+    "TextENGNew": "(The following is a hasty pencil note written by the caseworker assigned at the time.)",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14177,
+    "TextENGNew": "  If anything, the problem seems to lie with the daughter herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14178,
+    "TextENGNew": "  Chief Counselor Tanaka of the Shishibone City Education Consultation Center indicated that most of what the girl says is likely fabricated.",
+    "significantChanges": true,
+    "changeReason": "Old anonymizes 田中 (Tanaka) as 'F' and uses wrong title 'Chief Investigator'; new correctly provides the name and title.",
+    "changeScore": 4
+  },
+  {
+    "index": 24,
+    "MessageID": 14179,
+    "TextENGNew": "  Going forward, guidance efforts will focus primarily on the child herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14180,
+    "TextENGNew": "  Take care not to give the child's stories too much credence.",
+    "significantChanges": false
+  }
+]

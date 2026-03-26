@@ -1,0 +1,1846 @@
+[
+  {
+    "index": 1,
+    "MessageID": 67046,
+    "TextENGNew": "Naturally, the cunning detectives didn't interrogate us together.",
+    "significantChanges": true,
+    "changeReason": "Different characterization: 'smart enough' vs 'cunning'; Japanese 狡猾な means 'cunning/crafty', not just 'smart'",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 67047,
+    "TextENGNew": "Ooishi didn't come to my room.",
+    "significantChanges": true,
+    "changeReason": "Different: 'come to talk to me' vs 'come to my room'; Japanese 私の方に来なかった means 'didn't come to my side/room'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 67048,
+    "TextENGNew": "His target had always been Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Different: 'nobody else' vs 'had always been'; Japanese 最初から means 'from the beginning/always', not 'nobody else'",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 67049,
+    "TextENGNew": "I got stuck with a young detective who just made small talk.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 67050,
+    "TextENGNew": "It was probably a technique -- ease into the hard questions through casual conversation.",
+    "significantChanges": true,
+    "changeReason": "Different: 'trying to ease me into the interrogation' vs 'a technique -- ease into the hard questions through casual conversation'; new is more specific about the method per Japanese 話術 (conversational technique)",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 67051,
+    "TextENGNew": "...Knowing that, his attempt to match my wavelength felt like a third-rate host club act. Nauseating.",
+    "significantChanges": true,
+    "changeReason": "Significantly different: 'the clumsy way he spoke began to frustrate me' vs 'his attempt to match my wavelength felt like a third-rate host club act. Nauseating'; Japanese ホストクラブ (host club) comparison is present in Japanese but missing from original",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 67052,
+    "TextENGNew": "Was Satoshi-kun holding up?",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 67053,
+    "TextENGNew": "Ooishi surely considered my alibi testimony a desperate bluff.",
+    "significantChanges": true,
+    "changeReason": "Different: 'didn't think Ooishi really bought my testimony' vs 'Ooishi surely considered my alibi testimony a desperate bluff'; Japanese 付け焼き刃 means 'makeshift/desperate measure', more specific",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 67054,
+    "TextENGNew": "He must have been convinced that one hard push would break Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Different: 'trying to get Satoshi-kun to confess' vs 'convinced that one hard push would break Satoshi-kun'; Japanese 一気に畳みかければ落せる means 'could break him with one push', different characterization of method",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 67055,
+    "TextENGNew": "...All I could do was pray that Satoshi-kun would keep silent, no matter how hard they pressed.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'no matter how hard they pressed' (どんなに辛くても = no matter how hard), present in Japanese but absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 67056,
+    "TextENGNew": "The internal phone on the desk rang.@k@|@yThe detective picked it up.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'internal' (内線 = internal/intercom), a detail from the Japanese",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 67057,
+    "TextENGNew": "``...Yes, this is Kumagai.@k@vS06/19/153100016. ...What?@k@vS06/19/153100017. Oh... I see.@k@vS06/19/153100018. Understood.@k@vS06/19/153100019. ...Right away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 67058,
+    "TextENGNew": "He hung up and told me someone had come to pick me up.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 67059,
+    "TextENGNew": "It seemed only I was being released.",
+    "significantChanges": true,
+    "changeReason": "Significantly different: 'Satoshi-kun had to stay' vs 'only I was being released'; Japanese 解放されるのは私だけ means 'only I was being released', a different framing (focus on self vs. focus on Satoshi)",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 67060,
+    "TextENGNew": "...With no one to vouch for him, would Satoshi-kun be subjected to even more questioning?",
+    "significantChanges": true,
+    "changeReason": "Different: 'because he had nobody to pick him up' vs 'with no one to vouch for him'; Japanese 身元引受人のない means 'without a guarantor/person to vouch'",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 67061,
+    "TextENGNew": "...But perhaps I should have been worrying more about myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 67062,
+    "TextENGNew": "Having boldly identified myself as Shion in front of the police, the main house must already know.",
+    "significantChanges": true,
+    "changeReason": "Different: 'the hag had probably heard about me by now' vs 'Having boldly identified myself as Shion, the main house must already know'; Japanese 園崎本家にはバレている means 'the Sonozaki main house knows'; original says 'hag' while new says 'main house'",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 67063,
+    "TextENGNew": "With such a brazen public appearance, there was no talking my way out of it.",
+    "significantChanges": true,
+    "changeReason": "Different: 'I couldn't hide any longer' vs 'there was no talking my way out of it'; Japanese 言い逃れはできない means 'cannot talk one's way out', more specific than just 'couldn't hide'",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 67064,
+    "TextENGNew": "I would be hauled before my grandmother and subjected to some form of punishment.",
+    "significantChanges": true,
+    "changeReason": "New translation adds detail: 'hauled before my grandmother and subjected to some form of punishment' vs 'receive some sort of punishment'; Japanese 祖母の前に引っ立てられ means 'dragged before grandmother'",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 67065,
+    "TextENGNew": "What form that punishment would take, I honestly couldn't imagine.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 67066,
+    "TextENGNew": "A protector stepping in, someone turning a blind eye, everything blowing over -- that sort of thing simply didn't happen in our world.",
+    "significantChanges": true,
+    "changeReason": "Completely different: 'The degree of punishment for a traitor is always severe' vs 'A protector stepping in, someone turning a blind eye, everything blowing over -- that sort of thing simply didn't happen'; Japanese describes the impossibility of leniency, not severity of punishment",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 67067,
+    "TextENGNew": "Reputation. Appearances.",
+    "significantChanges": true,
+    "changeReason": "Completely different: 'The punishment must be carried out' vs 'Reputation. Appearances.'; Japanese 面子とか体面とか means 'reputation and appearances', not about punishment execution",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 67068,
+    "TextENGNew": "...Even if the person in question didn't want it, punishment had to be carried out as a gesture to the outside world.",
+    "significantChanges": true,
+    "changeReason": "Different: 'If it's to protect the family's reputation, it's carried out no matter what' vs 'Even if the person didn't want it, punishment had to be carried out as a gesture to the outside world'; Japanese 対外的なジェスチャー means 'gesture to the outside', different motivation",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 67069,
+    "TextENGNew": "...Maybe I should kiss my pinky finger goodbye while I still could.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 67070,
+    "TextENGNew": "I said something to the young detective escorting me out.",
+    "significantChanges": true,
+    "changeReason": "Different: 'asked the young cop just in case' vs 'said something to the young detective escorting me out'; Japanese 言ってやる means 'told/said to him', not 'asked just in case'",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 67071,
+    "TextENGNew": "``Hey, you know what?@k@vS06/06/150600909. In America, when a death row inmate gets caught in a state without the death penalty, they don't get extradited. You've heard of that, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 67072,
+    "TextENGNew": "``Huh...??``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 67073,
+    "TextENGNew": "...Perhaps the reference was too obscure.@kThe detective looked utterly lost.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 67074,
+    "TextENGNew": "A jet-black car was waiting in front of the police station.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 67075,
+    "TextENGNew": "Several rough-looking men from my father's organization bowed deeply in greeting.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 人相のよろしくない (rough-looking/unsavory appearance) and 深々とお辞儀 (bowed deeply), details from the Japanese absent in the original",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 67076,
+    "TextENGNew": "``It's been a while, Shion-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 67077,
+    "TextENGNew": "``...Where's Kasai?``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 67078,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 67079,
+    "TextENGNew": "Kasai had been my most devoted ally, arranging everything from my escape from the academy to my hideout in Okinomiya.@k...He was almost certainly not unscathed.",
+    "significantChanges": true,
+    "changeReason": "New translation expands significantly: 'helping me ever since my escape' vs 'my most devoted ally, arranging everything from my escape to my hideout in Okinomiya'; Japanese provides more detail about Kasai's role",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 67080,
+    "TextENGNew": "``...How's Sis doing?@k@vS06/06/150600912. Did she say anything?``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 67081,
+    "TextENGNew": "``...We were only instructed to bring you to the main house.@k@vS06/00/bukaA15004. Please direct any questions there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 67082,
+    "TextENGNew": "He told me curtly, then gestured for me to get in the car.",
+    "significantChanges": true,
+    "changeReason": "Different: 'After saying that, he escorted me into the car' vs 'He told me curtly, then gestured for me to get in'; Japanese 素っ気なく means 'curtly/bluntly', absent from original",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 67083,
+    "TextENGNew": "One man on either side of me.@k...They clearly had no intention of letting me escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 67084,
+    "TextENGNew": "...Thinking of Satoshi-kun, still trapped inside the station, I looked back at the Okinomiya precinct.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'still trapped inside the station' and 'Okinomiya precinct' (興宮署), details from the Japanese",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 67085,
+    "TextENGNew": "Hang in there, Satoshi-kun...@k...I'll grin and bear it too.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 67086,
+    "TextENGNew": "The car lurched into motion without ceremony.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 67087,
+    "TextENGNew": "I couldn't recall a single happy occasion that had brought me to the Sonozaki main house.",
+    "significantChanges": true,
+    "changeReason": "Different: 'It was never a good occasion' vs 'I couldn't recall a single happy occasion'; Japanese ろくな時に招かれた記憶がない means 'no memory of being invited for a decent occasion'",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 67088,
+    "TextENGNew": "Except for when we were truly little, back when my sister and I were still too young to understand what the Sonozaki name meant, and could still play freely together.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 67089,
+    "TextENGNew": "...Every visit since had been for some stomach-churning family council or the like...",
+    "significantChanges": true,
+    "changeReason": "Different: 'I'd been here only when I had to attend boring family councils' vs 'Every visit since had been for some stomach-churning family council'; Japanese 胃が痛くなるような means 'stomach-ache inducing', not 'boring'",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 67090,
+    "TextENGNew": "The car stopped not at the front gate but around the back.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'not at the front gate but' (表門でなく), specifying the contrast between front and back entrances present in Japanese",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 67091,
+    "TextENGNew": "Only those with nothing to be ashamed of enter through the front.",
+    "significantChanges": true,
+    "changeReason": "Different: 'Traitors aren't allowed in through the main gate' vs 'Only those with nothing to be ashamed of enter through the front'; Japanese 後ろめたくない人間 means 'people with nothing to be ashamed of', not 'non-traitors'",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 67092,
+    "TextENGNew": "When I stepped out, Sis was the only one there to meet me.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 67093,
+    "TextENGNew": "I started to call out casually, but the coldness in her eyes made me swallow the words.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 67094,
+    "TextENGNew": "``...It's been a while, Shion.@k@vS06/03/150300186. I didn't expect to see you outside of New Year's.``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 67095,
+    "TextENGNew": "The stiff formality in her voice sent something cold crawling up my spine.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 67096,
+    "TextENGNew": "``Mion-sama, how lovely to see you as well.@k@vS06/06/150600914. Being graced with your presence outside of New Year's makes this a three-cent blessing indeed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 67097,
+    "TextENGNew": "I returned fire with every ounce of sarcasm I could muster, matching her frosty tone.",
+    "significantChanges": true,
+    "changeReason": "Different: 'I responded, trying to sound likewise' vs 'I returned fire with every ounce of sarcasm I could muster'; Japanese 精一杯の嫌味を込めて means 'packed with maximum sarcasm'",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 67098,
+    "TextENGNew": "``The head of the family is deeply displeased.@k@vS06/03/150300188. I look forward to hearing how you plan to explain yourself.``",
+    "significantChanges": true,
+    "changeReason": "Different: 'Our leader' vs 'The head of the family'; Japanese 頭首 means 'family head'. Also 'I wonder' vs 'I look forward to hearing'",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 67099,
+    "TextENGNew": "``...I don't have anything to explain.``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 67100,
+    "TextENGNew": "There was nothing to explain.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 67101,
+    "TextENGNew": "I couldn't stand the academy, so I left.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 67102,
+    "TextENGNew": "That was all there was to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 67103,
+    "TextENGNew": "``Shion, come with me.@k@vS06/03/150300190. Everyone is waiting.``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 67104,
+    "TextENGNew": "Led by Mion, we began walking...",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 67105,
+    "TextENGNew": "Not toward the house. Toward the garden.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 67106,
+    "TextENGNew": "...And when we headed deep into the vast garden, toward the forest at its far edge, I realized where they were taking me.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 67107,
+    "TextENGNew": "These woods at the back were the very place we'd been strictly forbidden from approaching when we were children, back when we knew nothing.",
+    "significantChanges": true,
+    "changeReason": "New translation adds context: 'the very place we'd been strictly forbidden from approaching when we were children, back when we knew nothing' vs 'we were told never to go near'; Japanese provides more detail about their ignorance as children",
+    "changeScore": 3
+  },
+  {
+    "index": 63,
+    "MessageID": 67108,
+    "TextENGNew": "...What lay deep within... I'd heard through vague rumors.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 67109,
+    "TextENGNew": "There was supposedly a hidden underground entrance, leading to rooms used for punishing those who crossed the Sonozaki family.",
+    "significantChanges": true,
+    "changeReason": "New translation adds '秘密の地下の入口' (secret underground entrance), specifying 'underground' from the Japanese",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 67110,
+    "TextENGNew": "The more you learned about the black rumors surrounding the main house, the more credible those stories became.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 67111,
+    "TextENGNew": "...And yet, some part of me had always remained half-skeptical.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 67112,
+    "TextENGNew": "I'd never dreamed I would learn the truth with my own body...",
+    "significantChanges": true,
+    "changeReason": "Different: 'see the torture room for myself' vs 'learn the truth with my own body'; Japanese 自らの身をもって知れる means 'learn through one's own body/experience', implying she'll be tortured, not just see it",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 67113,
+    "TextENGNew": "We eventually came to a place deep in the dense forest where the ground opened into a wide basin.",
+    "significantChanges": true,
+    "changeReason": "Different: 'a concave clearing' vs 'a place where the ground opened into a wide basin'; Japanese 大きく盆地になっている means 'formed a large basin', more specific",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 67114,
+    "TextENGNew": "At the bottom of that bowl, I could see a steel door reminiscent of a bomb shelter.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 67115,
+    "TextENGNew": "``...So this is the rumored underground laboratory?``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 67116,
+    "TextENGNew": "I was startled to hear my own voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 67117,
+    "TextENGNew": "...It was trembling.@k...I was more frightened than I'd realized.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 67118,
+    "TextENGNew": "No one responded to my question, Mion included.@k...Only the cutting silence pressed against me like a blade.",
+    "significantChanges": true,
+    "changeReason": "New translation adds '魅音も含め' (Mion included) and 'pressed against me like a blade' for 張りつめた空気が痛い (the taut atmosphere was painful), both from the Japanese",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 67119,
+    "TextENGNew": "...Twins are an ill omen.@k...So decreed the Sonozaki family code.",
+    "significantChanges": true,
+    "changeReason": "Completely different: 'one of the twins must be eliminated' vs 'Twins are an ill omen. So decreed the Sonozaki family code'; Japanese 双子は不吉の象徴 means 'twins are symbols of ill omen', not about elimination directly",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 67120,
+    "TextENGNew": "Then was I... could I actually be... eliminated?",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 67121,
+    "TextENGNew": "I realized that my assumption I'd get off with just a finger or so was not resolve -- it had been nothing but naive wishful thinking...",
+    "significantChanges": true,
+    "changeReason": "Significantly different: 'I had been underestimating my punishment' vs 'my assumption I'd get off with just a finger was not resolve -- it had been nothing but naive wishful thinking'; Japanese specifically mentions 指の一本 (one finger) and 甘え (naivete/dependence)",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 67122,
+    "TextENGNew": "I'd always said the Sonozaki main house was terrifying, and intellectually I'd understood that. But I'd never truly grasped it.",
+    "significantChanges": true,
+    "changeReason": "Different: 'I hadn't been aware of the real terror until now' vs 'I'd always said the Sonozaki main house was terrifying, and intellectually I'd understood that. But I'd never truly grasped it'; Japanese distinguishes between 言葉の上では (in words) and 本当の意味では (true meaning)",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 67123,
+    "TextENGNew": "Because... the air beyond that steel door was something I'd never smelled before -- an air of dread so thick it was suffocating, and yet unmistakably, inescapably real.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands the sensory description of the underground atmosphere, capturing the Japanese nuance of dread and reality",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 67124,
+    "TextENGNew": "...The moment I acknowledged my own fear, it was over.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 67125,
+    "TextENGNew": "I wanted to spit out defiant words, to kindle some false bravado inside me, but my lips had gone bone-dry without my noticing.@k...I could feel my fingertips fidgeting, restless and uncontrolled.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 67126,
+    "TextENGNew": "Down a narrow corridor, descending several flights of stairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 67127,
+    "TextENGNew": "Through another massive steel door.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 67128,
+    "TextENGNew": "...I had arrived at that room.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 67129,
+    "TextENGNew": "It was... a spacious room.@k...And the most bizarre room I had ever seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 67130,
+    "TextENGNew": "The room was split into two halves, each with a completely different character.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 67131,
+    "TextENGNew": "One half was a traditional Japanese sitting room.@k...There, occupying the seats of honor as in a family council, sat over a dozen relatives, all wearing expressions of eerie blankness on their cushions.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 67132,
+    "TextENGNew": "The other half had tiled floors and walls, like some enormous communal shower room.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 67133,
+    "TextENGNew": "This hybrid space -- formal sitting room fused with bathhouse -- was already thoroughly abnormal.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 67134,
+    "TextENGNew": "...And then... no, 'and then' is the wrong way to put it.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 67135,
+    "TextENGNew": "Because these were the very first things my eyes had seized upon when I entered.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 67136,
+    "TextENGNew": "Before the sitting room, before the tiles -- far, far before any of that.@kAnd yet... the very last things I wanted to acknowledge.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 67137,
+    "TextENGNew": "...My legs turned to straw.@kMy knees nearly buckled.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 67138,
+    "TextENGNew": "But they wouldn't even let me collapse.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 67139,
+    "TextENGNew": "From the moment I entered this room, two young men had locked my arms firmly in their grip.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 67140,
+    "TextENGNew": "Mounted on the shower-room walls were objects I'd never seen before -- yet whose purpose I could guess with horrible clarity.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 67141,
+    "TextENGNew": "...Ahh, calling them 'objects' was itself a cowardly evasion.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 67142,
+    "TextENGNew": "I should have known perfectly well what to call them.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 67143,
+    "TextENGNew": "...Ahhhh... I knew. I accepted it.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 67144,
+    "TextENGNew": "I understood that they were torture instruments... grotesquely warped into shapes that seemed to belong to another world entirely...",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 67145,
+    "TextENGNew": "``Damned fool.@k@vS06/17/152300015. What face did you think you could show, crawling back here...``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 67146,
+    "TextENGNew": "The grandmother, seated at the front of the room, spoke in a voice so terrifying it couldn't help but cow every listener... slowly, as if letting each word soak in.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 67147,
+    "TextENGNew": "After that she ranted at length about something dreadful, but her accent was so thick with fury that I could barely make out the words.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 67148,
+    "TextENGNew": "...But even without catching every word... I could understand what she was trying to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 67149,
+    "TextENGNew": "...The grandmother had been prepared to overlook my escape from the academy.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 67150,
+    "TextENGNew": "But the moment I'd identified myself as Sonozaki Shion to the police, that option vanished.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 67151,
+    "TextENGNew": "With it now publicly known that I'd defied the family head's orders, the Sonozaki main house had no choice but to punish me.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 67152,
+    "TextENGNew": "...And above all else.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 67153,
+    "TextENGNew": "What the grandmother found most intolerable.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 67154,
+    "TextENGNew": "...Was that I had shielded Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 67155,
+    "TextENGNew": "...The Houjou family had been the ringleaders of the faction that defied the Three Families' wishes during the dam war.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 67156,
+    "TextENGNew": "The enmity between them and the Sonozaki family that had persisted since then extended even to Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 67157,
+    "TextENGNew": "That I, a Sonozaki, had any connection to Houjou Satoshi was unacceptable to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 67158,
+    "TextENGNew": "That was... deeply unexpected to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 67159,
+    "TextENGNew": "I had escaped from the academy that the grandmother had placed me in.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 67160,
+    "TextENGNew": "I'd assumed that was what had earned her wrath.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 67161,
+    "TextENGNew": "...But in reality, what truly displeased her was the pairing of me and Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 67162,
+    "TextENGNew": "I was filled with disbelief.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 67163,
+    "TextENGNew": "...I knew full well that during the dam war, Satoshi-kun's parents had served as standard-bearers for the pro-dam faction, obstructing the village's united front.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 67164,
+    "TextENGNew": "But I'd believed that was his parents' affair, not something their son should be held accountable for.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 67165,
+    "TextENGNew": "``...But that has nothing to do with Satoshi-kun...@k@vS06/06/150600918. Even if his parents deserved it, Satoshi-kun personally bears no responsi--``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 67166,
+    "TextENGNew": "``SILENCE!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 67167,
+    "TextENGNew": "The grandmother's thundering shout cut me off before I could finish, and I cringed involuntarily.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 67168,
+    "TextENGNew": "She spewed vile abuse at the Houjou family's transgressions and declared that Satoshi-kun was equally the spawn of those who'd defied the Three Families.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 67169,
+    "TextENGNew": "...As I listened, fury began to build inside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 67170,
+    "TextENGNew": "What had Satoshi-kun ever done?@kWhat crime could possibly be laid at his feet?",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 67171,
+    "TextENGNew": "By the time I realized it, I'd already spoken aloud the very thoughts in my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 67172,
+    "TextENGNew": "Seeing the grandmother's eyes blaze with mounting rage, I finally understood what I'd just said.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 67173,
+    "TextENGNew": "And so I resolved to say it again -- this time deliberately, of my own will.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 67174,
+    "TextENGNew": "``...What are you even saying, you old hag?@k@vS06/06/150600920. I've been sitting here listening to your drivel and it's all garbage!``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 67175,
+    "TextENGNew": "``Huhh?!@k@vS06/17/152300018. How dare you speak to me that way!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 67176,
+    "TextENGNew": "``Shut the hell up! Let me finish, you old fool!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 67177,
+    "TextENGNew": "I bellowed loud enough to drown out even the grandmother's roar.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 67178,
+    "TextENGNew": "``What do you even know about Satoshi-kun?!@k@vS06/06/150600923. You don't know the first thing about him, and yet you dismiss him like he's vermin!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 67179,
+    "TextENGNew": "``I know exactly how wonderful a person Satoshi-kun is!@k@vS06/06/150600925. Is the problem that he's a Houjou?@k@vS06/06/150600926. How ridiculous!!@k@vS06/06/150600927. How absolutely pathetic!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 67180,
+    "TextENGNew": "``Is it really that unbearable that a Sonozaki was with a Houjou?!@k@vS06/06/150600929. What petty, small-minded, idiotic garbage!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 67181,
+    "TextENGNew": "``I never thought I'd get to live out my own bargain-bin Romeo and Juliet!@k@vS06/06/150600931. Ah ha ha ha ha ha!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 67182,
+    "TextENGNew": "No matter how boldly I forced the words out, my voice was cracking.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 67183,
+    "TextENGNew": "Tears were streaming down my face, leaving it a mess.@kBut... I had no intention of stopping this outpouring.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 67184,
+    "TextENGNew": "...Even if this righteous fury was nothing more than a temporary reprieve from fear.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 67185,
+    "TextENGNew": "The grandmother, living up to her title in every sense, was glaring at me with heaving breaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 67186,
+    "TextENGNew": "I glared right back, panting just as hard, trying to devour her with my eyes alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 67187,
+    "TextENGNew": "...Eventually.@kI realized the grandmother's fixation was specifically on my relationship with Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 67188,
+    "TextENGNew": "...She wasn't merely condemning us for being together. It went deeper than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 67189,
+    "TextENGNew": "``...I see... so Mion told you about that too...``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 67190,
+    "TextENGNew": "Mion's face was as expressionless as a Noh mask.@kShe didn't flinch under my venomous gaze.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 67191,
+    "TextENGNew": "...What the grandmother truly found intolerable.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 67192,
+    "TextENGNew": "...Was that I had romantic feelings for Satoshi-kun...",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 67193,
+    "TextENGNew": "``Ahahahahahahaha!@k@vS06/06/150600934. Aha hahahahahahaha!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 67194,
+    "TextENGNew": "``It's true -- I couldn't care less about being a Sonozaki, or about Satoshi-kun being a Houjou, or about family honor, or public appearances!@k@vS06/06/150600936. Yes, I'll admit it! I'll admit everything!``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 67195,
+    "TextENGNew": "``I love Houjou Satoshi-kun.@k@vS06/06/150600938. I love him with all my heart!@k@vS06/06/150600939. Is that so wrong?!@k@vS06/06/150600940. Is loving someone really such a terrible sin?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 67196,
+    "TextENGNew": "Behind the grandmother, I could see relatives shaking their heads at the irreversible turn things had taken, or looking down in dismay.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 67197,
+    "TextENGNew": "Among them... I spotted my mother, who had surely fought hardest to protect me.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 67198,
+    "TextENGNew": "She was no longer looking at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 67199,
+    "TextENGNew": "All she could do was maintain her silence and stare at the tatami.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 67200,
+    "TextENGNew": "``Can you all hear me back there?!@k@vS06/06/150600942. Am I saying something crazy?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 67201,
+    "TextENGNew": "``If any of you bothered to get to know Satoshi-kun, you'd see in an instant what a wonderful person he is, and you'd understand why I fell for him!!@k@vS06/06/150600944. So why won't you even try to understand before you judge?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 67202,
+    "TextENGNew": "Mion raised her hand in a gesture that said 'that's enough,' silencing me.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 67203,
+    "TextENGNew": "Then she walked slowly toward me.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 67204,
+    "TextENGNew": "``...That will do, Shion.@k@vS06/03/150300192. I understand what you wanted to say, and the resolve behind it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 67205,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 67206,
+    "TextENGNew": "Then Mion brought her face so close our foreheads nearly touched, and whispered in a voice only I could hear.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 67207,
+    "TextENGNew": "``...I understand your resolve, Shion.@k@vS06/03/150300194. ...But after going this far, no one can shield you anymore.@k@vS06/03/150300195. ...You need to show that you can settle accounts on your own.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 67208,
+    "TextENGNew": "``...Settle accounts?!@k@vS06/06/150600947. Why should I?!@k@vS06/06/150600948. What I did wasn't--``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 67209,
+    "TextENGNew": "``Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 67210,
+    "TextENGNew": "Mion's face hardened back into the cold mask of the heir apparent... and she spoke as if admonishing me.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 67211,
+    "TextENGNew": "``...What you call individual reasoning is probably correct.@k@vS06/03/150300198. ...But you understand this, don't you?@k@vS06/03/150300199. This is Hinamizawa, and we are the Sonozaki family. Individual logic doesn't always prevail here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 67212,
+    "TextENGNew": "``And you are, like it or not, the twin sister of Sonozaki Mion, next head of the Sonozaki family.@k@vS06/03/150300202. ...And yet--``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 67213,
+    "TextENGNew": "I didn't let Mion finish. I cut her off with my own words.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 67214,
+    "TextENGNew": "``We've never seen eye to eye on this since I came back.@k@vS06/06/150600950. It's always 'grown-up reasons' this and 'grown-up reasons' that!@k@vS06/06/150600951. Hinamizawa? The Sonozaki family? So what?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 67215,
+    "TextENGNew": "``Listen!``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 67216,
+    "TextENGNew": "Mion interrupted me in turn, just as I had done to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 67217,
+    "TextENGNew": "``...Shion, in the course of establishing your life in Okinomiya... how many people did you depend on?``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 67218,
+    "TextENGNew": "...Something cold slithered up my spine.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 67219,
+    "TextENGNew": "``...Kasai-san is in the cell at the back.``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 67220,
+    "TextENGNew": "``Wh-Why is Kasai there?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 67221,
+    "TextENGNew": "It shouldn't have surprised me.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 67222,
+    "TextENGNew": "...The moment I was caught, everyone who'd sheltered me shared the same fate.@k...Their crime of defying the family head was identical to mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 67223,
+    "TextENGNew": "I... might actually be getting off easy.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 67224,
+    "TextENGNew": "...Kasai, locked in that back cell, and Uncle Yoshiroh, who'd surely be dragged here soon --@k...they were probably being treated far more roughly.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 67225,
+    "TextENGNew": "Everyone who'd indulged my selfishness... was now paying for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 67226,
+    "TextENGNew": "``...Even if you're prepared for whatever happens to you, Shion.@k@vS06/03/150300205. Have you spared a thought for what happens to Kasai-san and Uncle Yoshiroh, who helped you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 67227,
+    "TextENGNew": "The scalding sensation that had filled my head was rapidly draining away.@k...My defiance had long since been spent.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 67228,
+    "TextENGNew": "Whatever torment they inflicted on me alone, I could surely endure.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 67229,
+    "TextENGNew": "But what I couldn't stomach was causing harm to the people who'd defied the main house for my sake.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 67230,
+    "TextENGNew": "``...Shion.@k@vS06/03/150300207. Apologize to Granny.@k@vS06/03/150300208. If you demonstrate that you can settle your own accounts, this can end with you alone.@k@vS06/03/150300209. ...The others won't be touched.``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 67231,
+    "TextENGNew": "``But... but, Mion...@k@vS06/06/150600958. Did I really say something wrong...?@k@vS06/06/150600959. Was what I did... really so terrible...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 67232,
+    "TextENGNew": "...Seeing that I lacked the resolve to settle accounts, Mion retracted the brief flash of compassion she'd shown... and her expression returned to its former coldness.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 67233,
+    "TextENGNew": "She turned her back on me and walked toward the sitting room.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 67234,
+    "TextENGNew": "...I had picked a fight with the grandmother, full of bluster.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 67235,
+    "TextENGNew": "...I had insisted I'd done nothing wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 67236,
+    "TextENGNew": "...But I'd dragged everyone who'd helped me into this mess.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 67237,
+    "TextENGNew": "...That was my responsibility, without anyone needing to point it out.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 67238,
+    "TextENGNew": "...A sin that I alone should bear... and they bore no fault whatsoever.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 67239,
+    "TextENGNew": "...Yes, just as Satoshi-kun himself was blameless, so too were Kasai and Uncle Yoshiroh.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 67240,
+    "TextENGNew": "At that moment... as if she'd read every thought in my heart... Mion turned back and... gave the smallest nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 67241,
+    "TextENGNew": "Just like Kasai and Uncle Yoshiroh.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 67242,
+    "TextENGNew": "...Even blameless Satoshi-kun... might be dragged into this.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 67243,
+    "TextENGNew": "``W-... Wait, Sis...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 67244,
+    "TextENGNew": "No... that absolutely could not happen...@kNot Satoshi-kun -- no, I mean -- none of them deserve this.@kIf I alone can settle this, then please, spare them all...!",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 67245,
+    "TextENGNew": "``...What is it, Shion...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 67246,
+    "TextENGNew": "``...I'm...``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 67247,
+    "TextENGNew": "Tears traced countless paths down my crumpled face.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 67248,
+    "TextENGNew": "...My cheap pride, my petty vanity -- none of it mattered anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 67249,
+    "TextENGNew": "``...I'm sorry...@k@vS06/06/150600963. I was wrong...@k@vS06/06/150600964. ...Please forgive me, Honored Leader.``",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 67250,
+    "TextENGNew": "That should have been what the grandmother wanted to hear.@k...And yet the old hag's face remained displeased.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 67251,
+    "TextENGNew": "...Of course it did.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 67252,
+    "TextENGNew": "...I had berated her in front of the entire assembled family.@k...There was no way she could simply let me off after that.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 67253,
+    "TextENGNew": "In the grandmother's stead, it was Mion, the next head, who spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 67254,
+    "TextENGNew": "``Then, Shion.@k@vS06/03/150300212. ...How do you intend to settle your accounts?``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 67255,
+    "TextENGNew": "``S-Settle...? What do you want me to...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 67256,
+    "TextENGNew": "Being told to 'settle accounts' while surrounded by those dreadful torture instruments on the walls -- nothing could be more terrifying.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 67257,
+    "TextENGNew": "...I could only tremble anew at the sheer horror of those words.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 67258,
+    "TextENGNew": "As I stood paralyzed with fear, Mion took pity and whispered something to the grandmother.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 67259,
+    "TextENGNew": "...The grandmother nodded.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 67260,
+    "TextENGNew": "Mion called over some young men and gave them instructions.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 67261,
+    "TextENGNew": "They went to the wall and took down one of the menacing instruments...",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 67262,
+    "TextENGNew": "...then brought a table before me and placed the device on it.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 67263,
+    "TextENGNew": "``...What is... this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 67264,
+    "TextENGNew": "Trembling, I looked at the sinister tool on the table.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 67265,
+    "TextENGNew": "At first glance, it resembled an enormously oversized nail clipper.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 67266,
+    "TextENGNew": "``One fingernail for each debt you've incurred.@k@vS06/03/150300216. ...Sonozaki Shion.@k@vS06/03/150300217. You may choose any fingers you wish.@k@vS06/03/150300218. Three fingernails.``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 67267,
+    "TextENGNew": "Three.@k...One for Kasai.@kOne for Uncle Yoshiroh.@k...And one for... Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 67268,
+    "TextENGNew": "...The number was more than fair.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 67269,
+    "TextENGNew": "``Will you... really spare the others... if I do this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 67270,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 67271,
+    "TextENGNew": "``Promise me...@k@vS06/06/150600970. Promise that if I tear off my own nails... you'll forgive everyone else...``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 67272,
+    "TextENGNew": "``This is your atonement, not a negotiation.@k@vS06/03/150300221. ...If this method doesn't suit you--``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 67273,
+    "TextENGNew": "``I'll do it, so wait!!!@k@vS06/06/150600972. Just wait... I'm doing it... I'll do it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 67274,
+    "TextENGNew": "I placed my trembling left hand against the instrument's ghastly beak...",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 67275,
+    "TextENGNew": "Immediately, the young men locked my hand and the device together with a separate restraining apparatus.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 67276,
+    "TextENGNew": "Each step of this process@kdrove home the reality of what was about to happen,@k...and closed off every avenue of escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 67277,
+    "TextENGNew": "Even now, somewhere in my heart, I'd been clinging to the hope that they might let it end as just a gesture.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 67278,
+    "TextENGNew": "I thought I'd already thrown away such naivety...",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 67279,
+    "TextENGNew": "But as they tightened the noose bit by bit, the wishful thinking I'd believed gone kept being squeezed from my chest... spilling out as tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 67280,
+    "TextENGNew": "Once they'd confirmed my hand was firmly secured, a cold, agonizing silence settled in -- the kind that demanded action.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 67281,
+    "TextENGNew": "``...So... wh-what... do I do now...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 67282,
+    "TextENGNew": "One of the young men pointed to the handle of this monstrous nail-clipper and told me to either squeeze it or strike it.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 67283,
+    "TextENGNew": "After that, no one forced anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 67284,
+    "TextENGNew": "An aching silence in which the only sound was my sweat dripping onto the surface.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 67285,
+    "TextENGNew": "The witnesses watched in silence, waiting to see me carry out my atonement.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 67286,
+    "TextENGNew": "...The grandmother, and Mion too.@k...They waited, unblinking, for me to settle my own debt with my own hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 67287,
+    "TextENGNew": "...Continuing to tremble and refuse was surely one option.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 67288,
+    "TextENGNew": "...But if I chose that, it wouldn't count as settling accounts.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 67289,
+    "TextENGNew": "Settling accounts meant: my punishment alone would atone for the sin.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 67290,
+    "TextENGNew": "...If I refused, the punishment would extend to every person close to me who had helped.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 67291,
+    "TextENGNew": "``Hah... hah... hahhh... hahhh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 67292,
+    "TextENGNew": "I knew.@kIf I tore off three of my own fingernails, no one else would be harmed.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 67293,
+    "TextENGNew": "This was, if anything, an extraordinarily lenient deal.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 67294,
+    "TextENGNew": "...It was only three nails because it was me.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 67295,
+    "TextENGNew": "...If it were Kasai, they wouldn't stop at nails -- it would be fingers, or something far worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 67296,
+    "TextENGNew": "I knew. I knew that.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 67297,
+    "TextENGNew": "Escaping the academy had been my selfish whim.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 67298,
+    "TextENGNew": "What crime had Kasai committed, other than gladly helping me?",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 67299,
+    "TextENGNew": "I knew. I knew that.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 67300,
+    "TextENGNew": "What crime had Uncle Yoshiroh committed, other than finding me work and helping me make ends meet?",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 67301,
+    "TextENGNew": "I now understood all too well that the grandmother and the relatives still despised the Houjou name...",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 67302,
+    "TextENGNew": "So if I failed to settle accounts here... I couldn't imagine what horrors they'd visit on Satoshi-kun...",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 67303,
+    "TextENGNew": "Would they... drag Satoshi-kun to this very room? Place this same instrument before him?",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 67304,
+    "TextENGNew": "...Would they tell him to tear off his own nails in exchange for forgiving me? Would they force him to do the same...?",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 67305,
+    "TextENGNew": "...Satoshi-kun would do it.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 67306,
+    "TextENGNew": "...If sacrificing himself could save someone, Satoshi-kun would do it without a moment's hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 67307,
+    "TextENGNew": "Sweat beaded across my entire face, channeling along the ridge of my nose, gathering into droplets at its tip that fell steadily onto the table.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 67308,
+    "TextENGNew": "...Do it... just do it.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 67309,
+    "TextENGNew": "...It's only three fingernails.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 67310,
+    "TextENGNew": "...I'm getting off this lightly only because it's me.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 67311,
+    "TextENGNew": "If I refuse... everyone else will pay in far worse ways...",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 67312,
+    "TextENGNew": "I can't let Kasai or Uncle Yoshiroh or... Satoshi-kun suffer because of me...",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 67313,
+    "TextENGNew": "I alone must bear this responsibility...",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 67314,
+    "TextENGNew": "So... so... I just have to endure the pain that's about to come...",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 67315,
+    "TextENGNew": "That's right... do it all at once.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 67316,
+    "TextENGNew": "That way it hurts less, that way it's less terrifying...!",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 67317,
+    "TextENGNew": "``Hah... hah!@k@vS06/06/150600979. Hahh!!@k@|@y@vS06/06/150600980. ....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 67318,
+    "TextENGNew": "I held my final breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 67319,
+    "TextENGNew": "Don't be afraid.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 67320,
+    "TextENGNew": "...I can do this. I can endure this...!",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 67321,
+    "TextENGNew": "``AAAAAHHHHHHHH!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 67322,
+    "TextENGNew": "I brought my raised fist crashing down onto the handle of the torture device.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 67323,
+    "TextENGNew": "In that instant, a pain unlike anything I had ever experienced in my life attacked from an angle I didn't know existed.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 67324,
+    "TextENGNew": "I clenched my teeth with all my might.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 67325,
+    "TextENGNew": "Hard enough to crack my molars!",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 67326,
+    "TextENGNew": "I had to do this... two more times?",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 67327,
+    "TextENGNew": "I looked at the grandmother and Mion, begging with my eyes for mercy.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 67328,
+    "TextENGNew": "There wasn't a trace of sympathy to be found.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 67329,
+    "TextENGNew": "...They had no intention of relenting.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 67330,
+    "TextENGNew": "Three nails meant three nails. Absolutely and without exception.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 67331,
+    "TextENGNew": "They wouldn't forgive me until I endured this agony two more times and tore off two more nails...!",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 67332,
+    "TextENGNew": "``...Mion... please... isn't this enough...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 67333,
+    "TextENGNew": "``...It really... hurts... heh... heh heh heh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 67334,
+    "TextENGNew": "``...Shion.@k@vS06/03/150300226. ...Just a little more. You can do it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 67335,
+    "TextENGNew": "``No no no no!!@k@vS06/06/150601001. I really can't! It really hurts! It hurts so much!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 67336,
+    "TextENGNew": "Mion shook her head slightly, then signaled the young men with her chin.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 67337,
+    "TextENGNew": "...There was no hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 67338,
+    "TextENGNew": "If... there was anything to be grateful for.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 67339,
+    "TextENGNew": "...It was that the one who carried it out was experienced, and cleanly removed both remaining nails in two swift strokes.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 67340,
+    "TextENGNew": "Amid the pain and the screaming... as I went on shrieking, my consciousness grew thinner and thinner, and fainter and fainter...",
+    "significantChanges": false
+  }
+]

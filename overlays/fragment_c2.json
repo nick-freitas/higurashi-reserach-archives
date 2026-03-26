@@ -1,0 +1,688 @@
+[
+  {
+    "index": 1,
+    "MessageID": 4815,
+    "TextENGNew": "Rika came down with a high fever.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 4816,
+    "TextENGNew": "A very high one, at that.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 4817,
+    "TextENGNew": "It wasn't the season for contagious illnesses like influenza.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 4818,
+    "TextENGNew": "...My mind went immediately to the strange experiments Rika had apparently undergone just recently.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'just recently' (つい最近) and 'apparently undergone' (受けたという) with hearsay; original's 'I could only think of' loses the temporal and hearsay nuances.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 4819,
+    "TextENGNew": "Perhaps that was the cause.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 4820,
+    "TextENGNew": "Rika's physical development was slightly behind the other children her age.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 4821,
+    "TextENGNew": "Week after week of suspicious injections and experiments — it was only a matter of time before her body gave out.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'it was only a matter of time before her body gave out' (体が参ってしまうに違いない) implying inevitability; original says 'I'm sure her body is exhausted' which is about current state, not inevitable collapse.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 4822,
+    "TextENGNew": "I had asked them to take it a little easier, but Rika herself had no fear of anything and went along with every experiment without a second thought.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'I had asked them to take it easier' vs 'I've asked the staff to go easy on her.' More importantly, JPN says Rika 'went along with every experiment willingly' (ほいほい応じてしまう) while original says 'is willing to go through anything' — past vs present tense shift changes the narrative frame.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 4823,
+    "TextENGNew": "My husband, who should have been guiding her otherwise, had been told this was a grave matter affecting over two thousand villagers — and he swallowed it whole, dutifully bringing our daughter to the clinic every single week.",
+    "significantChanges": true,
+    "changeReason": "New translation more precisely captures JPN: 'had been told this was a grave matter affecting over two thousand villagers and swallowed it whole' (吹き込まれて鵜呑みにし) — 'swallowed it whole' captures 鵜呑み (gullibility) that original's 'truly believes' doesn't.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 4824,
+    "TextENGNew": "...I was the only one who truly worried about Rika's body.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 4825,
+    "TextENGNew": "That is why I wanted to give Dr. Irie a piece of my mind — I wanted him to be a little more careful with her.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'give Dr. Irie a piece of my mind' and 'wanted him to be more careful with her' vs original's 'ask Dr. Irie to be a little more considerate.' 'A piece of my mind' implies confrontation vs polite request.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 4826,
+    "TextENGNew": "In any case, I was going to make them explain how they intended to take responsibility for this.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'make them explain how they intended to take responsibility' (釈明させる); original says 'talk to them about taking responsibility.' Making someone explain vs talking to them conveys different power dynamics.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 4827,
+    "TextENGNew": "Someone from the clinic drove over the moment I telephoned, and Rika was admitted at once.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'drove over the moment I telephoned' and 'admitted at once' (すぐに) emphasizing urgency; original's 'right after I called... came to pick Rika up' is similar but less urgent in tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 4828,
+    "TextENGNew": "I, too, went along with her as her guardian.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 4829,
+    "TextENGNew": "\"Please calm down, mother. We will save her — just give us a little while longer.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops the @k and voice tags from dialogue, collapsing the pacing. Also changes 'We'll make sure she'll be okay' to 'We will save her' (必ず救いますから) — 'save' is stronger than 'make sure she'll be okay.'",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 4830,
+    "TextENGNew": "``How can I possibly calm down?!@k@vS20/00/VTK1_rikaM1002. A sudden fever this high is not normal...!!@k@vS20/00/VTK1_rikaM1003. Isn't this the result of that suspicious experiment you conducted last week?!``",
+    "significantChanges": true,
+    "changeReason": "New translation significantly shortens the dialogue, dropping voice tags and some content. Original includes the full angry speech about experiments; new condenses it.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 4831,
+    "TextENGNew": "\"Rika is a small girl her age — she has every right to be! She cares so much for her friends, and she agreed to cooperate for the sake of her friend who had fallen ill—\"",
+    "significantChanges": true,
+    "changeReason": "New translation shortens and restructures, dropping voice tags. Content is reorganized.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 4832,
+    "TextENGNew": "\"I understand... And there is absolutely no possibility that our research could have any adverse effect on Rika-san — and in the unlikely event that—\"",
+    "significantChanges": true,
+    "changeReason": "New translation shortens and drops voice tags, condensing Irie's reassurance.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 4833,
+    "TextENGNew": "\"Then what do you call this fever?!!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says '一体どういうことなんですか' (what on earth is going on with this); original says 'Then explain this high fever' vs new's 'Then what do you call this fever?!' — different framing of the demand.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 4834,
+    "TextENGNew": "\"It is most likely a change in the season—\"",
+    "significantChanges": true,
+    "changeReason": "JPN says '恐らくは季節の変わり目ですので' (it's probably due to the change of seasons); original adds 'and...' trailing off while new adds a dash for interruption. Minor but different punctuation conveying different interruption styles.",
+    "changeScore": 1
+  },
+  {
+    "index": 21,
+    "MessageID": 4835,
+    "TextENGNew": "\"As if it's just a cold?! It has to be because of that strange injection you gave her!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and restructures. Original includes full multi-line dialogue; new condenses.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 4836,
+    "TextENGNew": "Dr. Irie kept insisting I calm down, and gave no sign that he was prepared to admit it was their fault.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'gave no sign that he was prepared to admit' vs original's 'refused to accept responsibility.' JPN says 認めないようだった (seemed unwilling to admit) — the hedging 'seemed' is in new but not original.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 4837,
+    "TextENGNew": "...My husband had told me this concerned something of great importance to the village, and I had suppressed my suspicions until now.",
+    "significantChanges": true,
+    "changeReason": "New translation uses 'suppressed my suspicions up to this point' vs original's 'held back my doubts until now.' Also JPN says 村の一大事 (great importance to the village) which new captures as 'something of great importance to the village' while original says 'all for the sake of the village.'",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 4838,
+    "TextENGNew": "But honestly — I had reached my limit.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 4839,
+    "TextENGNew": "To begin with, something about them had been suspicious from the very start.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'something about them had been suspicious from the very start' vs original's 'Their existence has been suspicious from the beginning.' JPN says 彼らの存在は (their existence/presence) — both capture this but 'something about them' is vaguer than 'their existence.'",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 4840,
+    "TextENGNew": "They claimed to be conducting research in secret under the banner of protecting privacy, or something of the sort.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'claimed to be conducting research in secret under the banner of protecting privacy' vs original's 'conducting their research in secret, using a privacy policy as an excuse.' 'Under the banner of' vs 'using as an excuse' frames the deception differently.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 4841,
+    "TextENGNew": "...That alone was cause enough for suspicion.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 4842,
+    "TextENGNew": "It made no sense.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'そんなのあるわけがない' (there's no way that's true/that can't be); original says 'It's just impossible' vs new's 'It made no sense.' 'Impossible' and 'made no sense' convey different types of disbelief.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 4843,
+    "TextENGNew": "In fact, when I called the Ministry of Health directly, they simply told me there was no such institution — and that was that.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'and that was that' capturing the dismissiveness of あっさり言われてしまった (was simply told); also specifies 'there was no such institution' while original says 'that wasn't true at all.'",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 4844,
+    "TextENGNew": "Even after I told them I was Rika Furude's mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 4845,
+    "TextENGNew": "When I confronted them about it, they brushed it off, saying that as a special organisation, ordinary staff might not know of their existence...",
+    "significantChanges": true,
+    "changeReason": "New translation says 'brushed it off' (はぐらかす) vs original's 'came up with stupid excuses.' 'Brushed it off' implies dismissal while 'stupid excuses' implies judgment of the excuses.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 4846,
+    "TextENGNew": "Something was absolutely wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 4847,
+    "TextENGNew": "They were suspicious.",
+    "significantChanges": true,
+    "changeReason": "JPN simply says '疑わしい' (suspicious/doubtful); original adds 'much, much too' intensifying beyond JPN. New translation's simple 'They were suspicious' is closer to JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 4848,
+    "TextENGNew": "And inside the research facility, there were people who were clearly not researchers.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 4849,
+    "TextENGNew": "...At first glance they looked like security guards — but they were deeply unsettling in a way that no ordinary hospital's security staff ever was.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'deeply unsettling in a way that no ordinary hospital guard would be' vs original's 'they seem so different from normal guards at a normal hospital.' JPN says 違和感のある (having a sense of wrongness/unease) which 'deeply unsettling' captures better.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 4850,
+    "TextENGNew": "I had seen it once before.",
+    "significantChanges": true,
+    "changeReason": "JPN says '私は以前、見てしまっている' (I had accidentally seen it before); original says 'one time I accidentally saw' but gets cut off mid-sentence. New translation's 'I had seen it once before' is a complete sentence.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 4851,
+    "TextENGNew": "The fact that they were secretly armed with pistols.",
+    "significantChanges": true,
+    "changeReason": "JPN says '拳銃で武装している' (armed with pistols); original says 'armed with guns' while new says 'secretly armed with pistols.' 'Guns' vs 'pistols' (拳銃) is more specific in the new.",
+    "changeScore": 2
+  },
+  {
+    "index": 38,
+    "MessageID": 4852,
+    "TextENGNew": "\"...Well, you see—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 4853,
+    "TextENGNew": "\"Are those people police? They certainly don't look it! Soldiers? Special agents of some kind?! What are they hiding in that place?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation significantly condenses the multi-line dialogue, dropping voice tags and some specific questions. Original preserves the separate questions about police/soldiers.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 4854,
+    "TextENGNew": "Dr. Irie had been completely overwhelmed by my force, and seemed unable to give me a decent answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 4855,
+    "TextENGNew": "There was still something they were hiding from us.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 4856,
+    "TextENGNew": "And it pointed to the fact that this research surrounding Rika was not something wholesome.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'was not something wholesome' vs original's 'isn't anything proper.' JPN says まともなものではない — 'wholesome' and 'proper' have different connotations.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 4857,
+    "TextENGNew": "``In any case, I am Rika's guardian!@k@vS20/00/VTK1_rikaM1014. Rika is still a child.@k@vS20/00/VTK1_rikaM1015. No matter what she says, I have no intention of letting her help with your research ever again!``",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses multi-line dialogue. Also changes 'It doesn't matter what she says' to 'I have the right to object to my daughter's treatment' — substantially different framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 4858,
+    "TextENGNew": "\"...My, my. Isn't that Rika-chan's mother? What a surprise. What seems to be the trouble?\"",
+    "significantChanges": true,
+    "changeReason": "New translation significantly condenses the multi-part dialogue, dropping voice tags. Loses some of the original's staged delivery.",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 4859,
+    "TextENGNew": "\"Ah, well... Her mother is saying she doesn't want Rika-san to be involved in the research any further...\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses. Same content but reformatted.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 4860,
+    "TextENGNew": "\"...And why is that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 4861,
+    "TextENGNew": "\"Because my daughter is not your test animal!!\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'うちの子はあなたたちの実験動物ではない' (my child is not your test animal); original says 'guinea pig' while new says 'test animal.' 実験動物 literally means 'experimental animal,' which 'test animal' captures more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 48,
+    "MessageID": 4862,
+    "TextENGNew": "\"...We have never treated her as such. That is a grave misunderstanding.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses the multi-line response into one sentence.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 4863,
+    "TextENGNew": "I was startled, just for a moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 4864,
+    "TextENGNew": "...Dr. Irie had seemed like a gentle man who would relent if pressed a little.",
+    "significantChanges": true,
+    "changeReason": "JPN 気の弱い人 is rendered as 'weak person' in old vs 'gentle man' in new; this shifts the characterization of Irie from negative to sympathetic, a moderate tonal change.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 4865,
+    "TextENGNew": "But this woman, Takano — even though I was the one raising my voice, she showed not a hint of intimidation.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'not a hint of intimidation' vs original's 'not afraid at all.' JPN says 怖気づかない (not intimidated). Also new identifies her as 'this woman, Takano' vs 'Takano-san.'",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 4866,
+    "TextENGNew": "No — if anything, her eyes blazed, and she almost looked as if she were the one about to come at me...",
+    "significantChanges": true,
+    "changeReason": "New translation says 'her eyes blazed' and 'she were the one about to come at me' vs original's 'glaring daggers' and 'about to jump on me.' 'Blazed' vs 'glaring daggers' conveys different visual imagery.",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 4867,
+    "TextENGNew": "``Rika-chan's fever is from a cold.@k@vS20/09/VTK1_takano1187. You cannot blame us for that.@k@vS20/09/VTK1_takano1188. We maintain the same level of care for safety and hygiene as a national research facility.``",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses multi-line dialogue. Loses the detail about 'national research institute-level care.'",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 4868,
+    "TextENGNew": "\"Forgive me for saying so, but the way you walk her about holding her hand without even wiping them with alcohol — if anything, we are cleaner than you are.\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures the insult about hygiene. Original says 'I don't mean to be rude, but considering you walk around while holding Rika-chan's hands without disinfecting yours with alcohol'; new adds 'if anything is unsanitary here' shifting the attack.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 4869,
+    "TextENGNew": "\"...Th-That's not what I'm talking about!! Anyway — Rika is not your plaything!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses multi-line dialogue.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 4870,
+    "TextENGNew": "\"We cannot simply have you decide that on your own. Both parents signed a written agreement agreeing to cooperate with us—\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses the multi-part statement.",
+    "changeScore": 2
+  },
+  {
+    "index": 57,
+    "MessageID": 4871,
+    "TextENGNew": "\"We deposit a not inconsiderable amount into your account each month in return for that cooperation.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 4872,
+    "TextENGNew": "\"I — I don't know anything about that money?! I've never heard of it!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags, condenses. Changes 'I know nothing about any money' to 'I don't know anything about that money' — minor.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 4873,
+    "TextENGNew": "It was the first I had ever heard that money was being paid for Rika's cooperation in the research.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'it was the first I had ever heard' (初耳) vs original's 'really is news to me.' Same meaning but new is more emphatic.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 4874,
+    "TextENGNew": "...Knowing my husband's character, it was hard to imagine he had been quietly pocketing it as spending money without telling me.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'it was hard to imagine he had been quietly pocketing it' vs original's 'he wouldn't have used it as spending money behind my back.' JPN says ということはあるまい (it's unlikely that...) which new captures as uncertainty.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 4875,
+    "TextENGNew": "Most likely, he had thought of it as selfless service for the sake of the villagers and had completely forgotten the money was being deposited at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 4876,
+    "TextENGNew": "...There was no such unusual deposit in our regular account — perhaps it was going into a fixed-term account somewhere...",
+    "significantChanges": true,
+    "changeReason": "New translation says 'a fixed-term account somewhere' vs original's 'our savings.' JPN says 定期預金 (fixed-term deposit) which is a specific financial product different from generic 'savings.'",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 4877,
+    "TextENGNew": "...In any case, I knew nothing about any of this!",
+    "significantChanges": true,
+    "changeReason": "Old says 'I don't care about that!' (indifference) but JPN 私は知らない means 'I knew nothing about any of this' (ignorance/denial) — opposite sentiments.",
+    "changeScore": 4
+  },
+  {
+    "index": 64,
+    "MessageID": 4878,
+    "TextENGNew": "\"You are aware that should you break the contract, you would be required to return the full amount deposited up to that point, are you not?\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses. Also original says 'return the full amount of deposits' while new captures the threatening contractual language more directly.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 4879,
+    "TextENGNew": "\"Takano-san...! Please calm down. Mother, I ask you too—\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses multi-line dialogue.",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 4880,
+    "TextENGNew": "\"As I have explained to you before, Hinamizawa Syndrome is something that absolutely must be treated if the villagers are to go on living their lives in safety.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags. Same meaning otherwise.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 4881,
+    "TextENGNew": "\"And to that end, we genuinely need Rika-san's cooperation...!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses, adding 'genuinely' emphasis.",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 4882,
+    "TextENGNew": "\"If it's for the treatment, then when exactly will the treatment be ready?! None of this makes any sense!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses. Changes structure of the argument.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 4883,
+    "TextENGNew": "\"It was supposedly for the sake of Satoko-chan, Rika's friend — but I hear Satoko-chan has already been discharged and is living perfectly normally.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and restructures from multi-line to flowing text.",
+    "changeScore": 2
+  },
+  {
+    "index": 70,
+    "MessageID": 4884,
+    "TextENGNew": "\"The week before last, when my husband spoke with you, I believe you told him the treatment was already within reach?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags, condenses. Changes 'You didn't mention anything about solving mysteries' to 'Nobody ever said anything to me about fully elucidating the whole picture.'",
+    "changeScore": 2
+  },
+  {
+    "index": 71,
+    "MessageID": 4885,
+    "TextENGNew": "\"Ah, yes — I believe I did say something along those lines, that we were within sight of treatment... However—\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses.",
+    "changeScore": 2
+  },
+  {
+    "index": 72,
+    "MessageID": 4886,
+    "TextENGNew": "\"Nobody ever said anything to me about fully elucidating the whole picture! Rika was supposed to be cooperating in order to treat the villagers' disease!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags, condenses multi-line dialogue into single response.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 4887,
+    "TextENGNew": "\"The strange research and examinations you keep doing to Rika — isn't that all just for your own intellectual curiosity, nothing to do with treatment at all?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses. Changes framing of the accusation.",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 4888,
+    "TextENGNew": "\"That — that is not the case! In any event, the fever is a misunderstanding!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses multi-line dialogue.",
+    "changeScore": 2
+  },
+  {
+    "index": 75,
+    "MessageID": 4889,
+    "TextENGNew": "\"Regardless — I've had enough! If there's talk of money involved, I'm going home to consult my husband first!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses. Loses the 'I'll have to discuss it with my husband' detail in restructuring.",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 4890,
+    "TextENGNew": "...These people had been suspicious from the very beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 4891,
+    "TextENGNew": "The two of them had been completely taken in by whatever grand thing they were told, but I was not so easily fooled.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'the two of them had been completely taken in' (うちの二人はすっかり丸め込まれて) referring to her husband and Rika; original says 'Rika and my husband took their side' which is a slightly different characterization — being deceived vs choosing a side.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 4892,
+    "TextENGNew": "In any case, I had to settle this here and now.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 4893,
+    "TextENGNew": "Rika was not their plaything.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 4894,
+    "TextENGNew": "...What I particularly disliked was that woman, Takano.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'I particularly disliked that woman, Takano' (特に気に入らない); original says 'I especially don't trust' which is about trust vs dislike — different sentiments.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 4895,
+    "TextENGNew": "...Dr. Irie at least gave the impression of a doctor. But she had none of that.",
+    "significantChanges": true,
+    "changeReason": "New translation says 'Dr. Irie at least gave the impression of a doctor' vs original's 'Dr. Irie seems to me like he's still a doctor.' The 'at least' framing is different from 'still.'",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 4896,
+    "TextENGNew": "...How should I put it.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 4897,
+    "TextENGNew": "...The light in her eyes was repulsive, that was the word.",
+    "significantChanges": true,
+    "changeReason": "JPN says '眼に宿る光が嫌らしい' (the light dwelling in her eyes is repulsive); original says 'the glow in her eyes is just unpleasant' — 'repulsive' (嫌らしい) is stronger than 'unpleasant.'",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 4898,
+    "TextENGNew": "She only looked at Rika as an experimental specimen.",
+    "significantChanges": true,
+    "changeReason": "JPN says '実験動物' (experimental animal/specimen); original says 'guinea pig' while new says 'experimental specimen.' Different terms with different connotations.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 4899,
+    "TextENGNew": "That cruelty came through clearly, and deeply.",
+    "significantChanges": true,
+    "changeReason": "JPN says cruelty was ひしひしと感じられる (felt keenly/deeply); original says 'I can feel cruelty emitting from her' vs new's 'That cruelty came through clearly, and deeply.' 'Emitting from her' implies radiation while JPN/new implies perception.",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 4900,
+    "TextENGNew": "And neither my husband nor Rika had noticed it at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 4901,
+    "TextENGNew": "I had to be the one to protect her.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 4902,
+    "TextENGNew": "As her mother, I had to protect Rika...!",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 4903,
+    "TextENGNew": "\"...That was unlike you, Takano-san. If you pick fights there, it only makes things more complicated.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags and condenses multi-line dialogue.",
+    "changeScore": 2
+  },
+  {
+    "index": 90,
+    "MessageID": 4904,
+    "TextENGNew": "\"...You're right. I'm sorry — I let myself lose my composure.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops voice tags, condenses.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 4905,
+    "TextENGNew": "Had something happened to put her in a bad mood?",
+    "significantChanges": true,
+    "changeReason": "JPN says '何か不機嫌になることでもあったのだろうか' (had something happened to put her in a bad mood?); original says 'Did something happen to put her in a bad mood, Irie wondered' — original adds 'Irie wondered' attribution not in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 4906,
+    "TextENGNew": "That exchange had been unusually emotional for Takano-san.",
+    "significantChanges": true,
+    "changeReason": "JPN says '鷹野さんらしくもなく感情的だった' (uncharacteristically emotional for Takano-san); original says 'didn't involve the Takano he knew' which implies a different person entirely, while new says 'unusually emotional' which is closer to JPN.",
+    "changeScore": 3
+  }
+]

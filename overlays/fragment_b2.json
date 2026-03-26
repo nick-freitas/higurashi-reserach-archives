@@ -1,0 +1,458 @@
+[
+  {
+    "index": 1,
+    "MessageID": 4227,
+    "TextENGNew": "The experimental administration of the reagent on Satoko Houjou was progressing smoothly.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 4228,
+    "TextENGNew": "Personally, I wouldn't have minded if the experiment had failed outright.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 4229,
+    "TextENGNew": "But Irie had thrown himself into the work with extraordinary concentration, and as a result, the feared outcomes—Satoko Houjou suffering a psychotic break or deteriorating beyond recovery during the trial—had been avoided,",
+    "significantChanges": true,
+    "changeReason": "Old: 'hallucinating or turning into a vegetable'; New: 'suffering a psychotic break or deteriorating beyond recovery'. Japanese 錯乱 (psychotic break) and 予後不良 (poor prognosis/unrecoverable deterioration) are clinical terms the new translation renders more accurately than the colloquial old version.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 4230,
+    "TextENGNew": "...and astonishingly, there were even prospects of her returning to normal life despite having reached L5.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 4231,
+    "TextENGNew": "C103 still had many issues to resolve, but by meticulously monitoring the subject's condition and adjusting dosages accordingly, Irie had achieved the remarkable feat of bringing a person who had reached L5 back from the brink.",
+    "significantChanges": true,
+    "changeReason": "Old: 'this experiment proved that even a person who has reached L5 can be cured'; New: 'Irie had achieved the remarkable feat of bringing a person who had reached L5 back from the brink'. Old says 'cured' while new says 'brought back from the brink' — the Japanese 生還 means survival/return, not full cure.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 4232,
+    "TextENGNew": "...I had been half dismissive of the effort, but I had to acknowledge Irie's accomplishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 4233,
+    "TextENGNew": "No—perhaps it was precisely because he was who he was.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Only Irie could have done this'; New: 'No—perhaps it was precisely because he was who he was'. Japanese いや、入江ゆえにか is a self-correction ('No, was it because of Irie specifically?'), not a definitive statement.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 4234,
+    "TextENGNew": "Tormented by his soft-hearted humanism, still reluctant to dirty his hands—it was that very reluctance that connected directly to his sense of mission to save Satoko Houjou from her ordained fate.",
+    "significantChanges": true,
+    "changeReason": "Old translates 両手を汚す (dirty one's hands / moral compromise) as 'didn't want to make mistakes' — different emotional register that loses the moral weight of the metaphor, though the connection to saving Satoko is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 4235,
+    "TextENGNew": "What I disliked about Irie was his inability to be ruthless—not his talent or his track record.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 4236,
+    "TextENGNew": "...In that sense, for the first time, I had to give him his due.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 4237,
+    "TextENGNew": "\"I've reviewed your report, Director Irie.@k@vS20/09/VTK1_takano1067. ...I must say, I'm impressed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 4238,
+    "TextENGNew": "\"No.@k@vS20/10/VTK1_irie1049. I merely did my duty as a researcher.@k@vS20/10/VTK1_irie1050. ...If that also allowed me to fulfill my duty as a physician, then nothing could please me more.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 4239,
+    "TextENGNew": "\"It's hardly an exaggeration to say that Satoko-chan has become our most valuable subject.@k@vS20/09/VTK1_takano1069. After all, she's the first human to reach L5 and survive.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 4240,
+    "TextENGNew": "\"...Indeed.@k@vS20/10/VTK1_irie1052. We'll return her to everyday life and transition to long-term observation while monitoring her progress.@k@vS20/10/VTK1_irie1053. I plan to arrange for her to come in every Sunday for checkups.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 4241,
+    "TextENGNew": "\"But how do you intend to explain the obligation of three daily injections and weekly Sunday examinations to her?@k@vS20/09/VTK1_takano1071. She has no awareness of being ill.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 4242,
+    "TextENGNew": "\"I'm still working on a plausible explanation...@k@vS20/10/VTK1_irie1055. What I'm considering right now is telling her she'd be helping with my research.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 4243,
+    "TextENGNew": "She'd receive daily nutritional supplement injections and come in every Sunday so I can measure the results.@k@vS20/10/VTK1_irie1057. In return, I'd pay her a research cooperation fee. Something along those lines.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 4244,
+    "TextENGNew": "...It seemed Irie was determined to cure Satoko Houjou, come what may.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 4245,
+    "TextENGNew": "He and I stood in very different positions, but whatever naive ideals drove him, as long as they translated into genuine passion for research, I had no complaints.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 4246,
+    "TextENGNew": "If his plan succeeded and produced results different from what the dissection would have yielded, it would still advance our understanding of Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 4247,
+    "TextENGNew": "I had nothing against Satoko Houjou personally.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 4248,
+    "TextENGNew": "It was simply that for the sake of research, I would use every available resource without discrimination.",
+    "significantChanges": true,
+    "changeReason": "Old: 'I see her as a research specimen'; New: 'for the sake of research, I would use every available resource without discrimination'. Japanese 食えるものは何でも食う (devour anything edible) is a metaphor for using all available resources, not specifically seeing someone as a specimen.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 4249,
+    "TextENGNew": "If Satoko Houjou could serve our research without being dissected, that was perfectly acceptable to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 4250,
+    "TextENGNew": "\"Given that this involves three injections a day, we'll need permission not only from her but from her guardian as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 4251,
+    "TextENGNew": "If I recall, custody passed to her aunt and uncle after her parents died.@k@vS20/10/VTK1_irie1060. I'll go speak with them.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 4252,
+    "TextENGNew": "I just hope they'll agree to let their niece participate in what might seem like suspicious research...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 4253,
+    "TextENGNew": "\"Oh, don't worry about that.@k@vS20/09/VTK1_takano1073. That's what the cooperation fee is for. Deposit a hundred or two hundred thousand yen a month and they'll be thrilled.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 4254,
+    "TextENGNew": "\"Do we have that kind of budget?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 4255,
+    "TextENGNew": "\"Of course.@k@vS20/09/VTK1_takano1075. So long as we prepare documents convincing enough for Jirou-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 4256,
+    "TextENGNew": "\"Understood. I'll prepare those myself.@k@vS20/10/VTK1_irie1064. We'll also need to ensure Satoko-chan isn't subjected to undue stress.@k@vS20/10/VTK1_irie1065. A relapse to L5 would be disastrous.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 4257,
+    "TextENGNew": "...I've heard rumors that her aunt and uncle are rather mercenary.@k@vS20/10/VTK1_irie1067. It may be possible to manage them with money.@k@vS20/10/VTK1_irie1068. I intend to handle their guidance personally as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 4258,
+    "TextENGNew": "I had heard rumors that Satoko-chan's relationship with her new guardians—her aunt and uncle—was far from harmonious.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 4259,
+    "TextENGNew": "But I had assumed that had nothing to do with us.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 4260,
+    "TextENGNew": "Yet here was Irie, determined to involve himself so deeply.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 4261,
+    "TextENGNew": "Perhaps something had awakened in him a sense of duty to act as her protector.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 4262,
+    "TextENGNew": "That was perfectly fine with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 4263,
+    "TextENGNew": "The more his sense of mission burned, the further our research would advance.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 4264,
+    "TextENGNew": "And that could only benefit me.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 4265,
+    "TextENGNew": "\"...On another note.@k@vS20/10/VTK1_irie1070. ...I've reviewed the report on the H170 series.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 4266,
+    "TextENGNew": "\"Yes.@k@vS20/09/VTK1_takano1077. It pales next to your achievement, Director, but we did manage some results.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 4267,
+    "TextENGNew": "\"...It's honestly ironic.@k@vS20/10/VTK1_irie1072. In the very same facility producing a remedy to save her from madness, a dangerous drug capable of instantly inducing it was also being developed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 4268,
+    "TextENGNew": "Irie had no involvement with H170.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 4269,
+    "TextENGNew": "That was my work.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 4270,
+    "TextENGNew": "...Even if I had asked him to participate, he would have refused.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 4271,
+    "TextENGNew": "This dangerous reagent had been developed during the process of uncovering the mechanisms by which the pathogen controlling Satoko Houjou's brain drove its host toward paranoia and psychotic breaks.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 4272,
+    "TextENGNew": "In plain terms, H170 could be administered to anyone infected with Hinamizawa Syndrome to forcibly trigger terminal-stage symptoms.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 4273,
+    "TextENGNew": "It simulated a state of neural agitation, deliberately destabilizing the pathogen.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 4274,
+    "TextENGNew": "If this dangerous reagent were developed further, we would be able to force any ordinary carrier into terminal-stage onset at will.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 4275,
+    "TextENGNew": "Understanding the mechanism of terminal onset would, in turn, lead to understanding Hinamizawa Syndrome itself.@k H170 would be an invaluable tool for advancing future research.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 4276,
+    "TextENGNew": "Additionally, this drug might fulfill the military applications our clients had been requesting.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 4277,
+    "TextENGNew": "At present, its practical applications were essentially nonexistent.",
+    "significantChanges": true,
+    "changeReason": "Old ends at 'At this point, there's absolutely no use for it'; New: 'At present, its practical applications were essentially nonexistent'. Both similar but old drops the second half of the Japanese sentence about pre-seeding harmless pathogen into target populations, which appears in the next entry's new translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 4278,
+    "TextENGNew": "But with further research, the harmless pathogen could be seeded into a target population in advance, and H170 dispersed at the chosen moment to trigger a specific type of reaction.",
+    "significantChanges": true,
+    "changeReason": "Old begins mid-sentence; New includes the full concept: seeding a harmless pathogen into a target population before dispersing H170. The old translation drops the critical detail about pre-seeding (予め蔓延させ).",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 4279,
+    "TextENGNew": "Compared to a killer virus, it was a cumbersome, inelegant pathogen.@k But it was undetectable in corpses and made the resulting madness appear spontaneous—which surely meant it had some useful application.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 4280,
+    "TextENGNew": "...That was for the elders of the Alphabet Project, our sponsors, to figure out.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 4281,
+    "TextENGNew": "How they chose to use it was none of my concern.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 4282,
+    "TextENGNew": "My purpose was to unravel the mysteries of Hinamizawa Syndrome and make the world understand how momentous this research truly was.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 4283,
+    "TextENGNew": "And to have my grandfather's achievement recognized as the great work it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 4284,
+    "TextENGNew": "...Military applications were mere byproducts along the way—utterly irrelevant to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 4285,
+    "TextENGNew": "\"The clients will value your results highly.@k@vS20/10/VTK1_irie1074. It may make securing next term's budget easier.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 4286,
+    "TextENGNew": "\"Hee hee.@k@vS20/09/VTK1_takano1079. Passion alone can't sustain research.@k@vS20/09/VTK1_takano1080. You need funding.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 4287,
+    "TextENGNew": "\"...We owe an enormous debt to our sponsor for providing such generous funding...@k@vS20/10/VTK1_irie1076. ...For this much money to come from public coffers...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 4288,
+    "TextENGNew": "\"Perhaps Japan is wealthier than we imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 4289,
+    "TextENGNew": "They may be public funds, but they're the kind of public funds that can never see the light of day.@k@vS20/09/VTK1_takano1083. Hee hee...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 4290,
+    "TextENGNew": "Irie had no idea what I had endured to secure that money.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 4291,
+    "TextENGNew": "...In any case, the research was progressing splendidly.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 4292,
+    "TextENGNew": "What would Hinamizawa Syndrome reveal about our species?",
+    "significantChanges": true,
+    "changeReason": "Old: 'We don't know what we'll find out about Hinamizawa Syndrome'; New: 'What would Hinamizawa Syndrome reveal about our species?' Japanese 私たち人類に何を示すのか asks what the syndrome reveals about humanity — a philosophical question, not uncertainty about findings.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 4293,
+    "TextENGNew": "The mysteries yet to be uncovered would surely enlighten us. The anticipation of intellectual discovery set my heart racing.",
+    "significantChanges": true,
+    "changeReason": "Old: 'every mystery will eventually be solved. I can hardly wait'; New: 'The mysteries yet to be uncovered would surely enlighten us. The anticipation of intellectual discovery set my heart racing.' Japanese 知的快感に胸が躍る specifically describes intellectual pleasure/excitement, which the old translation reduces to generic anticipation.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 4294,
+    "TextENGNew": "Hinamizawa Syndrome hinted at the possibility that humans were nothing more than empty vessels, and that what we believed to be our own will might in fact be the work of specialized parasites dwelling in our frontal lobes.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 4295,
+    "TextENGNew": "If that mystery could be solved... the impact would surpass anything humanity had ever uncovered before.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 4296,
+    "TextENGNew": "A truth so staggering that everyone would want to deny it.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 4297,
+    "TextENGNew": "And this was the achievement my grandfather had foreseen in his own era.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 4298,
+    "TextENGNew": "Ah, now I could see it clearly.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 4299,
+    "TextENGNew": "I understood at last why this research had captivated my grandfather so completely.",
+    "significantChanges": false
+  }
+]

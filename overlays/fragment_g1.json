@@ -1,0 +1,668 @@
+[
+  {
+    "index": 1,
+    "MessageID": 7084,
+    "TextENGNew": "...Honestly, I'm in trouble.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Honestly, I'm in trouble' vs old 'I don't know what to do' — different meaning: being in trouble (困った) vs not knowing what to do. The Japanese 正直、困った matches 'honestly, I'm in trouble' more closely.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 7085,
+    "TextENGNew": "My name is Ichirou Maebara, and right now I am spectacularly, magnificently... lost.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'right now I am spectacularly, magnificently... lost' matching the Japanese 極めて絶好調に素晴らしく (extremely, splendidly) humorous exaggeration that old's 'hopelessly lost' doesn't capture.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 7086,
+    "TextENGNew": "I came to Hinamizawa on a guided tour to view lots available for vacation homes.",
+    "significantChanges": true,
+    "changeReason": "New translation 'guided tour to view lots available for vacation homes' vs 'tour to find a lot for a vacation home' — adds 'guided' and 'available' for more specificity, matching 見学ツアー (viewing tour).",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 7087,
+    "TextENGNew": "After the real estate agent finished his explanation, he told us we were free to enjoy a stroll until departure time.",
+    "significantChanges": true,
+    "changeReason": "New translation 'After the real estate agent finished his explanation, he told us we were free to enjoy a stroll until departure time' is more detailed than old 'When the realtor finished explaining some details, he told us to take a walk until the departure time'.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 7088,
+    "TextENGNew": "...Lured onward by the breathtakingly beautiful greenery, the crisp fresh air, and an endless wellspring of inspiration, I wandered aimlessly until... well.",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands: 'Lured onward by the breathtakingly beautiful greenery, the crisp fresh air, and an endless wellspring of inspiration, I wandered aimlessly' vs old's compressed 'Such beautiful scenery and fresh air... I let my senses guide me'. New captures インスピレーション (inspiration) omitted in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 7089,
+    "TextENGNew": "...Where am I?",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 7090,
+    "TextENGNew": "There's still a little time before we need to regroup, but... I am hopelessly lost.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 7091,
+    "TextENGNew": "Rural as it may be, this is still a populated area.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Rural as it may be, this is still a populated area' vs 'This is basically the middle of nowhere, but people actually do live here' — different framing: old calls it 'middle of nowhere' while new simply says 'rural', matching 田舎とは言え、人里だ.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 7092,
+    "TextENGNew": "If I just keep walking, I should run into someone and be able to ask for directions.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 7093,
+    "TextENGNew": "No need to panic. Ha ha ha.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 7094,
+    "TextENGNew": "...The only thing that worries me a little is the bullet train schedule.",
+    "significantChanges": true,
+    "changeReason": "New translation 'The only thing that worries me a little is the bullet train schedule' vs 'The only thing I need to keep in mind is the departure time for the bullet train' — 'worries' vs 'keep in mind' changes emotional register, matching コワイ (scary/worrying).",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 7095,
+    "TextENGNew": "But the notion that I would surely run into someone was perhaps a touch too optimistic.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 7096,
+    "TextENGNew": "...Because I haven't encountered a single soul.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 7097,
+    "TextENGNew": "...With the careless recklessness typical of a city dweller, perhaps I've unwittingly wandered far from civilization and am on the verge of being stranded...",
+    "significantChanges": true,
+    "changeReason": "New translation 'With the careless recklessness typical of a city dweller, perhaps I've unwittingly wandered far from civilization and am on the verge of being stranded' is much more detailed than old 'Maybe I'm walking farther and farther away from where people are', matching 都会人特有の無用心さ (carelessness typical of city people) and 遭難直前 (on the verge of being stranded).",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 7098,
+    "TextENGNew": "So when I heard voices, the relief I felt was immense.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 7099,
+    "TextENGNew": "It sounded like little girls at play.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 7100,
+    "TextENGNew": "...If children are playing here, it must be somewhere safe.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 7101,
+    "TextENGNew": "My feet carried me naturally toward the sound.",
+    "significantChanges": true,
+    "changeReason": "New translation 'If children are playing here, it must be somewhere safe' vs 'If it's a place where little kids can play, it must be a safe village' — 'somewhere safe' vs 'safe village' (not necessarily a village).",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 7102,
+    "TextENGNew": "Rounding an overgrown thicket of wild pampas grass, I found myself before a beautiful meadow.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 7103,
+    "TextENGNew": "Two girls were frolicking there.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Rounding an overgrown thicket of wild pampas grass, I found myself before a beautiful meadow' vs 'Upon rounding the wild pampas grass, I can see a beautiful field' — adds 手入れされていない生え放題 (untended, overgrown) detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 7104,
+    "TextENGNew": "Amid a benediction of innocent wildflowers, the two danced and twirled... More beautiful than any painting I had ever seen, and—perhaps this is going too far—more radiant than any religious masterwork.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 7105,
+    "TextENGNew": "Why is it that the mere sight of innocent girls dancing like this fills us with such reverence?",
+    "significantChanges": true,
+    "changeReason": "New translation significantly improves: 'Amid a benediction of innocent wildflowers, the two danced and twirled... More beautiful than any painting' vs old 'They're dancing in the field filled with blooming wild flowers'. New captures 無垢な野草の花々が祝福する中 (amid the blessing of innocent wildflowers) and くるくると踊る (spinning/twirling).",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 7106,
+    "TextENGNew": "...It is probably because we ourselves live steeped in sin.",
+    "significantChanges": true,
+    "changeReason": "New translation 'fills us with such reverence' vs 'makes people feel this way' — 'reverence' (神々しい = divine/godly) is more specific than 'feel this way'.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 7107,
+    "TextENGNew": "Life is not made of beauty alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 7108,
+    "TextENGNew": "...Simply by living, we inevitably accumulate transgressions.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Life is not made of beauty alone' vs 'You can't live with pleasure and glory alone' — different interpretation: 'beauty' (綺麗) vs 'pleasure and glory'. The Japanese says 綺麗なだけじゃない which is 'not just beautiful/clean'.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 7109,
+    "TextENGNew": "That is why we perceive a transcendent holiness in the image of our childhood selves, before we were tainted.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 7110,
+    "TextENGNew": "Though forced to grow up in order to survive, we come to recognize the purity we lost in growing... and gaze upon the girls who still possess it with longing and reverence.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Though forced to grow up in order to survive, we come to recognize the purity we lost in growing... and gaze upon the girls who still possess it with longing and reverence' vs old — more complete translation of the Japanese, adding 生きるために成長を余儀なくされた (forced to grow to live).",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 7111,
+    "TextENGNew": "``...Mii.@k@vS20/05/VTK2_rika2002. Some suspicious stranger is standing there staring at us while muttering complicated-sounding things.``",
+    "significantChanges": true,
+    "changeReason": "New translation 'Mii' vs 'Meep' and 'Some suspicious stranger is standing there staring at us while muttering complicated-sounding things' vs 'There's a suspicious person who's mumbling some weird stuff over there' — 'Mii' is the standard romanization of Rika's みー catchphrase; also old says 'over there' implying distance while new says 'standing there staring at us' which is more direct.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 7112,
+    "TextENGNew": "``Au au au.@k@vS20/12/VTK2_hanyu2002. ...Rika, that person isn't suspicious.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 7113,
+    "TextENGNew": "...Huh?@k@|@y Whoa!!@k W-w-wait, I'm so sorry!@k I'm absolutely not suspicious!@k Wahahahaha...!",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 7114,
+    "TextENGNew": "``...And yet you can't take your eyes off my beauty.@k@vS20/05/VTK2_rika2004. Nipah~☆``",
+    "significantChanges": true,
+    "changeReason": "Old says 'staring at my chest and legs' (sexualized) while JPN ボクの美しさ means 'my beauty/loveliness.' Old adds body-part references and sexual connotation absent from source.",
+    "changeScore": 4
+  },
+  {
+    "index": 32,
+    "MessageID": 7115,
+    "TextENGNew": "I-I wasn't staring! I wasn't!@k Please don't report me to the station attendant!!@k This mirror is just for fixing my hair!!",
+    "significantChanges": true,
+    "changeReason": "New translation 'Please don't report me to the station attendant!!' vs old 'Don't turn me in!' — adds the specific 駅員さん (station attendant) reference from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 7116,
+    "TextENGNew": "``...Ahahahahahaha.@k@vS20/12/VTK2_hanyu2004. I don't quite understand what you're saying, but I have a feeling it's something very funny.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 7117,
+    "TextENGNew": "``...How shall I put it... The apple doesn't fall far from the tree, it seems.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 7118,
+    "TextENGNew": "After thoroughly teasing me, the girls eventually grew bored and returned to dancing together as they had been before I arrived.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 7119,
+    "TextENGNew": "Feeling that any further words from me would only be an intrusion,@k I left them be, sat down on a tree stump, and quietly watched over them.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 7120,
+    "TextENGNew": "...How old might they be?",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 7121,
+    "TextENGNew": "They have a youthful air about them, but... they might not be much younger than Keiichi.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 7122,
+    "TextENGNew": "If we move here, Keiichi might meet them at school.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 7123,
+    "TextENGNew": "Meeting them at school would mean... they are children who live in this place.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 7124,
+    "TextENGNew": "...If all the children attending school in Hinamizawa are like these girls,",
+    "significantChanges": true,
+    "changeReason": "New translation 'If all the children attending school in Hinamizawa are like these girls' vs 'If all the children in Hinamizawa are like them' — adds 'attending school' matching 学校に通っている.",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 7125,
+    "TextENGNew": "...then no matter how difficult rural life might prove, wouldn't moving here be worthwhile for our family?",
+    "significantChanges": true,
+    "changeReason": "New translation 'wouldn't moving here be worthwhile for our family?' vs 'there's a good reason for us to move here' — rephrases as question matching Japanese のではないか interrogative form.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 7126,
+    "TextENGNew": "...We have been terrible parents.",
+    "significantChanges": true,
+    "changeReason": "New translation 'We have been terrible parents' vs 'We're not very good parents' — 'terrible' vs 'not very good' is significantly different intensity, matching 駄目な親 (hopeless/no-good parents).",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 7127,
+    "TextENGNew": "We understood nothing about Keiichi, failed to perceive the anguish in his heart, and neglected him until the very end.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'understood nothing about Keiichi, failed to perceive the anguish in his heart' expanding 何も理解せず、その心の悩みを何も汲み取れず which old compressed to 'didn't understand what Keiichi was going through'.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 7128,
+    "TextENGNew": "According to the parenting books, even the worst delinquent behavior is, at its origin, a cry for help directed at the family.",
+    "significantChanges": true,
+    "changeReason": "New translation expands: 'even the worst delinquent behavior is, at its origin, a cry for help directed at the family' vs 'the first few problems are calls for help' — much more specific, matching the Japanese detail about 悪い子の不良行為 (bad child's delinquent acts) and 家族へのSOS.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 7129,
+    "TextENGNew": "It's not about the act itself, but rather the most primitive form of a child's appeal—seeking connection through the only means they know.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 7130,
+    "TextENGNew": "...Because humans possess the gift of speech, we ironically become blind to these other signals.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 7131,
+    "TextENGNew": "We hear only words, unable to listen to the signs our son's heart was sending.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 7132,
+    "TextENGNew": "Keiichi... probably thinks it's all his fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 7133,
+    "TextENGNew": "...Of course, Keiichi bears blame too.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 7134,
+    "TextENGNew": "We are not dogs or cats.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 7135,
+    "TextENGNew": "One must learn to distinguish right from wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 7136,
+    "TextENGNew": "...But we, his parents, are also to blame.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 7137,
+    "TextENGNew": "The fact that we made him feel he had to go that far just to be understood—our failure as parents is truly shameful.",
+    "significantChanges": true,
+    "changeReason": "New translation 'The fact that we made him feel he had to go that far just to be understood—our failure as parents is truly shameful' vs old — more detailed, adds 'our failure as parents' matching 親としての不甲斐なさ.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 7138,
+    "TextENGNew": "If we had truly understood Keiichi, if we hadn't driven him into a corner,@k he would never have unconsciously resorted to such behavior as a desperate appeal.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'truly understood Keiichi' and 'unconsciously resorted to such behavior as a desperate appeal' vs old's simpler 'understood him and hadn't cornered him, Keiichi wouldn't have done that' — captures 無意識にすることで、アピールする.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 7139,
+    "TextENGNew": "So those incidents were not Keiichi's fault alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 7140,
+    "TextENGNew": "...The entire Maebara family shares the blame.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 7141,
+    "TextENGNew": "...I wanted to explain this to Keiichi, but he is still too young and too impulsive to grasp it.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 7142,
+    "TextENGNew": "...Right now, he is being crushed under the weight of his guilt, having lost even the will to live.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 7143,
+    "TextENGNew": "My wife is the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 7144,
+    "TextENGNew": "...She blames herself, convinced that her obsession with grades is what caused these incidents.",
+    "significantChanges": true,
+    "changeReason": "New translation 'She blames herself, convinced that her obsession with grades is what caused these incidents' vs 'She's blaming herself for forcing him to study for better grades' — 'obsession with grades' vs 'forcing him to study' is a different characterization.",
+    "changeScore": 2
+  },
+  {
+    "index": 62,
+    "MessageID": 7145,
+    "TextENGNew": "...And so am I.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 7146,
+    "TextENGNew": "I blame myself for being indifferent to my son's upbringing, convinced that my neglect is what led to these incidents.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 7147,
+    "TextENGNew": "That cross will remain on our shoulders even after the injured child's family forgives us and the hospital stay ends.",
+    "significantChanges": true,
+    "changeReason": "New translation 'That cross will remain on our shoulders even after the injured child's family forgives us and the hospital stay ends' vs 'The cross will be forever on our shoulders, even after the injured child accepts our apologies' — 'family forgives us' vs 'child accepts our apologies', and 'hospital stay ends' adds detail from 退院した後.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 7148,
+    "TextENGNew": "The cold world would tell us to simply be crushed and die beneath that cross.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 7149,
+    "TextENGNew": "...But we will go on living.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 7150,
+    "TextENGNew": "We will reflect on our sins, shoulder our burden, and go on living.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 7151,
+    "TextENGNew": "Perhaps in this village, we can make a fresh start.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 7152,
+    "TextENGNew": "...That is what I thought, watching those girls at play.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 7153,
+    "TextENGNew": "What Keiichi needs are friends like them.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 7154,
+    "TextENGNew": "...Children like those girls would surely teach Keiichi something that friends who only ever talked about cram school and mock exam scores never could.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 7155,
+    "TextENGNew": "The girls earlier had been playing around a sign that looked out of place in that meadow.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 7156,
+    "TextENGNew": "It was a sign advertising lots for sale, bearing the name of the real estate agency that had brought me here today.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 7157,
+    "TextENGNew": "...Which means... if we wanted to, our family could live in this beautiful meadow?",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 7158,
+    "TextENGNew": "As if reading my thoughts once again, the girl spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 7159,
+    "TextENGNew": "``...This is a wonderful village.@k@vS20/05/VTK2_rika2007. I'm sure you'll find things here that the city could never offer.``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 7160,
+    "TextENGNew": "I nodded with a smile at her words.@k Indeed, even from my brief walk around, I had felt the same.",
+    "significantChanges": true,
+    "changeReason": "New translation expands greatly: 'I nodded with a smile at her words. Indeed, even from my brief walk around, I had felt the same' vs old 'Yeah, that's right. I think so too' — captures その言葉に、私も笑顔で頷く detail omitted in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 7161,
+    "TextENGNew": "``...But I also think you'll bring something to this village that we don't have—something from the city.``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 7162,
+    "TextENGNew": "......Could we really have anything to offer...?",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 7163,
+    "TextENGNew": "``You do.@k@vS20/12/VTK2_hanyu2006. Au au.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 7164,
+    "TextENGNew": "``...We have been in this village, just like this, for hundreds of years.@k@vS20/05/VTK2_rika2010. Nobody comes to visit, and nothing happens.@k@vS20/05/VTK2_rika2011. ...So nothing changes. Nothing can be changed.``",
+    "significantChanges": true,
+    "changeReason": "New translation 'We have been in this village, just like this, for hundreds of years' and adds 'Nothing can be changed' vs old 'And so, nothing ever changes' — the addition of 何も変えられない (nothing can be changed) is a separate clause in Japanese that old merged.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 7165,
+    "TextENGNew": "......? Isn't that what makes this village so appealing, though?",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 7166,
+    "TextENGNew": "``...Didn't you come here because you wanted something to change...?``",
+    "significantChanges": true,
+    "changeReason": "New translation 'Didn't you come here because you wanted something to change...?' vs 'Didn't you come here because you wanted to change something?' — subtle but meaningful: 'something to change' (passive/hoping) vs 'to change something' (active/intentional).",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 7167,
+    "TextENGNew": "Indeed... she might be right about that.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 7168,
+    "TextENGNew": "``...We want to welcome new people too.@k@vS20/05/VTK2_rika2013. It would be like breaking the dam of a stagnant swamp.@k@vS20/05/VTK2_rika2014. Water stays pure only when it flows.@k@vS20/05/VTK2_rika2015. A lake without flow is nothing but a swamp.``",
+    "significantChanges": true,
+    "changeReason": "New translation significantly expands Rika's speech: adds 'It would be like breaking the dam of a stagnant swamp' and 'Water stays pure only when it flows' vs old. Also 'A lake without flow is nothing but a swamp' captures 流れを得ぬ湖 more precisely.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 7169,
+    "TextENGNew": "``In fact, this village bore the name of a swamp until just recently in the Meiji era.@k@vS20/12/VTK2_hanyu2009. ...But that changed, and it was renamed 'Hinamizawa'.@k@vS20/12/VTK2_hanyu2010. ...Swamp water stagnates because it cannot flow.@k@vS20/12/VTK2_hanyu2011. But the water of a mountain stream never grows stale.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'bore the name of a swamp until just recently in the Meiji era' — 'just recently in the Meiji era' (明治のついこの間) is more specific than old's 'up until the Meiji era'. Also 'the water of a mountain stream never grows stale' captures 沢 (mountain stream) vs old's 'stream'.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 7170,
+    "TextENGNew": "``...Hee hee.@k@vS20/05/VTK2_rika2017. And you know, your family will be the ones to teach us.@k@vS20/05/VTK2_rika2018. That dams are meant to be broken—that they can be broken.``",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'you all are the ones who will teach us' to 'your family will be the ones to teach us' — 'your family' vs 'you all' and restructures the dam metaphor.",
+    "changeScore": 2
+  },
+  {
+    "index": 88,
+    "MessageID": 7171,
+    "TextENGNew": "...Was this some kind of riddle game the girls were playing?",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 7172,
+    "TextENGNew": "I could scarcely understand what they meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 7173,
+    "TextENGNew": "But one thing was clear to me.@k These village girls were eagerly awaiting newcomers from outside, hoping to build a new chapter in their village's history through that exchange.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 7174,
+    "TextENGNew": "I looked once more at the sign behind the girls.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 7175,
+    "TextENGNew": "...So that I would remember this place.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 7176,
+    "TextENGNew": "...My mind was already made up.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 7177,
+    "TextENGNew": "``...We'll be waiting for you to move here.@k@vS20/05/VTK2_rika2020. ...Maebara.``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 7178,
+    "TextENGNew": "``Ahhh!!@k@vS20/00/VTK2_hudou2002. There you are!@k@vS20/00/VTK2_hudou2003. Sir!@k@vS20/00/VTK2_hudou2004. You really shouldn't wander this far out!``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 7179,
+    "TextENGNew": "A raspy voice from the distance abruptly shattered this innocent moment.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Ahhh!!' vs 'Oh,' — very different exclamation matching ぁーー！！",
+    "changeScore": 2
+  },
+  {
+    "index": 97,
+    "MessageID": 7180,
+    "TextENGNew": "...It was the real estate agent.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 7181,
+    "TextENGNew": "He must have come looking for me when I failed to return.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 7182,
+    "TextENGNew": "Scratching my head sheepishly, I apologized for having gotten lost.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 7183,
+    "TextENGNew": "...When I turned around to look for the girls... for some reason, they were already gone.",
+    "significantChanges": false
+  }
+]

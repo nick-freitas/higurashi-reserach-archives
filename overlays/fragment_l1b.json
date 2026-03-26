@@ -1,0 +1,92 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8826,
+    "TextENGNew": "...It was a long road.",
+    "significantChanges": true,
+    "changeReason": "New translation adds \"road\" (\"a long road\"), introducing a journey metaphor not present in the Japanese, which simply says 長かった (\"it was long\").",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 8827,
+    "TextENGNew": "...Truly long.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 8828,
+    "TextENGNew": "Are you all right...?",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 8829,
+    "TextENGNew": "Is your spirit still alive...?",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 8830,
+    "TextENGNew": "Are all the pieces we could want now assembled on the game board?",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8831,
+    "TextENGNew": "In the game of fate that turns on June 1983, have we gathered enough pieces to defeat Takano and her allies?",
+    "significantChanges": true,
+    "changeReason": "\"her minions\" implies subordinate underlings while \"her allies\" implies cooperative partners; 鷹野たち simply means \"Takano and the others,\" so the characterization differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 8832,
+    "TextENGNew": "...I think... perhaps, they have.",
+    "significantChanges": true,
+    "changeReason": "Old says \"we have everything\" (we possess all needed items) while new says \"they have\" (the pieces have assembled), changing the subject and framing of who/what has lined up.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 8833,
+    "TextENGNew": "All that remains is you, Hanyuu.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8834,
+    "TextENGNew": "...Only you.",
+    "significantChanges": true,
+    "changeReason": "Old version (\"it's you\") omits the exclusivity conveyed by だけ (\"only\"); the new version \"Only you\" correctly emphasizes that Hanyuu alone remains.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 8835,
+    "TextENGNew": "The time you can appear as a piece has already grown quite limited.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 8836,
+    "TextENGNew": "But that does not mean you can no longer take part in the game.",
+    "significantChanges": true,
+    "changeReason": "\"show up\" means merely appearing, while \"take part\" means actively participating; the distinction changes what capability is being preserved for Hanyuu.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 8837,
+    "TextENGNew": "......Now then — shall we begin?",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 8838,
+    "TextENGNew": "After all, I have wagered hundreds of years for this very day.",
+    "significantChanges": true,
+    "changeReason": "\"put in\" implies time invested, while \"wagered\" (matching Japanese 賭けた) implies gambling/risking something — fundamentally different framing of what those hundreds of years meant.",
+    "changeScore": 3
+  }
+]

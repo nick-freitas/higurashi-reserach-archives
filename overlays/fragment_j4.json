@@ -1,0 +1,100 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8347,
+    "TextENGNew": "This piece reveals the existence of the unreasonable Rule Z that surrounds Satoko, and shows the face of Rule Y — the most fearsome law on this game board.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 8348,
+    "TextENGNew": "And now — has the shape of Rules X, Y, and Z been carved into relief at last?",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 8349,
+    "TextENGNew": "The enemies we must face.",
+    "significantChanges": true,
+    "changeReason": "Old uses singular \"enemy\" while new uses plural \"enemies.\" The Japanese 相手 is ambiguous in number, but in context the narrative refers to multiple rules (X, Y, Z) as adversaries, making the plural a meaningfully different framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 8350,
+    "TextENGNew": "The lessons we must learn.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 8351,
+    "TextENGNew": "All of these gather together and are disclosed within this piece.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8352,
+    "TextENGNew": "At this stage, we cannot yet reach Rule Y.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 8353,
+    "TextENGNew": "...The most we can manage is to fight the Rule Z that surrounds Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 8354,
+    "TextENGNew": "But in this piece, we err in how we fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8355,
+    "TextENGNew": "A result obtained through the wrong means can only be a wrong result.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8356,
+    "TextENGNew": "...Keiichi Maebara learns this truth through his own lived experience.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 8357,
+    "TextENGNew": "The power to overcome tragedy is not itself a tragedy.",
+    "significantChanges": true,
+    "changeReason": "Old inverts the meaning: says 'tragedy doesn't possess power to overcome tragedy' while JPN says 'the power to overcome tragedy is not itself a tragedy.' Different philosophical claim.",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 8358,
+    "TextENGNew": "The power to overcome violence is not itself violence.",
+    "significantChanges": true,
+    "changeReason": "Same structural inversion as previous: old says 'violence can't overcome violence' while JPN says 'the power to overcome violence is not itself violence.'",
+    "changeScore": 4
+  },
+  {
+    "index": 13,
+    "MessageID": 8359,
+    "TextENGNew": "If they can truly absorb that lesson, the pieces on this board will finally learn to fight in the only way that matters.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 8360,
+    "TextENGNew": "But Takano and her allies are far too powerful.",
+    "significantChanges": true,
+    "changeReason": "The Japanese 鷹野たち uses the plural suffix たち, meaning \"Takano and her group/allies.\" The old translation drops this, referring only to Takano alone, which omits the implication that she has collaborators.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 8361,
+    "TextENGNew": "The brutal end that waits at the close of this piece refuses to let us learn so easily...",
+    "significantChanges": false
+  }
+]

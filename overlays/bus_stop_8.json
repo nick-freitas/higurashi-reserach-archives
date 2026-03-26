@@ -1,0 +1,962 @@
+[
+  {
+    "index": 1,
+    "MessageID": 156427,
+    "TextENGNew": "\"Mion! ...Mion! ...Somebody help!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Somebody come here!' vs new says 'Somebody help!'; JPN 誰か来て means 'someone come', old is more literal, but 'help' captures the urgency better.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 156428,
+    "TextENGNew": "Rika comes running and throws herself at Mion.\nYoshimura stumbles back in shock.\nHoshino and Okano race in a moment later and shove Yoshimura away.",
+    "significantChanges": true,
+    "changeReason": "Stage directions reformatted: old uses @k@r inline tags, new uses line breaks. This changes presentation format. Also 'flies to Mion's side' vs 'throws herself at Mion' and 'steps back' vs 'stumbles back'.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 156429,
+    "TextENGNew": "\"Wh—wh-wh-wh-wh-what do you think you're doing?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 156430,
+    "TextENGNew": "Yoshimura lunges at Okano in a panic. Okano subdues him with ease.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 156431,
+    "TextENGNew": "\"Sorry, but you're coming with us.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 156432,
+    "TextENGNew": "\"What exactly are you accusing me of?! Ow, ow, ow! Let go of me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 156433,
+    "TextENGNew": "Okano drags Yoshimura offstage.\nHoshino exchanges a glance with Rika, then follows.\nA beat passes—then Mion breaks into sobs.",
+    "significantChanges": true,
+    "changeReason": "Stage directions reformatted from inline to line breaks. Also 'leaves the stage' vs 'drags Yoshimura offstage', 'glances' vs 'exchanges a glance', 'begins to sob' vs 'breaks into sobs'.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 156434,
+    "TextENGNew": "\"Rika-san! Rika-san! ...Waaaaaaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 156435,
+    "TextENGNew": "\"It's all right now! It's all right! ...I'm sorry. I'm so sorry!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 156436,
+    "TextENGNew": "\"Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 156437,
+    "TextENGNew": "\"Did something terrible happen to you?! Did it hurt?! ...I'm sorry! I'm so sorry!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 156438,
+    "TextENGNew": "\"There were maggots everywhere! Ugh! ...Waaaaaaaaah!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'There were so many maggots!' vs new says 'There were maggots everywhere!'; JPN ウジがいっぱい means 'full of maggots'. Also different crying sounds.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 156439,
+    "TextENGNew": "\"It's okay now! I'm right here! ...See!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 156440,
+    "TextENGNew": "\"Rika-san! ...Rika-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 156441,
+    "TextENGNew": "Mion weeps into Rika's chest.\nThe stage dims gradually.\nSilence settles.\nThe stage stays dark.\nA voice crackles over a radio.",
+    "significantChanges": true,
+    "changeReason": "Stage directions reformatted. Also 'A moment of silence passes' vs 'Silence settles', and 'A voice plays over the radio' vs 'A voice crackles over a radio'.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 156442,
+    "TextENGNew": "\"...HQ, do you read? HQ, do you read? ...Outsiders have been cleared. Repeat—outsiders have been cleared.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'HQ, over' vs new says 'HQ, do you read?'; different radio protocol phrasing. Also 'outsiders have been removed' vs 'outsiders have been cleared'.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 156443,
+    "TextENGNew": "A crack of thunder.\nThe stage slowly brightens.\nThe sound of the downpour fades into the distance.\nOnly Mion and Rika remain.\nRain and silence.",
+    "significantChanges": true,
+    "changeReason": "Stage directions reformatted. Also 'Thunder roars' vs 'A crack of thunder', 'steadily grows brighter' vs 'slowly brightens'.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 156444,
+    "TextENGNew": "\"Are you calmer now...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 156445,
+    "TextENGNew": "\"...Yes. ...Thank you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 156446,
+    "TextENGNew": "\"...Chin up. ...I love seeing you full of life.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 156447,
+    "TextENGNew": "\"I'm fine now. ...Really.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 156448,
+    "TextENGNew": "\"...He was the one who killed Arakawa-san.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'That man was the one who killed Arakawa-san' vs new says 'He was the one who killed Arakawa-san'; dropping 'that man' specificity.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 156449,
+    "TextENGNew": "\"...Yoshimura-san did...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 156450,
+    "TextENGNew": "\"He...had some kind of strange power he could use. ...He used it on...Arakawa-san...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'capable of using some kind of strange, supernatural power' vs new says 'had some kind of strange power he could use'; old adds 'supernatural' not in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 156451,
+    "TextENGNew": "\"...He almost...he almost killed me too...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 156452,
+    "TextENGNew": "\"...I'm relieved you're safe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 156453,
+    "TextENGNew": "\"He was also behind the slashings in the city. ...He said so himself.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'murders in the city' vs new says 'slashings in the city'; JPN 通り魔殺人 means 'random street attacks/slashings', so 'slashings' is more specific.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 156454,
+    "TextENGNew": "\"...To think we were spending time with...someone so terrifying...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 156455,
+    "TextENGNew": "\"...But it's all over now. ...The detectives have taken him away. ...No one will hurt you anymore...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 156456,
+    "TextENGNew": "\"...Rika-san... ...Thank you for saving me. ...If you hadn't come... I... I...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 156457,
+    "TextENGNew": "\"...Mion...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 156458,
+    "TextENGNew": "\"Thank you, Rika-san. ...Thank you...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 156459,
+    "TextENGNew": "\"...That's enough. ...You can stop now. ...There's nothing I've done that deserves your thanks.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 156460,
+    "TextENGNew": "\"...At least... being here with you like this is all I can do...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 156461,
+    "TextENGNew": "\"...Thank you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 156462,
+    "TextENGNew": "The rain falls on. At last Mion steadies herself and pulls away from Rika.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 156463,
+    "TextENGNew": "\"...Heh... I'm sorry. ...For letting you see me like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 156464,
+    "TextENGNew": "\"...Hey, Mion. ...Why did you ever become friends with me...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 156465,
+    "TextENGNew": "\"...Huh? ...That's a bit out of the blue.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 156466,
+    "TextENGNew": "\"...I mean...I'm so quiet. Like I'm barely there. ...I can't carry a conversation to save my life. ...And of course I've had no friends. Not one.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm all quiet. I'm barely there' vs new says 'I'm so quiet. Like I'm barely there'; also old says 'I don't have any other friends' vs new says 'I've had no friends. Not one.' — the new is more emphatic and matches JPN 友達なんかひとりもいない (not a single friend).",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 156467,
+    "TextENGNew": "\"...That day you spoke to me was when everything started. ...I was so happy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 156468,
+    "TextENGNew": "\"Oh, come on, Rika-san. You're making it sound so grand.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 156469,
+    "TextENGNew": "\"Tell me. ...Why did you talk to me? ...There must have been so many more interesting people you could have picked.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'There were plenty of other, happier people' vs new says 'There must have been so many more interesting people you could have picked'; JPN 愉快な人 means 'pleasant/interesting people', not 'happier'. New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 156470,
+    "TextENGNew": "\"...Why...did you talk to me...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 156471,
+    "TextENGNew": "\"...Heheh! ...Because! ...You and I are connected by the red thread of fate!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 156472,
+    "TextENGNew": "\"...I'm being serious. ...Tell me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 156473,
+    "TextENGNew": "Rika fixes Mion with a solemn gaze.",
+    "significantChanges": true,
+    "changeReason": "Old says 'stern look' vs new says 'solemn gaze'; JPN 真面目な顔 means 'serious face', 'solemn' is closer than 'stern'.",
+    "changeScore": 2
+  },
+  {
+    "index": 48,
+    "MessageID": 156474,
+    "TextENGNew": "\"...Rika-san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 156475,
+    "TextENGNew": "\"...Please. ...I really need to know. ...Tell me...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 156476,
+    "TextENGNew": "\"...D-don't...get upset with me...okay...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 156477,
+    "TextENGNew": "\"...I won't.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 156478,
+    "TextENGNew": "\"...You just...always looked so...lonely...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 156479,
+    "TextENGNew": "\"...What...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 156480,
+    "TextENGNew": "\"...You were always sitting by yourself in the classroom...nobody would talk to you... ...I felt sorry for you... That's why I came up to you...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'No one would talk to you' vs new says 'nobody would talk to you'; also old says 'I felt bad for you' vs new says 'I felt sorry for you' and old says 'So that's why I spoke up' vs new says 'That's why I came up to you'.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 156481,
+    "TextENGNew": "\"...Oh! But it's different now! Now you're my very best friend!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 156482,
+    "TextENGNew": "\"...There was a time when I was in the same place you were, Rika-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 156483,
+    "TextENGNew": "\"...But people can be pretty cruel, you know. When you look gloomy, it just makes them even less likely to come talk to you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 156484,
+    "TextENGNew": "\"...Even though all you want is at least one friend...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 156485,
+    "TextENGNew": "\"...Mion...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 156486,
+    "TextENGNew": "\"...So...it wasn't just pity. ...I decided on my own that I was going to be your friend!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 156487,
+    "TextENGNew": "\"...Otherwise...it would've been too sad...for you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 156488,
+    "TextENGNew": "\"...I! ...I'm sorry! ...I really didn't mean it to come out...like that...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 156489,
+    "TextENGNew": "Tears stream down Rika's face. Mion freezes, bewildered.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 156490,
+    "TextENGNew": "\"...I'm sorry. ...I'm so sorry...! ...I was...I was wrong...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 156491,
+    "TextENGNew": "\"Wha?... Wh-What's the matter...? ...Rika-san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 156492,
+    "TextENGNew": "\"...You've been my only friend...and I... ...I'm sorry! ...I'm so sorry!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 156493,
+    "TextENGNew": "\"...R-Rika-san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 156494,
+    "TextENGNew": "\"...What have I...what have I done...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 156495,
+    "TextENGNew": "Rika pulls a small pill bottle from her pocket and presses it into Mion's hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 156496,
+    "TextENGNew": "\"...Run.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 156497,
+    "TextENGNew": "\"Huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 156498,
+    "TextENGNew": "\"...When your head hurts more than you can stand, take just one! ...Take them with you!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 156499,
+    "TextENGNew": "\"Wh-wh-what are you talking about, Rika-san?! ...I have no idea what's going on.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 156500,
+    "TextENGNew": "\"Run! Anywhere—just go, now!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 156501,
+    "TextENGNew": "\"Run? ...To where?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 156502,
+    "TextENGNew": "\"...Ugh... ...Just don't go home!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 156503,
+    "TextENGNew": "\"You c-can't just spring something like this on me! ...Why...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 156504,
+    "TextENGNew": "\"Anywhere—just hurry! Run!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 156505,
+    "TextENGNew": "\"Give me a reason! Tell me why! ...Why do I have to run?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 156506,
+    "TextENGNew": "\"...And what about you, Rika-san?! ...Aren't you running?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 156507,
+    "TextENGNew": "\"...I'll handle everything after this. ...Forget about me and...run...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 156508,
+    "TextENGNew": "\"Rika-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 156509,
+    "TextENGNew": "\"Just go! If you don't hurry...! ...They'll—! ...Ruuuuuuun!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 156510,
+    "TextENGNew": "Hoshino and Okano emerge from the shadows.\nNitta leads the way in, with Hotoda and Oda close behind.",
+    "significantChanges": true,
+    "changeReason": "Stage directions reformatted. Also 'suddenly appear' vs 'emerge from the shadows', and old says 'Hotoda and Oda appear as well, following behind Nitta' vs new says 'Nitta leads the way in, with Hotoda and Oda close behind'.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 156511,
+    "TextENGNew": "Rika steps in front of Mion, shielding her.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 156512,
+    "TextENGNew": "\"We can't have that, Rika-san.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We can't have you running away on us, Rika-san' vs new says 'We can't have that, Rika-san'; JPN 逃がされては困ります means 'it would be a problem if you let her escape'. The new is more menacing and less specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 156513,
+    "TextENGNew": "\"...Stay back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 156514,
+    "TextENGNew": "\"...You're police, right...? ...What do you need...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 156515,
+    "TextENGNew": "\"...These people are not police...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 156516,
+    "TextENGNew": "\"My, my... ...How do you do. You must be Mion Sonozaki-san...?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Pleasure to meet you' vs new says 'How do you do'; JPN お初にお目にかかります is a very formal greeting. Also old says '...right...?' with trailing question vs new says '...Mion Sonozaki-san...?' — different phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 156517,
+    "TextENGNew": "\"Um, yes. Hi...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 156518,
+    "TextENGNew": "\"Chief. ...She's already in the terminal stage. Please be careful not to agitate her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 156519,
+    "TextENGNew": "\"Allow me to introduce myself. ...My name is Hiroaki Nitta. I work in the Infectious Disease Control Division of the Ministry of Health's Health Services Bureau. ...This is Okano.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Division of Parasites in the National Institute for Infectious Diseases' vs new says 'Parasitology Division of the National Institute of Infectious Diseases'. Also old says 'She's been sent to us as a specialist to help with this matter' vs new says 'She's been assigned to us as the specialist on this matter'.",
+    "changeScore": 2
+  },
+  {
+    "index": 94,
+    "MessageID": 156520,
+    "TextENGNew": "\"I'm Okano—same division. ...We introduced ourselves as police before, but that was a lie. I apologize.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 156521,
+    "TextENGNew": "\"I'm Oda, also from the Infectious Disease Control Division.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 156522,
+    "TextENGNew": "\"Hotoda, same division. Nice to meet you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 156523,
+    "TextENGNew": "\"Hoshino. Pleasure, Sonozaki-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 156524,
+    "TextENGNew": "\"Senior Specialist Hoshino is on loan from the Parasitology Division of the National Institute of Infectious Diseases. She's been assigned to us as the specialist on this matter.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Division of Parasites' vs new says 'Parasitology Division'; also 'National Institute for Infectious Diseases' vs 'National Institute of Infectious Diseases'. JPN 国立予防衛生研究所、寄生虫部 — the new translations are more standard English naming.",
+    "changeScore": 3
+  },
+  {
+    "index": 99,
+    "MessageID": 156525,
+    "TextENGNew": "\"...Oh... We're really getting a whole parade of government officials today, aren't we... ...Ministry of Construction, Ministry of Health... Are the Ministry of Education and the Ministry of Finance going to show up too?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 156526,
+    "TextENGNew": "\"They won't be. ...Rest easy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 156527,
+    "TextENGNew": "\"...Go away! ...I won't hand Mion over.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 156528,
+    "TextENGNew": "\"Rika-san. ...We're past that point, I'm afraid.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 156529,
+    "TextENGNew": "\"I-I'm getting a very bad feeling about this... ...What is it? Do you need something from me...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 156530,
+    "TextENGNew": "\"Oh yes, of course we do. There's something we'd very much like your help with, Mion-san. ...That's why we've all come here in person.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 156531,
+    "TextENGNew": "\"...Please forgive any discourtesy on our part.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 156532,
+    "TextENGNew": "\"I-I'm getting the VIP treatment here... ...Haha! I mean, I don't feel too bad about that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 156533,
+    "TextENGNew": "\"...Of course. We intend to offer you the very best care going forward, Sonozaki-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 156534,
+    "TextENGNew": "\"Haha! Alright! ..........Like I'd actually say that. You can't be serious. ...Nothing this good ever comes without strings attached.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Did you really think I'd say that? Idiots' vs new says 'Like I'd actually say that. You can't be serious'; different tone and different way of addressing the deception. JPN バーカ is informal for 'idiot/fool'.",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 156535,
+    "TextENGNew": "\"You'd be right. But there are reasons. ...I'll explain them now, so please listen with an open mind.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 156536,
+    "TextENGNew": "\"...It is a bit difficult to believe, after all. ...Hoshino-san, if you would.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 156537,
+    "TextENGNew": "\"Since you're from Hinamizawa, you know all about Oyashiro-sama's curse, don't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 156538,
+    "TextENGNew": "\"...I'm sorry. ...I'd really rather skip anything to do with Oyashiro-sama...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 156539,
+    "TextENGNew": "\"It won't take long.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 156540,
+    "TextENGNew": "\"...To get straight to the point—Oyashiro-sama's curse is real.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 156541,
+    "TextENGNew": "\"...You witnessed that man from the Ministry of Construction die in agony just a moment ago. That was precisely an instance of the curse.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 156542,
+    "TextENGNew": "\"Th-that can't be! ...Then what was Yoshimura?! ...He was—!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 156543,
+    "TextENGNew": "\"Mitsuru Yoshimura is, as he registered himself, just an ordinary freelance writer.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'was an ordinary freelance writer, just as he said' vs new says 'is, as he registered himself, just an ordinary freelance writer'; tense change (was vs is) and 'said' vs 'registered himself' — JPN 本人の申請通り means 'as per his own application/registration'.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 156544,
+    "TextENGNew": "\"That's impossible! ...He killed Arakawa-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 156545,
+    "TextENGNew": "\"...He was the slasher! ...He said himself that he did it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 156546,
+    "TextENGNew": "\"The slasher was a fiction. A lie we arranged to remove outsiders from the area.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We lied about there being a slasher. That was a lie we used in order to lead the outsiders away' vs new says 'The slasher was a fiction. A lie we arranged to remove outsiders from the area'; different construction but same meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 121,
+    "MessageID": 156547,
+    "TextENGNew": "\"What?! ...But Yoshimura said himself that he—!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 156548,
+    "TextENGNew": "\"Yoshimura hasn't done anything. He hasn't killed anyone.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 156549,
+    "TextENGNew": "\"But I was nearly killed right in front of you! He used some strange power to tear me apart from the inside!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'He used some kind of strange power to stir up the insides of my stomach' vs new says 'He used some strange power to tear me apart from the inside'; JPN お腹の中を掻き回されて means 'stirred up my insides'. 'Tear apart from the inside' is significantly more violent than 'stir up the insides of my stomach'.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 156550,
+    "TextENGNew": "\"Please, stay calm. ...Hear us out to the end. Hoshino-san, please continue.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 156551,
+    "TextENGNew": "\"I said the curse is real—and naturally, every curse has its true cause. ...It's a bug.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'there's a real cause behind the curse. ...It's a bug' vs new says 'every curse has its true cause. ...It's a bug'; old says 正体 which means 'true identity/nature'.",
+    "changeScore": 2
+  },
+  {
+    "index": 126,
+    "MessageID": 156552,
+    "TextENGNew": "\"A bug?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 156553,
+    "TextENGNew": "\"An extremely rare organism. We call it the Hinamizawa Ant. ...It looks a bit like an ant. Though its behavior is entirely different.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'It resembles an ant in its appearance. Though its behavior is completely different' vs new says 'It looks a bit like an ant. Though its behavior is entirely different'; also old says 'extremely rare bug' vs new says 'extremely rare organism'.",
+    "changeScore": 2
+  },
+  {
+    "index": 128,
+    "MessageID": 156554,
+    "TextENGNew": "\"The Hinamizawa Ant—as incredible as it sounds—is a brain parasite. Its transmission route remains unclear to us even now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 156555,
+    "TextENGNew": "\"...Of course, there's also no established treatment for this disease.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 156556,
+    "TextENGNew": "\"Ah, you might not want to try too hard to picture it. ...Thousands of tiny ants packed into the folds of your brain—that's a rather unpleasant image, isn't it...?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'minuscule ant is living packed in tight in the folds of the brain' vs new says 'Thousands of tiny ants packed into the folds of your brain'; JPN びっしり means 'packed tightly/densely'. The new adds 'thousands' which is not in the original, making it more graphic.",
+    "changeScore": 2
+  },
+  {
+    "index": 131,
+    "MessageID": 156557,
+    "TextENGNew": "\"It can only survive under very specific conditions, and doesn't live long outside of Hinamizawa. ...In other words, it's native to Hinamizawa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 156558,
+    "TextENGNew": "\"...Um...so this...ant, or whatever it's called...is living in my brain too...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 156559,
+    "TextENGNew": "\"Yes. ...But there's nothing to be afraid of. Some ninety percent of Hinamizawa residents are hosts.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 156560,
+    "TextENGNew": "\"...And yet it doesn't interfere with your daily life at all, does it? ...It's quite the model of symbiosis.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 156561,
+    "TextENGNew": "\"S-Still, it's creepy! ...The idea that some weird bug is living inside my head!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 156562,
+    "TextENGNew": "\"The human body is a universe of its own. We can't simply reject every tenant.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We can't just eject whatever we don't like about it' vs new says 'We can't simply reject every tenant'; different metaphor — 'eject' vs 'reject every tenant'.",
+    "changeScore": 2
+  },
+  {
+    "index": 137,
+    "MessageID": 156563,
+    "TextENGNew": "\"Hoshino-san, you're getting off track.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 156564,
+    "TextENGNew": "\"...Pardon me. ...Now—this ant has a queen.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 156565,
+    "TextENGNew": "\"...When the ants are separated too far from their queen—in other words, when an infected person ventures too far from Hinamizawa—they begin to go berserk.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 156566,
+    "TextENGNew": "\"They secrete various neurochemicals at random, destabilizing the host's emotions.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 156567,
+    "TextENGNew": "\"Paranoia sets in and swells—the belief that someone is watching them, that someone is trying to take their life—and those feelings only grow stronger.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'This leads to the growth of a persecution complex' vs new says 'Paranoia sets in and swells'; JPN 被害妄想を肥大させ — both capture the meaning but 'paranoia' vs 'persecution complex' are slightly different concepts.",
+    "changeScore": 2
+  },
+  {
+    "index": 142,
+    "MessageID": 156568,
+    "TextENGNew": "\"Eventually they begin to see visions and hear voices...and everything in their field of view feels like it's trying to kill them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 156569,
+    "TextENGNew": "\"...That is when tragedy strikes. ...If they're at home, they try to kill their families. If they're at work, they try to kill their colleagues.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 156570,
+    "TextENGNew": "\"In the terminal stages, they reportedly feel something alien writhing inside their own body.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 156571,
+    "TextENGNew": "\"...It rises through their throat...and the victims claw at their own necks until they die.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'they've claimed to feel like some foreign substance is crawling around inside of their body' vs new says 'they reportedly feel something alien writhing inside their own body'; 'crawling' vs 'writhing' — different movements, different intensity.",
+    "changeScore": 2
+  },
+  {
+    "index": 146,
+    "MessageID": 156572,
+    "TextENGNew": "\"...Horrible, isn't it? ...But as long as they remain in Hinamizawa, they're perfectly safe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 156573,
+    "TextENGNew": "\"How long it takes, how far is too far before the ant goes mad—it varies dramatically between individuals, and we can't make any general statement.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 156574,
+    "TextENGNew": "\"In one extreme case, symptoms developed on the very first day after leaving Hinamizawa. ...But of course, there are also people who've lived outside Hinamizawa for years without showing any symptoms.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 156575,
+    "TextENGNew": "\"...Um...so what does any of this creepy stuff have to do with me...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 156576,
+    "TextENGNew": "\"There is only one queen. ...And its host is none other than her—Rika-san.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'its host is this woman right here, Rika-san' vs new says 'its host is none other than her—Rika-san'. The old calls Rika 'this woman' while the JPN 彼女 is simply 'her'. Neither is wrong but 'this woman' is slightly off for context.",
+    "changeScore": 2
+  }
+]

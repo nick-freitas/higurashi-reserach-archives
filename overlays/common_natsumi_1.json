@@ -1,0 +1,212 @@
+[
+  {
+    "index": 2,
+    "MessageID": 23597,
+    "TextENGNew": "Several days had passed.",
+    "significantChanges": true,
+    "changeReason": "Old says 'A few days had passed since the incident'; new says 'Several days had passed' — the old adds 'since the incident' which is not in the Japanese (それから数日がたった simply means 'several days had passed since then').",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 23598,
+    "TextENGNew": "Nothing in particular had changed. I went to school on weekdays, and after class we all battled it out in club activities.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 23599,
+    "TextENGNew": "Win or lose, we made a tremendous ruckus and had ourselves a good time, then headed home.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 23600,
+    "TextENGNew": "After that, dinner, a bath, deep sleep. Then morning again.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 23601,
+    "TextENGNew": "On weekends we'd head into Okinomiya or go hang out at someone's house, losing track of time and carrying on until just before supper.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 23602,
+    "TextENGNew": "There weren't any particularly dramatic changes or incidents, but everything felt fresh and exciting—filled with both fun and a quiet contentment.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 23603,
+    "TextENGNew": "Ahh, so this is what it means to have happy, fulfilling times—thoughts like that drifted through my mind now and then.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 23604,
+    "TextENGNew": "In between all that, Mion and the others asked me to help set up the venue for the village festival—the Watanagashi—which was coming up soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 23605,
+    "TextENGNew": "Helping out with the preparations alongside the adults was hard physical work, but the sense of accomplishment more than made up for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 23606,
+    "TextENGNew": "Most of all, I was genuinely happy to feel as though I'd been accepted as a true member of the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 23607,
+    "TextENGNew": "And before I knew it, the day of the Watanagashi had finally arrived.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 23608,
+    "TextENGNew": "Ding-dong~~!",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 23609,
+    "TextENGNew": "\"Keiichi-kun, are you home~~!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 23610,
+    "TextENGNew": "\"Oh my, it's Rena-chan! Thank you so much for always looking after my Keiichi...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 23611,
+    "TextENGNew": "\"Ah... O-Okaa-san... I-It's I who... has been looked after by...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates おばさま as 'Ma'am'; new translates as 'Okaa-san' — the Japanese おばさま (auntie/madam) is a polite address for a friend's mother, and translating it differently changes the social context. 'Okaa-san' retains the Japanese honorific.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 23612,
+    "TextENGNew": "\"Ha~i, Kei-chan! You come hungry today? We're filling up at the food stalls tonight!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 23613,
+    "TextENGNew": "\"You think I'd waste stomach space knowing the club's going to the food stalls?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 23614,
+    "TextENGNew": "\"Now that's the spirit!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 23615,
+    "TextENGNew": "\"Where are Satoko and Rika-chan? Already at the shrine?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Where are Rika-chan and Satoko?' listing Rika first; new says 'Where are Satoko and Rika-chan?' listing Satoko first — the Japanese lists 沙都子 (Satoko) first, matching the new translation's order. Also 'temple' vs 'shrine' (神社 = shrine, not temple).",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 23616,
+    "TextENGNew": "\"Yep! Rika-chan is on the festival committee, after all. Satoko-chan is probably with her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 23617,
+    "TextENGNew": "\"I see. ...All right! Let's make some noise tonight!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 23618,
+    "TextENGNew": "\"\"Yeah~~~~~!!!!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 23619,
+    "TextENGNew": "\"Hey~!! You're all late, everyone!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 23620,
+    "TextENGNew": "\"It is simply unacceptable to keep a lady waiting, Keiichi-san~!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 23621,
+    "TextENGNew": "\"Oh? My apologies. And where might this 'lady' I've kept waiting be?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 23622,
+    "TextENGNew": "\"Wha-wha-wha-WHAAAAT did you just saAaay!?!?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 23623,
+    "TextENGNew": "\"...Oh my~☆ ...Rika-chan... S-s-s-s-so... cu~te...♪!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 23624,
+    "TextENGNew": "\"...Good evening, everyone. Good evening to you as well, Keiichi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 23625,
+    "TextENGNew": "\"Kyaa!! Looking good, looking good! You're wearing it again this year!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You're looking sharp again this year!' (complimenting appearance); new says 'You're wearing it again this year!' (commenting on wearing something) — different focus: looking good vs wearing an outfit, per Japanese キマってる which means 'looking good/stylish.'",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 23626,
+    "TextENGNew": "\"S-so cute, so cute...! Gonna take you hoome~!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 23627,
+    "TextENGNew": "With that, the usual club members had assembled, and the fun evening of the Watanagashi festival began.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 23628,
+    "TextENGNew": "June 20, 1983 — Before Dawn",
+    "significantChanges": true,
+    "changeReason": "Old translates 未明 as 'early morning'; new translates as 'Before Dawn' — 未明 specifically means 'before dawn/predawn,' which is more precise than 'early morning.'",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 23629,
+    "TextENGNew": "A few hours after the Hinamizawa village festival had ended——@r@rDeep in the mountains, somewhere along the prefectural border between Gifu and Aichi",
+    "significantChanges": true,
+    "changeReason": "Old treats 山中 as a place name ('In Yamanaka'); new correctly translates it as 'deep in the mountains.' Also 'somewhere on the border' vs 'somewhere along the border' is minor.",
+    "changeScore": 3
+  }
+]

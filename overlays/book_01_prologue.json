@@ -1,0 +1,254 @@
+[
+  {
+    "index": 2,
+    "MessageID": 1118,
+    "TextENGNew": "...At the far edge of my hazy consciousness, the sound of someone snoring reached me.",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'hazy' (もやがかった) which the old omits, more accurately conveying the foggy state of consciousness described in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 1119,
+    "TextENGNew": "When I realized it was coming from myself, I dragged off the grogginess and slowly opened my eyes.",
+    "significantChanges": true,
+    "changeReason": "Old says he 'chased the grogginess away' implying he got rid of it, but the Japanese (呆けた感じを引きずりつつ) says he opened his eyes while still dragging along the grogginess — the new translation better preserves this nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 1120,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 1121,
+    "TextENGNew": "What greeted my eyes was a dingy ceiling lit by the flickering light of a fluorescent tube on its last legs.",
+    "significantChanges": true,
+    "changeReason": "New translation captures 切れかけの蛍光灯 ('fluorescent tube on its last legs/about to burn out') and 薄汚れた ('dingy'), details the old translation either omits or softens to 'lightly stained.'",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 1122,
+    "TextENGNew": "I had only meant to stretch out on the break room sofa for a short rest — but it seemed I had fallen into a proper sleep somewhere along the way.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 1123,
+    "TextENGNew": "Perhaps from sleeping in an awkward position — a dull ache had settled into my shoulders and somewhere around my brow. If I left it alone for a while the circulation would come back, and it would probably ease up.",
+    "significantChanges": true,
+    "changeReason": "Old translates 眉間 as 'temple' (side of head) when it actually means 'between the eyebrows/brow area'; new translation correctly places the pain.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 1124,
+    "TextENGNew": "\"...Haah...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 1125,
+    "TextENGNew": "I raised myself upright and kneaded at the stiffness in my neck, and a yawn escaped naturally.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 1126,
+    "TextENGNew": "The short hand of the wall clock had well passed the twelve, and a single cigarette lay in the ashtray on the table, burnt all the way down to the filter.",
+    "significantChanges": true,
+    "changeReason": "Old says clock hand was 'pointing straight up' (at 12) but Japanese てっぺんを大きく越え means 'well past twelve' — different time indication. 'Butt' vs 'filter' is a minor wording difference.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 1127,
+    "TextENGNew": "...I had no particular memory of smoking it, but perhaps I had wanted one last puff before dropping off. If I had somehow let it fall onto the sofa, it could have started a fire.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 1128,
+    "TextENGNew": "\"...That was close, that was close.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 1129,
+    "TextENGNew": "I muttered to myself with a wry smile, rose to my feet with the ashtray in hand, and tipped the ashes into the cigarette bin in the corner of the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 1130,
+    "TextENGNew": "Inside the bin, an enormous pile of cigarette butts sat in a pool of murky yellowish-brown water, and the sharp, stinging smell made me involuntarily screw up my face.",
+    "significantChanges": true,
+    "changeReason": "New translation includes the specific color 黄土色 ('yellowish-brown') for the murky water, a descriptive detail the old translation omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 1131,
+    "TextENGNew": "...On the other hand, it did a thorough job of blowing away my drowsiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 1132,
+    "TextENGNew": "\"It's about time I parted ways with cigarettes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 1133,
+    "TextENGNew": "Starting tomorrow — no, looking at the clock, the day had already turned, so starting today, I supposed.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 1134,
+    "TextENGNew": "From now on, whether I liked it or not, there would be no need to stay up through the night, and no opportunity to step outside to clear a head that had been worked to a boil.",
+    "significantChanges": true,
+    "changeReason": "Old says 'urges might keep me up at night' but JPN says the opposite: there will be no need to stay up through the night — reversed meaning about retirement life.",
+    "changeScore": 4
+  },
+  {
+    "index": 19,
+    "MessageID": 1135,
+    "TextENGNew": "Rather, I would have more time doing nothing in particular and letting my mind go blank — so for the sake of my health, it was probably the right moment to quit.",
+    "significantChanges": true,
+    "changeReason": "Old reverses the logic: JPN says more idle time ahead makes this a good moment to quit for health; old implies doing nothing would be worse than smoking.",
+    "changeScore": 4
+  },
+  {
+    "index": 20,
+    "MessageID": 1136,
+    "TextENGNew": "...Though it had sunk into me as deeply as any habit can, so I had little confidence I could actually stop. It would be nice to find something to replace it — something to enjoy alongside eating, sleeping, and playing mahjong.",
+    "significantChanges": true,
+    "changeReason": "Old translates 打つ in idiom 食う寝る打つ as 'getting into fights' when it means 'gambling/playing mahjong' — different activity, though the broader point about seeking substitute pleasures is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 1137,
+    "TextENGNew": "\"How to spend my days — without detective work... I wonder. Farming is hardly my style... nfu fu fu.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 1138,
+    "TextENGNew": "Picturing myself out in the fields turning over soil, I felt something almost like amusement.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 1139,
+    "TextENGNew": "It was a rather helpless state of affairs, but I hadn't done the slightest bit of research into the new place I was supposed to be setting off for next week.",
+    "significantChanges": true,
+    "changeReason": "Old softens さっぱり調べていなかった ('hadn't researched at all') to 'haven't put much thought into it,' while new accurately conveys the complete lack of research into the destination.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 1140,
+    "TextENGNew": "My memory held a landscape far more rural than Okinomiya — but it had been so long since I last went back to visit my mother that I couldn't begin to imagine what it was like now.",
+    "significantChanges": true,
+    "changeReason": "Old describes the landscape as 'countryside around Okinomiya' but the Japanese (興宮の町以上の田舎) means his mother's home is 'even more rural than Okinomiya' — a comparison, not a description of Okinomiya itself.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 1141,
+    "TextENGNew": "Apparently, as part of plans for a large airport that would open in a few years, transportation had become fairly convenient — or so her letters said. Well, we would see.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 1142,
+    "TextENGNew": "\"...Well, that's fine, I suppose. It won't kill me — and there's something to be said for finding out once you're there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 1143,
+    "TextENGNew": "Besides, from now on I would be looking after my aging mother — and that alone would fill a considerable amount of time.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 1144,
+    "TextENGNew": "She gave me a strong body and let me live my life as I pleased for years while giving little thought to her — if I didn't make some attempt at filial duty now, divine punishment would surely find me...",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 1145,
+    "TextENGNew": "\"Divine punishment... is it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 1146,
+    "TextENGNew": "Turning those words over in my mouth as they surfaced in my mind, I reached out and picked up one of the thick files stacked on the desk before me, and studied the title written on its cover.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 1147,
+    "TextENGNew": "\"Hinamizawa — the serial deaths and disappearances\" —.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 1148,
+    "TextENGNew": "If divine punishment truly exists, surely nothing has ever better exemplified it than this. On a scale that defies easy human reckoning... and of a strangeness that defies comprehension.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 1149,
+    "TextENGNew": "\"Hinamizawa... the village...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 1150,
+    "TextENGNew": "Official designation: Hinamizawa district, Shishibone City.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 1151,
+    "TextENGNew": "A settlement of some two thousand souls where the authority of the mayor and public institutions held little sway — an ancient and exclusionary land, ruled in practice by the three great families of traditional influence known as the 'Three Houses.'",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 1152,
+    "TextENGNew": "And a folk faith in the local deity known as 'Oyashiro-sama' had been passed down among the residents from generation to generation... along with a 'curse' said to befall the faithless, which had been striking again and again in recent years.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 1153,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 1154,
+    "TextENGNew": "But now, the very existence of that settlement has been officially declared as though it 'never was' — and the few survivors have scattered to the winds.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the crucial nuance that the settlement's existence was officially treated as though it 'never was' (なかったものとされて), conveying deliberate erasure rather than the old's simpler 'it's all gone now.'",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 1155,
+    "TextENGNew": "And the beginning of it all... lay in the events compiled in these files.",
+    "significantChanges": false
+  }
+]

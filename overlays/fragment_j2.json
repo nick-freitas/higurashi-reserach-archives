@@ -1,0 +1,90 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8324,
+    "TextENGNew": "The piece that Keiichi Maebara must first confront in order to grow into a game piece who can lead the others — a piece that is painful, agonizing, and deeply sad.",
+    "significantChanges": true,
+    "changeReason": "\"pitiful\" (evoking pity) vs \"agonizing\" (evoking torment) create different emotional impressions; 辛い means agonizing/bitter, not pitiful.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 8325,
+    "TextENGNew": "He must learn what it means to have companions, and learn what it means to not doubt them.",
+    "significantChanges": true,
+    "changeReason": "\"learn about his friends\" implies gaining information about people, while \"learn what it means to have companions\" implies understanding the concept of companionship; 仲間 means companions/comrades.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 8326,
+    "TextENGNew": "He does not yet know the weight that the words \"I trust my friends\" truly carry.",
+    "significantChanges": true,
+    "changeReason": "Old version refers to \"the importance of trusting friends\"; new version specifically captures \"the weight of the words 'I trust my friends'\" (言葉の重さ), which is about the declaration itself, not just the concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 8327,
+    "TextENGNew": "From the smallest seed of distrust, paranoia takes root and blooms — and Keiichi Maebara is snared by Rule X.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 8328,
+    "TextENGNew": "At the end of Rule X, Keiichi leaves behind a heartbreaking farewell letter and dies.",
+    "significantChanges": true,
+    "changeReason": "\"note\" is generic while \"farewell letter\" specifies the nature of the document, closer to 遺書 (last testament/farewell letter); \"sad\" vs \"heartbreaking\" also shifts emotional intensity.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 8329,
+    "TextENGNew": "It is a painful, sorrowful thing — and yet it is a necessary process for learning something truly important.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 8330,
+    "TextENGNew": "...Hey, Hanyuu.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 8331,
+    "TextENGNew": "You really didn't need to apologize, you know.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8332,
+    "TextENGNew": "In the few days he was away from Hinamizawa for a relative's funeral...",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8333,
+    "TextENGNew": "...The fact that he had his outbreak during that time is certainly tragic.",
+    "significantChanges": true,
+    "changeReason": "Old version omits the temporal connection \"during that time\" (その間に) linking the outbreak to his absence from Hinamizawa, which is contextually important.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 8334,
+    "TextENGNew": "But I think it was necessary — as his very first step toward learning something of great importance.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 8335,
+    "TextENGNew": "The first step toward drawing out Rule X and, in time, overcoming it.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 8336,
+    "TextENGNew": "Back when this was the only piece I had, I never thought of it that way, though...",
+    "significantChanges": false
+  }
+]

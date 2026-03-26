@@ -1,0 +1,616 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9214,
+    "TextENGNew": "``I'm going out to plaaay!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 9215,
+    "TextENGNew": "The girl's bright, energetic voice rang throughout the house.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9216,
+    "TextENGNew": "It was a cramped tenement building, so the walls were thin.",
+    "significantChanges": true,
+    "changeReason": "New adds 'cramped' (貧乏長屋 means 'poor/cramped tenement'), while old just says 'tenement house'.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 9217,
+    "TextENGNew": "Her cheerful voice carried through to the neighbors as well, but no one was boorish enough to complain about the endearing shouts of a child.",
+    "significantChanges": true,
+    "changeReason": "New adds 'no one was boorish enough to complain about the endearing shouts of a child' matching JPN 微笑ましい子供の元気な声に文句を言う無粋な人などいるはずもない (no one so boorish as to complain about the heartwarming energetic voice of a child), while old simply says 'nobody complained'.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 9218,
+    "TextENGNew": "``Miyoko.@k@vS20/00/VTK2_miyokoF2002. Your father and I were thinking of going to the department store...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'the mall', new says 'the department store'; JPN デパート means 'department store'. Also old says 'we're thinking about going', new says 'your father and I were thinking of going' matching JPN お父さんたち (father and company).",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 9219,
+    "TextENGNew": "But his voice never reached the girl, whose heart was already brimming with excitement about building a new secret base in the field and playing there with her friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 9220,
+    "TextENGNew": "Her father had called out because he knew the girl had been looking forward to visiting the department store, and that she would sulk if her parents went without her.",
+    "significantChanges": true,
+    "changeReason": "New adds 'that she would sulk if her parents went without her' matching JPN ヘソを曲げる (to sulk/get offended), while old just says 'she would be upset'.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 9221,
+    "TextENGNew": "...He also knew she had a hobby of collecting the little flags from kid's meal plates, and that she was just one flag short of twenty.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9222,
+    "TextENGNew": "The girl had made a wish upon those flags.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9223,
+    "TextENGNew": "She believed that once she gathered all twenty, some kind of miracle would occur, and she would find happiness.",
+    "significantChanges": true,
+    "changeReason": "New adds 'some kind of miracle would occur' (何かの奇跡が起こり) from JPN, while old just says 'she could become happy', missing the miracle element.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 9224,
+    "TextENGNew": "Oh well.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 9225,
+    "TextENGNew": "He would bring back a kid's meal flag as a souvenir for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 9226,
+    "TextENGNew": "It wasn't anything extravagant.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 9227,
+    "TextENGNew": "If he asked someone at the restaurant, they would surely give him one.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 9228,
+    "TextENGNew": "As the girl skipped along toward her friend's house, an unfamiliar woman stepped into her path.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 9229,
+    "TextENGNew": "The girl could tell at a glance that this person was not from the neighborhood.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 9230,
+    "TextENGNew": "The area was a close-knit tenement community.",
+    "significantChanges": true,
+    "changeReason": "New specifies 'close-knit tenement community' matching JPN ご近所付き合いの深い貧乏長屋 (tenement with deep neighborly bonds), while old just says 'ties between the neighbors were very tight around there'.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 9231,
+    "TextENGNew": "She knew everyone's face.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 9232,
+    "TextENGNew": "So if a stranger appeared, it was either a new mail carrier or some outsider who had wandered in thinking there was a shortcut.",
+    "significantChanges": true,
+    "changeReason": "New adds 'or some outsider who had wandered in thinking there was a shortcut' matching JPN 近道ができると勘違いして迷い込んだ余所者 (an outsider who mistakenly thought there was a shortcut and wandered in), while old just says 'someone who's lost'.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 9233,
+    "TextENGNew": "The woman spoke to the girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 9234,
+    "TextENGNew": "``...Do you want to live?@k@vS20/05/VTK2_rika2083. ...Or do you want to die?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 9235,
+    "TextENGNew": "Hearing only those words, any ordinary person would have been suspicious of such a strange question.",
+    "significantChanges": true,
+    "changeReason": "Old says 'the woman was crazy', new says 'suspicious of such a strange question'; JPN 訝しがる means 'to be suspicious/skeptical', not 'think she was crazy'.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 9236,
+    "TextENGNew": "But the girl still possessed enough innocence to take the question at face value.",
+    "significantChanges": true,
+    "changeReason": "Old says 'too innocent to think that way', new says 'still possessed enough innocence to take the question at face value'; JPN まだそれを真に受けるだけの純粋さがあった means 'still had enough purity to take it at face value', and 'take at face value' (真に受ける) is a specific nuance the old misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 9237,
+    "TextENGNew": "And so she answered without hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 9238,
+    "TextENGNew": "``I want to live!``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 9239,
+    "TextENGNew": "``I see.@k@vS20/05/VTK2_rika2085. Then go on your way.@k@vS20/05/VTK2_rika2086. Your friend won't be home even if you go, but go anyway.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Then go. Your friend isn't home, but go on.', new says 'Then go on your way. Your friend won't be home even if you go, but go anyway.'; JPN どうせ行っても友達は留守だけど means 'even if you go, your friend will be away anyway', so new captures the 'even if you go' conditional that old misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 9240,
+    "TextENGNew": "``...She won't be home?``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 9241,
+    "TextENGNew": "The girl wondered how this mysterious woman could possibly know such a thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 9242,
+    "TextENGNew": "As the woman turned to leave, the girl called after her.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 9243,
+    "TextENGNew": "If 'I want to live' had gotten that response -- a little unsettling, but still -- she was curious, with a child's innocent curiosity, what the other answer would bring.",
+    "significantChanges": true,
+    "changeReason": "New captures the child's reasoning process: 'If I want to live had gotten that response... she was curious, with a child's innocent curiosity, what the other answer would bring' matching JPN 子供の無邪気さから興味を持った (held interest from a child's innocence), while old just says 'she was curious, although it was a little scary'.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 9244,
+    "TextENGNew": "``Then what happens if I say I want to die?``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 9245,
+    "TextENGNew": "``You'll get one more kid's meal flag.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 9246,
+    "TextENGNew": "``...Huh?!@k@|@y@vS20/48/VTK2_miyoko2006. No fair -- they're going to the department store without me!!@k@|@y@vS20/48/VTK2_miyoko2007. That's not fair, that's not fair!``",
+    "significantChanges": true,
+    "changeReason": "New says 'No fair -- they're going to the department store without me!!' specifying デパート (department store), while old says 'they're going without me' without specifying where. Also matches JPN 私に内緒でデパートに行く気だ.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 9247,
+    "TextENGNew": "The girl immediately turned and bolted back the way she had come.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 9248,
+    "TextENGNew": "``Are you sure...?@k@vS20/05/VTK2_rika2089. ...You won't... regret it...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 9249,
+    "TextENGNew": "The mysterious woman pressed the question as if to make absolutely certain.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 9250,
+    "TextENGNew": "``Why would I regret it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 9251,
+    "TextENGNew": "``...I won't tell you.@k@vS20/05/VTK2_rika2091. ...Because I'm cruel that way.``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 9252,
+    "TextENGNew": "``...Hmm...``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 9253,
+    "TextENGNew": "The girl thought she was being tested with some kind of riddle, and turned it over in her mind, but nothing came to her.",
+    "significantChanges": true,
+    "changeReason": "New adds 'deciding it must not matter' matching JPN なぁんだ、どうでもいいこと (oh well, it doesn't matter), a dismissive realization omitted from old.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 9254,
+    "TextENGNew": "Then, deciding it must not matter, she clapped her hands together and declared:",
+    "significantChanges": true,
+    "changeReason": "Old says 'That's okay, then', new says 'It'll be fine, miss'; JPN 大丈夫だよ、お姉ちゃん means 'It'll be fine, big sister/miss', and the address term お姉ちゃん is present in new but missing from old.",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 9255,
+    "TextENGNew": "``It'll be fine, miss.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 9256,
+    "TextENGNew": "``Why will it be fine?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Because my parents will be with me', new says 'Because no matter what happens, Mom and Dad will be with me'; JPN 何があっても (no matter what happens) is in the new but omitted from old, an important emphasis.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 9257,
+    "TextENGNew": "``Because no matter what happens, Mom and Dad will be with me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 9258,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 9259,
+    "TextENGNew": "Hearing that, the woman stepped aside.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 9260,
+    "TextENGNew": "The girl gave a polite little bow and ran back toward home.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 9261,
+    "TextENGNew": "There she found her parents locking the door, just about to leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 9262,
+    "TextENGNew": "She pounced on them, begging to come along.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 9263,
+    "TextENGNew": "...And so the girl got to go to the department store with her family.",
+    "significantChanges": true,
+    "changeReason": "Old says 'going to the mall with her family', new says 'got to go to the department store with her family'; JPN デパート is 'department store' not 'mall'. Also new adds the sense of achievement (行けることになった = 'was able to go').",
+    "changeScore": 2
+  },
+  {
+    "index": 51,
+    "MessageID": 9264,
+    "TextENGNew": "The three of them walked to the bus stop, waited for the bus, and climbed aboard.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 9265,
+    "TextENGNew": "The driver was anxious about falling behind schedule, and the passengers could tell from his driving.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 9266,
+    "TextENGNew": "``He's braking really hard a lot today.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Lately it brakes more often', new says 'He's braking really hard a lot today'; JPN 今日は急ブレーキが多いね means 'There are a lot of sudden brakes today', so 'today' and 'sudden/hard' are in the new but not old.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 9267,
+    "TextENGNew": "The girl said this while kneeling on her seat and gazing out the window.",
+    "significantChanges": true,
+    "changeReason": "New adds 'the girl said this while kneeling on her seat and gazing out the window' matching JPN そう少女は、座席の上に膝立ちして外を見ながら言う, while old just says 'she stood on her knees and looked out the window', missing the speech attribution.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 9268,
+    "TextENGNew": "Her mother told her it was dangerous and to sit properly.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 9269,
+    "TextENGNew": "But the girl just stuck out her tongue.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 9270,
+    "TextENGNew": "...And then... the bus... approached... a busy intersection... with poor visibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 9271,
+    "TextENGNew": "The passengers paid no attention to the passing scenery and blindly assumed that every car around them was obeying the traffic laws.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 9272,
+    "TextENGNew": "That was why none of them noticed the oncoming vehicle swerving into the center lane.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 9273,
+    "TextENGNew": "And the bus driver, looking away for just a moment, failed to see it either...",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 9274,
+    "TextENGNew": "........................",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 9275,
+    "TextENGNew": "The girl and her parents walked home beneath a sky full of stars, their arms laden with shopping bags.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 9276,
+    "TextENGNew": "They unlocked the door, turned on the lights in the dark house, and the girl set her bags by the entrance before dashing to her room.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 9277,
+    "TextENGNew": "She opened her desk drawer, took something from her pocket, and placed it inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 9278,
+    "TextENGNew": "She closed the drawer once, then opened it again, spreading her treasures out on the tatami floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 9279,
+    "TextENGNew": "They were little flags bearing the designs of various national flags -- kid's meal flags.",
+    "significantChanges": true,
+    "changeReason": "Old says 'flags of many different countries that came with the kid's meals', new says 'little flags bearing the designs of various national flags -- kid's meal flags'; JPN 色々な国の国旗を模した means 'modeled after/bearing the designs of various national flags', and new captures the 'modeled after' nuance that they're reproductions, not actual country flags.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 9280,
+    "TextENGNew": "``The Japanese flag, the American flag, the British flag... and this one, umm, which country was it again...``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 9281,
+    "TextENGNew": "The tricolor ones were hard to tell apart...",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 9282,
+    "TextENGNew": "She rearranged them in a line, counting as she went.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 9283,
+    "TextENGNew": "She placed each one down while counting aloud.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 9284,
+    "TextENGNew": "And then the girl began to dance with joy.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 9285,
+    "TextENGNew": "Because at long last, she had gathered all twenty flags.",
+    "significantChanges": true,
+    "changeReason": "New adds 'at long last' (念願の) matching JPN 念願の (long-cherished/long-awaited), while old just says 'she now had twenty'.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 9286,
+    "TextENGNew": "How long it had taken her to collect this many.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 9287,
+    "TextENGNew": "The effort had been immense for the girl, and the joy of finally achieving her goal made her leap with delight.",
+    "significantChanges": true,
+    "changeReason": "New adds 'the joy of finally achieving her goal made her leap with delight' capturing JPN 偉業の喜びにしばし躍り上がった (leapt with joy at the achievement), while old just says 'she was so proud of herself'.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 9288,
+    "TextENGNew": "After working so hard to collect them all, surely something wonderful awaited her.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 9289,
+    "TextENGNew": "She had made a wish -- that once she gathered twenty, she would find happiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 9290,
+    "TextENGNew": "So surely, starting now, something marvelous was about to happen...",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 9291,
+    "TextENGNew": "The girl waited with bated breath, but it wasn't a magic lamp -- no genie was going to appear and grant her wishes.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 9292,
+    "TextENGNew": "Maybe the good fortune wouldn't come tonight. Maybe it would arrive tomorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 9293,
+    "TextENGNew": "The girl decided she could wait patiently.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 9294,
+    "TextENGNew": "After all, she had accomplished the monumental feat of collecting twenty flags.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 9295,
+    "TextENGNew": "Surely, surely, a wonderful happiness would come to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 9296,
+    "TextENGNew": "Surely, surely, a wonderful miracle would come to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 9297,
+    "TextENGNew": "Or perhaps the flags would serve as a charm, warding off sorrow and misfortune.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 9298,
+    "TextENGNew": "The girl placed her twenty flags back in the drawer.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 9299,
+    "TextENGNew": "Then, hearing her mother call out to brush her teeth and go to bed, she scampered off to the bathroom...",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 9300,
+    "TextENGNew": "Isn't this nice?@k This sort of thing.@k Even if the miracle was given in advance.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 9301,
+    "TextENGNew": "Now then, what shall I play with next?@k After all, there are fragments aplenty.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 9302,
+    "TextENGNew": "What?@k You want to try too?@k Hee hee, it's fun.@k It makes you feel like a god, doesn't it?",
+    "significantChanges": true,
+    "changeReason": "Old says 'It makes you feel like God' (capital G, singular), new says 'It makes you feel like a god' (lowercase, with article); JPN 神さま means 'god' in general, not specifically 'God', so new is more appropriate.",
+    "changeScore": 2
+  },
+  {
+    "index": 90,
+    "MessageID": 9303,
+    "TextENGNew": "A world where Satoshi is still around, or a world where the Sonozaki sisters were never switched.",
+    "significantChanges": true,
+    "changeReason": "Old says 'A world with Satoshi', new says 'A world where Satoshi is still around'; JPN 悟史が一緒にいる世界 means 'a world where Satoshi is together [with them]', implying his presence/survival, which new captures better. Also old says 'the Sonozaki sisters didn't switch', new says 'were never switched' - both the same.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 9304,
+    "TextENGNew": "I wonder what a world would be like where Satoko's parents and Rika's parents were all still alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 9305,
+    "TextENGNew": "Oh, how about this one?@k Akasaka gets seduced by Takano and joins the enemy side.@k Ahaha, that sounds interesting.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Akasaka gets enticed to the enemy's side by Takano', new says 'Akasaka gets seduced by Takano and joins the enemy side'; JPN 籠絡されて means 'to be won over through seduction/manipulation', and 'seduced' captures this more directly than 'enticed'.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 9306,
+    "TextENGNew": "Personally, I'm curious about a world where Takano is head over heels for Tomitake.@k Pairing Keiichi with different girls could be fun too.@k I absolutely love a good love triangle.@k Tee hee!",
+    "significantChanges": true,
+    "changeReason": "Old says 'I love drama very, very much!', new says 'I absolutely love a good love triangle.'; JPN 修羅場 means 'scene of carnage/love triangle conflict', not just generic 'drama'.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 9307,
+    "TextENGNew": "Well then, what shall I play with next?@k There are so many Fragments to choose from.@k Hey, want a few?@k What kind of world would you make?",
+    "significantChanges": false
+  }
+]

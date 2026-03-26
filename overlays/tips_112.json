@@ -1,0 +1,245 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Night Before",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Last Night\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15525,
+    "TextENGNew": "``......Tomorrow... is already upon us.``",
+    "significantChanges": true,
+    "changeReason": "The original omits the nuance of 'もう' (already) present in the Japanese; the new translation conveys the imminence that time has run out.",
+    "changeScore": 1
+  },
+  {
+    "index": 2,
+    "MessageID": 15526,
+    "TextENGNew": "``Hm? ......Oh, you mean the anniversary of our deaths?``",
+    "significantChanges": true,
+    "changeReason": "The Japanese '命日' specifically means a death anniversary (a recurring memorial date), not the act of dying; the new translation captures this distinction.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 15527,
+    "TextENGNew": "``......This time will end the same way as always.``",
+    "significantChanges": true,
+    "changeReason": "'As always' implies a long-repeated pattern matching the context of Rika's looping existence, while 'just like the last time' narrows it to a single prior instance.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 15528,
+    "TextENGNew": "``I wonder about that. ...It has been very similar, but there were some differences this time around.@k@vS20/05/440500050. ...Keiichi remembered what happened before.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15529,
+    "TextENGNew": "``...That is impossible. There is no way he could remember--no, there is no way he could *know*.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 15530,
+    "TextENGNew": "``Hee hee hee... The more adamantly you insist it is absolutely impossible... the more it makes me feel that this truly is a miracle.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15531,
+    "TextENGNew": "``It is pointless. This time will end the same way again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15532,
+    "TextENGNew": "``Will it, I wonder?``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15533,
+    "TextENGNew": "``It will all be over soon. Everything will end.@k@vS20/12/441100011. ...Yes, when the higurashi cry.``",
+    "significantChanges": true,
+    "changeReason": "The original omits 'もうすぐ' (soon) and restructures the three-part statement into two, losing the emphatic pacing and the iconic title reference present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 15534,
+    "TextENGNew": "...Was it all going to end regardless?",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15535,
+    "TextENGNew": "The more you roll a die, the closer the cumulative total approaches the statistical average.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15536,
+    "TextENGNew": "Even if you roll it a hundred times and a miracle occurs--sixes appearing in a row--the grand total still converges on the mean.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15537,
+    "TextENGNew": "...Subsumed into the predetermined harmony of probability.",
+    "significantChanges": true,
+    "changeReason": "The original reduces '予定調和に内包されてしまう' (subsumed into predetermined harmony) to a generic 'fact of statistics,' losing the philosophical metaphor central to Rika's worldview.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 15538,
+    "TextENGNew": "And yet, if you roll a hundred times, the range of possible totals spans from 100 to 600.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15539,
+    "TextENGNew": "The more you roll, the more the future tries to collapse into a single average--and yet,@k the more you roll, the more possible futures actually come into existence.",
+    "significantChanges": true,
+    "changeReason": "The original uses 'outcomes' where the Japanese specifically says '未来' (futures), losing the thematic connection between dice rolls and possible futures central to this passage's metaphor.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 15540,
+    "TextENGNew": "A hundred rolls yields roughly five hundred possible futures.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15541,
+    "TextENGNew": "A thousand rolls yields five thousand possible futures.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15542,
+    "TextENGNew": "Surely among them, there must be one outcome where this never-ending board game finally reaches its conclusion.",
+    "significantChanges": true,
+    "changeReason": "The Japanese says 'スゴロク' (sugoroku, a board game), not a dice game; the new translation correctly identifies it as a board game.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 15543,
+    "TextENGNew": "...The miracle Keiichi showed me was a revelation--proof that continuing to roll the die is never futile.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 15544,
+    "TextENGNew": "Do not surrender to the tyranny of averages.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 15545,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15546,
+    "TextENGNew": "``............What an infuriating back you show me. ...You are absolutely convinced this time will fail too. That melancholy of yours is written all over you.``",
+    "significantChanges": true,
+    "changeReason": "The original changes '背中' (back) to 'face' and omits '哀愁' (melancholy) and 'いらつく' (infuriating); the new preserves Rika's observation about the other character's dejected back.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 15547,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 15548,
+    "TextENGNew": "``...Even I... think it will probably end the same way again... But I refuse to give up until the very last die is cast.@k@vS20/05/440500055. Keiichi taught me that.@k@vS20/05/440500056. Something is different this time.@k@vS20/05/440500057. ...So I will try believing in that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15549,
+    "TextENGNew": "``......Rika... you truly are strong.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 15550,
+    "TextENGNew": "``Well, of course. I am much younger than you, after all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 15551,
+    "TextENGNew": "``......Mmm... mumble mumble...... ...Rika...?``",
+    "significantChanges": true,
+    "changeReason": "'むにゃむにゃ' is sleepy mumbling, not a yawn; the new translation correctly renders the onomatopoeia.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 15552,
+    "TextENGNew": "``...Mii.``",
+    "significantChanges": true,
+    "changeReason": "'みー' is Rika's signature catchphrase pronounced 'Mii'; 'Meep' is a different word that could give readers a different impression of her character voice.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 15553,
+    "TextENGNew": "``Why are you still up at this hour...? ...Yaaawn... Staying up late is bad for you, you know...``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 15554,
+    "TextENGNew": "``...I am sorry. I could not sleep, so I was just looking at the stars.@k@vS20/05/440500061. I will go to bed now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 15555,
+    "TextENGNew": "``Please do...... Good night, Rika......``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 15556,
+    "TextENGNew": "``...Good night, Satoko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 15557,
+    "TextENGNew": "..................",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 34,
+    "MessageID": 15558,
+    "TextENGNew": "She still does not understand.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 35,
+    "MessageID": 15559,
+    "TextENGNew": "This child still... has not come to 'understand'......",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  }
+]

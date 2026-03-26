@@ -1,0 +1,596 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9797,
+    "TextENGNew": "``...How does it look to you? Forgive the self-promotion, but a man of your expertise in this field would certainly be able to appreciate the value of this data.''",
+    "significantChanges": true,
+    "changeReason": "Original mistranslates 手前味噌 as 'flattery' (flattering the listener); new correctly translates it as 'self-promotion' (praising one's own work).",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 9798,
+    "TextENGNew": "Valuable? This is a treasure map! Magnificent... truly magnificent!",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9799,
+    "TextENGNew": "The man leaned forward, barely containing his excitement, devouring the chemical formula written in the file, its properties, and the clinical data.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 9800,
+    "TextENGNew": "The table before them was spread with an abundant array of delicacies, but he shoved them aside without a glance, loosened his tie, and unfastened his collar.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 9801,
+    "TextENGNew": "\"Controlling the transmission of electrical signals through neurons — nerve cells and their synaptic pathways — has long been the holy grail of neuroscience.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 9802,
+    "TextENGNew": "\"Hence, the researcher who discovered a substance capable of achieving this would undoubtedly have a Nobel Prize within their grasp.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 9803,
+    "TextENGNew": "\"...Watanabe-kun. Is this truly... truly reliable data?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 9804,
+    "TextENGNew": "\"Yes... I give you my personal assurance on behalf of the C-staff director within Alphabet Project.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9805,
+    "TextENGNew": "\"In fact, just recently, a patient whose recovery had seemed impossible regained normal consciousness through administration of this experimental drug.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9806,
+    "TextENGNew": "\"What's more, while regular medication is technically still required, the patient has already been discharged and is living a normal life without difficulty.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 9807,
+    "TextENGNew": "\"...A remarkable story, indeed. To think that radioactive material could have such an effect... truly astonishing.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the final line where Chiba says 'It feels like my eyes have been opened' (目からうろこが落ちる), losing part of his reaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 9808,
+    "TextENGNew": "\"Your insight is, as ever, impressive, sir. Simply reading the chemical formula and immediately grasping the drug's unique properties...\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits Nomura's final flattery line about 'the renowned doctors on the board of directors', losing part of her manipulation tactic.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 9809,
+    "TextENGNew": "\"Ha ha... I studied medicine, you know. I spent a good deal of time agonizing over whether to go into the civil service or become a doctor.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits Chiba's concluding line about 'thinking about it now, what was there to be so worried about', losing his retrospective reflection.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 9810,
+    "TextENGNew": "The man let out a sigh, and drained his glass of beer in one go as if quenching a thirst.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 9811,
+    "TextENGNew": "The woman seated across from him immediately picked up the bottle and filled the empty glass.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 9812,
+    "TextENGNew": "\"...Honestly, until now I had little interest in Hinamizawa Syndrome as an endemic disease. The nuclear aspects aside,\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the second part about 'mountains of other biochemistry topics I want to pursue', losing context about Chiba's competing research interests.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 9813,
+    "TextENGNew": "\"allocating budget to a peculiar endemic disease in a tiny village was simply wasteful — that was my view.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 9814,
+    "TextENGNew": "\"Frankly, the idea of a parasite that had infiltrated the brain and taken over a person's will and mind seemed like poor-grade science fiction — not worth discussing from a medical standpoint.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the direct question 'Don't you think?' at the end, removing the rhetorical appeal to Nomura.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 9815,
+    "TextENGNew": "\"Just as you say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 9816,
+    "TextENGNew": "\"Indeed, one cannot help but admire the considerable achievements of Professor Koizumi — but the degree of favoritism shown made one almost wonder whether that researcher, Takano or whatever her name was, had something on him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 9817,
+    "TextENGNew": "\"On that point, I must sincerely apologize that those of us who were supposed to oversee and control the budget were unable to do more.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 9818,
+    "TextENGNew": "\"No, no... it was no easy thing to go against the venerable Koizumi. I don't place the blame on you.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits Chiba's lines about not blaming Nomura and about the drug's versatility being 'an unexpected boon', losing significant dialogue content.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 9819,
+    "TextENGNew": "\"How remarkably fortunate! They say new discoveries are often born from fruitless research, and this is precisely that!\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits Chiba's exhortation to 'continue collecting data on this drug', losing his enthusiastic directive.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 9820,
+    "TextENGNew": "\"Hee hee... thank you. It makes it feel worthwhile that we took the risk to go through with it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 9821,
+    "TextENGNew": "The woman received the two files of compiled documents, smiled gracefully, and bowed her head.",
+    "significantChanges": true,
+    "changeReason": "Both describe woman receiving files and bowing; order slightly different. Same meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 9822,
+    "TextENGNew": "...They contained data from clinical trials of 'C103' — the treatment drug developed by clinic director Kyousuke Irie for Hinamizawa Syndrome — administered to ordinary psychiatric patients.",
+    "significantChanges": true,
+    "changeReason": "Original says 'a patient with chronic mental illness' (singular, chronic); new correctly says 'ordinary psychiatric patients' (plural, ordinary), matching the Japanese 通常の精神病患者.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 9823,
+    "TextENGNew": "\"In Japan, there tends to be deep prejudice toward neurology and psychiatry. When someone shows signs of such illness, the conversation turns to weakness of character or personality first,\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the second clause about 'neglecting treatment' and 'tendency to isolate patients', losing important context about Japanese psychiatric stigma.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 9824,
+    "TextENGNew": "\"...A lamentable state of affairs. Now that Japan has reached the standards of a developed nation, what is needed is precisely the elucidation and care of such 'diseases of civilization.'\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the second part about 'diseases of civilization' needing study now that Japan has reached developed-nation standards.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 9825,
+    "TextENGNew": "\"Just as you say. As civilization advances, society grows complex with information and knowledge, and the burden on people's minds will only grow heavier.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 9826,
+    "TextENGNew": "\"And yet counseling and talk therapy demand long treatment periods and highly skilled practitioners, placing no small financial and personal burden on patients and their families.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 9827,
+    "TextENGNew": "\"Therefore, if a path toward pharmacological treatment becomes possible, it could be an excellent improvement for both physicians and patients alike.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the mention of Rowell Pharmaceuticals entering the Japanese market, losing the setup for the later plot point.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 9828,
+    "TextENGNew": "\"In that sense, I had high hopes that Prasilα, manufactured and sold by Rowell Pharmaceuticals, would become a remedy that aided physicians long troubled by psychiatric treatment.\"",
+    "significantChanges": true,
+    "changeReason": "Drug name changed from 'Placil α' to 'Prasilα' — different romanization of the Japanese プラシル.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 9829,
+    "TextENGNew": "\"This may sound like self-justification, but it was a measure I took with the future of the pharmaceutical world in mind. And then certain members of the media acted with reckless sensationalism—\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the second part about 'the terrible bashing from mass media' and 'everyone saw it terribly', losing context about the scandal's impact.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 9830,
+    "TextENGNew": "\"It would not be an overstatement to say Japan's progress in psychiatry was set back ten years because of that affair.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 9831,
+    "TextENGNew": "\"I can only imagine what you went through. Your colleague Oonuma was also brought down by it, was he not?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 9832,
+    "TextENGNew": "\"...He was a fine rival. When he was promoted to Deputy Director General ahead of me, I thought a man of his caliber was certain to become Administrative Vice-Minister, and then make the move into politics—\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the concluding line about it being 'really unfortunate that things went down like that', while adding a more specific title 'Administrative Vice-Minister'.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 9833,
+    "TextENGNew": "The man bowed his head with a pensive expression and brought the glass to his lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 9834,
+    "TextENGNew": "...And so, he didn't notice.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 9835,
+    "TextENGNew": "The faint, indescribable smile the woman wore at that moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 9836,
+    "TextENGNew": "...Sensei. Actually, there is something I would like to discuss with you, if I may.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 9837,
+    "TextENGNew": "Hm... what is it?",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 9838,
+    "TextENGNew": "I'll speak frankly, trusting in your concern for the future of the pharmaceutical world.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 9839,
+    "TextENGNew": "Recently, an agent from Rowell Pharmaceuticals approached me... and asked whether it might be possible to arrange a meeting with you.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 9840,
+    "TextENGNew": "The topic was regarding an improved version of the former 'Prasil'... so I am told.",
+    "significantChanges": true,
+    "changeReason": "Drug name romanization changed from 'Placil' to 'Prasil'.",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 9841,
+    "TextENGNew": "``An improved... version of Prasil? What do you mean by that? Surely not another attempt to bring it into the country—''",
+    "significantChanges": true,
+    "changeReason": "Drug name changed from 'Placil' to 'Prasil', and Chiba's third response segment about 'acting as intermediary for domestic sales' is omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 9842,
+    "TextENGNew": "The man frowned, his expression turning openly unpleasant.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 9843,
+    "TextENGNew": "The Rowell lawsuit of recent years and the subsequent scandal had originated from the Prasil drug damage issue.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'phytotoxicity' (plant toxicity) for 薬害 (drug-induced harm) — wrong technical term, and transliteration differences (Lowell/Rowell, Placil/Prasil), but the core narrative about a drug scandal causing a lawsuit is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 9844,
+    "TextENGNew": "As a result, within Japan, the name Prasil had effectively become taboo.",
+    "significantChanges": true,
+    "changeReason": "Drug name changed from 'Placil' to 'Prasil'.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 9845,
+    "TextENGNew": "In that climate, even an improved drug bearing the Prasil name could not conceivably be brought into or circulated within Japan.",
+    "significantChanges": true,
+    "changeReason": "Drug name changed from 'Placil' to 'Prasil'.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 9846,
+    "TextENGNew": "And being implicated as an intermediary would invite unwanted scrutiny and suspicion, regardless of any actual wrongdoing.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 9847,
+    "TextENGNew": "In the worst case, such suspicion could cost him the position he had so painstakingly established...",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 9848,
+    "TextENGNew": "(...You can't be serious.)",
+    "significantChanges": true,
+    "changeReason": "Original '...This is serious' vs new '...You can't be serious' — opposite tones; Japanese 冗談ではない means 'this is no joke/you can't be serious', so new is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 9849,
+    "TextENGNew": "He did have some desire to contribute to the advancement of the pharmaceutical world.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 9850,
+    "TextENGNew": "...But that was only possible once his own security and position were ensured.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 9851,
+    "TextENGNew": "The domestic economy was growing steadily, and the ruling party, while neither outstanding nor failing, commanded popular support — and within that party, he was one of the five most influential figures, with the future Prime Ministership as good as promised.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 9852,
+    "TextENGNew": "...There was no need whatsoever to cross dangerous bridges in order to build a legacy.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 9853,
+    "TextENGNew": "Honestly speaking, ideals were window dressing — pretexts with which to adorn himself — and what mattered most of all was the practical.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 9854,
+    "TextENGNew": "\"No, what I wish to discuss with you is not something so meaningless.@k@vS20/00/VTK2_nomura2027. ...Sensei.@k@vS20/00/VTK2_nomura2028. Have you ever considered what it would be like to be in Dr. Koizumi's position?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 9855,
+    "TextENGNew": "\"...Yes?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 9856,
+    "TextENGNew": "\"The pharmaceutical industry, by the unique nature of the field, holds influence across light industries such as food and textiles, heavy industries such as steel and machinery — and even into the military.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 9857,
+    "TextENGNew": "\"Moreover, once the know-how is discovered, drugs can be produced in large quantities at low cost, while being sold at fixed prices that guarantee high profit — making pharmaceuticals an industry where a windfall is said to come easily.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 9858,
+    "TextENGNew": "\"Pre-war Japan's history demonstrates that the majority of corporations that built emerging industrial empires, outside of finance, were in chemical industries such as pharmaceuticals and processing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 9859,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 9860,
+    "TextENGNew": "\"However... regrettably, in post-war Japan, the review process for approving drugs became extremely strict, and the time and cost required to develop new drugs has become enormous.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 9861,
+    "TextENGNew": "\"And merely selling cheap copies of other companies' developed drugs — 'generic drugs' — for low prices yields only negligible profits.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 9862,
+    "TextENGNew": "\"What if, rather than seeking domestic approval, one were to find a route to sell new drugs without it? What do you make of that kind of lateral thinking?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 9863,
+    "TextENGNew": "\"What—?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 9864,
+    "TextENGNew": "\"This C103, being an experimental drug, will likely be sealed away along with the research on Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 9865,
+    "TextENGNew": "\"Even if one were to attempt to bring it to market, obtaining approval would require more than ten additional years, during which other countries might well develop new drugs of their own, rendering it obsolete.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 9866,
+    "TextENGNew": "\"And yet, as you yourself said, it is undeniably a revolutionary drug as of this moment.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 9867,
+    "TextENGNew": "\"It is for that reason that we risked danger for your sake — secretly extracting the C103 know-how, and conducting clinical trials at the cost of violating humanitarian principles.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'extracting the C103 know-how' and 'at the cost of violating humanitarian principles' matching the Japanese 危険を冒して秘密裏に持ち出し and 人道に反して, which the original omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 9868,
+    "TextENGNew": "\"...In other words, you are proposing that I sell the data on this drug to Rowell Pharmaceuticals?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 9869,
+    "TextENGNew": "\"That is correct. If the Irie Organization were to learn of this drug's efficacy and sell the rights to a domestic Japanese company, there is no route for you to be involved.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'could put in a good word'; new says 'no route to be involved.' JPN says 口添えだけでしょう (only endorsement). Both partially correct.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 9870,
+    "TextENGNew": "\"The amount that would reach your pocket through such an arrangement would be quite modest.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 9871,
+    "TextENGNew": "\"But if you were to present this data to Rowell's current research into their improved Prasil, they would be eager to pay dearly for it — seeing it as a chance to restore their former honor.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 9872,
+    "TextENGNew": "\"Of course, since the rights belong to you, margins would be added with every sale.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 9873,
+    "TextENGNew": "\"Even with just five years of exclusivity, the profits flowing in during that period would amount to billions — no, given that Rowell is a global company, the figure could reach into the hundreds of billions.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'in the billions...no, tens of billions' while JPN says '数十億...いえ、数百億' (tens of billions... no, hundreds of billions) — same escalation pattern but scale is shifted down by an order of magnitude.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 9874,
+    "TextENGNew": "\"With that wealth as your backing, you would hold sway over business and politics alike — and for decades to come, you would be the one determining the composition of the cabinet...\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the punchline 'Hehehe, what do you say?' from Nomura, losing her seductive closing appeal.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 9875,
+    "TextENGNew": "\"You are someone worthy of such a position — a person of irreplaceable value to this country, in my view.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 9876,
+    "TextENGNew": "\"...Watanabe-kun. Do you say this to me while fully aware of the original purpose for which Alphabet Project was established?\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits Chiba's question about the Alphabet Project's original purpose and whether Nomura is aware of it.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 9877,
+    "TextENGNew": "\"Selling know-how discovered by our research group to a foreign country is clearly an act of betrayal.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 9878,
+    "TextENGNew": "\"That is true... developing next-generation weapons to counter foreign powers was indeed the core of this project. But—\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the segment about 'what is it in reality?' losing Nomura's rhetorical transition.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 9879,
+    "TextENGNew": "\"While the Cold War continues, the age when war was treated openly as one option among diplomatic tools is already over.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 9880,
+    "TextENGNew": "\"What will determine the balance of power between nations going forward is political strength, and behind that, economic strength. No matter how many nuclear missiles you hold,\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits the second part about nuclear missiles being an outdated threat, losing context for Nomura's argument about economic vs military power.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 9881,
+    "TextENGNew": "\"...then, is it not truly a patriotic act to have an honorable person such as yourself ascend to a seat of power, and through whatever means, bring foreign currency flowing into Japan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 9882,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 9883,
+    "TextENGNew": "\"Please... think it over carefully. I have fallen for your character, Sensei, and I am one who pledges absolute loyalty to you.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits two of three sentences, losing Nomura's declaration of loyalty and her request for Chiba to remember it.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 9884,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 9885,
+    "TextENGNew": "The woman called Watanabe was summoned to that man's office... two days later.",
+    "significantChanges": false
+  }
+]

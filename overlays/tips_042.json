@@ -1,0 +1,79 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook XI",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 13725,
+    "TextENGNew": "<The Taboo of Twins>",
+    "significantChanges": true,
+    "changeReason": "OLD renders JPN '忌避' (avoidance/taboo) as 'Problem,' while NEW correctly uses 'Taboo,' which changes the framing from a general issue to a culturally specific prohibition.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 13726,
+    "TextENGNew": "This was not unique to Hinamizawa, but the Three Families of Onigafuchi Village were especially averse to twins being born as heirs to the family head.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13727,
+    "TextENGNew": "They likely feared that the long-standing balance of power -- built upon the delicate equilibrium of the Three Families -- would crumble under internal strife, such as succession disputes.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13728,
+    "TextENGNew": "The old texts even state that if twins are born, one must be culled immediately.",
+    "significantChanges": true,
+    "changeReason": "OLD omits JPN '直ちに' (immediately) and does not specify 'one' — potentially implying both twins are culled. NEW adds 'immediately' and clarifies 'one must be culled,' matching the JPN meaning that one of the twins is to be eliminated at once.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 13729,
+    "TextENGNew": "In light of this, the very fact that both Mion Sonozaki, the heir to the Sonozaki family, and her twin sister Shion exist in this world is deeply intriguing in itself. (Could it be the current head Oryou's compassion?)",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13730,
+    "TextENGNew": "Of course, the twins have not been treated equally -- as the heir, Mion has received distinctly preferential treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13731,
+    "TextENGNew": "(From what I have heard, despite their near-identical appearance, Mion is said to possess almost all the talent.@k...My own impression of the two does not suggest such a disparity.)",
+    "significantChanges": true,
+    "changeReason": "OLD says 'the talent lies solely with Mion' (100% exclusivity), but JPN 'ほとんど' means 'almost all/most,' which NEW correctly renders as 'almost all the talent.' This changes the degree from absolute to near-total.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 13732,
+    "TextENGNew": "According to tradition, the head of the Sonozaki family is said to \"inherit the demon,\" and a magnificent demon tattoo is carved into their back.@kFollowing this custom, it is almost certain that Mion bears this tattoo.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13733,
+    "TextENGNew": "From what I have been told, the current head Oryou also has a magnificent demon tattoo upon her back.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13734,
+    "TextENGNew": "Then... what manner of tattoo has been carved upon the back of the heir, Mion?",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13735,
+    "TextENGNew": "...My curiosity about Mion's back is piqued.",
+    "significantChanges": false
+  }
+]

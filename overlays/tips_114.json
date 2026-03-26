@@ -1,0 +1,155 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "To *Miyoko",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"To My Granddaughter\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15765,
+    "TextENGNew": "Forgive me for this unfilial departure.",
+    "significantChanges": true,
+    "changeReason": "New captures '不孝' (unfilial) -- a culturally significant term about dying before one's descendants -- which the original omits entirely.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 15766,
+    "TextENGNew": "With so little time left, my consciousness fading, I would rather set out on the journey to the next world on my own two feet than wait helplessly, not knowing when death will claim me. I hope you can understand that.",
+    "significantChanges": true,
+    "changeReason": "New accurately renders the Japanese: fading consciousness (薄れる意識), setting out on the journey to death on one's own feet (自らの足で死出の旅路), and not knowing when death will come. The original oversimplifies to 'take my own life.'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 15767,
+    "TextENGNew": "At least this way, I can leave these words behind.",
+    "significantChanges": true,
+    "changeReason": "Original says 'writing this letter to you'; the Japanese says 'leave these words behind' (文を残せる) -- the new translation correctly emphasizes leaving a record, not addressing someone.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 15768,
+    "TextENGNew": "I cannot bear the terror of dying with a mind dulled by pointless life support, unable to leave behind a single word.",
+    "significantChanges": true,
+    "changeReason": "New more accurately captures 'pointless life support' (無意味な延命) and 'mind dulled' (寝惚けた意識). Also 'a single word' vs 'a will' better matches 何も残すことができない.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 15769,
+    "TextENGNew": "And yet, in the end, I have left nothing behind.",
+    "significantChanges": true,
+    "changeReason": "Original adds 'for you' and uses future tense ('can leave'); the Japanese uses past tense ('could not leave' / 残せなかった) and doesn't specify a recipient.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 15770,
+    "TextENGNew": "My life's work, my accomplishments, the crystallization of my efforts--none of it remains in this world.",
+    "significantChanges": true,
+    "changeReason": "New preserves all three items from the Japanese (人生も誇るべき実績も結晶も -- life's work, achievements, crystallization of efforts); the original collapses these into just 'achievements.'",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 15771,
+    "TextENGNew": "I was not forgotten after my death. I was forgotten while I still lived.",
+    "significantChanges": true,
+    "changeReason": "New preserves the two-part rhetorical structure of the Japanese: 'not forgotten after death, but forgotten while still alive,' which the original compresses into a single statement.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 15772,
+    "TextENGNew": "The agony of departing this world while witnessing that erasure is beyond what words can express.",
+    "significantChanges": true,
+    "changeReason": "Original adds 'humiliated man' and 'no appreciation from anyone' not in the Japanese. The JPN says the pain of departing while witnessing that erasure is beyond words (筆舌に尽くし難い).",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 15773,
+    "TextENGNew": "You must surpass your grandfather.",
+    "significantChanges": true,
+    "changeReason": "Original says 'do better than me'; the Japanese specifically says 祖父を越えなさい ('surpass your grandfather'), using the third-person relationship term.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 15774,
+    "TextENGNew": "You must reach the heights I could not attain.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15775,
+    "TextENGNew": "The field does not matter.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15776,
+    "TextENGNew": "Leave your name to posterity.",
+    "significantChanges": true,
+    "changeReason": "Original says 'leave your mark on this world' (figurative); the Japanese 後世に名前を残しなさい specifically means 'leave your name to posterity.'",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 15777,
+    "TextENGNew": "If that proves impossible, then leave behind great deeds and lasting achievements.",
+    "significantChanges": true,
+    "changeReason": "Original drops the conditional clause 'if that proves impossible' (それが無理なら) present in the Japanese, changing the logical structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 15778,
+    "TextENGNew": "As beings of flesh, both you and I shall eventually die.",
+    "significantChanges": true,
+    "changeReason": "Original says only 'You will eventually die someday,' dropping 'As beings of flesh' (人の身である以上) and 'both you and I' (私もお前も) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 15779,
+    "TextENGNew": "As beings of flesh, we shall be cremated and reduced to ash.@k It is the destiny of mortal bodies to become ash.",
+    "significantChanges": true,
+    "changeReason": "New accurately captures 'cremated' (焼かれて) and 'mortal bodies' (肉の身) from the Japanese, and uses 'we' rather than 'you' to match the inclusive phrasing.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 15780,
+    "TextENGNew": "But if you accomplish great deeds and leave your name behind, you will live forever even after you become ash.",
+    "significantChanges": true,
+    "changeReason": "New adds 'leave your name behind' (名を残したなら) and 'become ash' (灰となっても) from the Japanese, both missing in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 15781,
+    "TextENGNew": "When one continues to live after losing their mortal form, people call that being a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15782,
+    "TextENGNew": "Your grandfather wished to become one, but could not reach that summit.",
+    "significantChanges": true,
+    "changeReason": "Original says 'I wished'; the Japanese says 祖父 ('your grandfather'), maintaining third-person self-reference consistent with the letter's voice.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 15783,
+    "TextENGNew": "You must become a god.",
+    "significantChanges": true,
+    "changeReason": "Original adds 'So in my place' and 'someday' not present in the Japanese, which simply says お前は神になりなさい ('You must become a god').",
+    "changeScore": 2
+  }
+]

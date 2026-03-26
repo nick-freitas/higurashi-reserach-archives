@@ -1,0 +1,179 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "You Don't Look Well.",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Not Feeling so Hot.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13033,
+    "TextENGNew": "``Keiichi-kun hasn't been himself lately. Maybe he's in a bad mood.``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13034,
+    "TextENGNew": "``Who knows. Maybe he's lovesick~?``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13035,
+    "TextENGNew": "``M-Mii-chan, that's a huge leap...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13036,
+    "TextENGNew": "``Ahyahyahyahya!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13037,
+    "TextENGNew": "``...What do you think?``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13038,
+    "TextENGNew": "``Beats me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13039,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13040,
+    "TextENGNew": "``Could it be that Kei-chan... Maybe...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13041,
+    "TextENGNew": "``...I don't know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13042,
+    "TextENGNew": "``That day, the man Kei-chan was talking to in the car—he was a heavyset, middle-aged guy, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13043,
+    "TextENGNew": "``Yeah. No doubt about it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13044,
+    "TextENGNew": "``That Ooishi... I wonder what he's been filling Kei-chan's head with...``",
+    "significantChanges": true,
+    "changeReason": "Old asserts Ooishi 'probably fed him something fishy' (stating it as likely fact); new uses 'I wonder what he's been filling Kei-chan's head with' matching the wondering/speculative tone of JPN のかなぁ (I wonder).",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 13045,
+    "TextENGNew": "``It looked serious. Keiichi-kun's face was white as a sheet.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 13046,
+    "TextENGNew": "``...Listen, Rena, you might not know this, but...``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 13047,
+    "TextENGNew": "``That man is actually a messenger of Oyashiro-sama.``",
+    "significantChanges": true,
+    "changeReason": "Old uses 'the messenger' (definite article) implying Ooishi is the sole/specific emissary of Oyashiro-sama; new uses 'a messenger' (indefinite), changing the implied uniqueness of the role.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 13048,
+    "TextENGNew": "``Huh? What do you mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 13049,
+    "TextENGNew": "``Whenever he shows up... someone always gets spirited away by the demon. ...It's true.``",
+    "significantChanges": true,
+    "changeReason": "New includes 'always' matching JPN 必ず (without fail/always), emphasizing the certainty and inevitability of the pattern that old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 13050,
+    "TextENGNew": "``...Huh? Really?``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 13051,
+    "TextENGNew": "``...The year before last, when Rika-chan's mother drowned herself, right? Ooishi had been interrogating her just before it happened.``",
+    "significantChanges": true,
+    "changeReason": "Two significant changes: 'drowned' (possibly accidental) becomes 'drowned herself' matching JPN 入水 (suicide by drowning); and 'visited by Ooishi' becomes 'Ooishi had been interrogating her' matching JPN 尋問 (interrogation), which implies a much more adversarial interaction.",
+    "changeScore": 4
+  },
+  {
+    "index": 20,
+    "MessageID": 13052,
+    "TextENGNew": "``...Come to think of it, he was around right before Satoshi-kun transferred away, too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 13053,
+    "TextENGNew": "``Transferred~? Ahahahahahaha, you really are sweet, Rena.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 13054,
+    "TextENGNew": "``And now he's appeared before Keiichi-kun... Does that mean Keiichi-kun will be spirited away too?``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 13055,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 13056,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 13057,
+    "TextENGNew": "A heavy silence lingered between them.@kAnd then it suddenly broke.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 13058,
+    "TextENGNew": "````Ahahahahahahahahahahahahahaha.````",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 13059,
+    "TextENGNew": "...It was raucous laughter.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Medical Examination Chart",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Medical Examination Records\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 18095,
+    "TextENGNew": "Time: Monday, October 11th. 9:17 PM.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 18096,
+    "TextENGNew": "Subject's full name: Tomoe Minai (28).",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 18097,
+    "TextENGNew": "Address: Kakiuchi City, Aichi prefecture.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 18098,
+    "TextENGNew": "Occupation: Working at Kakiuchi Station on behalf of Aichi prefectural police headquarters.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 18099,
+    "TextENGNew": "Symptoms: Fever and coma. XXX in the neck. (description in German)",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 18100,
+    "TextENGNew": "Prescription: Antipyretic and nutrients administered. 20cc injection of XXX.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 18101,
+    "TextENGNew": "Other: Suspected of XXXXXX XXXXXXXX, symptom level is XX.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 18102,
+    "TextENGNew": "Medical records have been faxed to Gogura University Hospital. Requesting follow-up from the doctor in charge. Report required.",
+    "significantChanges": false
+  }
+]

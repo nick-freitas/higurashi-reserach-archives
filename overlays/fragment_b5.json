@@ -1,0 +1,972 @@
+[
+  {
+    "index": 1,
+    "MessageID": 4467,
+    "TextENGNew": "Satoshi-kun was truly a devoted older brother.",
+    "significantChanges": true,
+    "changeReason": "JPN uses past tense だった (was); original incorrectly uses present tense 'is'. New also adds 妹思い = 'devoted to his sister' vs generic 'takes great care'.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 4468,
+    "TextENGNew": "Every day after school he came straight to visit Satoko-chan, offering her warm words of encouragement, hoping she would recover as quickly as possible.",
+    "significantChanges": true,
+    "changeReason": "New translation adds detail from JPN: 温かく言葉を掛け続けてくれていた (kept offering warm words of encouragement) and 一日でも早く (as quickly as possible), which original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 4469,
+    "TextENGNew": "I had not needed to hear it from Satoshi-kun to know—Satoko-chan had never been able to build a good relationship with her family...",
+    "significantChanges": true,
+    "changeReason": "Original says 'step-parents' but JPN 家族 means 'family' (broader). Also, new correctly uses past tense and captures the nuance of 聞くまでもなく (didn't need to hear it).",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 4470,
+    "TextENGNew": "...The conflict with her stepfather in particular had been fierce—it had even come to a head with Satoko-chan filing a false report with social services.",
+    "significantChanges": true,
+    "changeReason": "Old says 'child abuse hotline' (wrong institution) and omits that it was a false report (嘘の通報); new correctly says 'false report with social services.'",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 4471,
+    "TextENGNew": "And into all of that came the deaths of both parents at once in the fall accident—it was beyond what any heart could absorb.",
+    "significantChanges": true,
+    "changeReason": "JPN 転落事故 specifically means 'fall/tumble accident'; original omits this detail. New also captures 二人揃って (both at once).",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 4472,
+    "TextENGNew": "Still so young—it must have been unbearably painful for her.\n...But one grace within all that misfortune: she had a wonderful older brother in Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Original uses present tense 'has' but JPN is past tense; also drops the important 不幸中の幸い (silver lining amid misfortune) framing and Satoshi-kun's name.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 4473,
+    "TextENGNew": "A wounded heart does not heal easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 4474,
+    "TextENGNew": "But there is no medicine more powerful than the love of a true family member.",
+    "significantChanges": true,
+    "changeReason": "JPN 肉親 specifically means 'blood relative/close kin', not just any 'family member'; new's 'true family member' better distinguishes from step-family context.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 4475,
+    "TextENGNew": "...I was certain that one day, Satoko-chan would smile again.",
+    "significantChanges": true,
+    "changeReason": "JPN uses past tense 確信していた (was certain); original incorrectly uses present 'I'm sure'.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 4476,
+    "TextENGNew": "She was still a long way from recovering from the shock—yet through her exchanges with Satoshi-kun, small smiles were gradually returning to her face.",
+    "significantChanges": true,
+    "changeReason": "Original oversimplifies; JPN describes gradual recovery through communication, with smiles 'returning little by little'. New captures this progression and uses correct past tense.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 4477,
+    "TextENGNew": "...The detective, Ooishi, kept pressing as persistently as ever to see her—I would need to act as her bulwark for a while longer yet.",
+    "significantChanges": true,
+    "changeReason": "JPN 防波堤 = 'breakwater/bulwark' is more vivid than simple 'protect'; also corrects tense to past as in the JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 4478,
+    "TextENGNew": "...He may have a policeman's passion for his work, but the man had not an ounce of compassion for the human heart.",
+    "significantChanges": true,
+    "changeReason": "JPN 人の心を思いやるやさしさはない means 'has no tenderness for others' hearts'; original softens to 'I wish he'd be more sensitive' while new preserves the blunt judgment.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 4479,
+    "TextENGNew": "If he blundered in and forced her to relive the accident, her emotional wounds would tear open again without question.",
+    "significantChanges": true,
+    "changeReason": "New adds 'without question' matching JPN 違いない (without doubt) and 'blundered in/forced her to relive' better captures 無神経に (insensitively).",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 4480,
+    "TextENGNew": "...That, and only that, was what I had been worried about for Satoko-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 4481,
+    "TextENGNew": "A knock at the door.",
+    "significantChanges": true,
+    "changeReason": "JPN simply describes the sound コンコンとノックの音 (knock-knock); original adds 'I heard someone' which is not in the JPN. New is more literal.",
+    "changeScore": 1
+  },
+  {
+    "index": 16,
+    "MessageID": 4482,
+    "TextENGNew": "...It was Takano-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 4483,
+    "TextENGNew": "...And yet, the nurse's uniform she wore somehow did not suit her.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 4484,
+    "TextENGNew": "She held a medical license—she ought to wear a white coat and carry herself as a physician.",
+    "significantChanges": true,
+    "changeReason": "JPN uses present/past context 医師免許を持っているのだから; new correctly places it in narrative past tense matching the surrounding text.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 4485,
+    "TextENGNew": "...Perhaps it was a quirk of hers, some private whimsy—but it struck me as a slight against the actual nurses.",
+    "significantChanges": true,
+    "changeReason": "JPN 遊び心 means 'playful spirit/whimsy'; original's 'fun for her' is flatter than new's 'a quirk, some private whimsy'. Also, 正規の看護師に対し失礼 = 'rude to proper nurses' is better captured.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 4486,
+    "TextENGNew": "...Not that I would ever say so aloud.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 4487,
+    "TextENGNew": "\"Doctor Irie, do you have a moment?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 4488,
+    "TextENGNew": "\"Ah, yes.\nWell then, Satoshi-kun—if you'll excuse me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 4489,
+    "TextENGNew": "\"Oh—of course.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 4490,
+    "TextENGNew": "\"Hello, Satoshi-kun.\nPlease spend some time with Satoko-chan.\nShe's always alone, so I'm sure she's feeling lonely.\n...Won't you?\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'I bet she's lonely' to 'I'm sure she's feeling lonely' and 'Okay?' to 'Won't you?'; JPN ね is a soft request closer to 'won't you?'.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 4491,
+    "TextENGNew": "\"Th-That is simply not the case...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 4492,
+    "TextENGNew": "\"Mmph.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 4493,
+    "TextENGNew": "\"Then I'll leave her in your hands, Satoshi-kun.\"",
+    "significantChanges": true,
+    "changeReason": "JPN よろしくお願いします is a polite request; original's casual 'you're in charge' misses the formal register. New's 'I'll leave her in your hands' is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 4494,
+    "TextENGNew": "I excused myself and left Satoko-chan in Satoshi-kun's care.",
+    "significantChanges": true,
+    "changeReason": "JPN 席を外し = 'excused myself/stepped away' and 預けた = 'entrusted'; original's 'got up and let him take over' loses both the politeness and the specificity.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 4495,
+    "TextENGNew": "\"So—has something happened...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 4496,
+    "TextENGNew": "\"Not here—let's use your office.\n...Hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 4497,
+    "TextENGNew": "Takano-san sometimes laughed with a meaning behind it.",
+    "significantChanges": true,
+    "changeReason": "JPN 時々 = 'sometimes' is omitted in original; also changes from one-time 'smiled' to habitual 'sometimes laughed', better matching the general observation.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 4498,
+    "TextENGNew": "For most people, a smile is something warm, something that invites you to share in their happiness.",
+    "significantChanges": true,
+    "changeReason": "New translation expands to fully capture JPN 幸せを共感させてくれる (makes you share in their happiness), which original reduces to just 'bring happy feelings'.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 4499,
+    "TextENGNew": "...By this point, I had begun to understand that when it came to Takano-san alone, a smile carried no such meaning...",
+    "significantChanges": true,
+    "changeReason": "JPN この頃には気付き始めていた (by this time, I had started to realize) is narrative self-reflection; original loses this temporal framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 4500,
+    "TextENGNew": "\"...Is that really true?\"",
+    "significantChanges": true,
+    "changeReason": "JPN 本当ですか means 'is that true/really?'; original's 'Are you sure?' implies doubt about Takano's certainty, while new asks about the factual truth.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 4501,
+    "TextENGNew": "\"Yes.\nThe preliminary test results indicate a strong possibility of L3 or higher onset level.\nWe need to keep her admitted and run more precise tests.\"",
+    "significantChanges": true,
+    "changeReason": "JPN 高い発症レベルの可能性 = 'high onset level possibility'; new adds 'strong possibility' and 'onset level' for medical precision not in original.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 4502,
+    "TextENGNew": "\"...We're still waiting on the results, but in my assessment, even L4 is a possibility.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 4503,
+    "TextENGNew": "I could see it clearly—that unpleasant gleam of delight in Takano-san's eyes.",
+    "significantChanges": true,
+    "changeReason": "JPN いやらしく means 'unpleasantly/disturbingly'; original's 'sparkled in a weird way' is much weaker than new's 'unpleasant gleam of delight'.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 4504,
+    "TextENGNew": "There was a reason for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 4505,
+    "TextENGNew": "...Obtaining a terminal-stage patient alive was the single most valuable thing that could happen for our research.",
+    "significantChanges": true,
+    "changeReason": "JPN もっとも価値のある = 'most valuable'; original merely says 'a valuable boon' while new captures the superlative. Also adds 生体で = 'alive' which original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 4506,
+    "TextENGNew": "In fact, analyzing the body and composition of last year's subject—the man who had murdered the construction foreman—had propelled our research forward by leaps and bounds.",
+    "significantChanges": true,
+    "changeReason": "New specifies the victim was a 工事現場監督 (construction foreman) which original omits, and uses 'analyzing' vs 'dissecting' for the broader research described.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 4507,
+    "TextENGNew": "In short: we had at last succeeded in identifying the pathogen.",
+    "significantChanges": true,
+    "changeReason": "JPN 特定 means 'identification/specification', not 'isolation'; new correctly says 'identifying' vs original's 'isolate'.",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 4508,
+    "TextENGNew": "We also discovered that when the host dies, the pathogen dissolves within a matter of hours.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 4509,
+    "TextENGNew": "After dissolution it became indistinguishable from ordinary biological compounds in the body—tracing it was very nearly impossible.",
+    "significantChanges": true,
+    "changeReason": "Original drastically oversimplifies; JPN specifies the pathogen becomes indistinguishable from ordinary body compounds, making detection nearly impossible. New preserves this crucial detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 4510,
+    "TextENGNew": "...This explained why, no matter how many post-mortem examinations we had conducted before, we had never been able to find any trace of the pathogen.",
+    "significantChanges": true,
+    "changeReason": "New adds emphasis from JPN: どんなに死亡後の肉体を調査しても (no matter how many post-mortem examinations), conveying repeated failed attempts that original condenses.",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 4511,
+    "TextENGNew": "From that point, our research advanced to a dimension incomparable to what had come before.",
+    "significantChanges": true,
+    "changeReason": "JPN 次元が違うほどに = 'to a completely different dimension/level'; original's 'a lot of progress' severely understates the breakthrough described.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 4512,
+    "TextENGNew": "It would not be an exaggeration to say that in this single year we had surpassed the late Dr. Takano's decades of accumulated research.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 4513,
+    "TextENGNew": "Our work had now expanded into numerous fronts: the nature of the pathogen, its effects, its symptomology, treatment methods, prophylaxis, and more.",
+    "significantChanges": true,
+    "changeReason": "New adds 'prophylaxis' (予防薬) which original omits, and restructures to emphasize the breadth of research expansion.",
+    "changeScore": 2
+  },
+  {
+    "index": 48,
+    "MessageID": 4514,
+    "TextENGNew": "In other words—without a living specimen in the terminal stage, our research could make no further progress.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 4515,
+    "TextENGNew": "But terminal-stage patients—L5, as we called them—arose naturally only very rarely.",
+    "significantChanges": true,
+    "changeReason": "New adds 'naturally' (自然発生) and 'as we called them' which clarifies the L5 terminology; also corrects the awkward two-sentence structure.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 4516,
+    "TextENGNew": "In ancient times, Hinamizawa Syndrome apparently produced L5 cases in far greater numbers—but the disease no longer possessed that virulence today.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 4517,
+    "TextENGNew": "That being the case, securing an L5 patient—or a severe case approaching L5 as closely as possible—was of urgent priority.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 4518,
+    "TextENGNew": "...Satoko-chan potentially met those criteria—she could become our research subject for the first time in a year.",
+    "significantChanges": true,
+    "changeReason": "JPN 研究対象 means 'research subject'; original's 'sacrifice' adds moral judgment not in the clinical JPN. Also, 'one year' (一年ぶり) is in JPN but missing from original.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 4519,
+    "TextENGNew": "For the sake of maintaining secrecy, patients who might be at L5 could not be allowed to roam free.",
+    "significantChanges": true,
+    "changeReason": "JPN 機密保持 = 'maintaining confidentiality/secrecy', a formal term; original's casual 'to keep this strange disease a secret' loses the institutional register.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 4520,
+    "TextENGNew": "...First we would run precise diagnostics—and determine our course of action after seeing the results.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 4521,
+    "TextENGNew": "After all, Satoko-chan was as composed as could be.",
+    "significantChanges": true,
+    "changeReason": "JPN あれだけ落ち着いている = 'is that composed/calm'; original's present tense 'seems so calm' is weaker than new's emphasis on how remarkably composed she was.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 4522,
+    "TextENGNew": "...There was none of the raving derangement we had seen in last year's murderer.",
+    "significantChanges": true,
+    "changeReason": "New specifies 錯乱 = 'derangement/frenzy' which original omits, and adds 'raving' to characterize the prior case more vividly.",
+    "changeScore": 2
+  },
+  {
+    "index": 57,
+    "MessageID": 4523,
+    "TextENGNew": "...Preliminary tests could sometimes produce significant errors.",
+    "significantChanges": true,
+    "changeReason": "JPN 大きな誤差 = 'large/significant errors'; original omits 'significant', understating the potential for error.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 4524,
+    "TextENGNew": "I wanted to wait for the precise test results before concluding whether Satoko-chan was a severe case.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 4525,
+    "TextENGNew": "\"...Understood.\nLet's admit her for observation.\nPlease make the necessary arrangements with the staff.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 4526,
+    "TextENGNew": "It was a formal answer—but if the test results came back positive, it was also a response that led seamlessly into authorizing the dissection.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN ともつながる返答 = 'a response that also connects to' the dissection authorization, showing the dual nature of the statement, vs original's simpler 'green light'.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 4527,
+    "TextENGNew": "I had not known Satoko-chan particularly well—but her brother, Satoshi-kun, and I had already built up a substantial bond through the youth baseball team.",
+    "significantChanges": true,
+    "changeReason": "JPN すでに短くない交流を重ねていた = 'had already accumulated considerable interaction'; new captures this depth vs original's vague 'for a long time'.",
+    "changeScore": 2
+  },
+  {
+    "index": 62,
+    "MessageID": 4528,
+    "TextENGNew": "The sister whom Satoshi-kun loved beyond all measure—...could I really dissect her...?",
+    "significantChanges": true,
+    "changeReason": "JPN 目に入れても痛くないほどに可愛がる = idiom meaning 'loves so much it wouldn't hurt to put her in his eye'; both use idioms but new restructures for clarity.",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 4529,
+    "TextENGNew": "It was only now, reaching that thought, that I felt a terrible imagining creep upward from somewhere beneath my feet...",
+    "significantChanges": true,
+    "changeReason": "JPN 足元から登ってくる = 'climbing up from my feet'; original misses this visceral bodily metaphor, placing it generically 'in my head'.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 4530,
+    "TextENGNew": "\"Hee hee.\nDon't you worry.\nEverything has already been arranged.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 4531,
+    "TextENGNew": "It was a malevolent smile that seemed to say the arrangements for the dissection itself had already been completed.",
+    "significantChanges": true,
+    "changeReason": "JPN 邪悪な笑み = 'malevolent smile'; original omits this critical descriptor while new preserves it.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 4532,
+    "TextENGNew": "But was it only her who was smiling?",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 4533,
+    "TextENGNew": "...Was my own mouth not twisting into the same ugly smile...?",
+    "significantChanges": true,
+    "changeReason": "JPN 醜く歪んで笑みを湛えて = 'distorted uglily and harboring a smile'; original's simple 'Am I smiling like her?' loses the self-disgust of the image.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 4534,
+    "TextENGNew": "The dissection last year.",
+    "significantChanges": true,
+    "changeReason": "JPN is a sentence fragment 去年の解剖の時 (the time of last year's dissection); original incorrectly makes it an incomplete clause with 'When I dissected'.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 4535,
+    "TextENGNew": "...There had certainly been guilt beforehand.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 4536,
+    "TextENGNew": "But once I steeled myself and proceeded—...it was a paradise of intellectual curiosity.",
+    "significantChanges": true,
+    "changeReason": "JPN 覚悟を決めて臨むと = 'when I resolved/steeled myself and faced it'; original's 'once I started' loses this element of deliberate resolve. Also, 知的好奇心の楽園 = 'paradise of intellectual curiosity'.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 4537,
+    "TextENGNew": "The visionary fragments the late Dr. Takano had left behind slotted into place before my eyes, or subverted my expectations—either way, the excitement was relentless.",
+    "significantChanges": true,
+    "changeReason": "JPN 先見性溢れるピース = 'visionary/prescient pieces' and 裏切り = 'betrayed (expectations)'; original loses both the 'visionary' quality and the specific meaning of 'betrayal'.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 4538,
+    "TextENGNew": "The exhilaration of being the first human beings to step into a mystery that no one had ever solved...",
+    "significantChanges": true,
+    "changeReason": "New adds 人類で初めて = 'first among humanity' and the emotional word 興奮 = 'exhilaration' which original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 4539,
+    "TextENGNew": "How could one possibly explain that allure—so like a taste of something sweetly addictive—to someone who had never experienced it?",
+    "significantChanges": true,
+    "changeReason": "JPN 甘美な味にも似た魅力 = 'allure resembling a sweet taste'; original completely drops this metaphor while new preserves it.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 4540,
+    "TextENGNew": "There were no words for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 4541,
+    "TextENGNew": "The only thing I could say was this: even a year later, that intellectual exhilaration had not faded.",
+    "significantChanges": true,
+    "changeReason": "JPN 知的興奮は忘れることができない = 'the intellectual excitement cannot be forgotten'; new preserves '知的興奮' while original just says 'remember it vividly'.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 4542,
+    "TextENGNew": "So if the test results confirmed that Satoshi-kun's beloved sister was to become the next subject—\n...could I really stop myself from salivating?",
+    "significantChanges": true,
+    "changeReason": "JPN 舌なめずりをせずにいられるのか = 'could I refrain from licking my lips'; new's 'salivating' captures this visceral desire vs original's generic 'control myself'.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 4543,
+    "TextENGNew": "But...that would mean I had failed as a human being.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 4544,
+    "TextENGNew": "I knew, better than most, how cruelly the Houjou family had been treated by the village, and how much Satoko-chan had suffered.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 4545,
+    "TextENGNew": "...And I knew that Satoshi-kun cherished her as his only true family in the world.",
+    "significantChanges": true,
+    "changeReason": "JPN 唯一の肉親 = 'only blood relative'; new's 'only true family in the world' captures the emotional weight better. Also corrects tense.",
+    "changeScore": 2
+  },
+  {
+    "index": 80,
+    "MessageID": 4546,
+    "TextENGNew": "Could I really vivisect that Satoko-chan, driven by nothing more than intellectual excitement...?",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates motivation: 'using my research as an excuse' vs JPN 知的興奮だけで (driven only by intellectual excitement); also misses 生きながらに (while alive/vivisect).",
+    "changeScore": 4
+  },
+  {
+    "index": 81,
+    "MessageID": 4547,
+    "TextENGNew": "I had felt hardly any guilt over the man last year—and yet for Satoko-chan, the weight of guilt was crushing.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 4548,
+    "TextENGNew": "...That in itself forced me to revisit the sin of last year, which I had been trying to forget.",
+    "significantChanges": true,
+    "changeReason": "JPN 忘れようとしていた去年の罪を改めて思い出させた = 'made me remember anew the sin of last year I had been trying to forget'; original completely misses the 'trying to forget' element.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 4549,
+    "TextENGNew": "A man I didn't know—it was all right if he died.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 4550,
+    "TextENGNew": "There was no principled reason why it should be different for Satoko-chan.",
+    "significantChanges": true,
+    "changeReason": "Meaning reversed: old says 'I don't want Satoko-chan to die. That's not right' (protective), but JPN means 'there was no principled reason why it should be different for Satoko-chan' (self-critical reflection on inconsistency).",
+    "changeScore": 4
+  },
+  {
+    "index": 85,
+    "MessageID": 4551,
+    "TextENGNew": "Every life must weigh the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 4552,
+    "TextENGNew": "Besides—the reason I had let my guilt diminish, telling myself he was a brutal murderer,\ncould that not itself have been a product of terminal-stage onset?",
+    "significantChanges": true,
+    "changeReason": "Original says 'I tried to convince myself' but JPN describes the reasoning that let guilt diminish, then questions if the man's violence was itself from the syndrome. New preserves this self-questioning structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 4553,
+    "TextENGNew": "...I knew nothing about that man as he had been before the derangement took him.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 4554,
+    "TextENGNew": "Perhaps he had been a model, respectable person.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 4555,
+    "TextENGNew": "...He might simply have been an unfortunate victim—one who, through no fault of his own, had developed the syndrome and been driven to antisocial acts as a result...",
+    "significantChanges": true,
+    "changeReason": "JPN specifies 発症してしまい反社会的行為に及んでしまっただけの哀れな犠牲者 = 'merely a pitiful victim who developed the syndrome and was driven to antisocial acts'; original severely truncates this.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 4556,
+    "TextENGNew": "Just as my father had been...",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 4557,
+    "TextENGNew": "I knew more about Hinamizawa Syndrome than anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 4558,
+    "TextENGNew": "This disease drove people to bizarre behavior against their own will,",
+    "significantChanges": true,
+    "changeReason": "JPN 望まずして = 'without wishing/against their will'; original omits this crucial modifier that the bizarre behavior is involuntary.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 4559,
+    "TextENGNew": "without even allowing them to sense that something was wrong.",
+    "significantChanges": true,
+    "changeReason": "JPN 違和感を感じさせることさえなく means 'without even causing a sense of wrongness'; new's 'without even allowing them to sense something was wrong' is more precise than 'without them realizing it'.",
+    "changeScore": 2
+  },
+  {
+    "index": 94,
+    "MessageID": 4560,
+    "TextENGNew": "...And so, no matter how horrifying the acts committed by a terminal-stage patient, they deserved compassion.",
+    "significantChanges": true,
+    "changeReason": "JPN いかに凶悪な奇行に走ろうとも = 'no matter how terrible the acts'; new's 'no matter how horrifying' captures this unconditional framing better than original's weaker phrasing.",
+    "changeScore": 3
+  },
+  {
+    "index": 95,
+    "MessageID": 4561,
+    "TextENGNew": "I had known that—I had known it since the time I first resolved to walk this path...!",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 4562,
+    "TextENGNew": "These things, which ought to have been self-evident to me, I was only remembering now—\n...only now, truly belatedly, coming to understand how deeply sinful the research I had devoted myself to truly was.",
+    "significantChanges": true,
+    "changeReason": "JPN describes realizing belatedly how sinful his research is; original truncates the self-recrimination while new captures the layered temporal reflection of 今さらのように (belatedly).",
+    "changeScore": 3
+  },
+  {
+    "index": 97,
+    "MessageID": 4563,
+    "TextENGNew": "In time, the results of Satoko Houjou's precise examination came back.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 4564,
+    "TextENGNew": "The result: L5.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 4565,
+    "TextENGNew": "...Terminal of terminals.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 4566,
+    "TextENGNew": "In a sense, it was a startling result.",
+    "significantChanges": true,
+    "changeReason": "JPN ある意味 = 'in a certain sense/in a way'; original omits this qualifier which is important - the surprise is nuanced, not straightforward.",
+    "changeScore": 2
+  },
+  {
+    "index": 101,
+    "MessageID": 4567,
+    "TextENGNew": "In last year's case, the terminal-stage patient had been in a severe state of derangement.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 4568,
+    "TextENGNew": "According to Takano-san's observation records, he had complained of intense itching throughout the lymph nodes of his body and had an overwhelming urge to claw at his own throat—exactly as the late Dr. Takano had described.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 4569,
+    "TextENGNew": "But none of those symptoms were visible in Satoko-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 4570,
+    "TextENGNew": "Even in the late Dr. Takano's materials, throat-clawing was described as a highly characteristic terminal symptom—but not one that was guaranteed to manifest in every patient.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 4571,
+    "TextENGNew": "Moreover, there was significant individual variation in how emotions expressed themselves.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 4572,
+    "TextENGNew": "The same inner feeling could drive one person to violent outburst while another buried it deep within.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 4573,
+    "TextENGNew": "There was no way to gauge it at first glance.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 4574,
+    "TextENGNew": "Yet Satoko-chan's precise test results showed terminal of terminals—L5.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 4575,
+    "TextENGNew": "In other words—she simply was not showing the same outward derangement as the man from last year,\nbut within her, those identical madness-tinged abnormal emotions must have been swirling ceaselessly.",
+    "significantChanges": true,
+    "changeReason": "New restructures to capture the contrast between outward calm and inner turmoil; JPN まったく同じ狂気にも似た異常な感情が渦巻いている = 'identical madness-like abnormal emotions are swirling'.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 4576,
+    "TextENGNew": "Hinamizawa Syndrome acts upon the frontal lobe—and among all the primitive human emotions, it worked most powerfully on the one called \"doubt.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 4577,
+    "TextENGNew": "...The result was that terminal-stage patients became trapped in an extreme, delusional paranoia—and from that, committed terrible acts of violence...",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 4578,
+    "TextENGNew": "Exchanging warm words with Satoshi-kun on his visits, Satoko-chan appeared on the surface to be showing signs of recovery.",
+    "significantChanges": true,
+    "changeReason": "JPN 一見 = 'at first glance/on the surface'; new adds this crucial qualifier that her improvement is only superficial, which original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 4579,
+    "TextENGNew": "...Yet within that breast, a paranoia that could tip her into derangement at any moment kept on spiraling without cease...",
+    "significantChanges": true,
+    "changeReason": "New adds ずっと渦を巻き続けている = 'keeps spiraling ceaselessly' which original misses, emphasizing the persistent, ongoing nature of her inner turmoil.",
+    "changeScore": 2
+  },
+  {
+    "index": 114,
+    "MessageID": 4580,
+    "TextENGNew": "...I could not discharge Satoko-chan like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 4581,
+    "TextENGNew": "But...if things continued to proceed by the protocol manual, I would be called upon to authorize the dissection plan for Satoko Houjou.",
+    "significantChanges": true,
+    "changeReason": "JPN 決裁を求められる = 'will be asked for authorization/approval'; new's 'called upon to authorize' is more precise than original's vague 'make a decision'.",
+    "changeScore": 2
+  },
+  {
+    "index": 116,
+    "MessageID": 4582,
+    "TextENGNew": "...And my authorization would be nothing but a formality.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 4583,
+    "TextENGNew": "There was no way I could refuse it.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 4584,
+    "TextENGNew": "Takano-san had apparently already begun drawing up a schedule for the dissection.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 4585,
+    "TextENGNew": "That plan would make its way to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 4586,
+    "TextENGNew": "...If I were to vivisect Satoko-chan—",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old says 'Would I feel the same way' (vague); JPN specifically says 'if I were to vivisect Satoko-chan' — plot-critical detail omitted.",
+    "changeScore": 5
+  },
+  {
+    "index": 121,
+    "MessageID": 4587,
+    "TextENGNew": "...Would I taste again that intellectual exhilaration?",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has previous entry's content ('while dissecting Satoko-chan'); JPN asks 'would I taste again that intellectual exhilaration?'",
+    "changeScore": 5
+  },
+  {
+    "index": 122,
+    "MessageID": 4588,
+    "TextENGNew": "Would I reach that rapturous state once more?",
+    "significantChanges": true,
+    "changeReason": "JPN 恍惚の境地 = 'state of ecstasy/rapture'; new's 'rapturous state' is more precise than original's 'trance'.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 4589,
+    "TextENGNew": "...No—the question was whether I could resist that temptation.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 4590,
+    "TextENGNew": "Was I not, in feigning to question myself, passively consenting—letting Takano-san press ahead unimpeded, then yielding by inaction?",
+    "significantChanges": true,
+    "changeReason": "New restructures the self-accusation more powerfully; JPN 消極的に同意している = 'passively consenting' is made the focal point rather than a question.",
+    "changeScore": 3
+  },
+  {
+    "index": 125,
+    "MessageID": 4591,
+    "TextENGNew": "...If I could, I wanted to save Satoko-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 4592,
+    "TextENGNew": "I did not want her made into a sacrifice for research.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 4593,
+    "TextENGNew": "I absolutely did not want to dissect her.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 4594,
+    "TextENGNew": "But then—what of the man last year?",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 4595,
+    "TextENGNew": "Was I a discriminator who only assigned weight to the lives of people he knew?",
+    "significantChanges": true,
+    "changeReason": "JPN 差別主義者 = 'discriminator/bigot'; original omits this self-accusatory label which is key to Irie's self-examination.",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 4596,
+    "TextENGNew": "And if not dissection—then discharge her alive and set her loose?",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 4597,
+    "TextENGNew": "Simply wait, vaguely, for her to go deranged and commit some terrible act?",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 4598,
+    "TextENGNew": "...And then when she was brought in raving like the man from last year—would I then end up vivisecting her all the same?",
+    "significantChanges": true,
+    "changeReason": "New uses 'vivisecting' (生きたまま解剖 = dissect alive) which original misses, and adds 'raving' matching 錯乱状態.",
+    "changeScore": 3
+  },
+  {
+    "index": 133,
+    "MessageID": 4599,
+    "TextENGNew": "The man last year—kept alive as a research subject while still living—had had his life prolonged for months.",
+    "significantChanges": true,
+    "changeReason": "JPN 生きながらに研究対象とされながら = 'while being made a research subject while still alive'; original's 'dissected alive' oversimplifies the ongoing nature of the experimentation.",
+    "changeScore": 3
+  },
+  {
+    "index": 134,
+    "MessageID": 4600,
+    "TextENGNew": "For months he was denied the release of death—kept alive for no purpose but our cruel experiments.",
+    "significantChanges": true,
+    "changeReason": "Old adds fabricated detail 'with his skull left open' not present in JPN; core meaning about being denied death for months is shared.",
+    "changeScore": 3
+  },
+  {
+    "index": 135,
+    "MessageID": 4601,
+    "TextENGNew": "I did not want to inflict that on her...!",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 4602,
+    "TextENGNew": "What was I supposed to do...?",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 4603,
+    "TextENGNew": "Even the act of agonizing over it, even the very act of struggling—was a slow, passive drift toward consenting to her dissection...",
+    "significantChanges": true,
+    "changeReason": "New captures the JPN nuance of 消極的に同意していく = 'passively drifting toward consent' as a gradual process, while original's 'by elimination' mischaracterizes the mechanism.",
+    "changeScore": 3
+  }
+]

@@ -1,0 +1,1600 @@
+[
+  {
+    "index": 1,
+    "MessageID": 97414,
+    "TextENGNew": "\"...Towada-san.@k@vS10/40/410300828. Could you... move aside from there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 97415,
+    "TextENGNew": "\"Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 97416,
+    "TextENGNew": "Towada-san, sitting in front of the closet doors, flinched for an instant. ...But she quickly put on a pleasant expression and tilted her head.",
+    "significantChanges": true,
+    "changeReason": "Old says singular 'closet door'; new says plural 'closet doors' (押入れの扉). Old says 'began trembling'; new says 'flinched' (びくっと), which is more accurate as a sudden startle vs ongoing trembling.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 97417,
+    "TextENGNew": "\"Sorimachi-san... is something the matter?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 97418,
+    "TextENGNew": "\"You're... also...@k@vS10/40/410300830. hiding something... aren't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 97419,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 97420,
+    "TextENGNew": "The phrasing was technically a question, but there was no expectation of an answer. ...It was closer to a confirmation.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'nonchalantly' and names 'Miyuki-chan' (neither in JPN); new translates more literally. Old says 'she wanted to confirm something she already knew' (adds 'she already knew'); new says 'It was closer to a confirmation' (matching JPN 確認に近かった).",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 97421,
+    "TextENGNew": "Once again, I found myself unable to understand what kind of person Miyuki-chan really was.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 97422,
+    "TextENGNew": "That easygoing tone, that lovely smile...",
+    "significantChanges": true,
+    "changeReason": "Old uses full sentence 'She spoke in a calm tone'; new uses noun phrase 'That easygoing tone, that lovely smile' matching the JPN fragment style (おっとりとした口調、可憐な笑顔). Also 'calm' vs 'easygoing' for おっとり (gentle/easygoing) is a nuance shift.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 97423,
+    "TextENGNew": "But the words she occasionally spoke carried a viscous, venomous quality — like a snake coiling around its prey and squeezing tight.",
+    "significantChanges": true,
+    "changeReason": "New includes 'viscous' (粘着質な) and 'occasionally' (時折), which old omits. Old simplifies 底意地の悪さ (deep-seated malice) to just 'venom'; new preserves the sticky, clinging quality described in JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 97424,
+    "TextENGNew": "And her eyes were shining like the blade of a finely sharpened knife.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 97425,
+    "TextENGNew": "\"It's not a big deal.@k@vS10/40/410300832. But would you... step aside and let me check over there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 97426,
+    "TextENGNew": "\"Ah... sure...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 97427,
+    "TextENGNew": "Her tone sounded intimidating. ...It was hard to believe that voice came from someone with such a gentle face.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 97428,
+    "TextENGNew": "And Towada-san quickly rose to her feet under the pressure.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 97429,
+    "TextENGNew": "However... even though she stood up, she didn't move from that spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 97430,
+    "TextENGNew": "\"Miyuki-chan... what's wrong?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 97431,
+    "TextENGNew": "\"You'll understand once you see.@k@vS10/40/410300834. Something's in the closet.@k@vS10/40/410300835. ...Well, Towada-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 97432,
+    "TextENGNew": "\"...?@k@vS10/42/410600333. Wh-what is it...?@k@vS10/42/410600334. What do you think's in there...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 97433,
+    "TextENGNew": "\"You'll know once you see it.@k@vS10/40/410300837. So please, step aside.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 97434,
+    "TextENGNew": "\"Sorimachi-san... what grounds do you have for saying that...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 97435,
+    "TextENGNew": "\"Don't change the subject.@k@vS10/40/410300839. ...Or what, do you want me to say everything?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 97436,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 97437,
+    "TextENGNew": "Towada-san did her best to resist Miyuki-chan's frightening glare... but that sharp gaze was too much for her to bear, so she couldn't find the words to respond.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 97438,
+    "TextENGNew": "But even so, she maintained her position in front of the closet and refused to move aside.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 97439,
+    "TextENGNew": "\"...Can you tell us?@k@vS10/40/410300841. If you're willing to talk, I won't pry any further... How about it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 97440,
+    "TextENGNew": "\"J-just what do you think you're talking about?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 97441,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 97442,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 97443,
+    "TextENGNew": "The two of them fiercely glared at one another from point-blank range.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 97444,
+    "TextENGNew": "And then... Miyuki-chan let out a brief sigh, shook her head, and casually adjusted her hair as she continued.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 97445,
+    "TextENGNew": "\"...Okay.@k@vS10/40/410300844. Then, it can't be helped.@k@vS10/40/410300845. I'll explain it myself.@k@vS10/40/410300846. ...What happened to your lover, Kurosawa-kun...?@k@vS10/40/410300847. You know where he is, don't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 97446,
+    "TextENGNew": "\"W-why would I?!@k@vS10/42/410600340. And how does that have anything to do with this closet?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 97447,
+    "TextENGNew": "\"...I saw it earlier.@k@vS10/43/410400548. There was a human hand inside that closet... right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 97448,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 97449,
+    "TextENGNew": "The moment Sonozaki-san chimed in, Towada-san gasped.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 97450,
+    "TextENGNew": "And... Miyuki-chan's facial expression didn't change at all, like she already knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 97451,
+    "TextENGNew": "Hey... wait a minute?",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 97452,
+    "TextENGNew": "A human hand...? In that closet?",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 97453,
+    "TextENGNew": "You can't be serious!",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 97454,
+    "TextENGNew": "Why would something like that be in this closet?!",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 97455,
+    "TextENGNew": "\"Wh-what do you mean...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 97456,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 97457,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 97458,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 97459,
+    "TextENGNew": "\"Seriously... what's this about a hand?@k@vS10/62/410101472. You're saying something like that is here?! Hey!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 97460,
+    "TextENGNew": "\"Ah...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 97461,
+    "TextENGNew": "I rose to my feet, pushed Towada-san aside, and put a hand on the sliding door.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 97462,
+    "TextENGNew": "...I could see her gasping face out of the corner of my eye, but that didn't matter now.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 97463,
+    "TextENGNew": "A hand...? It can't be... There's no way a person could be hiding inside there...!",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 97464,
+    "TextENGNew": "*rattle*",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 97465,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 97466,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 97467,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 97468,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 97469,
+    "TextENGNew": "Several comforters were neatly stacked on the upper shelf. And multiple futons were carefully folded on the bottom shelf.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 97470,
+    "TextENGNew": "I looked for this human hand... but couldn't see it anywhere.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 97471,
+    "TextENGNew": "\"...What is this?@k@vS10/62/410101475. I don't see a hand anywhere!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 97472,
+    "TextENGNew": "I felt relieved.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 97473,
+    "TextENGNew": "Indeed. There's no way a human hand would be in a place like that, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 97474,
+    "TextENGNew": "What were the two of them talking about?",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 97475,
+    "TextENGNew": "\"Mion-san, what is that supposed to mean...?@k@vS10/42/410600346. You saw a hand...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 97476,
+    "TextENGNew": "\"I wonder...?@k@vS10/43/410400552. I'm just telling you what I saw.@k@vS10/43/410400553. Besides... I haven't said a word to implicate you as the culprit.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 97477,
+    "TextENGNew": "\"I guess you were just mistaken about what you saw?@k@vS10/42/410600348. If there was a human hand in a place like this, I would've noticed it when I pulled out a blanket earlier.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 97478,
+    "TextENGNew": "\"...Is that so?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 97479,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 97480,
+    "TextENGNew": "Miyuki-chan stared back at Towada-san. Her eyes were bitterly cold.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 97481,
+    "TextENGNew": "\"Ryuunosuke-san, would you give me just a moment?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 97482,
+    "TextENGNew": "Miyuki-chan pushed me aside and stood directly in front of the closet. Then, she carefully pulled the comforters down, one by one.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 97483,
+    "TextENGNew": "\"Wait... Please, stop!@k@vS10/42/410600351. If you insist on pulling out the futons, I'll do it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 97484,
+    "TextENGNew": "\"That's ok, I don't want to pull out the futons.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 97485,
+    "TextENGNew": "\"E-enough already...!@k@vS10/42/410600353. What's with you all of a sudden...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 97486,
+    "TextENGNew": "\"......@k@vS10/40/410300854.Hmm...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 97487,
+    "TextENGNew": "As Miyuki-chan pushed Towada-san aside, she reached into the bedding... and hit something.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 97488,
+    "TextENGNew": "Then, she turned to look at the girl for a moment... before pulling out the comforter.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 97489,
+    "TextENGNew": "The next moment...",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 97490,
+    "TextENGNew": "Hanging there...",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 97491,
+    "TextENGNew": "Something fell out from the space between the futons.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 97492,
+    "TextENGNew": "And... it was... a pale human hand...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 97493,
+    "TextENGNew": "\"Hyaah?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 97494,
+    "TextENGNew": "\"Wh... what is this?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 97495,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 97496,
+    "TextENGNew": "Miyuki-chan grabbed the hand and pulled without a second thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 97497,
+    "TextENGNew": "Given its position, it required an incredible amount of force to pull \"it\" out.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 97498,
+    "TextENGNew": "Before long... I heard the owner of that hand tumbling down to the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 97499,
+    "TextENGNew": "\"H... him...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 97500,
+    "TextENGNew": "\"N-no way...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 97501,
+    "TextENGNew": "His face... it was Kurosawa, the man who was sleeping here just a little while ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 97502,
+    "TextENGNew": "\"Kya... kyaaaaaaaahh!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 97503,
+    "TextENGNew": "Towada-san turned and screamed. She covered her mouth with both her hands and stared on with a look of bewilderment in her eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 97504,
+    "TextENGNew": "\"...W-why? How?!@k@vS10/42/410600356. What is Takumi-kun doing in a place like this?!@k@vS10/42/410600357. Takumi-kun! Takumi-kun?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 97505,
+    "TextENGNew": "Within a moment, Towada-san was clinging to Kurosawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 97506,
+    "TextENGNew": "...But he didn't respond to her call... His head and hands drooped with no strength behind them... and he didn't move at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 97507,
+    "TextENGNew": "\"I-it can't be...?!@k@vS10/42/410600359. Takumi-kun! Takumi-kun... w-why?!@k@vS10/42/410600360. Aaah... aaaaaaaaaahh!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 97508,
+    "TextENGNew": "Towada-san continued clinging to Kurosawa as she cried out.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 97509,
+    "TextENGNew": "But his face was pale and he didn't move a muscle.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 97510,
+    "TextENGNew": "...He was clearly dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 97511,
+    "TextENGNew": "\"Towada-san...@k@vS10/62/410101479. How did this...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 97512,
+    "TextENGNew": "\"No way... I can't believe someone's really dead...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 97513,
+    "TextENGNew": "\"Uu...!@k@vS10/42/410600364. Takumi-kun, Takumi-kun...! Aaahh...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 97514,
+    "TextENGNew": "...However.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 97515,
+    "TextENGNew": "Two sets of eyes were staring intently at Towada-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 97516,
+    "TextENGNew": "Sonozaki-san... and Miyuki-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 97517,
+    "TextENGNew": "\"Miyuki-chan...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 97518,
+    "TextENGNew": "\"...Are you done now?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 97519,
+    "TextENGNew": "\"H-hold on, Miyuki-chan...@k@vS10/62/410101482. Her boyfriend just died. She's grieving. Can't you choose your words more carefully?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 97520,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 97521,
+    "TextENGNew": "\"That's... rather cold of you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 97522,
+    "TextENGNew": "Otobe watched on and spoke in an admonishing tone. However, Miyuki-chan didn't respond to either of us beyond a distorted smile on the edge of her lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 97523,
+    "TextENGNew": "\"Well, call me coldhearted if you will.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 97524,
+    "TextENGNew": "\"Towada-san... I need you to let me investigate this corpse for a moment.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 97525,
+    "TextENGNew": "Without giving Towada-san an opportunity to refuse, Miyuki-chan put her hands on Kurosawa's corpse and started checking his pupils.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 97526,
+    "TextENGNew": "She was like a professional handling an autopsy.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 97527,
+    "TextENGNew": "Sonozaki-san approached the body too, and began examining his face.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 97528,
+    "TextENGNew": "And then, their eyes slowly turned to Towada-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 97529,
+    "TextENGNew": "\"...Gh, uuu..@k@vS10/42/410600366. ...Huh? Uh, umm...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 97530,
+    "TextENGNew": "\"...Anyway, are you done now?@k@vS10/43/410400555. I do have a question... You knew about this from the start, didn't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 97531,
+    "TextENGNew": "\"You knew that Takumi Kurosawa's corpse was in here the whole time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 97532,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 97533,
+    "TextENGNew": "\"Huuh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 97534,
+    "TextENGNew": "\"W-whaa?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 97535,
+    "TextENGNew": "Otobe and I both raised our voices in surprise.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 97536,
+    "TextENGNew": "Then, Towada-san emphatically gasped and opened her eyes wide in shock.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 97537,
+    "TextENGNew": "\"Well?@k@vS10/43/410400558. Tell us the truth.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 97538,
+    "TextENGNew": "\"That's not... That's not true!@k@vS10/42/410600369. Takumi-kun disappeared, and I... I...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 97539,
+    "TextENGNew": "\"...Stop hiding things. Didn't we have this discussion earlier?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 97540,
+    "TextENGNew": "\"...Please, stop joking around!!@k@vS10/42/410600371. Don't chastise me and say whatever you please!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 97541,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 97542,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 97543,
+    "TextENGNew": "Towada-san shouted emotionally and stared with determination.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 97544,
+    "TextENGNew": "However... her gaze quickly fell to the floor, as if repelled.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 97545,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 97546,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 97547,
+    "TextENGNew": "\"...You knew, didn't you?@k@vS10/43/410400563. Isn't that why you didn't want us to look?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 97548,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 97549,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 97550,
+    "TextENGNew": "...",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 97551,
+    "TextENGNew": "Before long.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 97552,
+    "TextENGNew": "She realized it would be meaningless to say anything in her defense... so Towada-san faintly nodded with a fatigued expression on her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 97553,
+    "TextENGNew": "\"Why were you hiding this until now?@k@vS10/43/410400565. You should have consulted with us.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 97554,
+    "TextENGNew": "\"I'm sorry...@k@vS10/42/410600376. The truth is... I... found the corpse a little while ago.@k@vS10/42/410600377. In here, when I opened the closet...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 97555,
+    "TextENGNew": "\"So... you knew Kurosawa was dead in there?!@k@vS10/62/410101485. For how long?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 97556,
+    "TextENGNew": "\"Around when the men in black were making a ruckus and all of you were outside.@k@vS10/42/410600379. ...I wasn't feeling well, so I went to the closet hoping to get myself a pillow...@k@vS10/42/410600380. But... Takumi-kun... Takumi-kun's corpse was... Uuu...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 97557,
+    "TextENGNew": "\"Then, you're saying Kurosawa was already in there by the time we came back here?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 97558,
+    "TextENGNew": "\"I'm sorry...@k@vS10/42/410600382. But... I was afraid you'd suspect me... so I couldn't say anything.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 97559,
+    "TextENGNew": "\"Suspect you...?@k@vS10/62/410101488. Why would we suspect you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 97560,
+    "TextENGNew": "\"Because... aside from me... there was nobody else here...@k@vS10/42/410600384. If you found him... I'd be the first to be suspected...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 97561,
+    "TextENGNew": "Towada-san's voice was hoarse and quivering intermittently.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 97562,
+    "TextENGNew": "I understand how she must've felt, but... doesn't hiding it makes it even more suspicious?",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 97563,
+    "TextENGNew": "\"...You were completely overthinking it.@k@vS10/62/410101490. If you had told us about this from the beginning, we would've stood by your side.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 97564,
+    "TextENGNew": "\"I'm so sorry...@k@vS10/42/410600386. When I saw Takumi-kun's body, I couldn't understand it. I panicked...@k@vS10/42/410600387. I was alone and didn't know what to do...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 97565,
+    "TextENGNew": "\"...Haah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 97566,
+    "TextENGNew": "For now... though I was still hesitant, that was enough to explain Towada-san's suspicious behavior. But regarding what happened afterwards, and who killed Kurosawa...",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 97567,
+    "TextENGNew": "\"Ah, but...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 97568,
+    "TextENGNew": "Just then.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 97569,
+    "TextENGNew": "Otobe seemed to have regained his composure, and spoke up while rubbing his neck.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 97570,
+    "TextENGNew": "\"What is it, Otobe?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 97571,
+    "TextENGNew": "\"Well... about that.@k@vS10/41/410200758. ...Doesn't that sound a little strange...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 97572,
+    "TextENGNew": "\"What about it is strange?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 97573,
+    "TextENGNew": "\"Because... Kurosawa-san was attacked near the shrine gate, wasn't he...?@k@vS10/41/410200760. So why would the culprit bring him to a place like this...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 97574,
+    "TextENGNew": "\"Now that you mention it, that's true.@k@vS10/62/410101495. I was near the entrance of the assembly hall during that entire gunfight.@k@vS10/62/410101496. There's no way that someone could have snuck a corpse in here without being seen, right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 97575,
+    "TextENGNew": "Thinking it over... a terrible thought crept up on me.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 97576,
+    "TextENGNew": "It was an absolutely impossible situation for a murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 97577,
+    "TextENGNew": "\"Right... that's right.@k@vS10/62/410101498. When did the killer transport the corpse here... without us noticing?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 97578,
+    "TextENGNew": "\"I don't know...@k@vS10/42/410600389. Maybe it was right after the attack near the shrine gate... when everyone had gone to the ritual storehouse, or when you were out searching for Takumi-kun... Maybe that's when the killer brought him here...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 97579,
+    "TextENGNew": "\"...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 97580,
+    "TextENGNew": "\"Then even back then... Kurosawa-san was already dead?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 97581,
+    "TextENGNew": "\"Hey, wait.@k@vS10/62/410101500. Isn't that a little odd?@k@vS10/62/410101501. Miyuki-chan, Otobe, and I very abruptly decided to tag along to go the ritual storehouse, didn't we?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 97582,
+    "TextENGNew": "\"What would the culprit have done if one of us decided to stay here instead of going to the ritual storehouse?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 97583,
+    "TextENGNew": "\"I can't imagine what the killer was thinking...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 97584,
+    "TextENGNew": "Towada-san muttered that, then hung her head. ...Looking at that, we all started to calm our emotional outburst.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 97585,
+    "TextENGNew": "...I can imagine what she's feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 97586,
+    "TextENGNew": "Finding a corpse right in front of us and setting aside our feelings of sympathy in order to start deducing the circumstances of the murder. Is that really human?",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 97587,
+    "TextENGNew": "Towada-san approached Kurosawa's corpse and put both her hands on his face.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 97588,
+    "TextENGNew": "\"I should have... brought you out sooner.@k@vS10/42/410600392. ...Sorry, Takumi-kun...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 97589,
+    "TextENGNew": "Though Kurosawa's face was pale, he looked like he was simply asleep and feeling unwell.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 97590,
+    "TextENGNew": "But... the reality was far more cruel.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 97591,
+    "TextENGNew": "\"Takumi-kun...@k@vS10/42/410600394. I was afraid of being suspected... so I did something terrible...@k@vS10/42/410600395. I did something terrible...@k@vS10/42/410600396. I'm sorry, Takumi-kun...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 97592,
+    "TextENGNew": "Right after she said that, tears came spilling out of Towada-san once again.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 97593,
+    "TextENGNew": "...But the next moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 97594,
+    "TextENGNew": "\"...It looks like there aren't any visible wounds.@k@vS10/43/410400567. ...So, what killed Takumi Kurosawa?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 97595,
+    "TextENGNew": "\"...Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 97596,
+    "TextENGNew": "\"It's a simple question.@k@vS10/43/410400569. ...Isn't it natural to wonder?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 97597,
+    "TextENGNew": "\"Sonozaki-san, now may not be the best time to say something like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 97598,
+    "TextENGNew": "\"But it's strange, so I'm telling you it's strange.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 97599,
+    "TextENGNew": "Sonozaki-san paid no heed to my attempts to keep her in check and continued making her point.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 97600,
+    "TextENGNew": "\"How was Takumi Kurosawa killed?@k@vS10/43/410400572. If he was stabbed, there would've been bleeding. And if he was pushed around near the stone steps, there would've been mud on his body, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 97601,
+    "TextENGNew": "\"And yet, this corpse is perfectly clean.@k@vS10/43/410400574. Why is that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 97602,
+    "TextENGNew": "\"...Yeah, now that you mention it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 97603,
+    "TextENGNew": "That certainly seemed to be the case. ...When I looked at his feet, I couldn't see even a trace of mud on his socks or the hem of his pants.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 97604,
+    "TextENGNew": "\"There are no visible marks on this man.@k@vS10/43/410400576. So, what is the cause of death?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 97605,
+    "TextENGNew": "\"Why... How can that be...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 97606,
+    "TextENGNew": "Towada-san looked back and forth between Otobe and me.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 97607,
+    "TextENGNew": "All Otobe and I could do was tilt our heads in bewilderment.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 97608,
+    "TextENGNew": "Checking dead bodies was absolutely out of the question for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 97609,
+    "TextENGNew": "I had no problem with living humans, but as soon as they die they become a frightening object.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 97610,
+    "TextENGNew": "Thinking about it that way, I was somewhat alarmed by Miyuki-chan's lack of aversion to looking over the corpse.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 97611,
+    "TextENGNew": "Investigating corpses is not the kind of job for average people.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 97612,
+    "TextENGNew": "...Before long, Miyuki-chan seemed to finish her investigation. She looked back and spoke in an emotionless clerical tone.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 97613,
+    "TextENGNew": "\"The cause of death is strangulation.@k@vS10/40/410300861. There are cord markings near his cervical vertebrae.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 97614,
+    "TextENGNew": "\"Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 97615,
+    "TextENGNew": "Cord markings near his cervical vertebrae...?",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 97616,
+    "TextENGNew": "Cervical vertebrae... meaning his neck? And... what are these cord markings?",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 97617,
+    "TextENGNew": "\"Cord markings are impressions left behind when a thin rope is tightened around a body.@k@vS10/40/410300863. These marks are typically found on the skin of the neck when someone is killed by strangulation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 97618,
+    "TextENGNew": "Miyuki-chan could tell from our faces that we didn't understand, so she offered a detailed explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 97619,
+    "TextENGNew": "\"...Unfortunately, he couldn't have been killed while we were dealing with the men in black.@k@vS10/40/410300865. And he didn't die while we were in the ritual storehouse either.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 97620,
+    "TextENGNew": "\"Judging by the state of rigor mortis, Kurosawa-kun died around 9 PM last night.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 97621,
+    "TextENGNew": "\"Around... 9 PM...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 97622,
+    "TextENGNew": "I thought desperately about what Miyuki-chan said as I repeated her words back to her... until finally, I realized.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 97623,
+    "TextENGNew": "\"H-hold on.@k@vS10/62/410101508. Isn't that before we even arrived here?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 97624,
+    "TextENGNew": "\"...Indeed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 97625,
+    "TextENGNew": "\"But that's weird!@k@vS10/41/410200765. Because we all saw him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 97626,
+    "TextENGNew": "\"Right, Arakawa-san? Isn't that so?@k@vS10/41/410200767. Kurosawa-san was sleeping here drunk, wasn't he?!@k@vS10/41/410200768. So...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 97627,
+    "TextENGNew": "\"Aah?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 97628,
+    "TextENGNew": "\"Huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 97629,
+    "TextENGNew": "Otobe was so alarmed by my hysterical exclamation that he turned and looked me straight in the eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 97630,
+    "TextENGNew": "\"What is it...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 97631,
+    "TextENGNew": "\"Maybe at that time... Kurosawa was already...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 97632,
+    "TextENGNew": "A horrifying thought came rushing out.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 97633,
+    "TextENGNew": "Kurosawa, who was supposedly sleeping in the corner of the room after heavy drinking, was in fact already dead...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 97634,
+    "TextENGNew": "If that's the case... then there's only one possibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 97635,
+    "TextENGNew": "\"Towada-san... you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 97636,
+    "TextENGNew": "\"I... I don't know!@k@vS10/42/410600399. I don't know anything!@k@vS10/42/410600400. Seriously, I didn't know!@k@vS10/42/410600401. ...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 97637,
+    "TextENGNew": "\"...Enough already.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 97638,
+    "TextENGNew": "Miyuki-chan grabbed Towada-san by the hand... and looked her straight in the eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 97639,
+    "TextENGNew": "There was no longer any hint of a smile on her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 97640,
+    "TextENGNew": "Her outrage was so horrifyingly powerful... that even I was trembling a short distance away.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 97641,
+    "TextENGNew": "\"...I'll ask you once more.@k@vS10/40/410300870. Kurosawa-san was killed before we even arrived here...@k@vS10/40/410300871. right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 97642,
+    "TextENGNew": "\"...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 97643,
+    "TextENGNew": "Towada-san's whole body was trembling... but even so, she continued forcefully shaking her head to deny it.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 97644,
+    "TextENGNew": "\"I don't know...@k@vS10/42/410600404. Really... I don't know...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 97645,
+    "TextENGNew": "\"It wasn't me! I didn't do it!@k@vS10/42/410600406. Please, believe me!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 97646,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 97647,
+    "TextENGNew": "Perhaps driven to her limit by that display, Miyuki-chan turned on her heels and walked out of the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 97648,
+    "TextENGNew": "And, before I could even ask where she was going, she came back.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 97649,
+    "TextENGNew": "In her hands, wrapped in a handkerchief... she had a rope... roughly one meter long.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 97650,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 97651,
+    "TextENGNew": "\"Th-that's...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 97652,
+    "TextENGNew": "\"...I found this in the kitchen trash can earlier.@k@vS10/40/410300874. It was very well hidden, so it was really just a coincidence that I found it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 97653,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 97654,
+    "TextENGNew": "\"If we give this to the police, I'm sure they'll find traces of the skin from Kurosawa-kun's neck.@k@vS10/40/410300876. And... tightening the rope by hand was a very poor decision.@k@vS10/40/410300877. After all, the ends of the rope are sticky with sweat...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 97655,
+    "TextENGNew": "As soon as Towada-san heard all that... her eyes opened wide and she lost her voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 97656,
+    "TextENGNew": "...Miyuki-chan wasn't simply doubting her. She <i>knew</i> all this from the beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 97657,
+    "TextENGNew": "And there was no point examining the rope any further... Towada-san's reaction made everything abundantly clear.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 97658,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 97659,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 97660,
+    "TextENGNew": "\"...@k@vS10/42/410600412.Aha, ahahahah...@k@vS10/42/410600413. Ahahahaha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 97661,
+    "TextENGNew": "Dejectedly,",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 97662,
+    "TextENGNew": "Towada-san's eyes were open wide as she stared at the rope. ...And eventually, she let out a dry laugh. Then, she leaned her back against the wall while muttering to herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 97663,
+    "TextENGNew": "\"...Aaah, I give up.@k@vS10/42/410600415. Who would've thought people like detectives would be in a place like this?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 97664,
+    "TextENGNew": "\"...Even though I went through so much effort to choose a location where nobody would ever go...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 97665,
+    "TextENGNew": "\"Towada-san...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 97666,
+    "TextENGNew": "\"...Just a little longer... and I could've regained my peaceful life.@k@vS10/42/410600418. What a shame...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 97667,
+    "TextENGNew": "...Towada-san looked down at Kurosawa's corpse with cold eyes as she dispassionately spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 97668,
+    "TextENGNew": "She was crying over Kurosawa just a moment ago, but her cold-hearted tone made it clear that was just an act.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 97669,
+    "TextENGNew": "Just as Miyuki-chan and Sonozaki-san had realized, that crying earlier was an utter lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 97670,
+    "TextENGNew": "\"It's just as Sorimachi-san says.@k@vS10/42/410600420. I killed Takumi-kun before all of you arrived here...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 97671,
+    "TextENGNew": "\"Towada-san...?@k@vS10/41/410200772. So... when you told us you and Kurosawa-san were attacked near the shrine gate... that was a lie, too...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 97672,
+    "TextENGNew": "\"Of course.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 97673,
+    "TextENGNew": "Towada-san deeply nodded.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 97674,
+    "TextENGNew": "Towada-san... really is a murderer?!",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 97675,
+    "TextENGNew": "Towada-san suddenly felt like a creature from another world.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 97676,
+    "TextENGNew": "Towada-san looked back at me and smiled, as though she'd perceived my thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 97677,
+    "TextENGNew": "Perhaps it was an act of strength from a person who'd been completely driven to the wall with all avenues of escape cut off.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 97678,
+    "TextENGNew": "But... the horrifying smile on her face... showed no signs of life.",
+    "significantChanges": false
+  }
+]

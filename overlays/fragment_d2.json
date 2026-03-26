@@ -1,0 +1,542 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5397,
+    "TextENGNew": "\"So, regarding the regional development and local industry growth accompanying the dam construction project...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 5398,
+    "TextENGNew": "``That's not what we're asking about!!!``",
+    "significantChanges": true,
+    "changeReason": "Changes 'that's not what we're saying' to 'that's not what we're asking about'; JPN 聞いてねぇ means 'not asking/hearing,' not 'saying.'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 5399,
+    "TextENGNew": "\"We want to know who gave you permission to build a dam here!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 5400,
+    "TextENGNew": "\"You squeeze every last yen of tax money out of us, and this is what we get in return?!@k@vS20/00/VTK1_farmMc1010. Who the hell do you think pays your salaries?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 5401,
+    "TextENGNew": "\"I'm telling you!@k@vS20/00/VTK1_yakuA1003. As I've been trying to explain...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 5402,
+    "TextENGNew": "\"We don't want to hear your excuses! We want to know when you're going to cancel the project!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5403,
+    "TextENGNew": "\"Talking to you is pointless! Bring the Minister of Construction here from Tokyo!!@k@vS20/00/VTK1_farmMb1011. We'll settle this once and for all!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 5404,
+    "TextENGNew": "``Get lost, you worthless pencil-pusher!!``",
+    "significantChanges": true,
+    "changeReason": "Changes 'yuppie' to 'pencil-pusher'; JPN 木っ端役人 means petty/minor bureaucrat, not yuppie.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 5405,
+    "TextENGNew": "\"You work on our tax money, so why the hell are you up there talking down to us from that stage?@k@vS20/00/VTK1_farmMa1011. Get down here and speak to us eye to eye!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 5406,
+    "TextENGNew": "The gymnasium was filled with furious shouting.",
+    "significantChanges": true,
+    "changeReason": "Changes 'auditorium' to 'gymnasium'; JPN 体育館 specifically means gymnasium.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 5407,
+    "TextENGNew": "The Hinamizawa Dam Basic Plan Local Briefing.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'The sign at the entrance says' (setup for next line); new provides the actual content 'The Hinamizawa Dam Basic Plan Local Briefing,' restructuring how the information is presented across entries.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 5408,
+    "TextENGNew": "...That was what the signboard outside read.",
+    "significantChanges": true,
+    "changeReason": "Restructured together with previous entry; old had the meeting name here but new correctly places the signboard description here, matching the JPN sentence structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 5409,
+    "TextENGNew": "Every time the government official on the stage tried to say anything, the packed crowd of residents drowned him out with a unified roar.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 5410,
+    "TextENGNew": "Unable to make any progress otherwise, the official pretended not to hear them and continued explaining the dam's benefits using presentation panels,",
+    "significantChanges": true,
+    "changeReason": "Adds 'using presentation panels,' reflecting JPN パネルで説明 which the old translation omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 5411,
+    "TextENGNew": "but this only reinforced the image of a government deaf to its people, stoking their fury even higher.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the concept of 'an image of a government deaf to its people,' reflecting JPN 住民の声を聞かない政府の横暴という図式 (the impression of government tyranny) that the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 5412,
+    "TextENGNew": "Between the stage and the audience seats lay a buffer zone where a squad of police officers had locked arms to form a barrier.",
+    "significantChanges": true,
+    "changeReason": "Adds detail about police 'locking arms to form a barrier,' reflecting JPN スクラムを組み制止線を作っていた (forming a scrum/restraining line).",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 5413,
+    "TextENGNew": "...Without them, the residents would have surely stormed the stage and the briefing would have devolved into a brawl...",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 5414,
+    "TextENGNew": "...I watched all of this unfold from behind everyone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 5415,
+    "TextENGNew": "I could see it plainly, as if in color—how they were being swallowed by the emotion of rage.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves JPN 色で見える (visible as color), a key metaphor about the narrator's supernatural perception, which the old translation replaced with generic 'obvious to anyone.'",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 5416,
+    "TextENGNew": "...Gradually consumed by a bloody red... the anger that had been born from a specific purpose was now replacing the purpose itself, generating a vicious cycle where anger existed only to feed more anger...",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 5417,
+    "TextENGNew": "...Anger is not an unnecessary emotion.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 5418,
+    "TextENGNew": "People encounter all manner of obstacles in life.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 5419,
+    "TextENGNew": "Anger is the driving force that gives them the power to fight and overcome those obstacles.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 5420,
+    "TextENGNew": "...In that sense, anger is nothing less than the vital force of human life itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 5421,
+    "TextENGNew": "That is why I do not reject anger as such.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 5422,
+    "TextENGNew": "But anger that exceeds all bounds can make people forget their original purpose.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5423,
+    "TextENGNew": "...That is no longer a force for living.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 5424,
+    "TextENGNew": "Blood rushes to the head, and people can no longer even remember what they set out to do. It is a state of pure, unchecked rampage.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 5425,
+    "TextENGNew": "......Such emotions are agonizing, sorrowful, and unbearable for us.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 5426,
+    "TextENGNew": "...We who dwell alongside the villagers—I could see with utter clarity, as though watching the colors shift, how they were being consumed by rage and stained with the mark of the \"demon\"...",
+    "significantChanges": true,
+    "changeReason": "Old says 'I can clearly see the villagers turning into demons' (external observation) while new adds the narrator's own group being consumed. The core image is preserved but the narrator's involvement is weakened in the old version.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 5427,
+    "TextENGNew": "I understand the rules of the human world.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 5428,
+    "TextENGNew": "Against the policies of a nation, the power of any individual is hopelessly inadequate.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 5429,
+    "TextENGNew": "...To stand against such power, one needs strength and unity that transcend the individual.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 5430,
+    "TextENGNew": "But steering that collective power in the right direction is an extraordinarily difficult thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 5431,
+    "TextENGNew": "...A chain of anger breeds anger for the sake of anger.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 5432,
+    "TextENGNew": "Not anger born of the will to live, but anger that exists only to perpetuate itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 5433,
+    "TextENGNew": "...That is nothing more than a demon.",
+    "significantChanges": true,
+    "changeReason": "Changes 'just like being a demon' to 'nothing more than a demon'; JPN ただの鬼でしかない states it IS a demon, not merely similar to one.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 5434,
+    "TextENGNew": "And... this emotion can only serve to violently rouse us from the long, quiet slumber we had settled into...",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 5435,
+    "TextENGNew": "Everyone is being... painted over by rage.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the painting/coloring metaphor from JPN 塗りつぶされていく (being painted over), which connects to the narrator's recurring motif of seeing emotions as colors.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 5436,
+    "TextENGNew": "We had learned to coexist peacefully with the villagers, passing our days in quiet slumber.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 5437,
+    "TextENGNew": "...Now we are being awakened, and the world threatens to return to that age when demons were said to surge forth from Onigafuchi Swamp...",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 5438,
+    "TextENGNew": "I cry out to everyone, begging them to please calm down.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 5439,
+    "TextENGNew": "But in this vicious cycle where anger amplifies anger, my voiceless voice reaches no one...",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'voiceless voice' from JPN 声無き声, a crucial detail indicating the narrator is a supernatural entity whose cries cannot be physically heard.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 5440,
+    "TextENGNew": "Even so, believing that it might reach even one person's ear, all I can do is keep crying out, over and over, for them to please calm down.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 5441,
+    "TextENGNew": "If this continues...... the demons may awaken.",
+    "significantChanges": true,
+    "changeReason": "Changes 'if I don't do anything' to 'if this continues'; JPN このままでは means 'if things continue as they are,' not 'if I don't act,' removing a false implication of personal agency.",
+    "changeScore": 3
+  },
+  {
+    "index": 46,
+    "MessageID": 5442,
+    "TextENGNew": "The demons who had fallen into slumber, who should never have risen again... may be roused by this commotion...",
+    "significantChanges": true,
+    "changeReason": "New adds 'who should never have risen again,' reflecting JPN 二度と蘇ることなどないはずだった (who were supposed to never revive), adding crucial context about the expected permanence of the demons' dormancy.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 5443,
+    "TextENGNew": "Then, the atmosphere of the turmoil shifted.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 5444,
+    "TextENGNew": "Looking up, I saw that what had been a confrontation between the podium and the residents had transformed, at some point, into a confrontation among the residents themselves.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 5445,
+    "TextENGNew": "...What on earth was happening?",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 5446,
+    "TextENGNew": "\"Shut the hell up!!@k@vS20/00/VTK1_satokoF1002. That's your agenda, not ours! Don't go speaking for everyone, you old hag!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 5447,
+    "TextENGNew": "\"How dare you, you worthless fool!!@k@|@y@vS20/17/VTK1_oryou1011. You've got some nerve running your mouth like that, you wretch!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 5448,
+    "TextENGNew": "``Hey, hey!!@k@vS20/00/VTK1_farmMa1013. You know you're talking to Oryou-san, right? You've got real guts, don't you?!@k@vS20/00/VTK1_farmMa1014. State your name!!``",
+    "significantChanges": true,
+    "changeReason": "Changes 'Who the hell do you think you are?' to 'State your name!'; JPN 名乗らんかいおおぅ literally demands the person identify themselves.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 5449,
+    "TextENGNew": "\"Shut up!!@k@vS20/00/VTK1_satokoF1004. Sonozaki? So what?! I'm Houjou! Keep your lackeys out of this!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 5450,
+    "TextENGNew": "\"Hey, Houjou!!@k@vS20/00/VTK1_farmMb1013. How dare you say you want the village to be drowned!@k@vS20/00/VTK1_farmMb1014. How much did they pay you to sell us out?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 5451,
+    "TextENGNew": "\"Shut your mouth, you old fossil!!@k@vS20/00/VTK1_satokoF1006. Listen here—there are plenty of poor folks in Hinamizawa! Not everyone has mountains full of fields like you rich landowners!!",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 5452,
+    "TextENGNew": "\"I was perfectly happy with the government's compensation! They even offered to arrange public housing for us—I had no complaints at all!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 5453,
+    "TextENGNew": "\"And then you went and flipped the whole table over, ruining everything, you idiots!!!\"",
+    "significantChanges": true,
+    "changeReason": "New preserves the JPN idiom ちゃぶ台引っくり返し (flipping the table), a vivid metaphor the old translation replaced with generic 'ruining everything.'",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 5454,
+    "TextENGNew": "``Don't drag everyone else into your agenda just because you're a landowner!@k@vS20/00/VTK1_satokoF1010. If you want to pick a fight with the government so badly, do it by yourself!@k@vS20/00/VTK1_satokoF1011. And who's going to pay for it, huh? You?!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Don't pretend you're the same as us' while new says 'Don't drag everyone else into your agenda just because you're a landowner.' Both convey a similar complaint but old misses the specific JPN reference to landowner privilege.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 5455,
+    "TextENGNew": "\"My family is poor, and I've got two kids to feed.@k@vS20/00/VTK1_satokoF1013. I was planning to take the government's money quietly, get help finding work, and start a new life.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 5456,
+    "TextENGNew": "\"But then you—since when did you become my representative?!@k@vS20/00/VTK1_satokoF1015. Who made you so important, huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 5457,
+    "TextENGNew": "\"Hey, hey, hey, Houjou!!@k@vS20/00/VTK1_farmMc1013. How dare you—you traitor!!@k@vS20/00/VTK1_farmMc1014. Then get out! Get out of this village!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 5458,
+    "TextENGNew": "\"Fine, I'd be glad to!!@k@vS20/00/VTK1_satokoF1017. But you're going to compensate me, right?@k@vS20/00/VTK1_satokoF1018. You're going to pay me every yen I would have gotten from the government, right?!",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 5459,
+    "TextENGNew": "\"Even if I wanted to leave, I don't have the money!@k@vS20/00/VTK1_satokoF1020. If you're going to pay me, I'll leave right now!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 5460,
+    "TextENGNew": "\"...Houjou is right!@k@vS20/00/VTK1_farmMd1002. There are residents who are perfectly willing to leave!@k@vS20/00/VTK1_farmMd1003. You Three Families have no right to drag us into this!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 5461,
+    "TextENGNew": "\"What's all this then?@k@vS20/17/VTK1_oryou1013. Who just said that?!@k@vS20/17/VTK1_oryou1014. Speak up, coward!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 5462,
+    "TextENGNew": "\"If you want to stay, then stay!@k@vS20/00/VTK1_farmMd1005. Leaving is our right! Don't you dare interfere with our rights, you fool!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 5463,
+    "TextENGNew": "\"That's right!@k@vS20/00/VTK1_farmMe1002. Back off, you damn Sonozaki hag!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 5464,
+    "TextENGNew": "\"...Ahh, of course, for those who support the dam project, we have prepared appropriate compensation.@k@vS20/00/VTK1_yakuA1005. This is most certainly not an expropriation of your land...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 5465,
+    "TextENGNew": "\"Silence, bureaucrat!!@|@y@k@vS20/17/VTK1_oryou1016. Are you trying to split this village in two?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 5466,
+    "TextENGNew": "\"Die, Houjou!!@k@vS20/17/VTK1_oryou1018. You don't deserve to breathe the air of this village! Hold your breath and suffocate!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 5467,
+    "TextENGNew": "``Don't you dare look down on me!!@k@vS20/00/VTK1_satokoF1022. I'll kill you! Step forward, you old hag!!!@k@vS20/00/VTK1_satokoF1023. Hey—stay out of this, you overgrown cops!!``",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates デカポリ (police slang: デカ=detective + ポリ=police) as 'fat pig'; also 'Screw you' for なめんな (Don't look down on me). The police reference is plot-relevant.",
+    "changeScore": 4
+  },
+  {
+    "index": 72,
+    "MessageID": 5468,
+    "TextENGNew": "``Veeeery well said.@k@vS20/17/VTK1_oryou1020. ...Very well said indeed, Houjou.@k@vS20/17/VTK1_oryou1021. ...This is the first time in ages that Oryou Sonozaki has felt her blood truly boil.@k@vS20/17/VTK1_oryou1022.You will pay the price for this.@k@vS20/17/VTK1_oryou1023.Look forward to it...!!!``",
+    "significantChanges": true,
+    "changeReason": "New captures Oryou speaking of herself in the third person (JPN この園崎お魎), conveying her imperious manner. Also adds 'You will pay the price' for JPN きっちりケジメ (settling accounts), which old translated loosely as 'get what you deserve.'",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 5469,
+    "TextENGNew": "\"Go, Houjou, go!!@k@vS20/00/VTK1_farmMe1004. The government owes us jobs, homes, and compensation!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 5470,
+    "TextENGNew": "\"Hey, stop it!!@k@vS20/00/VTK1_yakuA1007. No violence!!@k@vS20/00/VTK1_yakuA1008. Both sides, stop it, stop it!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 5471,
+    "TextENGNew": "\"Like hell! Bring it on!!@k@vS20/17/VTK1_oryou1025. Come and face me!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 5472,
+    "TextENGNew": "Everyone was being stained a deeper and deeper shade of bloody red anger...",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 5473,
+    "TextENGNew": "And all I could do was watch in silence......",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 5474,
+    "TextENGNew": "The least I could do... was to apologize in advance for the tragedy that might soon unfold...",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 5475,
+    "TextENGNew": "...I'm sorry,@|@yI'm sorry.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 5476,
+    "TextENGNew": "I'm sorry,@|@y I'm sorry,@|@y I'm sorry...",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 5477,
+    "TextENGNew": "And...... this day was the catalyst.",
+    "significantChanges": true,
+    "changeReason": "New correctly translates JPN この日がきっかけ as 'this day was the catalyst,' while old generalized to 'this is how things started.'",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 5478,
+    "TextENGNew": "...From this day forward, the Houjou family and the Sonozaki family would become irreconcilably opposed, and the Houjou family would sink ever deeper into isolation within the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 5479,
+    "TextENGNew": "It marked the beginning of a cruel fate that would drag Satoko and Satoshi down into terrible suffering...",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Me and the Other Me",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Two of Us\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15809,
+    "TextENGNew": "When Rika Furude first became aware of her family, she believed without question that hers was a family of four.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15810,
+    "TextENGNew": "The family she could see so naturally--her father, her mother, and me.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15811,
+    "TextENGNew": "Newborn Rika could never have imagined that I was a being visible only to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15812,
+    "TextENGNew": "My appearance differs from that of a human.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15813,
+    "TextENGNew": "Even when I take on human form, I cannot hide my horns.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 15814,
+    "TextENGNew": "So no matter how warmly I smile, it is plain that I am not one of their kind.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits the Japanese どう微笑もうとも (no matter how warmly I smile), losing Hanyuu's poignant detail about smiling being insufficient to appear human.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 15815,
+    "TextENGNew": "But if newborn Rika saw me as a natural part of her world from the very beginning,@k perhaps she would not be troubled by these ugly horns.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15816,
+    "TextENGNew": "That faint hope was fulfilled.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15817,
+    "TextENGNew": "Just as a chick believes whatever it first sees upon hatching to be its parent,@k Rika accepted me as family without a single doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15818,
+    "TextENGNew": "Even with these horns.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15819,
+    "TextENGNew": "And so, from the day Rika accepted me as family, we became the closest of companions.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15820,
+    "TextENGNew": "To Rika, I was a more constant playmate than even her parents.@k And for me, she was the first being I could interact with after an unfathomably long time.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I became closer to her than her parents' but the Japanese specifies 遊び相手 (playmate), and the second half's structure changes the relational framing from Hanyuu's inability to remember to Rika being the first companion.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 15821,
+    "TextENGNew": "We spent every moment together.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15822,
+    "TextENGNew": "However, her family--especially her mother--vehemently denied my existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15823,
+    "TextENGNew": "Because her mother denied me so forcefully and so repeatedly, something that was simply natural to Rika,@k ...Rika gradually stopped trying to explain me to her mother.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Rika and her mother became distant,' but the Japanese specifically says Rika gradually stopped trying to explain Hanyuu's existence to her mother--a concrete behavioral change rather than a vague relational one.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 15824,
+    "TextENGNew": "As a result, Rika stopped learning the things children normally learn through play with their mothers.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15825,
+    "TextENGNew": "So I decided I should take that role, and taught her all the old customs, wisdom, and skills I knew.",
+    "significantChanges": true,
+    "changeReason": "Old simply says 'I taught her instead,' omitting the specific content: 昔から伝わる色々なことや知恵、習い事 (old customs, wisdom, and skills), which explains Rika's unusual knowledge.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 15826,
+    "TextENGNew": "......The irony was that, for some reason, this only made her mother view Rika more negatively.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15827,
+    "TextENGNew": "Come to think of it, Rika used to argue quite a bit with her mother about how she referred to herself.",
+    "significantChanges": true,
+    "changeReason": "Old says arguments about 'how she talked' but the Japanese 自分の呼び方 specifically means 'how she referred to herself,' which directly connects to the next line about Rika using 'boku.'",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 15828,
+    "TextENGNew": "The fact that Rika calls herself 'boku' instead of 'watashi' is very likely my doing.",
+    "significantChanges": true,
+    "changeReason": "Old vaguely says 'picked up bad habits'; new specifies that Rika uses 'boku' (masculine self-reference) -- a key character trait.",
+    "changeScore": 4
+  },
+  {
+    "index": 21,
+    "MessageID": 15829,
+    "TextENGNew": "Back then, aside from not getting along with her mother, Rika was a perfectly ordinary girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15830,
+    "TextENGNew": "She had an air much like Satoko's.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15831,
+    "TextENGNew": "She was an energetic girl who loved running through the hills and forests and getting into mischief.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 15832,
+    "TextENGNew": "......But then came June of Showa 58.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15833,
+    "TextENGNew": "...Rika's life was taken.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 15834,
+    "TextENGNew": "We wished for nothing more than to watch Rika grow and enjoy and celebrate her life to the fullest.",
+    "significantChanges": true,
+    "changeReason": "Old simplifies to 'a happy life for Rika,' but the Japanese describes wanting to relish and celebrate life alongside Rika's growth (成長と共に人生を満喫し、謳歌する)--a much richer sentiment about shared experience.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 15835,
+    "TextENGNew": "...My power can only search for a path that leads to that future.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 15836,
+    "TextENGNew": "It is true that no matter how many times we repeat, the tragic fate cannot be overturned.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It's awful to repeat the same tragedy,' expressing emotional pain, but the Japanese states 悲しい運命は覆せない (the tragic fate cannot be overturned), expressing the futility of the effort rather than just the emotional toll.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 15837,
+    "TextENGNew": "...That is certainly heartbreaking, but@k......finding joy at the bottom of a well from which one cannot climb out is not a bad thing either.",
+    "significantChanges": true,
+    "changeReason": "Old omits the vivid well metaphor (井戸の底), replacing it with generic 'endless world.'",
+    "changeScore": 4
+  },
+  {
+    "index": 30,
+    "MessageID": 15838,
+    "TextENGNew": "Rika Furude's life is buried in a dead end of fate, summed up in a single word: misery.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 15839,
+    "TextENGNew": "But... I quietly take a small joy in being able to spend more time with Rika than her natural lifespan would have allowed.",
+    "significantChanges": true,
+    "changeReason": "Old says 'more time than what normal people can enjoy,' generalizing the comparison, but the Japanese specifically refers to 梨花の寿命以上 (beyond Rika's natural lifespan)--it's about Rika specifically, not people in general.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 15840,
+    "TextENGNew": "Of course, it is not just Rika.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 15841,
+    "TextENGNew": "They may never answer when I speak to them, but... being there alongside Satoko, Mion, Rena, Keiichi, and all their lively chaos is truly wonderful.",
+    "significantChanges": true,
+    "changeReason": "Old says they 'may not see or hear' Hanyuu, but the Japanese 問い掛けには答えてくれない says they 'don't answer when spoken to'--a different and more specific claim about the nature of the barrier.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 15842,
+    "TextENGNew": "I cannot join in with them, but... I was still there with them.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,261 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Reason for Hinamizawa",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Reason We Moved to Hinamizawa\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15486,
+    "TextENGNew": "How many years ago was it, I wonder.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15487,
+    "TextENGNew": "There was a village in the countryside with beautiful nature.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15488,
+    "TextENGNew": "There was a residents' movement because the village was going to be submerged by a dam, or so it was said.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the hedging tone (\"or so it was said\") from \"とか何とかで\" and uses \"residents' movement\" (住民運動) rather than paraphrasing as \"protested en masse.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 15489,
+    "TextENGNew": "The residents' group held a tour they called a \"nature watching\" event to let people appreciate the richness of the local environment.",
+    "significantChanges": true,
+    "changeReason": "New translation includes the specific tour name \"nature watching\" (大自然ウォッチング) and specifies it was organized by the \"residents' group\" (住民団体), details absent from the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 15490,
+    "TextENGNew": "I was drawn in by the atmosphere of nature that might someday be lost, swallowed by the dam, and joined with genuinely lighthearted intentions.",
+    "significantChanges": true,
+    "changeReason": "Old translation reduces the motivation to \"simple curiosity,\" while the new captures the JPN's specific emotional draw: being attracted by the atmosphere of nature that might be lost to the dam.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 15491,
+    "TextENGNew": "But when I got there, it truly took my breath away.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15492,
+    "TextENGNew": "The air there was truly crystal clear, and the natural beauty was absolutely magnificent.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15493,
+    "TextENGNew": "Ever since then, your father has been completely captivated by that nature.",
+    "significantChanges": true,
+    "changeReason": "The JPN uses third-person self-reference \"お父さんは\" (your father), which the new translation preserves. The old translation uses first person \"I,\" losing this characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 15494,
+    "TextENGNew": "...I was genuinely happy when I heard the dam project had been cancelled.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15495,
+    "TextENGNew": "The spot I visited back then is exactly where we're building our house now.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15496,
+    "TextENGNew": "Back then it was a meadow, beautiful with wildflowers.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15497,
+    "TextENGNew": "Two small girls were playing in that meadow.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15498,
+    "TextENGNew": "Both of them had long hair and were lovely girls.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15499,
+    "TextENGNew": "They were probably neighborhood friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15500,
+    "TextENGNew": "I still remember them well — one with a sharp, composed expression despite her young age, the other with a face still holding childlike innocence.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15501,
+    "TextENGNew": "I'm sure both of them will grow into beauties with their own distinct charm someday.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15502,
+    "TextENGNew": "The girls were running about, spinning like they were dancing.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15503,
+    "TextENGNew": "I asked them whether this was their playground, and they said this.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15504,
+    "TextENGNew": "\"We're hoping someone will come move here soon.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 15505,
+    "TextENGNew": "And right there was a sign reading \"Vacation Lot — For Sale.\"",
+    "significantChanges": true,
+    "changeReason": "New translation includes \"Vacation Lot\" (別荘地), specifying it was a vacation/villa property, while the old simply says \"lot for sale.\"",
+    "changeScore": 1
+  },
+  {
+    "index": 21,
+    "MessageID": 15506,
+    "TextENGNew": "That was the moment I thought — maybe I'd like to try living here.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15507,
+    "TextENGNew": "True, there's nothing much here, and it might be inconvenient compared to city life.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15508,
+    "TextENGNew": "But... your father felt that if our family was going to start over, it could only be here.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the father's third-person self-reference (\"your father\") and the exclusive nuance of \"ここしかない\" (it could only be here), while old uses first person and a weaker \"best place.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 15509,
+    "TextENGNew": "Things certainly happened in the old town, but all of that is over now, so let's forget about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15510,
+    "TextENGNew": "Let's draw what lessons we can from our mistakes and build a new ideal life in this village.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 15511,
+    "TextENGNew": "So I'm glad Keiichi has taken a liking to life here.",
+    "significantChanges": true,
+    "changeReason": "Old expresses a hope for the future (\"I hope you'll grow to love it\"), while new states satisfaction about the present (\"I'm glad Keiichi has taken a liking\"), shifting the temporal framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 15512,
+    "TextENGNew": "...Is that so.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 15513,
+    "TextENGNew": "I'm happy if you like it.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 15514,
+    "TextENGNew": "Your father is also glad that our family has grown so much closer since we moved here.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the third-person self-reference (\"Your father\") consistent with the JPN where the father refers to himself as 父さん.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 15515,
+    "TextENGNew": "In the old town, the family was all scattered and apart, I think.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 15516,
+    "TextENGNew": "...So I really am glad we got the chance to start fresh. Before, I never had any opportunity to talk with you like this, Keiichi.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 15517,
+    "TextENGNew": "Oh, right, Keiichi.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 15518,
+    "TextENGNew": "Are there any two pretty girls with long hair at your school?",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 15519,
+    "TextENGNew": "Their ages... probably younger than you, I'd think.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 15520,
+    "TextENGNew": "There's one with short hair and one with long? Hmm, that's probably not them.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 15521,
+    "TextENGNew": "You want to know why I'm looking for them?",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 15522,
+    "TextENGNew": "Oh, nothing much — I'd just like them to model for my sketches.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 15523,
+    "TextENGNew": "I was thinking all sorts of cost— ahem, ahem! A-Anyway, it's purely artistic interest. If you happen to see them, let your father know.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 15524,
+    "TextENGNew": "Guk-guk-gaagh?!",
+    "significantChanges": true,
+    "changeReason": "Old renders a choking/pain sound effect (ぐほぐぎぇッ) as dialogue ('Promise me, okay?!').",
+    "changeScore": 4
+  }
+]

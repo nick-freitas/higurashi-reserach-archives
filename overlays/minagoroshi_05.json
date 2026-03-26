@@ -1,0 +1,1280 @@
+[
+  {
+    "index": 1,
+    "MessageID": 101464,
+    "TextENGNew": "The donated items slated for the bargain auction had been gathered in the meeting hall at Furude Shrine.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies \"in the meeting hall at Furude Shrine\" rather than just \"at the Furude shrine\", adding the specific location (集会所) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 101465,
+    "TextENGNew": "``Whoa, there's all kinds of stuff here...!@k@vS12/01/180100257. I expected gift-set towels and worn-out furniture, but there's also electronics and daily goods!``",
+    "significantChanges": true,
+    "changeReason": "New translation specifies \"electronics and daily goods\" where old vaguely says \"way more things than that\", adding concrete detail from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 101466,
+    "TextENGNew": "``Wow -- they've even got TVs and refrigerators.@k@vS12/02/180200063. And these are practically brand new!``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 101467,
+    "TextENGNew": "``Hahaha, surprised?@k@vS12/03/180300107. We got donations from businesses connected to the Sonozaki family -- floor models, leftover stock, things that can't be sold as new but are basically unused!``",
+    "significantChanges": true,
+    "changeReason": "Old says \"stores my family owns\" (first-person); new says \"businesses connected to the Sonozaki family\" (third-person framing), changing the speaker perspective.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 101468,
+    "TextENGNew": "``If you don't mind them being a model behind, they're pretty impressive, right?``",
+    "significantChanges": true,
+    "changeReason": "Old was missing opening quotation mark, indicating broken formatting from a split line.",
+    "changeScore": 1
+  },
+  {
+    "index": 6,
+    "MessageID": 101469,
+    "TextENGNew": "``The sun-bleached 'Brand New!' stickers on these appliances have a certain melancholy to them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 101470,
+    "TextENGNew": "``No, no, Satoko -- that's actually a selling point.@k@vS12/01/180100259. A slightly dusty but unused item beats somebody's hand-me-down any day.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 101471,
+    "TextENGNew": "``...Mii. Youngsters these days sure are fastidious.``",
+    "significantChanges": true,
+    "changeReason": "Rika's catchphrase changed from \"Meep\" to \"Mii\" (closer to the Japanese \"みー\").",
+    "changeScore": 1
+  },
+  {
+    "index": 9,
+    "MessageID": 101472,
+    "TextENGNew": "``Ahahaha, I don't mind either way. As long as it's cheap, this kind of thing is perfectly fine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 101473,
+    "TextENGNew": "``Rena-san, you seem pretty interested in the furniture.@k@vS12/06/180600032. Are you thinking of living on your own?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 101474,
+    "TextENGNew": "``Oh, no.@k@vS12/02/180200066. My dad and I have been talking about redecorating the house.@k@vS12/02/180200067. So I was wondering if there was anything we could use.``",
+    "significantChanges": true,
+    "changeReason": "Old mentions \"checking out recycled ones\"; new generalizes to \"wondering if there was anything we could use\", omitting the recycled goods detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 101475,
+    "TextENGNew": "``You're changing the furniture too?@k@vS12/04/180400098. That's quite a big undertaking.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 101476,
+    "TextENGNew": "``Yep.@k@vS12/02/180200069. My dad finally got a new job recently.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 101477,
+    "TextENGNew": "``So we want to make it a fresh start -- go big with the whole makeover.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 101478,
+    "TextENGNew": "``...Your father... got a new job?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 101479,
+    "TextENGNew": "Rika-chan asked casually, but I was thinking the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 101480,
+    "TextENGNew": "...Did that mean Rena's father had been unemployed until recently...?",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 101481,
+    "TextENGNew": "``Yeah.@k@vS12/02/180200072. For a whole year after he and Mom split up, he didn't even try to find work.@k@vS12/02/180200073. Rena was mad about it too.@k@vS12/02/180200074. I kept telling him, 'Get a proper job already~!'``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 101482,
+    "TextENGNew": "Rena said it with her usual smile, as though it were the most natural thing in the world, so it took me a moment to register just how heavy what she'd said actually was.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 101483,
+    "TextENGNew": "...If what Rena was saying was literal, it meant her parents had divorced and her home situation was far from ideal.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 101484,
+    "TextENGNew": "But Rena spoke about it so normally that the mood never turned heavy.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 101485,
+    "TextENGNew": "``Your mother and father... separated?``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 101486,
+    "TextENGNew": "``Yep.@k@vS12/02/180200076. They divorced back in the town where we used to live.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 101487,
+    "TextENGNew": "``So Dad and I came back to Hinamizawa.@k@vS12/02/180200078. But he just couldn't recover from the shock of the divorce, and he was a mess for a long time...``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 101488,
+    "TextENGNew": "``Divorce and heartbreak -- the deeper the love, the deeper the wound.@k@vS12/06/180600034. But I don't think the depth of that pain is necessarily a bad thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 101489,
+    "TextENGNew": "``Ahahaha, if only it were that romantic.@k@vS12/02/180200081. Dad ended up frequenting some shady establishment and getting close to some woman there.``",
+    "significantChanges": true,
+    "changeReason": "Old vaguely says \"spending money at the bar\"; new adds \"getting close to some woman there\", introducing the relationship detail from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 101490,
+    "TextENGNew": "``Rena's mom was apparently a pretty well-known designer.@k@vS12/03/180300110. She was making quite a lot of money.``",
+    "significantChanges": true,
+    "changeReason": "Old says Rena's mom \"is\" a designer (present tense); new says \"was apparently\" (past tense with hedging), changing the temporal framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 101491,
+    "TextENGNew": "``So her father got a hefty settlement.``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 101492,
+    "TextENGNew": "``That's why Dad could get by without working.@k@vS12/02/180200084. And that's what slowed down his recovery.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 101493,
+    "TextENGNew": "``That makes sense.@k@vS12/01/180100261. If he'd been strapped for cash, he would've had no choice but to work.@k@vS12/01/180100262. Not having to struggle can actually make it harder to get back on your feet.``",
+    "significantChanges": true,
+    "changeReason": "Old ends with advice about keeping busy; new says \"Not having to struggle can actually make it harder to get back on your feet\" -- opposite framing of the causal relationship.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 101494,
+    "TextENGNew": "``The ordinary routine of waking up, going to school or work, coming home in the evening, eating dinner, and going to bed --@k@vS12/06/180600036. once that pattern breaks down, it's surprisingly hard to rebuild.``",
+    "significantChanges": true,
+    "changeReason": "Old abbreviates to a short summary; new fully translates the detailed daily routine description from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 101495,
+    "TextENGNew": "``I went through something similar after I left the academy -- I spent a while living without purpose, so I understand.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 101496,
+    "TextENGNew": "``...Shutting yourself in at home and wallowing alone is the worst thing you can do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 101497,
+    "TextENGNew": "``That's right -- exactly what Rika-chan said.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 101498,
+    "TextENGNew": "``So I had a frank talk with Dad.@k@vS12/02/180200087. About his responsibilities as head of the household, about standing on his own as a parent -- that sort of thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 101499,
+    "TextENGNew": "``Heh, Rena usually seems carefree, but when it really counts, she's got it together.@k@vS12/01/180100264. And she doesn't pull her punches, even with her own parents.``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 101500,
+    "TextENGNew": "``Ahaha, it wasn't that impressive.@k@vS12/02/180200089. I was pretty shocked at first too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 101501,
+    "TextENGNew": "``...Because I found out Dad was lavishing money on some woman I didn't know...@k@vS12/02/180200091. As his daughter, that was a real blow.``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 101502,
+    "TextENGNew": "``...And then what did you do, Rena...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 101503,
+    "TextENGNew": "``Well...@k@vS12/02/180200093. Stewing over it alone got me absolutely nowhere.@k@vS12/02/180200094. The more I thought about it by myself, the worse it got...``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 101504,
+    "TextENGNew": "``So I opened up to Mii-chan and asked for her advice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 101505,
+    "TextENGNew": "``All I did was listen and nod along.@k@vS12/03/180300113. Rena was the one who organized her own thoughts, decided she needed to talk to her father properly, and then went and did it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 101506,
+    "TextENGNew": "``No, that's important.@k@vS12/01/180100266. Talking to someone else really does help you think about your problems more calmly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 101507,
+    "TextENGNew": "``...Hmm.@k@vS12/06/180600039. Is that how it works...?@k@vS12/06/180600040. If something can be solved just by talking about it, then it's not much of a problem, is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 101508,
+    "TextENGNew": "``That's not true, Shii-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 101509,
+    "TextENGNew": "``Before I talked to Mii-chan, the only things going through my head were dark ideas -- like ambushing that woman.@k@vS12/02/180200097. I couldn't think of anything constructive at all.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"how to hurt that lady\"; new says \"ambushing that woman\" (闇討ち), which is more specific and violent.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 101510,
+    "TextENGNew": "``You have to start with talking it out.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"Talking it out with him was the important thing\" (specific to the father); new says \"You have to start with talking it out\" (general principle).",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 101511,
+    "TextENGNew": "``...And what happened after you talked it out with him...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 101512,
+    "TextENGNew": "``Well...@k@vS12/02/180200101. We figured out that Dad's aimlessness was all because of the money.@k@vS12/02/180200102. So I took control of the household finances.``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 101513,
+    "TextENGNew": "``Now Dad gets a monthly allowance from me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 101514,
+    "TextENGNew": "``Oh ho ho ho!@k@vS12/04/180400101. It sounds like the parent and child have switched roles in your house!``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 101515,
+    "TextENGNew": "When Satoko laughed, everyone else joined in.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 101516,
+    "TextENGNew": "I hesitated for just a moment, unsure whether it was okay to laugh, but seeing Rena laughing too, I joined in.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 101517,
+    "TextENGNew": "``In the end, having too much money with no obligations was what led Rena's father astray.``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 101518,
+    "TextENGNew": "``Once he regained a sense of money's value, he stopped going to that place and started feeling the need to work properly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 101519,
+    "TextENGNew": "``But the timing was really good.@k@vS12/02/180200105. Right when he was about to put a down payment on an apartment for that woman, I stepped in.``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 101520,
+    "TextENGNew": "``You talk about it with a smile, but when you actually listen to the details... it's a pretty serious story.@k@vS12/01/180100268. One wrong step and the whole family could have fallen apart...``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 101521,
+    "TextENGNew": "``That's true.@k@vS12/02/180200108. If I hadn't talked to Mii-chan back then -- if I'd just kept brooding until today -- I think by now...``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 101522,
+    "TextENGNew": "``...Yeah.@k@vS12/02/180200110. I might have been thinking about killing that woman.``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 101523,
+    "TextENGNew": "Everyone laughed, saying what a dangerous thing that was to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 101524,
+    "TextENGNew": "Rena laughed too.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 101525,
+    "TextENGNew": "But deep in her eyes, there was a trace of something serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 101526,
+    "TextENGNew": "...She probably wasn't joking at all. Back then, she had genuinely considered murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 101527,
+    "TextENGNew": "If your own father got ensnared by some strange woman who started draining the family's savings...",
+    "significantChanges": true,
+    "changeReason": "Old says \"She seduced Rena's father\" (third-person statement of fact); new says \"If your own father got ensnared\" (second-person hypothetical) -- completely different narrative framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 101528,
+    "TextENGNew": "...Knowing my own short temper, I'd probably think the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 101529,
+    "TextENGNew": "Thinking about it that way, Rena had done the right thing -- instead of doing something rash, she'd confided in a friend. That took real courage.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 101530,
+    "TextENGNew": "``That was really admirable.@k@vS12/01/180100270. Family problems aren't easy to talk about -- they're embarrassing to share.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 101531,
+    "TextENGNew": "``Ahahaha, you're right.@k@vS12/02/180200112. It took me a while to work up the courage to tell Mii-chan. But a dream I had one night finally pushed me over the edge.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 101532,
+    "TextENGNew": "``...A dream?``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 101533,
+    "TextENGNew": "``Yeah.@k@vS12/02/180200115. ...Back then, I'd lie in bed every night agonizing over it alone.@k@vS12/02/180200116. So I had bad dreams a lot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 101534,
+    "TextENGNew": "In my dream, I imagined what would happen if I just kept doing nothing -- kept wallowing in my misery.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 101535,
+    "TextENGNew": "...I didn't know if it was mere imagination, or a prophetic dream showing me the future months or years down the road.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 101536,
+    "TextENGNew": "``In the future my dream showed me, Dad had gotten even closer to that woman, and eventually he started bringing her into our home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 101537,
+    "TextENGNew": "Neither Dad nor I smoked, yet somehow an ashtray had appeared in the living room.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 101538,
+    "TextENGNew": "The futon in the guest room had become the permanent territory of someone who wasn't family.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 101539,
+    "TextENGNew": "In the bathroom, there was a toothbrush I would never choose, and a shampoo I would never buy.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 101540,
+    "TextENGNew": "...Such a deeply unwelcome sight.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 101541,
+    "TextENGNew": "``That sounds... truly awful... no, truly painful...``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 101542,
+    "TextENGNew": "...I'd never heard it from Satoko herself, but I'd been told she lost her parents too.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 101543,
+    "TextENGNew": "She'd been placed in the care of an uncle and aunt she didn't get along with, and had gone through a great deal of hardship.@k ...I was pretty sure someone had told me that.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 101544,
+    "TextENGNew": "With that in mind, it seemed like Satoko understood Rena's painful situation very well.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 101545,
+    "TextENGNew": "``...Yes.@k@vS12/02/180200119. It was a truly painful situation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 101546,
+    "TextENGNew": "``Gradually, I lost my place at home -- I was being cornered little by little.@k@vS12/02/180200121. And then, over some trivial trigger, I... snapped.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"Eventually, I felt like I didn't belong\"; new says \"I was being cornered\" and adds \"And then... I snapped\" -- more explicit about the violent breaking point.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 101547,
+    "TextENGNew": "``That's an awfully vivid dream...@k@vS12/06/180600042. What happened next?``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 101548,
+    "TextENGNew": "``And then I was a murderer.@k@vS12/02/180200123. ...I was terrified that someone would find out, cowering and afraid.``",
+    "significantChanges": true,
+    "changeReason": "Old includes \"I spent all day at the place I buried her\"; new omits the burial vigil detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 101549,
+    "TextENGNew": "``I felt like if I left that spot, someone would discover the body, so I just stayed there... forever and ever.``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 101550,
+    "TextENGNew": "``...What a terrible future.@k@vS12/01/180100272. I'm glad it was only a dream.``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 101551,
+    "TextENGNew": "``I wonder... was it really just a dream?``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 101552,
+    "TextENGNew": "``...I think... that was the future that would have come true if I'd just done nothing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 101553,
+    "TextENGNew": "``So when I woke up the next morning, I was so scared I couldn't stop shaking.@k@vS12/02/180200129. I even imagined I could smell perfume in our house that didn't belong to me or Dad...``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 101554,
+    "TextENGNew": "``And I kept getting more and more afraid, wondering whether that dream would come true next year, next month... or maybe even tomorrow.``",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 101555,
+    "TextENGNew": "``...Once I'd been pushed that far, I had no hesitation about opening up to Mii-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 101556,
+    "TextENGNew": "``I remember Rena coming to me with this incredibly solemn expression, saying she had a secret she needed to discuss.@k@vS12/03/180300118. I'll be honest -- I thought she was going to tell me about a pregnancy scare or something.``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 101557,
+    "TextENGNew": "``Well, sure, we can laugh about it now. But at the time, it really wasn't a laughing matter.``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 101558,
+    "TextENGNew": "``Mii-chan was so dependable.@k@vS12/02/180200133. She listened to everything I had to say calmly, and helped me find a realistic way forward.``",
+    "significantChanges": true,
+    "changeReason": "Old includes \"we decided that I needed to talk with him face-to-face\"; new omits this concluding resolution.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 101559,
+    "TextENGNew": "``...Perhaps... it wasn't just a dream.``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 101560,
+    "TextENGNew": "``Ahaha, you're right.@k@vS12/02/180200136. Maybe it was more than just a dream.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 101561,
+    "TextENGNew": "``Without that dream, you might never have opened up to Mion.@k@vS12/01/180100274. It may have been the most important dream of your life.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 101562,
+    "TextENGNew": "``...A dream, huh.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 101563,
+    "TextENGNew": "``You've had dreams too, Shion?@k@vS12/03/180300121. Really?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 101564,
+    "TextENGNew": "Shion said something under her breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 101565,
+    "TextENGNew": "Only Mion caught what she said.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 101566,
+    "TextENGNew": "I couldn't hear the words, but whatever they were, the teasing vanished from Mion's face -- so it must have been something serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 101567,
+    "TextENGNew": "...Incidentally, as a side note.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 101568,
+    "TextENGNew": "Shion normally attended school in Okinomiya.@k And yet, she'd been showing up at the Hinamizawa school quite often lately.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 101569,
+    "TextENGNew": "I had no idea what made her bother trekking all the way out to this remote mountain school,@k ...but she seemed to enjoy fussing over Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 101570,
+    "TextENGNew": "What connection Shion and Satoko shared was a complete mystery to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 101571,
+    "TextENGNew": "...Wait -- wasn't Shion not particularly close to Satoko before...?",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 101572,
+    "TextENGNew": "...Huh?@k Did I imagine that?",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 101573,
+    "TextENGNew": "Hadn't Shion and Satoko always been on good terms?@k ...???",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 101574,
+    "TextENGNew": "``That's why I learned something important.@k@vS12/02/180200138. Talking to someone is so, so important.``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 101575,
+    "TextENGNew": "This time, we'll play normally. We'll laugh together normally. We'll fall in love normally.@k We'll never doubt each other.@k We'll always believe in each other.",
+    "significantChanges": true,
+    "changeReason": "Old ends with \"I want everyone to think that they can talk to me\"; new changes to \"Because having someone who'll listen is what saved me\" -- shifts from request to personal testimony.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 101576,
+    "TextENGNew": "``Friends aren't just playmates.@k@vS12/02/180200140. They're the people you can open up to about what truly matters... ahaha, saying it like this makes it sound so obvious!``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 101577,
+    "TextENGNew": "``You're right.@k@vS12/01/180100276. ...If that's the case, then you didn't just solve a family problem -- you also learned how important your friends really are.``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 101578,
+    "TextENGNew": "``Yeah.@k@vS12/02/180200142. So if anyone is ever struggling, I want to be there for them. I want to listen and I want to help.@k@vS12/02/180200143. Because having someone who'll listen is what saved me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 101579,
+    "TextENGNew": "``...Mii.@k@vS12/05/180500226. Rena is saying something very, very important.``",
+    "significantChanges": true,
+    "changeReason": "Rika's catchphrase changed from \"Meep\" to \"Mii\" (closer to the Japanese \"みー\").",
+    "changeScore": 1
+  },
+  {
+    "index": 117,
+    "MessageID": 101580,
+    "TextENGNew": "Rika-chan was right.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 101581,
+    "TextENGNew": "...So none of us joked or teased. We just nodded in silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 101582,
+    "TextENGNew": "Just then, we heard the sound of the meeting hall entrance being locked with a loud rattle, and everyone jumped.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 101583,
+    "TextENGNew": "'Locked' wasn't quite right, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 101584,
+    "TextENGNew": "Someone coming from outside, not realizing the door was already unlocked, had tried to unlock it -- and ended up locking it instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 101585,
+    "TextENGNew": "So when they tried to open the door -- which they thought was now unlocked -- it wouldn't budge, and they rattled it loudly.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 101586,
+    "TextENGNew": "``Oh my?@k@vS12/00/womA18002. Someone's already inside?``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 101587,
+    "TextENGNew": "An older woman's voice, the presence of several people, and the sound of knocking.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 101588,
+    "TextENGNew": "``Oh -- sorry!@k@vS12/03/180300123. I'll open it right up!``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 101589,
+    "TextENGNew": "Mion called out loudly enough for them to hear and went to unlock the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 101590,
+    "TextENGNew": "From the entrance, I could hear Mion exchanging greetings with some ladies from the neighborhood association.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 101591,
+    "TextENGNew": "``Hey everyone, can you lend me a hand?``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 101592,
+    "TextENGNew": "``What's up? What happened?``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 101593,
+    "TextENGNew": "The reason Mion called us over was immediately apparent.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 101594,
+    "TextENGNew": "The committee members had brought another donation for the auction.@k It was a rather old china cabinet.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 101595,
+    "TextENGNew": "We all pitched in to carry it inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 101596,
+    "TextENGNew": "Stepping out through the entrance to help, I noticed the sky was already turning crimson, and at some point the chorus of cicadas had shifted from the daytime kind to the evening higurashi.",
+    "significantChanges": true,
+    "changeReason": "Old omits the sky turning crimson (朱色); new adds \"the sky was already turning crimson\", restoring a visual detail from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 134,
+    "MessageID": 101597,
+    "TextENGNew": "``Oh, Maebara-kun, I heard you agreed to host the auction!@k@vS12/00/womA18004. Everyone's been saying there's no one better for the job!``",
+    "significantChanges": true,
+    "changeReason": "Old says \"everyone thinks you're the best man for that job\"; new drops the final line \"We're all looking forward to seeing your showmanship!\"",
+    "changeScore": 3
+  },
+  {
+    "index": 135,
+    "MessageID": 101598,
+    "TextENGNew": "``Ah, ahaha...!@k@vS12/01/180100279. I'll do my best, so, uh, please don't set your expectations too high.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 101599,
+    "TextENGNew": "``Don't listen to him!``",
+    "significantChanges": true,
+    "changeReason": "Both old and new are interpretive renderings of the playful exclamation そんなこと言っちゃって; new's 'Don't listen to him!' is slightly more natural but the difference is modest.",
+    "changeScore": 3
+  },
+  {
+    "index": 137,
+    "MessageID": 101600,
+    "TextENGNew": "``He came here today specifically to look over the merchandise and start working on his sales pitches.@k@vS12/03/180300127. You can look forward to a great show on the day!``",
+    "significantChanges": true,
+    "changeReason": "Old implies the lady continues speaking; new clarifies it's Mion speaking about Keiichi in third person (\"He came here today\").",
+    "changeScore": 3
+  },
+  {
+    "index": 138,
+    "MessageID": 101601,
+    "TextENGNew": "``Well then, I'll have to make sure I'm there to see it!``",
+    "significantChanges": true,
+    "changeReason": "Old says the speaker will do their best; new says they'll make sure to come watch -- completely different meaning (performing vs attending).",
+    "changeScore": 4
+  },
+  {
+    "index": 139,
+    "MessageID": 101602,
+    "TextENGNew": "The other ladies were all smiles, saying they were looking forward to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 101603,
+    "TextENGNew": "...I hadn't been living here all that long since I moved.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 101604,
+    "TextENGNew": "And yet, they'd recommended me for an important role at the festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 101605,
+    "TextENGNew": "That meant they'd accepted me -- recognized me as one of their own, even in this short time.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 101606,
+    "TextENGNew": "I was someone who'd once caused such disgrace in my old neighborhood that I couldn't walk the streets in daylight.@k ...For someone like me to be welcomed by a community like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 101607,
+    "TextENGNew": "I was genuinely happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 101608,
+    "TextENGNew": "So not just for my friends, but for these villagers I was still learning the faces and names of --@k I was determined to put on a show they'd enjoy, for recommending me and believing in me.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 101609,
+    "TextENGNew": "``What are you going to do, Mion-chan?@k@vS12/00/womA18008. Are you staying?``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 101610,
+    "TextENGNew": "``No, we're heading home now too.@k@vS12/03/180300129. Right, Kei-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 101611,
+    "TextENGNew": "``Yeah.@k@vS12/01/180100281. Now that I've got a feel for the goods, the rest is improvisation.@k@vS12/01/180100282. I'll just wing it on the day!``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 101612,
+    "TextENGNew": "``I'm not really interested in Watanagashi itself, but I do want to see Kei-chan's performance.@k@vS12/06/180600045. Maybe I'll come.``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 101613,
+    "TextENGNew": "``You absolutely must come, Shion-san!@k@vS12/04/180400104. It's so much more fun when everyone's together!``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 101614,
+    "TextENGNew": "``I object!!@k@vS12/03/180300131. Shion lives in Okinomiya -- she should go to the Okinomiya festival!``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 101615,
+    "TextENGNew": "``Ahahaha, I vote for Shii-chan coming.@k@vS12/02/180200146. Mii-chan gets so much more entertaining when Shii-chan's around!``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 101616,
+    "TextENGNew": "``...By majority vote, Shii's participation is hereby confirmed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 101617,
+    "TextENGNew": "``There you have it, Sis.``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 101618,
+    "TextENGNew": "``You might end up in my shadow on the day, but let's get along, shall we?``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 101619,
+    "TextENGNew": "``Uuuugh!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 101620,
+    "TextENGNew": "``I hate you Shion, I hate you Shion, I hate you Shioooon!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 101621,
+    "TextENGNew": "Whatever Mion says, they really are close sisters.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 101622,
+    "TextENGNew": "The more Mion got worked up, the more obvious their closeness became -- by at least thirty percent.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 101623,
+    "TextENGNew": "``All right, let's head out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 101624,
+    "TextENGNew": "``Does everyone have everything?@k@vS12/02/180200149. I'm turning off the lights.``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 101625,
+    "TextENGNew": "We checked for anything left behind and made sure there was nothing that could start a fire, then all headed outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 101626,
+    "TextENGNew": "I looked around the shrine grounds while Mion locked up the meeting hall.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 101627,
+    "TextENGNew": "These grounds, which felt almost too spacious for Hinamizawa, would soon be transformed into the site of the village's biggest celebration of the year.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 101628,
+    "TextENGNew": "``This whole big space is going to be one massive festival, huh?@k@vS12/01/180100284. I really can't picture it at all.@k@vS12/01/180100285. I can't wait.``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 101629,
+    "TextENGNew": "``There'll be stalls everywhere and huge crowds.@k@vS12/02/180200151. I bet it'll blow your mind, Keiichi-kun!``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 101630,
+    "TextENGNew": "``I wish they'd stop being stingy about doing it once a year and hold something every season instead.``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 101631,
+    "TextENGNew": "``Come to think of it, there is someone who visits every season.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 101632,
+    "TextENGNew": "``Huh?@k@vS12/06/180600049. Who are you talking about?``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 101633,
+    "TextENGNew": "``Oh, I know who you mean.@k@vS12/01/180100287. That photographer-looking guy I met the other day, right?@k@vS12/01/180100288. What was his name...``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 101634,
+    "TextENGNew": "``...You've met Tomitake, Keiichi?``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 101635,
+    "TextENGNew": "``Right, right -- Tomitake-san!@k@vS12/01/180100290. I ran into him on my way home the other day.@k@vS12/01/180100291. Mion and Rena told me about him, that's all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 101636,
+    "TextENGNew": "``He's got this surprisingly buff build, but he's really modest and unassuming.@k@vS12/01/180100293. He comes to Hinamizawa every season -- an enthusiastic travel photographer, supposedly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 101637,
+    "TextENGNew": "``Self-proclaimed, I should note.@k@vS12/04/180400107. Oh ho ho ho!``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 101638,
+    "TextENGNew": "``When he shows up, it always makes me feel like Watanagashi is right around the corner.@k@vS12/03/180300136. And once Watanagashi's over, summer really starts in earnest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 101639,
+    "TextENGNew": "``That's true.@k@vS12/02/180200153. But this year the heat came early -- the cicadas are already singing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 101640,
+    "TextENGNew": "``They're saying on TV that the weather is unusual this year.@k@vS12/04/180400109. Something about global warming or whatever.``",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 101641,
+    "TextENGNew": "``Heh, a scorching summer? Bring it on!@k@vS12/01/180100295. A cool summer just doesn't feel right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 101642,
+    "TextENGNew": "``I agree.@k@vS12/06/180600051. The weather matching the season just puts you in a better mood.@k@vS12/06/180600052. It'll be a great summer.``",
+    "significantChanges": true,
+    "changeReason": "Old adds \"It'll be a great summer\" not present in Japanese; new more closely renders the Japanese about weather matching seasons.",
+    "changeScore": 3
+  },
+  {
+    "index": 180,
+    "MessageID": 101643,
+    "TextENGNew": "``Let's be as fired up as the summer heat this year!@k@vS12/03/180300138. For Watanagashi -- let me see, how many are we?@k@vS12/03/180300139. The six of us, it's decided!``",
+    "significantChanges": true,
+    "changeReason": "Old includes \"battle of The Six Evils\" (六凶爆闘); new omits this dramatic group title and simplifies.",
+    "changeScore": 3
+  },
+  {
+    "index": 181,
+    "MessageID": 101644,
+    "TextENGNew": "``...This year's Watanagashi will be wonderful too, with all of us together.``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 101645,
+    "TextENGNew": "``Ahahaha, yeah.@k@vS12/02/180200155. I hope we have lots of fun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 101646,
+    "TextENGNew": "``Hey Rena, don't you know?@k@vS12/01/180100297. When Rika-chan says something, it's not just wishful thinking.@k@vS12/01/180100298. She's basically prophesying.``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 101647,
+    "TextENGNew": "``So when Rika-chan says the festival will be fun, it absolutely will be.@k@vS12/01/180100300. Because this is fate!@k@vS12/01/180100301. Ha ha ha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 101648,
+    "TextENGNew": "``Yes.@k@vS12/05/180500231. It's our fate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 101649,
+    "TextENGNew": "Rika-chan smiled her signature 'nipah~.'",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 101650,
+    "TextENGNew": "It was a truly heartfelt smile -- one that made everyone believe that the day of Watanagashi would be wonderful.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 101651,
+    "TextENGNew": "``The auction won't start right away, will it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 101652,
+    "TextENGNew": "``Nah.@k@vS12/03/180300141. It's scheduled right before the ritual dance, so if we start hanging out in the afternoon, there'll be plenty of time to play together first.``",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 101653,
+    "TextENGNew": "``That's good.``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 101654,
+    "TextENGNew": "``It's your first festival here, after all. It'd be a shame if you couldn't enjoy it with us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 101655,
+    "TextENGNew": "``After Kei-chan's auction, we get to watch Rika-chama's ritual dance?@k@vS12/06/180600054. Not bad at all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 101656,
+    "TextENGNew": "``...That means I won't get to watch Keiichi's performance to the end... I'll have to leave partway to prepare for the dance.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"shrine maiden outfit\"; new uses \"miko outfit\" -- different localization choice for the Japanese term.",
+    "changeScore": 3
+  },
+  {
+    "index": 194,
+    "MessageID": 101657,
+    "TextENGNew": "``Oh, Rika-chan, you're performing too?@k@vS12/01/180100304. What's a ritual dance?@k@vS12/01/180100305. I mean, is it one of those shrine maiden dances?``",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 101658,
+    "TextENGNew": "``As the name Watanagashi suggests, there's a dance and ceremony to sanctify the cotton from futons.@k@vS12/02/180200157. Rika-chan works so hard at it -- you have to watch, Keiichi-kun!``",
+    "significantChanges": true,
+    "changeReason": "Old says \"paying respect to the cotton\"; new says \"sanctify the cotton from futons\" -- different ritual characterization (respect vs sanctification).",
+    "changeScore": 3
+  },
+  {
+    "index": 196,
+    "MessageID": 101659,
+    "TextENGNew": "``And, and, and!@k@vS12/02/180200159. When Rika-chan dances in her miko outfit, wobbling under the weight of the ritual implement, it's soooo adorable!``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 101660,
+    "TextENGNew": "``I'm taking her home with meee!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 101661,
+    "TextENGNew": "Come to think of it, I'd never seen a real shrine maiden before!",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 101662,
+    "TextENGNew": "If it earned Rena's 'take her home' declaration, it had to be extraordinarily cute.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 101663,
+    "TextENGNew": "I was getting more and more excited about Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 101664,
+    "TextENGNew": "Me, Rena, Mion, Shion, Satoko, and Rika-chan -- six of us.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 101665,
+    "TextENGNew": "We'd definitely have the time of our lives on the night of Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 101666,
+    "TextENGNew": "How many days left?",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 101667,
+    "TextENGNew": "In any case, I'd never looked forward to a festival this much in my entire life...",
+    "significantChanges": false
+  }
+]

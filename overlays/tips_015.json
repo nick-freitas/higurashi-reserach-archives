@@ -1,0 +1,173 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Directive from the Chief of Police",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Notice From the Police Chief\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12914,
+    "TextENGNew": "July 1, 1982",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12915,
+    "TextENGNew": "General Affairs Division, Directive No. 1-12",
+    "significantChanges": true,
+    "changeReason": "Old translation misinterprets the document reference number as an addressee ('To departments 1 through 12'); new translation correctly identifies it as a directive number ('General Affairs Division, Directive No. 1-12').",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 12916,
+    "TextENGNew": "Prefectural Police Headquarters Chief",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12917,
+    "TextENGNew": "July 1, 1982",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12918,
+    "TextENGNew": "To all police station chiefs and facility managers:",
+    "significantChanges": true,
+    "changeReason": "Old translation uses 'chief constable' (a British rank); new correctly translates 各警察署長 as 'all police station chiefs,' which refers to the heads of individual police stations.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 12919,
+    "TextENGNew": "Regarding incidents in Hinamizawa Village (Directive)",
+    "significantChanges": true,
+    "changeReason": "'Notice' changed to 'Directive' for 通達, which more accurately conveys the mandatory, top-down nature of the communication.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 12920,
+    "TextENGNew": "As certain media outlets have already reported on the recent incidents in Hinamizawa Village, Shishibone City,",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12921,
+    "TextENGNew": "public curiosity has been drawn to the area, causing serious repercussions for the daily lives of local residents. This has become a matter of grave concern.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'global attention,' which overstates the Japanese 世間の好奇の目 (public curiosity); new translation correctly renders this as 'public curiosity.'",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 12922,
+    "TextENGNew": "In order to protect the livelihood and property of the residents, the following directives are hereby issued.",
+    "significantChanges": true,
+    "changeReason": "Old translation mistranslates 財産 as 'prosperity' when it means 'property'; new translation correctly uses 'property.'",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 12923,
+    "TextENGNew": "(1) Designation as Classified Investigations",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 12924,
+    "TextENGNew": "Okinomiya Station, 1982, Case No. 168:",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12925,
+    "TextENGNew": "　Hinamizawa Village housewife murder case (Occurred June 23rd)",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12926,
+    "TextENGNew": "Okinomiya Station, 1982, Case No. 171:",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12927,
+    "TextENGNew": "　Hinamizawa Village student disappearance case (Occurred June 24th)",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12928,
+    "TextENGNew": "(2) Non-Disclosure of Information",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12929,
+    "TextENGNew": "Okinomiya Station, 1979, Case No. 91:",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 12930,
+    "TextENGNew": "　Hinamizawa Village construction site foreman murder case (Occurred June 22nd)",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12931,
+    "TextENGNew": "Shirakawa Station, 1980, Case No. 103:",
+    "significantChanges": true,
+    "changeReason": "Old translation truncates '白川署' to 'Shira station'; new translation correctly renders the full name as 'Shirakawa Station.'",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 12932,
+    "TextENGNew": "　Shirakawa Natural Park falling incident (Occurred June 23rd)",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12933,
+    "TextENGNew": "Okinomiya Station, 1981, Case No. 118:",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12934,
+    "TextENGNew": "　Hinamizawa Village Shinto priest’s wife disappearance case (Occurred June 23rd)",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12935,
+    "TextENGNew": "(3) Request for Media Restraint to All Relevant Organizations",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12936,
+    "TextENGNew": "See attached reference materials 1, 2, and 3.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12937,
+    "TextENGNew": "See attached sheet for the responsible police station.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 12938,
+    "TextENGNew": "Police Administration Division: Hoshina / Nagaoka",
+    "significantChanges": true,
+    "changeReason": "Old translates 警務部 as generic 'Police Department'; new correctly translates it as 'Police Administration Division,' a specific organizational unit.",
+    "changeScore": 2
+  }
+]

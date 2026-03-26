@@ -1,0 +1,93 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Memo from Ooishi's Desk",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Ooishi's Post Memo\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14068,
+    "TextENGNew": "To Ooishi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14069,
+    "TextENGNew": "Chief Shigeharu from the Fourth Investigative Division called for you.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14070,
+    "TextENGNew": "It appears that the brutally murdered body found in the Oujikawa River was connected to the S-group after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14071,
+    "TextENGNew": "We're still confirming the details, but it seems the deceased transferred S-group funds into dozens of shell accounts she had set up herself, filling them to the limit — around a hundred million yen in total.",
+    "significantChanges": true,
+    "changeReason": "The new translation uses \"she\" for the deceased, specifying female gender, whereas the original left gender unspecified. The Japanese ホトケ (police jargon for a dead person) is also gender-neutral, but the new translation makes an interpretive choice that affects identification of the victim.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 14072,
+    "TextENGNew": "It appears that three or four men with former S-group connections were involved in this.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14073,
+    "TextENGNew": "They withdrew tens of millions of yen and have already vanished.",
+    "significantChanges": true,
+    "changeReason": "The original says \"millions of yen\" while the new says \"tens of millions of yen.\" The Japanese 数千万 means several tens of millions (i.e., tens of millions), so the new translation is more accurate in conveying a significantly larger sum.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 14074,
+    "TextENGNew": "There is virtually no doubt that the deceased was tortured to extract information on this matter, and was then brutally killed as a warning to others.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14075,
+    "TextENGNew": "It seems they've put some highly capable people on the trail of those who went into hiding.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14076,
+    "TextENGNew": "They're also circulating notices to affiliated organized crime groups warning them not to shelter the fugitives.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14077,
+    "TextENGNew": "There is still no confirmation that Teppei Houjou was one of their number.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14078,
+    "TextENGNew": "According to Chief Shigeharu, Teppei appears to have been kept entirely in the dark.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14079,
+    "TextENGNew": "He was her kept man, yet she apparently didn't trust him enough to tell him anything.",
+    "significantChanges": true,
+    "changeReason": "Old translates ヒモ as 'pimp' but it means 'kept man' (a man financially supported by a woman) -- opposite relationship dynamic.",
+    "changeScore": 4
+  },
+  {
+    "index": 13,
+    "MessageID": 14080,
+    "TextENGNew": "Teppei Houjou has vacated his apartment in Okinomiya and appears to have returned to his old home in Hinamizawa.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8453,
+    "TextENGNew": "This piece was born from the scattered fragments that spilled out of Tsumihoroboshi, gathered and joined together.",
+    "significantChanges": true,
+    "changeReason": "Old: 'made by combining the shattered debris of Tsumihoroboshi' vs New: 'born from the scattered fragments that spilled out of Tsumihoroboshi, gathered and joined together.' TextJPN 'こぼれ出たカケラの破片が合わさってできたもの' specifies fragments that 'spilled out' (こぼれ出た), a detail missing from the old.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 8454,
+    "TextENGNew": "Four young people of dubious origins... and a middle-aged woman even harder to account for.",
+    "significantChanges": true,
+    "changeReason": "Old: 'four young people of questionable character' vs New: 'four young people of dubious origins.' TextJPN '怪しげな素姓を匂わせる' means 'hinting at suspicious backgrounds/origins' — 'character' (personality) vs 'origins' (background) is a meaningful difference.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 8455,
+    "TextENGNew": "Together they spent a single night in an old building left standing in the corner of an abandoned village — a midsummer night's dream, in the year 2006.",
+    "significantChanges": true,
+    "changeReason": "Old: 'This is a tale of a midsummer night's dream in 2006... where they spent the night in an old abandoned building in the corner of a ghost town' vs New restructures the sentence and says 'abandoned village' vs 'ghost town' (廃村 = abandoned village). Also the old frontloads the 'midsummer night's dream' framing while new places it at the end, matching the Japanese structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 8456,
+    "TextENGNew": "He was troubled by what lay ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 8457,
+    "TextENGNew": "She was tormented by what lay behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8458,
+    "TextENGNew": "He had spent his life running.",
+    "significantChanges": true,
+    "changeReason": "Old: 'He was running away' (continuous past) vs New: 'He had spent his life running' — TextJPN 'ずっと逃げ続けていた' emphasizes the ongoing/lifelong nature ('ずっと...続けていた'), which 'spent his life running' captures better than the simple 'was running away'.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 8459,
+    "TextENGNew": "She had spent her life waiting...",
+    "significantChanges": true,
+    "changeReason": "Old: 'She had been always waiting...' vs New: 'She had spent her life waiting...' — same reasoning: 'ずっと待ち続けていた' emphasizes the lifelong/continuous nature. Also the old has awkward grammar ('had been always').",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 8460,
+    "TextENGNew": "...And there among them, a bright and lively female reporter.",
+    "significantChanges": true,
+    "changeReason": "Old: 'a cheerful female reporter was there too' vs New: 'there among them, a bright and lively female reporter.' TextJPN '快活な' means 'lively/cheerful' and '居合わせた' means 'happened to be present' — the new better conveys her presence among the group rather than just being 'there too'.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 8461,
+    "TextENGNew": "I thought there was something familiar about her face... Hehe. Of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8462,
+    "TextENGNew": "She was his daughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 8463,
+    "TextENGNew": "Now that I think of it, those eyes held the same strong will she inherited from him — and they were very beautiful.",
+    "significantChanges": true,
+    "changeReason": "Old: 'it seems he passed his strong will on to her... in those beautiful eyes' vs New: 'those eyes held the same strong will she inherited from him — and they were very beautiful.' The old focuses on 'passing on' as if the will transferred, while the new describes the eyes as holding inherited will. TextJPN '彼譲りの強い意志を秘めた目' means 'eyes concealing a strong will inherited from him' — the new is structurally closer.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 8464,
+    "TextENGNew": "She had come to Hinamizawa for a certain important reason of her own.",
+    "significantChanges": true,
+    "changeReason": "Old: 'she came to Hinamizawa for an important purpose' vs New: 'She had come to Hinamizawa for a certain important reason of her own.' TextJPN 'とある重要な目的で' means 'for a certain important purpose' — 'とある' (a certain) adds specificity/mystery that the old omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 8465,
+    "TextENGNew": "And there, she discovered something — something that could unravel the truth.",
+    "significantChanges": true,
+    "changeReason": "Old: 'she discovered <i>something</i> that can unravel the truth' uses HTML italics for emphasis, while new: 'she discovered something — something that could unravel the truth' uses repetition with em dash. The old uses 'can' (present ability) vs new 'could' (past/conditional), and the HTML formatting difference matters for rendering.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 8466,
+    "TextENGNew": "And the person she brought that knowledge to was...",
+    "significantChanges": false
+  }
+]

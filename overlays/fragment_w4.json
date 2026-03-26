@@ -1,0 +1,158 @@
+[
+  {
+    "index": 1,
+    "MessageID": 10975,
+    "TextENGNew": "``-- Oh, the car carrying suspect Shigeru Ounuma has just emerged from the underground parking garage of the Ministry of Health and Welfare!``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 10976,
+    "TextENGNew": "...The instant the on-site reporter said that, cameras lying in wait along the car's path fired their flashes in unison, capturing the interior of the vehicle.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 10977,
+    "TextENGNew": "The Deputy Director of the Ministry of Health and Welfare's Pharmaceutical Affairs Bureau... Shigeru Ounuma sat in the center of the back seat, flanked by detectives on both sides.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 10978,
+    "TextENGNew": "``Right now, the press corps that was waiting here is aiming all their cameras at the back seat simultaneously.@k@vS20/00/VTK2_repo2003. The sheer number is staggering...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 10979,
+    "TextENGNew": "``If I'm not careful, I might be swept away myself by this surging tide of people.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 10980,
+    "TextENGNew": "...And a short distance from the press corps, a group could be seen hoisting banners and placards.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'beyond the car' but the Japanese refers to distance from the press corps (その一段), which the new translation correctly captures.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 10981,
+    "TextENGNew": "Scrawled across them in rough lettering were various epithets -- 'Murderer,' 'Corrupt Bureaucrat' -- and the crowd hurled shouts of fury at the car as it crept slowly past.",
+    "significantChanges": true,
+    "changeReason": "Old translation incorrectly has the mob moving slowly toward the car; the Japanese describes the car moving slowly (ゆっくりと進む車) while the crowd shouts at it.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 10982,
+    "TextENGNew": "``Murderer!@k@vS20/00/VTK2_yajiA2002. Give me back my child!!``",
+    "significantChanges": true,
+    "changeReason": "Old translation specifies 'daughter' but the Japanese うちの子 is gender-neutral ('my child'); new translation preserves this ambiguity.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 10983,
+    "TextENGNew": "``You're not human -- you're a demon!@k@vS20/00/VTK2_yajiB2002. How can you sit there with a straight face after trampling on the lives of all those patients?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 10984,
+    "TextENGNew": "``Was money really that important to you?!@k@vS20/00/VTK2_yajiC2002. You were already being paid with our tax money! Have you no shame!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 10985,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 10986,
+    "TextENGNew": "``...The group gathered over there consists of members of the victims' association.@k@vS20/00/VTK2_repo2006. Family members of patients, acquaintances, and hospital staff... the crowd appears to be of considerable size.``",
+    "significantChanges": true,
+    "changeReason": "Old translation renders 被害者の会 as 'aggrieved parties' rather than 'victims' association,' missing that it refers to a specific organized group.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 10987,
+    "TextENGNew": "``They are all directing a torrent of abuse at the car carrying suspect Ounuma.@k@|@y@vS20/00/VTK2_repo2008. ...Oh, someone just threw a stone!``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 10988,
+    "TextENGNew": "``Damn you... damn you!!@k@|@y@vS20/00/VTK2_yajiA2004. Because of you, my daughter... my daughter...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 10989,
+    "TextENGNew": "...!",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 10990,
+    "TextENGNew": "``The man who threw the stone has been restrained by officers on the scene.@k@vS20/00/VTK2_repo2010. But his rage is something all of us can understand.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 10991,
+    "TextENGNew": "``After all, the number of patients whose conditions worsened due to the side effects of Placil currently stands at over five hundred confirmed cases alone...``",
+    "significantChanges": true,
+    "changeReason": "Old translation adds 'still rising' which isn't in the Japanese; new translation more accurately conveys 現状確認できるだけでも as 'confirmed cases alone.'",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 10992,
+    "TextENGNew": "``In the field of psychiatric treatment, where the patient base is comparatively small, experts have noted that this figure is abnormally high.@k@vS20/00/VTK2_repo2013. Furthermore, several cases have now been confirmed in which patients died as a result.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 10993,
+    "TextENGNew": "``...Yoshimura-san at the scene.@k@vS20/00/VTK2_Tvann2002. Can you tell us what the suspect Ounuma looked like as he was being transported?``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 10994,
+    "TextENGNew": "``Yes... the car's interior was quite dark, and moreover, suspect Ounuma had his jacket pulled completely over his head, so his expression could not be seen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 10995,
+    "TextENGNew": "``However, according to those close to him, even before the police arrived at his workplace, he had a composed demeanor -- as though he had already made his peace with what was coming.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'arrived on the scene' but the Japanese specifies 職場 (workplace); new correctly translates this as 'arrived at his workplace.'",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 10996,
+    "TextENGNew": "``In a previous interview, I believe the suspect asserted his innocence, didn't he?@k@vS20/00/VTK2_Tvann2004. Has there been any change in that regard?``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 10997,
+    "TextENGNew": "``Unfortunately, that point remains unclear at this time, so we will look to report further as we conduct additional interviews with those involved.@k@vS20/00/VTK2_repo2017. That's all from the scene.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 10998,
+    "TextENGNew": "``This is all lies!!``",
+    "significantChanges": false
+  }
+]

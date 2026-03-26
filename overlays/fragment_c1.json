@@ -1,0 +1,696 @@
+[
+  {
+    "index": 1,
+    "MessageID": 4714,
+    "TextENGNew": "\"Furude-san, sorry to keep you waiting. We just finished the last examination. She'll be back shortly.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'thank you for waiting' to 'sorry to keep you waiting' and 'test' to 'examination' — お待たせしました is closer to 'sorry to keep you waiting'.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 4715,
+    "TextENGNew": "\"I hope my daughter can be of some use to the village...\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'I hope my daughter can be of some use to the village' adds 'my daughter' and 'to the village' (娘が村のために) which old omitted entirely, making the old version vague.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 4716,
+    "TextENGNew": "\"Not at all! Rika-san's cooperation helps the entire village. Thanks to her, we're finally starting to see a path toward treatment.\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures Irie's response and adds 'we're finally starting to see a path toward treatment' vs old's 'I think we'll be able to come up with a treatment soon' — different degree of certainty.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 4717,
+    "TextENGNew": "\"We're still investigating the mechanism, but it's becoming clear just how vital Rika-san's presence is to the infected villagers.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'vital Rika-san's presence is to the infected villagers' (感染者) — specifying 'infected' which old omitted as just 'villagers'. Also changes 'structure' to 'mechanism' for 仕組み.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 4718,
+    "TextENGNew": "\"Carriers whose level has advanced cannot easily reduce it on their own. However, we've discovered that approaching the queen carrier causes a certain substance to be produced in the brain.\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures medical explanation and changes 'more serious conditions' to 'carriers whose level has advanced' (レベルの進んでしまった), adding technical precision.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 4719,
+    "TextENGNew": "\"This substance has a sedative effect and also appears to have the power to suppress and reverse advanced symptoms. If we can synthesize it, it would become a decisive weapon in treatment.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'suppress and reverse advanced symptoms' vs old's 'bring their symptoms down' — adds 'reverse' (回復させる) which old omitted. Also changes 'produce' to 'synthesize' for 処方できる.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 4720,
+    "TextENGNew": "\"Is that so... Rika has that sort of power...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 4721,
+    "TextENGNew": "\"Hee hee. Surely that doesn't surprise you? Has it not been passed down for generations that the shrine maiden of the Furude family possesses a divine power to pacify troubled hearts and demons?\"",
+    "significantChanges": true,
+    "changeReason": "New translation removes voice tags and restructures: 'Has it not been passed down for generations that the shrine maiden of the Furude family possesses a divine power to pacify troubled hearts and demons?' vs old — adds 'for generations' (代々) detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 4722,
+    "TextENGNew": "\"Even before we ever uncovered it, the village's centuries of history already knew.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 4723,
+    "TextENGNew": "\"Indeed. The wisdom of the ancients puts modern medicine to shame sometimes.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'The wisdom of the ancients puts modern medicine to shame sometimes' vs 'I'm impressed with how wise people were back then' — adds contrast with modern medicine (現代医学) from Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 4724,
+    "TextENGNew": "\"...Mii. The tests are done.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Mii' vs 'Meep' — standard romanization of みー.",
+    "changeScore": 1
+  },
+  {
+    "index": 12,
+    "MessageID": 4725,
+    "TextENGNew": "\"Rika, you worked hard. You must be tired. Here — take this and go buy yourself something to drink from the vending machine.\"",
+    "significantChanges": true,
+    "changeReason": "New translation combines voice tags differently and changes 'Why don't you take this and go get something to drink?' to 'Here — take this and go buy yourself something to drink from the vending machine' — adds 自動販売機 (vending machine) from Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 4726,
+    "TextENGNew": "\"...Mii~! They took so much blood, I need to replenish!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 4727,
+    "TextENGNew": "Rika accepted the hundred-yen coin from the priest and bounded out into the hallway.",
+    "significantChanges": true,
+    "changeReason": "New translation 'accepted the hundred-yen coin from the priest and bounded out' vs 'took the 100-yen coin that was offered to her and ran out' — 'priest' (神主) vs unspecified offerer.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 4728,
+    "TextENGNew": "\"...It is truly thanks to Rika-san. Without her devoted cooperation, the research could never have progressed this far.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'It is truly thanks to Rika-san. Without her devoted cooperation, the research could never have progressed this far' vs old — adds 'devoted' (献身的) from Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 4729,
+    "TextENGNew": "\"Rika is troubled by the fact that her friends also carry the disease, and she has always said she wants to help for their sake too. ...Doctors, please honour what is in Rika's heart.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Rika is troubled by the fact that her friends also carry the disease' vs 'Rika is very concerned about her friend with the syndrome' — 'friends' (plural) vs 'friend' (singular) and 'carry the disease' vs 'with the syndrome'.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 4730,
+    "TextENGNew": "\"Of course. She gives us her precious time every Sunday. We will see it through to results—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 4731,
+    "TextENGNew": "\"...There may be times ahead when we put Rika-san through very difficult procedures. I only ask for your understanding.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 4732,
+    "TextENGNew": "\"We would never harm her. She is precious beyond measure. ...Hee hee — she is, after all, the reincarnation of Oyashiro-sama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 4733,
+    "TextENGNew": "\"...I wonder how the ancient villagers ever learned of this disease, and how they knew the queen's blood flowed in the Furude line. ...I can only bow my head to our ancestors.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'We would never harm her. She is precious beyond measure' vs 'We'll never harm her in any way, though. She's such an important person' — 'precious beyond measure' is stronger.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 4734,
+    "TextENGNew": "\"Actually, there is another difficult favour I must ask of you. ...I would like your permission to collect Rika-san's cerebrospinal fluid.\"",
+    "significantChanges": true,
+    "changeReason": "New translation includes detail about how ancient villagers knew about the Furude queen lineage, ending with 'I can only bow my head to our ancestors' vs old's simpler 'I'm truly impressed'.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 4735,
+    "TextENGNew": "\"And in some cases, it may become necessary to drill an opening in her skull in order to examine the interior of her head directly.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'ask you for permission' to 'your permission' and 'collect her cerebrospinal fluid' — restructures but same meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 4736,
+    "TextENGNew": "\"A hole... in her skull...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 4737,
+    "TextENGNew": "\"We will take every precaution to ensure her safety. Rika-san is the one and only queen carrier in existence—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 4738,
+    "TextENGNew": "\"We have searched for the safest possible method before making this proposal. We will not allow anything to go wrong.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'We have searched for the safest possible method before making this proposal. We will not allow anything to go wrong' vs old's 'We'll make sure that she's safe. Her safety is our priority' — new is closer to Japanese 最も安全な方法を模索した (searched for safest method).",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 4739,
+    "TextENGNew": "\"Of course, since Rika-chan is a girl, we will attend carefully to the hair around the site of any drilling. There will be no need to shave her head entirely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 4740,
+    "TextENGNew": "\"However, we will need to ask her to remain in the clinic for a period so we can monitor her recovery carefully.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 4741,
+    "TextENGNew": "\"Naturally, she may receive visitors throughout. Please feel free to attend the examination yourself. Having her father nearby will surely put Rika-san at ease.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 4742,
+    "TextENGNew": "\"...Is this examination truly necessary? ...And is it truly safe?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 4743,
+    "TextENGNew": "\"I cannot guarantee absolute safety — neither for the collection of cerebrospinal fluid nor for any cranial drilling. There is always the possibility of something going wrong.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 4744,
+    "TextENGNew": "\"...It will also cause Rika-san physical and emotional discomfort. ...However vital the examination, we cannot proceed without the family's consent.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'However vital the examination, we cannot proceed without the family's consent' vs old 'Even if it's this important, we can't perform it without the parents' consent' — 'family's' vs 'parents'' (ご家族).",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 4745,
+    "TextENGNew": "\"...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 4746,
+    "TextENGNew": "\"Actually, I have already spoken to Rika-chan about all of this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 4747,
+    "TextENGNew": "\"...What did she say?\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'She said she didn't mind at all — quite cheerfully, in fact' vs 'She said that it's fine' — adds あっけらかん (cheerfully/nonchalantly) characterization.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 4748,
+    "TextENGNew": "\"She said she didn't mind at all — quite cheerfully, in fact. Hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 4749,
+    "TextENGNew": "\"...We have, of course, fully explained to Rika-san the risk of danger and discomfort. But her guardian's consent remains essential.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 4750,
+    "TextENGNew": "\"...There are times when Rika truly believes she is the reincarnation of Oyashiro-sama. ...Perhaps that is why she feels it is her duty to offer herself for the sake of the villagers.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Perhaps that is why she feels it is her duty to offer herself for the sake of the villagers' vs 'So maybe she feels obligated to sacrifice herself for the villagers' — 'offer herself' vs 'sacrifice herself' is different connotation.",
+    "changeScore": 2
+  },
+  {
+    "index": 38,
+    "MessageID": 4751,
+    "TextENGNew": "\"...She is a remarkable child.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 4752,
+    "TextENGNew": "\"Please allow me to consult my wife. She understands the situation, but a matter of this gravity cannot be decided without speaking with her.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Please allow me to consult my wife. She understands the situation, but a matter of this gravity cannot be decided without speaking with her' vs old — adds ことがことなので (given the gravity of the matter).",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 4753,
+    "TextENGNew": "\"Yes, of course. Family consent is indispensable. Please speak it over carefully.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 4754,
+    "TextENGNew": "\"This examination... it is a critical step toward eradicating the disease, is that right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 4755,
+    "TextENGNew": "\"Yes. It will lift the veil on Hinamizawa Syndrome once and for all.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'It will lift the veil on Hinamizawa Syndrome once and for all' vs 'It will solve the mysteries of Hinamizawa Syndrome for sure' — 'lift the veil' captures ベールを剥ぐ literally.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 4756,
+    "TextENGNew": "\"The first step toward that, I should say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 4757,
+    "TextENGNew": "\"...As I have explained, if anything were to happen to the queen carrier, it is anticipated that fatal collapse would befall the entire infected community—\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'if anything were to happen to the queen carrier, it is anticipated that fatal collapse would befall the entire infected community' vs old's simpler version — adds technical precision.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 4758,
+    "TextENGNew": "\"To put it plainly: all the villagers could simultaneously break out into terminal symptoms.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'all the villagers could simultaneously break out into terminal symptoms' vs old — adds 'simultaneously' (突如として/全員が).",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 4759,
+    "TextENGNew": "\"Indeed. Based on average acute onset, within forty-eight hours of the queen carrier's death, every infected individual would enter the terminal stage. That must be prevented at all cost.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'within forty-eight hours of the queen carrier's death, every infected individual would enter the terminal stage' vs old — more precise medical language.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 4760,
+    "TextENGNew": "\"...If something were to happen to Rika... the entire village would be thrown into dreadful chaos...\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'thrown into dreadful chaos' vs 'go insane' — 大パニック (great panic) is closer to 'chaos' than 'insane'.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 4761,
+    "TextENGNew": "\"Yes. Preventing that is also our duty. It is deeply ironic that preventing it requires placing her in danger — but we believe there is no other road to eradication.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 4762,
+    "TextENGNew": "\"...Dr. Irie. ...Can you guarantee that examination will succeed?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 4763,
+    "TextENGNew": "\"In medicine there is no such thing as a hundred percent—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 4764,
+    "TextENGNew": "\"Yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 4765,
+    "TextENGNew": "Irie cut off Takano's evasion and answered with a grave nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 4766,
+    "TextENGNew": "\"I, Kyosuke Irie, stake my life on it. Without fail. I will save Rika-san. I will save the villagers. Absolutely.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'I, Kyosuke Irie, stake my life on it. Without fail. I will save Rika-san. I will save the villagers. Absolutely.' vs old's compressed version — adds Irie's full name and 命をかけて (stake my life).",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 4767,
+    "TextENGNew": "\"...Understood. Please let me consult my wife. ...Afterwards I will give you our answer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 4768,
+    "TextENGNew": "\"Yes. Thank you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 4769,
+    "TextENGNew": "\"Hee hee hee — ahahahahahahahaha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 4770,
+    "TextENGNew": "After Rika and her father had gone, Takano broke into a strange laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 4771,
+    "TextENGNew": "\"What is it? Something amusing...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'broke into a strange laugh' vs 'started to laugh' — adds 奇妙な声 (strange voice) characterization.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 4772,
+    "TextENGNew": "\"Hee hee... Oh, nothing. ...I just found it rather funny that you went to the trouble of obtaining consent from both the patient and her family beforehand.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'I just found it rather funny that you went to the trouble of obtaining consent from both the patient and her family beforehand' — more detailed.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 4773,
+    "TextENGNew": "\"...Rika-san is being subjected to suffering she has no obligation to bear. I thought it the bare minimum of courtesy. ...Last year's man too — had he been in a normal state, I would have wanted to obtain his consent.\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures and adds detail about suffering she has no obligation to bear.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 4774,
+    "TextENGNew": "\"Haven't you been tormented by guilt ever since you began the research here, Director?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 4775,
+    "TextENGNew": "\"...What exactly do you mean by that?\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Director' (所長) form of address from Japanese.",
+    "changeScore": 1
+  },
+  {
+    "index": 63,
+    "MessageID": 4776,
+    "TextENGNew": "Takano's teasing tone was nothing unusual — but this time it had crossed some line, and Irie halted, making no attempt to conceal his displeasure.",
+    "significantChanges": true,
+    "changeReason": "New translation 'this time it had crossed some line, and Irie halted, making no attempt to conceal his displeasure' vs old — more vivid.",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 4777,
+    "TextENGNew": "\"Research into Hinamizawa Syndrome can only advance by using living human subjects. Knowing that, you continue to feel guilt about advancing this research.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Research into Hinamizawa Syndrome can only advance by using living human subjects' vs 'You can only research Hinamizawa Syndrome by using living beings' — 'human subjects' vs 'living beings' is more specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 4778,
+    "TextENGNew": "\"...Guilt is necessary. Whether it is murder or dissection, in both cases one is forcing death upon another — there is no difference. We must accept that sin and still pour every effort into our work, so that those deaths are not wasted.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Guilt is necessary' matching 罪の意識は必要です, and 'in both cases one is forcing death upon another — there is no difference' is clearer.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 4779,
+    "TextENGNew": "\"What a magnificent sermon. Hee hee. ...Then, Dr. Irie? How many times have you obtained prior consent before performing experiments that are, without question, illegal?\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'What a magnificent sermon' vs 'That's an extremely impressive theory you have there' — 'sermon' (ご高説) is more condescending/ironic. Also 'how many times have you obtained prior consent before performing experiments that are, without question, illegal?' vs old.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 4780,
+    "TextENGNew": "\"...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 4781,
+    "TextENGNew": "...A past he had not thought Takano knew about.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 4782,
+    "TextENGNew": "\"Using your self-righteous theory that human crimes stem from disorders of the brain — how many patients have you taken as research subjects without their prior consent? Hee hee hee.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'how many brains have you cut up'; JPN says 'how many patients taken as research subjects'. Both convey unethical unconsented research but old adds visceral physical imagery not in the source.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 4783,
+    "TextENGNew": "\"...That is—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 4784,
+    "TextENGNew": "\"Standards of common sense change with the age. In those days, doctors were not expected to explain anything to patients, and prior consent was not considered a serious matter. So perhaps you needn't trouble yourself over the past?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 4785,
+    "TextENGNew": "\"What would be a problem ethically today was perfectly acceptable then. So that's fine, isn't it? Hee hee hee. ...But because you feel guilty about it, you wanted prior consent even from Rika-chan — even from that man?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 4786,
+    "TextENGNew": "\"That is a misunderstanding. In the first place, treatment and dissection are different where the patient—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 4787,
+    "TextENGNew": "\"Listen, boy. What you want is a certificate of pardon in the form of prior consent. Is that not so?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 4788,
+    "TextENGNew": "\"What you want is a deception — a certificate of pardon purely to satisfy your heart's desire to atone for past sins. If you truly regretted it, you would never again involve yourself with brains.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 4789,
+    "TextENGNew": "\"And yet you drag your regret behind you and go on and on, lingering in this world, your hands still in brains.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 4790,
+    "TextENGNew": "\"If your guilt were genuine, you should have declined the appointment as Director when it was offered. Isn't that so, boy?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 4791,
+    "TextENGNew": "\"...I find this conversation deeply unpleasant. I'll excuse myself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 4792,
+    "TextENGNew": "\"You will listen. Medicine has always been won in struggle against the ethics and values of its age.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 4793,
+    "TextENGNew": "\"When Dr. Takano first foresaw the existence of Hinamizawa Syndrome, the authorities of that era set aside their own ignorance and laughed at his foresight.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 4794,
+    "TextENGNew": "\"Yet he never abandoned his research, right up until illness felled him. He believed a day would come when he would be recognised. Even if that day came only after his death, he believed it would come!\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'right up until illness felled him' (病に倒れる直前まで) detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 4795,
+    "TextENGNew": "\"That was made possible by a strong conviction and an unshakeable will of iron. Without it, Dr. Takano would have bent before his era's incomprehension.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'an unshakeable will of iron' (揺らぎのない鉄の意思) detail from Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 4796,
+    "TextENGNew": "\"Research is accomplished through the force of will. Only absolute, unyielding determination can give birth to results! But you do not have that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 4797,
+    "TextENGNew": "\"You are a coward who cannot even decide for himself whether his achievements deserve pride or shame. How could you accept the position of director of a facility like this with such half-formed resolve?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'cannot even decide for himself whether his achievements deserve pride or shame' and 'half-formed resolve' (半端な覚悟) vs old.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 4798,
+    "TextENGNew": "\"You knew from the very beginning that this research could only be illuminated by plunging hands already stained with blood still deeper into blood!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'could only be illuminated by plunging hands already stained with blood still deeper into blood!!' vs 'couldn't be brought to fruition without adding further blood' — more vivid imagery.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 4799,
+    "TextENGNew": "\"...I will not deny it. Perhaps I am half-hearted.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I don't know what to say' (speechlessness) but JPN 否定はしません means 'I will not deny it' (an admission) — significantly different character stance.",
+    "changeScore": 4
+  },
+  {
+    "index": 87,
+    "MessageID": 4800,
+    "TextENGNew": "\"Then why not resign? Your duty of confidentiality would remain — but at least you need no longer be tormented by guilt.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 4801,
+    "TextENGNew": "\"Before you were ever my partner, you were simply a personnel piece requested by my client. Now that this research institute has been established, your presence is no longer of any great importance.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 4802,
+    "TextENGNew": "\"...And if on top of that you lack the resolve the research demands, and are therefore useless as a research partner as well, then you are an incompetent dead weight.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'if on top of that you lack the resolve the research demands, and are therefore useless as a research partner as well, then you are an incompetent dead weight' vs old's simpler version — more detailed and harsh.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 4803,
+    "TextENGNew": "\"I will not stop my research even if I must work alone. I fear no sin, no regret. Unyielding will alone spins the future.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 4804,
+    "TextENGNew": "\"...Just as Dr. Takano accomplished it with his noble spirit — I will accomplish it, even alone!\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Just as Dr. Takano accomplished it with his noble spirit' adds 高潔な精神 (noble spirit) from Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 4805,
+    "TextENGNew": "\"...A magnificent resolve. ...But I, too, however short of you I may fall, came here with some measure of my own resolve. ...And as you say, my hands are already stained with blood.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'A magnificent resolve' vs 'That's impressive' — different intensity.",
+    "changeScore": 2
+  },
+  {
+    "index": 93,
+    "MessageID": 4806,
+    "TextENGNew": "\"Since coming to Hinamizawa, they have been dyed yet deeper. ...And so I cannot run from my responsibilities until I have seen them through.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 4807,
+    "TextENGNew": "\"...I will no doubt go on, as ever, unable to atone for my sins, tormented by them. But I will not run. ...I will bring the research into Hinamizawa Syndrome to a conclusion.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 4808,
+    "TextENGNew": "\"That alone is what I believe to be my last measure of sincerity toward those who have given their lives to this research — and toward those who may yet give theirs.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 4809,
+    "TextENGNew": "Without his quite noticing it, a certain resolve had settled into Irie's expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 4810,
+    "TextENGNew": "It was entirely different from the flustered look he had worn moments before, when Takano had pointed to the past he wished to forget.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 4811,
+    "TextENGNew": "For a short while his eyes held that steely resolve, and then Irie turned on his heel.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 4812,
+    "TextENGNew": "\"...It is likely we will obtain consent for Rika-san's examination. Please begin preparations.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 4813,
+    "TextENGNew": "\"Yes, understood... Director.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 4814,
+    "TextENGNew": "The following week, they received that consent.",
+    "significantChanges": false
+  }
+]

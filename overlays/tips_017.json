@@ -1,0 +1,379 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Intimidation",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Threat\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12976,
+    "TextENGNew": "``...Well, well? Those people just now, weren’t they...``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12977,
+    "TextENGNew": "``Two of them had Diet member badges.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'They had National Diet badges' (implying all had them); new says 'Two of them had Diet member badges' matching JPN 議員バッヂが二人 which specifies exactly two.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 12978,
+    "TextENGNew": "``Then that would be the prefectural assemblyman and the city councilor from the Sonozaki family.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'prefectural assembly member Sonozaki and city councilor Sonozaki' as individual identities; new says 'the prefectural assemblyman and the city councilor from the Sonozaki family' better conveying JPN 県議と市議の園崎 that the Sonozaki family holds both seats.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 12979,
+    "TextENGNew": "``That’s interesting. Relatives holding both the prefectural and city council seats.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12980,
+    "TextENGNew": "``It’s underhanded, is what it is. They plaster each other’s names everywhere for pre-campaign promotion.@k@vS20/11/440700038. While one is up for election, the other holds a separate rally—effectively doubling their campaign efforts.@k@vS20/11/440700039. Openly.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Shouting out each other's name during elections'; new says 'They plaster each other's names everywhere for pre-campaign promotion'; JPN 事前運動バンバン means aggressive pre-campaign activity.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 12981,
+    "TextENGNew": "``I don’t really get it, but isn’t that a violation of election law?``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12982,
+    "TextENGNew": "``As long as it doesn’t constitute pre-campaign activity, political activities are unrestricted. ...Kuma-chan, you’ll have a tough time if you ever get assigned to an election task force.@k@vS20/11/440700041. At least brush up on election law, will you?``",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates: 'As long as they have no prior consultation'; new correctly says 'As long as it doesn't constitute pre-campaign activity' matching JPN 事前運動にならない限り.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 12983,
+    "TextENGNew": "``I’m not cut out for the Intellectual Crimes division. I’m too dumb. Heheheh...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12984,
+    "TextENGNew": "The visitors had been Prefectural Assemblyman Sonozaki and City Councilor Sonozaki.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 12985,
+    "TextENGNew": "And... the village chief of Hinamizawa was there too.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 12986,
+    "TextENGNew": "...Every last one of them under the Sonozaki family’s thumb.@k...How unpleasant.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12987,
+    "TextENGNew": "``The ones seeing them off were... the deputy chief and our division head.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12988,
+    "TextENGNew": "It clicked.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12989,
+    "TextENGNew": "That evening, when the division head invited me out for oden, I knew exactly what was coming.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12990,
+    "TextENGNew": "``Ooishi-san, you’ve got a lot of connections, so you may have already heard... have you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12991,
+    "TextENGNew": "``No. Not a thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 12992,
+    "TextENGNew": "``Ma’am, I’ll have a tofu fritter and a fish cake, please. ...The assemblymen stormed into the chief’s office in a rage.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'The councilors stormed in on the police chief in a rage'; new says 'The assemblymen stormed into the chief's office in a rage'; JPN 署長んとこに = 'at/into the chief's office,' which the new specifies.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 12993,
+    "TextENGNew": "``Oh my. Is that so? ...Ma’am, another round for me, please.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12994,
+    "TextENGNew": "Both Sonozakis—prefectural and city—were the intimidation type.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12995,
+    "TextENGNew": "Being berated by those men who straddled the line between politician and yakuza would be more than enough to rattle our green, career-track police chief...",
+    "significantChanges": true,
+    "changeReason": "Old definitively says 'Our snot-nosed career police chief couldn't handle being yelled at'; new uses speculative 'would be more than enough to rattle' matching JPN conditional キツイでしょうねぇ.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 12996,
+    "TextENGNew": "``They came with a formal complaint about the Hinamizawa case investigation—and they named you specifically.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'A petition with your name came up regarding...'; new says 'They came with a formal complaint...and they named you specifically'; JPN 君を指名して陳情 emphasizes being singled out by name.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 12997,
+    "TextENGNew": "``Goodness, me? Well, well.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12998,
+    "TextENGNew": "``Don’t play dumb. You’ve been dredging up the old Hinamizawa cases,@k@vS20/00/442700005. haven’t you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12999,
+    "TextENGNew": "``I’ve got my hands full with the Tomitake murder. I don’t have the bandwidth for anything else. Nahahahah!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I've already got my hands full with Tomitake's death'; new adds 'I don't have the bandwidth for anything else' matching JPN そんな余裕ないですよ (no capacity for that).",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 13000,
+    "TextENGNew": "``Really? I hope that’s true for your sake...``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 13001,
+    "TextENGNew": "A period of silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 13002,
+    "TextENGNew": "We said nothing, wordlessly working our chopsticks and draining our beers.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 13003,
+    "TextENGNew": "``Well, thank you for the meal. This month’s been nothing but losses, so my wallet was hurting.@k@vS20/11/440700047. You’re a lifesaver.``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 13004,
+    "TextENGNew": "``Don’t mention it. Just give me another horse tip sometime.@k@vS20/00/442700008. I’ll bet on whatever you’re betting on.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 13005,
+    "TextENGNew": "``Nahahahah! I’ve been terrible lately.@k@vS20/11/440700049. Can’t read the horses at all! ...Taxi!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 13006,
+    "TextENGNew": "I would take the train.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 13007,
+    "TextENGNew": "The division head was taking a hired car.",
+    "significantChanges": true,
+    "changeReason": "Old says 'department chief is taking a taxi'; new says 'division head was taking a hired car'; JPN ハイヤー specifically means hired car (higher-end than taxi), and 課長 is 'division head.'",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 13008,
+    "TextENGNew": "Driving my own car was out of the question.@kI couldn’t throw away my career right before retirement with a drunk driving charge.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I have my own car, but it'd be rash to drive it home'; new says 'Driving my own car was out of the question. I couldn't throw away my career right before retirement with a drunk driving charge.' New adds explicit reasoning matching JPN 退職前にして飲酒運転でパー.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 13009,
+    "TextENGNew": "His tongue was still loose enough, but from the waist down, the division head was clearly done for.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 13010,
+    "TextENGNew": "I stuffed him into the taxi and gave the driver his home address.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 13011,
+    "TextENGNew": "``Well then, see you tomorrow. Take care...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 13012,
+    "TextENGNew": "``Ooishi-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 13013,
+    "TextENGNew": "``Yeah, yeah?``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 13014,
+    "TextENGNew": "``The past cases have all been individually closed. Stop trying to connect them.@k@vS20/00/442700011. Those villagers half-believe it’s genuinely a curse, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 13015,
+    "TextENGNew": "``I don’t believe in any curse either.``",
+    "significantChanges": true,
+    "changeReason": "Old translates 祟りなんか信じちゃいませんよ as 'I'm not convinced' which is ambiguous/potentially opposite; new correctly says 'I don't believe in any curse either.'",
+    "changeScore": 4
+  },
+  {
+    "index": 41,
+    "MessageID": 13016,
+    "TextENGNew": "``You’re retiring next year, aren’t you?@k@vS20/00/442700013. Weren’t you going to pay off your mortgage with the severance and move up to Hokkaido with your mother?``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 13017,
+    "TextENGNew": "``The old lady keeps crying about wanting to go back to Hokkaido where she was born... It’s my last act of filial duty.@k@vS20/11/440700054. As for the severance—well, I’ll enjoy spending it in the entertainment district.@k@vS20/11/440700055. Nahahahah!!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mother pines to return to her birthplace'; new says 'The old lady keeps crying about wanting to go back to Hokkaido' -- JPN 婆さまが...帰りたいって泣く means she's crying/begging, conveying more emotional intensity.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 13018,
+    "TextENGNew": "``The chief mentioned he might reconsider your special retirement salary increase.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 13019,
+    "TextENGNew": "A public servant’s retirement payout is calculated by multiplying their monthly salary at the time of retirement.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 13020,
+    "TextENGNew": "So, just before retirement, a special promotion of two pay grades—equivalent to two years’ worth—is granted to inflate the payout.@kThis sort of thing has become customary practice in these parts.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a special promotion of two pay grades'; new adds 'equivalent to two years' worth' matching JPN 二号給（２年分）which explicitly states the two-year equivalence.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 13021,
+    "TextENGNew": "Of course, it’s hardly a commendable custom...",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 13022,
+    "TextENGNew": "Incidentally, the difference two pay grades makes to the retirement payout is quite substantial.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 13023,
+    "TextENGNew": "``Our egghead career chief certainly knows how to make a model veiled threat. But, well...@k@vS20/11/440700057. Considering our salaries come from the taxpayers’ hard-earned money, I suppose it’s the way of the times. ...Hahahahah!``",
+    "significantChanges": true,
+    "changeReason": "Old omits the laugh 'はっはっはっは' at the end of the line that new includes; also old says 'it's the way of the times, I suppose' without the laugh, while new includes '...Hahahahah!' preserving the character's deflection through humor.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 13024,
+    "TextENGNew": "It was anything but funny, but I laughed it off anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 13025,
+    "TextENGNew": "``I don’t think it’s particularly model behavior either. But you’ve served long and well enough to deserve every yen of that payout.@k@vS20/00/442700016. Personally, I really want you to get it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 13026,
+    "TextENGNew": "``Well, if I can get it, of course I’d want it. ...Nahahahah!``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 13027,
+    "TextENGNew": "``You’ll get it. As long as you act like a grown-up about this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 13028,
+    "TextENGNew": "``Sorry for keeping you waiting, Driver. Please go ahead.``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 13029,
+    "TextENGNew": "I shut the door firmly, cutting the division head’s conversation off a bit roughly.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 13030,
+    "TextENGNew": "He looked like he still had more to say, but he cracked a wry smile and waved. I waved back.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 13031,
+    "TextENGNew": "The taxi gradually picked up speed and was soon swallowed by the river of lights.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 13032,
+    "TextENGNew": "``Nahahahah! ...Well, this is a problem. I wonder if I’ll be able to pay off that mortgage...``",
+    "significantChanges": false
+  }
+]

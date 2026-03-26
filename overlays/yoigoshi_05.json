@@ -1,0 +1,824 @@
+[
+  {
+    "index": 1,
+    "MessageID": 93799,
+    "TextENGNew": "The rain was still falling softly, without pause.",
+    "significantChanges": true,
+    "changeReason": "Original incorrectly translates しとしと (gentle, drizzling rain) as 'pouring down'; new translation accurately conveys the soft, steady rainfall.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 93800,
+    "TextENGNew": "The minivan that should have been at the bottom of the stone steps... was definitely gone.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 93801,
+    "TextENGNew": "I stood in the spot where the minivan should have been... and my mind drifted back to that moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 93802,
+    "TextENGNew": "After seeing the car with the suicide victims, Miyuki-chan and I had come here...",
+    "significantChanges": true,
+    "changeReason": "Original adds 'right after' and uses 'discovering' while JPN 見た後 simply means 'after seeing'; new translation is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 93803,
+    "TextENGNew": "When I peered inside, I'd noticed something swaying from the driver's seat.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 93804,
+    "TextENGNew": "Something...?",
+    "significantChanges": true,
+    "changeReason": "JPN 何か…？ is a one-word interjection 'Something...?' not a full question 'What was it?'; new translation matches the original's fragmentary quality.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 93805,
+    "TextENGNew": "\"...Ah...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 93806,
+    "TextENGNew": "That's right. It was... a keychain. A keychain had been dangling from the steering column.",
+    "significantChanges": true,
+    "changeReason": "Old says 'from the keyhole' but ハンドルのところ means near the steering wheel.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 93807,
+    "TextENGNew": "Which would mean... wait...",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 93808,
+    "TextENGNew": "That meant the keys had been left in the ignition the whole time...?!",
+    "significantChanges": true,
+    "changeReason": "JPN キーが差しっぱなし specifically means keys were left 'inserted' (in the ignition); new translation adds this precision vs the vague 'left inside the car'.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 93809,
+    "TextENGNew": "Incredibly careless, but perhaps Towada-san had figured it was safe enough in an abandoned village with no one around...?",
+    "significantChanges": true,
+    "changeReason": "JPN 無用心極まりない means 'extremely/incredibly careless'; original softens this to 'might seem careless' while new translation preserves the emphatic judgment.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 93810,
+    "TextENGNew": "But... because the keys were left in, someone had stolen the car...",
+    "significantChanges": true,
+    "changeReason": "Original uses hypothetical 'would've been able to steal'; new translation uses factual past 'someone had stolen', matching JPN past tense 盗まれてしまった (was stolen).",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 93811,
+    "TextENGNew": "(Stolen...?)",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 93812,
+    "TextENGNew": "I fell into thought. ...Come to think of it, the car Miyuki-chan and I had arrived in also had its keys left in.",
+    "significantChanges": true,
+    "changeReason": "Original incorrectly says 'Miyuki-chan and I left the keys to her car' implying ownership; JPN 乗ってきた車 means 'the car we came in' without specifying ownership.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 93813,
+    "TextENGNew": "If the car was stolen, that meant there was a thief.",
+    "significantChanges": true,
+    "changeReason": "Original misinterprets as a hypothetical about their own car being stolen; JPN states a logical deduction: 'If it was stolen, there must be a thief' — a key reasoning step about someone else being present.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 93814,
+    "TextENGNew": "So, in other words... this had nothing to do with occult phenomena like curses or being demoned away.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 93815,
+    "TextENGNew": "There's still a possibility... that there are more people in this village than just us...",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 93816,
+    "TextENGNew": "Then who the hell could it be...? And for what...?",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 93817,
+    "TextENGNew": "Or... was this a trap meant to lure us all somewhere...?",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 93818,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 93819,
+    "TextENGNew": "Or maybe... this really is the work of demons?",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 93820,
+    "TextENGNew": "Could it be the work of the dead meddling in the lives of the living? Cutting off our means of escape and then strangling us to death...?",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 93821,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 93822,
+    "TextENGNew": "My thoughts were going around in circles.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 93823,
+    "TextENGNew": "Just who was it that was \"alive\" in this village right now...?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 93824,
+    "TextENGNew": "I hit the limit of my reasoning. At this point, my thoughts had become incoherent.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 93825,
+    "TextENGNew": "Right. My thoughts went astray when I questioned if it was the work of the living or the dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 93826,
+    "TextENGNew": "There's no way it could be anything besides another living person... It can't be.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 93827,
+    "TextENGNew": "Just then... I heard the sound of a person approaching from behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 93828,
+    "TextENGNew": "*scrape*",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 93829,
+    "TextENGNew": "I heard a footstep, and at the same time I suddenly felt someone place a hand on my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 93830,
+    "TextENGNew": "\"Uwah?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 93831,
+    "TextENGNew": "I arched my back backwards while turning around.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 93832,
+    "TextENGNew": "Otobe was standing there with his mouth hanging open.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 93833,
+    "TextENGNew": "\"A-Arakawa-san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 93834,
+    "TextENGNew": "\"What? Otobe?!@k@vS10/62/410100710. Don't surprise me like that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 93835,
+    "TextENGNew": "\"Sorry, I didn't mean to surprise you...@k@vS10/41/410200230. But Arakawa-san, you came to a sudden stop and you looked upset, so I wanted to ask if something was wrong.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 93836,
+    "TextENGNew": "\"Oh, no. It's nothing.@k@vS10/62/410100712. Just a little lost in thought.@k@vS10/62/410100713. ...Let's hurry up and get going!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 93837,
+    "TextENGNew": "\"But... which way should we go...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 93838,
+    "TextENGNew": "An unpaved gravel road extended to both the left and the right.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 93839,
+    "TextENGNew": "\"Left or right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 93840,
+    "TextENGNew": "\"I'm fine with either one...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 93841,
+    "TextENGNew": "Otobe started walking to the left.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 93842,
+    "TextENGNew": "\"No... let's go this way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 93843,
+    "TextENGNew": "I reflexively grabbed Otobe's arm and started walking to the right.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 93844,
+    "TextENGNew": "Why did I want to go this direction? Even I wasn't sure, myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 93845,
+    "TextENGNew": "But Miyuki-chan and I originally came from the direction to the right, so maybe I just felt some desire to go back the way I came from.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 93846,
+    "TextENGNew": "\"You want to go... this way...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 93847,
+    "TextENGNew": "Otobe timidly followed behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 93848,
+    "TextENGNew": "No matter how far we went, I couldn't see anything but trees. It was just one long road extending straight through a dense forest.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 93849,
+    "TextENGNew": "\"Arakawa-san...@k@vS10/41/410200235. Mion-san... went out searching a while ago, didn't she?@k@vS10/41/410200236. ...If a local like Mion-san couldn't find anything... do you really think it's possible for us to find anything out here...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 93850,
+    "TextENGNew": "\"I dunno, but do we really have any other choice?@k@vS10/62/410100717. Kurosawa suddenly disappeared on us.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 93851,
+    "TextENGNew": "\"That's true, but...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 93852,
+    "TextENGNew": "\"But what...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 93853,
+    "TextENGNew": "But Otobe swallowed his words and awkwardly looked down.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 93854,
+    "TextENGNew": "...I had a good idea what he was trying to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 93855,
+    "TextENGNew": "If Kurosawa was demoned away, there was nothing we could do about it. Anyone caught by the demons would simply be devoured and thrown away, never to be found again.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 93856,
+    "TextENGNew": "Otobe's eyes seemed to say as much, and somewhere in my heart I was thinking the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 93857,
+    "TextENGNew": "\"It's nothing...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 93858,
+    "TextENGNew": "\"Then don't say anything...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 93859,
+    "TextENGNew": "After that, the two of us said nothing more.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 93860,
+    "TextENGNew": "We simply walked down the muddy road.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 93861,
+    "TextENGNew": "A dirt trail extended between the trees, seeming to invite us in.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 93862,
+    "TextENGNew": "\"Should we head this way...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 93863,
+    "TextENGNew": "\"Don't be stupid!@k@vS10/62/410100721. If we head down a pitch-black trail like that, we'll never make it out, ok?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 93864,
+    "TextENGNew": "\"...Yeah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 93865,
+    "TextENGNew": "My flashlight could only illuminate the ground two or three meters from my feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 93866,
+    "TextENGNew": "No matter how far we go, we're as likely to find a car or a person as we are to find a tanuki.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 93867,
+    "TextENGNew": "\"I guess... it's useless...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 93868,
+    "TextENGNew": "\"Useless...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 93869,
+    "TextENGNew": "\"Because even if we go further, we won't find anything...@k@vS10/41/410200243. If someone dragged him into those trees, we'll never find him!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 93870,
+    "TextENGNew": "\"...And who dragged him, then?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 93871,
+    "TextENGNew": "\"Well...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 93872,
+    "TextENGNew": "Otobe very quietly whispered the word \"demons,\" but I pretended not to hear him.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 93873,
+    "TextENGNew": "In fact, it could've just been my ears playing tricks on me. Maybe he said something else.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 93874,
+    "TextENGNew": "Should we head back to the assembly hall and wait for morning...?",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 93875,
+    "TextENGNew": "No, then it'll be too late.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 93876,
+    "TextENGNew": "The man-eating demons might kill all of us in the middle of the night.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 93877,
+    "TextENGNew": "...I felt sick. Unpleasant thoughts spun round and round inside my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 93878,
+    "TextENGNew": "It had become difficult to distinguish delusions from reality.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 93879,
+    "TextENGNew": "There really might be demons out there.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 93880,
+    "TextENGNew": "Or, maybe not.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 93881,
+    "TextENGNew": "\"Arakawa-san... it's impossible to keep going...@k@vS10/41/410200246. Let's head back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 93882,
+    "TextENGNew": "\"We can't turn back like this!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 93883,
+    "TextENGNew": "\"Why not?!@k@vS10/41/410200248. What's wrong with heading back?!@k@vS10/41/410200249. ...I've had enough of this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 93884,
+    "TextENGNew": "Otobe finally stopped.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 93885,
+    "TextENGNew": "\"Otobe...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 93886,
+    "TextENGNew": "Tch...",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 93887,
+    "TextENGNew": "I quietly clicked my tongue to myself. ...What a pathetic human being.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 93888,
+    "TextENGNew": "If you value your life, then show some guts, damn it.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 93889,
+    "TextENGNew": "\"Alright... you want to go back?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 93890,
+    "TextENGNew": "\"But... do we really have no choice but to go back...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 93891,
+    "TextENGNew": "Otobe was acting confused and indecisive.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 93892,
+    "TextENGNew": "And, so..!",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 93893,
+    "TextENGNew": "I started getting irritated and glared at Otobe. As soon as I did, he started to look upset.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 93894,
+    "TextENGNew": "\"But... even if we keep going on, I don't think we can do anything about it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 93895,
+    "TextENGNew": "\"I'm starting to feel the same way...!@k@vS10/62/410100728. ...Well, what should we do?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 93896,
+    "TextENGNew": "\"So... I think, umm...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 93897,
+    "TextENGNew": "Though I had an umbrella in hand, my pants were still soaked with mud and rain. Plus, my hands and feet were freezing.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 93898,
+    "TextENGNew": "The two of us suddenly spoke up at the same time.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 93899,
+    "TextENGNew": "\"Let's keep going.\"@r@t\"Let's turn back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 93900,
+    "TextENGNew": "I had to sigh at our completely contradictory decisions. ...It's tough working with someone of a completely different disposition... Clearly, we made a terrible team.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 93901,
+    "TextENGNew": "Still... I didn't have the stomach to handle this situation on my own. Otobe probably felt the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 93902,
+    "TextENGNew": "So, my decisions had just as much weight on my partner as they did on me...",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 93903,
+    "TextENGNew": "\"Even if we go any further, it's just a waste...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 93904,
+    "TextENGNew": "\"But that doesn't mean we can just go back to the assembly hall and quietly wait to die, right?@k@vS10/62/410100731. Even if our phones can't connect, we can still walk to the police.@k@vS10/62/410100732. Okinomiya's not too far from here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 93905,
+    "TextENGNew": "\"Not too far...?@k@vS10/41/410200256. But... we're traveling by foot, aren't we?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 93906,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 93907,
+    "TextENGNew": "Sure enough, I also thought it sounded reckless.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 93908,
+    "TextENGNew": "But... what choice did we have?!",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 93909,
+    "TextENGNew": "\"Oh... that's right!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 93910,
+    "TextENGNew": "That moment, I felt inspiration like a divine revelation.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 93911,
+    "TextENGNew": "\"We can drive there!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 93912,
+    "TextENGNew": "\"In what car...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 93913,
+    "TextENGNew": "Otobe began to furrow his eyebrows, but I continued.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 93914,
+    "TextENGNew": "\"I think we should return to the assembly hall.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 93915,
+    "TextENGNew": "\"Huh...?@k@vS10/40/410300504. You're not going to search for Kurosawa-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 93916,
+    "TextENGNew": "Miyuki-chan furrowed her eyebrows and stared at me as soon as she heard my answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 93917,
+    "TextENGNew": "Somehow, it felt like the tone of her voice was criticizing me.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 93918,
+    "TextENGNew": "\"Well, I do want to search for him.@k@vS10/62/410100738. But it's already pitch black outside.@k@vS10/62/410100739. If we go out searching right now, there's a risk even more danger will befall us.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 93919,
+    "TextENGNew": "\"Plus, it's still raining...@k@vS10/62/410100741. Wouldn't it be easier to look for him after the sun comes up?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 93920,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 93921,
+    "TextENGNew": "The look on Miyuki-chan's face indicated she still wasn't fully satisfied, but eventually she relented and nodded to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 93922,
+    "TextENGNew": "\"...It's unfortunate, but it's just as Ryuunosuke-san says.@k@vS10/40/410300507. It can't be helped.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 93923,
+    "TextENGNew": "\"...I'm sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 93924,
+    "TextENGNew": "Towada-san walked up next to me and lightly bowed her head to Miyuki-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 93925,
+    "TextENGNew": "\"...Why are you apologizing, Towada-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 93926,
+    "TextENGNew": "\"Takumi-kun... caused trouble for you...@k@vS10/42/410600151. That's all...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 93927,
+    "TextENGNew": "\"That's just the situation we're in. It can't be helped.@k@vS10/62/410100743. ...Don't worry about it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 93928,
+    "TextENGNew": "\"Okay...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 93929,
+    "TextENGNew": "When I saw Towada-san's shoulders droop... the guilt started to eat at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 93930,
+    "TextENGNew": "Even though I did believe it couldn't be helped, I still couldn't bring myself to look her eye to eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 93931,
+    "TextENGNew": "...The rain began coming down even harder.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 93932,
+    "TextENGNew": "We hastened our pace to nearly a run, and eventually arrived at the assembly hall.",
+    "significantChanges": false
+  }
+]

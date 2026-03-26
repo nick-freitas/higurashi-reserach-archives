@@ -1,0 +1,58 @@
+[
+  {
+    "index": 2,
+    "MessageID": 3611,
+    "TextENGNew": "Ah, well done.",
+    "significantChanges": true,
+    "changeReason": "Original mistranslates お疲れ様 as 'congratulations'; new translation correctly renders it as 'well done,' which conveys the Japanese sense of acknowledging effort/completion.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 3612,
+    "TextENGNew": "Did you enjoy the four worlds you traveled through?",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 四つの世界 as 'four worlds' instead of vague 'various worlds,' preserving the exact number referenced in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 3613,
+    "TextENGNew": "...Hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 3614,
+    "TextENGNew": "Now then — this long, long story has at last come to its end.",
+    "significantChanges": true,
+    "changeReason": "New translation captures ようやく ('at last/finally'), conveying the sense that the ending was long-awaited, which the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 3615,
+    "TextENGNew": "There were honestly times when the sheer length of it all nearly wore me down... but now that the end is here, I find I'm a little reluctant to let go.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 3616,
+    "TextENGNew": "And so, for you who have passed through every last world — I have one final gift.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 3617,
+    "TextENGNew": "You may be a little surprised — but this is a small present, just from me to you.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 3618,
+    "TextENGNew": "Now then — will you return to the Books Menu for me...?",
+    "significantChanges": true,
+    "changeReason": "Original uses collaborative 'shall we return' implying joint action; new translation correctly renders the Japanese request form (戻ってみてくれるかしら) as 'will you return for me,' making clear the speaker is asking the reader to act.",
+    "changeScore": 2
+  }
+]

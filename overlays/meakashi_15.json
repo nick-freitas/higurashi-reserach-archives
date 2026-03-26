@@ -1,0 +1,3590 @@
+[
+  {
+    "index": 1,
+    "MessageID": 67788,
+    "TextENGNew": "``What?@k@vS06/06/150601133. What did you just say?``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 67789,
+    "TextENGNew": "``This is from a reliable source, but it seems they have identified the person who murdered Satoshi-kun's aunt.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 67790,
+    "TextENGNew": "Several weeks had passed since the aunt's murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 67791,
+    "TextENGNew": "Satoshi-kun's whereabouts remained completely unknown, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 67792,
+    "TextENGNew": "...No new information, no progress of any kind.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 67793,
+    "TextENGNew": "It was out of nowhere that Kasai suddenly told me.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 67794,
+    "TextENGNew": "``Does that mean the police arrested someone?``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 67795,
+    "TextENGNew": "``From what I hear, it was not so much an arrest -- a man being interrogated for a separate crime confessed to it as an additional offense.``",
+    "significantChanges": true,
+    "changeReason": "Original omits how the confession arose; new captures the JPN distinction: not an arrest but a confession during interrogation for a separate crime.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 67796,
+    "TextENGNew": "...Something about Kasai's wording felt off.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 67797,
+    "TextENGNew": "If the culprit had been Satoshi-kun himself, Kasai would not have phrased it that way.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 67798,
+    "TextENGNew": "It sounded as though someone other than Satoshi-kun was the culprit.",
+    "significantChanges": true,
+    "changeReason": "Original implies Satoshi-kun's innocence ('wasn't the culprit'); new implies a different perpetrator exists ('someone other than Satoshi-kun was the culprit').",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 67799,
+    "TextENGNew": "``...Kasai.@k@vS06/06/150601137. In the end, who was the culprit...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 67800,
+    "TextENGNew": "It was not Satoshi-kun...?@k Those words nearly slipped out, but I caught them in my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 67801,
+    "TextENGNew": "I had been certain it was Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 67802,
+    "TextENGNew": "No -- the police, and Ooishi too, must have thought the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 67803,
+    "TextENGNew": "The fact that Ooishi had tried to provoke me meant he himself was convinced Satoshi-kun was the culprit.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 67804,
+    "TextENGNew": "``Rest assured.@k@vS06/15/151500187. It does not appear to be Satoshi-kun.@k@vS06/15/151500188. It seems it was the work of a deranged individual... imitating the serial mysterious deaths.``",
+    "significantChanges": true,
+    "changeReason": "Original says 'aiming to continue the series'; new says 'imitating the serial mysterious deaths' -- continuing vs imitating are meaningfully different.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 67805,
+    "TextENGNew": "``What?? ...A deranged individual?@k@vS06/06/150601139. What does that mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 67806,
+    "TextENGNew": "Kasai shrugged.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 67807,
+    "TextENGNew": "``I am afraid that is all I know.@k@vS06/15/151500190. ...Apparently, this case has been designated as a confidential investigation.@k@vS06/15/151500191. So almost no information is being circulated.``",
+    "significantChanges": true,
+    "changeReason": "Original abbreviates to 'I don't know'; new captures full JPN content about the confidential investigation designation.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 67808,
+    "TextENGNew": "``A confidential investigation?@k@vS06/06/150601141. What is that?``",
+    "significantChanges": true,
+    "changeReason": "Original asks 'Why?' (motivation); new asks 'What is that?' (definition) -- different questions entirely.",
+    "changeScore": 4
+  },
+  {
+    "index": 22,
+    "MessageID": 67809,
+    "TextENGNew": "``It seems to be a countermeasure against reputational damage to the village from the serial mysterious deaths.@k@vS06/15/151500193. In kidnapping cases, the news is kept out of the papers while negotiations with the culprit are ongoing, right?@k@vS06/15/151500194. It appears to be something along those lines.``",
+    "significantChanges": true,
+    "changeReason": "New adds significant detail from JPN about kidnapping case suppression analogy and reputational damage context.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 67810,
+    "TextENGNew": "Come to think of it... I had not seen anything about the aunt's murder on TV or in the newspapers.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 67811,
+    "TextENGNew": "``After all, incidents have occurred on the day of Watanagashi for four consecutive years now.@k@vS06/15/151500196. Apparently there are quite a few people making a fuss about it being Oyashiro-sama's curse and finding it entertaining.``",
+    "significantChanges": true,
+    "changeReason": "Original truncates; new includes complete JPN content about people finding Oyashiro-sama's curse 'entertaining.'",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 67812,
+    "TextENGNew": "``Oh yes, about that deranged individual who killed the aunt -- he apparently confessed that he did it because he wanted to imitate the serial mysterious deaths.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 67813,
+    "TextENGNew": "``........................``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 67814,
+    "TextENGNew": "Since Kasai said he knew nothing beyond that, I stopped pressing him and turned the questions inward.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 67815,
+    "TextENGNew": "...Honestly, this was unexpected.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 67816,
+    "TextENGNew": "I had been convinced Satoshi-kun was the killer.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 67817,
+    "TextENGNew": "...That was precisely why I had believed he had no choice but to disappear.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 67818,
+    "TextENGNew": "But... unbelievably, the aunt's killer turned out to be some nobody -- a complete stranger.",
+    "significantChanges": true,
+    "changeReason": "Original says criminal 'had no relation to the aunt'; new correctly renders JPN どこの馬の骨とも知れぬ輩 as 'some nobody -- a complete stranger.'",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 67819,
+    "TextENGNew": "Then... Satoshi-kun had nothing to do with the murder?",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 67820,
+    "TextENGNew": "If so... if he was truly unrelated...",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 67821,
+    "TextENGNew": "Then why did he have to disappear...?",
+    "significantChanges": true,
+    "changeReason": "New adds 'have to' (compulsion matching JPN しなければならない) absent in original.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 67822,
+    "TextENGNew": "Honestly... I could not bring myself to accept this so-called real culprit who had popped up out of nowhere.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 67823,
+    "TextENGNew": "And the phrase Kasai had used -- 'the fourth year of the serial mysterious deaths' -- also struck me as wrong.",
+    "significantChanges": true,
+    "changeReason": "Different phrase attributed to Kasai: 'four years in a row now' vs 'the fourth year of the serial mysterious deaths.'",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 67824,
+    "TextENGNew": "I had always believed this year's incident was a sad, isolated act born of Satoshi-kun being driven to desperation,@k ...entirely unrelated to the serial mysterious deaths of previous years.",
+    "significantChanges": true,
+    "changeReason": "New adds the critical concept of it being 'a sad, isolated act' (JPN 単独のもの) which is key to Shion's reasoning.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 67825,
+    "TextENGNew": "A nagging dissonance -- as if Satoshi-kun's case was... no longer Satoshi-kun's case.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 67826,
+    "TextENGNew": "The Hinamizawa Village Serial Mysterious Deaths are popularly known as 'Oyashiro-sama's Curse.'",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 67827,
+    "TextENGNew": "Satoshi-kun's case had been absorbed into the serial mysterious deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 67828,
+    "TextENGNew": "...In other words, Satoshi-kun's case had been absorbed into 'Oyashiro-sama's Curse.'",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 67829,
+    "TextENGNew": "What an unpleasant way to put it.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 67830,
+    "TextENGNew": "Because taken to its logical end, it could be read as: 'Satoshi-kun was swallowed by Oyashiro-sama's Curse.'",
+    "significantChanges": true,
+    "changeReason": "New shows the reasoning process and quotes the condensed conclusion, matching JPN structure; original simply states the outcome.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 67831,
+    "TextENGNew": "``Yes, unfortunately.@k@vS06/11/150700255. The report about someone resembling him boarding a Tokyo-bound bullet train remains unconfirmed as well.@k@vS06/11/150700256. Honestly, we do not even know whether he is inside or outside the prefecture.``",
+    "significantChanges": true,
+    "changeReason": "New specifies 'someone resembling him' and 'bullet train' (新幹線) where original said only 'Satoshi-kun took a train to Tokyo.'",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 67832,
+    "TextENGNew": "Ooishi said this while peeling the inner seal off a new jar of instant coffee.",
+    "significantChanges": true,
+    "changeReason": "Original says 'can of instant coffee'; new correctly says 'jar' -- JPN 瓶 means bottle/jar.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 67833,
+    "TextENGNew": "``You were so confident, so insistent that Satoshi-kun was the culprit -- I assumed you had already tracked him down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 67834,
+    "TextENGNew": "``Na ha ha ha ha.@k@vS06/11/150700258. No, no -- it is quite embarrassing, really.``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 67835,
+    "TextENGNew": "With a dry laugh, Ooishi set a cup of coffee brewed with far-too-hot water in front of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 67836,
+    "TextENGNew": "``...You certainly have sharp ears, though.``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 67837,
+    "TextENGNew": "``Pardon?``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 67838,
+    "TextENGNew": "``This is supposed to be a classified investigation, yet someone is leaking things left and right.@k@vS06/11/150700262. ...Good grief.@k@vS06/11/150700263. Our counterintelligence could use some work.``",
+    "significantChanges": true,
+    "changeReason": "Original focuses on Shion having info; new focuses on systematic leaks, matching JPN perspective.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 67839,
+    "TextENGNew": "Ooishi grinned knowingly.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 67840,
+    "TextENGNew": "He seemed to have already guessed why I had come here.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 67841,
+    "TextENGNew": "``Well, tarnished or not, I am still a Sonozaki.@k@vS06/06/150601145. I can pick up a rumor here and there.``",
+    "significantChanges": true,
+    "changeReason": "New preserves self-deprecating idiom 'tarnished or not' from JPN 腐っても, absent in original.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 67842,
+    "TextENGNew": "I returned a knowing smile of my own.@k ...In games like these, whoever bluffs best wins.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 67843,
+    "TextENGNew": "``Well, why not.@k@vS06/11/150700265. We have been pretty candid with each other, after all.@k@vS06/11/150700266. Sure, let us have a chat.@k@vS06/11/150700267. Nfu fu fu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 67844,
+    "TextENGNew": "``Let me ask first.@k@vS06/06/150601147. Who on earth is this real culprit?@k@vS06/06/150601148. I heard he was some kind of deranged individual -- what does that even mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 67845,
+    "TextENGNew": "``Na ha ha ha!@k@vS06/11/150700269. 'What does that mean,' she asks...@k@vS06/11/150700270. Believe me, I would like to know too.@k@vS06/11/150700271. ...I had bet everything on Satoshi-kun being the culprit.@k@vS06/11/150700272. Quite the dark horse to come galloping out of nowhere.``",
+    "significantChanges": true,
+    "changeReason": "New preserves JPN gambling metaphor 万馬券 as 'dark horse'; original uses generic 'surprising.'",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 67846,
+    "TextENGNew": "Ooishi dropped heavily onto the sofa, laced his fingers behind his head, and continued with a wry smile while gazing up at the ceiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 67847,
+    "TextENGNew": "``......The other day, I suddenly received a call from the prefectural police.@k@vS06/11/150700274. They said a man already in custody had confessed to the housewife's murder.``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 67848,
+    "TextENGNew": "``Who is he?``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 67849,
+    "TextENGNew": "``A real piece of work who got into drugs.@k@vS06/11/150700276. He has been in and out of prison, over and over.@k@vS06/11/150700277. He said the Hinamizawa serial mysterious deaths seemed interesting, so he wanted to carry out the fourth year's curse himself... or something to that effect.``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 67850,
+    "TextENGNew": "``...Are you certain he is the real culprit?``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 67851,
+    "TextENGNew": "``I did not question him personally, but...@k@vS06/11/150700279. ...the statement the prefectural police took from him was packed with what we call 'information only the culprit could know.'@k@vS06/11/150700280. He says he disposed of the murder weapon somewhere in the Ouji River.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 67852,
+    "TextENGNew": "``They are dredging the river as we speak.@k@vS06/11/150700282. If the weapon turns up where he said it was, that will seal it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 67853,
+    "TextENGNew": "``...Even if the weapon is not found, would the case be essentially closed?``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 67854,
+    "TextENGNew": "``Most likely.@k@vS06/11/150700284. His statement accurately describes the condition of the crime scene and the victim.@k@vS06/11/150700285. Down to fine details that only the actual assailant would know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 67855,
+    "TextENGNew": "``...........You do not seem entirely convinced, though.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 67856,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 67857,
+    "TextENGNew": "Ooishi crossed his legs while still looking up at the ceiling and fell silent for a long moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 67858,
+    "TextENGNew": "``The thing is, that utter fool...@k@vS06/11/150700288. he is already dead.@k@vS06/11/150700289. By the time we received the call, he had already passed away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 67859,
+    "TextENGNew": "``Dead?``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 67860,
+    "TextENGNew": "``...You know those sporks they give with school lunches?@k@vS06/11/150700291. They serve those with meals in the holding cells too.@k@vS06/11/150700292. He swallowed the handle of one and choked to death.@k@vS06/11/150700293. ...Whether it was suicide or some kind of delirium, it is hard to say.``",
+    "significantChanges": true,
+    "changeReason": "New specifies 'swallowed the handle' and 'choked to death'; original is less specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 67861,
+    "TextENGNew": "Imagining someone swallowing a spoon, I felt my own throat constrict. I gagged slightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 67862,
+    "TextENGNew": "``So the investigation could not be pursued to full satisfaction.@k@vS06/11/150700295. ...I am not satisfied with it myself, but... the higher-ups seem perfectly content.@k@vS06/11/150700296. It seems the case is heading toward being closed with that copycat as the culprit.``",
+    "significantChanges": true,
+    "changeReason": "New provides significantly more detail from JPN about Ooishi's dissatisfaction and case trajectory.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 67863,
+    "TextENGNew": "Ooishi shifted his gaze from the ceiling back to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 67864,
+    "TextENGNew": "His expression had turned just slightly serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 67865,
+    "TextENGNew": "``...This is strictly my personal opinion, all right?@k@vS06/11/150700298. Keep it between us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 67866,
+    "TextENGNew": "``......I believe that utter fool is some kind of mistake.``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 67867,
+    "TextENGNew": "``...............``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 67868,
+    "TextENGNew": "``Either a colossal misunderstanding caused by some chain of coincidences, or perhaps............... you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 67869,
+    "TextENGNew": "``Na ha ha ha ha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 67870,
+    "TextENGNew": "``I have absolutely no idea what you are getting at, Ooishi-ojisama.``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 67871,
+    "TextENGNew": "``I still believe the real culprit is Houjou Satoshi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 67872,
+    "TextENGNew": "``......You say that with such conviction.``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 67873,
+    "TextENGNew": "``Unfortunately, the crime scene investigation did not turn up a single trace that could identify the culprit.@k@vS06/11/150700304. After Satoshi-kun disappeared, we obtained a warrant to search his home.@k@vS06/11/150700305. We went through the entire house, but still came up with nothing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 67874,
+    "TextENGNew": "``...And yet you still suspect Satoshi-kun is the culprit?``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 67875,
+    "TextENGNew": "``Yes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 67876,
+    "TextENGNew": "``...How you can brand someone a murderer so definitively without a shred of evidence is beyond me.@k@vS06/06/150601159. Truly impressive.@k@vS06/06/150601160. Is that what they call years of experience?``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 67877,
+    "TextENGNew": "``Indeed.@k@vS06/11/150700308. Call it the gut instinct of a man who has made his living in this trade for decades.``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 67878,
+    "TextENGNew": "Ooishi smiled with self-satisfaction, but I found nothing reassuring about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 67879,
+    "TextENGNew": "``......Where did Satoshi-kun go...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 67880,
+    "TextENGNew": "``One of the key reasons I was so convinced Satoshi-kun was the culprit was precisely because he disappeared.@k@vS06/11/150700310. If he is not the culprit... that reasoning loses most of its weight.``",
+    "significantChanges": true,
+    "changeReason": "Original presents disappearance as full proof; new correctly says 'one of the key reasons,' matching JPN ひとつこそが.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 67881,
+    "TextENGNew": "``......What if the aunt's killer really was that copycat, and it had nothing to do with Satoshi-kun's disappearance?@k@vS06/06/150601163. ...What if Satoshi-kun's disappearance was the Sonozaki main family's doing, to tear us apart?@k@vS06/06/150601164. Completely unrelated to the murder... is that a possible reading...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 67882,
+    "TextENGNew": "Was Satoshi-kun a perpetrator...@k ...or a victim?",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 67883,
+    "TextENGNew": "...The reason for his disappearance grew murkier and murkier, fading into haze...",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 67884,
+    "TextENGNew": "``Hmmmmmm.........@k@vS06/11/150700312. ...I do not think they would go so far as to make someone vanish just over a romance with a rival family.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 67885,
+    "TextENGNew": "``......What is the view from inside the Sonozaki family, then?@k@vS06/11/150700314. ...Do you know anything about that, Shion-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 67886,
+    "TextENGNew": "``If I did, I would not be here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 67887,
+    "TextENGNew": "``Na ha ha ha. Fair point, fair point.``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 67888,
+    "TextENGNew": "Ooishi scratched his head and laughed broadly.@k ...Once the laughter died down, he leaned forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 67889,
+    "TextENGNew": "``All right then, how about this?@k@vS06/11/150700317. Why don't we form an agreement?@k@vS06/11/150700318. A gentlemen's agreement.``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 67890,
+    "TextENGNew": "``An agreement?@k@vS06/06/150601167. About what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 67891,
+    "TextENGNew": "``An intelligence-sharing agreement on the Satoshi-kun disappearance case.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 67892,
+    "TextENGNew": "``...If you come across any information about Satoshi-kun's disappearance through underground channels, please share it with me.@k@vS06/11/150700321. Naturally, I will also provide you with any information I obtain about Satoshi-kun.@k@vS06/11/150700322. ...What do you say?``",
+    "significantChanges": true,
+    "changeReason": "New adds 'through underground channels' (裏の界隈), absent in original.",
+    "changeScore": 3
+  },
+  {
+    "index": 106,
+    "MessageID": 67893,
+    "TextENGNew": "``That sounds awfully one-sided and convenient for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 67894,
+    "TextENGNew": "Ooishi gave a wry laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 67895,
+    "TextENGNew": "``...Shion-san.@k@vS06/11/150700324. ......At this rate, the housewife's murder will be pinned on that dead fool and the case closed.@k@vS06/11/150700325. When that happens, Satoshi-kun's status will be reduced to that of a mere runaway.``",
+    "significantChanges": true,
+    "changeReason": "New emphasizes the suspect being dead ('that dead fool'), a key plot point.",
+    "changeScore": 3
+  },
+  {
+    "index": 109,
+    "MessageID": 67896,
+    "TextENGNew": "``In other words, any active investigation will be called off.``",
+    "significantChanges": true,
+    "changeReason": "Original says investigation will be 'less active'; new says it will be 'called off' -- meaningfully different outcomes.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 67897,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 67898,
+    "TextENGNew": "``But I alone will continue.@k@vS06/11/150700328. I alone will keep searching for Satoshi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 67899,
+    "TextENGNew": "``...You and I are both searching for Satoshi-kun's whereabouts -- I believe we are aligned in that regard, are we not?``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 67900,
+    "TextENGNew": "``Our motives could not be more different, though.@k@vS06/06/150601171. I simply want to confirm he is safe. You want to arrest him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 67901,
+    "TextENGNew": "``Nfu fu fu...@k@vS06/11/150700331. Once the murder case is settled, Satoshi-kun will effectively be innocent, you know.@k@vS06/11/150700332. Whatever the truth may actually be.``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 67902,
+    "TextENGNew": "``...Somehow I doubt that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 67903,
+    "TextENGNew": "``Na ha ha ha ha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 67904,
+    "TextENGNew": "Ooishi laughed his vulgar laugh again.@k But the look in his eyes was anything but amused.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 67905,
+    "TextENGNew": "``......Well, let us get along from here on.@k@vS06/11/150700336. They do say the enemy of your enemy is your friend.``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 67906,
+    "TextENGNew": "``I am not exactly at odds with the Sonozaki main family, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 67907,
+    "TextENGNew": "``Oh, really?@k@vS06/11/150700338. Well then, my apologies.@k@vS06/11/150700339. Nfu fu fu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 67908,
+    "TextENGNew": "Ooishi Kuraudo, huh...",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 67909,
+    "TextENGNew": "...I could see why Sis and Kasai had warned me -- he was someone you would not want as an enemy, but you could never let your guard down around him as an ally, either.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 67910,
+    "TextENGNew": "Quite the wily old fox, not easily dealt with...",
+    "significantChanges": true,
+    "changeReason": "Original uses 'weasel'; new uses 'fox' -- JPN タヌキ idiomatically means crafty person; different animal metaphor connotations.",
+    "changeScore": 2
+  },
+  {
+    "index": 124,
+    "MessageID": 67911,
+    "TextENGNew": "I was not thirsty, but I took a sip of coffee to fill the pause.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 67912,
+    "TextENGNew": "...Outside the window, the ordinary world I inhabited every day stretched out as usual.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 67913,
+    "TextENGNew": "But... Satoshi-kun alone was missing from that ordinary world.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 67914,
+    "TextENGNew": "Absent from the ordinary, as naturally as if it were meant to be.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 67915,
+    "TextENGNew": "...And someday, I was afraid, his absence itself would become ordinary.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 67916,
+    "TextENGNew": "......Where was Satoshi-kun... what was he doing?",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 67917,
+    "TextENGNew": "``..............I wonder what Satoshi-kun is doing right now...``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 67918,
+    "TextENGNew": "``..........I hope he is safe.``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 67919,
+    "TextENGNew": "``Tch.@k@vS06/06/150601175. ......You think there is little chance he is alive, yet you say that.@k@vS06/06/150601176. Do not try to comfort me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 67920,
+    "TextENGNew": "``Do you know what they are calling his disappearance in Hinamizawa?``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 67921,
+    "TextENGNew": "``What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 67922,
+    "TextENGNew": "``...They say he was 'spirited away by the demon'...``",
+    "significantChanges": true,
+    "changeReason": "New uses 'spirited away by the demon' for 鬼隠し instead of non-standard 'demoned away,' significantly clearer.",
+    "changeScore": 3
+  },
+  {
+    "index": 136,
+    "MessageID": 67923,
+    "TextENGNew": "'Onikakushi' -- spirited away by the demon -- means the same as 'kamikakushi,' being spirited away.@k It is a local dialect particular to this region.",
+    "significantChanges": true,
+    "changeReason": "New preserves Japanese terms 'Onikakushi' and 'kamikakushi' which are important recurring plot terminology.",
+    "changeScore": 3
+  },
+  {
+    "index": 137,
+    "MessageID": 67924,
+    "TextENGNew": "``......Snatched away to the demon's realm at the bottom of the Onigafuchi Swamp, you mean...?@k@vS06/06/150601179. ......How ridiculous...``",
+    "significantChanges": true,
+    "changeReason": "Original says 'taken to Hell'; new correctly says 'the demon's realm' -- JPN 鬼の国 is not Hell.",
+    "changeScore": 4
+  },
+  {
+    "index": 138,
+    "MessageID": 67925,
+    "TextENGNew": "``Be that as it may, the serial mysterious deaths have now reached their fourth year.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 67926,
+    "TextENGNew": "``...It is premature, but people are already whispering about whether it will happen again next year.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 67927,
+    "TextENGNew": "``Are you saying the aunt's murder was the work of Oyashiro-sama's curse?``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 67928,
+    "TextENGNew": "``...Looking at the big picture, the victim was a member of the Houjou family.@k@vS06/11/150700346. She was not entirely unconnected to those branded as war criminals during the dam conflict.@k@vS06/11/150700347. And with it happening on the day of Watanagashi yet again, it is hardly surprising that people are having a field day with it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 67929,
+    "TextENGNew": "``..........How ridiculous. Oyashiro-sama's curse, indeed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 67930,
+    "TextENGNew": "Even as I said that... I could not quite shake the ominous feeling from my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 67931,
+    "TextENGNew": "Why had Satoshi-kun vanished...?",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 67932,
+    "TextENGNew": "Was it the work of the Sonozaki main family, punishing him for our romance?",
+    "significantChanges": true,
+    "changeReason": "New includes the specific motivation 'punishing him for our romance' from JPN 恋仲を咎めた, omitted in original.",
+    "changeScore": 4
+  },
+  {
+    "index": 146,
+    "MessageID": 67933,
+    "TextENGNew": "Had the police pressure driven him to flee?",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 67934,
+    "TextENGNew": "In the first place, was Satoshi-kun even the one who killed his aunt?",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 67935,
+    "TextENGNew": "And so -- why did Satoshi-kun disappear?",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 67936,
+    "TextENGNew": "Satoshi-kun was Satoshi-kun.@k Oyashiro-sama's curse had nothing to do with it.",
+    "significantChanges": true,
+    "changeReason": "'He's on his own' vs 'Satoshi-kun was Satoshi-kun' convey similar independence; both followed by dismissal of curse.",
+    "changeScore": 3
+  },
+  {
+    "index": 150,
+    "MessageID": 67937,
+    "TextENGNew": "But... ...hmm?@k An unpleasant sense of dissonance.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 67938,
+    "TextENGNew": "Satoshi-kun and Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 67939,
+    "TextENGNew": "......I felt as though someone had once mentioned those two things together.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 67940,
+    "TextENGNew": "...Wait, when had I heard something like that...?",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 67941,
+    "TextENGNew": "That was it.@k ...That rainy day.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 67942,
+    "TextENGNew": "Sheltering from the rain in the bus stop shed... Ryuuguu Rena had said it.",
+    "significantChanges": true,
+    "changeReason": "Original says 'shack'; new says 'bus stop shed' -- JPN 停留所の小屋 specifically means bus stop shelter.",
+    "changeScore": 2
+  },
+  {
+    "index": 156,
+    "MessageID": 67943,
+    "TextENGNew": "``Ah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 67944,
+    "TextENGNew": "In that moment... the eerie story Rena had told me came flooding back.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 67945,
+    "TextENGNew": "``Somewhere in his heart, Satoshi-kun...@k@vS06/02/150200065. ...wants to abandon Hinamizawa and escape far away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 67946,
+    "TextENGNew": "That was what Ryuuguu Rena had said.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 67947,
+    "TextENGNew": "Yes -- Rena had clearly stated, even at that early point, that Satoshi-kun wanted to abandon Hinamizawa and flee.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 67948,
+    "TextENGNew": "And... right, she had also said this.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 67949,
+    "TextENGNew": "``Everything Satoshi-kun is experiencing... is a harbinger of Oyashiro-sama's curse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 67950,
+    "TextENGNew": "She said it.@k She definitely said it.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 67951,
+    "TextENGNew": "She had clearly spoken the words: Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 67952,
+    "TextENGNew": "The Hinamizawa Village Serial Mysterious Deaths -- four years running.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 67953,
+    "TextENGNew": "...Had Satoshi-kun been... manipulated by Oyashiro-sama's curse... led to kill his aunt, and then 'spirited away by the demon'...?",
+    "significantChanges": true,
+    "changeReason": "New uses 'manipulated/led to kill' and 'spirited away by the demon' vs original's 'controlled' and 'demoned away.'",
+    "changeScore": 3
+  },
+  {
+    "index": 167,
+    "MessageID": 67954,
+    "TextENGNew": "..........That was absurd.@k There was no such thing as a curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 67955,
+    "TextENGNew": "The image of Satoshi-kun's smile in my heart grew more and more distorted, fading away... disappearing......",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 67956,
+    "TextENGNew": "...The air conditioning felt too harsh, so I moved to a different seat.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 67957,
+    "TextENGNew": "My university notebook, a pencil case jangling with keychains, and a paper cup of milk tea with the milk floating on top in a thin film.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 67958,
+    "TextENGNew": "I gathered everything up and moved seats.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 67959,
+    "TextENGNew": "Once I sat down, I spread my notebook open again and returned to the world of deep contemplation, writing out my thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 67960,
+    "TextENGNew": "The Hinamizawa Village Serial Mysterious Deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 67961,
+    "TextENGNew": "Popularly known as 'Oyashiro-sama's Curse.'",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 67962,
+    "TextENGNew": "For most people, myself included, who had only ever viewed each year's incident individually,@k even though they were 'serial incidents,' the perception was always of separate, discrete events lined up -- strangely, the notion that they formed 'one grand incident' remained faint.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN nuance about how 'strangely' the incidents weren't recognized as one grand event, context simplified in original.",
+    "changeScore": 3
+  },
+  {
+    "index": 176,
+    "MessageID": 67963,
+    "TextENGNew": "But when I wrote out the past incidents like this, it became clear that all of these connected events were driven by a single underlying will.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 67964,
+    "TextENGNew": "I wrote out the victims.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 67965,
+    "TextENGNew": "Year one: the construction site manager.@k　　　@rYear two: Satoshi-kun's parents.@k@rYear three: the head priest.@k　　　@rYear four: Satoshi-kun's aunt.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 67966,
+    "TextENGNew": "......For the fourth year alone, Satoshi-kun himself might be more aptly called the victim than his aunt.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 67967,
+    "TextENGNew": "When I traced through these cases along the thread of lingering resentment from the dam conflict, they fell into a clear pattern.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 67968,
+    "TextENGNew": "First, year one.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 67969,
+    "TextENGNew": "The construction site manager was killed because his very existence was the most visible symbol of the enemy during the dam conflict.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 67970,
+    "TextENGNew": "The true enemy during the dam war was, of course, the Ministry of Construction and the government, but those were abstract concepts -- too vague to serve as a concrete image of 'the enemy.'",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 67971,
+    "TextENGNew": "The site manager, on the other hand, who had openly bared his hostility and hurled abuse at the villagers, was the easiest figure to picture as the village's enemy.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 67972,
+    "TextENGNew": "...If Oyashiro-sama were truly to deliver a curse in the truest sense, it should have been against the heads of the Ministry of Construction or the government.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 67973,
+    "TextENGNew": "The fact that the curse fell on the 'enemy' the villagers could most easily picture was itself a kind of proof that the village's collective will had influenced the selection of the target.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 67974,
+    "TextENGNew": "Next, year two.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 67975,
+    "TextENGNew": "The accident that killed Satoshi-kun's parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 67976,
+    "TextENGNew": "...They were said to have fallen from a railing at a scenic overlook, but whether it was truly an accident was dubious.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 67977,
+    "TextENGNew": "If the site manager represented the 'enemy,' then Satoshi-kun's parents -- villagers who had sided with the dam -- were positioned as 'traitors.'",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 67978,
+    "TextENGNew": "During the dam conflict, the Houjou family was relentlessly attacked and made an example of, in order to deter others from supporting the dam.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 67979,
+    "TextENGNew": "Thus, during the dam war, they were 'necessary' -- they served an important role as the designated 'traitors' for propaganda purposes.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 67980,
+    "TextENGNew": "And that was precisely why...",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 67981,
+    "TextENGNew": "...once the dam conflict ended, they had outlived their usefulness.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 67982,
+    "TextENGNew": "The site manager, symbol of the external enemy.@k The Houjou couple, symbol of the internal enemy.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 67983,
+    "TextENGNew": "With these two targets struck down by the 'curse' over the course of two years, it seemed as though the grudges from the dam war had been settled.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 67984,
+    "TextENGNew": "But in reality, the settling of accounts continued for one more year.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 67985,
+    "TextENGNew": "And so, year three.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 67986,
+    "TextENGNew": "The head priest of the Furude family, who was also the leader of one of the Three Families, suddenly died of illness.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 67987,
+    "TextENGNew": "His wife reportedly drowned herself that same night.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 67988,
+    "TextENGNew": "She was said to have left a note declaring she was offering her own life to appease Oyashiro-sama's anger.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 67989,
+    "TextENGNew": "Of course, whether it was truly illness or truly suicide, suspicion lingered.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 67990,
+    "TextENGNew": "Mion herself had previously admitted that the Sonozaki family did not look favorably on the head priest.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 67991,
+    "TextENGNew": "During the time when the entire village should have been united against the dam, the priest had taken an opportunistic, fence-sitting stance, which had infuriated the hawks.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 67992,
+    "TextENGNew": "He may not have been a traitor outright, but he was certainly uncooperative.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 67993,
+    "TextENGNew": "Viewed this way, I noticed that from year one onward -- 'enemy,'@k 'traitor,'@k 'non-cooperator'@k -- the 'curse' had been carried out in descending order of hostility.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 67994,
+    "TextENGNew": "Yes -- the 'curse' was, in essence, 'payment.'",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 67995,
+    "TextENGNew": "It was nothing other than retribution against the war criminals of the dam conflict.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 67996,
+    "TextENGNew": "...And then, year four.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 67997,
+    "TextENGNew": "The fourth year's incident was... honestly, difficult to parse.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 67998,
+    "TextENGNew": "At first, I had believed this incident, while it fell in the fourth year, was a standalone act.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 67999,
+    "TextENGNew": "I had thought it was an entirely separate case, unrelated to the serial incidents of the previous three years.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 68000,
+    "TextENGNew": "But when I wrote out the aunt's murder objectively like this...",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 68001,
+    "TextENGNew": "...The victim was a 'relative of a traitor.'",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 68002,
+    "TextENGNew": "After 'enemy,' 'traitor,' and 'non-cooperator,' adding 'relative of a traitor' to the lineage of victims did not feel out of place.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 68003,
+    "TextENGNew": "As a fourth rank in the hierarchy, it seemed apt.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 68004,
+    "TextENGNew": "On the very day of the festival honoring Oyashiro-sama, the village's guardian deity, the war criminals of the dam conflict were being 'struck down by the curse,' year by year.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 68005,
+    "TextENGNew": "Yes -- just as I had been made to 'pay' at the Sonozaki main house, their sins were being settled.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 68006,
+    "TextENGNew": "...Writing it all out like this, even the fourth year's incident began to look like it was part of the serial mysterious deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 68007,
+    "TextENGNew": "Whether the culprit was Satoshi-kun or the suspect who died after confessing...@k ...perhaps they were nothing more than 'executors' built into a four-year-long scenario.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 68008,
+    "TextENGNew": "Even if Satoshi-kun was the culprit, and even if his motive was sympathetic and rooted in his family situation...@k ...the result had been neatly incorporated into the 'Hinamizawa Village Serial Mysterious Deaths' -- the settling of accounts from the dam war.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 68009,
+    "TextENGNew": "...The incident Satoshi-kun had carried out in tragic resolve.",
+    "significantChanges": true,
+    "changeReason": "Original says 'the result of his pain'; new says 'carried out in tragic resolve' -- JPN 悲壮な決意 means tragic resolve, not pain.",
+    "changeScore": 3
+  },
+  {
+    "index": 223,
+    "MessageID": 68010,
+    "TextENGNew": "But what if all of it had been part of a predetermined scenario...?",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 68011,
+    "TextENGNew": "On that day, that night, at that place, Satoshi-kun...",
+    "significantChanges": true,
+    "changeReason": "Old translation 'For instance...' is completely wrong content for JPN 悟史くんに、あの日、あの晩に、あの場所で (to Satoshi, on that day, that night, at that place). Text appears misaligned.",
+    "changeScore": 5
+  },
+  {
+    "index": 225,
+    "MessageID": 68012,
+    "TextENGNew": "...What if someone had put the idea into his head to bludgeon his aunt to death......?",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 68013,
+    "TextENGNew": "...I had no doubt that Satoshi-kun loved his sister and had made his tragic decision to protect Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 68014,
+    "TextENGNew": "But whether he had truly conceived the plan to kill his aunt entirely 'by his own will' remained a mystery.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 68015,
+    "TextENGNew": "The Satoshi-kun I knew well... that somewhat optimistic, slightly absent-minded Satoshi-kun... no matter how much it was for his sister's sake... could he really have planned the murder of his aunt on his own...?",
+    "significantChanges": true,
+    "changeReason": "Original says 'detached'; new says 'absent-minded' -- JPN 抜けた means absent-minded/airheaded, not detached.",
+    "changeScore": 2
+  },
+  {
+    "index": 229,
+    "MessageID": 68016,
+    "TextENGNew": "What if, for example, there was a list of planned murders -- and the aunt had been designated as the fourth year's target from the start?",
+    "significantChanges": true,
+    "changeReason": "New explicitly mentions 'a list of planned murders' (殺人計画リスト) from JPN, omitted in original.",
+    "changeScore": 4
+  },
+  {
+    "index": 230,
+    "MessageID": 68017,
+    "TextENGNew": "And someone had skillfully exploited Satoshi-kun's particular circumstances?",
+    "significantChanges": true,
+    "changeReason": "Original says 'they used Satoshi-kun'; new specifies 'skillfully exploited his particular circumstances.'",
+    "changeScore": 3
+  },
+  {
+    "index": 231,
+    "MessageID": 68018,
+    "TextENGNew": "And Satoshi-kun, having become connected to that someone... was eliminated?",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 68019,
+    "TextENGNew": "Viewed that way, it paralleled the first year's construction manager murder, which was similar in nature.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 68020,
+    "TextENGNew": "The ringleader of that crime remained missing to this day, despite the police's exhaustive search.@k In the sense that neither his whereabouts nor his fate -- alive or dead -- was known, it mirrored Satoshi-kun's case.",
+    "significantChanges": true,
+    "changeReason": "New adds 'despite the police's exhaustive search' and notes the parallel with Satoshi-kun's case.",
+    "changeScore": 3
+  },
+  {
+    "index": 234,
+    "MessageID": 68021,
+    "TextENGNew": "The workers who carried out the crime reportedly testified that a minor quarrel had escalated into murder,@k ...but what if that escalation had been 'instigated' by the ringleader?",
+    "significantChanges": true,
+    "changeReason": "Original says 'fight turned into a slaughter'; new correctly says 'minor quarrel escalated into murder' -- JPN ちょっとした喧嘩.",
+    "changeScore": 3
+  },
+  {
+    "index": 235,
+    "MessageID": 68022,
+    "TextENGNew": "What if someone had put the idea into his head -- to carry out the killing on that day, at that time, in that place......?",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 68023,
+    "TextENGNew": "Yes.@k The first year's incident was... strikingly similar to Satoshi-kun's case in the fourth year.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 68024,
+    "TextENGNew": "Then... had Satoshi-kun been dancing in the palm of someone's hand all along...?",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 68025,
+    "TextENGNew": "Ooishi had posited that Satoshi-kun's disappearance was engineered to sever the connection between a murderer and me.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 68026,
+    "TextENGNew": "...But now, reading back over the notes I had written in outline form...@k Satoshi-kun's disappearance did not seem like something improvised on the spot. It felt as though it had been incorporated into a 'schedule' determined long in advance.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 68027,
+    "TextENGNew": "I had been an unplanned variable in that 'schedule,' so measures were taken to separate me.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 68028,
+    "TextENGNew": "And then, without missing a beat... Satoshi-kun was 'spirited away by the demon,' right on schedule...",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 68029,
+    "TextENGNew": "At first, I too had believed Satoshi-kun's disappearance was because the Sonozaki family could not publicly tolerate me, a twin of the family's next heir, being in love with Satoshi-kun of the traitorous Houjou family.",
+    "significantChanges": true,
+    "changeReason": "New adds detail about Shion being 'a twin of the family's next heir' from JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 243,
+    "MessageID": 68030,
+    "TextENGNew": "...But something was off.@k Something did not sit right.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 68031,
+    "TextENGNew": "Satoshi-kun's disappearance had nothing to do with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 68032,
+    "TextENGNew": "Even if I had never met Satoshi-kun...@k ...he would have killed his aunt in June of Showa 57, and he would have disappeared.",
+    "significantChanges": true,
+    "changeReason": "New preserves 'Showa 57' from JPN; original converts to '1982.'",
+    "changeScore": 2
+  },
+  {
+    "index": 246,
+    "MessageID": 68033,
+    "TextENGNew": "At one point, I had considered taking revenge on my grandmother.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 68034,
+    "TextENGNew": "Because I had believed she was the one who tore Satoshi-kun and me apart.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 68035,
+    "TextENGNew": "But if our relationship had nothing to do with it...",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 68036,
+    "TextENGNew": "..........What did that mean?",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 68037,
+    "TextENGNew": "...Who had made Satoshi-kun disappear...?",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 68038,
+    "TextENGNew": "To find out, I would have to confront the 'Hinamizawa Village Serial Mysterious Deaths' head-on.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 68039,
+    "TextENGNew": "What were these incidents?@k Who was behind them, what was their purpose, and how long would they continue...?",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 68040,
+    "TextENGNew": "Their intent, their objective.@k And the one responsible.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 68041,
+    "TextENGNew": "And... who had taken Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 68042,
+    "TextENGNew": "If, in the process, I could uncover whether Satoshi-kun was alive or dead...@k .............",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 68043,
+    "TextENGNew": "...The 'Hinamizawa Village Serial Mysterious Deaths' meant 'Oyashiro-sama's Curse.'@k ...What was Oyashiro-sama's curse...?",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 68044,
+    "TextENGNew": "What kind of god was Oyashiro-sama, to begin with...?@k What sort of deity was that again...?",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 68045,
+    "TextENGNew": "What blessings did Oyashiro-sama bestow, and what curses did Oyashiro-sama inflict...?",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 68046,
+    "TextENGNew": "My thoughts, instead of spilling from my lips, flowed through the tip of my mechanical pencil, spun into words on the page.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 68047,
+    "TextENGNew": "Oyashiro-sama is... Oyashiro-sama is...@k My wandering thoughts poured directly onto paper in written form...",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 68048,
+    "TextENGNew": "That was why.",
+    "significantChanges": true,
+    "changeReason": "Original says 'I was so absorbed by it...'; new says 'That was why.' -- JPN だから means therefore; completely different meanings.",
+    "changeScore": 4
+  },
+  {
+    "index": 262,
+    "MessageID": 68049,
+    "TextENGNew": "When I finally realized that someone had been standing behind me for some time, peering over my shoulder -- and had been doing so for quite a while --@k I could not help letting out a cry of surprise, almost like a scream.",
+    "significantChanges": true,
+    "changeReason": "Original says 'gasping'; new says 'a cry of surprise, almost like a scream' -- JPN 悲鳴にも似た声.",
+    "changeScore": 3
+  },
+  {
+    "index": 263,
+    "MessageID": 68050,
+    "TextENGNew": "``......I am sorry.@k@vS06/09/150900002. Did I startle you?@k@vS06/09/150900003. ...Hee hee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 68051,
+    "TextENGNew": "An intellectual-looking woman giggled mischievously.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 68052,
+    "TextENGNew": "``N-No.@k@vS06/06/150601184. You just surprised me.@k@vS06/06/150601185. ...I am sorry for making such a scene.``",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 68053,
+    "TextENGNew": "I offered a quick apology, but really, she was the one who had been peeping at me from behind -- she could have apologized too.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 68054,
+    "TextENGNew": "But far from apologizing, she stared intently at my face...",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 68055,
+    "TextENGNew": "``...............Are you Sonozaki Shion-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 68056,
+    "TextENGNew": "``...........You know my name, yet we have never met... You must be an acquaintance of my sister's?``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 68057,
+    "TextENGNew": "Being a twin is unpleasant at times like these.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 68058,
+    "TextENGNew": "The other person already knows who you are, but you have no idea who they are.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 68059,
+    "TextENGNew": "``Hee hee, I am sorry.@k@vS06/09/150900006. The Sonozaki-san I know would never set foot in a library.@k@vS06/09/150900007. So I guessed you might be the twin sister I had heard rumors about -- Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 68060,
+    "TextENGNew": "The woman giggled, looking amused.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 68061,
+    "TextENGNew": "``As you surmised, I am Sonozaki Shion.@k@vS06/06/150601188. How do you do. Nice to meet you.@k@vS06/06/150601189. Forgive me, but who might you be?``",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 68062,
+    "TextENGNew": "``Oh, I am sorry. I have not introduced myself yet, have I?``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 68063,
+    "TextENGNew": "She seemed proud of her hair, running her fingers through it as she spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 68064,
+    "TextENGNew": "``Takano Miyo.@k@vS06/09/150900010. You can call me Miyo, Shion-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 68065,
+    "TextENGNew": "``Thank you for the kind offer, Takano-san.``",
+    "significantChanges": true,
+    "changeReason": "Original says 'Nice to meet you'; new says 'Thank you for the kind offer' -- JPN お気遣いありがとうございます means the latter.",
+    "changeScore": 4
+  },
+  {
+    "index": 279,
+    "MessageID": 68066,
+    "TextENGNew": "I had been feeling an undeniable irritation for some time now, as though I were being subtly looked down upon.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 68067,
+    "TextENGNew": "There is nothing I despise more than being condescended to by someone I have just met.",
+    "significantChanges": true,
+    "changeReason": "Original is vague ('people like that'); new captures specific JPN meaning about being condescended to by a stranger.",
+    "changeScore": 3
+  },
+  {
+    "index": 281,
+    "MessageID": 68068,
+    "TextENGNew": "So I closed my notebook and made to stand up, signaling my refusal.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 68069,
+    "TextENGNew": "``Oh... are you upset?``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 68070,
+    "TextENGNew": "``How perceptive of you. I am deeply moved.@k@vS06/06/150601192. I prefer to think alone, so I will be taking my leave.@k@vS06/06/150601193. Excuse me. Farewell.``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 68071,
+    "TextENGNew": "``...What a pity.@k@vS06/09/150900013. I thought we would get along so well.``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 68072,
+    "TextENGNew": "``Is that so?@k@vS06/06/150601195. I fail to see why.``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 68073,
+    "TextENGNew": "``Because I have finally met a kindred spirit -- a fellow researcher of Oyashiro-sama's curse.@k@vS06/09/150900015. I would think that is quite a rare encounter, would you not agree...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 68074,
+    "TextENGNew": "My face flushed red.@k ...She had gotten a good look at the contents of my notebook.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 68075,
+    "TextENGNew": "``Th-This is just -- my own delusions, fantasies!@k@vS06/06/150601197. It is all nonsense.@k@vS06/06/150601198. Please disregard a child's scribbling!``",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 68076,
+    "TextENGNew": "``The series of mysterious deaths known as Oyashiro-sama's curse.@k@vS06/09/150900017. Though each incident appears independent, they are all unmistakably driven by a single will.``",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 68077,
+    "TextENGNew": "``Each year, one person falls victim to Oyashiro-sama's curse and dies, and one person is offered as a sacrifice and vanishes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 68078,
+    "TextENGNew": "``Wh-...what?@k@vS06/06/150601200. What are you suddenly saying?@k@vS06/06/150601201. One person dies by the curse and... one person... what did you say...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 68079,
+    "TextENGNew": "Bombarded so abruptly with something so outlandish, I was caught off guard and stammered.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 68080,
+    "TextENGNew": "...But I quickly realized she had said something extraordinary.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 68081,
+    "TextENGNew": "``You must have noticed that the number of victims in the Hinamizawa serial mysterious deaths is always even, haven't you?@k@vS06/09/150900020. ...Or have you not gotten that far yet?``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 68082,
+    "TextENGNew": "The number of victims was always even...??",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 68083,
+    "TextENGNew": "I tried to organize my confused thoughts by reviewing the incidents so far.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 68084,
+    "TextENGNew": "In the first year, the construction site manager died.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 68085,
+    "TextENGNew": "That should have been one person.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 68086,
+    "TextENGNew": "In the second year, Satoshi-kun's parents... two people.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 68087,
+    "TextENGNew": "In the third year... the head priest, one person.@k ...No, if his wife's suicide was also part of the conspiracy, then two...",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 68088,
+    "TextENGNew": "And in the fourth year, the aunt died... and Satoshi-kun disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 68089,
+    "TextENGNew": "If Satoshi-kun's disappearance was also part of the conspiracy... then the victims were indeed two.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 68090,
+    "TextENGNew": "...It was true.@k Except for the first year, the number of victims was always even -- always two.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 68091,
+    "TextENGNew": "No, wait.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 68092,
+    "TextENGNew": "...I had just concluded myself that the first year's case closely resembled the fourth year's.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 68093,
+    "TextENGNew": "The ringleader's whereabouts remained unknown to this day -- which meant that, like Satoshi-kun, the possibility that he too had been 'spirited away by the demon' could not be ruled out.",
+    "significantChanges": true,
+    "changeReason": "New preserves 'spirited away by the demon' and adds nuance about the possibility not being ruled out.",
+    "changeScore": 3
+  },
+  {
+    "index": 307,
+    "MessageID": 68094,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 68095,
+    "TextENGNew": "``See?@k@vS06/09/150900022. It makes sense now, doesn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 68096,
+    "TextENGNew": "Like a teacher working through a difficult math problem at the blackboard, Takano-san guided me to the answer.@k ......I could not bring myself to nod, but neither could I find the words to deny it.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 68097,
+    "TextENGNew": "``Is that enough of a hint, I wonder...?@k@vS06/09/150900024. I would have loved to discuss this at length, but if you prefer solitude, there is nothing I can do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 68098,
+    "TextENGNew": "``...Hee hee hee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 68099,
+    "TextENGNew": "``...I apologize for being rude earlier, Miyo-san.@k@vS06/06/150601204. Please call me Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 68100,
+    "TextENGNew": "``...Pfft... hee hee hee hee...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 68101,
+    "TextENGNew": "My abrupt about-face seemed to delight her, and she laughed contentedly for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 68102,
+    "TextENGNew": "Takano Miyo -- a woman who exuded a faintly suspicious aura.@k Ordinarily, I would not want to get involved with someone so dubious.",
+    "significantChanges": true,
+    "changeReason": "Original says 'She didn't seem that reliable'; new says 'a woman who exuded a faintly suspicious aura' -- different characterizations.",
+    "changeScore": 3
+  },
+  {
+    "index": 316,
+    "MessageID": 68103,
+    "TextENGNew": "But... for someone like me, whose opportunities to meet people were severely limited, this was a rare and precious encounter,@k ...and I could not conceal my interest in what she had to say.",
+    "significantChanges": true,
+    "changeReason": "Original says 'I don't get to talk to people very much'; new captures the significance of this being a 'rare and precious encounter.'",
+    "changeScore": 3
+  },
+  {
+    "index": 317,
+    "MessageID": 68104,
+    "TextENGNew": "``Let me introduce myself properly.@k@vS06/09/150900028. I am Takano Miyo.@k@vS06/09/150900029. I would be happy if you called me Miyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 68105,
+    "TextENGNew": "``Pleased to meet you, Miyo-san.@k@vS06/06/150601206. I am Sonozaki Shion.@k@vS06/06/150601207. Mion's twin sister.@k@vS06/06/150601208. Please call me Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 68106,
+    "TextENGNew": "Miyo-san offered a handshake, and I took her hand as a small gesture of reconciliation.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 68107,
+    "TextENGNew": "``Please tell me more about what you said earlier.@k@vS06/06/150601210. You said there are always two victims, correct?@k@vS06/06/150601211. One who dies by the curse, and the other... you said something about a sacrifice?``",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 68108,
+    "TextENGNew": "``......Shion-chan.@k@vS06/09/150900031. Before we get into that, would you mind telling me why you are interested in this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 68109,
+    "TextENGNew": "She leaned forward slightly and peered into my eyes.@k ...It was not entirely comfortable.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 68110,
+    "TextENGNew": "``......How much do you know about me, Miyo-san?@k@vS06/06/150601213. If you know that much, I imagine you can roughly guess.``",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 68111,
+    "TextENGNew": "``Hmm...@k@vS06/09/150900033. I only know that you spent several years at a boarding school somewhere far away, and recently returned to Okinomiya...``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 68112,
+    "TextENGNew": "``I see.@k@vS06/06/150601215. Then you can probably imagine.@k@vS06/06/150601216. The serial mysterious deaths that occurred while I was away --@k@vS06/06/150601217. I do not know much about them, so I am looking into it.@k@vS06/06/150601218. Just out of curiosity.``",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 68113,
+    "TextENGNew": "``...........I see.@k@vS06/09/150900035. Out of curiosity, hm?``",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 68114,
+    "TextENGNew": "This woman, who had immediately recognized me as Shion rather than Mion...@k ...I had a feeling she knew about Satoshi-kun and me as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 68115,
+    "TextENGNew": "...Unless she had an intelligence network as formidable as Ooishi's, there was no reason she should know that much -- I could not explain even to myself why I thought so.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 68116,
+    "TextENGNew": "It was just something about her eyes -- a knowing quality, as though she already saw through everything...",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 68117,
+    "TextENGNew": "``Let me ask you as well, Miyo-san.@k@vS06/06/150601220. Earlier, you called me a fellow researcher of Oyashiro-sama's curse.@k@vS06/06/150601221. Why are you researching the curse?@k@vS06/06/150601222. And you stated with certainty that the number of victims in the serial mysterious deaths is always even.``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 68118,
+    "TextENGNew": "``It is true that the Hinamizawa serial mysterious deaths are commonly called Oyashiro-sama's curse.@k@vS06/06/150601224. But why would researching the curse lead you to delve into the serial mysterious deaths themselves?``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 68119,
+    "TextENGNew": "``Shion-chan, you are asking too many questions at once.@k@vS06/09/150900037. And they are getting tangled -- I cannot tell what you really want to know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 68120,
+    "TextENGNew": "Ugh...@k I fell silent in spite of myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 68121,
+    "TextENGNew": "Perhaps I had tried to ask too many things at once and gotten muddled.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 68122,
+    "TextENGNew": "``I will answer in order.@k@vS06/09/150900039. ...What I am researching is not the curse per se, but something much broader.``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 68123,
+    "TextENGNew": "``The cultural history of Onigafuchi Village.@k@vS06/09/150900041. In plain terms, I am researching the unknown history -- the dark history -- of ancient Hinamizawa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 68124,
+    "TextENGNew": "``Onigafuchi Village??@k@vS06/06/150601226. Onigafuchi -- you mean that bottomless swamp deep in the village that is said to connect to the realm of the demons?@k@vS06/06/150601227. And what do you mean by unknown history, dark history...?``",
+    "significantChanges": true,
+    "changeReason": "Original says 'connected to Hell'; new correctly says 'connected to the realm of the demons' -- JPN 鬼の国.",
+    "changeScore": 3
+  },
+  {
+    "index": 338,
+    "MessageID": 68125,
+    "TextENGNew": "I fired off my questions in rapid succession.",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 68126,
+    "TextENGNew": "Every one of them seemed to be exactly what Miyo-san wanted to be asked -- she smiled with evident delight.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 68127,
+    "TextENGNew": "``Onigafuchi Village was the name of Hinamizawa before the Meiji Era.@k@vS06/09/150900043. As for the dark history... you must have at least a vague idea, don't you?@k@vS06/09/150900044. The history of the man-eating demons.``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 68128,
+    "TextENGNew": "......Ah... the man-eating demons.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 68129,
+    "TextENGNew": "That was a folk tale passed down in Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 68130,
+    "TextENGNew": "Long ago, demons came from the demon realm at the bottom of the swamp and battled the villagers,@k but in the end, they decided to live together peacefully.@k And so the villagers, inheriting half human and half demon blood, became semi-divine beings...",
+    "significantChanges": true,
+    "changeReason": "New includes JPN detail about 'half human and half demon blood' (半人半鬼) and 'semi-divine beings'; original says 'sacred people.'",
+    "changeScore": 3
+  },
+  {
+    "index": 344,
+    "MessageID": 68131,
+    "TextENGNew": "The folk tale I had heard somewhere long ago came flooding back to my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 68132,
+    "TextENGNew": "``Anyone with ties to Hinamizawa knows this story -- it is common knowledge.@k@vS06/09/150900046. But do you know about the banquets -- where those half-human, half-demon beings descended from the mountains and feasted on the people they had abducted?``",
+    "significantChanges": true,
+    "changeReason": "New includes full content about banquets where demons 'descended from mountains and feasted on abducted people'; original truncates.",
+    "changeScore": 3
+  },
+  {
+    "index": 346,
+    "MessageID": 68133,
+    "TextENGNew": "``What?@k@vS06/06/150601229. ...Wh-What are you talking about?``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 68134,
+    "TextENGNew": "``You are aware that the villagers carry the blood of man-eating demons in their veins -- the demons were man-eaters -- have you never heard that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 68135,
+    "TextENGNew": "``...........Ah......... well, yes, I suppose there is that version of the story.``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 68136,
+    "TextENGNew": "I laughed vaguely and deflected.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 68137,
+    "TextENGNew": "Hinamizawa had originally been an insular, impoverished village, but after the war it had gradually expanded its influence, now extending its reach to the town of Okinomiya and beyond.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 68138,
+    "TextENGNew": "There were some people who resented or discriminated against those from Hinamizawa, and when they wanted to insult us, they would call us 'man-eating demons.' I was vaguely aware of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 68139,
+    "TextENGNew": "We younger people did not take such slurs very seriously, but the older generation reacted with extreme hostility to anything of the sort.@k Far too severely for it to ever be laughed off.",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 68140,
+    "TextENGNew": "So among us, 'man-eating demons' was a taboo phrase, never to be used lightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 68141,
+    "TextENGNew": "Even for someone in the throes of rebellion like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 68142,
+    "TextENGNew": "Miyo-san, however, used that forbidden phrase without a hint of hesitation -- as though it did not concern her in the slightest.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 68143,
+    "TextENGNew": "``...Are you upset?``",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 68144,
+    "TextENGNew": "``About what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 68145,
+    "TextENGNew": "``...I know people hate that phrase in Hinamizawa.@k@vS06/09/150900050. I apologize if I made you feel uncomfortable.``",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 68146,
+    "TextENGNew": "``The old people wouldn't like it, but I'm fine...@k@vS06/06/150601233. Would you continue?``",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 68147,
+    "TextENGNew": "As I urged her to go on, Miyo-san smiled reassuringly and resumed talking.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 68148,
+    "TextENGNew": "And as I listened to her story about the history of the ancient Onigafuchi and the true meaning of Watanagashi@k ...a strange sound mixed with static started buzzing in my ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 68149,
+    "TextENGNew": "Gzz... Gzzgzz...",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 68150,
+    "TextENGNew": "...But from where? I've never heard anything like this before...",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 68151,
+    "TextENGNew": "Gzz... Gzzgzz...@k Gzz... Gzzgzz...",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 68152,
+    "TextENGNew": "The sound gradually grew louder and louder,@k scraping the inside of my head and deeply inside my chest.@k It was a slow,@k dull,@k and uncomfortable sound that just droned on.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 68153,
+    "TextENGNew": "And as if in response to the sound,@k my heart started throbbing,@k painfully and loudly,@k as though it were a person's anguished cry.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 68154,
+    "TextENGNew": "Gzz... Gzzgzz...@k Gzz... Gzzgzz...@k Gzz... Gzzzzzzzzzzzz......",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 68155,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 68156,
+    "TextENGNew": "I give Miyo-san vague nods as she continues her story, annoyed at the noisy static ringing in my ears all the while.#k ...That said, her stories of Hinamizawa's past were all nothing short of outrageous.",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 68157,
+    "TextENGNew": "I was just taken aback.",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 68158,
+    "TextENGNew": "And when she gathered from my expression how incredulous it all sounded to me...@k She began stringing even more sentences together.",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 68159,
+    "TextENGNew": "``It's not a hoax. I didn't make any of this up.@k@vS06/09/150900064. If you promise not to tell anyone, I can show you my notes on Watanagashi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 68160,
+    "TextENGNew": "Miyo-san took out a notebook from her bag and flipped through it.",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 68161,
+    "TextENGNew": "She appeared to be doing her research thoroughly.",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 68162,
+    "TextENGNew": "``...Thank you.@k@vS06/06/150601237. I'd love to read it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 68163,
+    "TextENGNew": "``Sure.@k@vS06/09/150900066. I'd like to keep it confidential...",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 68164,
+    "TextENGNew": "......Hee hee, but I guess I should share it with my fellow researcher.``",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 68165,
+    "TextENGNew": "Miyo-san handed me the notebook a bit hesitantly.",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 68166,
+    "TextENGNew": "It looked like it'd take a whole night to finish reading.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 68167,
+    "TextENGNew": "It was densely packed with information.",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 68168,
+    "TextENGNew": "I saw copies of various documents and quotes in there too. It wasn't just some delusion of hers.",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 68169,
+    "TextENGNew": "``...You told me@k@vS06/06/150601239. that one person dies because of the curse and another person is sacrificed and disappears, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 68170,
+    "TextENGNew": "A person is sacrificed and disappears.",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 68171,
+    "TextENGNew": "...Satoshi-kun had gone missing.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 68172,
+    "TextENGNew": "......Did he become a sacrifice...?@k What is a sacrifice anyway...?",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 68173,
+    "TextENGNew": "Miyo-san looked pleased to hear my questions again. She took out another notebook and handed it to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 68174,
+    "TextENGNew": "``I think you'll understand once you read it, but I'll give you a digest version...@k@vS06/09/150900069. Oyashiro-sama's curse is simply Oyashiro-sama's anger.@k@vS06/09/150900070. In other words, the curse is caused by Oyashiro-sama's anger,@k@vS06/09/150900071. do you follow?``",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 68175,
+    "TextENGNew": "``Yes......@k@vS06/06/150601241. You're saying that Oyashiro-sama was mad at the people who opposed the village during the dam conflict, and that's why the curse occurred.``",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 68176,
+    "TextENGNew": "``That's right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 68177,
+    "TextENGNew": "``Oyashiro-sama's anger has to be pacified.@k@vS06/09/150900074. If not, something even worse will occur.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 68178,
+    "TextENGNew": "So, all the successive priests at the Furude Shrine had to perform a sacrifice every time the curse struck, in order to pacify Oyashiro-sama.``",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 68179,
+    "TextENGNew": "``So...... each year on the day of Watanagashi, one person dies because of the curse,@k@vS06/06/150601243. and another one is sacrificed to pacify Oyashiro-sama's anger?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 68180,
+    "TextENGNew": "B-But... only one of them actually died.@k And there's no public record of any other casualties in these incidents...!",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 68181,
+    "TextENGNew": "``Naturally, there's no body.@k@vS06/09/150900078. The ritual of sacrifice requires the offering be sunk into Onigafuchi Swamp.``",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 68182,
+    "TextENGNew": "Miyo-san instantly responded to dismiss my faint hopes.@k I couldn't help but shudder at the mocking smile that appeared on her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 68183,
+    "TextENGNew": "...It's true. They say that nothing sunk into the bottomless swamp of Onigafuchi may ever rise again.@k It would be the perfect place to hide a body...",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 68184,
+    "TextENGNew": "``So... one of the victims is always thrown into the swamp every year...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 68185,
+    "TextENGNew": "Does that mean Satoshi-kun is also at the bottom of that dark green swamp...?",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 68186,
+    "TextENGNew": "``I don't know...@k@vS06/09/150900082. I'm not sure that they really throw them into the swamp.@k@vS06/09/150900083. But those who make these incidents happen must be eliminating one person based on that legend.``",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 68187,
+    "TextENGNew": "Each year a traitor to the village dies on the day of Watanagashi because of Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 68188,
+    "TextENGNew": "And another person is sacrificed in order to pacify Oyashiro-sama's anger.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 68189,
+    "TextENGNew": "...That person's body will never be found, because he or she is supposedly thrown into the bottomless swamp.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 68190,
+    "TextENGNew": "``Yes, you get it...@k@vS06/09/150900085. The series of mysterious deaths always involves both the curse and the sacrifice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 68191,
+    "TextENGNew": "``It's a system that allows two traitors to die every year.``",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 68192,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 68193,
+    "TextENGNew": "``What I'm telling you now probably isn't sufficient,@k@vS06/09/150900088. so it might be hard to grasp.@k@vS06/09/150900089. Instead, I want you to take the time to read my notes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 68194,
+    "TextENGNew": "``You'll see that what I'm telling you isn't far from the truth at all...``",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 68195,
+    "TextENGNew": "I heard a man's voice just then.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 68196,
+    "TextENGNew": "A middle-aged man with a hat was waving at Miyo-san from the entrance.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 68197,
+    "TextENGNew": "``...Sorry, I think I have to go.@k@vS06/09/150900092. I wanted to talk to you more,@k@vS06/09/150900093. but... I guess we'll have another chance to chat.@k@vS06/09/150900094. I'll leave those notes to you.",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 68198,
+    "TextENGNew": "I'm looking forward to hearing your opinions.``",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 68199,
+    "TextENGNew": "Miyo-san wrapped up the conversation and headed to where the man was waiting for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 68200,
+    "TextENGNew": "She left her old notebooks in my hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 68201,
+    "TextENGNew": "Miyo-san waved at me as she left the library with her companion.",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 68202,
+    "TextENGNew": "...I took a seat again and opened what she'd given me...",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 68203,
+    "TextENGNew": "What bugged me was the series of mysterious deaths,@k also known as the curse of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 68204,
+    "TextENGNew": "Maybe I'd be able to get closer to the truth by reading these notebooks...",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 68205,
+    "TextENGNew": "If I studied them carefully, I might be able to find out who was really behind the incidents.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 68206,
+    "TextENGNew": "Why did Satoshi-kun have to disappear...? What was he involved in? How did that happen...?",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 68207,
+    "TextENGNew": "Maybe Takano's notes would bring me the answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 68208,
+    "TextENGNew": "......Research notes - Miyo Takano",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 68209,
+    "TextENGNew": "I started flipping the pages, this time making sure that no one was watching over my shoulder......",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 68210,
+    "TextENGNew": "It was time for the library to close. I had to leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 68211,
+    "TextENGNew": "I bought some food on my way home.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 68212,
+    "TextENGNew": "I shut my door and locked it right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 68213,
+    "TextENGNew": "Then, I heard the door of the neighboring apartment open.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 68214,
+    "TextENGNew": "Kasai lived next door.",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 68215,
+    "TextENGNew": "...Nobody else lived on this floor of the nearly empty apartment building anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 68216,
+    "TextENGNew": "I clearly heard the door open and close.",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 68217,
+    "TextENGNew": "Kasai must've noticed that I came home, and was coming over because he wanted to talk to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 68218,
+    "TextENGNew": "I unlocked the door and shouted out to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 68219,
+    "TextENGNew": "``Is that you, Kasai?@k@vS06/06/150601247_2. I'll leave the door unlocked for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 68220,
+    "TextENGNew": "``I'm not Kasai-san, Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 68221,
+    "TextENGNew": "That voice...@k I twitched.",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 68222,
+    "TextENGNew": "``Can I come in...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 68223,
+    "TextENGNew": "``......Sure,@k@vS06/06/150601249. Sis.``",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 68224,
+    "TextENGNew": "The door slowly opened.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 68225,
+    "TextENGNew": "......My alter ego Mion Sonozaki appeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 68226,
+    "TextENGNew": "She was holding a box of cake...",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 68227,
+    "TextENGNew": "While smiling timidly.",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 68228,
+    "TextENGNew": "``......Are you going to keep standing there until I escort you?@k@vS06/06/150601251. Come in.@k@vS06/06/150601252. Sorry this room doesn't look very cute.``",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 68229,
+    "TextENGNew": "``...It looks comfortable.``",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 68230,
+    "TextENGNew": "Sis looked a bit tense when entering my room. It was her first time here.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 68231,
+    "TextENGNew": "``How's life...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 68232,
+    "TextENGNew": "``My new school is as boring as I thought it would be.@k@vS06/06/150601254. I usually go, but I skip classes when I don't feel up to it.@k@vS06/06/150601255. I couldn't do that when I was going to St. Lucia's.``",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 68233,
+    "TextENGNew": "``Ahahahahaha.@k@vS06/03/150300232. So St. Lucia's was really tough, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 68234,
+    "TextENGNew": "``Hah, you should go there sometime.``",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 68235,
+    "TextENGNew": "``Ahaha, sorry.@k@vS06/03/150300234. I brought cake. Let's eat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 68236,
+    "TextENGNew": "Mion opened the box. I saw two cheesecakes there.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 68237,
+    "TextENGNew": "We have the same taste in food,@k so we don't have to fight if we get two of the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 68238,
+    "TextENGNew": "I chatted with her over the cheesecake.",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 68239,
+    "TextENGNew": "I talked to her about school and whatnot.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 68240,
+    "TextENGNew": "``If you need furniture, tell me.@k@vS06/03/150300236. I might be able to get some for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 68241,
+    "TextENGNew": "``Hmm.@k@vS06/06/150601258. I finally got used to this room, but I might move out soon. So furniture won't be necessary. Thanks, though.``",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 68242,
+    "TextENGNew": "``Dad wants me to come back home...@k@vS06/06/150601260. I don't want to live with him, but he sounds desperate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 68243,
+    "TextENGNew": "``Ahahahaha.@k@vS06/03/150300238. He'd be pleased if you came home. He looked lonely while you were gone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 68244,
+    "TextENGNew": "``Hah, you can only say that because you don't have to live with him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 68245,
+    "TextENGNew": "``Ahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 68246,
+    "TextENGNew": "Come to think of it, this was the first time I'd talked to Sis since I was allowed to live as Shion Sonozaki.",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 68247,
+    "TextENGNew": "She didn't look like how she was at the Sonozaki house that day.",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 68248,
+    "TextENGNew": "The successor of the Sonozaki family and my twin sister are two different people.",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 68249,
+    "TextENGNew": "The demon lives inside the leader of the Sonozakis.",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 68250,
+    "TextENGNew": "Our bodies are exactly the same, except for the tattoo of a demon on her back.",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 68251,
+    "TextENGNew": "Mion's destiny as the successor was set in stone when she got that tattoo.",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 68252,
+    "TextENGNew": ".........It's pretty simple.@k The Mion from that night was different from the Mion before me.",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 68253,
+    "TextENGNew": "When I was forced to tear off my fingernails, I'd momentarily despised her.",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 68254,
+    "TextENGNew": "But if I were the next leader of the family...@k I'd have done the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 68255,
+    "TextENGNew": "``......Shion...@k@vS06/03/150300241. how are... your fingernails?``",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 68256,
+    "TextENGNew": "``The wounds have closed.@k@vS06/06/150601263. I don't bandage them anymore because it looks too conspicuous...@k@vS06/06/150601264. but my nails still look ugly, so I don't really like showing them to people...``",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 68257,
+    "TextENGNew": "I sneered at her, displaying my incomplete fingernails.",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 68258,
+    "TextENGNew": "Mion grew quiet and looked down.",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 68259,
+    "TextENGNew": "``......You don't have to apologize.@k@vS06/06/150601266. You did what you had to do.@k@vS06/06/150601267. You just played the role of the successor.@k@vS06/06/150601268. I'm not holding any grudges.``",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 68260,
+    "TextENGNew": "``.........I'm sorry...``",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 68261,
+    "TextENGNew": "``Okay!@k@vS06/06/150601270. Apology accepted.@k@vS06/06/150601271. But!@k@vS06/06/150601272. If you apologize one more time, that'll be canceled!@k@vS06/06/150601273. I won't forgive you for the rest of my life!``",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 68262,
+    "TextENGNew": "``Huh?!@k@vS06/03/150300244. What do you mean...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 68263,
+    "TextENGNew": "``Once you start apologizing, you never stop,@k@vS06/06/150601275. so I'm cutting you off.``",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 68264,
+    "TextENGNew": "``...Will you really forgive me...?@k@vS06/03/150300246. About Satoshi-kun, as well...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 68265,
+    "TextENGNew": "My heart ached when she mentioned his name.",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 68266,
+    "TextENGNew": "...It felt just like the ache of an old wound.",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 68267,
+    "TextENGNew": "``...I figured you loved him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 68268,
+    "TextENGNew": "``No wonder. I shouted it out loud in front of all of you.@k@vS06/06/150601277. I'm not embarrassed anymore.@k@vS06/06/150601278. Ahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 68269,
+    "TextENGNew": "``Granny truly believes you've atoned.@k@vS06/03/150300249. She thinks you've done all you needed to do,@k@vS06/03/150300250. so the matter is finished.``",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 68270,
+    "TextENGNew": "``......That's good.@k@vS06/06/150601280. My pain won't go to waste, then.``",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 68271,
+    "TextENGNew": "``I wonder where... Satoshi-kun disappeared to, though...``",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 68272,
+    "TextENGNew": "I started choking when I heard her say that.",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 68273,
+    "TextENGNew": "I'd just said it to her myself...",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 68274,
+    "TextENGNew": "I said that I'd forgiven her completely...@k but that promise instantly evaporated...",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 68275,
+    "TextENGNew": "Just because of what she said, I felt like I'd turned into a completely different person...",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 68276,
+    "TextENGNew": "...What did you just say, Mion...?",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 68277,
+    "TextENGNew": "Did you say 'I wonder where Satoshi-kun disappeared to'...?",
+    "significantChanges": false
+  },
+  {
+    "index": 491,
+    "MessageID": 68278,
+    "TextENGNew": "Who else could know other than you and your folks?",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 68279,
+    "TextENGNew": "What did you say...?@k Where did he go......?",
+    "significantChanges": false
+  },
+  {
+    "index": 493,
+    "MessageID": 68280,
+    "TextENGNew": "I felt my eyeballs reddening in anger. It felt as though they were about to pop.",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 68281,
+    "TextENGNew": "I choked on a burning sensation in my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 495,
+    "MessageID": 68282,
+    "TextENGNew": "``.....................!``",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 68283,
+    "TextENGNew": "Mion's expression rapidly changed.",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 68284,
+    "TextENGNew": "It looked like she noticed the devil's mask on my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 68285,
+    "TextENGNew": "We were one and the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 499,
+    "MessageID": 68286,
+    "TextENGNew": "...We could understand each other's thoughts without voicing them.",
+    "significantChanges": false
+  },
+  {
+    "index": 500,
+    "MessageID": 68287,
+    "TextENGNew": "So showing our expressions was like unveiling everything in our hearts to the other.",
+    "significantChanges": false
+  },
+  {
+    "index": 501,
+    "MessageID": 68288,
+    "TextENGNew": "``......Uh...... s-sorry......``",
+    "significantChanges": false
+  },
+  {
+    "index": 502,
+    "MessageID": 68289,
+    "TextENGNew": "Even though I'd told her not to apologize anymore, Mion apologized.",
+    "significantChanges": false
+  },
+  {
+    "index": 503,
+    "MessageID": 68290,
+    "TextENGNew": "...I felt like strangling her...",
+    "significantChanges": false
+  },
+  {
+    "index": 504,
+    "MessageID": 68291,
+    "TextENGNew": "I was going to make her confess where she'd hid Satoshi-kun...",
+    "significantChanges": false
+  },
+  {
+    "index": 505,
+    "MessageID": 68292,
+    "TextENGNew": "If she told me she threw him into the Onigafuchi Swamp, I'd strangle her to death right then and there......!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 506,
+    "MessageID": 68293,
+    "TextENGNew": "``I really don't know... what happened to Satoshi-kun...``",
+    "significantChanges": false
+  },
+  {
+    "index": 507,
+    "MessageID": 68294,
+    "TextENGNew": "That's a lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 508,
+    "MessageID": 68295,
+    "TextENGNew": "``...It's true...@k@vS06/03/150300256. Granny doesn't know anything either...@k@vS06/03/150300257. Please believe me...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 509,
+    "MessageID": 68296,
+    "TextENGNew": "``That's a lie...@k@vS06/06/150601282. Are you saying that Oyashiro-sama's curse demoned him away?@k@vS06/06/150601283. There can't be a curse... There can't be...``",
+    "significantChanges": false
+  },
+  {
+    "index": 510,
+    "MessageID": 68297,
+    "TextENGNew": "Words kept coming out of my mouth, like I was chanting a spell.",
+    "significantChanges": false
+  },
+  {
+    "index": 511,
+    "MessageID": 68298,
+    "TextENGNew": "...I wasn't speaking by my own will anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 512,
+    "MessageID": 68299,
+    "TextENGNew": "It was the demon...... who was controlling me.",
+    "significantChanges": false
+  },
+  {
+    "index": 513,
+    "MessageID": 68300,
+    "TextENGNew": "The demon that'd been sleeping deep inside me woke up and was speaking through my mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 514,
+    "MessageID": 68301,
+    "TextENGNew": "My hands... I mean, the demon's hands grabbed Mion by the neck.",
+    "significantChanges": false
+  },
+  {
+    "index": 515,
+    "MessageID": 68302,
+    "TextENGNew": "``You guys demoned Satoshi-kun away...!@k@vS06/06/150601285. You and the Sonozaki family!!@k@vS06/06/150601286. Give him back to me!!@k@vS06/06/150601287. Give him back!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 516,
+    "MessageID": 68303,
+    "TextENGNew": "My hands slowly but surely squeezed Mion's neck...",
+    "significantChanges": false
+  },
+  {
+    "index": 517,
+    "MessageID": 68304,
+    "TextENGNew": "Mion put her hands onto mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 518,
+    "MessageID": 68305,
+    "TextENGNew": "...I looked at her fingers.",
+    "significantChanges": false
+  },
+  {
+    "index": 519,
+    "MessageID": 68306,
+    "TextENGNew": "Three of the fingernails on her left hand looked as ugly as mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 520,
+    "MessageID": 68307,
+    "TextENGNew": "``......Mion?@k@vS06/06/150601289. What's this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 521,
+    "MessageID": 68308,
+    "TextENGNew": "Tears rolled down her cheeks.",
+    "significantChanges": false
+  },
+  {
+    "index": 522,
+    "MessageID": 68309,
+    "TextENGNew": "She didn't have to answer...@k She had the same scars as I did...@k She atoned as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 523,
+    "MessageID": 68310,
+    "TextENGNew": "The way those wounds were healing looked the same as mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 524,
+    "MessageID": 68311,
+    "TextENGNew": "...So, did she get these wounds around the same time as I did...?",
+    "significantChanges": false
+  },
+  {
+    "index": 525,
+    "MessageID": 68312,
+    "TextENGNew": "``.........It was unfair that only you had to go through that... hic... I felt so bad... hic...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 526,
+    "MessageID": 68313,
+    "TextENGNew": "Mion started sobbing......@k ...I stood there, petrified, still wringing Mion's neck.",
+    "significantChanges": false
+  },
+  {
+    "index": 527,
+    "MessageID": 68314,
+    "TextENGNew": "``...Since I found out you loved Satoshi-kun...@k@vS06/03/150300258_02. I really wanted you to be happy...``",
+    "significantChanges": false
+  },
+  {
+    "index": 528,
+    "MessageID": 68315,
+    "TextENGNew": "``hic... because...@k@vS06/03/150300258_04. it's always only you who has to suffer, even though we're twins... hic...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 529,
+    "MessageID": 68316,
+    "TextENGNew": "It didn't come as a surprise to me that Mion might also have loved Satoshi-kun as I did.",
+    "significantChanges": false
+  },
+  {
+    "index": 530,
+    "MessageID": 68317,
+    "TextENGNew": "...We've always liked the same stuff, and even the same people.",
+    "significantChanges": false
+  },
+  {
+    "index": 531,
+    "MessageID": 68318,
+    "TextENGNew": "She was stupid enough to feel obligated...@k toward someone like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 532,
+    "MessageID": 68319,
+    "TextENGNew": "``I...@k@vS06/03/150300258_06. I told Granny to leave you and Satoshi-kun alone...@k@vS06/03/150300258_07. I shouted at her...!!@k@vS06/03/150300258_08. Hic...!@k@vS06/03/150300258_09. Then she said she'd let you be if you atoned with sincerity... hic!",
+    "significantChanges": false
+  },
+  {
+    "index": 533,
+    "MessageID": 68320,
+    "TextENGNew": "And you did!@k@vS06/03/150300258_11. So... you were supposed to live happily with him...@k@vS06/03/150300258_12. but... Satoshi-kun has gone away......",
+    "significantChanges": false
+  },
+  {
+    "index": 534,
+    "MessageID": 68321,
+    "TextENGNew": "That's terrible...@k@vS06/03/150300258_14. That's... hic...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 535,
+    "MessageID": 68322,
+    "TextENGNew": "Mion isn't smart enough to shed crocodile tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 536,
+    "MessageID": 68323,
+    "TextENGNew": "Those tears were real.",
+    "significantChanges": false
+  },
+  {
+    "index": 537,
+    "MessageID": 68324,
+    "TextENGNew": "......Her tears dissolved my demon's anger like how the sun melts ice...",
+    "significantChanges": false
+  },
+  {
+    "index": 538,
+    "MessageID": 68325,
+    "TextENGNew": "``Believe me, Shion......@k@vS06/03/150300260. I really don't know why Satoshi-kun disappeared......@k@vS06/03/150300261. Neither Granny nor the Sonozaki family have anything to do with it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 539,
+    "MessageID": 68326,
+    "TextENGNew": "``Granny forgave you,@k@vS06/03/150300263. so she would never do anything to him......!``",
+    "significantChanges": false
+  },
+  {
+    "index": 540,
+    "MessageID": 68327,
+    "TextENGNew": "``.....................Mion, I'm so sorry...@k@vS06/06/150601305. did I hurt you...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 541,
+    "MessageID": 68328,
+    "TextENGNew": "I took my hands off her neck and held her instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 542,
+    "MessageID": 68329,
+    "TextENGNew": "``...Hic... I'm not hurt...@k@vS06/03/150300265. You've been hurt a lot more than me, haven't you...?@k@vS06/03/150300266. Hic...``",
+    "significantChanges": false
+  },
+  {
+    "index": 543,
+    "MessageID": 68330,
+    "TextENGNew": "......I shouted at the demon in my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 544,
+    "MessageID": 68331,
+    "TextENGNew": "I believed in Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 545,
+    "MessageID": 68332,
+    "TextENGNew": "I had been convinced it was the Sonozaki family that made Satoshi-kun disappear.",
+    "significantChanges": false
+  },
+  {
+    "index": 546,
+    "MessageID": 68333,
+    "TextENGNew": "But Mion denied it@k while shedding tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 547,
+    "MessageID": 68334,
+    "TextENGNew": "Between her and me, her tears are more convincing than any words.",
+    "significantChanges": false
+  },
+  {
+    "index": 548,
+    "MessageID": 68335,
+    "TextENGNew": "So, I'd believe in her.",
+    "significantChanges": false
+  },
+  {
+    "index": 549,
+    "MessageID": 68336,
+    "TextENGNew": "It absolutely wasn't the Sonozaki family that made him disappear.",
+    "significantChanges": false
+  },
+  {
+    "index": 550,
+    "MessageID": 68337,
+    "TextENGNew": "<i>So... do you really think that Satoshi-kun disappeared because of Oyashiro-sama's curse?</i>",
+    "significantChanges": false
+  },
+  {
+    "index": 551,
+    "MessageID": 68338,
+    "TextENGNew": "...I don't believe in curses!!@k And Mion didn't do it!",
+    "significantChanges": false
+  },
+  {
+    "index": 552,
+    "MessageID": 68339,
+    "TextENGNew": "<i>If it wasn't the curse or the Sonozaki family, who demoned him away...?</i>",
+    "significantChanges": false
+  },
+  {
+    "index": 553,
+    "MessageID": 68340,
+    "TextENGNew": "I don't know!@k I just know it's not Mion!",
+    "significantChanges": false
+  },
+  {
+    "index": 554,
+    "MessageID": 68341,
+    "TextENGNew": "It's not the Sonozaki family because Mion says so!!",
+    "significantChanges": false
+  },
+  {
+    "index": 555,
+    "MessageID": 68342,
+    "TextENGNew": "<i>That's stupid, Shion......</i>@k <i>Are you going to ignore Satoshi-kun's voice...?</i>",
+    "significantChanges": false
+  },
+  {
+    "index": 556,
+    "MessageID": 68343,
+    "TextENGNew": "I know, I know!!@k You don't have to remind me, demon! I can hear his voice!!",
+    "significantChanges": false
+  },
+  {
+    "index": 557,
+    "MessageID": 68344,
+    "TextENGNew": "I know he's mumbling with an ambivalent expression, like he always used to do...... even though he knows help won't come...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 558,
+    "MessageID": 68345,
+    "TextENGNew": "I'll help him no matter what!!",
+    "significantChanges": false
+  },
+  {
+    "index": 559,
+    "MessageID": 68346,
+    "TextENGNew": "I'll save him if he's alive!!",
+    "significantChanges": false
+  },
+  {
+    "index": 560,
+    "MessageID": 68347,
+    "TextENGNew": "I'll avenge him if he's dead!!",
+    "significantChanges": false
+  },
+  {
+    "index": 561,
+    "MessageID": 68348,
+    "TextENGNew": "But Mion didn't do it!",
+    "significantChanges": false
+  },
+  {
+    "index": 562,
+    "MessageID": 68349,
+    "TextENGNew": "You just want to take it out on somebody. It doesn't matter who!!",
+    "significantChanges": false
+  },
+  {
+    "index": 563,
+    "MessageID": 68350,
+    "TextENGNew": "But I'm Shion, not a demon!@k You're only a part of me!!@k Don't try to take control!!@k Fuck off!!@k Don't ever show up again...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 564,
+    "MessageID": 68351,
+    "TextENGNew": "The demon faded away...",
+    "significantChanges": false
+  },
+  {
+    "index": 565,
+    "MessageID": 68352,
+    "TextENGNew": "My body went limp... and I fell to the floor while holding Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 566,
+    "MessageID": 68353,
+    "TextENGNew": "``...Shion... are you all right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 567,
+    "MessageID": 68354,
+    "TextENGNew": "``...I'm all right now... Mion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 568,
+    "MessageID": 68355,
+    "TextENGNew": "``...Why are we two different individuals...?@k@vS06/03/150300269. Why can't we just be one...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 569,
+    "MessageID": 68356,
+    "TextENGNew": "``Stop it...@k@vS06/06/150601308. we've asked ourselves that so many times...@k@vS06/06/150601309. but there's no answer...@k@vS06/06/150601310. I'm Shion and you're Mion...@k@vS06/06/150601311. that's just how it is.``",
+    "significantChanges": false
+  },
+  {
+    "index": 570,
+    "MessageID": 68357,
+    "TextENGNew": "``I don't care if I'm Mion or Shion...@k@vS06/03/150300271. I just want to be one and equal with you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 571,
+    "MessageID": 68358,
+    "TextENGNew": "``......There's nothing we can do...@k@vS06/06/150601313. You have the demon on your back...@k@vS06/06/150601314. You're destined to become the successor...@k@vS06/06/150601315. and we can't change that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 572,
+    "MessageID": 68359,
+    "TextENGNew": "``I don't want that...@k@vS06/03/150300273. I don't need a demon. I don't want it......@k@vS06/03/150300274. I'm not a demon, I'm not...@k@vS06/03/150300275. I want to be a human like you......``",
+    "significantChanges": false
+  },
+  {
+    "index": 573,
+    "MessageID": 68360,
+    "TextENGNew": "Mion is a demon, and Shion is a human.",
+    "significantChanges": false
+  },
+  {
+    "index": 574,
+    "MessageID": 68361,
+    "TextENGNew": "...Even though we're twins, there's a difference between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 575,
+    "MessageID": 68362,
+    "TextENGNew": "Was it impossible for humans to live with demons after all...?",
+    "significantChanges": false
+  },
+  {
+    "index": 576,
+    "MessageID": 68363,
+    "TextENGNew": "......It should be possible...@k because they did it before.",
+    "significantChanges": false
+  },
+  {
+    "index": 577,
+    "MessageID": 68364,
+    "TextENGNew": "That's the legend of Hinamizawa...@k Humans and demons lived in harmony together,@k as Oyashiro-sama watched over them.",
+    "significantChanges": false
+  },
+  {
+    "index": 578,
+    "MessageID": 68365,
+    "TextENGNew": "......Mion.@k Shion...@k Satoshi-kun...@k Demons... Humans...",
+    "significantChanges": false
+  },
+  {
+    "index": 579,
+    "MessageID": 68366,
+    "TextENGNew": "Oyashiro-sama's curse... The series of mysterious deaths...@k Satoshi-kun's disappearance...",
+    "significantChanges": false
+  },
+  {
+    "index": 580,
+    "MessageID": 68367,
+    "TextENGNew": "We fell asleep while holding each other...",
+    "significantChanges": false
+  },
+  {
+    "index": 581,
+    "MessageID": 68368,
+    "TextENGNew": "While holding everything...",
+    "significantChanges": false
+  }
+]

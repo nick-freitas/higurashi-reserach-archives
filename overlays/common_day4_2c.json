@@ -1,0 +1,796 @@
+[
+  {
+    "index": 1,
+    "MessageID": 20174,
+    "TextENGNew": "The moment club activities ended, Rena bolted home.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 20175,
+    "TextENGNew": "No doubt she had gone to dig out that adorable Randy-kun doll she hadn't managed to take home yesterday.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 20176,
+    "TextENGNew": "So today, for once, it was just the two of us—Mion and me—walking home together. She was pouting, but dutifully carried my bag all the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 20177,
+    "TextENGNew": "\"A mountain of treasure, huh...\"\n\"The people who dumped their junk there probably never dreamed in a million years that Rena would be grateful to them.\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures and splits the dialogue differently, and the line about Mion carrying bags 'pouting but dutifully' captures 唇を尖らせながらも素直に differently from original.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 20179,
+    "TextENGNew": "\"Mountain of treasure\"—meaning that dam construction site.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 20180,
+    "TextENGNew": "...Right. Maybe Mion would tell me.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 20181,
+    "TextENGNew": "About the gruesome murder that was supposed to have happened there...",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 20182,
+    "TextENGNew": "\"Hey—that dam construction site over there.\"\n\"...Something happened there, didn't it?\"\n\"Long ago.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 20183,
+    "TextENGNew": "\"Something sure did. A battle!\"\n\"Sit-ins, demonstrations—the whole works!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 20184,
+    "TextENGNew": "Not quite what I'd been hoping to hear, but I decided to listen all the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 20185,
+    "TextENGNew": "\"Our own land was going to be swallowed up by the reservoir.\"\n\"I'd have fought too, honestly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 20186,
+    "TextENGNew": "Mion said that with a resigned shrug, as if exasperated. Well, fair enough—a garbage heap isn't exactly the kind of place a girl her age should be getting starry-eyed over...",
+    "significantChanges": true,
+    "changeReason": "Original completely mistranslates: says Mion 'spoke excitedly, as if the whole thing was happening right in front of her' but the Japanese says she shrugged with exasperation (呆れたようにやれやれと肩をすくめる). New translation is accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 20187,
+    "TextENGNew": "\"But what kind of treasure could you possibly find in an illegal dumping ground?\"\n\"I just hope she doesn't get hurt.\"",
+    "significantChanges": true,
+    "changeReason": "Original has 'Hopefully she won't het hurt' (typo for 'get hurt'), while new translation corrects the typo and rephrases.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 20188,
+    "TextENGNew": "\"Ahahahaha!\"\n\"She'll be fine, she'll be fine—it's not her first time.\"\n\"Besides, that place used to be the dam construction site, so there's all kinds of things lying around.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 20189,
+    "TextENGNew": "\"All kinds of things... huh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 20190,
+    "TextENGNew": "\"Yeah, a lot happened there—battles and all that!\"\n\"Sit-ins, demonstrations, you name it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 20191,
+    "TextENGNew": "\"Battles\" was hardly a reassuring word, but I decided to hear her out.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 20192,
+    "TextENGNew": "Mion launched into the story of those events, gesturing animatedly as she spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 20193,
+    "TextENGNew": "\"So they were going to drown Hinamizawa under the lake...\"\n\"That really is unthinkable, when you put it that way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 20194,
+    "TextENGNew": "\"The government officials were absolutely one-sided about it.\"\n\"Arrogant and high-handed!\"\n\"Once they realized money wouldn't settle the matter, they started harassing us with everything they had?!\"\n\"Horrible, horrible people!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 20195,
+    "TextENGNew": "Mion spoke with rising fury, as if the whole thing were playing out right before her eyes.",
+    "significantChanges": true,
+    "changeReason": "Original translation was mistakenly placed here (duplicate of 20186), creating a translation error. New translation correctly renders 魅音はまるで目の前で繰り広げているかのように声を荒げながら喋る as 'Mion spoke with rising fury.'",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 20196,
+    "TextENGNew": "\"I'm amazed you actually won... You were up against the government, weren't you?\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'the federal government' to 'the government,' which is more accurate - 国 means 'country/state' not specifically federal government.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 20197,
+    "TextENGNew": "\"The village headman and the prominent families petitioned everyone they could reach.\"\n\"They went to Tokyo, worked connections with all sorts of politicians...\"\n\"...And in the end the plan was retracted.\"\n\"It was our total victory!\"\n\"Ahahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 20198,
+    "TextENGNew": "\"There wasn't any... violence, was there?\"\n\"Like assaults... or murder—\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes from asking about 'violence' and 'assaults...or murders' to 'violence' and 'assaults... or murder—' with the dash indicating being cut off, matching the Japanese structure.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 20199,
+    "TextENGNew": "\"There wasn't.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'None' to 'There wasn't,' which more closely matches the Japanese なかった (plain past negative).",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 20200,
+    "TextENGNew": "She said it flatly, cutting me off.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 20202,
+    "TextENGNew": "Just like Rena had.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 20203,
+    "TextENGNew": "Her words carried a period—a firm full stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 20204,
+    "TextENGNew": "Tomitake-san had used the word \"incident,\" and then said that something \"hadn't been found.\"",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'one arm wasn't found' but JPN deliberately uses 何か (something) 'hadn't been found' — premature reveal spoiling narrative suspense.",
+    "changeScore": 5
+  },
+  {
+    "index": 30,
+    "MessageID": 20205,
+    "TextENGNew": "I'd been assuming there had been a murder of some kind—that something was missing, unaccounted for... but maybe I'd been wrong.",
+    "significantChanges": true,
+    "changeReason": "New translation is more faithful: 'I'd been assuming there had been a murder—that something was missing' vs original's definitive 'a murder by dismemberment had occurred,' which the narrator is only guessing at.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 20206,
+    "TextENGNew": "My curiosity remained unabated, and before I knew it, we had already reached the fork in the road where Mion and I would have to part ways.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 20207,
+    "TextENGNew": "A strange, nagging dissonance.",
+    "significantChanges": true,
+    "changeReason": "New translation 'A strange, nagging dissonance' captures 奇妙な違和感 more precisely than original's 'I feel a faint malaise.'",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 20208,
+    "TextENGNew": "Her words carried a period—there was no opening for more.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 20209,
+    "TextENGNew": "Was she signaling that she didn't want me to pry any further? Or perhaps...",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 20210,
+    "TextENGNew": "Perhaps this simply wasn't the kind of topic you could bring up offhand and interrogate freely.",
+    "significantChanges": true,
+    "changeReason": "New translation accurately renders the Japanese: 'Perhaps this simply wasn't the kind of topic you could bring up offhand' vs original's 'The truth on this matter is truly something she'd want to keep hidden' which misinterprets the narrator's reflection.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 20211,
+    "TextENGNew": "My unsatisfied curiosity slumped around inside my chest, aimless and nowhere to go.",
+    "significantChanges": true,
+    "changeReason": "New translation 'My unsatisfied curiosity slumped around inside my chest' captures 胸の中で所在なくうなだれていた more vividly than 'My unbridled curiosity sloshes back and forth in the back of my head.'",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 20212,
+    "TextENGNew": "\"What is it?\"\n\"You've got that look on your face like you still haven't had enough teasing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 20213,
+    "TextENGNew": "\"N-No I don't.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 20214,
+    "TextENGNew": "\"Here you go.\"\n\"This old man has carried Kei-chan's bag all the way home!\"\n\"See you tomorrow. Bye bye!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 20215,
+    "TextENGNew": "With that, she ran off looking thoroughly pleased with herself.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the 'all the way home' detail (うちまで荷物持ちした) and 'This old man' (おじさん) self-reference which the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 20216,
+    "TextENGNew": "Tch, maybe I went too easy on her... But I mean... she is a girl, so I suppose it's fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 20217,
+    "TextENGNew": "\"Hm? ...............WHAT?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 20218,
+    "TextENGNew": "I happened to glance at my hand and found it pitch black. ...What? WHAT?! The handle was absolutely smeared with ink! W-When on earth did she...?!",
+    "significantChanges": true,
+    "changeReason": "New translation changes onomatopoeia from 'Whrah?!' to 'WHAT?!' with capitals for emphasis, different exclamation style.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 20219,
+    "TextENGNew": "S-She got me! That schemer!",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 20220,
+    "TextENGNew": "I spun around and there was Mion, looking back at me and pulling down her eyelid with her tongue stuck out?! Incredible—even in defeat, she always finds a way to get the last laugh...",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 20221,
+    "TextENGNew": "...If I could reason with certainty that the left card was not the joker, then I ought to be able to declare the right card was.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 20222,
+    "TextENGNew": "Even without Mion's goading—...the right was the most suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 20223,
+    "TextENGNew": "But wasn't it far too rash to base my conclusion on Satoko's reaction alone?!\nMore carefully... slowly... Ah!",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 20224,
+    "TextENGNew": "...I remember now...!!\nThat mark... the left card... there's no doubt!\nThe Seven of Clubs!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 20225,
+    "TextENGNew": "\"Mmm...\"\n\"I'm pretty sure that's the Seven of Clubs...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 20226,
+    "TextENGNew": "I've got it!\nThe left card is the Seven of Clubs!",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 20227,
+    "TextENGNew": "Which means the remaining right card is... the Joker!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 20228,
+    "TextENGNew": "And then—just as my hand was about to touch the right card, I stopped dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 20229,
+    "TextENGNew": "\"...Heh heh heh... heh heh heh...\"\n\"Just what I'd expect from you, Mion.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 20230,
+    "TextENGNew": "The murmurs rippled through the room at my sudden pause—every last person had been certain the right card was the joker.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 20231,
+    "TextENGNew": "\"?? Huh?\"\n\"What on earth could Keiichi-san possibly be saying??\"\n\"But the left one is...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 20232,
+    "TextENGNew": "\"...Shh.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 20233,
+    "TextENGNew": "\"Oh...?\"\n\"What makes you so certain the right one isn't the joker, Kei-chan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 20234,
+    "TextENGNew": "An unexpected question from Mion.@k Everyone except me was thrown into confusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 20235,
+    "TextENGNew": "\"I have no idea what the right card is.\"\n\"But I do know that the left card is the Seven of Clubs.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 20236,
+    "TextENGNew": "\"Then!\"\n\"Doesn't that leave the right one as the joker?!\"\n\"One of the two has to be the joker—that was the deal, wasn't it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 20237,
+    "TextENGNew": "\"Yeah.\"\n\"...One of the two is the joker—that much is certainly true.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 20238,
+    "TextENGNew": "\"...Keiichi's intuition is sharp.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 20239,
+    "TextENGNew": "\"Huh?\"\n\"Rika-chan, what do you mean by...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 20240,
+    "TextENGNew": "\"The thing is—\"\n\"...the Seven of Clubs.\"\n\"...That's the card I discarded a moment ago when it paired with Satoko's Seven of Spades...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 20241,
+    "TextENGNew": "Everyone's gaze snapped to the discard pile in unison!",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 20242,
+    "TextENGNew": "In that chaotic jumble of discarded cards, there was no way to verify the truth...!",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 20243,
+    "TextENGNew": "\"In other words—\"\n\"...Mion picked up one card from the discard pile... and layered it over the left card... which means...!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 20244,
+    "TextENGNew": "\"...Oh! I understand!\"\n\"The left card is being disguised as the Seven of Clubs, isn't it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 20245,
+    "TextENGNew": "For the first time since the game began, a shadow crossed Mion's face—and I didn't miss it.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 20246,
+    "TextENGNew": "And then... with a theatrical flourish and a half-turn, I made my decisive declaration!!",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 20247,
+    "TextENGNew": "\"The joker is... the LEFT haaaaaaaand!!!!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'the left ooooooooooone' to 'the LEFT haaaaaaaand,' which matches the Japanese 左手 (left hand) rather than 'left one.'",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 20248,
+    "TextENGNew": "A searing, white-hot instant...!\nThat one second felt like hours to everyone in the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 20249,
+    "TextENGNew": "Into that silence, a quiet 'heh...' escaped Mion's lips as she broke into a defiant smirk.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 20250,
+    "TextENGNew": "\"Just as I'd expect, Kei-cha—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 20251,
+    "TextENGNew": "\"—or so it might seem, but in fact it's the right hand.\"\n\"Right here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 20252,
+    "TextENGNew": "\"WHA?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 20253,
+    "TextENGNew": "With Mion standing there dumbfounded, I reached out and plucked the card from her right hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 20254,
+    "TextENGNew": "A chorus of shocked gasps burst from the other three.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 20255,
+    "TextENGNew": "That card was—as it turned out—the joker.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 20256,
+    "TextENGNew": "\"Wh... K-Kei-chan...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 20257,
+    "TextENGNew": "The color had drained from Mion's face. Just seeing that expression was the purest bliss.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 20258,
+    "TextENGNew": "...But wait. The other three looked equally pale... Why?",
+    "significantChanges": true,
+    "changeReason": "Old says 'seems to be red' but JPN 血の気が引いてる means blood drained/pale — exact opposite physical description.",
+    "changeScore": 4
+  },
+  {
+    "index": 84,
+    "MessageID": 20259,
+    "TextENGNew": "\"...Huh?\"\n\"You guys... don't tell me...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 20260,
+    "TextENGNew": "Rena stuck out her tongue. Satoko crossed her arms with a groan. And Rika-chan, using only the very tips of her fingers, gave me something that could only be described as fingertip applause.",
+    "significantChanges": true,
+    "changeReason": "New translation adds Rika's 'using only the very tips of her fingers' detail more clearly, and 'finger-applause' matches 拍指 better.",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 20261,
+    "TextENGNew": "\"Y-You all knew?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 20262,
+    "TextENGNew": "All three of them let out a quiet, knowing laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 20263,
+    "TextENGNew": "Y-You people... are you demons?!! You already knew Mion's trick, and you just came here to watch me writhe in agony...! Terrifying... the residents of Hinamizawa...",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'You already knew Mion's trick' (魅音のカラクリと知っていて) more explicitly than original, and 'Never underestimate the residents of Hinamizawa.'",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 20264,
+    "TextENGNew": "I will state for the record that a cold shiver ran down my spine.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 20265,
+    "TextENGNew": "But looking over, I saw Mion staring intently at her cards with a furrowed brow. Then, slowly, she raised her gaze.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 20266,
+    "TextENGNew": "\"Kei-chan, how did you figure it out...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 20267,
+    "TextENGNew": "Everyone looked at me at once. It was plain that Mion's words gave voice to the question on all their minds.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 20268,
+    "TextENGNew": "\"Simple, really.\"\n\"Knowing that I might recognize a card by its marks, you still chose to show a clearly distinctive card in your left hand...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 20269,
+    "TextENGNew": "As I said that, I glanced briefly over at Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 20270,
+    "TextENGNew": "\"Huh... are you saying I did something?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 20271,
+    "TextENGNew": "\"Perfectly transparent... Yes!\"\n\"Satoko made a slip of the tongue...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 20272,
+    "TextENGNew": "\"M-Me...?\"\n\"Just what slip of the tongue are you claiming I made?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 20273,
+    "TextENGNew": "Without missing a beat, I mimicked Satoko's manner of speech and said:",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 20274,
+    "TextENGNew": "\"Doesn't that leave the right card as the joker?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes from 'the right one' to 'the right card' which is more specific and clearer.",
+    "changeScore": 2
+  },
+  {
+    "index": 100,
+    "MessageID": 20275,
+    "TextENGNew": "\"You overplayed your hand, Satoko.\"\n\"There's no way you would ever tip me off like that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 20276,
+    "TextENGNew": "\"Wha—?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 20277,
+    "TextENGNew": "Satoko's face went pale in an instant, and she began to tremble.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 20278,
+    "TextENGNew": "\"And then there's you, Mion...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 20279,
+    "TextENGNew": "\"M-Me?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 20280,
+    "TextENGNew": "\"Your reaction was far too uncharacteristically honest for you...\"\n\"The combined synergy of those two pieces of misdirection was entirely designed to push me into overthinking—that was your whole aim.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 20281,
+    "TextENGNew": "\"B-But what if she had stacked two cards, like we talked about earlier...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 20282,
+    "TextENGNew": "I wagged my index finger at her.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 20283,
+    "TextENGNew": "\"If she had stacked two cards, even if it fooled me, I could always cry cheating and wriggle off the hook. So that strategy was off the table.\"\n\"—Am I wrong, Mion?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation rephrases: 'I could always cry cheating and wriggle off the hook' captures the defensive strategy differently from 'give me the easy excuse of just saying, Oh, you cheated.'",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 20284,
+    "TextENGNew": "At that, Mion—who had been listening in silence—suddenly let out a muffled chuckle, which quickly swelled into a full, uninhibited laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 20285,
+    "TextENGNew": "\"I concede...!\"\n\"I would have been disappointed if you'd just grabbed it in a panic, but reading it all the way through to that conclusion... this old man surrenders completely!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 20286,
+    "TextENGNew": "\"...As founding club president, I've witnessed all manner of performances.\"\n\"...Kei-chan.\"\n\"...You are... the best.\"\n\"...The best of the best of the best of King!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 20287,
+    "TextENGNew": "Probably the highest compliment Mion was capable of giving.@k She admitted defeat... and the cards spilled from both her hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 20288,
+    "TextENGNew": "...My... comeback victory!!!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 20289,
+    "TextENGNew": "\"Amazing! Amazing!\"\n\"Keiichi-kun, you're incredible~~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 20290,
+    "TextENGNew": "\"W-Well... it seems you'll be a little entertaining after all!\"\n\"I look forward to the future!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 20291,
+    "TextENGNew": "\"See? My eye for talent never fails me!\"\n\"Splendid! Splendid!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation captures 梨花ちゃんの一言で凍りつく more literally as 'Rika-chan's words fell like ice, and Mion froze solid' vs simpler original.",
+    "changeScore": 2
+  },
+  {
+    "index": 117,
+    "MessageID": 20292,
+    "TextENGNew": "\"Then...\"\n\"The penalty game falls to Mii-chan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 20293,
+    "TextENGNew": "\"—*splutter*?!\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'Oh no...' to '*splutter*?!' for おぶしっ？！ which is a sound of sputtering/choking, not dismay.",
+    "changeScore": 2
+  },
+  {
+    "index": 119,
+    "MessageID": 20294,
+    "TextENGNew": "Rika-chan's words fell like ice, and Mion froze solid.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 20295,
+    "TextENGNew": "Still... marking up a girl's face with a permanent marker really did seem a bit excessive...",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 20296,
+    "TextENGNew": "\"It's fine—just carry my bag.\"\n\"The fact that I won... that's more than enough for me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 20297,
+    "TextENGNew": "A roar of \"Waaaaaah～!!\" went up. That was the moment my standing among them rose.",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'the moment my ego went up' to 'the moment my standing among them rose' - 株が上がった means one's reputation/standing rose, not ego.",
+    "changeScore": 2
+  },
+  {
+    "index": 123,
+    "MessageID": 20298,
+    "TextENGNew": "\"...Is that so.\"\n\"And Keiichi's tenderness here will prove to be his undoing in the days ahead.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'And Keiichi's tenderness here will prove to be his undoing in the days ahead' is significantly more natural and accurate than 'This sweetness of Keiichi became the death toll in the future.'",
+    "changeScore": 2
+  },
+  {
+    "index": 124,
+    "MessageID": 20299,
+    "TextENGNew": "\"Would you stop with the strange narration!\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'I'm sorry for the strange narration!' to 'Would you stop with the strange narration!' - Japanese やめんかい is a command to stop, not an apology.",
+    "changeScore": 2
+  }
+]

@@ -1,0 +1,936 @@
+[
+  {
+    "index": 1,
+    "MessageID": 73813,
+    "TextENGNew": "``All right, there we go...  My goodness, that's finally today's work done.  Haah, good grief...``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 73814,
+    "TextENGNew": "*tap* *tap* *tap*...",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 73815,
+    "TextENGNew": "``...Even so, today was quite a struggle.  All the other doctors and nurses had their own circumstances to attend to, you see.``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 73816,
+    "TextENGNew": "``Well, the one saving grace is that we didn't have too many patients today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 73817,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 73818,
+    "TextENGNew": "``Daidou-san is visiting his mother, Yamaguchi-san had an omiai today...  And Takano-san — well, it's important for people to spread their wings now and then.``",
+    "significantChanges": true,
+    "changeReason": "Original names character as 'Masamichi-san' while new correctly uses 'Daidou-san' (大道さん), matching the Japanese kanji.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 73819,
+    "TextENGNew": "``Still — that couple was rather unexpected...  My goodness.  Human bonds really are mysterious things.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 73820,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 73821,
+    "TextENGNew": "``...Haah.  I wonder if a connection like that might come my way someday.``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 73822,
+    "TextENGNew": "``For now I won't be greedy.  As long as she possesses the spirit and the aptitude of a maid — the bare minimum: cooking, laundry, cleaning — I ask nothing of her appearance!``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 73823,
+    "TextENGNew": "``Of course, if she happened to be cute, that would be a super-ultra-welcome bonus!!  And if she were under twenty — I would have no choice but to believe in the blessings of heaven!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 73824,
+    "TextENGNew": "``Even if it were a purely financial arrangement!!  But if love were added on top — VERY SUPREMACY!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 73825,
+    "TextENGNew": "``And if, against all odds, she possessed the three great attributes — 'clingy,' 'tsundere,' and 'surprisingly domestic' — I could fight the entire world for her!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 73826,
+    "TextENGNew": "``...Of course, 'yandere' would give me pause, but even that under the right conditions would be a FLAWLESS CLEAR!!!``",
+    "significantChanges": true,
+    "changeReason": "Original says 'one centimeter' for million-yen bundle context which was misplaced; this is about Irie's maid fantasy, not money counting.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 73827,
+    "TextENGNew": "....*patter*",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 73828,
+    "TextENGNew": "``...Yes.  Someone like that... standing softly at my side as I rest after a long day like today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 73829,
+    "TextENGNew": "``And then gently, silently setting a cup of Earl Grey tea down on the desk...  Well, Darjeeling or even instant would do fine — but for the sake of the atmosphere, let's say Earl Grey.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 73830,
+    "TextENGNew": "``And as I open my eyes at the faint sound of the cup touching the desk and turn around... '...You've worked so hard again today.  It may not be very good, but please... do have some.  ...Master.'``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 73831,
+    "TextENGNew": "``Cheeks just faintly tinged with colour, holding the round tray in both hands, smiling up at me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 73832,
+    "TextENGNew": "``And if in that moment she shyly raised the tray to half-hide her face — that would be the absolute pinnacle!!  Words would be superfluous!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 73833,
+    "TextENGNew": "``...And then I would say: 'Ah, thank you as always.  Anything you've made for me could never be anything but delicious.  Mmm... yes, it really is.  I can feel the day's exhaustion melting away...'``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 73834,
+    "TextENGNew": "``And then, with just a sligh— a slightly cool smile, and her face breaking open like flowers in bloom, she'd say 'I'm so glad...' — and on a day like that, AHHH!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 73835,
+    "TextENGNew": "``My heart would be SCRAMBLED by FIERY HEAT right up to MAXIMUM BEAT!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 73836,
+    "TextENGNew": "``Overcoming the great barrier of our difference in station and years, the two of us would TAKE OFF into a dizzying whirl — the Corrida of Love!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 73837,
+    "TextENGNew": "``Ahhh, yes, MAGNIFICENT!!  With this love beside me, even the terror of Angolmois would mean NOTHING to me!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 73838,
+    "TextENGNew": "...*patter* *patter*",
+    "significantChanges": true,
+    "changeReason": "Original onomatopoeia '*pop*' vs new '*patter*' — different sounds representing different actions (ぺた is a soft pattering footstep, not a popping sound).",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 73839,
+    "TextENGNew": "``...Haah, haah — I-I mustn't.  I appear to be somewhat fatigued.  What on earth am I carrying on about alone in the clinic at this hour...``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 73840,
+    "TextENGNew": "``Haah~, but what joy it would be if that wish came true someday...  And... if that maid could happen to be Satoko-chan — well, that would be a SUPER LUCKY STRIKE.``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 73841,
+    "TextENGNew": "``Now, they say the original playboy Hikaru Genji spent five years preparing to take Lady Murasaki as his bride, so I ought to follow in the footsteps of my predecessors.  Hmm?  Which means I've been acquainted with her for nearly three years now, so only two years remain—``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 73842,
+    "TextENGNew": "``...Here you are, Coach.``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 73843,
+    "TextENGNew": "``—w-WHOOOOAAAHHH?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 73844,
+    "TextENGNew": "It was no wonder he was startled. Without any warning, a cup had been set down on his desk with a soft clink, and when the scent of tea made him turn around — Rena was standing there.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 73845,
+    "TextENGNew": "What's more, she was giving him a silent 'smile' in the hushed stillness of the clinic at night.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 73846,
+    "TextENGNew": "Terrifying.  Far too terrifying...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 73847,
+    "TextENGNew": "``W-w-w-w-what is it, Ryuugu-san?!  H-h-h-how long have you been standing there?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 73848,
+    "TextENGNew": "``...Hau.  About the time you started doing that one-person play where you said 'You've worked so hard again today'... I think.  I think.``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 73849,
+    "TextENGNew": "``Hieeeeek?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 73850,
+    "TextENGNew": "The blissful delusion of a moment ago was swept away in an instant, and Kyousuke Irie — bachelor of refinement (age undisclosed) — was cast into a despair as deep as the Mariana Trench.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 73851,
+    "TextENGNew": "Because if Rena was right, then she had heard virtually his entire little fantasy.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 73852,
+    "TextENGNew": "And of all people to have heard it — Satoko's friend, Rena Ryuugu!!",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 73853,
+    "TextENGNew": "It was easy to imagine that by tomorrow, the whole explosion of his full-throttle delusional soliloquy would reach Satoko's ears, and the consequence would be—",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 73854,
+    "TextENGNew": "``...Coach!  I can't believe you've been nursing such filthy desires for me...  You're despicable!  I've misjudged you entirely!  Please — never show your face before me again!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 73855,
+    "TextENGNew": "``U-UOOOOOHHH?!  I-it's not like that, it's not like that, Satoko-chaaaan!!  Wait — I mean, Ryuugu-san!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 73856,
+    "TextENGNew": "``Wh-wh-what you heard just now was merely a — a brief recreational outlet for stress relief, blurted out in a moment of fatigue!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 73857,
+    "TextENGNew": "``I swear before all heaven and earth, I do NOT harbor such disgraceful longings on a daily basis!!  So, um — that is to say—!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 73858,
+    "TextENGNew": "``...Um, Coach.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 73859,
+    "TextENGNew": "``Y-yes?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 73860,
+    "TextENGNew": "``Your tea... it's going cold.  While it's still warm... please.``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 73861,
+    "TextENGNew": "``Oh?  Ah, y-yes...  Th-thank you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 73862,
+    "TextENGNew": "For a moment he wondered whether it might be laced with a sedative, but he took the cup and cautiously raised it to his lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 73863,
+    "TextENGNew": "...The characteristic floral fragrance of Earl Grey tickled his nose, and a pleasantly tart flavour moved across his tongue.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 73864,
+    "TextENGNew": "``...H-how is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 73865,
+    "TextENGNew": "``Oh — it's... it's very good?  Yes, Ryuugu-san, you have quite a talent for brewing tea...``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 73866,
+    "TextENGNew": "...If he were being honest, he hadn't been composed enough to actually taste it.",
+    "significantChanges": true,
+    "changeReason": "Original says 'she didn't have time to taste it herself' (wrong subject: 'she'/Rena) while new correctly says 'he hadn't been composed enough' (subject is Irie).",
+    "changeScore": 4
+  },
+  {
+    "index": 55,
+    "MessageID": 73867,
+    "TextENGNew": "But Rena smiled with quiet delight at those words.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 73868,
+    "TextENGNew": "``Hau, I'm glad...  U-um... Coach?``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 73869,
+    "TextENGNew": "``Y-yes?  What is it...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 73870,
+    "TextENGNew": "Whether it was the tea or his dignity as an adult, he had steadied himself somewhat — nursing the cup to keep calm, though his back was damp with cold sweat — and swiveled his chair to face her.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 73871,
+    "TextENGNew": "Rena kept her eyes lowered for a while, shifting her gaze uncertainly as though she were working something out — but at last she looked up, her eyes bright with moisture, and spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 73872,
+    "TextENGNew": "``...Would Rena not do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 73873,
+    "TextENGNew": "``...Pardon?``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 73874,
+    "TextENGNew": "``Could Rena not be your ideal maid?  ...Could I not serve... as your maid, Coach?``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 73875,
+    "TextENGNew": "PFFFFFFT!!",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 73876,
+    "TextENGNew": "An artistically deployed spray of tea scattered through the clinic — one that could never be reproduced intentionally.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 73877,
+    "TextENGNew": "``*cough* *cough*!  R-Ryuugu-san?!  Wh-what on earth are you—?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 73878,
+    "TextENGNew": "``...Hau.  I fully understand the depth of your feelings for Satoko-chan, Coach.  But when it comes to feelings for you — Rena won't lose to anyone!  So please — please make Rena your very own dedicated maid!``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 73879,
+    "TextENGNew": "``W-w-wait, hold on a moment, Ryuugu-san?!  If this is a joke, there are better times and pl—``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 73880,
+    "TextENGNew": "``It's no joke!  Rena is completely serious...  Master!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 73881,
+    "TextENGNew": "``...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 73882,
+    "TextENGNew": "Master...",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 73883,
+    "TextENGNew": "Master......",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 73884,
+    "TextENGNew": "Master......?!",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 73885,
+    "TextENGNew": "*ka-SHIIIIING*",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 73886,
+    "TextENGNew": "A shudder like a bolt of lightning ran from the crown of his head all the way down to his toes — his entire body went rigid as if frozen solid.  And then,",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 73887,
+    "TextENGNew": "``...Ryuugu-san.  No — I confess, I believed I had attained a certain stage in the Way of the Maid, and took some pride in it.  But... that was mere illusion.  A gross conceit.  I had been far too full of myself!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 73888,
+    "TextENGNew": "``...Hau?``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 73889,
+    "TextENGNew": "Drip, drip...",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 73890,
+    "TextENGNew": "Shedding floods of great fat tears — deeply uncomfortable-looking from the outside — he shook his fist toward the heavens and roared!!",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 73891,
+    "TextENGNew": "``'Master'...  What an unbearably sweet sound!!  It bears no resemblance whatsoever to what I had pictured in my imagination — not the faintest!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 73892,
+    "TextENGNew": "``It is sweetness like the siren's song that lures sailors to their ruin!!  Decadent beauty like the yuki-onna who beckons mountaineers into a trance amid a blizzard!!  Beside these two words, ten thousand other words are utterly flavorless dust!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 73893,
+    "TextENGNew": "``They say seeing is believing — and truly, the world I thought I knew was small!  Far too small!!  I was nothing but a frog in a well!!  WHOOOOOAAAA—!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 73894,
+    "TextENGNew": "In that final cry, he had left words behind entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 73895,
+    "TextENGNew": "...Though it struck me as curious that both of his comparisons were monsters who tended to kill their targets.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 73896,
+    "TextENGNew": "``So — would you let Rena be your maid?``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 73897,
+    "TextENGNew": "``...Huh?!  W-well, that's...``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 73898,
+    "TextENGNew": "``Please!  Cooking, laundry, cleaning — Rena will give everything she has!``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 73899,
+    "TextENGNew": "``I still need to be told what to do for now, but someday I'll become a Super Maid who can read your intentions from a single snap of your fingers!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 73900,
+    "TextENGNew": "``So please — let me serve you...  Master♪``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 73901,
+    "TextENGNew": "``N-NWAAAH?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 73902,
+    "TextENGNew": "He scrambled to assert some shred of adult self-control — naturally this was going too far.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 73903,
+    "TextENGNew": "But then — just a slight tilt of Rena's head,",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 73904,
+    "TextENGNew": "Her cheeks flushed the softest pink, peering upward with that smile, close enough to reach out and touch—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 73905,
+    "TextENGNew": "...The thread of adult reason that had been holding him together, thin as spider silk, in that moment—",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 73906,
+    "TextENGNew": "*snap.*",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 73907,
+    "TextENGNew": "—was cut!!",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 73908,
+    "TextENGNew": "``V-very well, Ryuugu-san!  I'm a man — and this is my moment of resolution!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 73909,
+    "TextENGNew": "``Age gaps — what of them?  Laws — what of them?!  Mere abstract theories that will shift with the times and eventually be swept away!!  I, Kyousuke Irie — dare to raise the banner of revolt and make the whole world my enemy!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 73910,
+    "TextENGNew": "``Th-thank you so much, Master!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 73911,
+    "TextENGNew": "``...However, Ryuugu-san.  Even so — the Way of the Maid is a path of great severity.  Harsh, filled with hardship, without end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 73912,
+    "TextENGNew": "``And the moment you step onto it, you will be severed from the mundane world you have known until now.  Are you prepared for that?  Do you have no lingering regrets about leaving behind those dear to you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 73913,
+    "TextENGNew": "``None!  If it is for my master's sake... through fire and through flood, I would cross it all with a smile!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 73914,
+    "TextENGNew": "``O-OHHHHHH!!  Well said...  WELL SAID!!  There is nothing left I could possibly teach you!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 73915,
+    "TextENGNew": "Not that he had taught her a single thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 73916,
+    "TextENGNew": "``Then without delay — I shall bestow upon you an outfit chosen with the utmost care from my collection!!  A prized article in sizes spanning S to XL, kept in reserve precisely for a moment such as this—``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 73917,
+    "TextENGNew": "``JUST ONE MOMENT!!``",
+    "significantChanges": true,
+    "changeReason": "Original says 'my secret treasures' (plural collection) while new says 'a prized article' (singular) — different scope.",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 73918,
+    "TextENGNew": "And there we were — the club members, arriving at last!!",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 73919,
+    "TextENGNew": "``All right!  She hasn't changed into the maid outfit yet!  Now's our chance!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 73920,
+    "TextENGNew": "``Wh-what on earth are all of you doing here?  Don't tell me someone has taken suddenly ill?``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 73921,
+    "TextENGNew": "``If anyone here is unwell, it's YOU, Coach!!  Just what exactly were you planning to make Rena-san do?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 73922,
+    "TextENGNew": "``S-Satoko-chan, this is a complete misunderstanding!  I swear before all heaven and earth — I have not, nor would I ever, coerce this young woman into anything indecent!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 73923,
+    "TextENGNew": "``...Saying that while holding a maid outfit and looking rather too pleased with yourself makes it ring somewhat hollow.``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 73924,
+    "TextENGNew": "``Rika-chama — please contact the police.  File it as kidnapping or whatever you like!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 73925,
+    "TextENGNew": "``First I'll get Rena away from him!!  Coach — brace yourself~?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 73926,
+    "TextENGNew": "``Hau~, don't you dare do anything to my master~!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 73927,
+    "TextENGNew": "``Puberabagebyoh?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 73928,
+    "TextENGNew": "Mion had rushed in carelessly — and Rena's fist struck her down in the blink of an eye!!",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 73929,
+    "TextENGNew": "``S-Sis...  After taking all those hits this morning and afternoon, you still haven't learned?  This is what happens when you charge in without a plan...``",
+    "significantChanges": true,
+    "changeReason": "Original says 'this afternoon and evening' while new says 'this morning and afternoon' — different times of day; Japanese says 昼にも夕方にも (afternoon and evening), so the original is actually closer.",
+    "changeScore": 2
+  },
+  {
+    "index": 118,
+    "MessageID": 73930,
+    "TextENGNew": "``...S-sorry.  This old man got careless...``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 73931,
+    "TextENGNew": "``...Even so, Rena is something else.  She really will do anything for the person she loves.  Photography, then yuri, and now maids.  I'm genuinely in awe...``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 73932,
+    "TextENGNew": "``Nothing is impossible when she's in cute mode...  Even during club, no one else has swings in performance as wild as she does.``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 73933,
+    "TextENGNew": "``...True.  The gap between her results when she's fired up and when she isn't is remarkably stark...``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 73934,
+    "TextENGNew": "``For now — let's leave the Coach's fate to the police.  More urgently — Rika-chama!  Are we absolutely certain this time?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 73935,
+    "TextENGNew": "``Meep!  No question!  Irie is carrying it on him right now!``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 73936,
+    "TextENGNew": "``Wh-what's this, Rika-san?  I have something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 73937,
+    "TextENGNew": "``...Irie — please answer me honestly.  Did you happen to pick up a white magatama anywhere in Hinamizawa today — or rather, a white keychain shaped like a fur seal?``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 73938,
+    "TextENGNew": "``Hm?  Ah, yes — yes, I believe I did pick something up.  I was planning to hand it in to the police and completely forgot!  I'll have to do that properly or it'd be misappropriation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 73939,
+    "TextENGNew": "``That belongs to Rika!  Please return it at once!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 73940,
+    "TextENGNew": "``That's right!  The magatama is the reason Rena is acting like this!  Return it so we can bring her back to her senses!``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 73941,
+    "TextENGNew": "``Ah — you idiot, that's too much information—!``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 73942,
+    "TextENGNew": "``Wh-WHAAAAAAAT?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 73943,
+    "TextENGNew": "``...I see, I see — so that was the truth of it...  And here I was, so certain I had finally encountered the ideal woman, one who had awoken to the glory of maidenhood...``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 73944,
+    "TextENGNew": "``So — if I return this keychain to you, Rena-san will go home?  ...No!  That will not do!  For the sake of realizing the maid paradise of my own making, I require Rena-san's cooperation!``",
+    "significantChanges": true,
+    "changeReason": "Original says 'For the sake of my inner self' while new says 'realizing the maid paradise of my own making' — new better captures 私の私による私のためのメイド世界.",
+    "changeScore": 2
+  },
+  {
+    "index": 133,
+    "MessageID": 73945,
+    "TextENGNew": "``Just a little longer — only one more century would suffice!  Please — allow me to witness this wonderful dreeeam!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 73946,
+    "TextENGNew": "``How is a century 'only one more'?!  Everyone in this room would be in their graves by then~!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 73947,
+    "TextENGNew": "``Please, Coach!  None of this is what Rena really wants — she's been manipulated!  Just hand over that fur seal quietly and set Rena free!``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 73948,
+    "TextENGNew": "``...Maebara-san.  Even if her words were made under false pretenses — Ryuugu-san did swear an oath to serve me as a maid.``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 73949,
+    "TextENGNew": "``That oath is, in essence, a contract!  And therefore, the only one who can dissolve that contract is Ryuugu-san herself!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 73950,
+    "TextENGNew": "``Th-this man is hopeless...!  He's so swept up by words he's never heard before that he's completely lost his grip on reality~!!``",
+    "significantChanges": true,
+    "changeReason": "Original attributes 'getting carried away saying words I've never heard' to Mion speaking, while new correctly says 'He's swept up by words he's never heard' — different subject.",
+    "changeScore": 4
+  },
+  {
+    "index": 139,
+    "MessageID": 73951,
+    "TextENGNew": "``...Rika?  What are you doing?``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 73952,
+    "TextENGNew": "``...Hello — police?  Please connect me to Ooishi.  ...Ah, Ooishi?  There's a pitiful man here who's been cursed by Oyashiro-sama.  He's beyond saving, so please come and arrest him imm— meep?  Meeeep?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 73953,
+    "TextENGNew": "The call cut off abruptly, and when Rika-chan raised her head she was left speechless by the sight before her.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 73954,
+    "TextENGNew": "There stood Rena, beaming pleasantly — holding a large pair of scissors with which she had just neatly severed the telephone cord...!",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 73955,
+    "TextENGNew": "``No, no, no, NO!!  I would never let the police take my master~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 73956,
+    "TextENGNew": "``...Actually, you've cut the phone line — won't that cause everyone at the clinic problems with work tomorrow?  Coach, is that really all right with you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 73957,
+    "TextENGNew": "``Yes, yes, perfectly fine!!  I am willing to cast title and livelihood alike into the gutter if it means making an ideal maid my own!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 73958,
+    "TextENGNew": "``...Maebara-san.  A man's life is about romance!!  If all one does is chase one's daily bread, then what in the world was the point of being born into this world?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 73959,
+    "TextENGNew": "``...It does sound dashing when you say it that way, but this man is a textbook example of a hopeless adult.``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 73960,
+    "TextENGNew": "``That's not going to happen!!  Rena asked me.  She asked me to save her!  And I made her a promise!  So hand it over — right now!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 73961,
+    "TextENGNew": "``Heh heh heh...  Then it's a contest, Maebara-san!  Just as your classroom disputes get settled through club games — let's settle this the same way, by your club rules!``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 73962,
+    "TextENGNew": "``...Though it is already rather late.  If I keep you here any longer, your families will be worried.``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 73963,
+    "TextENGNew": "``Therefore — one o'clock tomorrow, in front of the Okinomiya elementary school grounds!  Are we agreed?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 73964,
+    "TextENGNew": "``You're on!!  ...Wait, why there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 73965,
+    "TextENGNew": "``Huh?  Wait a moment — that couldn't mean...``",
+    "significantChanges": false
+  }
+]

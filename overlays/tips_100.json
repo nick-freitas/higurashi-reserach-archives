@@ -1,0 +1,147 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Nice Weather",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Pleasant Weather\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15284,
+    "TextENGNew": "The one thing I could boast about was the ventilation.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'I like my house' (absent from JPN) and uses present tense; JPN '自慢だった' is past tense and simply states the ventilation was the one thing to boast about.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 15285,
+    "TextENGNew": "As long as a breeze was blowing, I could stay perfectly cool without any air conditioning.",
+    "significantChanges": true,
+    "changeReason": "Old translates '冷房' (air conditioning) as 'fan'; new correctly renders it as 'air conditioning.'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 15286,
+    "TextENGNew": "I pulled in the futon I had been airing in the wide-open window, laid out a sitting cushion in its place, and settled in to enjoy the cool of the evening from the veranda.",
+    "significantChanges": true,
+    "changeReason": "Old uses present tense while JPN and new use past tense; old says 'near the open window' while new correctly identifies '縁側' as 'veranda,' a distinct location.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 15287,
+    "TextENGNew": "The page-a-day calendar told me it was June, Showa 58 -- 1983.",
+    "significantChanges": true,
+    "changeReason": "New preserves 'Showa 58' from the JPN '昭和の５８年,' retaining the Japanese era dating that the old translation omits entirely.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 15288,
+    "TextENGNew": "Despite it being only June, the rainy season had failed to materialize this year, and summer already seemed to be in full swing.@k...Apparently this was what they call abnormal weather.",
+    "significantChanges": true,
+    "changeReason": "Old says summer was 'coming around the corner' (approaching) while JPN '夏本番の到来' and new say summer was already 'in full swing' (arrived), a different stage of the season.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 15289,
+    "TextENGNew": "Even if this was a once-in-a-century anomaly, if it was destined to occur in the year 1983, there was nothing remarkable about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15290,
+    "TextENGNew": "It was simply inevitable.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15291,
+    "TextENGNew": "Far more unpredictable and extraordinary was a sudden afternoon cloudburst catching you on the walk home from school.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15292,
+    "TextENGNew": "Every single day proceeded in perfect, preordained harmony.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15293,
+    "TextENGNew": "And yet, somehow, I had a feeling that this year was off to an auspicious start.",
+    "significantChanges": true,
+    "changeReason": "Old says 'something good was going to happen' (vague future prediction), while JPN '幸先がいい' and new say 'off to an auspicious start' (present observation about omens), a different temporal framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 15294,
+    "TextENGNew": "...How should I put it?",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15295,
+    "TextENGNew": "It was like the feeling you get when you roll a six on the very first throw of a board game and start off with a commanding lead.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15296,
+    "TextENGNew": "Of course, the more you roll a die, the more the total converges toward the average.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15297,
+    "TextENGNew": "In our daily lives, we are constantly rolling dice in all manner of ways.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15298,
+    "TextENGNew": "So there is no reason to get carried away over one small stroke of luck.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15299,
+    "TextENGNew": "...If the first roll is a six and the next is a one, that makes seven -- dead average.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15300,
+    "TextENGNew": "A fatalist might claim the next roll has a higher probability of being a one.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15301,
+    "TextENGNew": "But the truth is, the next roll could be anything from one to six.@kThat is the nature of fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15302,
+    "TextENGNew": "...Perhaps the next roll will be a six as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 15303,
+    "TextENGNew": "Taken together, two consecutive sixes would be a one-in-thirty-six miracle, but... if you take it one roll at a time, it is merely a one-in-six chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 15304,
+    "TextENGNew": "The glass wind chime Satoko had hung up yesterday was making such a refreshingly cool sound...",
+    "significantChanges": false
+  }
+]

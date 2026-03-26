@@ -1,0 +1,36 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11345,
+    "TextENGNew": "...Welcome to Hint VII.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11346,
+    "TextENGNew": "I'll tell you the conditions for unlocking V4 Lukewarm Canned Coffee in the World of Tomoe Minai.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 11347,
+    "TextENGNew": "F6 Madoka Minai in the World of Each in Their Own Way\nW6 The Investigation's End in the World of the 1960s–70s\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "\"World of 1965-1974\" changed to \"World of the 1960s–70s\" — different time ranges (specific years vs decade ranges). Also \"Investigation Closed\" vs \"The Investigation's End\" — 打ち切り means cut short/terminated, and \"closed\" implies resolution while \"end\" is more neutral.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 11348,
+    "TextENGNew": "And—\nV6 Rolling a Six in the World of Tomoe Minai\n...This fragment is also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "\"A 6 on the Dice\" (a static result) changed to \"Rolling a Six\" (an active process) — different framing that alters whether the title emphasizes the outcome or the act of rolling.",
+    "changeScore": 1
+  },
+  {
+    "index": 5,
+    "MessageID": 11349,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

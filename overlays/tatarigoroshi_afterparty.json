@@ -1,0 +1,958 @@
+[
+  {
+    "index": 2,
+    "MessageID": 11636,
+    "TextENGNew": "\"Thank you so much for enjoying 'Tatarigoroshi' all the way to the end.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Thank you very much for enjoying' (present) while new says 'Thank you so much for enjoying...all the way to the end'; new adds 最後まで (to the end).",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 11637,
+    "TextENGNew": "\"This scenario had a somewhat different atmosphere from the ones before. How did you find it?@k@vS20/02/440200233. ...Um, I'm sure there are quite a few people holding their heads over new mysteries, I think, I think!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'How did you like it? It had a different sort of atmosphere' but new says 'This scenario had a somewhat different atmosphere...How did you find it?' and adds entirely new content about 'people holding their heads over new mysteries' not in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11638,
+    "TextENGNew": "\"Hee hee!@k@vS20/09/440900123. Another satisfyingly miserable bad end, wasn't it?@k@vS20/09/440900124. Personally, I would have liked to see the tragedy of the Great Disaster depicted as well — but I wonder if everyone else feels the same?\"",
+    "significantChanges": true,
+    "changeReason": "Minor stylistic rephrasing; both old and new contain the full afterparty dialogue about the bad end and wishing for more disaster depiction.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 11639,
+    "TextENGNew": "\"I most certainly do not think so!!@k@vS20/04/440400211. Once again!@k@vS20/04/440400212. Once again, what a terrible ending!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 11640,
+    "TextENGNew": "\"A huuuuge bad end!!@k@vS20/03/440300358. Ku-ku-ku!@k@|@y@vS20/03/440300359. Maybe we should call it a DEAD end? Gyahahaha!\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'Maybe we should call it a DEAD end? Gyahahaha!' which appears to be different from old's 'Ku-ku-ku! Ah-ha-ha!!' - the added pun is new content.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 11641,
+    "TextENGNew": "\"Huuuh?@k@vS20/02/440200234. Mii-chan, you seem pretty cheerful for someone calling it a bad end.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 11642,
+    "TextENGNew": "\"I mean, at this point, what can you do but laugh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 11643,
+    "TextENGNew": "\"It must have been an especially big shock for anyone who's played 'Taraimawashi.'@k@vS20/02/440200236. Since they'd understand why Mii-chan ended up like that. ...Hau~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 11644,
+    "TextENGNew": "\"Nah-ha-ha.@k@vS20/11/440700400. Every installment, the terrible endings keep escalating, and now we've finally hit rock bottom.@k@vS20/11/440700401. This is as bleak as it gets!\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'This is as bleak as it gets!' not present in old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 11645,
+    "TextENGNew": "\"...Everyone died together as friends.@k@vS20/05/440500129. They're friends, so that's okay, nipah~\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'died together as friends. As friends, nipah~' but new says 'They're friends, so that's okay, nipah~'; the meaning shifts from dying together to acceptance.",
+    "changeScore": 1
+  },
+  {
+    "index": 12,
+    "MessageID": 11646,
+    "TextENGNew": "\"Hmm, I guess you could look at it that way!@k@vS20/08/440800126. I die every single time, though, so I'm getting pretty sick of it!\"",
+    "significantChanges": true,
+    "changeReason": "Old includes 'It would be nice to have an ending where I didn't die once in a while' which is dropped from new; significant content removal.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 11647,
+    "TextENGNew": "\"Tomitake-san, you're sort of like a time signal, aren't you?@k@vS20/03/440300361. When you die, that's how we know the festival is over!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'it's like, oh, we're in the second half now! Kind of~!' but new says 'that's how we know the festival is over!'; 'festival is over' vs 'second half' is different.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 11648,
+    "TextENGNew": "\"\"Wah-ha-ha-ha-ha-ha!!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 11649,
+    "TextENGNew": "\"All right!@k@vS20/02/440200239. Now, let me introduce the guests joining our discussion this time.@k@vS20/02/440200240. First up, Coach Irie-sensei, who played a major role this chapter!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'give a big round of applause~!! First is Coach—Irie Kyousuke-san' but new says 'First up, Coach Irie-sensei, who played a major role this chapter!'; content differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 11650,
+    "TextENGNew": "\"I'm honored by the introduction.@k@vS20/10/441000072. Hello, hello.@k@vS20/10/441000073. I really did have quite a lot of screen time—perhaps too much for a supporting character.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I was a minor character, but having a full portrait like this makes me really feel important' but new says 'I really did have quite a lot of screen time—perhaps too much for a supporting character'; different self-assessment.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 11651,
+    "TextENGNew": "\"I'll say!@k@vS20/04/440400215. Far too many appearances and lines for a side character, and on top of that, a personality that's hard to read!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'too many appearances, too much dialogue, and too strong a role' but new says 'too many appearances and lines...and a personality that's hard to read'; 'too strong a role' vs 'hard to read personality'.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 11652,
+    "TextENGNew": "\"Hahahaha.@k@vS20/10/441000075. I don't know how much I'll appear going forward, but when I do, I'd appreciate your support.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 11653,
+    "TextENGNew": "\"Thank you very much!@k@vS20/02/440200243. Next up, our homeroom teacher, Chie Rumiko-sensei~!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Next up is our teacher, Rumiko Chie-sensei' but new says 'our homeroom teacher, Chie Rumiko-sensei'; name order changed (Rumiko Chie vs Chie Rumiko).",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 11654,
+    "TextENGNew": "\"Hello, everyone!@k@vS20/22/441400026. I've appeared in various scenes, but this time I was given the standout moment — the curry showdown.@k@|@y@vS20/22/441400027. ...I simply cannot forgive those who would mock curry. Not one bit.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 11655,
+    "TextENGNew": "\"...Oh, haha, hahahaha!@k@vS20/02/440200245. N-Nobody thinks you're clueless, Sensei!@k@vS20/02/440200246. Not at all!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'N-Nobody here would even think of it! Oh, someone give Chie-sensei a seat' but new says 'N-Nobody thinks you're clueless, Sensei! Not at all!'; different reassurance content.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 11656,
+    "TextENGNew": "\"Okay!@k@vS20/03/440300365. Now everyone's here!@k@vS20/03/440300366. To commemorate the conclusion of Tatarigoroshi...@k@vS20/03/440300367. We shall have a tooooast~!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Rena! You can do the honors again!' but new says 'To commemorate the conclusion of Tatarigoroshi...We shall have a tooooast~!'; additional content in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 11657,
+    "TextENGNew": "\"Everyone~!@k@vS20/02/440200248. Please pick up your glasses~!@k@vS20/02/440200249. And everyone under twenty, here's your juice!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Please pick up the cup nearest to you on your table~! There are plenty of different drinks~!' but new says 'Please pick up your glasses~! And everyone under twenty, here's your juice!'; different content about drinks.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 11658,
+    "TextENGNew": "\"These afterparties have really gotten lively.@k@vS20/11/440700402. How many people do we have now?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 11659,
+    "TextENGNew": "\"Including us, I think there are about ten.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 11660,
+    "TextENGNew": "\"Now we've finally got an even split between minors and adults!@k@vS20/08/440800130. Now I can proudly crack open a beer!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'same number of minors and adults! We can all drink without being ashamed!' but new says 'even split between minors and adults! Now I can proudly crack open a beer!'; 'all drink' vs 'I crack open a beer'.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 11661,
+    "TextENGNew": "\"Speaking of beer—why is it that something so delicious when cold becomes so disgusting when warm?@k@vS20/09/440900128. What an odd beverage.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'One of the seven wonders of the world' but new says 'What an odd beverage'; completely different closing remark.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 11662,
+    "TextENGNew": "\"Hee hee hee!@k@vS20/22/441400030. I wonder why?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 11663,
+    "TextENGNew": "\"All right, I'll pour the beer.@k@vS20/10/441000077. One, two, three, four, five, six.@k@vS20/10/441000078. Six... Is that enough?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'There were six adults here?' but new says 'Six... Is that enough?'; different question being asked.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 11664,
+    "TextENGNew": "\"...Mi~@k@vS20/05/440500132. I would like the foamy barley tea too.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'foamy barley tea' but new says same; however old has 'Meep' while new has 'Mi~'; both transliterations of み~ but format differs.",
+    "changeScore": 1
+  },
+  {
+    "index": 31,
+    "MessageID": 11665,
+    "TextENGNew": "\"Rika-chan, you can NOT have beer!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Rika-chan, you can't drink!!' but new says 'Rika-chan, you can NOT have beer!!'; beer vs drink.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 11666,
+    "TextENGNew": "\"Then, Rena-san, if you would.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'let's get this moving' but new says 'if you would'; different prompt.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 11667,
+    "TextENGNew": "\"Of course!@k@vS20/04/440400217. Everyone, your attention please~~!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Well, okay! Can I have everyone's attention please~!!' but new says 'Of course! Everyone, your attention please~~!!'; also old is Rena speaking but dialogue tag suggests Satoko in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 11668,
+    "TextENGNew": "\"All right, everyone!@k@vS20/02/440200252. Wonderful work on 'Tatarigoroshi'!!@k@vS20/02/440200253. Cheeeeeers~!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 11669,
+    "TextENGNew": "\"\"Cheers~~~!!!!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 11670,
+    "TextENGNew": "Yaaaay!!! Clap clap clap clap clap!!",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 11671,
+    "TextENGNew": "\"Well then.@k@vS20/11/440700404. Shall we get on with our customary post-scenario discussion?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'our traditional plot discussion' but new says 'our customary post-scenario discussion'; minor but 'plot discussion' vs 'post-scenario discussion'.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 11672,
+    "TextENGNew": "\"That said... this scenario left us totally confused too.@k@vS20/02/440200256. ...Hmm, where do we even start?@k@vS20/02/440200257. ...Does anyone want to kick things off?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'if anyone has an opinion, please raise your hand!' but new says 'where do we even start?...Does anyone want to kick things off?'; different framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 11673,
+    "TextENGNew": "\"...............Oh my, everyone's being cautious.@k@vS20/03/440300370. No volunteers.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'everyone's being so discreet. No hands?' but new says 'everyone's being cautious. No volunteers.'; 'discreet/no hands' vs 'cautious/no volunteers'.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 11674,
+    "TextENGNew": "\"...Then shall I break the ice?@k@vS20/09/440900130. Um, I hope you don't mind, but could we get some appropriate background music?\"",
+    "significantChanges": true,
+    "changeReason": "Old has 'could you change the music please? To something a little more mysterious. ...Yeah, that's good' but new has 'could we get some appropriate background music?' dropping the specifics.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 11675,
+    "TextENGNew": "\"...The mood has been set.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 11676,
+    "TextENGNew": "\"Then... Takano-san, take it away!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 11677,
+    "TextENGNew": "\"I suspect that just analyzing the 'Tatarigoroshi' scenario alone won't be enough to solve its mysteries.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 11678,
+    "TextENGNew": "\"...I agree.@k@vS20/08/440800133. With this many stories layered on top of each other, it's obvious that cross-referencing them is part of the design.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Obviously that's how the stories have been set up' but new says 'With this many stories layered on top of each other, it's obvious that cross-referencing them is part of the design'; more explicit in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 11679,
+    "TextENGNew": "\"...Was there anything like that in particular?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 11680,
+    "TextENGNew": "\"I'm not sure if this is the right example, but...@k@vS20/22/441400033. In 'Onikakushi,' there was that scene where Maebara-kun was spotted by Ooishi-san at a restaurant.\"",
+    "significantChanges": true,
+    "changeReason": "Old mentions 'Maebara-kun was eating in the restaurant with Ooishi-san, Sonozaki-san found out' but new says 'Maebara-kun was spotted by Ooishi-san at a restaurant'; who spotted whom differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 11681,
+    "TextENGNew": "\"In Onikakushi alone, it was quite the mystery, but once you've read Watanagashi, it becomes obvious and not mysterious at all.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'after reading Watanagashi a few things made a lot of sense' but new says 'once you've read Watanagashi, it becomes obvious and not mysterious at all'; 'made sense' vs 'not mysterious at all' is stronger.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 11682,
+    "TextENGNew": "\"The restaurant I visited in the story turned out to be a Sonozaki-affiliated establishment.@k@vS20/11/440700406. In other words, information flowed through the Sonozaki grapevine.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the Sonozaki family runs various eateries and businesses around these parts' but new says 'information flowed through the Sonozaki grapevine'; different explanation style.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 11683,
+    "TextENGNew": "\"So someone who knew Kei-chan's face was at that restaurant and passed the information along to me... If you look at it that way, it makes sense.@k@vS20/03/440300373. ...And yet you still brought him there for a secret chat. Typical Ooishi-san.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'It actually makes a good amount of sense, right? That's what we mean' but new adds a jab at Ooishi: 'And yet you still brought him there for a secret chat. Typical Ooishi-san.'",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 11684,
+    "TextENGNew": "\"...You knew all that and still brought Maebara-san inside for a private conversation?@k@|@y@vS20/10/441000082. That's rather careless of you, Ooishi-san.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'how diabolical of you' but JPN お人が悪い means 'how careless/naughty of you'; new says 'rather careless' which is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 11685,
+    "TextENGNew": "\"While there are subtle differences between the Higurashi stories,@k@vS20/10/441000084. the broad setting and character fundamentals remain the same.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'three facets that are the same' but new says 'broad setting and character fundamentals remain the same'; different count and description.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 11686,
+    "TextENGNew": "\"...Rena was scary in Onikakushi, but that wasn't a trait exclusive to that scenario.@k@vS20/02/440200261. ...Rena is always a scary person—it's just a matter of whether the opportunity arises or not, I think, I think.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I was scary in Onikakushi' (first person) but new says 'Rena was scary' (third person, and identifies the character by name).",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 11687,
+    "TextENGNew": "\"I agree that the characters remain exactly the same.@k@|@y@vS20/08/440800135. ...No matter which scenario it is, I always die on that day...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the characters being exactly the same...me dying in the same way in the same place every time' but new says 'I always die on that day'; 'same place/same way' detail removed.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 11688,
+    "TextENGNew": "\"...No matter which story, you always die on the same day.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 11689,
+    "TextENGNew": "\"In Watanagashi, there's a scene during the festival where Takano-san and Tomitake-san sneak into the ritual storehouse.@k@vS20/02/440200263_extra. Did that still happen in Tatarigoroshi, even though it wasn't shown?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'even though it wasn't portrayed' but new says 'even though it wasn't shown' and asks it as a question; different framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 11690,
+    "TextENGNew": "\"I believe it still happened.@k@vS20/05/440500137. ...The weather on the day of Watanagashi, the club activities, Satoko's trap pitfall—these details are essentially the same across all three scenarios.\"",
+    "significantChanges": true,
+    "changeReason": "Old mentions 'weather the day of the festival, what we did in the club, and Satoko's uncle coming home' but new says 'weather on the day of Watanagashi, the club activities, Satoko's trap pitfall'; 'uncle coming home' vs 'trap pitfall' is different content.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 11691,
+    "TextENGNew": "\"...Which means... several new questions arise.@k@vS20/11/440700408. If entirely identical events are occurring, then all three scenarios share the same world up to the point where the stories diverge.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'why do they end up being so different?' but new says 'all three scenarios share the same world up to the point where the stories diverge'; different conclusion drawn.",
+    "changeScore": 3
+  },
+  {
+    "index": 58,
+    "MessageID": 11692,
+    "TextENGNew": "\"From the perspective of a typical adventure game, that would mean there's a branching point where the stories split off.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'sometimes the story branches depending on choices, right?' but new says 'there's a branching point where the stories split off'; removes the meta-game reference.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 11693,
+    "TextENGNew": "\"In 'Watanagashi,' that would be around the point where you either give the doll to Mion or don't?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the point where you do or don't give the doll to my sister' but new says 'either give the doll to Mion or don't'; 'my sister' vs 'Mion' changes the speaker perspective.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 11694,
+    "TextENGNew": "\"...A single early-game choice locks you into a bad end... What a terrifying decision!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'An unavoidable bad end from a choice so early on' but new says 'A single early-game choice locks you into a bad end'; 'unavoidable' vs 'locks you in' nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 11695,
+    "TextENGNew": "\"Still, depending on how you make your choices, it seems you can manage to give her the doll.@k@vS20/02/440200264. ...I wonder if that leads to a good end, hmm.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I wonder if things would play out differently' but new says 'I wonder if that leads to a good end'; more specific in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 11696,
+    "TextENGNew": "\"Well, you'll just have to play and find out.@k@vS20/03/440300375. But I will say that it's not just about which option you pick—there might be conditions tied to other choices as well.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'some of these choices don't just affect the scenario you end up in, they also affect entirely different scenarios too. It could be worth it to try out all sorts of things' but new says 'it's not just about which option you pick—there might be conditions tied to other choices as well'; quite different explanation.",
+    "changeScore": 3
+  },
+  {
+    "index": 63,
+    "MessageID": 11697,
+    "TextENGNew": "\"Well then, getting back to 'Tatarigoroshi'... Hmm. In this case, the branching point would be... around the time Keiichi-san decides to kill her uncle?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'maybe whether you decide to kill the uncle or not' but new says 'around the time Keiichi-san decides to kill her uncle'; 'whether or not' vs 'when he decides' is different.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 11698,
+    "TextENGNew": "\"I'd say much earlier than that.@k@vS20/09/440900135. ...When the uncle's girlfriend disappeared from that trouble and the uncle returned to Hinamizawa—that was probably where things started going wrong.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the uncle's cohabitant disappeared because of some trouble' but new says 'the uncle's girlfriend disappeared from that trouble and the uncle returned to Hinamizawa'; 'cohabitant' vs 'girlfriend'.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 11699,
+    "TextENGNew": "\"...Really?@k@vS20/02/440200263. I feel like there might have been an even earlier branching point, separate from that one.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I feel like there was another choice a little bit before that' but new says 'there might have been an even earlier branching point, separate from that one'; adds 'separate from that one'.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 11700,
+    "TextENGNew": "\"...Then where was the very first branch in 'Onikakushi'?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 11701,
+    "TextENGNew": "\"I think... it was around when I appeared in the story and started talking about the serial mysterious deaths attributed to Oyashiro-sama's curse.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 11702,
+    "TextENGNew": "\"...You know, I just thought of something.@k@vS20/04/440400222. ...If Keiichi-san had properly understood Mion-san's feelings...@k@vS20/04/440400223. And if Ooishi-san and my uncle hadn't shown up... wouldn't we have been able to live in peace, without anything happening?\"",
+    "significantChanges": true,
+    "changeReason": "Both discuss what-if about understanding feelings and Ooishi/uncle not appearing; direction of understanding differs slightly.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 11703,
+    "TextENGNew": "\"...Oh my.@k@vS20/03/440300378. For Satoko, that's a rather sharp observation.@k@vS20/03/440300379. You're not wrong about that.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko's gotten right to the point. You're right! You can say that again!' but new says 'For Satoko, that's a rather sharp observation. You're not wrong about that.'; tone is more measured in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 11704,
+    "TextENGNew": "\"Then maybe we should pray that Ooishi-san and the uncle don't show up,@k@vS20/09/440900137. and that Keiichi-kun is nice to Mion-san.@k@vS20/09/440900138. That should give us a happy ending!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'pray Ooishi-san and her uncle don't show up...prevent Sonozaki-san from getting in a bad mood' but new says 'pray that Ooishi-san and the uncle don't show up, and that Keiichi-kun is nice to Mion-san'; different condition.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 11705,
+    "TextENGNew": "\"Yaaay, Big Sis is a bad end flag~!!@k@vS20/06/440600108. Everyone be careful~!@k@vS20/06/440600109. Don't make Big Sis cry! Don't leave her lonely!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Big Sis, you're needed for the bad ending~!! Be careful, everyone~! If you make my sister mad' but new says 'Big Sis is a bad end flag~!! Everyone be careful~! Don't make Big Sis cry! Don't leave her lonely!'; 'mad' vs 'cry/lonely'.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 11706,
+    "TextENGNew": "\"W-What is that supposed to mean?!@k@|@y@vS20/03/440300382. Shiooooon!!@k@vS20/03/440300383. What exactly are you implying?!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Next time I'll make sure to be merciless in the pain I put you through!! You can cry and apologize' but new says 'What exactly are you implying?!'; completely different response.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 11707,
+    "TextENGNew": "\"Ahahahahahaha.@k@vS20/02/440200265. ...We can't solve any of the mysteries from the previous stories, but somehow we've managed to figure out how to avoid the bad endings, I think, I think.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'put together a plan for how to get the story to end happily' but new says 'figured out how to avoid the bad endings'; different conclusion.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 11708,
+    "TextENGNew": "\"...I wonder... if that would really make everyone happy.@k@vS20/10/441000088. Even if we removed Ooishi-san and Teppei Houjou from the equation... there's still the disaster at the very end.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion-san gets the doll. ...Is that all we have to make sure of?' but new says 'Even if we removed Ooishi-san and Teppei Houjou from the equation... there's still the disaster at the very end'; the doll reference is replaced by disaster mention.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 11709,
+    "TextENGNew": "\"Exactly.@k@vS20/08/440800137. ...Everyone's forgetting one huge thing.@k@vS20/08/440800138. ...The Great Hinamizawa Disaster, the volcanic gas outbreak.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the Great Hinamizawa Disaster' but new says 'the Great Hinamizawa Disaster, the volcanic gas outbreak'; added specificity.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 11710,
+    "TextENGNew": "\"You can't prevent a natural disaster!!@k@vS20/04/440400225. What, are we supposed to hand out gas masks to everyone in the village?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 11711,
+    "TextENGNew": "\"...That's surely Oyashiro-sama's curse.@k@vS20/05/440500140. So if we don't anger Oyashiro-sama, it shouldn't happen.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 11712,
+    "TextENGNew": "\"Nah-ha-ha!@k@|@y@vS20/11/440700411. Things are getting complicated.@k@vS20/11/440700412. Oyashiro-sama's anger... What could possibly be the trigger for it?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'This is getting a little tricky' but new says 'Things are getting complicated'; also old asks 'what should we do' while new asks 'What could possibly be the trigger'.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 11713,
+    "TextENGNew": "\"The dam project itself is probably the root cause...@k@vS20/22/441400037. If the dam project hadn't existed in the first place, the villagers wouldn't have banded together, and there wouldn't have been any grudges.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Maybe if there was never a dam project in the first place?' but new adds 'the villagers wouldn't have banded together, and there wouldn't have been any grudges'; added reasoning.",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 11714,
+    "TextENGNew": "\"That... would be difficult.@k@vS20/09/440900139. ...If that's the case, then we'd need to appease Oyashiro-sama's fury.@k@vS20/09/440900140. I know just the thing. A ritual offering!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'we would need a ritual to quell Oyashiro-sama's anger' but new adds 'I know just the thing. A ritual offering!' not in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 11715,
+    "TextENGNew": "\"Sinking a ritual offering into the Onigafuchi Swamp... that ritual!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 11716,
+    "TextENGNew": "\"...A-An offering? What exactly are we offering to Oyashiro-sama?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 11717,
+    "TextENGNew": "\"Come on, it's obvious!@k@vS20/03/440300387. Someone who drops out of the story no matter which path you take!@k@vS20/03/440300388. We offer THAT person to Oyashiro-sama!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Someone who is destined to drop out from the story no matter what happens! If he's gonna die anyway, then we may as well have it help out Hinamizawa!' but new says 'Someone who drops out of the story no matter which path you take! We offer THAT person to Oyashiro-sama!'; 'help out Hinamizawa' vs 'offer to Oyashiro-sama'.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 11718,
+    "TextENGNew": "\"...Uh... when you say someone who 'drops out' no matter what... you mean me, don't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 11719,
+    "TextENGNew": "\"I always knew it, Jirou-san... You have a truly vital role to play in this story.@k@vS20/09/440900141. As a sacrificial offering to God!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We'll get you to play your part' but new says 'As a sacrificial offering to God!'; completely different.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 11720,
+    "TextENGNew": "\"And with that... we finally have our blueprint for the grand happy ending scenario.@k@vS20/10/441000090. ...Um, the core of the plan seems to be... my sacrifice...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Let's give it a try since we have time. Everyone involved, come over here!' but new says 'Um, the core of the plan seems to be... my sacrifice...' spoken by a different character.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 11721,
+    "TextENGNew": "First... we stop Uncle Houjou from returning to Hinamizawa@rafter losing his place in Okinomiya!",
+    "significantChanges": true,
+    "changeReason": "Old says 'whose lover ran out on him' but new says 'after losing his place in Okinomiya'; different reason for return.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 11722,
+    "TextENGNew": "\"Hiya, I'm Uncle Houjou~.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 11723,
+    "TextENGNew": "\"...Why is Coach playing my uncle?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 11724,
+    "TextENGNew": "\"Because actually going to fetch him would be way too much trouble.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Going to get him would be pretty tedious' but new says 'actually going to fetch him would be way too much trouble'; stylistically similar but new is more casual.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 11725,
+    "TextENGNew": "\"I'm so lonely now that my lover ran away~@k@vS20/10/441000096. Time to head back to Hinamizawa and leech off Satoko~.\"",
+    "significantChanges": true,
+    "changeReason": "Old has extensive text about 'train her, make her into my future maid servant...I'll just put in the key, and click...Click?' but new is much shorter: 'Time to head back to Hinamizawa and leech off Satoko'; significant content removed.",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 11726,
+    "TextENGNew": "KABOOOOOOOOOM!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 11727,
+    "TextENGNew": "\"Take THAT!!@|@y@k@vS20/04/440400228. Return to dust, if you please!!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'To ashes and dust shall you return!!!' but new says 'Return to dust, if you please!!!'; different phrasing plus old is more dramatic.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 11728,
+    "TextENGNew": "\"S-Satoko-chan, don't you think that was a bit too much gunpowder...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 11729,
+    "TextENGNew": "Next, we stop Ooishi from showing up!!",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 11730,
+    "TextENGNew": "\"My turn, is it?@k@vS20/11/440700415. Nfu-fu!@k@|@y@vS20/11/440700416. Let's see you try it, then~!\"",
+    "significantChanges": true,
+    "changeReason": "Old has extensive self-description 'A hot, good-looking middle-aged man who looks like a blues singer. Mfu-fu-fu!' but new says 'Let's see you try it, then~!'; completely different dialogue.",
+    "changeScore": 3
+  },
+  {
+    "index": 97,
+    "MessageID": 11731,
+    "TextENGNew": "KABOOOOOOOOOM!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 11732,
+    "TextENGNew": "\"...Mii!@k@vS20/05/440500142. Judgment.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Meep!' but new says 'Mii!'; different transliteration of み.",
+    "changeScore": 1
+  },
+  {
+    "index": 99,
+    "MessageID": 11733,
+    "TextENGNew": "\"And don't forget the aftercare for my dear sister!@k@|@y@vS20/06/440600112. Here, here—some pudding for you, Sis!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'a cute little doll for you' but new says 'some pudding for you'; completely different gift item.",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 11734,
+    "TextENGNew": "\"Mgh, something about this just doesn't sit right!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 11735,
+    "TextENGNew": "\"And finally... we need to quell Oyashiro-sama's anger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 11736,
+    "TextENGNew": "\"Then... our final performer, if you please.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 11737,
+    "TextENGNew": "\"Bind him tight, wrap him in a mat, string him up!@k@vS20/11/440700420. Dangle him over the swamp for three days as an offering to Oyashiro-sama!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Tie him fast, wrap him up, and hang him! He'll sink for three days, right?' but new says 'Bind him tight, wrap him in a mat, string him up! Dangle him over the swamp for three days'; adds 'over the swamp' and 'offering to Oyashiro-sama'.",
+    "changeScore": 3
+  },
+  {
+    "index": 104,
+    "MessageID": 11738,
+    "TextENGNew": "\"That takes too long—let's just do it all at once~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 11739,
+    "TextENGNew": "\"Gbblrghblrghblrgh!!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 11740,
+    "TextENGNew": "\"And with that!! Case closed!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 11741,
+    "TextENGNew": "\"Ahahahahaha... how did that happen?@k@vS20/02/440200269. Suddenly Rena's arm started glowing and roaring, and things got out of hand!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Hmm. Oh no, all of a sudden, this arm of mine is glowing with an awesome power' but new says 'Suddenly Rena's arm started glowing and roaring, and things got out of hand!'; 3rd vs 1st person and content differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 108,
+    "MessageID": 11742,
+    "TextENGNew": "\"...This pile of corpses is quite the spectacle.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 11743,
+    "TextENGNew": "\"Hm?@k@vS20/02/440200271. The phone's ringing.@k@|@y@vS20/02/440200272. Hello?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Hello? Oh, Keiichi-kun?! Thanks for all your work!' but new only says 'Hello?' dropping Keiichi identification.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 11744,
+    "TextENGNew": "\"Hey, hey! Sounds like you're all having a blast over there.@k@vS20/01/440100211. Over here, I'm working my butt off studying the script for the next installment!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'you're all having a roaring old time. And yet here I am busy with reading the scenario for the next story!!' but new says 'Sounds like you're all having a blast...I'm working my butt off studying the script for the next installment!'; 'roaring old time' vs 'blast'.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 11745,
+    "TextENGNew": "\"Whatever.@k@vS20/01/440100213. I'm in a good mood today, so I'll spare you the sarcasm.@k@vS20/01/440100214. Listen up—I'm announcing the next scenario title right here, right now.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Is Shion there? Isn't it about time we told them about it?' but new says 'I'm announcing the next scenario title right here, right now.'; different dialogue.",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 11746,
+    "TextENGNew": "\"Wait, what?@k@vS20/06/440600116. You're making the announcement now?@k@vS20/06/440600117. Shouldn't that be at the event?!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I suspect that some people already figured it out, but okay' but new says 'Shouldn't that be at the event?!'; different reaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 11747,
+    "TextENGNew": "\"A secret between Shion-san and Keiichi-san?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 11748,
+    "TextENGNew": "\"Wha-Wha-Wha-What do you meeean?!@k@vS20/03/440300393. I haven't heard about this! I haven't heard about this! I haven't heard about this!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 11749,
+    "TextENGNew": "\"It's nothing major.@k@vS20/06/440600119_1. Some of you may already know, but the next installment's title is—@k@vS20/06/440600119_2. 'Meakashi'—the Eye Opening chapter.@k@vS20/06/440600120. And the main character will be yours truly!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'there are some new additions to the materials available for viewing...you will be able to play the scenario of me, Shion Sonozaki' but new says 'the next installment's title is—Meakashi—the Eye Opening chapter. And the main character will be yours truly!'; much more specific in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 11750,
+    "TextENGNew": "\"\"W-Whaaaaaat?!?!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 11751,
+    "TextENGNew": "\"...So that's the story.@k@vS20/06/440600122. The runaway number-one in popularity since my debut—I will finally be the protagonist!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The late-appearing sister of a pair is always popular, it's been that way since the golden era of galge' but new says 'I will finally be the protagonist!'; meta-reference about galge removed.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 11752,
+    "TextENGNew": "\"I have no clue what that means, and I don't care.@k@vS20/01/440100217. Point is, in that scenario, I'm finally relieved of protagonist duty!@k@vS20/01/440100218. Word on the street is you've got even more voiced lines than me?!@k@vS20/01/440100219. Ha-hah! Now you get a taste of my suffering~!!\"",
+    "significantChanges": true,
+    "changeReason": "Minor stylistic rephrasing; both old and new contain the same dialogue about being relieved of protagonist duty and joking about voiced line counts.",
+    "changeScore": 2
+  },
+  {
+    "index": 119,
+    "MessageID": 11753,
+    "TextENGNew": "\"Well, Kei-chan has such a ridiculous number of voiced lines that once the other scenarios get voices too, he'll overtake you immediately.@k@vS20/06/440600125. ...Better enjoy it while it lasts, I suppose.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'be prepared to experience the true prowess of the Sonozaki sisters' but new says 'Better enjoy it while it lasts, I suppose'; different closing remark.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 11754,
+    "TextENGNew": "\"...Are you sure about this, Shion-san?@k@vS20/04/440400232. The protagonist meets a terrible end every time, you know?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 11755,
+    "TextENGNew": "\"Ku-ku-ku!@k@vS20/06/440600127. Well, up until now, sure.@k@vS20/06/440600128. But 'Meakashi' is the first chapter of the Answer Arcs.@k@vS20/06/440600129. The Answer Arcs are where the mysteries of the Question Arcs get resolved!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'that doesn't necessarily mean it'll happen next time!' but new says 'Meakashi is the first chapter of the Answer Arcs. The Answer Arcs are where the mysteries of the Question Arcs get resolved!'; much more content in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 11756,
+    "TextENGNew": "\"'Tatarigoroshi' and the side story 'Someutsushi' mark the end of an era.@k@vS20/02/440200277. From here on, the story transitions from piling up mysterious questions to providing answers and resolutions!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'This story will confront the existing mysteries and witness the beginning of even more drama!' but new says 'the story transitions from piling up mysterious questions to providing answers and resolutions!'; different framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 11757,
+    "TextENGNew": "\"In other words, it'll be a thrilling story where I become the great detective and decisively solve every unreasonable mystery!@k@vS20/06/440600131. You're all dying to know the answers, so you'll love it!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You'd all better think up good signature phrases! Like...You, sir, are the criminal' but new says 'You're all dying to know the answers, so you'll love it!'; completely different.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 11758,
+    "TextENGNew": "\"That is NOT happening, NOT happening!!@k@vS20/03/440300396. You'll get too close to the Three Families' secrets, get locked up in a cellar, and cry your eyes out!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'get tormented! You're a shoo-in to meet a violent, unnatural death!!' but new says 'get locked up in a cellar, and cry your eyes out!'; different fate described.",
+    "changeScore": 3
+  },
+  {
+    "index": 125,
+    "MessageID": 11759,
+    "TextENGNew": "\"Sis, I should be saying that to YOU—are you mentally prepared to have all your mysteries and secrets exposed by me, then utter your words of apology before taking your own life?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 11760,
+    "TextENGNew": "\"...No chance of Oyashiro-sama's curse for me, then?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 11761,
+    "TextENGNew": "\"Now then.@k@vS20/02/440200280. In order for Shii-chan's starring chapter 'Meakashi' to proceed, a new police resource file needs to be unlocked.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'we'll need some new police documents' but new says 'a new police resource file needs to be unlocked'; 'documents' vs 'resource file to be unlocked'.",
+    "changeScore": 3
+  },
+  {
+    "index": 128,
+    "MessageID": 11762,
+    "TextENGNew": "\"...Up until now, it's been Ooishi and the Okinomiya detectives at the center, but from here on, a much larger organization will be getting involved.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 11763,
+    "TextENGNew": "\"...'Onikakushi,' 'Watanagashi,' and 'Tatarigoroshi.'@k@vS20/02/440200283. Can you piece together the truth from the clues scattered across these three scenarios?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'What truths will you all come up with after reading these three stories?' but new says 'Can you piece together the truth from the clues scattered across these three scenarios?'; different framing—coming up with truths vs piecing together from clues.",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 11764,
+    "TextENGNew": "\"...Or will your theories just get more tangled the more you try?@k@vS20/02/440200285. Hmm~~, well, the pleasure of these stories is in contemplating the answers!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'will you just come up with more questions instead of theories? Rena has no clue either. Ahahaha...' but new says 'the pleasure of these stories is in contemplating the answers!'; completely different message.",
+    "changeScore": 3
+  },
+  {
+    "index": 131,
+    "MessageID": 11765,
+    "TextENGNew": "\"And then there's the first chapter of the Advanced Story, 'Someutsushi.' ...Have all of you had a chance to experience it?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Have you all seen it yet?' vs 'Have all of you had a chance to experience it?'; similar but framing differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 132,
+    "MessageID": 11766,
+    "TextENGNew": "\"It offers mysteries and developments from an entirely different perspective, so if you haven't seen it yet, please do stop by before moving on. We'll be waiting for you.\"",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,970 @@
+[
+  {
+    "index": 1,
+    "MessageID": 1969,
+    "TextENGNew": "The proprietress, having finished laying out the refined small dishes, bowed deeply in thanks for their continued patronage and withdrew without sound.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 1970,
+    "TextENGNew": "The room, like an elegant tea chamber, was possessed of a deep tranquility—understated in its decoration, yet absolutely saturated in the most genuine luxuries.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 1971,
+    "TextENGNew": "This high-class ryotei was well known in certain circles, frequently used by financial luminaries and senior government officials for meetings they wished to keep from public view.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 1972,
+    "TextENGNew": "Within it sat some five well-fed, prosperous gentlemen of middle years.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old contains the next entry's content about Takano; JPN describes five well-fed, prosperous gentlemen of middle years.",
+    "changeScore": 5
+  },
+  {
+    "index": 5,
+    "MessageID": 1973,
+    "TextENGNew": "And among them was Takano.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old contains the previous entry's content about five gentlemen; JPN states Takano was among them.",
+    "changeScore": 5
+  },
+  {
+    "index": 6,
+    "MessageID": 1974,
+    "TextENGNew": "Takano sat at a slight remove from the rest, in a posture of deferential restraint.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 1975,
+    "TextENGNew": "The manner made it clear that this was a meeting with people of considerably higher standing than herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 1976,
+    "TextENGNew": "A man dressed in a quality double-breasted suit addressed Takano, telling her she needn't be so formal.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 1977,
+    "TextENGNew": "\"Please, be at ease, Takano-san.\nWe found the matter you submitted quite extraordinarily interesting.\nTo think that such research lay dormant for decades...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 1978,
+    "TextENGNew": "``Hmm, remarkable indeed.@k@vS13/00/551300002. I had assumed that most research of this type conducted in the past had come to nothing, its staff disbanded, with nothing remaining.``",
+    "significantChanges": true,
+    "changeReason": "Old fabricates specific references to 'BC weapons' and 'US military confiscated' not present in JPN, which generically says 'research of this type' came to nothing.",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 1979,
+    "TextENGNew": "\"...I've heard that this research was barely noticed by the upper echelons at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 1980,
+    "TextENGNew": "\"Ah, I see.\nWhich is precisely why no one was aware of it, and no one came to pursue it.\nIn that sense alone, it was truly fortunate.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 1981,
+    "TextENGNew": "\"Hmm.\nFascinating—that Dr. Takano's research should be taken up by a different Takano-san.\nPerhaps it was meant to be.\nIt is almost as if the deceased is using your form to bring his own research to completion.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 1982,
+    "TextENGNew": "\"Hee hee.\nPerhaps that is exactly so.\nI feel a strange kind of connection to him myself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 1983,
+    "TextENGNew": "Takano held a deep affection for Hifumi Takano and called him grandfather, but she had not made that relationship known to others.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 1984,
+    "TextENGNew": "She had judged that it would be a disadvantage to let people think personal sentiment was mixed into her continuation of his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 1985,
+    "TextENGNew": "And so, on the surface, the account was that Takano had once had dealings with Hifumi Takano, and after his death, had discovered this research among his effects and decided to carry it on—\nthat was the story.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 1986,
+    "TextENGNew": "\"Well then, gentlemen.\n...What do you think?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 1987,
+    "TextENGNew": "\"Quite. Several ministries expressed very strong interest.\nHa ha ha! Nakagawa-kun tells me the Technical Research and Development Institute of the Defense Agency showed particularly strong interest.\nThey have come forward as prospective sponsors.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 1988,
+    "TextENGNew": "\"Oh, that is wonderful news!\nCongratulations, Takano-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 1989,
+    "TextENGNew": "\"Oh—thank you very much...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 1990,
+    "TextENGNew": "\"Now, what they told us is this.\nThere is a research council for next-generation technological development, led by experts drawn from multiple ministries.\nWithin it, there is apparently something called the Alphabet Project.\nAre you familiar with it, Takano-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 1991,
+    "TextENGNew": "There was no way Takano, as a private individual, would know of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 1992,
+    "TextENGNew": "...But it was not beyond imagining that a faction lurking at the core of the state would be conducting dangerous research, entirely outside the awareness of ordinary citizens.",
+    "significantChanges": true,
+    "changeReason": "Original says 'these nationalists' while new says 'a faction lurking at the core of the state' — different characterization; Japanese says 国家の中核に潜む勢力.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 1993,
+    "TextENGNew": "Society is something like a web—woven from connections between people.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 1994,
+    "TextENGNew": "People clasp hands with those who share their views and spin a 'web' of common thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 1995,
+    "TextENGNew": "Some of those webs are well known; others are secret, their existence unknown to anyone outside them.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 1996,
+    "TextENGNew": "Even the individuals gathered at this meeting today—you could never guess the nature of their connections from their official titles alone...",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 1997,
+    "TextENGNew": "A research council for next-generation technological development.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 次世代技術開発 (next-generation technological development) as 'deterrent weapons for the next generation'; new correctly translates the phrase.",
+    "changeScore": 4
+  },
+  {
+    "index": 30,
+    "MessageID": 1998,
+    "TextENGNew": "The Alphabet Project, studied within it.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 1999,
+    "TextENGNew": "Even from those words alone, a general shape of the thing could be imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 2000,
+    "TextENGNew": "In any case...",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 2001,
+    "TextENGNew": "...For Takano to conduct her research, backing in the form of budget, personnel, and facilities was indispensable—and a powerful sponsor was essential.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 2002,
+    "TextENGNew": "The truth of how she had arrived here was this: she had approached the backroom elders of the political and financial world, laid the groundwork through every available channel, and—using the pretext of research into and eradication of endemic disease—had strong-armed funding out of the Defense Agency.",
+    "significantChanges": true,
+    "changeReason": "Original says 'research into and eradication of endemic disease' pretext while correctly matching Japanese; this entry was specifically about 防衛庁 dealings.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 2003,
+    "TextENGNew": "So this project was not officially sanctioned by the Defense Agency's leadership.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 2004,
+    "TextENGNew": "...More precisely: it had been recognized by the power brokers who controlled the key positions...",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 2005,
+    "TextENGNew": "Those power brokers diverted funds from the Defense Agency into the Alphabet Project.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 2006,
+    "TextENGNew": "Then they maneuvered to have Takano's research inserted within it.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 2007,
+    "TextENGNew": "Takano obtained her budget; the power brokers extracted their kickbacks, siphoning off public funds.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 2008,
+    "TextENGNew": "...Thinking about it in those terms, it was doubtful this project was engaged in any genuine next-generation development research.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 2009,
+    "TextENGNew": "It might simply be a shell project these power brokers were using to drain public money into their own pockets.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 2010,
+    "TextENGNew": "Well—none of that complicated business was of any concern to Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 2011,
+    "TextENGNew": "The designs of power brokers and elders were not her problem.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 2012,
+    "TextENGNew": "As long as she could extract a budget for her research, that was enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 2013,
+    "TextENGNew": "Either way.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 2014,
+    "TextENGNew": "Takano had obtained the sponsor she had most wanted.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 2015,
+    "TextENGNew": "And from one of the largest institutions she could have imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 2016,
+    "TextENGNew": "This was, indeed, what her grandfather had always wished for.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 2017,
+    "TextENGNew": "She maintained her composure outwardly, but inwardly she felt ready to leap for joy.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 2018,
+    "TextENGNew": "\"Nakagawa-kun says that once research is sufficiently advanced, he would have no objection to taking the whole thing over.\nThough it remains incomplete, he clearly sees ample potential in it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 2019,
+    "TextENGNew": "\"Quite so.\nThis research is only halfway through its journey. Adequate funding, facilities, and personnel are indispensable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 2020,
+    "TextENGNew": "\"Now, here is where negotiations begin—apparently their preference is to take this research on in its entirety.\n...I feel awkward saying this, but they feel the burden is too great to entrust to you alone.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 2021,
+    "TextENGNew": "That sobered Takano's elation, just a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 2022,
+    "TextENGNew": "\"I—I am not conducting this research in pursuit of money.\nMy motivation is the intellectual curiosity of a researcher.\nWhat I require is a sponsor.\nWhat they seek are results.\nThat is the kind of relationship I had hoped for.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 2023,
+    "TextENGNew": "Realizing at once that she had let herself get slightly too agitated, Takano pressed a hand to her chest to settle her heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 2024,
+    "TextENGNew": "...Whichever way one looked at it, they would be funding the research.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 2025,
+    "TextENGNew": "Expecting results commensurate with the budget—from their perspective, Takano probably still seemed rather too young and inexperienced.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 2026,
+    "TextENGNew": "\"I understand, I understand.\nFor someone to simply swoop in and carry off the research you've been building all this time—that would be too much to bear.\nI understand that perfectly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 2027,
+    "TextENGNew": "\"Of course, we conveyed exactly that to them.\nAnd this is the compromise they produced.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 2028,
+    "TextENGNew": "\"First, your research will be established as a new venture within the Alphabet Project.\nOnce it receives the board's approval, official funding can be attached.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 2029,
+    "TextENGNew": "\"You will participate in the project in the capacity of associate researcher, and will be involved in the research in that form.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 2030,
+    "TextENGNew": "To obtain their funding, coming under their umbrella was only natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 2031,
+    "TextENGNew": "Up to this point she had no objection.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 2032,
+    "TextENGNew": "\"However, the research council has put forward several conditions in exchange for attaching a budget to this project.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 2033,
+    "TextENGNew": "\"The first—as the gentleman just mentioned—is to entrust the lead position in this field of research to an individual with outstanding talent.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 2034,
+    "TextENGNew": "\"I beg to differ—\ndo you truly believe anyone exists who knows this research better than I do? Other than the late Dr. Takano, of course?\"",
+    "significantChanges": true,
+    "changeReason": "Original says 'biological weaponry' as the pretext while new correctly says 'research into and eradication of endemic disease' — Japanese says 風土病の研究と撲滅.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 2035,
+    "TextENGNew": "\"Now, now, now! Takano-san, please, calm yourself!\nYour feelings are entirely understandable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 2036,
+    "TextENGNew": "\"But then, how is this any different from selling my research to that individual?\nThis is nothing like what we discussed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 2037,
+    "TextENGNew": "\"Wa ha ha ha. Calm yourself, Takano-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 2038,
+    "TextENGNew": "The worldly-wise old men did not miss the trace of anger that briefly leaked across Takano's expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 2039,
+    "TextENGNew": "And they gave placating laughs—as though to say: to let it show in your face over something this small means you are still quite young.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 2040,
+    "TextENGNew": "That said, their laughter was not contemptuous.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 2041,
+    "TextENGNew": "If anything it carried a faint quality of reassurance—the message being: hear the matter out to the end.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 2042,
+    "TextENGNew": "\"Of course—we will handle things so that they go your way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 2043,
+    "TextENGNew": "\"Koizumi-sensei has particularly asked me to look after you.\nDo you think I would treat someone he has personally entrusted to me with such disregard...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 2044,
+    "TextENGNew": "\"Don't worry.\nLeave this one to me.\nI will find a point of agreement that satisfies both you and the other party.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 2045,
+    "TextENGNew": "\"And that would mean...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 2046,
+    "TextENGNew": "\"It means that the selection of that individual lies in my hands. Wahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 2047,
+    "TextENGNew": "Everyone burst out laughing—everyone except Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 2048,
+    "TextENGNew": "She joined in a moment later.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 2049,
+    "TextENGNew": "In other words, this was precisely the defanging of the stipulation.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 骨抜き (defanging/gutting of a stipulation) as 'find just the right person'; entirely different meaning.",
+    "changeScore": 4
+  },
+  {
+    "index": 82,
+    "MessageID": 2050,
+    "TextENGNew": "The Defense Agency's side had proposed installing an expert as leader, having found Takano alone somewhat insufficient.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 2051,
+    "TextENGNew": "But the selection of that leader was in the hands of the person backing Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 2052,
+    "TextENGNew": "In that moment, Takano understood.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 2053,
+    "TextENGNew": "...Ah—this is what it feels like to have a powerful backer.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 2054,
+    "TextENGNew": "\"Leave everything to me.\nI'll seek out candidates who will suit you.\nAll you need to do is choose from among them the partner you find easiest to work with.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 2055,
+    "TextENGNew": "With that, she had nothing to worry about.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 2056,
+    "TextENGNew": "The figurehead would not be her—but the substance of the research would remain in her hands.",
+    "significantChanges": true,
+    "changeReason": "Original says 'leading it from the shadows' while new says 'substance of the research would remain in her hands' — different implication about control.",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 2057,
+    "TextENGNew": "...Not that she was an authority figure to begin with.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 2058,
+    "TextENGNew": "Having a reliable partner in the research itself would only be beneficial.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 2059,
+    "TextENGNew": "\"I will coordinate with the other party on this matter for some time.\nOf course, I will ensure it resolves in a form that satisfies you—please wait for good news.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 2060,
+    "TextENGNew": "\"Yes.\nThank you for your trouble. I count on you...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 2061,
+    "TextENGNew": "\"Oh yes, and it isn't only the Defense Agency.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 2062,
+    "TextENGNew": "\"Nagata-kun at the Ministry of Health and Welfare has also agreed to be involved.\nHe has introduced me to Itou-kun at the National Institute of Infectious Diseases.\nHe has offered to provide backup in terms of equipment and technology.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 2063,
+    "TextENGNew": "\"Is—is that so...!\nTh-Thank you so much...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 2064,
+    "TextENGNew": "\"Wa ha ha ha!\nThis has quite grown into a proper national project, hasn't it?\nCongratulations, Takano-san!\nThis is the result of your own tireless efforts, and of the late Dr. Takano's painstaking research.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 2065,
+    "TextENGNew": "\"Oh—no!\nAll of this is the fruit of Dr. Takano's efforts.\nI myself have done nothing yet...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 2066,
+    "TextENGNew": "\"Ha ha ha ha. Humility is a true virtue.\nJust as Koizumi-sensei said—you really are a fine person, Takano-san.\nNo wonder he is so fond of you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 2067,
+    "TextENGNew": "\"Now then, as for the matter of your position—it seems they would like to take you into the Defense Agency.\nFortunately, you hold a medical license.\nThey intend to secure you a position as medical officer in the Research and Development Institute.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 2068,
+    "TextENGNew": "\"That would mean... um...\nBecoming a civil servant?\nThat was unexpected...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 2069,
+    "TextENGNew": "\"Most of the research bodies involved in the Alphabet Project are public institutions.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 2070,
+    "TextENGNew": "\"The SDF has expressed strong interest in the current research as well, and is strongly requesting to dispatch personnel.\nSo depending on the arrangement, your status may fall under SDF classification.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 2071,
+    "TextENGNew": "\"Well, think of that aspect as officials squabbling over their turf.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 2072,
+    "TextENGNew": "\"And in order to stand above those officials, you would need an official status of your own.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 2073,
+    "TextENGNew": "\"Of course, whatever form it takes, we will make sure it is nothing that displeases you—so please rest assured.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 2074,
+    "TextENGNew": "\"I understand.\nI'll leave that matter in your hands.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 2075,
+    "TextENGNew": "\"...And yet—thinking of how Dr. Takano once sought the military's support for this research and was refused,\nI find it strange—or perhaps overdue—or simply hard to know how to feel, that the Defense Agency now shows interest...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 2076,
+    "TextENGNew": "\"That... was unavoidable, I'm afraid.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 2077,
+    "TextENGNew": "\"Even now, this research carries conviction on both fronts—credibility and necessity. But what was sought at the time was something more universally applicable and less costly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 2078,
+    "TextENGNew": "\"I do not believe they were looking down on Dr. Takano's research.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 2079,
+    "TextENGNew": "That was not true.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 2080,
+    "TextENGNew": "Takano already knew the truth of it, from the old man's own confession.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 2081,
+    "TextENGNew": "Takano felt a brief sense of disconnection, as though the meeting before her eyes were something taking place in some distant world.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 2082,
+    "TextENGNew": "This was the day she had longed for. The day she had striven, at last, to reach.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 2083,
+    "TextENGNew": "At last, my research—my grandfather's research—was recognized, and has taken its first step.",
+    "significantChanges": true,
+    "changeReason": "Original uses third person while new uses first person 'my research—my grandfather's research' — different narrative perspective.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 2084,
+    "TextENGNew": "It was the day she had dreamed of.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 2085,
+    "TextENGNew": "And so the thought that this might itself be a dream filled her with dread.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 2086,
+    "TextENGNew": "True joy, at its deepest, is often not understood in the moment—it can only be understood after time has passed.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 2087,
+    "TextENGNew": "...Takano thought this must be exactly one of those moments...",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 2088,
+    "TextENGNew": "\"...I expect so.\nI imagine you will likely be given a field officer's rank.\nIf so, as second-in-command, you would probably receive the rank of Major.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 2089,
+    "TextENGNew": "\"How splendid...!\nMajor Takano.\nMy, how enviable!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 2090,
+    "TextENGNew": "\"Born a man, you'd want to be addressed by rank at least once in your life.\nGood heavens—Major Takano! Mm-hmm, mm-hmm!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 2091,
+    "TextENGNew": "\"Major? What does that signify?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 2092,
+    "TextENGNew": "\"Ah, it's a Self-Defense Forces rank—Third-Grade Land Staff Officer.\nSomething like deputy department head in a company, I suppose.\nThat will likely be the rank conferred on you when the project is launched.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 2093,
+    "TextENGNew": "\"In the old terms, it would be Major—the equivalent.\n...Come to think of it, what a coincidence.\nDr. Takano also held the rank of Major in the old military, did he not?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 2094,
+    "TextENGNew": "She caught her breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 2095,
+    "TextENGNew": "Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 2096,
+    "TextENGNew": "...Her grandfather had held the rank of Major as a military physician...",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 2097,
+    "TextENGNew": "All the effort she had accumulated until today—so that she could carry on the research her grandfather had left unfinished.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 2098,
+    "TextENGNew": "And now everything was in place.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 2099,
+    "TextENGNew": "...And the rank to be conferred upon her at the end of all of it would be Major in current terms—the same as her grandfather's.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 2100,
+    "TextENGNew": "She had believed, and given everything to the belief, that carrying on her grandfather's research was—though they shared no blood—a bond that surpassed blood kinship.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 2101,
+    "TextENGNew": "And now the rank she was to be given was the same as Grandfather's.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 2102,
+    "TextENGNew": "It was almost as though it were fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 2103,
+    "TextENGNew": "...Could this be Grandfather's message to me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 2104,
+    "TextENGNew": "Surely it was a shout of encouragement from Grandfather in Heaven.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 2105,
+    "TextENGNew": "And proof that she had inherited not just the research, but his very spirit.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 2106,
+    "TextENGNew": "Takano could not help feeling that something like destiny was bound up in the rank of Major.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 2107,
+    "TextENGNew": "\"...Grandfather.\n...I've...finally made it here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 2108,
+    "TextENGNew": "Those words, spoken under her breath, would not reach anyone's ears through the laughter of the men.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 2109,
+    "TextENGNew": "But they would surely reach the country where her grandfather slept.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 2110,
+    "TextENGNew": "So she believed as she murmured them.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 2111,
+    "TextENGNew": "She was still only halfway along the road.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 2112,
+    "TextENGNew": "For this research to become a great achievement, a long and arduous path still lay ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 2113,
+    "TextENGNew": "Without that—Grandfather cannot become a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 2114,
+    "TextENGNew": "And I cannot become one either.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 2115,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 2116,
+    "TextENGNew": "The line left in her grandfather's will: You must become a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 2117,
+    "TextENGNew": "And the line before it: I was unable to.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 2118,
+    "TextENGNew": "That—and only that—was her grandfather's dying wish.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 2119,
+    "TextENGNew": "Her grandfather had entrusted it to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 2120,
+    "TextENGNew": "Everything—his entire research.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 2121,
+    "TextENGNew": "A god's resurrection is not the revival of the flesh.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 2122,
+    "TextENGNew": "...It is the revival of that existence in the hearts of those who remain.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 2123,
+    "TextENGNew": "Grandfather would first be revived in my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 2124,
+    "TextENGNew": "And when his achievement was made known, every scholar in every field would scramble to read his documents.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 2125,
+    "TextENGNew": "Competing to seize them from one another.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 2126,
+    "TextENGNew": "And they would learn that this research had been conducted since the time of war—\nand would come to know the life of Hifumi Takano, who devoted his solitary life to it, understood by no one—\nand would finally extol his great achievement...",
+    "significantChanges": false
+  }
+]

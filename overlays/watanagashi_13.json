@@ -1,0 +1,1254 @@
+[
+  {
+    "index": 1,
+    "MessageID": 41924,
+    "TextENGNew": "June, 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 41925,
+    "TextENGNew": "A series of disappearances occurred in the village of Hinamizawa, Shishibone City.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 41926,
+    "TextENGNew": "The suspect was Mion Sonozaki.",
+    "significantChanges": true,
+    "changeReason": "Tense changed from \"The suspect is\" (present) to \"The suspect was\" (past), shifting the temporal frame of the report.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 41927,
+    "TextENGNew": "The suspect is believed to have abducted, imprisoned, and murdered five residents of Hinamizawa between June 19th and 21st: Oryou Sonozaki, Shion Sonozaki, Kiichirou Kimiyoshi, Rika Furude, and Satoko Houjou.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 41928,
+    "TextENGNew": "The initial investigation was hampered by a lack of information, but the case was resolved through a sudden and fortuitous breakthrough.",
+    "significantChanges": true,
+    "changeReason": "Old says \"insufficient evidence\"; new says \"lack of information\" (情報不足). \"Evidence\" and \"information\" have different investigative meanings.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 41929,
+    "TextENGNew": "On the morning of the 23rd, a patrol car making rounds near the Sonozaki estate heard screams from within the property and forced entry as an emergency measure.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 41930,
+    "TextENGNew": "They rescued the suspect's missing younger sister (Shion Sonozaki) and two of her classmates (Keiichi Maebara and Rena Ryuugu).",
+    "significantChanges": true,
+    "changeReason": "Old says they \"secured\" (保護) and describes \"her two missing classmates\"; new says \"rescued\" and \"two of her classmates\" (removing \"missing\" qualifier).",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 41931,
+    "TextENGNew": "The suspect fled the scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 41932,
+    "TextENGNew": "In a hidden chamber deep within the basement of the detached building on the Sonozaki estate--believed to be where the victims were killed--hair, skin fragments, blood, and other traces belonging to the four missing persons (Oryou Sonozaki, Kiichirou Kimiyoshi, Rika Furude, and Satoko Houjou) were discovered.",
+    "significantChanges": true,
+    "changeReason": "Old says \"deep in the detached basement\"; new specifies \"a hidden chamber deep within the basement of the detached building\" -- more precise location matching 秘密部屋.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 41933,
+    "TextENGNew": "It was determined that the missing persons had been subjected to violence within the hidden chamber.",
+    "significantChanges": true,
+    "changeReason": "Old says 'tortured in the torture chamber' adding extra 'torture'; Japanese 暴行 means violence/assault.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 41934,
+    "TextENGNew": "However, their remains have yet to be recovered.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 41935,
+    "TextENGNew": "Based on testimony from the rescued classmates, the search has continued in the basement beneath the Sonozaki estate's detached building, where the victims are believed to have been held. However, neither the remains nor the suspect's escape route have been found.",
+    "significantChanges": true,
+    "changeReason": "Old says \"At one of her imprisoned classmates' advice\"; new says \"Based on testimony from the rescued classmates\" -- different characterization of the source (advice vs testimony, imprisoned vs rescued).",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 41936,
+    "TextENGNew": "In addition, the investigation continues into the suspect's implied involvement in the serial mysterious deaths of recent years;@|@y@k@|@yhowever, no evidence has been found that Mion Sonozaki was involved, either directly or indirectly.",
+    "significantChanges": true,
+    "changeReason": "Old says \"serial freak death incidents\"; new says \"serial mysterious deaths\" (怪死事件). \"Freak\" and \"mysterious\" convey different connotations.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 41937,
+    "TextENGNew": "Many aspects of the motive behind the incidents remain unclear, and given the extreme lack of cooperation from the Sonozaki family and the residents of Hinamizawa, the investigation is expected to require a considerable amount of time.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 41938,
+    "TextENGNew": "According to local police familiar with the area, this may have been a lynching--an internal punishment carried out against acts of blasphemy toward the religious beliefs held in Hinamizawa Village.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 41939,
+    "TextENGNew": "There is no doubt that these incidents are deeply rooted in the regional character of the area, and the prefectural police headquarters has ordered a cautious investigation.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 41940,
+    "TextENGNew": "We had hoped to obtain crucial leads from the missing person believed to have been imprisoned the longest--Shion Sonozaki, the suspect's younger sister...@|@y@k@|@yHowever, the incident left her with severe psychological aftereffects, and to this day she has not been in a mental state to undergo proper questioning.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 41941,
+    "TextENGNew": "Her psychiatrist diagnosed the condition as a temporary state brought on by shock, but there is still no indication of when she might recover.",
+    "significantChanges": true,
+    "changeReason": "Old says \"it doesn't seem hopeful that she will recover today either\" (implying daily assessment); new says \"there is still no indication of when she might recover\" (open-ended prognosis).",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 41942,
+    "TextENGNew": "...Since then... only a few days had passed.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 41943,
+    "TextENGNew": "After that, I was rescued by Ooishi-san and his men, whom Rena had called.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 41944,
+    "TextENGNew": "Aside from my mind going completely blank, I had no physical injuries.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 41945,
+    "TextENGNew": "The only mark on me was a small burn from where the stun gun had hit.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 41946,
+    "TextENGNew": "...While undergoing examinations at the hospital, Ooishi-san peppered me with question after question...@kBut I barely remember what he asked or how I answered.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 41947,
+    "TextENGNew": "From what I heard... Mion, unbelievably, still hadn't been caught.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 41948,
+    "TextENGNew": "Apparently, countless tunnels and small rooms branched out from the vast cavern where the cells were.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 41949,
+    "TextENGNew": "...It wouldn't have been strange at all if one of them led to a hidden exit to the outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 41950,
+    "TextENGNew": "The one silver lining in all the misfortune... was that Shion had been safely taken into police custody.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 41951,
+    "TextENGNew": "From the way Mion had acted when we parted... it seemed like she might have killed Shion to take her along...",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 41952,
+    "TextENGNew": "...But Ooishi-san must have arrived faster than she anticipated, leaving her without enough time.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 41953,
+    "TextENGNew": "...That alone... was truly fortunate.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 41954,
+    "TextENGNew": "Even so... though the rescued Shion had no visible injuries... she bore a deep, gaping wound in her heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 41955,
+    "TextENGNew": "...At the time of rescue, she was in a state of severe delirium, biting at the officers who tried to help her.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 41956,
+    "TextENGNew": "From what I heard, every shadow she saw looked like Mion to her,@kand she refused to go not just to the hospital, but even to her own home.@kShe was hiding somewhere in Shishibone City, her whereabouts kept secret...",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 41957,
+    "TextENGNew": "...Terrified that Mion would come for her, she moved from place to place each day, and even her own family didn't know exactly where she was.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 41958,
+    "TextENGNew": "Wherever she was... even now, Shion was spending her days cowering in fear of Mion's shadow...",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 41959,
+    "TextENGNew": "The police were still investigating the underground ritual storehouse beneath the Sonozaki estate.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 41960,
+    "TextENGNew": "Because... the bodies of the other victims still hadn't been found.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 41961,
+    "TextENGNew": "...I was fairly sure Mion had said... she'd thrown the bodies into a well.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 41962,
+    "TextENGNew": "That would mean there was a hidden vertical tunnel somewhere in those underground passages, shaped like a well.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 41963,
+    "TextENGNew": "Those secret underground passages, with no maps or architectural plans to guide the search...@kstill held the remains of Rika-chan, Satoko, and all the other victims... and they showed no sign of yielding their secrets...",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 41964,
+    "TextENGNew": "I was brought back to that underground place once more for an on-site investigation...@kBut I couldn't recall anything useful.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 41965,
+    "TextENGNew": "...I never wanted to set foot there again.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 41966,
+    "TextENGNew": "Day after day, Mion and Shion's parents--the Sonozakis from Okinomiya, high-ranking yakuza--came to our house to apologize, bringing a large entourage of underlings.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 41967,
+    "TextENGNew": "No matter how many times my parents refused, they kept piling up bundles of hundred-thousand-yen bills, calling it consolation money.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 41968,
+    "TextENGNew": "As the amount grew day by day, once it surpassed twenty million yen, they handed over an envelope containing a letter.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 41969,
+    "TextENGNew": "...I don't know what was written in that letter.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 41970,
+    "TextENGNew": "My parents spent two whole nights discussing it without me............ and decided to move.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 41971,
+    "TextENGNew": "\"...I see.@k@vS02/02/130200587. ...So you're moving.@k@vS02/02/130200588. ...When?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 41972,
+    "TextENGNew": "\"At the end of next month.@k@vS02/01/130101172. ...In the end, I won't even have lived in Hinamizawa for half a year.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 41973,
+    "TextENGNew": "\"...............It'll be so lonely.@k@vS02/02/130200590. ...I'll be the only one... left behind.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 41974,
+    "TextENGNew": "Rena smiled sadly...",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 41975,
+    "TextENGNew": "If I'd just nodded along... I felt it would only make things lonelier, so I changed the subject.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 41976,
+    "TextENGNew": "\"...............I've been thinking about something.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 41977,
+    "TextENGNew": "That was how I began.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 41978,
+    "TextENGNew": "What if Mion hadn't actually escaped...@kbut had been spirited away--\"demoned away\" in the truest sense of the word?",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 41979,
+    "TextENGNew": "Where she went after vanishing...@k...that, I didn't know.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 41980,
+    "TextENGNew": "What was waiting for her... wherever she'd disappeared to?",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 41981,
+    "TextENGNew": "...I hoped there was a hobby shop there that carried the kind of imports Mion loved.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 41982,
+    "TextENGNew": "A place... free from the suffocating obligations of her family...@k...where she could live not as a Sonozaki,@kbut simply as Mion, and enjoy herself...",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 41983,
+    "TextENGNew": "...Maybe Satoko and Rika-chan had already joined her there.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 41984,
+    "TextENGNew": "And maybe... they were waiting for Rena and me to come too... ......spending each day as lively as ever... lost in club activities...",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 41985,
+    "TextENGNew": "When I told Rena that, she nodded with a smile...",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 41986,
+    "TextENGNew": "The incidents the Sonozaki family had fought so hard to conceal were exposed to the press through the smallest crack in the facade.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 41987,
+    "TextENGNew": "One by one, the serial mysterious deaths of recent years were dragged into the light... and for days on end, the talk shows covered the story.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 41988,
+    "TextENGNew": "The sensationalist shows, content to treat it all as entertainment, never once touched upon the heavy, harrowing history that Mion had borne on her shoulders.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 41989,
+    "TextENGNew": "...Their frivolous coverage made me furious... but there was nothing I could do about it anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 41990,
+    "TextENGNew": "In the course of my life...@kwhat kind of impression would these brief few weeks in Hinamizawa... leave on me?",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 41991,
+    "TextENGNew": "...In those few weeks, I'd met the best friends I ever had and lived through the most extraordinary experiences.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 41992,
+    "TextENGNew": "...I would probably... never forget them for as long as I lived.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 41993,
+    "TextENGNew": "The distorted image of Mion that the media was busy constructing...",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 41994,
+    "TextENGNew": "...After the public tired of toying with her, they would crumple her up, toss her in the trash... and before long, forget her entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 41995,
+    "TextENGNew": "As one of the few people... who knew the real Mion... I had to keep remembering her. Always.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 41996,
+    "TextENGNew": "...Because I believed... that would be the truest tribute I could offer her.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 41997,
+    "TextENGNew": "...The sky stretched endlessly upward... with towering thunderheads floating against it.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 41998,
+    "TextENGNew": "True summer... was just around the corner.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 41999,
+    "TextENGNew": "Even now... when ten o'clock at night came around... I'd catch myself expecting a phone call from Shion--no, from Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 42000,
+    "TextENGNew": "Now that everything was over, there was no reason for anyone to call.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 42001,
+    "TextENGNew": "...But precisely because there should be no call... I was terrified... of who might be calling... if the phone ever rang.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 42002,
+    "TextENGNew": "...And besides... Mion still hadn't been caught.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 42003,
+    "TextENGNew": "...I couldn't say with certainty... that everything was truly over.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 42004,
+    "TextENGNew": "But on the other side of that fear... were my prayers for Mion's safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 42005,
+    "TextENGNew": "...When I thought of it that way, I could hold even those terrifying feelings close and still fall asleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 42006,
+    "TextENGNew": "I turned off the lights.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 42007,
+    "TextENGNew": "...There was a time when turning off the lights invited nothing but dread.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 42008,
+    "TextENGNew": "...But within two days, that dread had transformed into regret.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 42009,
+    "TextENGNew": "Moonlight slipping through the gap in the curtains fell across my desk... illuminating a doll.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 42010,
+    "TextENGNew": "...Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 42011,
+    "TextENGNew": "...The doll... that I should have given to Mion that day.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 42012,
+    "TextENGNew": "She'd said it was an import from England or somewhere, and that they were all the rage.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 42013,
+    "TextENGNew": "...According to Shion, the most popular one in the line was the one wearing the fluffy dress.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 42014,
+    "TextENGNew": "After the ordeal was over... the first place I went was that toy store.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 42015,
+    "TextENGNew": "Everything had apparently sold out except for the display models.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 42016,
+    "TextENGNew": "...They refused at first, saying they couldn't sell the display stock... but when they realized I was Survivor A from 'the incident,' they immediately agreed.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 42017,
+    "TextENGNew": "...But even if I bought it... the chance to give it to her... might never come again.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 42018,
+    "TextENGNew": "Even knowing that... I was still waiting for the chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 42019,
+    "TextENGNew": "I kept it on my desk like this... ready to hand over at any moment... waiting for that chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 42020,
+    "TextENGNew": "Tink.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 42021,
+    "TextENGNew": "...I heard a strange sound.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 42022,
+    "TextENGNew": "...A sound I didn't recognize.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 42023,
+    "TextENGNew": "It was too loud to be the first drops of rain... and nothing like the sound of a stray insect bumping into a fluorescent light.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 42024,
+    "TextENGNew": "I figured I must have been hearing things, and pulled the covers back over myself...",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 42025,
+    "TextENGNew": "Tink.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 42026,
+    "TextENGNew": "...There it was again.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 42027,
+    "TextENGNew": "I wasn't imagining it.@k ...I'd definitely heard it.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 42028,
+    "TextENGNew": "Where was it coming from?",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 42029,
+    "TextENGNew": "I sat up and switched on the light.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 42030,
+    "TextENGNew": "...If it happened twice, it would happen a third time.@k ...But from where...?@k I strained my ears...",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 42031,
+    "TextENGNew": "Tink.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 42032,
+    "TextENGNew": "The window.@k ...Someone was throwing pebbles at my window.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 42033,
+    "TextENGNew": "When I realized they weren't being carried by the wind but thrown by human hands, a chill ran through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 42034,
+    "TextENGNew": "I looked at the clock... It was two in the morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 42035,
+    "TextENGNew": "...Who would come... at this hour...?",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 42036,
+    "TextENGNew": "...I cautiously peered outside... through the gap in the curtains.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 42037,
+    "TextENGNew": "By the light at the gate... despite the hour, someone was standing there.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 42038,
+    "TextENGNew": "The figure picked up a piece of gravel... and lobbed it at my window.@k ...It struck the glass with a soft tink.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 42039,
+    "TextENGNew": "Who was it...",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 42040,
+    "TextENGNew": "\"......Ah...............!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 42041,
+    "TextENGNew": "I gasped...",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 42042,
+    "TextENGNew": "If my eyes weren't deceiving me... that figure was... Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 42043,
+    "TextENGNew": "I threw the window open and looked at the figure again.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 42044,
+    "TextENGNew": "I... I wasn't seeing things.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 42045,
+    "TextENGNew": "...It was Mion!@k ...It was Mion!!@k She was... alive!!",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 42046,
+    "TextENGNew": "Mion pressed her index finger to her lips in a hushing gesture, signaling me not to raise my voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 42047,
+    "TextENGNew": "If she hadn't... I might have cried out.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 42048,
+    "TextENGNew": "...Mion was in... an incredibly precarious position right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 42049,
+    "TextENGNew": "...Even in the dead of night, I shouldn't call out her name.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 42050,
+    "TextENGNew": "I waved to her, signaling I'd be right down, threw a jacket over my pajamas, and rushed out of my room.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 42051,
+    "TextENGNew": "...I slammed on the brakes just before the stairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 42052,
+    "TextENGNew": "...Joy was welling up inside me... but at the same time, I had the sad premonition... that this would be our final farewell.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 42053,
+    "TextENGNew": "So I went back to my room... and picked up the doll.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 42054,
+    "TextENGNew": "If God existed... I had never been more grateful than at this moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 42055,
+    "TextENGNew": "...Even if this was... the last time we would ever see each other... I was so grateful... for this one chance to give it to her...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 42056,
+    "TextENGNew": "I slipped on my sandals, unlocked the door, unhooked the chain... and burst outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 42057,
+    "TextENGNew": "\"...Hah... hah... Mion...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 42058,
+    "TextENGNew": "\"Ahahahaha, long time no see~@k@vS02/03/130300726. ...How are you?@k@vS02/03/130300727. Have you been well?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 42059,
+    "TextENGNew": "Just like... when we used to meet on any ordinary morning... Mion waved and greeted me the way she always did.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 42060,
+    "TextENGNew": "It was unmistakably... Mion.@k ...The real Mion...",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 42061,
+    "TextENGNew": "\"...Are you... all right... being out in the open like this...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 42062,
+    "TextENGNew": "\"...I really shouldn't be.@k@vS02/03/130300729. ...Ehehehe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 42063,
+    "TextENGNew": "...Did she even realize... that the police were after her...?",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 42064,
+    "TextENGNew": "It was as if... she were a hospital patient who'd gotten bored and snuck out.@kHer manner was so casual it gave me that illusion... I couldn't help but be exasperated.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 42065,
+    "TextENGNew": "...But that carefree confidence was so like Mion... and it made me happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 42066,
+    "TextENGNew": "\"More importantly... what's going on?@k@vS02/01/130101178. Coming here at this hour?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 42067,
+    "TextENGNew": "\"...I wanted to talk to you one last time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 42068,
+    "TextENGNew": "That was when I noticed.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 42069,
+    "TextENGNew": "...Beads of sweat, round as pearls, were standing out on Mion's forehead.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 42070,
+    "TextENGNew": "...Her expression, which I'd taken for a beaming smile... was, on closer inspection, trembling faintly... She was forcing it.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 42071,
+    "TextENGNew": "\"...You know, I... ehehehe... I just... can't stay here anymore...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 42072,
+    "TextENGNew": "A strained note was creeping into her voice...@kAs though even holding a smile... was all she could manage.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 42073,
+    "TextENGNew": "\"A-Are you okay...?@k@vS02/01/130101180. Are you feeling all right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 42074,
+    "TextENGNew": "\"...I tried... s-so... so hard to hold on until now... Ahahaha... but I can tell.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 42075,
+    "TextENGNew": "\"...I can't do this... I've reached my limit...@k@vS02/03/130300734. They're coming for me... they're right behind me now...@k@vS02/03/130300735. Ahahaha......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 42076,
+    "TextENGNew": "Mion's smile... crumbled... and began to harden into something rigid.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 42077,
+    "TextENGNew": "...Had she... pushed herself this far... just to come see me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 42078,
+    "TextENGNew": "\"Ah... hahaha... haha... ha... hah...... hah...... hah...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 42079,
+    "TextENGNew": "Her laughter broke off... and turned into ragged breathing.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 42080,
+    "TextENGNew": "I reached out to rub her back, but she batted my hand away.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 42081,
+    "TextENGNew": "\"Are you okay...?!@k@vS02/01/130101182. Stop pushing yourself...@k@vS02/01/130101183. Oh... that's right.@k@vS02/01/130101184. ...Mion, I have something--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 42082,
+    "TextENGNew": "Something I wanted to give you.@k ...This doll...",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 42083,
+    "TextENGNew": "...I knew how little time Mion had left... so I was going to take care of this one last thing I'd been wanting to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 42084,
+    "TextENGNew": "...But that last thing--@k@|@y ...............urgh...",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 42085,
+    "TextENGNew": ".....................guh... ugh...@k.....................",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 42086,
+    "TextENGNew": "...My stomach... was burning.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 42087,
+    "TextENGNew": "...Mion... had taken a thick blade... something between a knife and a cleaver... and driven it into me...@k...pressing it in deep... twisting it... wrenching...",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 42088,
+    "TextENGNew": "Mi...on...?",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 42089,
+    "TextENGNew": "...Hey... wai... t... that... hurts...",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 42090,
+    "TextENGNew": "\"Hee... heeheeheehee... heeheeheeheeheeheeheeheeheeheeheeheehee...!@k@vS02/03/130300738. I made it...@k@vS02/03/130300739. ...I made it in time...!@k@vS02/03/130300740. ...Kuheeheeheeheeheeheeheeheeheeheeheeheeheeheehee!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 42091,
+    "TextENGNew": "I crumpled... to the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 42092,
+    "TextENGNew": "...My stomach felt like... it was on fire...",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 42093,
+    "TextENGNew": "Mion watched me fall, took a few steps back... then cackled.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 42094,
+    "TextENGNew": "\"Geeheeheeheeheeheeheeheeheeheeheeheeheeheeheehee!!@k@vS02/03/130300742. Done! I've done them all!@k@vS02/03/130300743. Everyone I wanted to kill... every last one...!!!@k@vS02/03/130300744. Geeheeheeheeheeheeheeheeheeheeheeheeheeheeheeheeheehee!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 42095,
+    "TextENGNew": "...The last words Mion had said to me that day... came flooding back.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 42096,
+    "TextENGNew": "\"...After today, Mion will never come back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 42097,
+    "TextENGNew": "From today on, even if you see my form, that is all it will be.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 42098,
+    "TextENGNew": "...Because a demon wearing my face will have taken over.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 42099,
+    "TextENGNew": "A demon.@k ...A demon.@k ......A demon.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 42100,
+    "TextENGNew": "\"...Mi...... Mi............on...............\"",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 42101,
+    "TextENGNew": "...No... I thought... we'd finally... been able to meet again...",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 42102,
+    "TextENGNew": "...How... could this............... Mion...",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 42103,
+    "TextENGNew": "...In the pool of my own blood... the doll I'd bought for Mion... was being stained... red... so red...",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 42104,
+    "TextENGNew": "............Mion............",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 42105,
+    "TextENGNew": "The good fortune of being allowed to see Mion one more time...@kand the cruelty of having it torn apart before my eyes.@k...Should I be grateful, or should I curse it?",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 42106,
+    "TextENGNew": "...Unable to settle on either... my consciousness sank into the depths of a pitch-black swamp...",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 42107,
+    "TextENGNew": "The doll I bought for Mion... stained... ruined with blood...",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 42108,
+    "TextENGNew": "No matter how much I scrubbed... it only got... more... stai... ned...",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 42109,
+    "TextENGNew": "The@w800. sad@w800. moon@w800. was@w800. so@w800. white@w800. it@w800. looked@w800. as@w800. though@w800. it@w800. might@w800. freeze@w800.@w800.@w800.@w800.@w800.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 42110,
+    "TextENGNew": "June 28, 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 42111,
+    "TextENGNew": "An assault occurred in Hinamizawa Village, Shishibone City.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 42112,
+    "TextENGNew": "The victim was Keiichi Maebara, also a victim of the earlier series of disappearances.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 42113,
+    "TextENGNew": "At approximately 2:00 AM, the suspect from the previous case (Mion Sonozaki) visited his home and stabbed him in the abdomen with a bladed weapon, inflicting critical injuries.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 42114,
+    "TextENGNew": "He was discovered by family members who had been roused by the commotion, and was transported to the clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 42115,
+    "TextENGNew": "His life was saved.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 42116,
+    "TextENGNew": "The assailant fled the scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 42117,
+    "TextENGNew": "On the same day, at approximately the same time.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 42118,
+    "TextENGNew": "A fall occurred at an apartment complex in Kamiishiki, Shishibone City.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 42119,
+    "TextENGNew": "The victim was Shion Sonozaki, also a victim of the earlier series of disappearances.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 42120,
+    "TextENGNew": "Late that same night, neighbors heard what sounded like a violent altercation between the victim and another person, and notified the building manager.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 42121,
+    "TextENGNew": "The manager used a master key to enter the unit and discovered that the victim had fallen from her eighth-floor balcony to her death.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 42122,
+    "TextENGNew": "The room was in disarray and appeared to show signs of a struggle.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 42123,
+    "TextENGNew": "A neighbor who has long been acquainted with the Sonozaki family testified that it sounded exactly like the two sisters fighting, with voices hurling insults at one another.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 42124,
+    "TextENGNew": "Believing this to be connected to the assault that occurred the same day in Hinamizawa Village, attributed to the suspect from the previous case,@|@y@k@|@ya thorough search of the room was conducted, but no evidence was found to suggest that anyone other than the victim had been present.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 42125,
+    "TextENGNew": "The victim fell directly into the landscaped planting bed below.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 42126,
+    "TextENGNew": "She died instantly from a broken neck.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 42127,
+    "TextENGNew": "Her clothing was in disarray, with signs suggesting a physical struggle.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 42128,
+    "TextENGNew": "...However, given the victim's particular mental state following the previous incident, the possibility of a suicide brought on by psychological breakdown is also being considered.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 42129,
+    "TextENGNew": "A careful investigation is being conducted, examining both the possibility of suicide and foul play...",
+    "significantChanges": false
+  }
+]

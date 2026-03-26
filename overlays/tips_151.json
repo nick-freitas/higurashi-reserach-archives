@@ -1,0 +1,69 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Article from an Old Newspaper's Local Section",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Old Local News Article\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 16877,
+    "TextENGNew": "Around 1:30 AM on the 25th, a fire broke out at the home of Yuusuke Minai (43), a police inspector residing in Setagaya Ward. The two-story wooden house and attached garage, totaling approximately 170 square meters, were completely destroyed.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates rank 警部補 (inspector) as 'chief inspector' and misidentifies location relationship.",
+    "changeScore": 4
+  },
+  {
+    "index": 2,
+    "MessageID": 16878,
+    "TextENGNew": "According to the Setagaya precinct investigation, an office worker who lived in the neighboring house noticed the fire coming from the first-floor bedroom shortly after arriving home, and called emergency services.",
+    "significantChanges": true,
+    "changeReason": "The original says '911' which is the US emergency number; the Japanese specifies 119番 (Japan's fire/ambulance number). The original also omits that the witness was specifically an office worker (会社員).",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 16879,
+    "TextENGNew": "Firefighters arrived and extinguished the blaze around 2 AM, but the charred remains of Minai-san and his wife Nobumi-san (41) were discovered in the first-floor bedroom where the fire originated.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 16880,
+    "TextENGNew": "Their eldest daughter Tomoe (17) and second daughter Madoka (13), who had been asleep in their second-floor bedroom, suffered minor carbon monoxide poisoning and burns, but were rescued by firefighters and are expected to survive.",
+    "significantChanges": true,
+    "changeReason": "The original omits the birth order (長女/次女 = eldest/second daughter) and renders 一命を取り留めた模様 (appear to have survived) as 'otherwise stable,' which carries different medical implications. The narrative order also changes the emphasis.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 16881,
+    "TextENGNew": "The precinct conducted an on-site inspection that same morning. No obvious ignition source was found in the first-floor bedroom, leading investigators to treat the case as both a potential accident and possible arson.",
+    "significantChanges": true,
+    "changeReason": "The original says 'that same day' while the Japanese specifies 同日朝から (from that same morning), and 'lack of an adequate heat source' vs 'no obvious ignition source' frames the finding differently — the Japanese 火の気がなく means there was no source of fire in the room.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 16882,
+    "TextENGNew": "Tomoe holds the high school record in women's running high jump and had been regarded as a leading candidate to represent Tokyo at this year's National Athletic Meet. Those close to her have been left reeling by the sudden tragedy.",
+    "significantChanges": true,
+    "changeReason": "The original translates 関係者 (related parties/those involved) as 'stakeholders,' which implies institutional or corporate interest rather than the personal connections intended. Also 凶事 (calamity/tragedy) as 'misfortune' understates the severity.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 16883,
+    "TextENGNew": "A nearby housewife told reporters: \"When I heard the sirens and rushed over, the first floor was engulfed in flames. They were a wonderful family, well-liked by the whole neighborhood — my heart breaks for the two daughters left behind.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 16884,
+    "TextENGNew": "From the evening edition local news, June 4th, Showa 46.",
+    "significantChanges": true,
+    "changeReason": "The original converts 昭和４６年 to '1971' while the new version preserves the Japanese era dating 'Showa 46,' which maintains the period-authentic voice of the newspaper article and the cultural setting.",
+    "changeScore": 2
+  }
+]

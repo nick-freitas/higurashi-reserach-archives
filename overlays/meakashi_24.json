@@ -1,0 +1,2220 @@
+[
+  {
+    "index": 1,
+    "MessageID": 71655,
+    "TextENGNew": "``Yo.@k@vS06/06/150602268. Everyone still alive?``",
+    "significantChanges": true,
+    "changeReason": "New uses casual 'Yo' matching JPN よ, vs old's more polite 'Hey, everyone.'",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 71656,
+    "TextENGNew": "Kimiyoshi stared up at the ceiling, not moving a muscle.@k He might be dead.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'hanging from the collar' and 'when I walked in' not in JPN. New is faithful: staring at ceiling, not moving.",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 71657,
+    "TextENGNew": "Satoko was strapped to a restraining table, glaring at me through a face swollen red from crying.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'cross-shaped' not in JPN 拘束台 (restraining table).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 71658,
+    "TextENGNew": "I had actually wanted to strap her to the special restraining table designed for hammering nails into the hands, but it was too large for Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 71659,
+    "TextENGNew": "I walked up to Kimiyoshi to check on him.@k ...No response.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'poked his body with my toe' not in JPN, which just says 近付いて見る (went closer to look).",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 71660,
+    "TextENGNew": "``Kimiyoshi-ojii-chan, are you dead?``",
+    "significantChanges": true,
+    "changeReason": "New preserves JPN 公由のおじいちゃん as 'Kimiyoshi-ojii-chan' (grandpa), while old used 'Uncle' (different relationship).",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 71661,
+    "TextENGNew": "``...Murderer... murderer...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 71662,
+    "TextENGNew": "Judging by Satoko's state, she may have witnessed Kimiyoshi's death throes as he writhed and perished.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 悶え死ぬ断末魔 (writhing death throes) which old reduced to 'last moments.'",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 71663,
+    "TextENGNew": "``Final warning.@k@vS06/06/150602274. Are you alive?@k@vS06/06/150602275. If you're alive, answer me.``",
+    "significantChanges": true,
+    "changeReason": "New translates JPN 最終通告 as 'Final warning' (direct match) vs old's 'This is your last chance.'",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 71664,
+    "TextENGNew": "...There was no reply.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 71665,
+    "TextENGNew": "``Why are you doing this... Shion-san...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 71666,
+    "TextENGNew": "``Hmm?@k@vS06/06/150602277. ...Ah, I see.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 71667,
+    "TextENGNew": "The door to the great cavern with the stone cells had been left wide open.",
+    "significantChanges": true,
+    "changeReason": "New specifies 'the great cavern with the stone cells' matching JPN 岩牢のある大空洞, while old said 'the huge cave.'",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 71668,
+    "TextENGNew": "She must have been talking with the one in the cell while I was away.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 71669,
+    "TextENGNew": "So that was how she learned my name.@k Though that name was wrong now.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 71670,
+    "TextENGNew": "``I'm not Shion. I'm the real Mion.@k@vS06/06/150602279. The one you all thought was Mion is actually Shion.@k@vS06/06/150602280. I'm sure it's confusing, so you don't need to understand.@k@vS06/06/150602281. ...Heh heh heh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 71671,
+    "TextENGNew": "``...How dare you... everyone... Rika......!!``",
+    "significantChanges": true,
+    "changeReason": "New includes 'everyone' matching JPN みんなを, while old only mentioned Rika.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 71672,
+    "TextENGNew": "``Rika Furude got what she deserved.@k@vS06/06/150602283. She came to kill me.@k@vS06/06/150602284. I simply turned the tables on her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 71673,
+    "TextENGNew": "``There's no way that's true!!!@k@vS06/04/150400038. Rika would never do such a thing!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 71674,
+    "TextENGNew": "``Believe what you want.@k@vS06/06/150602286. It's irrelevant to you anyway.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 71675,
+    "TextENGNew": "``...What... are you going to do with me...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 71676,
+    "TextENGNew": "``Kill you.``",
+    "significantChanges": true,
+    "changeReason": "New uses blunt 'Kill you' matching terse JPN 殺す, while old expanded to 'I'm going to kill you.'",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 71677,
+    "TextENGNew": "Satoko's eyes went wide. She must have had some inkling, but her face showed genuine shock nonetheless.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 71678,
+    "TextENGNew": "She surely hadn't expected me to state it so bluntly.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 71679,
+    "TextENGNew": "From the direction of the stone cells, I heard the clanging of iron bars.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 71680,
+    "TextENGNew": "Even echoing through the great cavern, Shion's voice came through clearly.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 71681,
+    "TextENGNew": "``Sis, nooooo!!@k@vS06/03/150300411. Don't kill Satoko!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 71682,
+    "TextENGNew": "I shouted back from where I stood.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 71683,
+    "TextENGNew": "``Ahahahahahaha!!!@k@vS06/06/150602288. Did you finally realize your sin?!@k@vS06/06/150602289. You never did this for Satoshi-kun!!@k@vS06/06/150602290. That's why he was killed like an insect!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 71684,
+    "TextENGNew": "``You ignored ten billion moments when you could have saved Satoshi-kun--you abandoned him!!@k@vS06/06/150602292. Yes, THAT is your sin!!!``",
+    "significantChanges": true,
+    "changeReason": "New uses 'ten billion moments' matching JPN 百億, while old reduced to 'millions.'",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 71685,
+    "TextENGNew": "``Gyaaaaahhh!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 71686,
+    "TextENGNew": "Tears streamed down Satoko's face as she clenched her teeth so hard they looked ready to crack.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 71687,
+    "TextENGNew": "``Stoooop, stop it!!@k@vS06/03/150300413. Don't kill Satoko!!@k@vS06/03/150300414. Forgive her!!@k@vS06/03/150300415. I don't care what happens to me... but please, forgive Satoko!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 71688,
+    "TextENGNew": "Why couldn't you say that for Satoshi-kun?!@k It's too late--far too late!!!@k Yes, the one screaming right now is the me from back then.@k No matter how loudly you scream, it won't reach anyone, it won't spare him, it won't save him!!",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 71689,
+    "TextENGNew": "Go on and taste the agony of being unable to save someone!!!",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 救えない苦しみを味わうがいい more precisely than old's general 'go through the same thing.'",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 71690,
+    "TextENGNew": "``Stop, Mion, stop, Sis... stop stop stop...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 71691,
+    "TextENGNew": "``All right, Shion.@k@vS06/06/150602294. Let's do this: I'll tell you how to save Satoko.@k@vS06/06/150602295. You're going to say 'I'm sorry' one thousand times.@k@vS06/06/150602296. When you finish, I'll set Satoko free.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 71692,
+    "TextENGNew": "``Well?!@k@vS06/06/150602298. I don't lie. If you count to one thousand, I will absolutely keep my promise.@k@vS06/06/150602299. Think of it as your atonement.@k@vS06/06/150602300. Now then!!@k@vS06/06/150602301. What will it be?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 71693,
+    "TextENGNew": "``I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sor...``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 71694,
+    "TextENGNew": "Shion began repeating her apology like a broken cassette tape.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 71695,
+    "TextENGNew": "At times like these, she was stupidly earnest.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 71696,
+    "TextENGNew": "It never even crossed her mind to fudge the count.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 71697,
+    "TextENGNew": "She would undoubtedly count all the way to one thousand, properly and faithfully.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 71698,
+    "TextENGNew": "``Waaaahhhh, waaaahhhh!!! WAAAAHHHHH!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 71699,
+    "TextENGNew": "Satoko screamed...",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 71700,
+    "TextENGNew": "As if trying to drown out that scream, Shion's voice--'I'm sorry, I'm sorry'--grew louder...",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 71701,
+    "TextENGNew": "``Ahahahaha!@k@vS06/06/150602303. Crying is your specialty, isn't it?@k@vS06/06/150602304. Think Nii-nii will come running if you cry?@k@vS06/06/150602305. Think he'll rush in, knock me aside, and rescue you?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 71702,
+    "TextENGNew": "``Satoko, can you hear me?@k@vS06/06/150602307. Are you listening?@k@vS06/06/150602308. I said LISTEN!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 71703,
+    "TextENGNew": "I seized Satoko's face and forced her to look at me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'slapped her face' but JPN says ぐいっと掴み (seized/grabbed); new correctly uses 'seized.'",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 71704,
+    "TextENGNew": "``Do you understand what you've done?@k@vS06/06/150602310. ...Do you know how much your very existence drove Satoshi-kun into a corner?``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 71705,
+    "TextENGNew": "``...Nii-nii... Nii-nii...``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 71706,
+    "TextENGNew": "``That's right--all you ever had to do was cry for Nii-nii.@k@vS06/06/150602312. Every time you cried, Satoshi-kun would shield you.@k@vS06/06/150602313. But have you ever once considered what kind of burden you were to him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 71707,
+    "TextENGNew": "``Satoshi-kun wasn't your hero, and he wasn't invincible.@k@vS06/06/150602315. He was the same as you!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 71708,
+    "TextENGNew": "``When hurt, he bled. When in pain, he groaned. A human being, exactly like you!!``",
+    "significantChanges": true,
+    "changeReason": "New captures both JPN elements: 'neither your hero nor invincible,' while old only said 'wasn't some superhero.'",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 71709,
+    "TextENGNew": "``Did you ever understand the pain Satoshi-kun endured, standing in the line of fire in your place?!``",
+    "significantChanges": true,
+    "changeReason": "New adds 'standing in the line of fire in your place' matching JPN 矢面に立ってくれた, which old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 71710,
+    "TextENGNew": "``You didn't!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 71711,
+    "TextENGNew": "``You never even tried!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 71712,
+    "TextENGNew": "``You clung to Satoshi-kun!!@k@vS06/06/150602321. You were a parasite!!@k@vS06/06/150602322. Yes--you survived by licking the blood that flowed from Satoshi-kun's wounds!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 71713,
+    "TextENGNew": "``Bearing all that curse upon you, and you STILL have the gall to call Satoshi-kun's name?!!@k@vS06/06/150602324. Well?!?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 71714,
+    "TextENGNew": "``...Hah... haah, haha, ha!@k@vS06/06/150602326. You will now atone for your sin.@k@vS06/06/150602327. By my hand.@k@vS06/06/150602328. Cry and scream as much as you like.@k@vS06/06/150602329. And learn that no matter how much you cry, Satoshi-kun will never come to save you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 71715,
+    "TextENGNew": "``Yes--you drove him into the corner, you made him vanish, YOU killed Satoshi-kun!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 71716,
+    "TextENGNew": "Hah!@k Hah!@k Hah!!",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 71717,
+    "TextENGNew": "Having spewed everything from the pit of my stomach in one breath, I exhaled raggedly.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 71718,
+    "TextENGNew": "But Satoko's reaction was disappointing.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 71719,
+    "TextENGNew": "The crying and screaming from moments ago had suddenly subsided.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 71720,
+    "TextENGNew": "``...What's the matter?@k@vS06/06/150602335. Holding back your screams as a form of resistance, thinking it'd please me too much?@k@vS06/06/150602336. Heh heh heh!!@k@vS06/06/150602337. Good for you, ahahahahaha!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 71721,
+    "TextENGNew": "My crazed laughter didn't faze Satoko at all. She looked at me with gritted teeth and resolve in her eyes.",
+    "significantChanges": true,
+    "changeReason": "'Resignation' vs 'resolve' differ in nuance but both describe Satoko's determined response to Shion.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 71722,
+    "TextENGNew": "``Yes... I... have always thought so too.``",
+    "significantChanges": true,
+    "changeReason": "New captures 'have always thought so too' matching JPN そう思ってましたのよ, vs old's present tense 'I think that's the truth.'",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 71723,
+    "TextENGNew": "``...What...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 71724,
+    "TextENGNew": "``I drove Nii-nii into a corner. ...That's why he disappeared.@k@vS06/04/150400055. ...I realized that the very day Nii-nii vanished...``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 71725,
+    "TextENGNew": "``...............``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 71726,
+    "TextENGNew": "``...I... was not strong enough.@k@vS06/04/150400057. ...I depended on Nii-nii too much.@k@vS06/04/150400058. ...Nii-nii must have been suffering too, and yet... I couldn't stop clinging to him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 71727,
+    "TextENGNew": "``...On that point... you are absolutely right.@k@vS06/04/150400060. I have... no excuse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 71728,
+    "TextENGNew": "Satoko's tone carried neither sarcasm nor any attempt to curry my favor.@k ...It was completely natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 71729,
+    "TextENGNew": "``...That's... unexpected.@k@vS06/06/150602341. I didn't realize you were aware of your own sin.``",
+    "significantChanges": true,
+    "changeReason": "New uses 'unexpected' matching JPN 意外, while old said 'interesting' (different reaction).",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 71730,
+    "TextENGNew": "``Nii-nii will definitely come back.@k@vS06/04/150400062. Someday, he'll surely return...``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 71731,
+    "TextENGNew": "``But when he does... I'm going to show him how grown-up I've become...@k@vS06/04/150400064. I won't depend on Nii-nii anymore.@k@vS06/04/150400065. I won't hide behind him anymore.@k@vS06/04/150400066. ...I'm going to show him... that I can stand on my own...``",
+    "significantChanges": true,
+    "changeReason": "New uses 'grown-up' matching JPN 一人前, while old used 'independent' and 'I don't need him anymore' distorting the growth nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 71732,
+    "TextENGNew": "``Haha... hahaha!!@k@vS06/06/150602343. 'When he comes back,' she says!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 71733,
+    "TextENGNew": "But Satoko didn't let out a pitiful scream.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 71734,
+    "TextENGNew": "She gritted her teeth and swallowed the pain.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 71735,
+    "TextENGNew": "``Nii-nii... will definitely come back.@k@vS06/04/150400068. Absolutely, without a doubt, he'll come back...!!@k@vS06/04/150400069. I'm waiting for him!!@k@vS06/04/150400070. And when he does, I'll apologize for depending on him for so long...``",
+    "significantChanges": true,
+    "changeReason": "New emphasizes JPN 絶対に絶対に with 'Absolutely, without a doubt,' while old compressed to 'I know he is.'",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 71736,
+    "TextENGNew": "``Until then... I will not lose... I will not be defeated...!!@k@vS06/04/150400072. I will never depend on Nii-nii again!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 71737,
+    "TextENGNew": "``No matter what hardship I face, I will not call for Nii-nii!!@k@vS06/04/150400074. I won't call! I won't cry! I won't scream!!@k@vS06/04/150400075. If I cry, Nii-nii will come.@k@vS06/04/150400076. So I will endure this by myself!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 71738,
+    "TextENGNew": "``D-...Don't you dare talk down to me, you little brat!!!``",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 上等抜かすな小娘 more accurately with 'Don't you dare talk down to me, you little brat.'",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 71739,
+    "TextENGNew": "``If tormenting me is what pleases you, then by all means, have at it!!!@k@vS06/04/150400078. But if you're expecting me to cry out for Nii-nii, then I'm sorry to disappoint.``",
+    "significantChanges": true,
+    "changeReason": "Old adds 'stab me' not present in JPN いじめて楽しいなら (if tormenting me is fun).",
+    "changeScore": 4
+  },
+  {
+    "index": 86,
+    "MessageID": 71740,
+    "TextENGNew": "``I will not cry--absolutely, absolutely, ABSOLUTELY NOT!!!@k@vS06/04/150400080. If you doubt me, then test me all you like!!!@k@vS06/04/150400081. Nii-nii is watching me. He's watching me endure this, watching me prove I've truly grown.``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 71741,
+    "TextENGNew": "``He'll see that I'm not a crybaby anymore!!!@k@vS06/04/150400083. And when Nii-nii sees that, he'll come back!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 71742,
+    "TextENGNew": "``Go ahead, test me all you want!!@k@vS06/04/150400085. I will not cry, I will not shed a single tear!!!@k@vS06/04/150400086. See for yourself how strong Satoko Houjou is!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 71743,
+    "TextENGNew": "Damn, damn, damn...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 71744,
+    "TextENGNew": "I'll shut that insolent mouth with pain and screams!!",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 71745,
+    "TextENGNew": "Take this, and this, and this!!",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 71746,
+    "TextENGNew": "``Nii-nii, you're watching, aren't you? You can see me, can't you?@k@vS06/04/150400088. ...Look how patient I've become...@k@vS06/04/150400089. Nothing can break me anymore...``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 71747,
+    "TextENGNew": "``This much,@k@vS06/04/150400091. this little,@k@vS06/04/150400092. something like this--@k@vS06/04/150400093. ...I won't cry.@k@vS06/04/150400094. I won't call for help.@k@vS06/04/150400095. I can endure it.@k@vS06/04/150400096. I will endure it.@k@vS06/04/150400097. This is nothing compared to the pain Nii-nii bore in my place!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 71748,
+    "TextENGNew": "Damn damn damn damn!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 71749,
+    "TextENGNew": "Why doesn't she feel the pain--or is what I'm doing really not painful enough?!",
+    "significantChanges": true,
+    "changeReason": "Both ask why she doesn't feel pain; 'Doesn't it hurt?' vs 'is what I'm doing not painful enough?' are similar frustration.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 71750,
+    "TextENGNew": "That's a lie, impossible!!@k How can she still talk back? Why won't she cry or scream?!!",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 71751,
+    "TextENGNew": "Once Satoko had said everything she wanted to say, she clenched her jaw tight and said nothing more.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 71752,
+    "TextENGNew": "No matter what I did, she wouldn't even let me hear her grinding her teeth.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 71753,
+    "TextENGNew": "What on earth was this girl?@k This wasn't the Satoko I knew.@k I'd never seen anyone this strong.",
+    "significantChanges": true,
+    "changeReason": "Old's 'didn't need anymore' implies rejection; new's 'no longer depending on' matches JPN 甘えない (growth, not rejection).",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 71754,
+    "TextENGNew": "...If Satoko had been this strong, she wouldn't have been a burden on Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 71755,
+    "TextENGNew": "Why hadn't she possessed this strength before?",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 71756,
+    "TextENGNew": "Too late, too late--everything was too late.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 71757,
+    "TextENGNew": "This fool's enlightenment had come far, far too late...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 71758,
+    "TextENGNew": "Satoko continued to bite down on her agony, enduring it without letting it show.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 71759,
+    "TextENGNew": "Even under treatment cruel enough to drive the observer mad... as if displaying her own indomitable strength...",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 71760,
+    "TextENGNew": "I couldn't defeat Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 71761,
+    "TextENGNew": "I couldn't break her strength.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 71762,
+    "TextENGNew": "Satoko had... become what she aspired to be.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 71763,
+    "TextENGNew": "...A person who stood on her own, no longer depending on Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 71764,
+    "TextENGNew": "She had been waiting all this time, believing Satoshi-kun would come back.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 71765,
+    "TextENGNew": "She had been forging herself, tempering her heart, so that when her brother returned someday, she could show him how strong she had become.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 自らを心を鍛えてきた (forged/tempered herself), while old only said 'looks forward to showing him.'",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 71766,
+    "TextENGNew": "And the one who confirmed it was not Satoshi-kun, but... me--who never believed for an instant that Satoshi-kun would return, who never even considered waiting for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 71767,
+    "TextENGNew": "What... was I?",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 71768,
+    "TextENGNew": "I decided Satoshi-kun was dead.@k I assumed it as fact.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 71769,
+    "TextENGNew": "Why had I assumed that...?",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 71770,
+    "TextENGNew": "...Because I had no intention of waiting.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 71771,
+    "TextENGNew": "I didn't believe Satoshi-kun would come back.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 71772,
+    "TextENGNew": "I didn't wait.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 71773,
+    "TextENGNew": "...Pursuing vengeance for Satoshi-kun... in the end, that was just another way of trying to forget him.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 71774,
+    "TextENGNew": "...But Satoko was different.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 71775,
+    "TextENGNew": "She never assumed he was dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 71776,
+    "TextENGNew": "No--maybe she had, just a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 71777,
+    "TextENGNew": "But even so, she waited.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 71778,
+    "TextENGNew": "Wanting to show the returning Satoshi-kun how she had been reborn, she waited... and waited... and waited...",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 71779,
+    "TextENGNew": "And what about me?!",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 71780,
+    "TextENGNew": "I did nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 71781,
+    "TextENGNew": "I merely wanted an enemy to distract me from my grief.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 71782,
+    "TextENGNew": "Using vengeance for Satoshi-kun as justification, I became a demon--all because I wanted to forget my human heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 71783,
+    "TextENGNew": "I lost.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 71784,
+    "TextENGNew": "Unable to endure the pain of waiting for Satoshi-kun, I lost, and chose the path of discarding my human heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 71785,
+    "TextENGNew": "Which meant I had also discarded the heart that loved Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 71786,
+    "TextENGNew": "...Yes--it was no different from discarding Satoshi-kun himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 71787,
+    "TextENGNew": "Satoko won.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 71788,
+    "TextENGNew": "Her mouth, which had been clenched so tightly, had relaxed, looking at peace.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 71789,
+    "TextENGNew": "Through half-closed eyelids, her eyes peeked out faintly.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 71790,
+    "TextENGNew": "Those eyes looked as though she were dozing off while dreaming a pleasant dream.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 71791,
+    "TextENGNew": "And within those eyes... Satoshi-kun was unmistakably there.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 71792,
+    "TextENGNew": "Satoko had... held on... until Satoshi-kun came to welcome her...",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 71793,
+    "TextENGNew": "Satoko ran toward Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 71794,
+    "TextENGNew": "And she leaped into his arms.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 71795,
+    "TextENGNew": "Satoshi-kun... held her tight.@k ...And they spun round and round.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 71796,
+    "TextENGNew": "You can cry now.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 71797,
+    "TextENGNew": "...When Satoshi-kun said that softly, Satoko's face crumpled... and she wailed.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 71798,
+    "TextENGNew": "Satoshi-kun stroked the head of the sobbing, clinging Satoko, gently... so gently.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 71799,
+    "TextENGNew": "...From now on, we'll be together always.@k ...Gently... so gently.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 71800,
+    "TextENGNew": "Satoshi-kun...... I was waiting for you too...",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 71801,
+    "TextENGNew": "What hollow words...",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 71802,
+    "TextENGNew": "I had long since killed the Satoshi-kun inside my heart with my own hands.",
+    "significantChanges": true,
+    "changeReason": "New adds 'with my own hands' matching JPN 自らの手で, emphasizing Shion's agency.",
+    "changeScore": 3
+  },
+  {
+    "index": 149,
+    "MessageID": 71803,
+    "TextENGNew": "...I never believed for a moment in our reunion.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 71804,
+    "TextENGNew": "...Seeing Satoko alone reunited with Satoshi-kun,@k ...and only now mouthing such self-serving words...!",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 71805,
+    "TextENGNew": "As Satoshi-kun continued to hold Satoko, our eyes met.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 71806,
+    "TextENGNew": "Shion.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 71807,
+    "TextENGNew": "Satoshi-kun said.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 71808,
+    "TextENGNew": "...I asked you to do something, didn't I?",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 71809,
+    "TextENGNew": "Eh... asked me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 71810,
+    "TextENGNew": "I racked my memory desperately.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 71811,
+    "TextENGNew": "Had Satoshi-kun ever asked me for anything...?",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 71812,
+    "TextENGNew": "Satoshi-kun watched me with such sadness... because I had forgotten that precious promise...",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 71813,
+    "TextENGNew": "...His lonely smile cut through my chest more sharply than any blade.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'like vomit with filthy chunks' not in JPN which says 濁りきったヘドロやゴミ (muddy sludge and refuse).",
+    "changeScore": 3
+  },
+  {
+    "index": 160,
+    "MessageID": 71814,
+    "TextENGNew": "What flowed from the wound wasn't beautiful blood--it was a thick, filthy sludge mixed with rot and refuse.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 71815,
+    "TextENGNew": "...That was the true nature of what filled me.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 71816,
+    "TextENGNew": "``...Whether it's the curse, or some conspiracy by someone in this village.@k@vS06/07/151200325. ...I will absolutely not disappear. I refuse to be erased.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 71817,
+    "TextENGNew": "``Y-You won't disappear, Satoshi-kun...``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 71818,
+    "TextENGNew": "``I won't.@k@vS06/07/151200327. ...Not until I buy that stuffed animal for Satoko.@k@vS06/07/151200328. I'll be getting my pay soon.@k@vS06/07/151200329. Until that day, I absolutely won't disappear.``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 71819,
+    "TextENGNew": "...Huh?",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 71820,
+    "TextENGNew": "This is... a memory from when...?",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 71821,
+    "TextENGNew": "...That's right.@k This was the phone call from Satoshi-kun, the day before last year's Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 71822,
+    "TextENGNew": "``...Ah... my aunt is home. I have to hang up now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 71823,
+    "TextENGNew": "``Ah... okay...``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 71824,
+    "TextENGNew": "``...Mion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 71825,
+    "TextENGNew": "``...What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 71826,
+    "TextENGNew": "His aunt had come home, and he surely wanted to hang up as quickly as possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 71827,
+    "TextENGNew": "...Satoshi-kun paused for a single breath, then spoke as if delivering the most important words he had.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 一番大事な一言を告げるように (as if delivering most important words), which old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 174,
+    "MessageID": 71828,
+    "TextENGNew": "``Take care of Satoko for me...... okay?``",
+    "significantChanges": true,
+    "changeReason": "New translates JPN 頼むからね as 'Take care of Satoko for me, okay?' while old's 'I'll leave Satoko to you' is more detached.",
+    "changeScore": 3
+  },
+  {
+    "index": 175,
+    "MessageID": 71829,
+    "TextENGNew": "My knees and elbows began to tremble.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 71830,
+    "TextENGNew": "My molars clattered against each other, and my fingertips shook.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 71831,
+    "TextENGNew": "I... Satoshi-kun... asked me to......@k Wh... waaahhh... ahhh... waaaaahhhhh...",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 71832,
+    "TextENGNew": "What... have I done...?",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 71833,
+    "TextENGNew": "I couldn't wait for Satoshi-kun to return,@k so I filled my heart with a demon and did as I pleased.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 71834,
+    "TextENGNew": "I didn't believe Satoshi-kun would come back,@k ...and Satoshi-kun, who had placed his trust in me... his very last, his only request... I had forgotten.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 71835,
+    "TextENGNew": "How could someone like me claim to love Satoshi-kun...?",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 71836,
+    "TextENGNew": "I wanted to forget the grief of losing Satoshi-kun, so I drenched myself in blood. Looking like this, how could I ever welcome him back?",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 71837,
+    "TextENGNew": "I didn't believe Satoshi-kun would return.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 71838,
+    "TextENGNew": "I didn't believe Satoshi-kun was alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 71839,
+    "TextENGNew": "Because I didn't believe he was alive, I decided he was dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 71840,
+    "TextENGNew": "Yes--I chose to believe in Satoshi-kun's death.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 71841,
+    "TextENGNew": "I killed Satoshi-kun inside my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 71842,
+    "TextENGNew": "No one else... I was the one who killed him.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 71843,
+    "TextENGNew": "But Satoko believed until the very end.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 71844,
+    "TextENGNew": "And... her faith was rewarded in her final moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 71845,
+    "TextENGNew": "Satoko was no longer here.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 71846,
+    "TextENGNew": "I was still here.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 71847,
+    "TextENGNew": "Trapped in this defiled, blood-soaked flesh.@k Rotting away inside this prison of meat.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 肉の牢 (prison of flesh/meat) which old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 194,
+    "MessageID": 71848,
+    "TextENGNew": "Satoshi-kun... had been waiting for Satoko, and for me too.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 71849,
+    "TextENGNew": "But to be reunited with Satoshi-kun, we had to keep our promises.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 71850,
+    "TextENGNew": "Satoko's promise... was to become strong.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 71851,
+    "TextENGNew": "Satoko kept her promise to the very end.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 71852,
+    "TextENGNew": "...And Satoshi-kun embraced her.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 71853,
+    "TextENGNew": "My promise... was to take care of Satoko in Satoshi-kun's place.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 71854,
+    "TextENGNew": "I had never kept it. Not from the very start.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 71855,
+    "TextENGNew": "That was why... Satoshi-kun... would never come to embrace me.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 71856,
+    "TextENGNew": "Even if I were to stroke Satoko's wounds now, murmuring 'does it hurt...?'@k it would mean nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 71857,
+    "TextENGNew": "At that moment.@k@|@y ...I felt a presence behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 71858,
+    "TextENGNew": "Standing there expressionlessly, it was neither Satoshi-kun nor the eerie presence that had frightened me before.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 71859,
+    "TextENGNew": "I didn't know who it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 71860,
+    "TextENGNew": "...It simply stood there in silence... wordlessly accusing me of my mistakes.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 71861,
+    "TextENGNew": "...Yes.@k ...At last, I understood.@k That... was me.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 71862,
+    "TextENGNew": "I had been standing far behind myself the entire time, watching myself break the promise with my own hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 71863,
+    "TextENGNew": "Satoshi-kun had entrusted Satoko to me... yet I had torn that promise apart before my own eyes, and I had been watching the whole time.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 71864,
+    "TextENGNew": "...That other me wept... and gave up on even this me...",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 71865,
+    "TextENGNew": "Wait... Satoshi-kun has given up on me... and now even I myself have given up on me... what happens to me then...?",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 71866,
+    "TextENGNew": "I don't want to be in this darkness... I don't want to be in this filthy, blood-drenched place...",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 71867,
+    "TextENGNew": "Don't leave me all alone...",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 71868,
+    "TextENGNew": "If I'm abandoned by my own self, what becomes of... this body...?",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 71869,
+    "TextENGNew": "Nothing... will remain...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 71870,
+    "TextENGNew": "All that's left is the thick, oozing demon filling the bottom of my heart!",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 71871,
+    "TextENGNew": "Ah... so that's what I am.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 71872,
+    "TextENGNew": "...I already knew it, didn't I?@k ...That I'm... nothing but a demon.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 71873,
+    "TextENGNew": "``Wahaha, hahahahahahaha... ahahahahahaha!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 71874,
+    "TextENGNew": "A demon has no heart to feel sadness.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 71875,
+    "TextENGNew": "A demon's heart knows no pain.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 71876,
+    "TextENGNew": "A demon... has no need for tears...!",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 71877,
+    "TextENGNew": "The fool Shion was still faithfully repeating her apology, like clockwork.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN まぬけ (fool) and 律儀に (faithfully) which old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 224,
+    "MessageID": 71878,
+    "TextENGNew": "...Believing steadfastly that it was the only way for her to save Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 71879,
+    "TextENGNew": "Her voice was nearly gone, reduced to a faint rasp.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 71880,
+    "TextENGNew": "``SHIIOOOON!!!@k@vS06/06/150602356. You don't need to count anymore. Good work.``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 71881,
+    "TextENGNew": "``...Waaaaahhhhhhh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 71882,
+    "TextENGNew": "She must have understood what that meant for Satoko.@k Shion's weeping echoed from the stone cell.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 71883,
+    "TextENGNew": "``Ahahahahahahaha!!@k@vS06/06/150602358. Being a demon isn't half bad!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 71884,
+    "TextENGNew": "``I've had more than my fill of fun in this human world.@k@vS06/06/150602361. ...Before long, I'll take my own life and return to the land of demons.``",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 71885,
+    "TextENGNew": "``But don't worry.@k@vS06/06/150602363. I'll make sure to kill you first.@k@vS06/06/150602364. That's what I'm here for, after all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 71886,
+    "TextENGNew": "``...Oh right, you're in love with Kei-chan, aren't you?@k@vS06/06/150602367. All right then--I'll tear Kei-chan apart right before your eyes!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 71887,
+    "TextENGNew": "``Yes, Onigafuchi Village is a village of demons!!@k@vS06/06/150602371. A village with legends of demons emerging from the swamp to attack!!@k@vS06/06/150602372. I too shall wreak havoc like those legendary demons, then await Oyashiro-sama's judgment.``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 71888,
+    "TextENGNew": "``Now THAT would be a calamity worthy of Hinamizawa, wouldn't it?!!@k@vS06/06/150602374. Ahahahahahahahahahahaha!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 71889,
+    "TextENGNew": "``Oh, Kei-chan?@k@vS06/06/150602376. It's me.@k@vS06/06/150602377. Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 71890,
+    "TextENGNew": "``You weren't answering, so I was just about to hang up, thinking you were out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 71891,
+    "TextENGNew": "``Ah... ah, sorry...@k@vS06/01/150100257. I was just, um... in the bath.``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 71892,
+    "TextENGNew": "``...Wouldn't a family member have picked up?@k@vS06/06/150602380. Could it be... are your parents not home right now, Kei-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 71893,
+    "TextENGNew": "``No, it's not that... they're not really away... A-A-Anyway!!@k@vS06/01/150100259. Have you heard?!@k@vS06/01/150100260. About Rika-chan and Satoko?``",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 71894,
+    "TextENGNew": "``No.@k@vS06/06/150602382. ...What happened after that?@k@vS06/06/150602383. Were they found?``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 71895,
+    "TextENGNew": "``............Yeah.@k@vS06/01/150100262. ...They weren't found.``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 71896,
+    "TextENGNew": "``...Kei-chan, please don't lose heart...``",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 71897,
+    "TextENGNew": "``.........Rika-chan... and Satoko... they were kidnapped, weren't they...``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 71898,
+    "TextENGNew": "``...Yes.@k@vS06/06/150602386. There's little doubt about that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 71899,
+    "TextENGNew": "``.........Rika-chan and Satoko were... ah, no... I mean... sorry.@k@vS06/01/150100265. ...Um... the mayor... after he was kidnapped... what do you think happened...?@k@vS06/01/150100266. Do you think... he's still alive...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 71900,
+    "TextENGNew": "There was hesitation in Keiichi's words.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 71901,
+    "TextENGNew": "I could tell he wanted to believe Satoko and Rika were still alive, which was why he was asking indirectly.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 71902,
+    "TextENGNew": "...Keiichi was the same as Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 71903,
+    "TextENGNew": "Unless the kidnapper was after ransom, the victim would normally be killed quickly.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 71904,
+    "TextENGNew": "If it were me, I wouldn't dream of them being alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 71905,
+    "TextENGNew": "...But Keiichi was pushing back against that terrifying conclusion, trying to cling to even the faintest hope that they still lived.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 71906,
+    "TextENGNew": "That quiet, unassuming strength of heart--right now, I could feel it painfully well.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 目立たない心の強さが痛いくらいによくわかる fully, while old condensed to 'I could feel his strength.'",
+    "changeScore": 3
+  },
+  {
+    "index": 253,
+    "MessageID": 71907,
+    "TextENGNew": "...And I understood that his strength far exceeded mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 71908,
+    "TextENGNew": "...I was a demon now, after all.@k ...I offered no excuses.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 71909,
+    "TextENGNew": "``I think they were killed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 71910,
+    "TextENGNew": "``...He... hey, wait... just like that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 71911,
+    "TextENGNew": "``...I think kidnapping someone and maintaining that state must be extremely difficult.@k@vS06/06/150602389. ...Unless they're being held as hostages, the most rational thing is to kill them once they've served their purpose.``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 71912,
+    "TextENGNew": "``K-K-Kill them... just like that...@k@vS06/01/150100269. D-Do you think human lives are worth nothing...?!?!``",
+    "significantChanges": true,
+    "changeReason": "Old's 'what's a human life or two, anyway' sounds dismissive; JPN is angry 'Do you think human lives are worth nothing?!' New correctly conveys outrage.",
+    "changeScore": 4
+  },
+  {
+    "index": 259,
+    "MessageID": 71913,
+    "TextENGNew": "``...It's a terrible thing, I know.@k@vS06/06/150602391. ...But that's probably what happened.``",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 71914,
+    "TextENGNew": "``If the mayor was killed... then...@k@vS06/01/150100271. does that mean Rika-chan and Satoko... might have been killed the same way...?!?!@k@vS06/01/150100272. ...N-No... that can't... they're not just some random old man, you know?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 71915,
+    "TextENGNew": "``We're talking about Rika-chan!@k@vS06/01/150100274. We're talking about Satoko!@k@vS06/01/150100275. Th-They couldn't... they couldn't just kill them that easily......!``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 71916,
+    "TextENGNew": "Even hearing the word 'killed' directly from my mouth, Keiichi still resisted.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 71917,
+    "TextENGNew": "He fought desperately not to kill the friends inside his heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 71918,
+    "TextENGNew": "...I hadn't fought.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 71919,
+    "TextENGNew": "I had killed him so easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 71920,
+    "TextENGNew": "I blamed Shion for not protecting Satoshi-kun, and yet... I myself had killed Satoshi-kun within me without a second thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 71921,
+    "TextENGNew": "``It's probably better to assume that Rika-chan and Satoko-chan... met the same fate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 71922,
+    "TextENGNew": "``WAAAAAHHHHHHHHHHHHHHHHH...!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 71923,
+    "TextENGNew": "Keiichi... howled.@k ...And wept.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 71924,
+    "TextENGNew": "It was as though the death throes of Satoko and Rika within his heart were his own.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 71925,
+    "TextENGNew": "``Why?!@k@vS06/01/150100278. Why kidnap and kill people...?!?!@k@vS06/01/150100279. I don't care about curses! Are human lives really that cheap?!@k@vS06/01/150100280. Erasing and killing them without a second thought!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 71926,
+    "TextENGNew": "``...You're right.@k@vS06/06/150602394. ...Absolutely right.@k@vS06/06/150602395. ...Only a demon could do such a thing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 71927,
+    "TextENGNew": "Hahahaha...",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 71928,
+    "TextENGNew": "I laughed at myself.@k He surely couldn't hear it through the receiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 71929,
+    "TextENGNew": "``Hey, Shion.@k@vS06/01/150100282. ...Tell me.@k@vS06/01/150100283. ...Why did Hinamizawa end up as a place where people have to die on the night of Watanagashi?``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 71930,
+    "TextENGNew": "``...That's what I'd like to know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 71931,
+    "TextENGNew": "``The fight over the dam project is already over!@k@vS06/01/150100285. Haven't enough people been cursed already?!@k@vS06/01/150100286. Why? Why?!@k@vS06/01/150100287. If there's a reason, then say it!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 71932,
+    "TextENGNew": "``...I understand how you feel, Kei-chan, I truly do.@k@vS06/06/150602398. ...The dam conflict ended ages ago.``",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 71933,
+    "TextENGNew": "``And yet every year, murders and disappearances keep repeating under the name of Oyashiro-sama's Curse.@k@vS06/06/150602400. ...Why?!@k@vS06/06/150602401. Why does it keep happening?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 71934,
+    "TextENGNew": "``Some of them had nothing to do with it, some didn't deserve to be cursed at all--so why?@k@vS06/06/150602403. ...WHY?!?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 71935,
+    "TextENGNew": "``That's what I'M asking YOUUUU!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 71936,
+    "TextENGNew": "``And I want to know just as badly as you do!!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 71937,
+    "TextENGNew": "Yes.@k Oyashiro-sama's Curse never existed from the beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 71938,
+    "TextENGNew": "There was merely a bizarre environment where murder could be committed and excused under the name of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 71939,
+    "TextENGNew": "But that was nothing more than fertile soil.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 71940,
+    "TextENGNew": "Without demons willing to dance upon it, it was meaningless.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 71941,
+    "TextENGNew": "``Listen.@k@vS06/06/150602406. ...Something as unrealistic as Oyashiro-sama's curse never existed in the first place.``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 71942,
+    "TextENGNew": "``Just as you say, Kei-chan--someone in the village has been using the convenient justification of Oyashiro-sama's Curse@k@vS06/06/150602408. to repeat murders and disappearances with every Watanagashi!!!@k@vS06/06/150602409. ...They were cunning.``",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 71943,
+    "TextENGNew": "``They exploited the curse to build a system that eliminated two of the village's enemies every year.@k@vS06/06/150602411. ...And this year, that system killed Takano-san and the others!!``",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'Takano-san and Tomitake-san' while JPN 鷹野さんたちが says 'Takano-san and the others'; new is more faithful.",
+    "changeScore": 3
+  },
+  {
+    "index": 290,
+    "MessageID": 71944,
+    "TextENGNew": "``Then two should have been enough!!@k@vS06/01/150100290. Why did the mayor and Rika-chan and Satoko have to be killed too?!@k@vS06/01/150100291. And I don't give a damn about the past!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 71945,
+    "TextENGNew": "``The only thing I care about is why Rika-chan and Satoko had to die!!@k@vS06/01/150100293. Why?!@k@vS06/01/150100294. I didn't even tell Satoko anything!!@k@vS06/01/150100295. Why even Satoko...``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 71946,
+    "TextENGNew": "``WHYYYYYYYY?!?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 71947,
+    "TextENGNew": "Those were Satoshi-kun's words, spoken through Keiichi's mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 71948,
+    "TextENGNew": "What could I possibly say in response...?",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 71949,
+    "TextENGNew": "Nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 71950,
+    "TextENGNew": "I could only stand there in silence, receiving those blade-like words in my chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 71951,
+    "TextENGNew": "``.........Kei-chan... please... stop being so harsh...@k@vS06/06/150602413. ...hic...@k@vS06/06/150602414. .........I don't understand what's happening either...@k@vS06/06/150602415. Everything changed... since that night we snuck into the ritual storehouse...``",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 71952,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 71953,
+    "TextENGNew": "``...When I heard that Takano-san and the others died that night... I couldn't believe my ears.@k@vS06/06/150602417. ...And then... I realized immediately.@k@vS06/06/150602418. ...That now... it was my turn to be targeted...``",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 71954,
+    "TextENGNew": "``Four of us broke in.@k@vS06/06/150602420. ...There's no way just Kei-chan and I would be conveniently spared...@k@vS06/06/150602421. ...When I realized that, you can imagine how alone I felt... how terrified... Kei-chan, you understand that feeling, don't you...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 71955,
+    "TextENGNew": "``...That's why I... confided in Kimiyoshi-ojii-chan...@k@vS06/06/150602423. ...He didn't get angry...@k@vS06/06/150602424. ...He smiled and said, if Shion-chan truly feels remorse, there's no way she'll be demoned away...``",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 71956,
+    "TextENGNew": "``...He really... smiled... and said to leave it to him......@k@vS06/06/150602426. ...ooh...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 71957,
+    "TextENGNew": "Kimiyoshi-ojii-chan's words disparaging Satoshi-kun came flooding back...",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 71958,
+    "TextENGNew": "I killed him, yes, but Hinamizawa killed him too. Everyone ganged up and killed Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 71959,
+    "TextENGNew": "I'm not the only one at fault. I'm not the only one...!",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 71960,
+    "TextENGNew": "``............When... did you tell the mayor...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 71961,
+    "TextENGNew": "``...Hic... ...eh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 71962,
+    "TextENGNew": "``.........I'm sorry... Shion.@k@vS06/01/150100300. ...I know I'm piling onto your grief.@k@vS06/01/150100301. ...But Shion, you... told him, right?@k@vS06/01/150100302. Kimiyoshi-ojii-chan. The mayor.``",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 71963,
+    "TextENGNew": "``...Yes...@k@vS06/06/150602429. .........hic.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 71964,
+    "TextENGNew": "``............When...@k@vS06/01/150100304. did you tell him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 71965,
+    "TextENGNew": "``............Eh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 71966,
+    "TextENGNew": "Before I knew it, Keiichi's tone had become razor-sharp.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 71967,
+    "TextENGNew": "It was a cruel sharpness, but one befitting a verdict.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 71968,
+    "TextENGNew": "Not a dull blade that inflicts needless pain.@k ...A clean, almost pleasurable sharpness.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 71969,
+    "TextENGNew": "``...Did you know that the mayor had been suffering from severe hemorrhoids and was receiving treatment at a hospital...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 71970,
+    "TextENGNew": "``...Um... Kei-chan...?@k@vS06/06/150602432. ...What does that... have to do with...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 71971,
+    "TextENGNew": "``...Just answer me.@k@vS06/01/150100307. If you don't know, just say you don't know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 71972,
+    "TextENGNew": "``...I knew... about the hemorrhoids...@k@vS06/06/150602434. ...He always looked pained when sitting...``",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 71973,
+    "TextENGNew": "``He was going to the hospital regularly.@k@vS06/01/150100309. ...You know which hospital, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 71974,
+    "TextENGNew": "``...............I'm sorry, I don't know that much...@k@vS06/06/150602436. ...But, Kei-chan... what does this have to do with...``",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 71975,
+    "TextENGNew": "``...I'll be direct.@k@vS06/01/150100311. ...Shion... when did you tell the mayor?@k@vS06/01/150100312. Where, and when?@k@vS06/01/150100313. ...A rough answer is fine... but please, tell me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 71976,
+    "TextENGNew": "``.........Kei-chan... why are you asking that...@k@vS06/06/150602438. ...hic...``",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 71977,
+    "TextENGNew": "...Well done, Keiichi Maebara.@k ...You've seen through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 71978,
+    "TextENGNew": "``...It's impossible.@k@vS06/01/150100315. ...The day the mayor disappeared.@k@vS06/01/150100316. From morning until he vanished.@k@vS06/01/150100317. ...There was no opportunity for you to have contacted him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 71979,
+    "TextENGNew": "``............Eh... th-... that's...``",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 71980,
+    "TextENGNew": "``The mayor left first thing that morning for a solo visit to a university hospital that nobody knew about.@k@vS06/01/150100319. ...Shion, you just said you didn't know which hospital.@k@vS06/01/150100320. ...So you couldn't have been in contact with the mayor until he returned.@k@vS06/01/150100321. ...Right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 71981,
+    "TextENGNew": "``............hic...``",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 71982,
+    "TextENGNew": "``His return train was delayed by an accident, so he didn't get home until right before the meeting was about to start.``",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 71983,
+    "TextENGNew": "``...In other words, there was no time to confide in him before the meeting either.@k@vS06/01/150100324. ...Shion, did you attend the meeting...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 71984,
+    "TextENGNew": "``And did you confide in him during the meeting...?@k@vS06/01/150100326. Because if you didn't do it then... there's no time left.@k@vS06/01/150100327. ...After the meeting, the mayor disappeared on his way home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 71985,
+    "TextENGNew": "``.........Well, actually, the meeting, I...``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 71986,
+    "TextENGNew": "``That day, you didn't even show up to the part-time job you said you were going to.@k@vS06/01/150100329. ...Let me put it more plainly.@k@vS06/01/150100330. ...You haven't... been seen by anyone since we went to the library together.``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 71987,
+    "TextENGNew": "``.........Kei-chan... um...``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 71988,
+    "TextENGNew": "``...Shion Sonozaki...@k@|@y@vS06/01/150100332. ...disappeared the day after Watanagashi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 71989,
+    "TextENGNew": "Ahahaha... Bingo, Kei-chan.@k ...I have to admit, I'm impressed.",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 71990,
+    "TextENGNew": "``...Ooishi-san says you've already disappeared.@k@vS06/01/150100334. ...And yet... you've been calling me every night, haven't you, Shion...?@k@vS06/01/150100335. ...Please, Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 71991,
+    "TextENGNew": "``...If anything I've said is wrong... tell me it's wrong.@k@vS06/01/150100337. Shion, I'm begging you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 71992,
+    "TextENGNew": "Corner me more...",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 71993,
+    "TextENGNew": "Corner me so thoroughly that no matter how pitifully the demon inside me tries to make excuses, there's no escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 71994,
+    "TextENGNew": "``.........hic... hic... hic...``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 71995,
+    "TextENGNew": "``Shion, you never met with the mayor.@k@vS06/01/150100339. ...But if you did meet him......``",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 71996,
+    "TextENGNew": "...If Shion had any opportunity to meet the mayor on that day... it would have been...",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 71997,
+    "TextENGNew": "``After the mayor finished the meeting. ...In other words! ...Right before he disappeared, or else... after he'd already been taken!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 71998,
+    "TextENGNew": "``...hic... hic...``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 71999,
+    "TextENGNew": "CRASH!!",
+    "significantChanges": true,
+    "changeReason": "New corrects 'Click!' to 'CRASH!!' matching JPN ガシャン (slamming sound).",
+    "changeScore": 3
+  },
+  {
+    "index": 347,
+    "MessageID": 72000,
+    "TextENGNew": "I slammed down the receiver, shrieking with laughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 72001,
+    "TextENGNew": "Brilliantly done, Kei-chan!!",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 72002,
+    "TextENGNew": "That's right--it's me. I'm the one behind everything!",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 72003,
+    "TextENGNew": "Hurry, corner me.@k Hurry... set me... free.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 72004,
+    "TextENGNew": "Ahahahaha, ahahahahahaha...!",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 72005,
+    "TextENGNew": "Would Keiichi go to the police, or come here himself?@k I wondered which it would be...",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 72006,
+    "TextENGNew": "If it was the police... well, I'd struggle as much as I could.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 72007,
+    "TextENGNew": "Let's see how skillfully Ooishi could capture a single demon.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 72008,
+    "TextENGNew": "And if Kei-chan came alone?",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 72009,
+    "TextENGNew": "...That would be foolish.@k He couldn't complain about being devoured.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 72010,
+    "TextENGNew": "I fully intended to devour him.@k To drag him before Shion and kill him in the most gruesome way possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 72011,
+    "TextENGNew": "So Kei-chan... don't you dare show me mercy either.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 72012,
+    "TextENGNew": "I never thought I'd end up placing such expectations on someone I'd only considered 'a mildly entertaining guy'...",
+    "significantChanges": false
+  }
+]

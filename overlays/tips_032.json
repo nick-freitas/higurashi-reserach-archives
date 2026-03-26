@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "After-Party",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"After the Festival\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13520,
+    "TextENGNew": "The tension in the station was palpable late that night.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13521,
+    "TextENGNew": "In the hush, officers glanced back and forth between the clock and their phones, the suffocating minutes crawling by.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13522,
+    "TextENGNew": "Kumagai-kun burst in with a young officer in tow.",
+    "significantChanges": true,
+    "changeReason": "\"Kumagaya\" changed to \"Kumagai\" -- the standard romanization of 熊谷 for this character in the series.",
+    "changeScore": 1
+  },
+  {
+    "index": 4,
+    "MessageID": 13523,
+    "TextENGNew": "``Ooishi-san, autopsy is underway! The old man just arrived too!!@k@vS20/19/443100016. I’m standing by and ready to go!!@k@vS20/19/443100017. I’ll head straight to the burn site!!``",
+    "significantChanges": true,
+    "changeReason": "\"Got the autopsy results\" changed to \"autopsy is underway\" (検死入りました means the autopsy has begun, not that results are in); \"court physician\" changed to \"old man\" (じい様 is a respectful term for an elderly person).",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 13524,
+    "TextENGNew": "``Kuma-chan, things have gotten a bit complicated. They’re saying the victim’s identity is extremely difficult to determine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13525,
+    "TextENGNew": "``You don’t mean... like four years ago...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13526,
+    "TextENGNew": "``Nope.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13527,
+    "TextENGNew": "``Toasted to a nice golden brown, apparently.``",
+    "significantChanges": true,
+    "changeReason": "New adds \"apparently\" reflecting だそうで (hearsay/reportedly) which the old translation omits; also fixes the missing opening quotation mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 13528,
+    "TextENGNew": "His tone was flippant, but the implications were grave.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13529,
+    "TextENGNew": "...A collective sigh escaped the officers.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13530,
+    "TextENGNew": "``All the way? Head to toe...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13531,
+    "TextENGNew": "``Burned to a crisp, they say. Poor guys at that scene.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13532,
+    "TextENGNew": "No personal belongings, burned beyond recognition.@kAnd dumped outside the prefecture, no less...",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 13533,
+    "TextENGNew": "If things had gone badly, it could have taken a week to identify the body.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 13534,
+    "TextENGNew": "...Sniffing this out tonight was a major break.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 13535,
+    "TextENGNew": "``Right now, Komiyama-kun and his team are raiding every dentist in Okinomiya. Matching dental records is our only option.@k@vS20/11/440700126. ...Sorry!@k@vS20/11/440700127. Could someone run out and buy me a couple packs of strong cigarettes?``",
+    "significantChanges": true,
+    "changeReason": "\"The dentist\" (singular) changed to \"every dentist\" -- 根こそぎ means thoroughly/all of them, indicating they are raiding multiple dentists in Okinomiya, not just one.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 13536,
+    "TextENGNew": "A young officer answered and dashed out into the hallway.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 13537,
+    "TextENGNew": "``...This year, we actually found it. Impressive. ...You think maybe the people who disappeared in past years were killed and dumped outside the prefecture like this too?``",
+    "significantChanges": true,
+    "changeReason": "\"Scattered outside the prefecture\" changed to \"killed and dumped outside the prefecture\" -- the Japanese says 県外で殺されてた (were killed outside the prefecture), not merely scattered.",
+    "changeScore": 4
+  },
+  {
+    "index": 19,
+    "MessageID": 13538,
+    "TextENGNew": "``Then why not just bury them? Weigh the body down and toss it in the Sea of Japan or Lake Biwa—that would work just as well.``",
+    "significantChanges": true,
+    "changeReason": "New includes 重り付けて (weigh the body down) which the old translation omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 13539,
+    "TextENGNew": "``...But still. ...Hasn’t the pattern always been one person dies and one person disappears?``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 13540,
+    "TextENGNew": "``Kuma-chan. The corpse was unrestrained inside an oil drum and burned. I suspect they killed the victim first and then deliberately set the body on fire.@k@vS20/11/440700130. They knew it would be found.``",
+    "significantChanges": true,
+    "changeReason": "\"Strangling\" changed to \"killed\" -- シメる is slang for killing in general, not specifically strangling; new also adds \"deliberately\" (わざわざ) which the old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 13541,
+    "TextENGNew": "``So... you’re saying they never intended to make anyone “disappear” this year?``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 13542,
+    "TextENGNew": "``It’s less that they didn’t intend to make someone disappear, and more that this is something else entirely. Far from hiding it, it almost feels like they were making a statement.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 13543,
+    "TextENGNew": "``You mean... it was meant as a warning?``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 13544,
+    "TextENGNew": "He folded his arms... and then exhaled a long, pent-up sigh.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 13545,
+    "TextENGNew": "``If they’d done it within the city, that reading might hold.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 13546,
+    "TextENGNew": "``...But by transporting the victim this far and burning them, there was a real chance it would never be linked back. If you wanted to send a message, you’d do it closer to Hinamizawa.``",
+    "significantChanges": true,
+    "changeReason": "Old adds \"alive\" to \"burning\" which is not in the Japanese (焼く means burn, not burn alive); also \"if they'd messed up\" is an inaccurate rendering of 下手したら (worst case/if things went badly).",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 13547,
+    "TextENGNew": "``...They want to assert that they killed, yet they chose a distant location where the dramatic impact is uncertain. Do they want to proclaim it or conceal it?@k@vS20/11/440700135. ...I do wonder what Oyashiro-sama has in mind this year~``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 13548,
+    "TextENGNew": "A ringing phone sliced through the heavy silence.@kA nearby officer snatched up the receiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 13549,
+    "TextENGNew": "``Ooishi-san! It’s Komiyama!!@k@vS20/00/KeijiA44002. We have a match!@k@vS20/00/KeijiA44003. A dental clinic in Okinomiya treated the victim’s wisdom tooth three years ago!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 13550,
+    "TextENGNew": "``What about the records?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 13551,
+    "TextENGNew": "``Complete with X-rays!``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 13552,
+    "TextENGNew": "``Well... I feel terrible dragging a dentist out of bed at this hour. Kuma-chan, head out the moment you get the records from Komiyama-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 13553,
+    "TextENGNew": "``Roger that!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 13554,
+    "TextENGNew": "``Oh, it’s the chief!! Thank you for coming in at this hour!``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 13555,
+    "TextENGNew": "``Ooishi-san, my apologies for the delay. What’s the situation?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 13556,
+    "TextENGNew": "``Hmm... let’s just say things are finally getting interesting. I’m all fired up!@k@vS20/11/440700139. Waa~o!``",
+    "significantChanges": false
+  }
+]

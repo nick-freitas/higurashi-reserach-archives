@@ -1,0 +1,421 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Box-Choosing Game",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"What's in the Box?\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14580,
+    "TextENGNew": "Do you believe that life offers you choices?",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14581,
+    "TextENGNew": "There are many people who lament the following:",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14582,
+    "TextENGNew": "If only there were clear-cut choices at life's turning points, I could weigh them carefully and guide myself toward a better future.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14583,
+    "TextENGNew": "...Every time I overhear such laments, I think what a trivial worry that is.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14584,
+    "TextENGNew": "Even if you were given clear choices, they'd be meaningless in the end -- none of them would lead you to a better future.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14585,
+    "TextENGNew": "...Is this hard to understand?",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14586,
+    "TextENGNew": "Then let me place two mysterious boxes before you.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14587,
+    "TextENGNew": "In other words, you have two clear choices.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14588,
+    "TextENGNew": "Do you open the red box, or the blue box?",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14589,
+    "TextENGNew": "A lot of things would be uncertain even with that choice, wouldn't they?",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14590,
+    "TextENGNew": "If you must open one, then your natural impulse would be to choose whichever holds the better outcome for you.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14591,
+    "TextENGNew": "And after examining each box's shape and feel, weighing various factors, you would eventually -- after much agonizing -- choose either the red or the blue.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14592,
+    "TextENGNew": "...If this was you, which box would you open?",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14593,
+    "TextENGNew": "Red or blue?",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14594,
+    "TextENGNew": "...If you were to go by their traditional meanings, then red would be a dangerous, threatening color.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14595,
+    "TextENGNew": "However, that doesn't automatically mean that it would be calm and relaxing inside the blue box, either.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14596,
+    "TextENGNew": "In fact, the colors themselves might be a trap, designed to make you wary of red so you'd choose blue.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14597,
+    "TextENGNew": "A trap?",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14598,
+    "TextENGNew": "...Could it be the contents of the box aren't a reward, but rather a penalty?",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14599,
+    "TextENGNew": "See...? Now you're at a loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14600,
+    "TextENGNew": "Torn between red and blue, you've surely begun wishing for the option of walking away without opening either.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14601,
+    "TextENGNew": "But there isn't.@k You have to open either the red box or the blue box.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14602,
+    "TextENGNew": "Oh, I forgot to mention -- when you choose one box, the other vanishes.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14603,
+    "TextENGNew": "So you'll never learn what was inside the one you didn't choose.@kJust adding that last rule for you.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14604,
+    "TextENGNew": "Now.@k Why don't you choose?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 14605,
+    "TextENGNew": "The red box, or the blue box?",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 14606,
+    "TextENGNew": "...Don't worry, neither one contains anything bad.@k...Go on.",
+    "significantChanges": true,
+    "changeReason": "Original says 'you won't lose anything by picking either one' while new says 'neither contains anything bad' — the Japanese (損なものは入っていない) refers to the contents not being harmful, not about the act of choosing.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 14607,
+    "TextENGNew": "Have you thought about it?",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 14608,
+    "TextENGNew": "In the end, you chose this color, didn't you?",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14609,
+    "TextENGNew": "...As soon as you chose, the other box disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14610,
+    "TextENGNew": "So you can give up on the contents of that one, okay?",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14611,
+    "TextENGNew": "That's the rule.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 14612,
+    "TextENGNew": "Now, open up the box you chose.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 14613,
+    "TextENGNew": "Inside the box there was... a piece of caramel.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 14614,
+    "TextENGNew": "Inside the box there was... a stick of chewing gum.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 14615,
+    "TextENGNew": "...I know you're a little disappointed.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 14616,
+    "TextENGNew": "Well that's only natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 14617,
+    "TextENGNew": "No matter how you look at it, it looks like you drew the dud.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 14618,
+    "TextENGNew": "For all you know, the right box might have had a chocolate bar in it.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 14619,
+    "TextENGNew": "No, in fact, something incredible like a pair of tickets to Hawaii might have been in there.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 14620,
+    "TextENGNew": "But even if you wanted to verify that, the other box has already disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 14621,
+    "TextENGNew": "There's no way you can check now.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 14622,
+    "TextENGNew": "But if you think about it from an optimistic point of view...",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 14623,
+    "TextENGNew": "Just maybe... the other box was empty, and this box was the winner.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 14624,
+    "TextENGNew": "And so, satisfied (or perhaps not) with your cheap prize, you toss it into your mouth and chew away contentedly.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 14625,
+    "TextENGNew": "So, what do you think in the end?",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 14626,
+    "TextENGNew": "If you were given a second chance, would you try to open the other box?",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 14627,
+    "TextENGNew": "...But I'm sorry to say, the game of choosing between the red and blue box will never come to you again.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 14628,
+    "TextENGNew": "The chance to change your selection will never come.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 14629,
+    "TextENGNew": "Don't your parents always say you only get one chance at life's choices, so choose carefully?",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 14630,
+    "TextENGNew": "Hee hee hee...",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 14631,
+    "TextENGNew": "See?@kChoices aren't all they're cracked up to be.@k...A little disillusioned?@kAhahahahahaha...",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 14632,
+    "TextENGNew": "...Right now you're thinking: ``That's it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 14633,
+    "TextENGNew": "That's right, the contents of the red box and the blue box were a piece of caramel and a stick of chewing gum.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 14634,
+    "TextENGNew": "You might have thought you drew the short straw earlier, but seeing them side by side like this, you can't really say either one was worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 14635,
+    "TextENGNew": "Well, I guess everybody has their personal preferences.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 14636,
+    "TextENGNew": "If you prefer caramel to gum, for example.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 14637,
+    "TextENGNew": "...Based on your personal taste, you're undoubtedly thinking you'd like to choose again.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 14638,
+    "TextENGNew": "...The kind of choice you've been longing for is essentially this:",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 14639,
+    "TextENGNew": "The selfish desire to peek inside both boxes, compare their contents, and pick the better one.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 14640,
+    "TextENGNew": "But you see,@k reality is the same as this game.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 14641,
+    "TextENGNew": "If you pick one, the one you didn't choose disappears.@k So there's no way you could check the result.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 14642,
+    "TextENGNew": "If only, at that time,@kI had done this,@kor perhaps hadn't done that...@kI could surely be happier (or perhaps unhappier) than I am now -- but there's simply no way to know.",
+    "significantChanges": true,
+    "changeReason": "Original says 'it wouldn't be hard to imagine' (speculative) while the Japanese (わかりようもない) means 'there's no way to know' — the new translation captures the intended futility rather than speculation.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 14643,
+    "TextENGNew": "In the end, you only have the pleasure of approving of or being disappointed by the choice that you did make.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 14644,
+    "TextENGNew": "But that's fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 14645,
+    "TextENGNew": "After all, didn't you enjoy the thrill of making the choice?",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 14646,
+    "TextENGNew": "Now that you know the contents of both boxes,@kthe choice between red and blue wouldn't even serve as a diversion.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 14647,
+    "TextENGNew": "Because rather than playing this tedious box game, you could be gazing up at the mercurial summer evening sky, listening for distant thunder, and wondering whether the rain will come -- and that would be far more enjoyable.",
+    "significantChanges": false
+  }
+]

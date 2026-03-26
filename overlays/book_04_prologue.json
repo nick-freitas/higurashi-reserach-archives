@@ -1,0 +1,454 @@
+[
+  {
+    "index": 2,
+    "MessageID": 3538,
+    "TextENGNew": "Welcome.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 3539,
+    "TextENGNew": "Welcome to the world of Higurashi: When They Cry's final chapters — Matsuribayashi and Miotsukushi.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 3540,
+    "TextENGNew": "In this world, you will be able to reconstruct the story's world from Hanyuu's perspective.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 3541,
+    "TextENGNew": "Your ultimate goal is to bring about the ideal June of 1983 — the one you most wish to see.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 3542,
+    "TextENGNew": "To make that ideal a reality, you must gather many different Fragments.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 3543,
+    "TextENGNew": "However, Takano's ideal is equally unyielding.",
+    "significantChanges": true,
+    "changeReason": "Old translates 理想 (ideal) as 'conviction'; new correctly renders it as 'ideal', changing the characterization of Takano's motivation.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 3544,
+    "TextENGNew": "To overturn it, considerable effort and a great many Fragments will be required.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 3545,
+    "TextENGNew": "I warn you now — this task is an extraordinarily slow and painful one.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 3546,
+    "TextENGNew": "Hanyuu spent over a hundred years at this very task — and even she, in the end, faltered and surrendered herself to fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 3547,
+    "TextENGNew": "Overcoming Takano's ideal is no easy feat.",
+    "significantChanges": true,
+    "changeReason": "Same correction as above: 理想 rendered as 'ideal' instead of 'conviction', altering what must be overcome.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 3548,
+    "TextENGNew": "The trials of this world will subject you to suffering not unlike what Hanyuu herself endured.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 3549,
+    "TextENGNew": "Ground down by the endless repetition of worlds spun from countless Fragments, you may find your spirit breaking — and surrender, just as Hanyuu once did.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 3550,
+    "TextENGNew": "Should you wish to surrender —",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 3551,
+    "TextENGNew": "you may end this game at any time.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 3552,
+    "TextENGNew": "In that case, the worlds surrounding you and your companions' fates will close with Onikakushi and end at Minagoroshi.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'you and' before companions, matching the Japanese あなたとあなたの仲間たち (you and your companions), which the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 3553,
+    "TextENGNew": "By forgetting this world — by erasing all that you have witnessed from your memory — you will meet your death within it.",
+    "significantChanges": true,
+    "changeReason": "Old says 'you will finally accept death'; new says 'you will meet your death within it'. The Japanese specifies この世界での死 (death in this world), a locational detail the old translation drops.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 3554,
+    "TextENGNew": "...Just as Rika eventually did.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 3555,
+    "TextENGNew": "Your ideal June of 1983 will take shape by joining together ninety-nine Fragments scattered across this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 3556,
+    "TextENGNew": "To join the Fragments, you will need to find the ones that correspond to each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 3557,
+    "TextENGNew": "...Ninety-nine of them — a sheer volume that may well leave you dizzy.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 3558,
+    "TextENGNew": "But this world is not without mercy.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 3559,
+    "TextENGNew": "To ease your suffering, however slightly, a small measure of guidance will be offered.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 3560,
+    "TextENGNew": "When you select a Fragment that cannot yet be joined —",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 3561,
+    "TextENGNew": "your one and only ally here will mark that Fragment to show it cannot yet be joined.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 3562,
+    "TextENGNew": "So long as that mark remains, the Fragment cannot be connected.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 3563,
+    "TextENGNew": "It would be best to go search for other Fragments in the meantime.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 3564,
+    "TextENGNew": "But as you join other Fragments together, you may find that a Fragment which could not be connected before has, without you realizing it, become possible to join.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 3565,
+    "TextENGNew": "When that happens, she will mark it to let you know.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 3566,
+    "TextENGNew": "You should try joining those Fragments right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 3567,
+    "TextENGNew": "...In doing so, yet another Fragment may become available to connect.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 3568,
+    "TextENGNew": "There are also Fragments among them that will offer you counsel.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 3569,
+    "TextENGNew": "They will make themselves known through the \"words of Fragments\" you have gathered from the worlds traversed until now.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 3570,
+    "TextENGNew": "...Or perhaps entirely different words.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 3571,
+    "TextENGNew": "...Yes — the words most deeply familiar to you from playing Higurashi: When They Cry itself may sometimes open the way.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 3572,
+    "TextENGNew": "Trying many different things is itself one avenue forward——.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 3573,
+    "TextENGNew": "And when all ninety-nine Fragments have at last been joined and you reach the Fragment of Matsuribayashi — or of Miotsukushi —@k ...your ideal June of 1983 will be born.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 3574,
+    "TextENGNew": "That is the moment when Matsuribayashi — or Miotsukushi — the chapter we have yearned for most — will finally begin.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 3575,
+    "TextENGNew": "Before examining each Fragment one by one, it would be wise to first survey all ninety-nine laid out before you.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 3576,
+    "TextENGNew": "Since most Fragments require other Fragments before they can be joined, the number you will be able to examine at first is only a handful.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 3577,
+    "TextENGNew": "Let us begin by searching for those.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 3578,
+    "TextENGNew": "...This will be an extraordinarily long and arduous trial.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 3579,
+    "TextENGNew": "I say it again: Hanyuu confronted this challenge for over a hundred years, and even she broke under it.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 3580,
+    "TextENGNew": "If you hold within you the same faith in miracles that your companions carry —",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 3581,
+    "TextENGNew": "Even if you do not inhabit Hanyuu's world — if you are able to believe in them...",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 3582,
+    "TextENGNew": "Now... the Fragment-Weaving begins — the gathering of fate's shattered pieces, scattered and adrift.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 3583,
+    "TextENGNew": "It is a vital and demanding journey — one that will put the full strength of your will to the test.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 3584,
+    "TextENGNew": "In this world, you will be tested: do you believe in the world that Rika and the others believed in?",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 3585,
+    "TextENGNew": "A miracle comes only when everyone's strength is gathered together.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 3586,
+    "TextENGNew": "The June of 1983 that Takano has constructed is fearfully fortified.",
+    "significantChanges": true,
+    "changeReason": "Old: 'nearly indomitable'; New: 'fearfully fortified'. Japanese 強固 means 'strongly built/fortified' rather than 'indomitable', shifting the characterization from unstoppability to structural strength.",
+    "changeScore": 2
+  },
+  {
+    "index": 51,
+    "MessageID": 3587,
+    "TextENGNew": "She has burrowed into the core of the nation's power, secured powerful backing, and accumulated forces far beyond what any ordinary person could command.",
+    "significantChanges": true,
+    "changeReason": "Old implies Takano gathered powerful people to her side; new says she infiltrated existing power structures. Japanese 中枢に入り込んで (burrowed into the core) supports the new reading as active infiltration.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 3588,
+    "TextENGNew": "The odds of overcoming her are lower than rolling ones on a hundred dice simultaneously.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 3589,
+    "TextENGNew": "In other words, there is no path to victory that does not pass through a miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 3590,
+    "TextENGNew": "And a miracle comes only when everyone's strength is joined as one.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 3591,
+    "TextENGNew": "And that everyone — includes you.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 3592,
+    "TextENGNew": "Furthermore, for those who have finished reading these stories, yet more worlds await.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 3593,
+    "TextENGNew": "...One is Saikoroshi.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 3594,
+    "TextENGNew": "This is the world that Rika, above all others, wished never to see.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 3595,
+    "TextENGNew": "But to confirm her true self and the growth she has achieved, this world must not be avoided.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 3596,
+    "TextENGNew": "...And the other is Kotohogushi.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 3597,
+    "TextENGNew": "This is a world that Hanyuu herself sealed away — from the past, and from her own memory.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 3598,
+    "TextENGNew": "The age when Hinamizawa was still known as Onigafuchi.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 3599,
+    "TextENGNew": "There you will be able to glimpse one chapter in how she came to be called Oyashiro-sama...",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 3600,
+    "TextENGNew": "Though her own memories have been considerably distorted after so many years of wandering — so not everything there can be taken as wholly accurate.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 3601,
+    "TextENGNew": "With that in mind, I hope you will enjoy these as worlds that \"probably\" once were.",
+    "significantChanges": true,
+    "changeReason": "Old says 'enjoy this world as it is' omitting the key epistemic qualifier のであろう (probably were) and using singular 'world' vs plural 'worlds' — changes the meta-narrative framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 3602,
+    "TextENGNew": "...Are you ready?",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 3603,
+    "TextENGNew": "Of course I am.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 3604,
+    "TextENGNew": "The secret to a long journey is knowing not to push yourself too hard.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 3605,
+    "TextENGNew": "Let's take it easy.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 3606,
+    "TextENGNew": "I'll be watching from my usual spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 3607,
+    "TextENGNew": "Shall we begin?",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 3608,
+    "TextENGNew": "We have all the time in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 3609,
+    "TextENGNew": "Let us meet again when you have safely seen every last world through to its end.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 3610,
+    "TextENGNew": "...Hee hee.",
+    "significantChanges": false
+  }
+]

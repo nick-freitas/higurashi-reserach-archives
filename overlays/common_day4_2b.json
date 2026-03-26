@@ -1,0 +1,764 @@
+[
+  {
+    "index": 1,
+    "MessageID": 20063,
+    "TextENGNew": "The moment club activities ended, Rena bolted home.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 20064,
+    "TextENGNew": "Apparently she'd found something adorable at her usual treasure-hunting spot.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she found something really ``kyute``'; new says 'she'd found something adorable,' where old uses the stylized 'kyute' to represent Rena's speech quirk while new uses standard 'adorable,' losing the character-specific speech pattern present in the Japanese かぁいい.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 20065,
+    "TextENGNew": "So today, for once, it was just the two of us—Mion and me—walking home together.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 20066,
+    "TextENGNew": "\"Well, about that treasure-hunting spot of hers.\"\n\"...It's basically a garbage heap past those woods over there.\"",
+    "significantChanges": true,
+    "changeReason": "Old has one continuous quote; new splits into two separate quoted lines with different speakers/pauses, matching the Japanese @k tag that indicates a text break between the two statements.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 20067,
+    "TextENGNew": "Mion said as much with a resigned shrug. Fair enough—a garbage heap isn't exactly the kind of place a girl her age should be getting starry-eyed over...",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 20068,
+    "TextENGNew": "\"But what kind of treasure could you possibly find in an illegal dumping ground?\"\n\"I just hope she doesn't hurt herself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 20069,
+    "TextENGNew": "\"Ahahahaha!\"\n\"She'll be fine, she'll be fine—it's not her first time.\"\n\"Besides, that place used to be the dam construction site, so there's all kinds of things lying around.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 20070,
+    "TextENGNew": "\"All kinds of things... huh...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'All kinds of things... huh...'; new says 'All kinds of things... huh...' but the actual ENG is '``Lots of things, yeah...``' vs new '\"All kinds of things... huh...\"' The old uses 'Lots of things, yeah' while new uses 'All kinds of things... huh,' where 賑やか means 'lively/bustling' not 'lots of things'—both miss the mark but differently.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 20071,
+    "TextENGNew": "\"Yeah, a lot happened there—battles and all that!@k@vS19/03/660300062. Sit-ins, demonstrations, you name it!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Yeah, a whole bunch of stuff happened here. Like this great battle! There were strikes and demonstrations and stuff!'; new splits into two quoted lines and changes 'strikes' to 'Sit-ins' matching 座りこみ (sit-in protest) in the Japanese, which is different from a labor strike.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 20072,
+    "TextENGNew": "\"Battles\" didn't sound very peaceful, but I decided to hear her out.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Calling it a ``great battle`` makes it sound kinda violent'; new says '\"Battles\" didn't sound very peaceful,' where old adds 'kinda violent' interpretation while the Japanese simply says 穏やかじゃない (not peaceful/calm).",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 20073,
+    "TextENGNew": "Mion launched into the story of those events, gesturing animatedly as she spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 20074,
+    "TextENGNew": "\"So they were going to drown Hinamizawa under a lake...\"\n\"That really is unthinkable.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'So they wanted to sink our Hinamizawa into the lake...? You're right, that is awful'; new says 'So they were going to drown Hinamizawa under a lake... That really is unthinkable,' where 'unthinkable' (とんでもない) better matches the Japanese than 'awful.'",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 20075,
+    "TextENGNew": "\"The government officials were absolutely one-sided about it.\"\n\"Arrogant and high-handed!\"\n\"Once they realized money wouldn't settle the matter, they resorted to every form of harassment they could think of?!\"\n\"Horrible people!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The government guys were really adamant about it. Acting all big and full of themselves!'; new says 'The government officials were absolutely one-sided about it. Arrogant and high-handed!' where 'one-sided' (一方的) more accurately translates the Japanese than 'adamant,' and 'high-handed' (威張ってた) is more precise than 'full of themselves.'",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 20076,
+    "TextENGNew": "Mion spoke with rising fury, as if the whole thing were unfolding right before her eyes.",
+    "significantChanges": true,
+    "changeReason": "Old says Mion 'spoke excitedly' but Japanese 声を荒げながら means 'raising her voice angrily/roughly' — wrong emotional register (excitement vs anger), though both are high-energy.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 20077,
+    "TextENGNew": "\"I'm amazed you actually won... You were up against the government, weren't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 20078,
+    "TextENGNew": "\"The village headman and the prominent families petitioned everyone they could reach.\"\n\"They went to Tokyo, worked their connections with all sorts of politicians...\"\n\"...And in the end the plan was retracted.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The mayor and prominent figures in the village all signed petitions'; new says 'The village headman and the prominent families petitioned everyone they could reach,' where 'headman' (村長) is more accurate for the rural village context than 'mayor,' and 'petitioned everyone they could reach' (方々に陳情した) is different from 'signed petitions.'",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 20079,
+    "TextENGNew": "\"It was our total victory!\"\n\"Ahahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 20080,
+    "TextENGNew": "\"There wasn't any... violence, was there?\"\n\"Like assaults... or murder—\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'There wasn't any... violence, was there? Like assaults... or murders?'; new says 'There wasn't any... violence, was there? Like assaults... or murder—' where old ends with a complete word 'murders?' and new ends with a cut-off 'murder—' matching the Japanese which shows Keiichi being interrupted mid-word (殺人、).",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 20081,
+    "TextENGNew": "\"There wasn't.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 20082,
+    "TextENGNew": "She said it flatly, cutting me off.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 20083,
+    "TextENGNew": "A strange, unsettling dissonance.",
+    "significantChanges": true,
+    "changeReason": "Old says 'An eerie malaise washes over me'; new says 'A strange, unsettling dissonance,' where 'malaise' implies sickness/unease while 'dissonance' (違和感) more precisely translates the Japanese sense of something feeling 'off' or incongruent.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 20084,
+    "TextENGNew": "Her words carried a period—a firm full stop.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Her words signaled the end of discussion'; new says 'Her words carried a period—a firm full stop,' which more literally translates the Japanese metaphor about a ピリオド (period/full stop) being embedded in her words.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 20085,
+    "TextENGNew": "Did she not want me prying any further? Or perhaps...",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 20086,
+    "TextENGNew": "Perhaps this wasn't the kind of thing you could just bring up casually and dig into at will.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 20087,
+    "TextENGNew": "My unsatisfied curiosity drooped inside my chest, restless and without anywhere to go.",
+    "significantChanges": true,
+    "changeReason": "Old says 'My curiosity unsated, I sighed dejectedly inside'; new says 'My unsatisfied curiosity drooped inside my chest, restless and without anywhere to go,' where new captures the Japanese imagery of curiosity being 'restless and without a place' (所在なくうなだれていた) more vividly.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 20088,
+    "TextENGNew": "\"Later then—see you tomorrow!\"\n\"Kei-chan, don't wash that off until you're home, okay?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 20089,
+    "TextENGNew": "\"I know, I won't!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 20090,
+    "TextENGNew": "Mion stole glances at my face and struggled to stifle her laughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 20091,
+    "TextENGNew": "...I wonder just what kind of wretched doodle they drew on me...",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 20092,
+    "TextENGNew": "You'll regret this, Mion...!",
+    "significantChanges": true,
+    "changeReason": "Old says 'Damn you, Mion! You shall rue this day...!'; new says 'You'll regret this, Mion...!' where old adds 'Damn you' and 'rue this day' which are more dramatic than the Japanese 覚えてろ魅音め (Remember this, Mion).",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 20093,
+    "TextENGNew": "If the tables ever turn, I'll plaster every inch of your face—so thick that not even a scouring brush can remove it...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 20094,
+    "TextENGNew": "I arrived home and walked straight into my mother, earning myself yet another round of embarrassment...",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 20095,
+    "TextENGNew": "...If I could reason with certainty that the left card was not the joker, then I ought to be able to declare with confidence that the right card was.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The left card definitely wasn't the joker. If I could trust that theory, then I should've been able to declare that the card to the right was the joker'; new says 'If I could reason with certainty that the left card was not the joker, then I ought to be able to declare with confidence that the right card was,' restructuring to match the conditional logic of the Japanese more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 20096,
+    "TextENGNew": "Even without Mion's goading—...the right was the most suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 20097,
+    "TextENGNew": "But wasn't it too rash to base my conclusion solely on Satoko's reaction?!\nMore carefully... slowly... Ah!",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 20098,
+    "TextENGNew": "...I remember now...!!\nThat mark... the left card... there's no doubt!\nThe Seven of Clubs!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 20099,
+    "TextENGNew": "\"Mmm...\"\n\"I'm pretty sure that's the Seven of Clubs...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 20100,
+    "TextENGNew": "I've got it!\nThe left card is the Seven of Clubs!",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 20101,
+    "TextENGNew": "Which means the remaining right card is... the Joker!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 20102,
+    "TextENGNew": "And then—just as my hand was about to touch the right card, I stopped dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 20103,
+    "TextENGNew": "\"...Heh heh heh... heh heh heh...\"\n\"Just what I'd expect from you, Mion.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I would expect no less from you'; new says 'Just what I'd expect from you, Mion,' adding 'Mion' as the addressee matching the Japanese (さすが魅音だよ).",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 20104,
+    "TextENGNew": "The murmurs rippled through the room at my sudden pause—every last person had been certain the right card was the joker.",
+    "significantChanges": true,
+    "changeReason": "Old says 'There was a wave of murmurs amongst the onlookers at my sudden halt, right before I confirmed the right card was the joker'; new says 'The murmurs rippled through the room at my sudden pause—every last person had been certain the right card was the joker,' where old says 'right before I confirmed' (implying he was about to confirm) while new says 'every last person had been certain' (場の誰もが...確信した) matching the Japanese about everyone's certainty.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 20105,
+    "TextENGNew": "\"?? Huh?\"\n\"What on earth could Keiichi-san possibly be saying??\"\n\"But the left one is...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 20106,
+    "TextENGNew": "\"...Shh.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 20107,
+    "TextENGNew": "\"Oh...?\"\n\"What makes you so certain the right one isn't the joker, Kei-chan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 20108,
+    "TextENGNew": "An unexpected question from Mion.@k Everyone except me was thrown into confusion.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion let loose an unexpected question. Everyone else was baffled'; new says 'An unexpected question from Mion. Everyone except me was thrown into confusion,' where new adds 'except me' (俺を除く) from the Japanese, which is a meaningful detail showing Keiichi wasn't confused.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 20109,
+    "TextENGNew": "\"I have no idea what the right card is.\"\n\"But I do know that the left card is the Seven of Clubs.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 20110,
+    "TextENGNew": "\"Then!\"\n\"Doesn't that leave the right one as the joker?!\"\n\"One of the two has to be the joker—that was the deal, wasn't it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 20111,
+    "TextENGNew": "\"Yeah.\"\n\"...One of the two is the joker—that much is certainly true.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 20112,
+    "TextENGNew": "\"...Keiichi's intuition is sharp.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 20113,
+    "TextENGNew": "\"Huh?\"\n\"Rika-chan, what do you mean by...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 20114,
+    "TextENGNew": "\"The thing is—\"\n\"...the Seven of Clubs.\"\n\"...That's the card I discarded a moment ago when it paired with Satoko's Seven of Spades...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'So basically... the Seven of Clubs... I discarded that by matching it with Satoko's Seven of Spades earlier...!'; new says 'The thing is— ...the Seven of Clubs. ...That's the card I discarded a moment ago when it paired with Satoko's Seven of Spades...!' where old starts with 'So basically' (つまりさ) while new uses 'The thing is—', both acceptable, but the restructuring better matches the dramatic pause structure of the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 20115,
+    "TextENGNew": "Everyone's gaze snapped to the discard pile in unison!",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 20116,
+    "TextENGNew": "In that chaotic jumble of discarded cards, there was no way to verify the truth...!",
+    "significantChanges": true,
+    "changeReason": "Old says 'The truth of the matter couldn't be discerned from that sloppy pile'; new says 'In that chaotic jumble of discarded cards, there was no way to verify the truth,' where 'chaotic jumble' (ぐちゃぐちゃ) is more vivid than 'sloppy pile' and better matches the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 20117,
+    "TextENGNew": "\"In other words—\"\n\"...Mion picked up one card from the discard pile... and layered it over the left card... which means...!!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion pocketed one of discarded cards... then aligned it over the left card'; new says 'Mion picked up one card from the discard pile... and layered it over the left card,' where 'picked up from the discard pile' (捨て札を１枚拾って) is more specific about the source than 'pocketed.'",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 20118,
+    "TextENGNew": "\"...Oh! I understand!\"\n\"The left card is being disguised as the Seven of Clubs, isn't it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 20119,
+    "TextENGNew": "For the first time since the game began, a shadow crossed Mion's face—and I didn't miss it.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 20120,
+    "TextENGNew": "And then... with a theatrical flourish and a twist, I made my decisive declaration!!",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 20121,
+    "TextENGNew": "\"The joker is... the LEFT haaaaaaaand!!!!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The joker is... ...the left ooooooooooone!!!!!!'; new says 'The joker is... the LEFT haaaaaaaand!!!!!' where old says 'one' and new says 'hand' (左手), matching the Japanese which specifically says 'left hand' (左手だぁあぁああああぁああッッ).",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 20122,
+    "TextENGNew": "A searing, white-hot instant...!\nThat one second felt like hours to everyone in the room.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It was an intense moment...! That one second felt like an eternity for everyone there'; new says 'A searing, white-hot instant...! That one second felt like hours to everyone in the room,' where 'hours' (何時間にも) is more specific than 'eternity,' and 'searing, white-hot' (熱過ぎる) better captures the Japanese imagery.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 20123,
+    "TextENGNew": "Into that silence, a quiet 'heh...' escaped Mion's lips as she broke into a defiant smirk.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Amidst the silence, a smirk flashes across Mion's face'; new says 'Into that silence, a quiet \"heh...\" escaped Mion's lips as she broke into a defiant smirk,' adding the vocalization 'heh' (ふっ……) and 'defiant' (不敵な) from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 62,
+    "MessageID": 20124,
+    "TextENGNew": "\"Just as I'd expect, Kei-cha—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 20125,
+    "TextENGNew": "\"—or so it might seem, but in fact it's the right hand.\"\n\"See for yourself.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Is what you want me to say, but it's actually the one on the right. Here.'; new says 'or so it might seem, but in fact it's the right hand. See for yourself.' The Japanese (と見せかけて、実は右手なんだな) uses 'right hand' (右手) not 'right one,' and the phrase means 'making it seem like [that], but actually...'",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 20126,
+    "TextENGNew": "\"WHA?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 20127,
+    "TextENGNew": "With Mion standing there dumbfounded, I reached out and plucked the card from her right hand.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion is dumbfounded as I lean in to yank the card out of her hand'; new says 'With Mion standing there dumbfounded, I reached out and plucked the card from her right hand,' where new specifies 'right hand' (右のカード) and uses 'plucked' (ひょいッと) matching the light/quick motion in the Japanese versus 'yank.'",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 20128,
+    "TextENGNew": "A chorus of shocked \"Gya?!\" sounds burst from the other three.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Noises of shock escape the other three's mouths'; new says 'A chorus of shocked \"Gya?!\" sounds burst from the other three,' where new includes the onomatopoeia 'Gya?!' (ギョッ！？) from the Japanese and specifies 'from the other three' (魅音を除いた三人) excluding Mion.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 20129,
+    "TextENGNew": "That card was—as it turned out—the joker.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 20130,
+    "TextENGNew": "\"Wh... K-Kei-chan...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 20131,
+    "TextENGNew": "The color had drained from Mion's face. Just seeing that expression was the purest bliss.",
+    "significantChanges": true,
+    "changeReason": "Old says 'face was completely flushed' (red) but JPN 血の気の引いた means blood drained/went pale — exact opposite physical reaction.",
+    "changeScore": 4
+  },
+  {
+    "index": 70,
+    "MessageID": 20132,
+    "TextENGNew": "...But wait. The other three looked equally pale... Why?",
+    "significantChanges": true,
+    "changeReason": "Old says 'seems to be red' but JPN 血の気が引いてる means blood drained/pale — exact opposite, compounding the error from the previous line.",
+    "changeScore": 4
+  },
+  {
+    "index": 71,
+    "MessageID": 20133,
+    "TextENGNew": "\"...Huh?\"\n\"You guys... don't tell me...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 20134,
+    "TextENGNew": "Rena stuck out her tongue. Satoko crossed her arms with a groan. And Rika-chan, using only the very tips of both hands, gave me something that could only be called fingertip applause.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Rena sticks out her tongue. Satoko crosses her arms haughtily. And Rika-chan can't help but give me an applause using just her fingertips'; new says 'Satoko crossed her arms with a groan. And Rika-chan, using only the very tips of both hands, gave me something that could only be called fingertip applause,' where new adds the groan 'u~mu' (う～む) for Satoko and translates 拍指 (finger-clapping, a wordplay on 拍手/applause) more explicitly.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 20135,
+    "TextENGNew": "\"Y-You all knew?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 20136,
+    "TextENGNew": "All three of them let out a quiet, knowing laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 20137,
+    "TextENGNew": "Y-You people... are you demons?!! You already knew Mion's trick, and you came here just to watch me squirm in agony...! Terrifying... the residents of Hinamizawa...",
+    "significantChanges": true,
+    "changeReason": "Old says 'A-Are you guys... demons or what?! You were all in on the plot and just came to see me writhe in hell?! Sheesh. Never underestimate the people of Hinamizawa...'; new says 'you already knew Mion's trick, and you came here just to watch me squirm in agony...! Terrifying... the residents of Hinamizawa...' Old says 'Never underestimate' while new says 'Terrifying' for 恐るべし which means 'to be feared/formidable'—closer to 'terrifying' than 'never underestimate.'",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 20138,
+    "TextENGNew": "I will state for the record that a cold shiver ran down my spine.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I felt a chill run down my spine'; new says 'I will state for the record that a cold shiver ran down my spine,' adding the 'state for the record' framing (伝えておこう) present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 77,
+    "MessageID": 20139,
+    "TextENGNew": "But looking over, I saw Mion staring intently at her cards with a furrowed brow. Then, slowly, she raised her gaze.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 20140,
+    "TextENGNew": "\"Kei-chan, how did you figure it out...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 20141,
+    "TextENGNew": "Everyone looked at me at once. It was plain that Mion's words gave voice to the question on all their minds.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 20142,
+    "TextENGNew": "\"Simple, really.\"\n\"Knowing that I might recognize a card by its marks, you still chose to show a distinctively identifiable card in your left hand...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 20143,
+    "TextENGNew": "As I said that, I glanced briefly at Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 20144,
+    "TextENGNew": "\"Huh... are you saying I did something?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 20145,
+    "TextENGNew": "\"Perfectly transparent... Yes!\"\n\"Satoko made a slip of the tongue...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You're so transparent... That's right!'; new says 'Perfectly transparent... Yes!' where old adds 'you're' making it about a person, while Japanese says 実に見え見えな (utterly obvious/transparent) describing the situation, not directly addressing someone.",
+    "changeScore": 2
+  },
+  {
+    "index": 84,
+    "MessageID": 20146,
+    "TextENGNew": "\"M-Me...?\"\n\"What slip of the tongue are you claiming I made?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 20147,
+    "TextENGNew": "Without missing a beat, I mimicked Satoko's manner of speech and said:",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 20148,
+    "TextENGNew": "\"Doesn't that leave the right card as the joker?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 20149,
+    "TextENGNew": "\"You overplayed your hand, Satoko.\"\n\"There's no way you would ever volunteer that kind of information to me!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You got carried away, Satoko'; new says 'You overplayed your hand, Satoko,' where 策に溺れた means 'drowned in one's own stratagem/overplayed one's hand' which is more strategic in meaning than 'got carried away.'",
+    "changeScore": 2
+  },
+  {
+    "index": 88,
+    "MessageID": 20150,
+    "TextENGNew": "\"Wha—?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 20151,
+    "TextENGNew": "Satoko's face went pale in an instant, and she began to tremble.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 20152,
+    "TextENGNew": "\"And then there's you, Mion...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 20153,
+    "TextENGNew": "\"M-Me?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 20154,
+    "TextENGNew": "\"Your reaction was far too uncharacteristically honest for you...\"\n\"The combined effect of those two pieces of misdirection was designed to push me into overthinking—that was your whole plan.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The way you reacted to me was too uncharacteristically honest...The synergy of your two manipulations left me to conclude none other that your ultimate goal was to make me overthink things'; new says 'Your reaction was far too uncharacteristically honest for you...The combined effect of those two pieces of misdirection was designed to push me into overthinking—that was your whole plan,' where new uses 'misdirection' for ミスリード (mislead) rather than 'manipulations,' and is clearer overall.",
+    "changeScore": 2
+  },
+  {
+    "index": 93,
+    "MessageID": 20155,
+    "TextENGNew": "\"B-But what if she had stacked two cards on top of each other, like we said earlier...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 20156,
+    "TextENGNew": "I wagged my index finger at her.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I raise and wave my index finger in mild chastisement'; new says 'I wagged my index finger at her,' where old adds 'mild chastisement' not present in the Japanese (ちっちっちっと人差し指を立てる), which simply describes raising/wagging the finger in a tsk-tsk gesture.",
+    "changeScore": 2
+  },
+  {
+    "index": 95,
+    "MessageID": 20157,
+    "TextENGNew": "\"If she had stacked two cards, even if it fooled me, I could always accuse her of cheating and wriggle off the hook. So that strategy was off the table.\"\n\"—Am I wrong, Mion?!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'If you were to stack two cards, you would give me the easy excuse of just saying, \"Oh, you cheated.\" So you couldn't use that strategy'; new says 'If she had stacked two cards, even if it fooled me, I could always accuse her of cheating and wriggle off the hook. So that strategy was off the table,' where new adds 'even if it fooled me' and 'wriggle off the hook' (言い逃れされる) from the Japanese, making the reasoning clearer.",
+    "changeScore": 2
+  },
+  {
+    "index": 96,
+    "MessageID": 20158,
+    "TextENGNew": "At that, Mion—who had been listening in silence—suddenly let out a muffled chuckle, which quickly swelled into a full, uninhibited laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 20159,
+    "TextENGNew": "\"I concede...!\"\n\"I would have been disappointed if you'd just grabbed it in a panic, but reading it through to that conclusion... this old man surrenders completely!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I would be disappointed if you simply took it in a hurry, but if you read it that far... It's this old man complete surrender!'; new says 'I would have been disappointed if you'd just grabbed it in a panic, but reading it through to that conclusion... this old man surrenders completely!' The old has a grammatical error ('It's this old man complete surrender') while new is grammatically correct and matches the Japanese おじさん完全降伏 (this old man completely surrenders).",
+    "changeScore": 2
+  },
+  {
+    "index": 98,
+    "MessageID": 20160,
+    "TextENGNew": "\"...As founding club president, I've witnessed all manner of performances.\"\n\"...Kei-chan.\"\n\"...You are... the best.\"\n\"...The best of the best of the best of King!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 20161,
+    "TextENGNew": "Probably the highest compliment Mion was capable of giving.@k She admitted defeat... and the cards spilled from both her hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 20162,
+    "TextENGNew": "...My... comeback victory!!!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 20163,
+    "TextENGNew": "\"Amazing! Amazing!\"\n\"Keiichi-kun, you're incredible~~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 20164,
+    "TextENGNew": "\"W-Well... it seems you'll be somewhat entertaining after all!\"\n\"I look forward to what comes next!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Easy, easy... It looks like you'll be entertaining us a little! I'm looking forward to it!!'; new says 'W-Well... it seems you'll be somewhat entertaining after all! I look forward to what comes next!!' where old misses the stuttering 'ま、まぁ' and new captures it with 'W-Well.'",
+    "changeScore": 2
+  },
+  {
+    "index": 103,
+    "MessageID": 20165,
+    "TextENGNew": "\"See? My eye for talent has never failed me!\"\n\"Splendid! Splendid!!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'No, there was no mistake in my eyes! This is good! This is good!!'; new says 'See? My eye for talent has never failed me! Splendid! Splendid!!' where 'my eye for talent' (私の見る目) and 'Splendid!' (よきかな) are more accurate translations than the old version.",
+    "changeScore": 2
+  },
+  {
+    "index": 104,
+    "MessageID": 20166,
+    "TextENGNew": "\"Then...\"\n\"The penalty game falls to Mii-chan.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The penalty game is decided'; new says 'The penalty game falls to Mii-chan,' where new includes the specific target 'Mii-chan' (魅ぃ) from the Japanese, which the old omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 105,
+    "MessageID": 20167,
+    "TextENGNew": "\"—*splutter*?!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Oh no...'; new says '*splutter*?!' where the Japanese おぶしっ？！ is an onomatopoeia for a spit-take/spluttering reaction, not a calm 'Oh no.'",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 20168,
+    "TextENGNew": "Rika-chan's words fell like ice, and Mion froze solid.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion freezes with Rika-chan's worlds, like ice'; new says 'Rika-chan's words fell like ice, and Mion froze solid,' where old has a typo ('worlds' instead of 'words') and restructures the sentence to better match the Japanese word order (氷のような梨花ちゃんの一言で).",
+    "changeScore": 2
+  },
+  {
+    "index": 107,
+    "MessageID": 20169,
+    "TextENGNew": "Still... marking up a girl's face with a permanent marker really did seem a bit much...",
+    "significantChanges": true,
+    "changeReason": "Old says 'However, graffiti on the face with an oil-based pen is too harsh for girls'; new says 'marking up a girl's face with a permanent marker really did seem a bit much,' where 'permanent marker' is the modern equivalent of 油性ペン (oil-based pen) and 'a bit much' is softer than 'too harsh,' matching 過酷すぎる in the context of Keiichi's charitable thinking.",
+    "changeScore": 2
+  },
+  {
+    "index": 108,
+    "MessageID": 20170,
+    "TextENGNew": "\"It's fine—just carry my bag.\"\n\"The fact that I won... that's enough for me.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Okay, forget about it. The fact that I won... I'm satisfied'; new says 'It's fine—just carry my bag. The fact that I won... that's enough for me,' where old says 'forget about it' but new says 'just carry my bag' (荷物もちで), which is the actual penalty Keiichi assigns. The old translation completely misses the bag-carrying penalty.",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 20171,
+    "TextENGNew": "A roar of \"Waaaaah～!!\" went up. That was the moment my stock rose in everyone's eyes.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Cheers go up. That was the moment my ego went up'; new says 'A roar of \"Waaaaah~!!\" went up. That was the moment my stock rose in everyone's eyes,' where 'stock rose' (株が上がった) is the correct translation of the Japanese idiom meaning one's reputation/standing increased, not 'ego went up.'",
+    "changeScore": 2
+  },
+  {
+    "index": 110,
+    "MessageID": 20172,
+    "TextENGNew": "\"...Is that so.\"\n\"And Keiichi's softness here will prove to be his undoing in the days to come.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'This sweetness of Keiichi became the death toll in the future'; new says 'Keiichi's softness here will prove to be his undoing in the days to come,' where 'undoing' (命取り) means a fatal weakness/downfall, not 'death toll' which means number of deaths—a significant mistranslation in the old version.",
+    "changeScore": 2
+  },
+  {
+    "index": 111,
+    "MessageID": 20173,
+    "TextENGNew": "\"Stop with the strange narration!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm sorry for the strange narration!'; new says 'Stop with the strange narration!' where the Japanese やめんかい！ is an imperative 'Stop it!' not an apology, making the old translation incorrect in tone and meaning.",
+    "changeScore": 2
+  }
+]

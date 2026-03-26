@@ -1,0 +1,41 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "A Diary of Regret",
+    "significantChanges": true,
+    "changeReason": "English translation was missing; ENG field contained untranslated Japanese text.",
+    "changeScore": 5
+  },
+  {
+    "index": 1,
+    "MessageID": 16183,
+    "TextENGNew": "(The preceding two pages have been torn out.)",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 2,
+    "MessageID": 16184,
+    "TextENGNew": "...Yeah, it'll be fine.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 3,
+    "MessageID": 16185,
+    "TextENGNew": "Tomorrow, I'll start with a smile.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 4,
+    "MessageID": 16186,
+    "TextENGNew": "I just need to be myself, same as always.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  }
+]

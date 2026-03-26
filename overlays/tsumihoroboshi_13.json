@@ -1,0 +1,1822 @@
+[
+  {
+    "index": 1,
+    "MessageID": 85237,
+    "TextENGNew": "``Heeey, welcome, welcome!@k@vS09/00/yatafA17002. Care for one of our special frankfurters?``",
+    "significantChanges": true,
+    "changeReason": "Old translates フランクフルト as 'hot dog'; new keeps 'frankfurters,' which is the specific item referenced in JPN. Old also drops the elongated, enthusiastic greeting style.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 85238,
+    "TextENGNew": "``Coming right up!@k@vS09/00/yataiA17002. We've got strawberry, melon, and Blue Hawaii syrup!``",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'Our shaved ice is the best!'; Japanese says 'Coming right up!'",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 85239,
+    "TextENGNew": "``Fortune takoyaki, how about it!@k@vS09/00/yataiB17002. If you get the lucky one, it's packed full of mustard!``",
+    "significantChanges": true,
+    "changeReason": "Old translates おみくじたこ焼き as 'takoyaki roulette'; new uses 'Fortune takoyaki.' Also 'The winner's packed' vs 'If you get the lucky one, it's packed' -- new is closer to JPN アタリ (lucky hit).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 85240,
+    "TextENGNew": "As always, the Watanagashi festival was lined with rows upon rows of food stalls.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 85241,
+    "TextENGNew": "Ooishi had always thought that all you needed for a proper festival was Bon dance music and a row of vendors.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 85242,
+    "TextENGNew": "Even though it was only June, the sweltering heat of the past few days had been practically midsummer.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 85243,
+    "TextENGNew": "With this weather and Bon dance tunes drifting through a festival, you might as well throw in a fireworks display and call it a real summer celebration.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 85244,
+    "TextENGNew": "``This is Kumagai.@k@vS09/19/173100003. Ooishi-san, come in. Ooishi-san, come in.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 85245,
+    "TextENGNew": "A scratchy voice crackled through the earpiece of Ooishi's portable radio.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 85246,
+    "TextENGNew": "...Wearing this earpiece, Ooishi felt like he must look as though he were sneaking a listen to a horse race broadcast while on duty.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 85247,
+    "TextENGNew": "``Yes, this is Ooishi.@k@vS09/11/170700002. Reading you loud and clear.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 85248,
+    "TextENGNew": "``Uh, the town council members have brought us a ton of food.@k@vS09/19/173100005. ...Oden, yakisoba, stewed offal, and... um, some barley tea, too.``",
+    "significantChanges": true,
+    "changeReason": "Old translates モツ煮込み as 'pork belly stew'; new correctly uses 'stewed offal' (モツ = offal/innards, not pork belly).",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 85249,
+    "TextENGNew": "``Nah ha ha!@k@vS09/11/170700004. That barley tea—is it the kind you can drink on duty,@k@vS09/11/170700005. or the kind you can't?``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 85250,
+    "TextENGNew": "``Uhhh, well... ...ah ha ha ha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 85251,
+    "TextENGNew": "``If the barley tea's in a can, go ahead and accept it.@k@vS09/11/170700007. If it's in a cup, politely decline.``",
+    "significantChanges": true,
+    "changeReason": "Old has Ooishi accepting the drink himself; new has him instructing Kumagai to accept/decline on his behalf, which better matches the radio conversation context.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 85252,
+    "TextENGNew": "``Roger that.@k@vS09/19/173100008. ...Oh, and the town council officials are here to pay their respects.@k@vS09/19/173100009. The village chief, and someone from the Sonozaki family, too...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'the head of the Sonozaki family'; new says 'someone from the Sonozaki family,' which is closer to JPN 園崎家の方からも ('from the Sonozaki side'). Also 'say hi' vs 'pay their respects' for 挨拶.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 85253,
+    "TextENGNew": "``...Old Lady Oryou?@k@vS09/11/170700009. Oh, come on. Can't you just tell her I'm out on patrol and you don't know when I'll be back?``",
+    "significantChanges": true,
+    "changeReason": "Old translates お魎のばあ様 as 'that old bag Oryou' (derogatory); new uses 'Old Lady Oryou' (more neutral). Also old drops Ooishi's reluctant/evasive tone (やだなぁ = 'oh, come on').",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 85254,
+    "TextENGNew": "``...Well, the thing is... she said since we have radios, there's no reason we can't call you right back, and she was really insistent about it...``",
+    "significantChanges": true,
+    "changeReason": "Old adds content and rephrases; new translates more accurately.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 85255,
+    "TextENGNew": "``Nah ha ha ha!@k@vS09/11/170700011. That old bat—when she finally goes, it'll definitely be a stroke.@k@vS09/11/170700012. Roger, roger. Tell her with the utmost courtesy—and I do mean courtesy, understood?@k@vS09/11/170700013. —that I'll be right back.``",
+    "significantChanges": true,
+    "changeReason": "New adds '—and I do mean courtesy, understood?' capturing 丁重にですよ？ (emphasis on 'politely, got it?') which old simplifies.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 85256,
+    "TextENGNew": "...Well, nothing for it.@k Guess it's time to head back and do the community relations thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 85257,
+    "TextENGNew": "Just then, a pack of kids came barreling past from behind and nearly knocked him off his feet.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 85258,
+    "TextENGNew": "When he looked, it turned out to be... that very old bat's granddaughter and her group of friends.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 85259,
+    "TextENGNew": "They claimed a spot at the shooting gallery and immediately began squealing with excitement.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 85260,
+    "TextENGNew": "Mion Sonozaki, huh.",
+    "significantChanges": true,
+    "changeReason": "New adds 'huh' (か in JPN 園崎魅音か), capturing the reflective/musing quality of the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 85261,
+    "TextENGNew": "...When she acts her age, she's actually fairly cute.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 85262,
+    "TextENGNew": "But the moment she puts on her Sonozaki family face, she instantly becomes insufferable.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 85263,
+    "TextENGNew": "Give that girl another ten or twenty years, and she'll no doubt be strutting around as a big shot who parts crowds wherever she walks.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 85264,
+    "TextENGNew": "...Or so he'd thought.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 85265,
+    "TextENGNew": "Watching them more closely, the one running the show wasn't Mion—it was the boy.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 85266,
+    "TextENGNew": "Let's see, what was his name... the kid who just moved here recently.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 85267,
+    "TextENGNew": "...Right, the young master of the Maebara estate.@k Keiichi Maebara-kun, if he recalled correctly.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 85268,
+    "TextENGNew": "City folk, and apparently quite well-off.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 85269,
+    "TextENGNew": "...Yet despite that, word was he never lorded it over anyone—a natural humility that had earned him a good reputation.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 85270,
+    "TextENGNew": "He hadn't been here long at all, yet he'd already settled right into school life and was apparently quite popular.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 85271,
+    "TextENGNew": "His reputation in the village was remarkably good for someone who'd arrived so recently.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 85272,
+    "TextENGNew": "Watching him, everything about the boy was exaggerated—every joy, every anger, every sorrow—and he seemed like an entertaining kid.",
+    "significantChanges": true,
+    "changeReason": "Old summarizes as 'person of many moods'; new translates 喜怒哀楽がいちいちオーバー (every emotion is exaggerated) more faithfully, capturing the specificity of the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 85273,
+    "TextENGNew": "Boys that age, energy is what matters most.@k It almost made Ooishi nostalgic for his own boyhood.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 85274,
+    "TextENGNew": "``Hey, you're up next, Rena!!@k@vS09/01/170100465. This is a great opening for you!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'You're lucky it's your turn'; JPN おいしいタイミング means 'a delicious/favorable timing,' which new captures better as 'a great opening.'",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 85275,
+    "TextENGNew": "``Are you okay, Rena?@k@vS09/03/170300235. You're not feeling sick, are you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 85276,
+    "TextENGNew": "``...Ahaha, sorry.@k@vS09/02/170200589. I think I'll just watch the shooting from the side for now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 85277,
+    "TextENGNew": "``...Then don't push yourself. Just rest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 85278,
+    "TextENGNew": "``Well then!@k@vS09/04/170400098. Skipping right over Rena-san, the headliner finally takes the stage!@k@vS09/04/170400099. It's my turn!!``",
+    "significantChanges": true,
+    "changeReason": "Old omits 真打 (headliner/star performer) and the reference to skipping Rena; new includes both, matching the JPN content.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 85279,
+    "TextENGNew": "...Looking more closely, only four of them were caught up in the excitement. The girl called Rena seemed to be standing apart from it all.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 85280,
+    "TextENGNew": "Ryuugu Rena, that was her name.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 85281,
+    "TextENGNew": "What was her real name again...?",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 85282,
+    "TextENGNew": "He could look it up when he got back, but he couldn't recall it now.@k At any rate, Rena was just a nickname.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 85283,
+    "TextENGNew": "She'd moved here about a year before Maebara-kun, if he remembered right.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 85284,
+    "TextENGNew": "He seemed to recall hearing that her mother had left—a divorce.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 85285,
+    "TextENGNew": "And she handled all the housework herself, which apparently made her quite an admirable young lady.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 85286,
+    "TextENGNew": "On top of that, he'd heard she was remarkably well-mannered for a girl her age—a rarity these days.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 85287,
+    "TextENGNew": "Still, compared to Maebara-kun—another transfer student—she didn't seem to have fully opened up to the others yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 85288,
+    "TextENGNew": "The five of them appeared to be together, but Rena alone couldn't seem to join in the revelry, lingering at the edge of the group looking dejected.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 85289,
+    "TextENGNew": "From an outsider's perspective, Maebara-kun had already blended in completely as a villager, and yet... she alone seemed left behind.@k ...That was how it looked to Ooishi, at least.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 85290,
+    "TextENGNew": "``Ooishi-san, the station chief and the section manager are here.@k@vS09/19/173100013. Please come back right away!``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 85291,
+    "TextENGNew": "\"Ooishi, roger!@k@vS09/11/170700015. ......He comes all the way to a local festival just to pay his respects—our station chief sure is diligent about community relations.@k@vS09/11/170700016. Funny, I've never heard of him attending the Okinomiya festival.\"",
+    "significantChanges": true,
+    "changeReason": "New translates additional Japanese content about the Okinomiya festival that old omits entirely.",
+    "changeScore": 4
+  },
+  {
+    "index": 56,
+    "MessageID": 85292,
+    "TextENGNew": "``Aah, this is Takasugi.@k@vS09/00/taka17002. Ooishi-san, can you hear me? Come in, come in!``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 85293,
+    "TextENGNew": "``Yes, yes, this is Ooishi.@k@vS09/11/170700018. I'm currently heading back at top speed.@k@vS09/11/170700019. Give me about one more minute.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I hear you'; JPN says 大石です (this is Ooishi). Also 'I'm on my way back right now' vs 'I'm currently heading back at top speed' -- new includes 全速力 (top speed).",
+    "changeScore": 3
+  },
+  {
+    "index": 58,
+    "MessageID": 85294,
+    "TextENGNew": "If he didn't get back soon, the station chief himself might get on the radio next.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 85295,
+    "TextENGNew": "Ooishi broke into a jog and headed back toward the command tent.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 60,
+    "MessageID": 85296,
+    "TextENGNew": "``Ooishi-san, the doctor has arrived.``",
+    "significantChanges": true,
+    "changeReason": "Old adds 'Dr. Irie' where Japanese says generic '先生'; new keeps it as 'the doctor.'",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 85297,
+    "TextENGNew": "``Ah, much appreciated!@k@vS09/11/170700021. How does it look, Dr. Irie?``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 85298,
+    "TextENGNew": "Ooishi stepped into the area cordoned off by blue tarps.",
+    "significantChanges": true,
+    "changeReason": "New includes ブルーシート (blue tarps/sheets) which old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 63,
+    "MessageID": 85299,
+    "TextENGNew": "Inside, forensics personnel were photographing the body from every conceivable angle.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 85300,
+    "TextENGNew": "Irie, who had been crouching beside the body of Jirou Tomitake, rose to his feet.@k ...His face was deathly pale.",
+    "significantChanges": true,
+    "changeReason": "Old says 'he looked pale'; new says 'deathly pale' (蒼白 = ashen/deathly pale), conveying stronger severity.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 85301,
+    "TextENGNew": "``...I can't believe this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 85302,
+    "TextENGNew": "``...Well, I can hardly believe it myself.@k@vS09/11/170700023. From what I can see at first glance... the deceased clawed his own throat apart.@k@vS09/11/170700024. With his bare hands, no less.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quotes and says 'clawed out his throat'; new says 'clawed his own throat apart' + adds 'with his bare hands, no less' emphasis. New also adds 'at first glance' for 所見.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 85303,
+    "TextENGNew": "``This is no ordinary way to die.@k@vS09/11/170700026. Nine times out of ten, it's some kind of nasty drug.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening double-backtick quote mark. New correctly includes it. Also 'Most likely' vs 'Nine times out of ten' (十中八九) which new translates more precisely.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 85304,
+    "TextENGNew": "``...Are you suggesting he was some kind of habitual drug user?``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 85305,
+    "TextENGNew": "``Who knows?``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 70,
+    "MessageID": 85306,
+    "TextENGNew": "``That's what we'll have to find out, I suppose.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'my job' but Japanese says 我々 (our job).",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 85307,
+    "TextENGNew": "``...Ooishi-san.@k@vS09/10/171000032. What about this piece of lumber?``",
+    "significantChanges": true,
+    "changeReason": "Old translates 角材 as 'two-by-four' (a specific American lumber dimension); new uses 'piece of lumber,' which is more accurate for the generic JPN term.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 85308,
+    "TextENGNew": "``Probably... the deceased was swinging it around, I'd guess.@k@vS09/11/170700030. Then at some point he dropped it and found clawing at his throat more... satisfying.``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 85309,
+    "TextENGNew": "``...What would he have been swinging lumber around for?``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 85310,
+    "TextENGNew": "``Self-defense would be the most natural assumption.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 75,
+    "MessageID": 85311,
+    "TextENGNew": "``...Have you noticed the external injuries on the body?``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 85312,
+    "TextENGNew": "``...Yes. I can see what appear to be several contusions scattered about.``",
+    "significantChanges": true,
+    "changeReason": "Old simplifies to 'some bruises'; new translates 打撲傷を思わせる痕がいくつか散見出来ます more fully ('several contusions scattered about').",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 85313,
+    "TextENGNew": "``Which would mean the most likely scenario is... the deceased was attacked by someone here on his way back to Okinomiya after the festival.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the closing quote mark. Also 'easiest explanation' vs 'most likely scenario' for 一番考えられるストーリー.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 85314,
+    "TextENGNew": "``He was seized, injected with some suspicious substance or the like, and as a result was driven to a frenzy that killed him.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 85315,
+    "TextENGNew": "``...I've never heard of any drug that could compel someone to claw out their own throat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 85316,
+    "TextENGNew": "``I'm no specialist in that area either, but... self-harm is a known symptom of certain drug reactions, isn't it?@k@vS09/11/170700036. Well, our old man in forensics will sort that part out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 85317,
+    "TextENGNew": "``Pardon the interruption, Ooishi-san!@k@vS09/19/173100015. A bicycle believed to belong to Jirou Tomitake has been found several hundred meters from here.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'a hundred meters' but Japanese says 数百メートル (several hundred meters).",
+    "changeScore": 4
+  },
+  {
+    "index": 82,
+    "MessageID": 85318,
+    "TextENGNew": "``Oh, is that so? Much appreciated.@k@vS09/11/170700038. Any leads with it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 85319,
+    "TextENGNew": "``Nothing notable at first glance.@k@vS09/19/173100017. Forensics is on it now.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Not yet' (implying ongoing work); JPN 所見では特には means 'nothing particular at first glance.' New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 85320,
+    "TextENGNew": "``Then I suppose we can assume... the location of that bicycle is where the attack took place.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 85321,
+    "TextENGNew": "``...And from there, he fought and fled until he ended up here... ...hmm.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote. Also 'ran away from the suspect' vs 'fought and fled' (戦ったり逃げたり); new correctly includes both fighting and fleeing.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 85322,
+    "TextENGNew": "Ooishi folded his arms and let out a low grunt.",
+    "significantChanges": true,
+    "changeReason": "Old says 'frowned' but Japanese 唸る means 'grunted' -- different physical action.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 85323,
+    "TextENGNew": "Irie stared at the impossible horror of Tomitake's corpse and kept repeating the same words.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 85324,
+    "TextENGNew": "``...It's impossible.@k@vS09/10/171000037. ...Absolutely impossible.``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 85325,
+    "TextENGNew": "``...Doctor, it happened, so clearly it was possible.@k@vS09/11/170700042. Let's try to be flexible in our thinking.@k@vS09/11/170700043_1. ...Well, I suppose even a doctor doesn't see something like this every day...``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 85326,
+    "TextENGNew": "``...You've done enough, Doctor.@k@vS09/11/170700045. Please go home and get some rest.@k@vS09/11/170700046. We'd called you for emergency medical assistance, but it turned out to be a wasted trip. My apologies.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark. Also old starts with 'Anyway, thanks for your cooperation'; JPN starts with もう結構ですよ (you've done enough/that's enough).",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 85327,
+    "TextENGNew": "Ooishi poked his head outside the tarp enclosure and called out, asking if someone could give Dr. Irie a ride home.",
+    "significantChanges": true,
+    "changeReason": "Old says 'blue tent'; JPN says 囲みの外 (outside the enclosure). Also old uses direct quote; new uses indirect narration matching JPN style.",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 85328,
+    "TextENGNew": "At that moment, Irie suddenly started and stepped closer to Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 85329,
+    "TextENGNew": "``Wait... what about Takano-san?@k@vS09/10/171000039. What happened to Takano-san?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 85330,
+    "TextENGNew": "``Hm?@k@vS09/11/170700048. Oh, your nurse?``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 85331,
+    "TextENGNew": "``I believe she was with Tomitake-san.@k@vS09/10/171000041. Is Takano-san safe?!``",
+    "significantChanges": true,
+    "changeReason": "Old uses pronoun 'him'; new uses 'Tomitake-san' matching JPN 富竹さん. Also 'Is she okay?!' vs 'Is Takano-san safe?!' -- new uses name matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 85332,
+    "TextENGNew": "``...Doctor, do you happen to know her phone number?``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 85333,
+    "TextENGNew": "``Of course I do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 85334,
+    "TextENGNew": "``Kuma-chan.@k@vS09/11/170700051. Get her phone number from the doctor and have the station confirm whether she's home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 85335,
+    "TextENGNew": "``Yes sir!@k@vS09/19/173100019. Doctor, the number, please.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Understood'; JPN 了解っす is casual/deferential, new's 'Yes sir!' better captures the subordinate tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 85336,
+    "TextENGNew": "``Yes, um, are you ready?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'here it is' (providing number); JPN よろしいですか means 'are you ready?' (asking if they can write it down). New is accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 101,
+    "MessageID": 85337,
+    "TextENGNew": "Kumagai took the number from Irie, repeated it back to confirm, then dashed out past the blue tarps.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 85338,
+    "TextENGNew": "``Doctor.@k@vS09/11/170700053. ...Takano-san and the deceased were quite close, weren't they?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Tomitake-san' (name); new says 'the deceased' (ホトケ = Buddhist term for deceased), matching the police jargon used in JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 103,
+    "MessageID": 85339,
+    "TextENGNew": "``Yes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 85340,
+    "TextENGNew": "``...Have you ever heard of any trouble between them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 85341,
+    "TextENGNew": "``Absolutely not.@k@vS09/10/171000046. ...Never once.@k@vS09/10/171000047. They were on very good terms.``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 85342,
+    "TextENGNew": "``Well, let's hope nothing's happened to her.@k@vS09/11/170700056. ...Worst case, she's another victim—or she could be the perpetrator.@k@vS09/11/170700057. ...Hmm, come to think of it, a nurse would have ready access to dubious substances, wouldn't she?``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 85343,
+    "TextENGNew": "``...Our clinic doesn't stock anything like that, and even if it did, it would be kept under strict lock and key.@k@vS09/10/171000049. There's no way Takano-san could have taken anything out...``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 85344,
+    "TextENGNew": "``Even so, it would be easier for her than for an ordinary person, wouldn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 85345,
+    "TextENGNew": "``As I keep saying, I've never even heard of such a drug, and nothing of the sort exists at our clinic...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 85346,
+    "TextENGNew": "``Ooishi-san, it seems she's not home.@k@vS09/19/173100021. The standby team at the station says they'll go check in person.@k@vS09/19/173100022. Doctor, if you don't mind, could you give us her address?``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 85347,
+    "TextENGNew": "``Kuma-chan.@k@vS09/11/170700061. On top of that, check with prefectural headquarters whether any unidentified female bodies have turned up tonight.@k@vS09/11/170700062. ...It's possible she could be outside the prefecture, too.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 112,
+    "MessageID": 85348,
+    "TextENGNew": "``Tell the section manager to check with neighboring prefectures as well, see if any unidentified female bodies have turned up.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 113,
+    "MessageID": 85349,
+    "TextENGNew": "``Yes sir!``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 85350,
+    "TextENGNew": "``...Are you saying that Takano-san was... murdered as well...?!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'might be dead' but Japanese 殺されている means 'was murdered' -- different implication.",
+    "changeScore": 4
+  },
+  {
+    "index": 115,
+    "MessageID": 85351,
+    "TextENGNew": "``Well now, n-fu-fu, who can say.@k@vS09/11/170700065. We haven't determined yet whether she's a victim or a suspect.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 116,
+    "MessageID": 85352,
+    "TextENGNew": "``Of course, it's also entirely possible she's unrelated.@k@vS09/11/170700067. Tomorrow's Monday, but she could be out drinking at some bar without a care in the world.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 117,
+    "MessageID": 85353,
+    "TextENGNew": "``...This is unbelievable...@k@vS09/10/171000052. How could something like this happen...?``",
+    "significantChanges": true,
+    "changeReason": "Old asks 'Who does things like this?' (asking about perpetrator); JPN どうしてこんなことが means 'How could something like this happen?' (questioning the event itself). New is accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 85354,
+    "TextENGNew": "``Well, I find it unbelievable too.@k@vS09/11/170700069. The Hinamizawa serial mysterious death cases.@k@vS09/11/170700070. ...This makes five years running.@k@vS09/11/170700071. Five consecutive curses of Oyashiro-sama.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote. Also old paraphrases; new translates the proper name 雛見沢村連続怪死事件 (Hinamizawa Village Serial Mysterious Death Cases).",
+    "changeScore": 3
+  },
+  {
+    "index": 119,
+    "MessageID": 85355,
+    "TextENGNew": "``...Damn it. I want to grab them by the tail this year, no matter what...!@k@vS09/11/170700073. I need to close this case before I retire.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote. Also old says 'get whoever's behind it'; JPN シッポを掴む means 'grab the tail' (catch evidence/leads). New preserves the idiom.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 85356,
+    "TextENGNew": "Ooishi seethed with loathing for 'the curse of Oyashiro-sama' that had toyed with him for five straight years.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 85357,
+    "TextENGNew": "...To Ooishi, the first year's victim—the construction site foreman—had been a friend.",
+    "significantChanges": true,
+    "changeReason": "Old says 'manager'; Japanese 現場監督 means 'foreman.' Also perspective correction.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 85358,
+    "TextENGNew": "Though he longed to avenge that friend, the mystery only deepened with each passing year, and new cases piled up as if to mock him.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 85359,
+    "TextENGNew": "What's more, Ooishi would be reaching mandatory retirement age next March.",
+    "significantChanges": true,
+    "changeReason": "Old says 'retiring'; new specifies 'mandatory retirement age' (定年), distinguishing between voluntary retirement and reaching the mandatory age limit.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 85360,
+    "TextENGNew": "...As a retired officer, he might still be able to inquire about the progress of the investigation, but he would no longer be able to lead it himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 85361,
+    "TextENGNew": "In other words... this year was Ooishi's last chance to avenge his friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 85362,
+    "TextENGNew": "...Was there any choice but to venture into the tiger's den?",
+    "significantChanges": true,
+    "changeReason": "Old uses 'lion's mouth'; JPN 虎穴 means 'tiger's den' (from the proverb 虎穴に入らずんば虎子を得ず). New preserves the correct animal and cultural reference.",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 85363,
+    "TextENGNew": "Ooishi quietly clenched his fist where no one could see.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 85364,
+    "TextENGNew": "I believe.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 85365,
+    "TextENGNew": "I believe this labyrinth has an exit.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'maze'; new uses 'labyrinth' for 迷路. While both are valid, the subsequent philosophical discussion uses 'labyrinth' consistently in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 85366,
+    "TextENGNew": "But the word 'labyrinth' is a terribly convenient one.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 85367,
+    "TextENGNew": "Because a labyrinth, by definition, always has an exit.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 85368,
+    "TextENGNew": "Something without an exit isn't called a labyrinth.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 85369,
+    "TextENGNew": "This time, I'm navigating the small forks I usually overlook without making a single wrong turn.",
+    "significantChanges": true,
+    "changeReason": "Old adds substantial content not in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 134,
+    "MessageID": 85370,
+    "TextENGNew": "This time feels different from all the others.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 85371,
+    "TextENGNew": "Surely, this time, I can finally reach the exit of this labyrinth.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 85372,
+    "TextENGNew": "But... no matter which path I choose to arrive at this point, as if every road inevitably leads back here... Jirou Tomitake dies once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 85373,
+    "TextENGNew": "Rena had been feeling unwell since that day and had often been absent from club activities.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 85374,
+    "TextENGNew": "``...Yeah.@k@vS09/02/170200591. I still have a bit of a cold.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'feverish'; JPN 風邪っぽい means 'cold-like/having a cold.' New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 139,
+    "MessageID": 85375,
+    "TextENGNew": "``...Is that so...@k@vS09/04/170400101. What a shame...``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 85376,
+    "TextENGNew": "``Hey, Rena!@k@vS09/01/170100467. Why don't you just cut loose and have some fun for once?@k@vS09/01/170100468. I bet if you just played with us and got your energy going, it'd blow this whole thing away!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'just try and play with us today'; new captures ぱーっとはしゃぐ (cut loose and have fun) more vividly. Also new includes the narrator's personal opinion (俺は) at the end.",
+    "changeScore": 3
+  },
+  {
+    "index": 141,
+    "MessageID": 85377,
+    "TextENGNew": "``Yeah, yeah, this old man here agrees with that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 85378,
+    "TextENGNew": "``...You think so? You think?``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 85379,
+    "TextENGNew": "``...Sometimes lying around doing nothing only makes it worse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 85380,
+    "TextENGNew": "``Quite right.@k@vS09/04/170400103. They do say illness begins in the mind, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 85381,
+    "TextENGNew": "Everyone had vaguely sensed that what ailed Rena wasn't a cold in the true sense.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 85382,
+    "TextENGNew": "Too many things had happened at once, and the mental shock had simply given her a cold of the heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 85383,
+    "TextENGNew": "That's why we thought if she could just immerse herself in the same carefree chaos we used to share, her spirits would surely recover in no time.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 85384,
+    "TextENGNew": "Rena seemed to understand that, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 85385,
+    "TextENGNew": "She must have known she couldn't stay like this forever—that she needed to pick herself up and reclaim those joyful days.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 85386,
+    "TextENGNew": "``...All right!@k@vS09/02/170200594. I'll join in too!``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 85387,
+    "TextENGNew": "``All right!@k@vS09/03/170300238. That's what I like to hear!``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 85388,
+    "TextENGNew": "``Okay, since Rena's still recovering, let's pick something from the board games today.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark, presenting dialogue as narration.",
+    "changeScore": 2
+  },
+  {
+    "index": 153,
+    "MessageID": 85389,
+    "TextENGNew": "``...What should we play, what should we play...``",
+    "significantChanges": true,
+    "changeReason": "Old is missing the opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 154,
+    "MessageID": 85390,
+    "TextENGNew": "Mion began rummaging through her fourth-dimensional locker, humming as she went.",
+    "significantChanges": true,
+    "changeReason": "Old omits 四次元 (fourth-dimensional) humorous descriptor.",
+    "changeScore": 3
+  },
+  {
+    "index": 155,
+    "MessageID": 85391,
+    "TextENGNew": "Not this one, not that one—she pulled game after game from inside and stacked them to the side.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 85392,
+    "TextENGNew": "That locker clearly defied the laws of physics, though. There was no other explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 85393,
+    "TextENGNew": "The pile of games she'd pulled out plainly exceeded anything that locker should have been able to hold.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 85394,
+    "TextENGNew": "``Oh, look what we've got here.@k@vS09/03/170300242. It's been a while—let's try this one.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 159,
+    "MessageID": 85395,
+    "TextENGNew": "``Today we're going with a real deduction game!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 160,
+    "MessageID": 85396,
+    "TextENGNew": "``Ooh!!@k@vS09/01/170100470. What is it?@k@vS09/01/170100471. Sounds fun!``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 85397,
+    "TextENGNew": "``So, it's a game where you have to figure out the culprit, the murder weapon, and the scene of the crime.@k@vS09/03/170300245. It takes some real brainpower.``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 85398,
+    "TextENGNew": "``...You'll pick it up once you start playing.@k@vS09/05/170500078. As long as you keep organized notes, you'll be fine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 85399,
+    "TextENGNew": "``Oh ho ho!@k@vS09/04/170400105. There's a certain trick to organizing information, you know!@k@vS09/04/170400106. This is precisely the genre where my intellect truly shines!``",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases loosely; new translates more accurately about organizing information.",
+    "changeScore": 3
+  },
+  {
+    "index": 164,
+    "MessageID": 85400,
+    "TextENGNew": "Once he heard the rules, they didn't seem all that difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 85401,
+    "TextENGNew": "In short, it was a game where you probed each other's hands to deduce the identity of the cards that had been drawn and set aside face-down at the start.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 85402,
+    "TextENGNew": "The format differed, but games where you try to identify something hidden with as few moves as possible were common enough.@k This one just put it into a competitive format.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 85403,
+    "TextENGNew": "The key to victory would lie in how well you could organize your information.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 85404,
+    "TextENGNew": "...Normally they all loved to run around and make a ruckus, yet they could handle a game like this just as easily—a reminder that the club members were truly versatile in every way.",
+    "significantChanges": true,
+    "changeReason": "Old completely rewrites the Japanese content about the club's versatility.",
+    "changeScore": 3
+  },
+  {
+    "index": 169,
+    "MessageID": 85405,
+    "TextENGNew": "``All right, all right, now this is getting interesting!!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 170,
+    "MessageID": 85406,
+    "TextENGNew": "``Let's go, let's go!!@k@vS09/01/170100474. Rena, today I'm settling the score from that water gun match once and for all!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote mark.",
+    "changeScore": 2
+  },
+  {
+    "index": 171,
+    "MessageID": 85407,
+    "TextENGNew": "``Is that so?``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote mark. JPN そうだね can mean 'is that so' or 'that's right' -- context-dependent.",
+    "changeScore": 2
+  },
+  {
+    "index": 172,
+    "MessageID": 85408,
+    "TextENGNew": "``Well then, Rena's going all out too!!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote mark. Also old says 'I'm not going to go easy on you'; JPN says レナも本気で行く (Rena is going all out too).",
+    "changeScore": 3
+  },
+  {
+    "index": 173,
+    "MessageID": 85409,
+    "TextENGNew": "``...If Rena is getting serious, then I'll have to get serious too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 85410,
+    "TextENGNew": "``Indeed!@k@vS09/04/170400108. Ever since that water gun incident, I've had to revise my opinion of Keiichi-san and Rena-san.@k@vS09/04/170400109. I shall show no mercy!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 85411,
+    "TextENGNew": "``Ah ha ha ha!@k@vS09/03/170300247. Now that's the spirit!!@k@vS09/03/170300248. This old man was hoping for exactly this kind of fire!@k@vS09/03/170300249. Come on, let's get started!!``",
+    "significantChanges": true,
+    "changeReason": "New translates more of the JPN content including よし！行ってみよー！ as a separate line, preserving Mion's complete dialogue. Old truncates the ending.",
+    "changeScore": 3
+  },
+  {
+    "index": 176,
+    "MessageID": 85412,
+    "TextENGNew": "``Here we go!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote. JPN よし行くぜ means 'All right, let's go!' New is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 177,
+    "MessageID": 85413,
+    "TextENGNew": "``I suggest it was 'Me' with the 'Knife' in the 'Study'!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote. Also old says 'Library'; JPN 書斎 means 'study/den.' New is correct.",
+    "changeScore": 3
+  },
+  {
+    "index": 178,
+    "MessageID": 85414,
+    "TextENGNew": "``Got one!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 179,
+    "MessageID": 85415,
+    "TextENGNew": "``Rena's turn! It was 'Keiichi-kun' with 'Poison' in the 'Entrance Hall'!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote. JPN 玄関ホール means 'entrance hall'; old uses just 'Hall.' New is more specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 180,
+    "MessageID": 85416,
+    "TextENGNew": "``My turn! 'Mion' with the 'Pistol' in the 'Lounge'!``",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 85417,
+    "TextENGNew": "``...Heh heh heh!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 182,
+    "MessageID": 85418,
+    "TextENGNew": "``You're the one holding the 'Pistol' card, aren't you?@k@vS09/03/170300253. A clumsy bluff like that won't work!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 183,
+    "MessageID": 85419,
+    "TextENGNew": "``...I believe I've identified the culprit and the murder weapon.@k@vS09/05/170500081. It's the crime scene that's down to two possibilities.``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 85420,
+    "TextENGNew": "``Hau!@k@vS09/02/170200600. You too, Rika-chan?@k@vS09/02/170200601. I've still got the culprit down to two and can't narrow it further!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'You're good' (compliment) but Japanese means 'You too?' (surprise).",
+    "changeScore": 3
+  },
+  {
+    "index": 185,
+    "MessageID": 85421,
+    "TextENGNew": "``The trick is to glean hints from the questions your opponents ask as well.@k@vS09/04/170400112. Once you understand that, sometimes you can find the answer through their very moves!``",
+    "significantChanges": true,
+    "changeReason": "Old adds 'I'll give you a tip' not in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 186,
+    "MessageID": 85422,
+    "TextENGNew": "``I-I see!@k@vS09/01/170100478. Damn, I underestimated this!@k@vS09/01/170100479. ...Crap, my notes are such a mess I can't make sense of them anymore!``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 85423,
+    "TextENGNew": "``Ahahahaha!@k@vS09/03/170300255. Once you figure out the trick to taking notes, you've already mastered seventy percent of this game.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 188,
+    "MessageID": 85424,
+    "TextENGNew": "``Though seventy percent still won't be enough to beat this old man!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 189,
+    "MessageID": 85425,
+    "TextENGNew": "At first it felt like a game where victory was out of reach, but gradually he began to get the hang of it.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 190,
+    "MessageID": 85426,
+    "TextENGNew": "Looking over, Rena seemed to be regaining her usual energy as she played.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 85427,
+    "TextENGNew": "It really had been the right call to coax her into joining, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 85428,
+    "TextENGNew": "While they were happily playing away, Chie-sensei suddenly appeared.",
+    "significantChanges": true,
+    "changeReason": "Old uses first-person narration but Japanese uses third-person (Ooishi's perspective).",
+    "changeScore": 3
+  },
+  {
+    "index": 193,
+    "MessageID": 85429,
+    "TextENGNew": "``You all look like you're having fun.@k@vS09/22/171400005. By the way, is Ryuugu-san here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 85430,
+    "TextENGNew": "``Hau?``",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 85431,
+    "TextENGNew": "``Ryuugu-san has a visitor.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'You have a visitor' (speaking to Rena directly); JPN 竜宮さんにお客様が来ています uses Ryuugu-san's name, suggesting she's speaking to the group. New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 196,
+    "MessageID": 85432,
+    "TextENGNew": "Everyone blinked in surprise.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 85433,
+    "TextENGNew": "...Occasionally a parent would come to school, but when that happened, the teacher never called them a 'visitor.'",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 85434,
+    "TextENGNew": "So this was truly something unusual.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 85435,
+    "TextENGNew": "``...I wonder who it could be.@k@vS09/02/170200604. I'll go see. Be right back.@k@vS09/02/170200605. Everyone, keep playing without me!``",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 85436,
+    "TextENGNew": "Rena trotted off out of the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 85437,
+    "TextENGNew": "``...What should we do?@k@vS09/01/170100481. Wait for her?``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 85438,
+    "TextENGNew": "``Hmm, we don't know how long it'll take.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 203,
+    "MessageID": 85439,
+    "TextENGNew": "``Rena did say to keep going.@k@vS09/03/170300259. So let's continue!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 204,
+    "MessageID": 85440,
+    "TextENGNew": "``````Yeaaah!!``````",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 85441,
+    "TextENGNew": "The entrance hall was painted in sharp contrasts of blazing sunlight and cool shadow.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 85442,
+    "TextENGNew": "Waiting there amid the heat was a middle-aged man, jacket tucked under one arm, tie loosened sloppily.",
+    "significantChanges": true,
+    "changeReason": "Old says 'old man'; JPN says 中年のおっさん (middle-aged man). New is correct.",
+    "changeScore": 3
+  },
+  {
+    "index": 207,
+    "MessageID": 85443,
+    "TextENGNew": "``Are you Ryuugu-san?@k@vS09/11/170700075. Reina Ryuugu-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 85444,
+    "TextENGNew": "Ever since Rina had called me Reina, I'd come to loathe my real name even more. So right from the start, I didn't have a good impression of this stranger.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 85445,
+    "TextENGNew": "``That's right.@k@vS09/02/170200607. ...And you are?``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 85446,
+    "TextENGNew": "``My car has air conditioning, so let's talk in there.@k@vS09/11/170700077. Isn't it hot here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 85447,
+    "TextENGNew": "The man casually ignored my question, pointed toward a car parked at the school gate, and strode off.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 85448,
+    "TextENGNew": "...If this were a normal conversation, he would have just used the teachers' office.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 85449,
+    "TextENGNew": "The fact that he wanted to talk in the privacy of his own car only deepened my suspicion.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 85450,
+    "TextENGNew": "But Chie-sensei had let him through to see me.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 85451,
+    "TextENGNew": "Which meant that, as far as she was concerned, this man wasn't suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 85452,
+    "TextENGNew": "...Who on earth was he...?",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 85453,
+    "TextENGNew": "``I'm not going to eat you.@k@vS09/11/170700079. Please, right this way.``",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 85454,
+    "TextENGNew": "He held the rear door of the car open, beckoning me inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 85455,
+    "TextENGNew": "...Could this man be... police...?",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 85456,
+    "TextENGNew": "Could it be that... my killing Rina and the others... had come to the police's attention...?",
+    "significantChanges": true,
+    "changeReason": "Old says 'those two'; new specifies 'Rina and the others' matching JPN リナたち. Also different phrasing captures different urgency.",
+    "changeScore": 3
+  },
+  {
+    "index": 221,
+    "MessageID": 85457,
+    "TextENGNew": "A wave of dark suspicion surged through my mind.",
+    "significantChanges": true,
+    "changeReason": "Old translates 疑心暗鬼 as 'anxious'; JPN 疑心暗鬼 specifically means 'dark suspicion/paranoia.' New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 222,
+    "MessageID": 85458,
+    "TextENGNew": "...Was this what they called being asked to come in 'voluntarily' for questioning?",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 85459,
+    "TextENGNew": "...I wanted nothing to do with this, but refusing here would only make me look worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 85460,
+    "TextENGNew": "I steeled myself... and got into the car.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 85461,
+    "TextENGNew": "The interior really was cool.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 85462,
+    "TextENGNew": "A car air conditioner must be quite the luxury.@k My father's car certainly didn't have one.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 85463,
+    "TextENGNew": "``Let me know if it's too cold, all right?@k@vS09/11/170700081. I tend to crank it up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 85464,
+    "TextENGNew": "``So, what is it you want with me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 85465,
+    "TextENGNew": "Returning the favor, I ignored his question and cut straight to the point, just as he had done.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 85466,
+    "TextENGNew": "The man pulled a small notebook from his breast pocket, flipped through the pages, and extracted a single photograph tucked inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 85467,
+    "TextENGNew": "In it was the face of a man... with a vacant, drowsy expression.",
+    "significantChanges": true,
+    "changeReason": "Old translates 寝ぼけたような as 'goofy-looking'; JPN means 'drowsy/half-asleep-looking.' New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 232,
+    "MessageID": 85468,
+    "TextENGNew": "``If there's anything you know about this man, please tell me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 85469,
+    "TextENGNew": "The man in the photograph wore a blank, half-asleep look.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 85470,
+    "TextENGNew": "An expressionless photo can sometimes be unrecognizable even to family members.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 85471,
+    "TextENGNew": "...Let alone to someone unrelated like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 85472,
+    "TextENGNew": "...Inwardly, I felt a small measure of relief.@k ...This had nothing to do with Rina and the others.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 85473,
+    "TextENGNew": "``There were scribbles on his shirt done in marker.@k@vS09/11/170700084. It bore the signatures of several students, including yours, Ryuugu-san.``",
+    "significantChanges": true,
+    "changeReason": "New includes マジック (marker/Sharpie) which old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 238,
+    "MessageID": 85474,
+    "TextENGNew": "``...Wait... is this... Tomitake-san?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 85475,
+    "TextENGNew": "That usual air of his—somewhat unreliable yet breezy—was completely absent from this photograph.@k A drowsy, emotionless face...",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 85476,
+    "TextENGNew": "``And do you recognize this woman?``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 85477,
+    "TextENGNew": "Even before looking, I had a feeling I already knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 85478,
+    "TextENGNew": "``...That's Miyo-san.@k@vS09/02/170200611. Miyo Takano-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 85479,
+    "TextENGNew": "``When was the last time you saw either of them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 85480,
+    "TextENGNew": "``I think it was just after the Watanagashi festival ended.``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 85481,
+    "TextENGNew": "``Did you notice anything unusual?@k@vS09/11/170700088. Anything at all.@k@vS09/11/170700089. Please tell me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 85482,
+    "TextENGNew": "``Did... something happen to Tomitake-san and the others?``",
+    "significantChanges": true,
+    "changeReason": "Old uses pronoun 'them'; new specifies 'Tomitake-san and the others' matching JPN 富竹さんたち.",
+    "changeScore": 3
+  },
+  {
+    "index": 247,
+    "MessageID": 85483,
+    "TextENGNew": "``Yes!!@k@|@y@vS09/01/170100484. I got it!!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 248,
+    "MessageID": 85484,
+    "TextENGNew": "``To tell you the truth, I was torn between 'Rena' and 'Mion'.``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 249,
+    "MessageID": 85485,
+    "TextENGNew": "``So it was a gamble?!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing closing quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 250,
+    "MessageID": 85486,
+    "TextENGNew": "``...What a reckless thing to do...!``",
+    "significantChanges": true,
+    "changeReason": "Old is missing opening quote.",
+    "changeScore": 2
+  },
+  {
+    "index": 251,
+    "MessageID": 85487,
+    "TextENGNew": "``...A win is still a win.``",
+    "significantChanges": true,
+    "changeReason": "Old expands to two sentences with added meaning; JPN 勝ちは勝ち simply means 'a win is a win.' New is accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 252,
+    "MessageID": 85488,
+    "TextENGNew": "``Oh, it's Rena.@k@vS09/03/170300261. Welcome back!@k@vS09/03/170300262. That took a while, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 85489,
+    "TextENGNew": "Mion noticed that Rena had come back.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 85490,
+    "TextENGNew": "Rena looked utterly exhausted.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 85491,
+    "TextENGNew": "...I had no idea what that conversation had been about, but whatever it was, it clearly hadn't been pleasant.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 85492,
+    "TextENGNew": "``Rena... are you okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 85493,
+    "TextENGNew": "``...Huh?@k@vS09/02/170200615. What do you mean, okay?@k@vS09/02/170200616. Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 85494,
+    "TextENGNew": "``I mean your face.@k@vS09/03/170300265. You're either blue or white.@k@vS09/03/170300266. ...Are you really all right?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm talking about you. You look pale'; new says 'I mean your face. You're either blue or white' matching JPN 顔色だよ。青いというか白いというか (your complexion—blue or white). New is more specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 259,
+    "MessageID": 85495,
+    "TextENGNew": "Rena tried to insist she was fine, but her expression darkened for just an instant before she said she'd leave early after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 85496,
+    "TextENGNew": "...Maybe we shouldn't have pushed her into joining club activities after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 85497,
+    "TextENGNew": "I felt a pang of regret.@k Rena had probably been forcing herself to go along with us despite not feeling well.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 85498,
+    "TextENGNew": "Rena packed her things into her bag, apologized for ducking out early, and left the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 85499,
+    "TextENGNew": "``Well, it can't be helped.@k@vS09/04/170400117. ...Then at the very least, let us settle things amongst ourselves!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'she's gone now' not in the Japanese; Japanese says 'it can't be helped.'",
+    "changeScore": 3
+  },
+  {
+    "index": 264,
+    "MessageID": 85500,
+    "TextENGNew": "``You're right!@k@vS09/03/170300268. Now, whose turn was it again?``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 85501,
+    "TextENGNew": "``...Mii!``",
+    "significantChanges": true,
+    "changeReason": "Old translates みー as 'Meep!'; new keeps it as 'Mii!' which is Rika's signature sound.",
+    "changeScore": 1
+  },
+  {
+    "index": 266,
+    "MessageID": 85502,
+    "TextENGNew": "``All right, Rika-chan!@k@vS09/01/170100487. Bring it on!!!``",
+    "significantChanges": false
+  }
+]

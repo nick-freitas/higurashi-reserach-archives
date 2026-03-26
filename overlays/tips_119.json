@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Reception Desk Memo",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Receptionist's Note\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15910,
+    "TextENGNew": "No.@k@rDate:      Year:",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15911,
+    "TextENGNew": "Subject: Regarding Satoko Houjou-san.@k@rVisitor: Keiichi Maebara and four others (Relation: Friends).",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15912,
+    "TextENGNew": "- Visitors claim there are problems in Satoko Houjou-san's household and request that a caseworker be dispatched.@k (Already being handled?)",
+    "significantChanges": true,
+    "changeReason": "Old explicitly mentions 'abuse by uncle' and requests 'protection' but Japanese only states household problems.",
+    "changeScore": 4
+  },
+  {
+    "index": 4,
+    "MessageID": 15913,
+    "TextENGNew": "- The refrigerator will be cleaned out, so please remove personal items by this evening.",
+    "significantChanges": false
+  }
+]

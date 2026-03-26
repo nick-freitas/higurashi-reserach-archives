@@ -1,0 +1,1832 @@
+[
+  {
+    "index": 1,
+    "MessageID": 101940,
+    "TextENGNew": "``Well now, it's rare for you to visit the clinic on any day other than Sunday, Rika-chan.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Rika-chan' and 'clinic' from the Japanese, and changes 'surprised' to 'rare' matching JPN 珍しい; conveys a different, more faithful tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 101941,
+    "TextENGNew": "``......I have something I want to ask Takano.@k@vS12/05/180500310. Is she here today?``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 101942,
+    "TextENGNew": "``No, she's out.@k@vS12/10/181000066. She's probably on a date with Risa-san.@k@vS12/10/181000067. She might not be back for a while.``",
+    "significantChanges": true,
+    "changeReason": "The last sentence changes from 'I wish I had a date too' (matching JPN お羨ましい 'how enviable') to 'She might not be back for a while,' which conveys entirely different information.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 101943,
+    "TextENGNew": "``...Why 'Risa'?@k@vS12/05/180500312. That's a strange name.``",
+    "significantChanges": true,
+    "changeReason": "Old 'I don't understand' is vague; new 'That's a strange name' more accurately targets the name itself, matching JPN よくわからない名前 ('a name I don't understand').",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 101944,
+    "TextENGNew": "``Ha ha ha. You should ask him yourself.@k@vS12/10/181000069. It was a small mistake I made when we first met.@k@vS12/10/181000070. It was funny how he reacted.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 101945,
+    "TextENGNew": "I didn't follow.@k But I suppose that's how nicknames work.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 101946,
+    "TextENGNew": "``What did you want to talk to her about?@k@vS12/10/181000072. I'll see her at the meeting tonight, so I'll take a message if you want.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 101947,
+    "TextENGNew": "``...Thank you very much.@k@vS12/05/180500314. But I'd rather talk to her directly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 101948,
+    "TextENGNew": "``I see. Alright.@k@vS12/10/181000074. I should get back to my work now, then.``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 101949,
+    "TextENGNew": "``Are you not seeing any patients today...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 101950,
+    "TextENGNew": "``I've been busy with paperwork for the meeting tonight.@k@vS12/10/181000076. I've been preparing it for a while, but I didn't have enough time.@k@vS12/10/181000077. I'll get in trouble if it's not finished in time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 101951,
+    "TextENGNew": "``......Aren't you busy coaching the baseball team too? You have so much energy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 101952,
+    "TextENGNew": "``Ha ha ha. I'm such a busy guy.@k@vS12/10/181000079. I've been looking for a cute maid who would take care of the chores and help me with other work, but I've had no such luck.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 101953,
+    "TextENGNew": "He said this with a laugh, then made a pointed gesture of glancing at his watch.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the deliberate 'gesture of looking at his watch' (仕草) from the Japanese, conveying Irie's intentional hint rather than simply looking at his watch.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 101954,
+    "TextENGNew": "A clear signal that he couldn't spare much time.",
+    "significantChanges": true,
+    "changeReason": "Old 'He seemed to be in a hurry' misses the deliberate signaling (アピール) in the Japanese; new 'A clear signal that he couldn't spare much time' is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 101955,
+    "TextENGNew": "``......Do you have any idea where Takano is right now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 101956,
+    "TextENGNew": "``They're probably going around to different places in the village.@k@vS12/10/181000081. I know that they always meet at the shrine.@k@vS12/10/181000082. She left not too long ago, so she might still be somewhere near there...``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 101957,
+    "TextENGNew": "I glanced up at the wall clock in surprise.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'in surprise' matching JPN びっくりして, which the old translation omits entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 101958,
+    "TextENGNew": "...So Takano and I had just missed each other.",
+    "significantChanges": true,
+    "changeReason": "New translation explicitly names Takano (present in JPN) and uses 'missed each other' matching 入れ違い, while old vaguely says 'missed her.'",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 101959,
+    "TextENGNew": "This was no time to be standing around chatting.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 101960,
+    "TextENGNew": "``......Thank you very much.@k@vS12/05/180500319. I'll try the shrine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 101961,
+    "TextENGNew": "``They only get to see each other four times a year, so I wouldn't interrupt if I were you~``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 101962,
+    "TextENGNew": "He said this with a mischievous grin and waved me off with a cheery goodbye.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 101963,
+    "TextENGNew": "I returned to the shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 101964,
+    "TextENGNew": "I went to park my bicycle in the usual spot by the stairs leading up to the shrine grounds.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'the usual spot' matching JPN いつもの駐輪場所, specifying it as the habitual parking location.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 101965,
+    "TextENGNew": "That normally lonely spot where only Satoko's and my bicycles stood now had about ten bikes parked in it.",
+    "significantChanges": true,
+    "changeReason": "Old says 'more than ten bikes' while JPN 10台くらい means 'about ten'; new correctly translates this and captures 寂しい ('lonely spot').",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 101966,
+    "TextENGNew": "They probably belonged to people attending a meeting at the assembly hall.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 101967,
+    "TextENGNew": "With Watanagashi approaching, meetings grew more frequent, and the bicycle parking area became correspondingly livelier.",
+    "significantChanges": true,
+    "changeReason": "New translation includes the detail about the bicycle parking area becoming livelier (自転車もまた賑わう), which the old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 101968,
+    "TextENGNew": "Sensing summer's approach through the bustling bicycle rack -- there was a quiet charm in that.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the reflective tone of 乙なものだった ('there was a quiet charm in that'), while old simply states a reminder about summer.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 101969,
+    "TextENGNew": "Most of the ten bicycles were weathered, rickety things, but among them sat two conspicuously different ones that I'd never seen before.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'conspicuously different' matching JPN 明らかに目立つ ('clearly standing out'), which the old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 101970,
+    "TextENGNew": "They were sporty mountain bikes with the same design but different colors.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 101971,
+    "TextENGNew": "They must belong to Takano and Tomitake.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 101972,
+    "TextENGNew": "I went up the stairs to look for the two of them, but I couldn't find either.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 101973,
+    "TextENGNew": "Was there any place with a great view for taking pictures...?",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 101974,
+    "TextENGNew": "I tried looking in places like that, but I still couldn't find them.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 101975,
+    "TextENGNew": "So I started looking based on what Takano might be interested in.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 101976,
+    "TextENGNew": "I could only think of one place.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 101977,
+    "TextENGNew": "``How is it?@k@vS12/09/180900041. Jirou-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 101978,
+    "TextENGNew": "``Mm...@k@vS12/08/180800002. It's a pretty simple lock.@k@vS12/08/180800003. All I need is the right tool. I should be able to open it in a minute.``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 101979,
+    "TextENGNew": "``You can do that?@k@vS12/09/180900043. You opened the lock to my heart, but that's not the only thing you're good at, huh?@k@vS12/09/180900044. Hee hee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 101980,
+    "TextENGNew": "``......I'm going to cuuuuurse youuuuu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 101981,
+    "TextENGNew": "The two of them jumped in surprise as I suddenly appeared in front of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 101982,
+    "TextENGNew": "``Hello, Rika-chan.@k@vS12/09/180900046. It wasn't nice of you to scare us like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 101983,
+    "TextENGNew": "``......It's not nice to try and open the ritual storehouse's lock either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 101984,
+    "TextENGNew": "``Ahahahahaha... She's right, Takano-san.@k@vS12/08/180800005. We can't do something like that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 101985,
+    "TextENGNew": "Tomitake conceded right away, but Takano was stubborn.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 101986,
+    "TextENGNew": "She made up excuses to try and fool me.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 101987,
+    "TextENGNew": "Based on my previous lives, I knew just how much interest she had in this storehouse.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 101988,
+    "TextENGNew": "It was actually rather impressive how hard she tried to cover that up.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 101989,
+    "TextENGNew": "The ritual storehouse is full of the remainder of the dark history of Onigafuchi.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 101990,
+    "TextENGNew": "It contains bloody and vicious tools that Takano is fascinated with.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 101991,
+    "TextENGNew": "She should have a good idea as to what those things are inside of this storehouse, based on what she has been researching.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 101992,
+    "TextENGNew": "She was making up some story about cultural treasures and such, but it was obvious that she was just making excuses.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 101993,
+    "TextENGNew": "Tomitake also seemed impressed, listening to Takano's phony justifications.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 101994,
+    "TextENGNew": "In the past, I've tried to conceal what was inside of this storehouse from Takano because I don't want her spreading information about the holy and brutal traditions they used to have in Onigafuchi Village.@k It would be a disgrace.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 101995,
+    "TextENGNew": "As a member of the Furude family, I can't let that happen.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 101996,
+    "TextENGNew": "Looking at the history of Onigafuchi in the way Takano does is a painful thing for Hanyuu as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 101997,
+    "TextENGNew": "For Hanyuu, the ritual storehouse is a special place.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 101998,
+    "TextENGNew": "I don't know what's so nice about being surrounded by those scary ritual tools,@k but she feels cozy when she's surrounded by the smell of old times.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 101999,
+    "TextENGNew": "This storage is like Hanyuu's hideout.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 102000,
+    "TextENGNew": "When I can't see her, she's usually relaxing in here.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 102001,
+    "TextENGNew": "I don't want Hanyuu's happy place to be turned into the bloody, horrifying den of evil Takano believes it to be.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 102002,
+    "TextENGNew": "That's why I've been keeping Takano away from the ritual storehouse.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 102003,
+    "TextENGNew": "...Come to think of it, why am I so mean to her?",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 102004,
+    "TextENGNew": "Is it because I hate her?",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 102005,
+    "TextENGNew": "I should stop feeling that way.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 102006,
+    "TextENGNew": "I have to keep in close contact with Takano and Tomitake.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 102007,
+    "TextENGNew": "I won't give up just because it didn't work before.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 102008,
+    "TextENGNew": "I'm going to try one more time.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 102009,
+    "TextENGNew": "This world is different from the other ones.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 102010,
+    "TextENGNew": "I might be able to change their fate, which in turn might change my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 102011,
+    "TextENGNew": "``Hanyuu.@k@vS12/05/180500323. ......I'm thinking about showing the ritual storehouse to Takano...``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 102012,
+    "TextENGNew": "``.........Au au.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 102013,
+    "TextENGNew": "Hanyuu made an irritated face.@k Takano will lose herself in ecstasy if she sees what's inside of there.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 102014,
+    "TextENGNew": "She'll run around spreading rumors of the bloody history of Onigafuchi.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 102015,
+    "TextENGNew": "Hanyuu wasn't too excited about that prospect.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 102016,
+    "TextENGNew": "``I'm not trying to curry favor with Takano.@k@vS12/05/180500325. But I think it might give me a chance to talk to her.@k@vS12/05/180500326. Takano holds onto grudges, so if I'm mean to her now, she might not listen to me later.``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 102017,
+    "TextENGNew": "``Au au au...``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 102018,
+    "TextENGNew": "I understand that Hanyuu doesn't want her inside this holy place.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 102019,
+    "TextENGNew": "But she can't do anything more than be irritated about it.@k I'm the only one who can make the ultimate decision.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 102020,
+    "TextENGNew": "Besides, she'll forgive me if I promise to eat something sweet later.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 102021,
+    "TextENGNew": "``......Takano.@k@vS12/05/180500328. If you will keep a secret, I'll let you in.``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 102022,
+    "TextENGNew": "``R-Really...?!@k@vS12/09/180900048. Inside the ritual storehouse?@k@vS12/09/180900049. You don't mean inside an emergency shelter, right?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 102023,
+    "TextENGNew": "``......I mean it.@k@vS12/05/180500330. I'll let you into the ritual storehouse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 102024,
+    "TextENGNew": "``You mean this storehouse?!@k@vS12/09/180900051. Inside of this building?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 102025,
+    "TextENGNew": "``......I'm not trying to trick you or anything.@k@vS12/05/180500332. I'll let you inside.@k@vS12/05/180500333. Nipah~☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 102026,
+    "TextENGNew": "``N... Nipah――@r丶（＞▽＜）ノ――!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 102027,
+    "TextENGNew": "I had never seen such a big smile on her face before.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 102028,
+    "TextENGNew": "...Now this is a miracle. I'm seeing this face for the first time in a hundred years...",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 102029,
+    "TextENGNew": "Tomitake must be feeling the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 102030,
+    "TextENGNew": "His image of Takano was slowly falling apart as we spoke, I'm sure.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 102031,
+    "TextENGNew": "...No, maybe he just found a new side of her to love, instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 102032,
+    "TextENGNew": "``......I'm surprised that Takano is actually such a funny person.``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 102033,
+    "TextENGNew": "``Communication is important.@k@vS12/05/180500335. It's sometimes so hard to tell what people are all about...``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 102034,
+    "TextENGNew": "We remained there and watched Takano spinning in delight for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 102035,
+    "TextENGNew": "``......This is a secret, so no one can see us going inside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 102036,
+    "TextENGNew": "``Ah, aah, you're right.@k@vS12/08/180800007. I'll try and calm her down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 102037,
+    "TextENGNew": "``......I'll go get the keys now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 102038,
+    "TextENGNew": "By the time I came back with the key, Takano was totally calm again.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 102039,
+    "TextENGNew": "She was obviously trying to hide how gleeful she was, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 102040,
+    "TextENGNew": "I thought she was a mature lady, but she might still be a kid at heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 102041,
+    "TextENGNew": "I think they called that something like 'gap moe'.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 102042,
+    "TextENGNew": "I picked that term up at some point from Keiichi, but I'm still not sure how it's used...",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 102043,
+    "TextENGNew": "``......Well then, Takano and Tomitake.@k@vS12/05/180500339. Before we go inside, you must promise me something.@k@vS12/05/180500340. Otherwise, you can't go in.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 102044,
+    "TextENGNew": "``Of course.@k@vS12/09/180900054. You're willing to break the rules to open the forbidden storehouse for us.@k@vS12/09/180900055. We'll keep our promises.@k@vS12/09/180900056. Hee hee hee hee hee hee!``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 102045,
+    "TextENGNew": "``Takano-san, you have to take this seriously...``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 102046,
+    "TextENGNew": "``I am taking it seriously!@k@vS12/09/180900058. Hee hee hee hee hee hee...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 102047,
+    "TextENGNew": "``My image of Takano is falling to pieces right now...``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 102048,
+    "TextENGNew": "``Same here...@k@vS12/05/180500342. Her market is crashing all over the world...``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 102049,
+    "TextENGNew": "Rena said it before...",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 102050,
+    "TextENGNew": "It's not a good idea to think about problems all on your own...",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 102051,
+    "TextENGNew": "I always hated the crazy part of Takano, and I didn't want to be close to her...",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 102052,
+    "TextENGNew": "But I never thought she could act this way...",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 102053,
+    "TextENGNew": "She was acting almost like Rena does when in her Kyute Mode.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 102054,
+    "TextENGNew": "Had I known that she was as funny a person as this, I wouldn't have felt resentment toward her.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 102055,
+    "TextENGNew": "I realize how important communicating can be...",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 102056,
+    "TextENGNew": "``......First of all, you have to promise you won't tell anybody that you went inside the storehouse.@k@vS12/05/180500344. Don't tell anyone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 102057,
+    "TextENGNew": "``Of course I won't. I'll promise.``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 102058,
+    "TextENGNew": "Takano put her hands to her chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 102059,
+    "TextENGNew": "She also forced Tomitake to do the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 102060,
+    "TextENGNew": "It was funny to watch Tomitake trying to keep up with Takano too.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 102061,
+    "TextENGNew": "``Also, you can't damage anything inside the storehouse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 102062,
+    "TextENGNew": "``Of course not.@k@vS12/09/180900061. Is it okay if I take pictures?``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 102063,
+    "TextENGNew": "``......Meep.@k@vS12/05/180500347. You can, but I'll charge a hundred yen per picture.``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 102064,
+    "TextENGNew": "``Whaaaat?!",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 102065,
+    "TextENGNew": "How much money do you have on you right now, Jirou-san?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 102066,
+    "TextENGNew": "``If you pay me 10,000 yen, you can take all the photos you want.``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 102067,
+    "TextENGNew": "``That's a good deal!!",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 102068,
+    "TextENGNew": "I'll take it!!",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 102069,
+    "TextENGNew": "Jirou-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 102070,
+    "TextENGNew": "They paid me the money for real...",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 102071,
+    "TextENGNew": "Hanyuu seemed excited, knowing that the money could be used for buying desserts.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 102072,
+    "TextENGNew": "``Au au au☆@k@vS12/12/181100102. Takano is such a nice person...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 102073,
+    "TextENGNew": "``You're so greedy...``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 102074,
+    "TextENGNew": "I finally got approval from ``Oyashiro-sama``, the master of the storehouse.@k We'd have no more problems now.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 102075,
+    "TextENGNew": "The ritual storehouse is behind the building with the convention room.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 102076,
+    "TextENGNew": "Sometimes, people come out for a cigarette break.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 102077,
+    "TextENGNew": "I can't let anybody see us entering.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 102078,
+    "TextENGNew": "``......You're good.@k@vS12/08/180800010. No one is around.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 102079,
+    "TextENGNew": "Tomitake checked out the scene and gave me the signal to go ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 102080,
+    "TextENGNew": "I nodded at him and unlocked the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 102081,
+    "TextENGNew": "I pushed open the heavy door just far enough for us to sneak inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 102082,
+    "TextENGNew": "``......It'll look suspicious if you wait outside like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 102083,
+    "TextENGNew": "``What?@k@vS12/08/180800012. I can come inside too...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 102084,
+    "TextENGNew": "He seemed surprised that I was asking him to come inside with us.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 102085,
+    "TextENGNew": "Tomitake, of course, wasn't particularly interested in what was inside the storehouse.@k I expected his surprised reaction.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 102086,
+    "TextENGNew": "``Jirou-san!@k@vS12/09/180900068. Rika-chan is telling you to come inside!@k@vS12/09/180900069. Come on now!``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 102087,
+    "TextENGNew": "``A-All right...``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 102088,
+    "TextENGNew": "Tomitake squeezed inside as Takano urged him.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 102089,
+    "TextENGNew": "I turned the light on and closed the door.@k Then I put the chain on from inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 102090,
+    "TextENGNew": "``You're locking us in...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 102091,
+    "TextENGNew": "``Just so that a bad kitty cat won't sneak inside, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 102092,
+    "TextENGNew": "``Hee hee, are you talking about me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 102093,
+    "TextENGNew": "``......Takano, a cat is supposed to go all 'meow, meow'...@k@vS12/05/180500353. Nipah~☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 102094,
+    "TextENGNew": "``What do you mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 102095,
+    "TextENGNew": "``......If you don't act like a cat, I'm not going to let you see what's in here.@k@vS12/05/180500355. I brought cat ears and a collar with a bell for you too.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 102096,
+    "TextENGNew": "If you don't put them on, get on all fours, and meow, then I won't open the next door.``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 102097,
+    "TextENGNew": "The shrine storehouse has two doors so that people can't see inside when the first door is opened.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 102098,
+    "TextENGNew": "At the moment, we were inside the entry chamber.@k The real storehouse is in the room beyond.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 102099,
+    "TextENGNew": "``W-Whaat?!",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 102100,
+    "TextENGNew": "Ah, ahahaha, that's a bad joke, Rika-chan...!@k@vS12/08/180800016. You wouldn't really...``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 102101,
+    "TextENGNew": "``Huh? What the hell. I'll do it if I have to!",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 102102,
+    "TextENGNew": "You're testing me to see how devoted I am to my research, aren't you, Rika-chan?!",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 102103,
+    "TextENGNew": "Fine! If that's what you want, then I'll wear cat ears, bloomers, and a tail, crawl on all on fours before an empty milk bowl, and beg, 'Please let me drink your milk, Master!!'``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 102104,
+    "TextENGNew": "``She definitely would've joined our club if she was around our age...``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 102105,
+    "TextENGNew": "``I agree...@k@vS12/05/180500358. Hey, remember how they said shredded stocks fell like snow on Wall Street during the Great Crash?@k@vS12/05/180500359. Takano's value right now reminds me of that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 102106,
+    "TextENGNew": "``Bring it on, Rika-chan!@k@vS12/09/180900077. Are you sure I only have to wear the ears and the collar?``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 102107,
+    "TextENGNew": "``Uh... Umm, Takano-san?@k@vS12/08/180800018. This door isn't even locked...@k@vS12/08/180800019. See, push and it opens.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 102108,
+    "TextENGNew": "``R-Really?!@k@vS12/09/180900079. Hee hee hee, my dear, how shameful of me...@k@vS12/09/180900080. Hee hee hee hee hee...``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 102109,
+    "TextENGNew": "``Tsk...``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 102110,
+    "TextENGNew": "Tomitake has no sense of humor!@k He just turned off a lot of viewers who were looking forward to seeing Takano in the cat outfit.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 102111,
+    "TextENGNew": "``Anyway, he's right. You just have to push it.@k@vS12/05/180500362. Nipah~☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 102112,
+    "TextENGNew": "Once we went through the door, we found ourselves inside the storage area.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 102113,
+    "TextENGNew": "There were no windows in there, so it was completely dark, even during the day.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 102114,
+    "TextENGNew": "There were several light bulbs hanging from the ceiling, but they were dim, and their light only exaggerated the darkness inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 102115,
+    "TextENGNew": "Oyashiro-sama's statue and the altar dominated the center of the room.@k They were surrounded by tons of ancient torture implements.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 102116,
+    "TextENGNew": "They were all over the floor, walls, and ceiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 102117,
+    "TextENGNew": "``This... is... ...amazing... hahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 102118,
+    "TextENGNew": "Tomitake was rendered speechless.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 102119,
+    "TextENGNew": "They were nothing like those fake torture implements that they might have seen in a wax museum or someplace like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 102120,
+    "TextENGNew": "The tools in this room are the genuine articles.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 102121,
+    "TextENGNew": "These authentic tools always have a big impact on the people who see them.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 102122,
+    "TextENGNew": "But Tomitake was the only one who was shocked, since he was the only normal person in the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 102123,
+    "TextENGNew": "Takano's eyes were sparkling. She was taking pictures while meowing like a cat.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 102124,
+    "TextENGNew": "This place... isn't special to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 102125,
+    "TextENGNew": "Of course, I know I'm supposed to treat it as a holy place, but...",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 102126,
+    "TextENGNew": "I'm so used to seeing all these things after coming here countless times since I was little.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 102127,
+    "TextENGNew": "To me, it's nothing but a storehouse with a lot of old stuff inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 102128,
+    "TextENGNew": "As for Hanyuu, she says it's the only place the air from times past lingers in this present day, so she actually finds it comforting.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 102129,
+    "TextENGNew": "I get in a good mood when I come here, because Hanyuu gets in a good mood.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 102130,
+    "TextENGNew": "This is a relaxing place for her...",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 102131,
+    "TextENGNew": "As I watched Tomitake's reaction, I notice how totally off my values are from normal people's.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 102132,
+    "TextENGNew": "Takano's reaction seemed more natural to me, in a sense.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 102133,
+    "TextENGNew": "Hanyuu seemed to be bothered by Tomitake's reaction too.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 102134,
+    "TextENGNew": "Maybe it was a bad idea to let him come inside after all.@k Not like I could kick him out at this point...",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 102135,
+    "TextENGNew": "Hanyuu and I sat on a cushion in front of the altar, and watched Takano dance with childish glee while Tomitake made touching efforts to keep up.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 102136,
+    "TextENGNew": "At any rate, as if he thought that keeping quiet would make him more frightening, Tomitake had been asking Takano next to him about the unusual shaped tools he had found earlier.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 102137,
+    "TextENGNew": "...Each time she was in a good mood and excited, she told him about its cruel uses and the backstory colored by blood and darkness, which made him shiver even more, which was funny and I never got tired of watching it.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 102138,
+    "TextENGNew": "Tomitake acted like he's having a conversation with Takano, but his voice was obviously unsteady.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 102139,
+    "TextENGNew": "And Takano knew it, too, and seemed to be enjoying his reaction, occasionally teasing him with a bewitching smile and sending him streaming eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 102140,
+    "TextENGNew": "Originally, the tools stored here were created by the village leaders to strengthen their control and to subdue and humiliate those who tried to escape from their confines.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 102141,
+    "TextENGNew": "So it is natural for the viewer to be frightened, and it is just fulfilling its efficacy as per its role.@k ...As I listened to Takano's words, I wondered if I was being too cold.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 102142,
+    "TextENGNew": "``Let, let me ask you... What were they trying to gain from the victims by using these tools...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 102143,
+    "TextENGNew": "Tomitake asked me that. He must have thought that Takano would say something far more scary if he asked her.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 102144,
+    "TextENGNew": "He's forgetting that I'm just a little innocent girl...",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 102145,
+    "TextENGNew": "``I think they were forcing their victims to obey the rules of Onigafuchi Village. That's what I believe......... am I right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 102146,
+    "TextENGNew": "``...Yes, you are...@k@vS12/05/180500364. Most of these tools were never built for actual use. They were simply displayed in front of the villagers to intimidate them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 102147,
+    "TextENGNew": "``S-So they really did use some of them, then?@k@vS12/08/180800028. ...Th-That's not a pleasant story.``",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 102148,
+    "TextENGNew": "``Some people were just not obedient, despite the threat of Oyashiro-sama's curse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 102149,
+    "TextENGNew": "``Hey. Rika-chan...@k@vS12/09/180900092. Are you sure that these tools were mainly used to intimidate people in the village?``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 102150,
+    "TextENGNew": "Perhaps, for her, who knows some of the true meaning of ``cotton-drifting,`` that is the part she wants to hear the most.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 102151,
+    "TextENGNew": "Hanyuu was making a frustrated face.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 102152,
+    "TextENGNew": "She didn't want to remember the dark history of Onigafuchi Village.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 102153,
+    "TextENGNew": "People performed countless torture ceremonies in front of her, claiming that they were doing it in her name... the name of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 102154,
+    "TextENGNew": "She asked them not to do that, but no one was able to hear or see her...",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 102155,
+    "TextENGNew": "``......No comment, nipah~☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 102156,
+    "TextENGNew": "``She always talks to me about it too.@k@vS12/08/180800030. I wonder why the people of Onigafuchi Village did such a thing a long time ago.@k@vS12/08/180800032. Was it a display of force or something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 102157,
+    "TextENGNew": "``I think of it as a sort of ritual.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 102158,
+    "TextENGNew": "The greatest outspoken reasons Onigafuchi forbade intermingling with outsiders were that the village was a holy land, and they were 'transcendents', greater beings than humans.@k@vS12/09/180900096. It was said that when they interact with humans, they are sulled.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 102159,
+    "TextENGNew": "So they probably needed to reaffirm their idea that they were above humans at regular intervals.``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 102160,
+    "TextENGNew": "``...In Japan, there was a tradition of displaying severed heads on pikes.@k@vS12/08/180800034. While such a warning is inhumane, it's an extremely good deterrent.``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 102161,
+    "TextENGNew": "``The victim was brutally tortured in public, and die.@k@vS12/09/180900099. See something like that... Hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 102162,
+    "TextENGNew": "Anyone would simply think that they wouldn't want to be in that same situation.@k@vS12/09/180900101. There's also a history of crucifixion in this country.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 102163,
+    "TextENGNew": "You probably know this already Jirou-san, but people don't really die from being stabbed once or twice.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 102164,
+    "TextENGNew": "Hee hee, in that sense, a guillotine is such a merciful tool.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 102165,
+    "TextENGNew": "Did you know?@k@vS12/09/180900108. The guillotine was invented for the nobility.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 102166,
+    "TextENGNew": "It was invented because they were able to die instantly, which wasn't the case with shooting or hanging. The nobles got special treatment all the way up to death.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 102167,
+    "TextENGNew": "There's no last words or prayers or anything!@k@vS12/09/180900121. Hee hee hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 102168,
+    "TextENGNew": "Oyashiro-sama here was the one who made this brutal torture possible...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 102169,
+    "TextENGNew": "Takano raises her hand to honor the statue of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 102170,
+    "TextENGNew": "``Oyashiro-sama is just an idol created by human beings.@k@vS12/09/180900124. That idol was worshiped with fear and made divine.@k@vS12/09/180900125. Yes, people laid the bricks of his church with rules and doctrines, strengthening it with the mortar of curses and malediction.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 102171,
+    "TextENGNew": "As they stacked and stacked those bricks up high, its height reached up to heaven and their god was placed above it all.@k@vS12/09/180900127. Gods are born because people desire them.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 102172,
+    "TextENGNew": "And here, they call that god Oyashiro-sama!!!@k@vS12/09/180900130. In other words, this proves that the stairs to godhood are built not by gods, but by human hands, and shows the way for us humans to attain further heights, and...``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 102173,
+    "TextENGNew": "Her passionate lecture was interrupted by a loud noise.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 102174,
+    "TextENGNew": "As I looked back, Hanyuu was jumping up and down with her eyes full of tears...",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 102175,
+    "TextENGNew": "*Thud*@|@y@k *Thud*@|@y@k ...*Thud*",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 102176,
+    "TextENGNew": "She was stomping the floor as hard as she could, making a loud noise instead of screaming out with her unheard voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 102177,
+    "TextENGNew": "However, it all amounted to the same thing...",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 102178,
+    "TextENGNew": "Hanyuu cannot be heard by people.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 102179,
+    "TextENGNew": "``That's not right...@k@vS12/12/181100105. That's not right...@k@vS12/12/181100106. I'm not... like that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 102180,
+    "TextENGNew": "``............Hanyuu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 102181,
+    "TextENGNew": "``I want people to be happy together...@k@vS12/12/181100109. Of course, not everything is perfect...",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 102182,
+    "TextENGNew": "But I never asked people to do such horrible things...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 102183,
+    "TextENGNew": "``......Hanyuu.@k@vS12/05/180500370. ...You are who you are.@k@vS12/05/180500371. Oyashiro-sama has nothing to do with you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 102184,
+    "TextENGNew": "``That's not right... that's not right...@k@vS12/12/181100112. Au au au au... Au au au au!",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 102185,
+    "TextENGNew": "I hate Takano... I hate her...!!@k@vS12/12/181100114. She always says horrible things about me... She's a bully...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 102186,
+    "TextENGNew": "Was it a bad idea for me to bring Takano in here...?",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 102187,
+    "TextENGNew": "I knew that Takano would get overstimulated and say something like this...",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 102188,
+    "TextENGNew": "Fortunately, Hanyuu's rejection indirectly reached Takano, and she stopped lecturing.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 102189,
+    "TextENGNew": "Somehow, Tomitake had heard the noise that Hanyuu made.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 102190,
+    "TextENGNew": "He pressed his finger in front of his lips and told Takano to be quiet.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 102191,
+    "TextENGNew": "``What is it...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 102192,
+    "TextENGNew": "``Well...@k@vS12/08/180800036. I just heard a sound like a child was jumping around...@k@vS12/08/180800037. There might be a child somewhere near this building.``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 102193,
+    "TextENGNew": "``..........Really......?@k@vS12/09/180900133. I didn't hear anything...``",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 102194,
+    "TextENGNew": "``I'm sure I heard it...@k@vS12/08/180800039. Takano-san, we're in here in secret.@k@vS12/08/180800040. I think you should look around without making any noise.``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 102195,
+    "TextENGNew": "Takano seemed disappointed, but Tomitake was right. She had no choice but to be quiet.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 102196,
+    "TextENGNew": "``......Tomitake.@k@vS12/05/180500373. There are no children around this place.``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 102197,
+    "TextENGNew": "``Are you sure?@k@vS12/08/180800042. You didn't hear it either?@k@vS12/08/180800043. I'm sure I heard a noise...``",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 102198,
+    "TextENGNew": "``I heard it too.@k@vS12/05/180500375. But it wasn't coming from outside the building... It was jumping right behind me.@k@vS12/05/180500376. I guess you heard it from far away, but it was very loud to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 102199,
+    "TextENGNew": "I was standing in front of the altar, and the statue of Oyashiro-sama was right behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 102200,
+    "TextENGNew": "Tomitake seemed freaked out after hearing what I just told him.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 102201,
+    "TextENGNew": "Although he was trying to fake a smile, his face was turning pale.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 102202,
+    "TextENGNew": "However, Takano didn't seem scared at all...",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 102203,
+    "TextENGNew": "``......Takano.@k@vS12/05/180500378. You can't say things that would upset Oyashiro-sama in front of him.@k@vS12/05/180500379. Oyashiro-sama is very angry now.@k@vS12/05/180500380. Can't you hear his voice...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 102204,
+    "TextENGNew": "It's fortunate that she can't, to be honest.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 102205,
+    "TextENGNew": "Even if she heard it, it would be nothing but tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 102206,
+    "TextENGNew": "My job as a shrine maiden to begin with is to tell humans what Oyashiro-sama is feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 102207,
+    "TextENGNew": "I'm responsible for speaking on Hanyuu's behalf.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 102208,
+    "TextENGNew": "Takano must have realized that I was very serious about what I just said.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 102209,
+    "TextENGNew": "She apologized to me right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 102210,
+    "TextENGNew": "``I'm sorry...@k@vS12/09/180900135. I took it too far.@k@vS12/09/180900136. I'm sorry, Oyashiro-sama.@k@vS12/09/180900137. You are a god, as long as people worship you.@k@vS12/09/180900138. Even though I may not worship you, you are still holy.@k@vS12/09/180900139. I'm sorry for disrespecting you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 102211,
+    "TextENGNew": "``Oyashiro-sama loves sweet food.@k@vS12/05/180500382. You'll get cursed, unless you offer something sweet through me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 102212,
+    "TextENGNew": "Tomitake couldn't help but smile.@k Takano also smiled. She bowed to me, promising to bring over some cream puffs soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 102213,
+    "TextENGNew": "Takano finally stopped saying bad things about Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 102214,
+    "TextENGNew": "She also promised to bring me something sweet.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 102215,
+    "TextENGNew": "Hanyuu was still upset, but she was probably satisfied for the moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 102216,
+    "TextENGNew": "But I didn't know what she meant by the three fingers she was showing to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 102217,
+    "TextENGNew": "Was she telling me to ask Takano for that too...?@k Being her shrine maiden is not an easy thing...",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 102218,
+    "TextENGNew": "``Oyashiro-sama is saying that he wants at least three cream puffs.@k@vS12/05/180500384. ......I just want to make it clear that it's not me asking for that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 102219,
+    "TextENGNew": "``Pff, ahahaha, ah ha ha ha ha ha!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 102220,
+    "TextENGNew": "They took it as a joke I made to reduce the tension.@k Tomitake and Takano cracked up, holding their stomachs.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 102221,
+    "TextENGNew": "Hanyuu was looking at them with surprise, not knowing why they were laughing.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 102222,
+    "TextENGNew": "My face, meanwhile, was turning red with embarrassment.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 102223,
+    "TextENGNew": "``Fine.@k@vS12/09/180900141. I'll get three delicious cream puffs for Oyashiro-sama.@k@vS12/09/180900142. Should I get some for you and Satoko-chan too?``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 102224,
+    "TextENGNew": "``No, I don't need any.@k@vS12/05/180500386. .........But there is something that I want to tell you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 102225,
+    "TextENGNew": "``What is it...?@k@vS12/09/180900144. Since you let me inside the storehouse today, I'm willing to do anything for you now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 102226,
+    "TextENGNew": "``Then...... I want you to believe what I am about to tell you now.@k@vS12/05/180500388. Please don't ask me why, or make fun of me.@k@vS12/05/180500389. Please believe me, and change fate to save me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 102227,
+    "TextENGNew": "Both of them are surprised to see such a serious look on my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 102228,
+    "TextENGNew": "I was sure they'd be surprised.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 102229,
+    "TextENGNew": "After all, I was about to explain to them that they were going to die in two days.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 102230,
+    "TextENGNew": "I'm sure they'd want to deny that.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 102231,
+    "TextENGNew": "But I knew a fair bit about their deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 102232,
+    "TextENGNew": "If I could explain it to them in detail, they wouldn't be able to laugh it off.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 102233,
+    "TextENGNew": "I'd talked to them about it several times in previous lives,@k but they never took it seriously.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 102234,
+    "TextENGNew": "I only had that slight possibility that they might believe me...",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 102235,
+    "TextENGNew": "Hopefully, the possibility is as small as a miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 102236,
+    "TextENGNew": "It should be engraved on the side of a die.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 102237,
+    "TextENGNew": "My friends overcame their fates, and they all rolled a six.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 102238,
+    "TextENGNew": "Should I call that a miracle...?",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 102239,
+    "TextENGNew": "Please, God... Let me roll a six again...",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 102240,
+    "TextENGNew": "Please let them believe that death is upon them...",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Nipped in the Bud",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Wet Blanket\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15859,
+    "TextENGNew": "For Teppei, coming to Hinamizawa was about lying low until things cooled off.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15860,
+    "TextENGNew": "He would spend at least the summer here, perhaps through the end of the year, and see how things played out.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15861,
+    "TextENGNew": "For a man who could only thrive in gambling dens and entertainment districts, the house in Hinamizawa was practically a hermitage.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a rather dull hiding place' omitting the context that Teppei could only thrive in gambling dens and entertainment districts; new includes this crucial characterization and translates 隠居 more accurately as 'hermitage.'",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 15862,
+    "TextENGNew": "Rina, who had been living with him, had suddenly vanished.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15863,
+    "TextENGNew": "Worse, rumors suggested she had gotten involved in something extremely dangerous.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 15864,
+    "TextENGNew": "...Some even said she had already been caught and killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15865,
+    "TextENGNew": "Everyone in their circles knew that Rina and Teppei were an item.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15866,
+    "TextENGNew": "So naturally, everyone assumed he was in on whatever she had done.@k Some thought he had swindled a fortune out of the scheme, while others came looking for trouble from dangerous people.",
+    "significantChanges": true,
+    "changeReason": "Old says 'he got money by tricking her into doing something' (implying he tricked Rina) while new says 'he had swindled a fortune out of the scheme' (people assumed he profited from Rina's scheme); the Japanese describes others assuming he profited, not that he tricked Rina.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 15867,
+    "TextENGNew": "Life in Okinomiya had become very difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15868,
+    "TextENGNew": "More than anything, he was furious to learn that Rina had apparently been scheming with other men behind his back, and that was the real reason he left.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15869,
+    "TextENGNew": "Hinamizawa was the only place left for Teppei to go.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15870,
+    "TextENGNew": "The house where he and his wife once lived had been abandoned ever since they moved into Satoko's house. It was unlivable.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15871,
+    "TextENGNew": "...Besides, he did not even have the key anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15872,
+    "TextENGNew": "But Satoko's house should still be occupied, and it was bigger than the old place--more comfortable.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'she could clean and cook for him' not in the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 15,
+    "MessageID": 15873,
+    "TextENGNew": "With such self-serving thoughts rattling around in his head, he made his way back.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15874,
+    "TextENGNew": "The house was locked when he arrived. Assuming Satoko had gone shopping, he wandered through the shopping district until he found her and brought her back.",
+    "significantChanges": true,
+    "changeReason": "Old says 'dragged her back home' implying physical force, while new says 'brought her back'; the Japanese simply says he found her, without implying he physically dragged her.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 15875,
+    "TextENGNew": "When he made her unlock the door, the inside was thick with dust.",
+    "significantChanges": true,
+    "changeReason": "Old omits the detail from Japanese 家を開けさせると that he made Satoko unlock the door; new includes this, showing Teppei's controlling behavior of ordering her to open the house.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 15876,
+    "TextENGNew": "She told him she had been staying at a friend's place for the past year, and the house had been left unattended.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15877,
+    "TextENGNew": "Teppei flew into a selfish rage.",
+    "significantChanges": true,
+    "changeReason": "Old says 'exploded in anger' omitting 自分勝手にも (selfishly); new includes 'selfish rage' which conveys that his anger was unjustified and self-centered, as the Japanese emphasizes.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 15878,
+    "TextENGNew": "He bellowed that it was Satoko's duty to keep the house in order while he was gone.",
+    "significantChanges": true,
+    "changeReason": "Old says 'told' while new says 'bellowed' for 怒鳴った (to shout/bellow); also new adds 'while he was gone' matching 留守を守る, conveying Teppei's abusive expectations more accurately.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 15879,
+    "TextENGNew": "...Before long, the expression on Satoko's face had reverted to the one Teppei remembered so well from 1982.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15880,
+    "TextENGNew": "Without a word of protest, Satoko began obeying his every command. First, he ordered her to clean the house.",
+    "significantChanges": true,
+    "changeReason": "Old omits 文句ひとつ言わず (without a word of protest) and says 'cleaned up the house' as if Satoko acted voluntarily; new captures that she obeyed without protest and that he ordered the cleaning, better reflecting the abusive dynamic.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 15881,
+    "TextENGNew": "A new, spacious, comfortable home.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'with a new girl' not in the Japanese, incorrectly sexualizing the description.",
+    "changeScore": 5
+  },
+  {
+    "index": 24,
+    "MessageID": 15882,
+    "TextENGNew": "For something that was supposed to be just lying low, his new life was off to a fine start.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15883,
+    "TextENGNew": "In high spirits and eager to show off, Teppei called his cronies over for a party at the house.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'playing mahjong' which is not in the Japanese; the text says 宴会 (a party/banquet). New correctly says 'a party at the house.'",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 15884,
+    "TextENGNew": "But his good mood was short-lived.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 15885,
+    "TextENGNew": "``I am a teacher at the Hinamizawa Branch School. My name is Chie! Is Satoko Houjou-san here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 15886,
+    "TextENGNew": "He had thought it was some insurance salesman or solicitor pestering him, but it turned out to be a young woman.",
+    "significantChanges": true,
+    "changeReason": "Old omits that the visitor was 若い女性 (a young woman); new includes this detail which is in the Japanese and sets up Teppei's reaction.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 15887,
+    "TextENGNew": "And she claimed to be a school teacher.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 15888,
+    "TextENGNew": "``Huh? What the hell do you want?@k@vS20/21/442000002. Why should I let you see Satoko?``",
+    "significantChanges": true,
+    "changeReason": "Old asks 'What do you want with Satoko?' (seeking information) while new says 'Why should I let you see Satoko?' (refusing access); the Japanese 何でおどれに沙都子会わせにゃならんね is a hostile refusal, not an inquiry.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 15889,
+    "TextENGNew": "``Satoko didn't come to school today. Since we didn't receive any notice, I came to check if something had happened.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I wasn't able to get ahold of her' (tried but failed to contact) while new says 'we didn't receive any notice' (no notification from guardian); the Japanese 連絡がなかった means no notice was given to the school, which is more significant as it points to parental neglect.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 15890,
+    "TextENGNew": "``Huuuh...? School...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 15891,
+    "TextENGNew": "``Yes. Is Satoko here?@k@vS20/22/441400008. There's something I need to speak with her about.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 15892,
+    "TextENGNew": "``Oh, uh... she's got a cold, yeah, that's right. ...Satoko's sick in bed with a fever...``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 15893,
+    "TextENGNew": "``I have some handouts to deliver. Could I perhaps speak with her for just a moment?``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 15894,
+    "TextENGNew": "``Are you stupid? Weren't you listening?@k@vS20/21/442000006. Satoko is sick!@k@vS20/21/442000007. She's groaning in bed right now!@k@vS20/21/442000008. How am I supposed to let you see her, you moron?!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'She's sleeping right now' while new says 'She's groaning in bed'; the Japanese うんうんうなっとる means groaning/moaning in pain, which is Teppei's lie about fever symptoms, not sleeping.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 15895,
+    "TextENGNew": "Inwardly, Teppei realized this was going to be a problem.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 15896,
+    "TextENGNew": "It had simply never occurred to him that Satoko needed to attend school.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'Satoko was just a pet' not in the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 39,
+    "MessageID": 15897,
+    "TextENGNew": "And to think a teacher would show up at his door just because the girl missed a single day.@k The nerve of it infuriated him.",
+    "significantChanges": true,
+    "changeReason": "Old says 'This wasn't good' (mild concern) while new says 'The nerve of it infuriated him'; the Japanese 不愉快の極みだ means 'the height of displeasure,' expressing intense anger rather than mild worry.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 15898,
+    "TextENGNew": "Teppei despised schools, teachers, and anyone who acted like they were better than him.",
+    "significantChanges": true,
+    "changeReason": "Old omits 偉そうなヤツらは全部 (anyone who acted superior/holier-than-thou); new includes 'anyone who acted like they were better than him,' providing fuller characterization of Teppei's resentful worldview.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 15899,
+    "TextENGNew": "``I see... Do you think she will be able to come to school tomorrow?``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 15900,
+    "TextENGNew": "``How should I know?! I won't know until tomorrow comes!@k@vS20/21/442000010. You idiot!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 15901,
+    "TextENGNew": "``............I... I see. ...All right.@k@vS20/22/441400012. Please give Satoko my regards...@k@vS20/22/441400013. Excuse me...``",
+    "significantChanges": true,
+    "changeReason": "Old translates 失礼します as 'Thank you' while new correctly translates it as 'Excuse me' (a standard departure phrase); also old says 'tell her that I came by' while new correctly says 'give Satoko my regards' for よろしくお伝えください.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 15902,
+    "TextENGNew": "He managed to chase her off for now, but it was clear that keeping Satoko out of school would invite more trouble.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 15903,
+    "TextENGNew": "Teppei intended to stay here for quite a while, so he wanted to avoid unnecessary complications.",
+    "significantChanges": true,
+    "changeReason": "Old says 'didn't need even more trouble' omitting the reason; new includes that Teppei 'intended to stay here for quite a while' (短からぬ時間を過ごすつもり), explaining his motivation to avoid trouble.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 15904,
+    "TextENGNew": "To make matters worse, someone from the child welfare office showed up that very evening.",
+    "significantChanges": true,
+    "changeReason": "Old ambiguously says 'he came to the center' but Japanese means a welfare worker visited him.",
+    "changeScore": 4
+  },
+  {
+    "index": 47,
+    "MessageID": 15905,
+    "TextENGNew": "...That female teacher must have reported him.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 15906,
+    "TextENGNew": "That bitch. Next time I see her, I'll rearrange her face so badly her own parents won't recognize her...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 15907,
+    "TextENGNew": "At least Satoko had readily played along, putting on a show of domestic harmony and pretending to be sick when the social worker came...",
+    "significantChanges": true,
+    "changeReason": "Old adds editorializations ('afraid of him', 'so easy to control her') and omits 円満であること (domestic harmony).",
+    "changeScore": 4
+  },
+  {
+    "index": 50,
+    "MessageID": 15908,
+    "TextENGNew": "But with so many eyes now watching him, things were only going to get more difficult from here...",
+    "significantChanges": true,
+    "changeReason": "Old adds 'He considered Satoko to be a convenient pet' not in the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 51,
+    "MessageID": 15909,
+    "TextENGNew": "``...Aaaagh, goddammit, nothing's going right!!``",
+    "significantChanges": false
+  }
+]

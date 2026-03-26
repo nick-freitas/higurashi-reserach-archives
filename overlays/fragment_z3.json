@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11355,
+    "TextENGNew": "...Welcome to Hint IX.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11356,
+    "TextENGNew": "I'll tell you the conditions for unlocking G6 The Conspiracy Begins to Stir in the World of 1983.",
+    "significantChanges": true,
+    "changeReason": "The fragment title is translated differently: 'The Conspiracy has Started to Move' vs 'The Conspiracy Begins to Stir' — different phrasing of 動き始めた that conveys a subtly different stage/quality of the conspiracy's progress.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 11357,
+    "TextENGNew": "G4 An Invitation Toward the End in the World of 1983@rM5 The Counterfeit Drug in the World of Conspiracy@rV6 Rolling a Six in the World of Tomoe Minai@r...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "Multiple fragment titles differ: 'Copy Medicine' vs 'The Counterfeit Drug' (コピー薬 — counterfeit is more accurate), 'A 6 on the Dice' vs 'Rolling a Six', and 'An Invitation to an End' vs 'An Invitation Toward the End' (different directional nuance). Also 'pieces' changed to 'fragments' (カケラ).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11358,
+    "TextENGNew": "And—\nM3 Incident Report 2 in the World of Conspiracy\n...This fragment is also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "The relationship described changes: 'will be involved in their unlocking' (this fragment helps unlock others) vs 'is also connected to its appearance' (connected to its own appearance). The JP 出現に関わってくる refers to the listed fragment's appearance being affected.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 11359,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

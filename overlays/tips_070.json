@@ -1,0 +1,155 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Investigation Hits a Dead End",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Investigation Runs Aground\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14558,
+    "TextENGNew": "\"...Yes. Yesterday, when we met at the restaurant in Ginza,@k@vS20/00/kataoka44002.the subject came up.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14559,
+    "TextENGNew": "\"That's them overstepping their authority. They're meddling far too much in Public Safety's affairs.@k@vS20/00/442600002.If we keep kowtowing, we'll set a dangerous precedent.\"",
+    "significantChanges": true,
+    "changeReason": "The new translation changes the subject of 'kowtowing' from 'they' to 'we' (matching JPN 迎合する) and introduces the idea of subservience/pandering rather than generic bad precedent-setting.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 14560,
+    "TextENGNew": "\"It seems Minister Inukai is openly displeased with Public Safety's activities. The Vice-Minister will probably raise the issue at Monday's agency meeting.@k@vS20/00/kataoka44004....What a headache...\"",
+    "significantChanges": true,
+    "changeReason": "The old translates 庁議 as 'debate session' when it means 'agency meeting,' and renders まいったなぁ as resigned acceptance rather than the frustration ('What a headache') conveyed in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 14561,
+    "TextENGNew": "``We can only have the Director address the Vice-Minister. That's why we pay him the big bucks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14562,
+    "TextENGNew": "``Well, if it comes to that, they're going to ask him for proof that the Minister's being threatened.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14563,
+    "TextENGNew": "\"Sometimes I can't tell whose side that man is on. If he's not backing us, what's the point?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14564,
+    "TextENGNew": "\"Well, the pressure is probably coming down through the Minister. All we can do is push the investigation forward while he sweats it out in the Vice-Minister's office, buying us time.@k@vS20/00/kataoka44007....He might get wrung so dry there's nothing left of him, though.\"",
+    "significantChanges": true,
+    "changeReason": "The old translation says pressure is directed at the Chief from the Minister, while the JPN 大臣を経由しての圧力 and new translation correctly convey pressure channeled through the Minister from above.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 14565,
+    "TextENGNew": "...So, how's the investigation going?``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14566,
+    "TextENGNew": "\"Every promising lead I was counting on turned out to be a dead end. Honestly, I'm at a loss.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14567,
+    "TextENGNew": "``There are reports that the Hinamizawa Dam Project has been showing up a lot lately in the Minister's press releases, so what about that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14568,
+    "TextENGNew": "\"...Hmm... 'Showing up' is a bit strong -- it's more of an extremely faint sense that something's off.@k@vS20/00/442600007.It happened to come up during his speech at the Prefectural Forum, so it may have just been a topical reference.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14569,
+    "TextENGNew": "``If I remember correctly, a local organization there was protesting quite violently, no? The Onigafuchi Guardians.@k@vS20/00/kataoka44011. I think Akasaka-kun was investigating that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14570,
+    "TextENGNew": "\"I believe those people couldn't have pulled off this incident. But since nearly every other suspicious lead has come up clean, I may not be able to rule them out either...\"",
+    "significantChanges": true,
+    "changeReason": "Old reverses the meaning: says they 'could possibly be behind' the incident, but Japanese says they could NOT have pulled it off.",
+    "changeScore": 5
+  },
+  {
+    "index": 14,
+    "MessageID": 14571,
+    "TextENGNew": "\"Akasaka-kun submitted a brief report saying the possibility couldn't be dismissed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14572,
+    "TextENGNew": "``...Then, isn't there merit in investigating them? We're going through everything with a fine-toothed comb, so if they're one of the suspicious groups that're left, we'll eventually have to.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14573,
+    "TextENGNew": "\"Well, they're hardly the only group we should be looking at, are they? Ahahaha!@k@vS20/00/442600011.If we're talking about organizations that are equally as suspicious as the Onigafuchi group, the list is considerable.@k@vS20/00/442600012.We don't have the manpower, the time, or the overtime budget for it all.\"",
+    "significantChanges": true,
+    "changeReason": "The new translation specifies 'overtime budget' (matching JPN 残業代, overtime pay) instead of the generic 'money' in the old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 14574,
+    "TextENGNew": "\"Try getting more details from Akasaka-kun. ...I have a feeling we should keep a close eye on those Guardians.\"",
+    "significantChanges": true,
+    "changeReason": "The old translation has the Chief saying he will ask Akasaka-kun himself, while the JPN 聞いてみてよ is a command directed at Kanou to do it, which the new translation correctly conveys.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 14575,
+    "TextENGNew": "\"He reported that he's successfully made contact with the villagers. Apparently he's also coordinating with the local police.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14576,
+    "TextENGNew": "\"Keep close contact with Akasaka-kun. And if anything in his reports raises a flag, we may send reinforcements.\"",
+    "significantChanges": true,
+    "changeReason": "The old translation says to keep contact 'on the down-low' (secret), while the JPN 連絡、密にしてください means to keep contact frequent/close, which the new translation correctly conveys.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 14577,
+    "TextENGNew": "``Got it.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14578,
+    "TextENGNew": "...Ah, sorry... Chief Kataoka~! There's a phone call from the Director.@k@vS20/00/442600016. Should I transfer it over here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14579,
+    "TextENGNew": "``Ah, no, it's okay! I'll head over there.@k@vS20/00/kataoka44016. ...Yes hello?@k@vS20/00/kataoka44017. Kataoka here.``",
+    "significantChanges": false
+  }
+]

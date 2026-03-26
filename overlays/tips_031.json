@@ -1,0 +1,145 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook V",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"From The Scrapbook V\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13499,
+    "TextENGNew": "<Why Were So Many Ritual Implements Necessary?>",
+    "significantChanges": true,
+    "changeReason": "The title changes from a vague 'Alleged Importance of the Implements' to a direct question 'Why Were So Many Ritual Implements Necessary?', matching the JPN which asks 'why were so many necessary.'",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 13500,
+    "TextENGNew": "Almost no descriptions of the specific forms of the \"ritual implements\" can be found.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13501,
+    "TextENGNew": "However, there is no question that they were real, and that they existed in a wide and diverse variety.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13502,
+    "TextENGNew": "One source states that the implements used in the Watanagashi rite alone numbered over two hundred.",
+    "significantChanges": true,
+    "changeReason": "Old says 'numbered two hundred' (exact); new says 'numbered over two hundred' (exceeding). The JPN 二百を数える means 'counted as many as two hundred,' which the new version captures more accurately with 'over.'",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 13503,
+    "TextENGNew": "The question this raises is: why were so many different kinds necessary?",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13504,
+    "TextENGNew": "The Watanagashi rite involved hunting a sacrifice through the \"demoning away\" and then feasting upon them.",
+    "significantChanges": true,
+    "changeReason": "Old says 'kidnap people...dissect them, and eat them'; new says 'hunting a sacrifice...feasting upon them.' The JPN 生贄を饗す means 'feast upon the sacrifice' — the old version adds 'dissect' which isn't in this line and misses the ritual hunting framing.",
+    "changeScore": 4
+  },
+  {
+    "index": 7,
+    "MessageID": 13505,
+    "TextENGNew": "Dissection tools and restraining devices come to mind, but even so, two hundred seems far too many.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13506,
+    "TextENGNew": "As a general principle, the evolution of tools is a process of striving toward an optimal form.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13507,
+    "TextENGNew": "Once a certain level of efficiency is achieved, further evolution is typically unnecessary.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13508,
+    "TextENGNew": "Despite this, why would so many varieties have been produced?",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13509,
+    "TextENGNew": "One cultural element that diversifies with the passage of time is entertainment.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13510,
+    "TextENGNew": "Tools used for entertainment evolve and diversify over time.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13511,
+    "TextENGNew": "Unlike ordinary tools, reaching the optimal form represents a dead end (stagnation), prompting the search for new goals and the branching off into numerous subtypes.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 13512,
+    "TextENGNew": "Could it be, then, that the two hundred-plus \"ritual implements\" also possessed an element of entertainment?",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 13513,
+    "TextENGNew": "This too is merely a hypothesis, but perhaps the process of offering the sacrifice was treated as a form of entertainment—a spectacle.",
+    "significantChanges": true,
+    "changeReason": "Old says 'human dissection process'; new says 'process of offering the sacrifice' with 'a spectacle' added. The JPN 生贄を捧げる過程 means 'process of offering the sacrifice' and 見世物 means 'spectacle' — the new version is more accurate to the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 13514,
+    "TextENGNew": "To keep the audience from growing bored, successive heads of the Three Families developed one novel, attention-grabbing \"implement (dissection tool)\" after another...@kIt is not impossible to imagine.",
+    "significantChanges": true,
+    "changeReason": "Old attributes development to 'The Three Families of old'; new correctly says 'successive heads of the Three Families' (歴代の御三家当主たち). Also restructured to clarify that keeping the audience entertained was the purpose, matching the JPN 観客を飽きさせないため.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 13515,
+    "TextENGNew": "All of them must be enshrined within that ritual storehouse.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 13516,
+    "TextENGNew": "Only a little longer until the night of Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 13517,
+    "TextENGNew": "Though its original meaning has been lost, on this night of ancient tradition, I shall uncover the secrets within the ritual storehouse.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 13518,
+    "TextENGNew": "...I cannot contain my excitement.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 13519,
+    "TextENGNew": "I cannot wait for Watanagashi.",
+    "significantChanges": false
+  }
+]

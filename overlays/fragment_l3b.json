@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9195,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 9196,
+    "TextENGNew": "...Now then.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9197,
+    "TextENGNew": "Do you still wish to dream?",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 9198,
+    "TextENGNew": "Is there still something you want?",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 9199,
+    "TextENGNew": "Is there still someone you wish to ask something of?",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 9200,
+    "TextENGNew": "This world may not take the shape you desired.",
+    "significantChanges": true,
+    "changeReason": "New translation captures 姿 (shape/form) from the Japanese, specifying the world may not 'take the shape' you desired, rather than just 'not necessarily what you desired.'",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 9201,
+    "TextENGNew": "The people living here may not be the ones you have hoped for and given your heart to.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'given your heart to' from JPN 心を寄せてきた, conveying emotional attachment missing in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 9202,
+    "TextENGNew": "And there is no guarantee that this ending is the one you dreamed of.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9203,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9204,
+    "TextENGNew": "Even so — do you choose to move forward?",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 9205,
+    "TextENGNew": "Even knowing it means casting aside the happiness of the present, turning back the hands of time?",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 9206,
+    "TextENGNew": "Do you choose to face that anguish, that painful hardship, head-on...?",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 9207,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 9208,
+    "TextENGNew": "...Thank you.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 9209,
+    "TextENGNew": "That strength of will — that is what we have been seeking from you.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 9210,
+    "TextENGNew": "Together with you, we will open the way to the future.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 9211,
+    "TextENGNew": "And this time — this time, we will seize happiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 9212,
+    "TextENGNew": "So... pray.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 9213,
+    "TextENGNew": "Pray that we may truly reach the happy future that everyone has yearned for and never been able to grasp...!",
+    "significantChanges": true,
+    "changeReason": "New translation shifts perspective from third person ('everyone can reach') to first person plural ('we may truly reach'), changing the speaker's involvement in the prayer.",
+    "changeScore": 3
+  }
+]

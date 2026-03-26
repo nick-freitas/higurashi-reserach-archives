@@ -1,0 +1,2302 @@
+[
+  {
+    "index": 2,
+    "MessageID": 12041,
+    "TextENGNew": "``To all the players who have finished every scenario -- congratulations, and thank you for all your hard work!@k@vS20/02/ren_otu0010. And even more than that, thank you so, so very much for enjoying the story all the way to the end!``",
+    "significantChanges": true,
+    "changeReason": "Old thanks players 'for enjoying the stories'; new thanks for 'hard work' and says 'We hope you enjoyed' — different framing of gratitude and different structure from JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 12042,
+    "TextENGNew": "``I'm sure you all have your own thoughts and opinions, but if even a small part of you feels that 'I'm glad I played this,' then we couldn't ask for anything more!``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12043,
+    "TextENGNew": "``...I hardly know what to say.``@k@vS20/04/440400303. ......Just that it's finally over -- that feeling alone fills me with relief.``",
+    "significantChanges": true,
+    "changeReason": "New adds 'fills me with relief' (relief emotion) not present in JPN ただその一言でございますわ (just that one phrase); old's 'That's all' is more literal.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 12044,
+    "TextENGNew": "``...It truly was a very long story.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12045,
+    "TextENGNew": "``A-ahahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12046,
+    "TextENGNew": "``You both look completely exhausted...``@k@vS20/02/440200407. Rika-chan was talking nonstop for the entire second half, wasn't she...``",
+    "significantChanges": true,
+    "changeReason": "Old addresses Rika directly ('you must be tired'); new describes her in third person ('was talking nonstop') and omits the empathetic 'you must be tired' part from JPN 疲れたでしょう.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 12047,
+    "TextENGNew": "``Mii.``@k@vS20/05/440500192. I spoke a lifetime's worth of lines~.``",
+    "significantChanges": true,
+    "changeReason": "Catchphrase transliteration changes from 'Meep' to 'Mii' (みー), and action changes from 'read lines' to 'spoke lines' — JPN 喋った means spoke/talked.",
+    "changeScore": 1
+  },
+  {
+    "index": 9,
+    "MessageID": 12048,
+    "TextENGNew": "``...In ``Higurashi`` terms, that sounds like no exaggeration.@k@vS20/03/440300506. Combined, ``Miotsukushi`` and ``Matsuribayashi`` are over 40 hours on average!@k@vS20/03/440300507. And the whole game's over 200 hours? It makes me want to ask what kind of big budget RPG this is!``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 12049,
+    "TextENGNew": "``...I'd thought my screentime was totally done after ``Meakashi``, yet I kept appearing just as much in the later scenarios.@k@vS20/06/440600185. Though thankfully we had many chances to play a part, so we shouldn't moan about it, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 12050,
+    "TextENGNew": "``That's right, you had it good, Shion-san!@k@vS20/22/441400052. I barely appeared in any important scenes in the second half!@k@vS20/22/441400053. And what's the deal with treating me like a gag character every single time?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12051,
+    "TextENGNew": "``U-uh... don't ask me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12052,
+    "TextENGNew": "``Still, everyone who showed up in the finale got their own chances to show off, just like you'd expect of a final chapter.@k@vS20/08/440800157. Ooishi-san's detective spirit, Director Irie's doctor spirit... their passionate feelings really came across.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12053,
+    "TextENGNew": "``Hee hee...@k@vS20/09/440900161. You yourself were pretty dashing out there, weren't you, Jirou-san?@k@vS20/09/440900162. When you came to get me in that scene at the end... I truly felt saved from the bottom of my heart.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12054,
+    "TextENGNew": "``Oh, uh, that was... a-ahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12055,
+    "TextENGNew": "``All right, enough of that.@k@vS20/03/440300509. Sounds like some of you are getting worked up, but let's set that aside for now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 12056,
+    "TextENGNew": "``...Hmm? Something wrong, Rena?``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12057,
+    "TextENGNew": "``W-well... u-um?@k@vS20/02/440200409. There was something I really wanted to ask you since we're at the end, Mii-chan...@k@vS20/02/440200410. Can I? Can I?``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12058,
+    "TextENGNew": "``? I mean, sure, I don't see why not... What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12059,
+    "TextENGNew": "``W-what happened between you and, uh... Keiichi-kun after that...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12060,
+    "TextENGNew": "``Huh?!@k@vS20/03/440300513. U-uh... n-n-n-n-nothing r-really happened between me and Kei-chan...@k@vS20/03/440300514. U-um... e-especially considering everything that happened... yeah?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12061,
+    "TextENGNew": "``...I have no clue what Mion-san is saying.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12062,
+    "TextENGNew": "``It's all Greek to me. Nipah!``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12063,
+    "TextENGNew": "``Well, my sister's a coward and Kei-chan's dumb as bricks...@k@vS20/06/440600188. So some unexpected third party might just swoop in and turn the whole thing into a fleeting love story.@k@vS20/06/440600189. ...I'd say the chances of that are pretty high.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 12064,
+    "TextENGNew": "``S-Shion, you little!@k@vS20/03/440300516. You're on top of the world since Satoshi came back, so would it kill you to wish for other people's happiness a little more?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 12065,
+    "TextENGNew": "``Well sure, compared to how I used to be.@k@vS20/06/440600191. But if the alternative is having to watch some lovey dovey couple's sultry flirting.@k@vS20/06/440600192. It's only natural for a modern healthy school girl to hope for some stormy drama straight out of an old trendy drama.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 12066,
+    "TextENGNew": "``U-uuuuuuuuuuuu!@k@vS20/03/440300518. Th-then why don't you just do that with Satoshi?!@k@vS20/03/440300519. Don't wish misfortune on others!``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 12067,
+    "TextENGNew": "``Heh heh heh, I hate to break this to you.@k@vS20/06/440600194. But Satoshi-kun and I are bound by a touuuuuuugh string of fate that goes beyond being lovey dovey, so no stormy drama will happen even if you wish for it.@k@vS20/06/440600195. Isn't that right, Satoshi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 12068,
+    "TextENGNew": "``Huh?@k@vS20/07/443300009. ...Sorry Shion, I wasn't listening.@k@|@y@vS20/07/443300010. What did you say?``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 12069,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 12070,
+    "TextENGNew": "``Ahahaha!@k@vS20/03/440300521. Wow, the two of you sure are bound by powerful ties!@k@vS20/03/440300522. Maybe I should learn a little from watching too? Heheheh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 12071,
+    "TextENGNew": "``Ohohoho!@k@vS20/04/440400306. I don't mean to brag about this as his little sister, but Nii-nii's the king of density! Keiichi-san doesn't even come close!@k@vS20/04/440400307. Did you really think things would be as easy as you expected, Shion-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 12072,
+    "TextENGNew": "``...Indeed, that really isn't bragging.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 12073,
+    "TextENGNew": "``Mmph... I don't really get what Satoko's saying.@k@vS20/07/443300012. But I get the feeling she said something rather harsh about me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 12074,
+    "TextENGNew": "``...More like you're completely on the dot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 12075,
+    "TextENGNew": "``W-well, he may be something of a guy who walks at his own pace, not realizing the malice in other people's words,@k@vS20/06/440600198. ...but um, why don't we just call that one of Satoshi-kun's good traits in his own way...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 12076,
+    "TextENGNew": "``...Shion, that's a stretch no matter how hard you try.@k@vS20/03/440300524. Or more like a dislocation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 12077,
+    "TextENGNew": "``Love is blind, isn't it, Mii-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 12078,
+    "TextENGNew": "``Rena...@k@vS20/03/440300526. why're you looking at me when you say that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 12079,
+    "TextENGNew": "``Hey!@k@vS20/01/440100288. Don't just kick things into high gear when I'm not aroooooound!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 12080,
+    "TextENGNew": "``Oh, Keiichi. You're here?``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 12081,
+    "TextENGNew": "``I've been here for a while now!@k@vS20/01/440100290. And don't go all Dark Rika mode on me just to say hi!@k@vS20/01/440100291. It's scary when you talk back to me with that face!``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 12082,
+    "TextENGNew": "``It's fine, isn't it? Considering our relationship, there are no secrets between us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 12083,
+    "TextENGNew": "``H-huuuuuuuuuuuh?!@k@vS20/03/440300528. R-Rika-chan! What's that supposed to meaaaaaan?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 12084,
+    "TextENGNew": "``H-hey, Mion! Why are you reacting like that?!@k@vS20/01/440100293. And Rika! Stop saying things that'll give people the wrong idea!@k@vS20/01/440100294. It's not like we've done anything under the sun to be ashamed of, right?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 12085,
+    "TextENGNew": "``Yes, that's true.@k@vS20/05/440500198. ...The sun hid itself because it was embarrassed, but the moon was very beautiful.@k@vS20/05/440500199. Thank you for giving me a night I'll never forget, Keiichi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 12086,
+    "TextENGNew": "``I-I told you not to say things that'll give people the wrong idea!@k@|@y@vS20/01/440100296. ...Wait, huh?@k@|@y@vS20/01/440100297. Mion... and Rena, wh-why are y... eek?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 12087,
+    "TextENGNew": "``...Heh, heheheh, uheheheh...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 12088,
+    "TextENGNew": "``Ahahahahahaha... ahahahaha...@k@vS20/02/440200415. Keiichi-kun...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 12089,
+    "TextENGNew": "``H-hold on, guys!@k@vS20/01/440100299. This is a misunderstanding!@k@vS20/01/440100300. You've got it all wrong, I swear!``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 12090,
+    "TextENGNew": "``And hey Rena, where'd you get that giant axe from?!@k@vS20/01/440100302. That's no hatchet, it's a bastard sword straight out of a fantasy RPG!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 12091,
+    "TextENGNew": "``You too Mion, what's with that modified model gun?!@k@vS20/01/440100304. You're not supposed to carry stuff like that!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 12092,
+    "TextENGNew": "``...Hey, you know,@k@vS20/03/440300531. maybe it doesn't look like it, but it's been bugging me for a long time.@k@vS20/03/440300532. How you say I can't read the room, or that I'm like a guy friend... Maybe it doesn't seem that way to you, but I am still a girl.``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 12093,
+    "TextENGNew": "``But at the very end... I thought you finally noticed my feelings...@k@vS20/03/440300534. so I was ready to let all that rude stuff you said slide, as water under the bridge... but you've sure screwed that up, haven't you...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 12094,
+    "TextENGNew": "``...Umm, Keiichi-kun.@k@vS20/02/440200417. Rena was the main heroine when ``Higurashi`` started, right?@k@vS20/02/440200418. It was definitely Rena, right? That's why there are some posters and covers of just me alone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 12095,
+    "TextENGNew": "``Yet you started to have a good thing going with Mii-chan at the end, so either way... Rena was set aside?@k@vS20/02/440200420. Long story short, I was downgraded, wasn't I?``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 12096,
+    "TextENGNew": "``But Rena loves Mii-chan, so I figured if she was your honest choice, I could at least let her have you, just for the console version...``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 12097,
+    "TextENGNew": "``And yet... and yet you were fooling around with Rika-chan behind our baaaaaacks?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 12098,
+    "TextENGNew": "``I-I'm telling you, you've got it wrong! All wrong!@k@vS20/01/440100306. I-I wasn't making eyes at anyone...@k@vS20/01/440100307. at least... I don't think I was... probably...``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 12099,
+    "TextENGNew": "````......````",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 12100,
+    "TextENGNew": "``W-wait!@k@vS20/01/440100309. I-I admit I might have said... no, and also done some things that could be misconstrued...@k@vS20/01/440100310. B-but that's just the sort gentlemanly philanthropy kind of thing a growing boy... or rather, a galge protagonist has all the time.@k@vS20/01/440100311. ...Or rather, it's like ``All heroes are amorous`` like they always... say... right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 12101,
+    "TextENGNew": "````......Divine punishment!!!!!````",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 12102,
+    "TextENGNew": "``Gya, gyaaaaaaaaaaaaaaaaaa!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 12103,
+    "TextENGNew": "``...I can tell it's going to be hard going.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 12104,
+    "TextENGNew": "``A bloody love triangle has sprung up just as peace arrived. Nipah♪.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 12105,
+    "TextENGNew": "``...Au au.@k@vS20/12/441100044. It's not good for the one who started all this to act like she's got nothing to do with it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 12106,
+    "TextENGNew": "``I see... so you're here too, Hanyuu.@k@vS20/05/440500202. Thanks for all your hard work over such a long time too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 12107,
+    "TextENGNew": "``Au?@k@vS20/12/441100046. ...Not that I'm not happy you said something nice to me, but it's so unlike you that it's creepy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 12108,
+    "TextENGNew": "``...Satoko, give me that kimchi combination platter over there.@k@vS20/05/440500204. I think today calls for a very spicy recipe to scorch every fiber of my being~. Nipah~☆.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 12109,
+    "TextENGNew": "``E-eeeeeeek?!@k@vS20/12/441100048. H-have mercy, Rika!@k@vS20/12/441100049. I-I was just trying to hide my embarrassment!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 12110,
+    "TextENGNew": "``...Well, anyway.@k@vS20/02/VTZ_rena1002. What are your thoughts on the side-stories ``Yoigoshi``, ``Hirukowashi``, and ``Saikoroshi``@k@vS20/02/VTZ_rena1003. and the original finale, ``Matsuribayashi``?``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 12111,
+    "TextENGNew": "``We packed as much as we could into it in order to please all those involved who love Higurashi, plus Ryuukishi07, the original author who helped out a lot.@k@vS20/02/VTZ_rena1005. And above all else, to all fans both old and new who've expressed love and interest in Higurashi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 12112,
+    "TextENGNew": "``I don't know if we managed to live up to your expectations, but if we brought you even the slightest bit closer to that which you imagined, we're very happy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 12113,
+    "TextENGNew": "``Also, did you enjoy the Advanced Story which took place outside of Hinamizawa...@k@vS20/03/VTZ_mion1002. featuring ``Someutsushi``, ``Kageboushi``, ``Tokihogushi``, and ``Miotsukushi Ura``?``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 12114,
+    "TextENGNew": "``It's because there were so many pure and impure intentions mixed together that there were setbacks, successes, and the joy of accomplishment.@k@vS20/03/VTZ_mion1004. We pray that those honest sentiments from the awkward cast resonate in your hearts, even if only a little.``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 12115,
+    "TextENGNew": "``...Oh ho ho ho! Rena-san, Mion-san, aren't you forgetting something important?``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 12116,
+    "TextENGNew": "````Higurashi Outbreak`` and its sequel ``Kamikashimashi`` were included for the first time in ``Hou``.@k@vS20/04/sat_otu0020. Plus the original story ``Hinamizawa Bus Stop``. And ``Batsukoishi`` was emergency implemented after a great number of permissions.``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 12117,
+    "TextENGNew": "``How do I put this...? Seeing them all together, that's an incredible number of scenarios...``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 12118,
+    "TextENGNew": "``It's hard to imagine adding anything more than that, Nipah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 12119,
+    "TextENGNew": "``Oh, I guess it's about time.@k@vS20/02/VTZ_rena1008. Shii-chan, are we ready?``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 12120,
+    "TextENGNew": "``Yes, completely.@k@|@y@vS20/06/VTZ_shion1002. All right, I'll connect us over the monitor...@k@|@y@vS20/06/VTZ_shion1003. Hello, can you hear me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 12121,
+    "TextENGNew": "``Yeah, we can hear you~.@k@vS20/36/VTZ_natsumi1002. Mion-chan, Shion-chan, Rena-chan, hello~.@k@vS20/36/VTZ_natsumi1003. Are you guys having a good time~?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 12122,
+    "TextENGNew": "``Ahahaha, hello, Natsumi-chan!@k@vS20/02/VTZ_rena1010. It feels so weird to be able to see and talk to you like this when you're so far away~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 12123,
+    "TextENGNew": "``You're right about that.@k@vS20/36/VTZ_natsumi1005. This is cutting edge communication technology, huh?@k@|@y@vS20/36/VTZ_natsumi1006. Though I hear satellite broadcasting and video calls are still in the experimental stages... So how does this work?``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 12124,
+    "TextENGNew": "``Well, that's a trade secret.@k@vS20/06/VTZ_shion1005. Since this is our last party, I managed to call in a few favors from people in the right places.@k@|@y@vS20/06/VTZ_shion1006. ...But a scary organization will find out if we talk too long, so keep it short.``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 12125,
+    "TextENGNew": "``O-okay, I understand...@k@vS20/36/VTZ_natsumi1008. But why did we really need to be apart in order to do this?@k@vS20/36/VTZ_natsumi1009. We could've just gone over there...``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 12126,
+    "TextENGNew": "``She's right!@k@vS20/37/VTZ_chisato1000b. Keeping us apart like this is totally discrimination, isn't it?!@k@vS20/37/VTZ_chisato1000c. I wanted to make some noise with you guys too, you know~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 12127,
+    "TextENGNew": "``Now now, calm down.@k@vS20/38/VTZ_tamako1002. Well, it's a bit more comfortable to be around people you're familiar with, so I don't mind doing it here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 12128,
+    "TextENGNew": "``Well, you can look at it that way too.@k@|@y@vS20/29/VTZ_madoka1002. ...Oh, is Kura-chan there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 12129,
+    "TextENGNew": "``Yes, I am.@k@vS20/11/VTZ_oishi1025. You look like you're doing well too, Madoka-chan~, nfu fu fu!``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 12130,
+    "TextENGNew": "``Ahahaha, thank you.@k@vS20/29/VTZ_madoka1004. ...Truth be told, I thought about going over there, but Kaoru-san wouldn't stop throwing a fit, so I had no choice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 12131,
+    "TextENGNew": "``What are you saying, Madoka-kun?!@k@vS20/30/VTZ_yamaoki1002. You're not just living for yourself anymore.@k@vS20/30/VTZ_yamaoki1003. What would I do if something were to happen to you!?``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 12132,
+    "TextENGNew": "``...Well, you get the picture.@k@vS20/29/VTZ_madoka1006. It's good he's worried and all, but honestly it's a bit annoying.@k@vS20/29/VTZ_madoka1007. He calls in a police escort when I go shopping nearby, and he deploys riot squads and bomb disposal squads when I go to the department store.``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 12133,
+    "TextENGNew": "``I fear for Japan's future if retirees abuse their authority like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 12134,
+    "TextENGNew": "``I don't care.@k@vS20/30/VTZ_yamaoki1005. My daughter's future is more important than Japan's. That's all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 12135,
+    "TextENGNew": "``...Uh, we still don't know if the baby's a girl, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 12136,
+    "TextENGNew": "``Uwaa... The telltale signs of a doting father~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 12137,
+    "TextENGNew": "``Now now, that just goes to show how much he loves you.@k@vS20/11/VTZ_oishi1027. Seriously, I'm jealous!@k@vS20/11/VTZ_oishi1028. I may have missed my chance with Madoka-chan by a slight margin, but maybe I'll set my sights on your daughter!@k@|@y@vS20/11/VTZ_oishi1029. Nahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 12138,
+    "TextENGNew": "``...You're on, Ooishi-san.@k@vS20/30/VTZ_yamaoki1007. I haven't had many opportunities to go shooting lately, so my skills were just starting to degrade. So this is perfect.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 12139,
+    "TextENGNew": "``Whoa?!@k@|@y@vS20/11/VTZ_oishi1031. I-I was just kidding, Yamaoki-san!@k@|@y@vS20/11/VTZ_oishi1032. Nfu fu fu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 12140,
+    "TextENGNew": "``Hahahaha...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 12141,
+    "TextENGNew": "``...The two of them may be laughing, but the look in their eyes is definitely something else.``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 12142,
+    "TextENGNew": "``Well, I think Akira will turn out the same way if he ever ends up the father to a bride.``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 12143,
+    "TextENGNew": "``Th-that's not true!@k@vS20/36/VTZ_natsumi1011. Right, Akira-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 12144,
+    "TextENGNew": "``Huh? Yeah, of course.@k@|@y@vS20/39/VTZ_akira1002. ...If anything, I think you'd be more likely to turn out that way, Natsumi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 12145,
+    "TextENGNew": "``...Did you say something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 12146,
+    "TextENGNew": "``? N-no, nothing!``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 12147,
+    "TextENGNew": "``Still though, it's a shame.@k@vS20/13/VTZ_akasaka1002. I was hoping you'd return to public safety and give me all sorts of encouragement, Yamaoki-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 12148,
+    "TextENGNew": "``What are you saying?@k@vS20/30/VTZ_yamaoki1010. You're already a respectable investigator.@k@vS20/30/VTZ_yamaoki1011. Please continue to do your best for the sake of social justice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 12149,
+    "TextENGNew": "``...I'm honored.@k@vS20/13/VTZ_akasaka1004. I swear I'll honor the knowledge and experiences you passed on to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 12150,
+    "TextENGNew": "``Yes, I'll be looking forward to it.@k@vS20/30/VTZ_yamaoki1013. Besides, it's not just you.@k@vS20/30/VTZ_yamaoki1014. We'll also raise promising and thoughtful young people who'll support the framework of the future.``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 12151,
+    "TextENGNew": "``Isn't that right, Tomoe-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 12152,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 12153,
+    "TextENGNew": "``Tomoe-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 12154,
+    "TextENGNew": "``...Um, Minai-san.@k@vS20/31/VTZ_fujita1002. The chief... I mean, the former chief is calling for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 12155,
+    "TextENGNew": "``I'm not listening.@k@vS20/28/VTZ_tomoe1003. I'm not listening to any of this.@k@|@y@vS20/28/VTZ_tomoe1004. ...Oh, waitress. I'll have seconds on all the parfaits on this page.``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 12156,
+    "TextENGNew": "``Are you trying to eat this place's storeroom dry?!@k@vS20/31/VTZ_fujita1004. You're no food queen! You're a food devil, or even a food Satan!``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 12157,
+    "TextENGNew": "``It's fine.@k@vS20/28/VTZ_tomoe1006. They say women have a second stomach for sweets, don't they?``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 12158,
+    "TextENGNew": "``N-no... We may be family, but please don't lump me together with you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 12159,
+    "TextENGNew": "``...Haah, my whole life sucks.@k@vS20/28/VTZ_tomoe1008. The wrap-up party's happening somewhere else, and my sister and the old man are acting so lovey-dovey I can't even eat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 12160,
+    "TextENGNew": "``Uh, yes you are. A ton. At full speed, no less.``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 12161,
+    "TextENGNew": "``But you know, I've been thinking.@k@vS20/31/VTZ_fujita1006. Maybe the fact we're in a different location has a lot to do with the massive amount of food Minai-san's gorging on...``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 12162,
+    "TextENGNew": "``It's like she's retreating into eating nonstop because she doesn't want to face reality...``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 12163,
+    "TextENGNew": "``Well, that's because her future niece or nephew will be calling her ``aunt``.@k@vS20/37/VTZ_chisato1004. Of course she wants to run away from that.@k@vS20/37/VTZ_chisato1005. ...Though she'd also probably drive away any men who saw her now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 12164,
+    "TextENGNew": "``...Hey, get over here, you two.@k@|@y@vS20/28/VTZ_tomoe1010. I'll drill the pride of the police into your bones.``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 12165,
+    "TextENGNew": "````W-we'll pass!!````",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 12166,
+    "TextENGNew": "``But Tomoe-san's amazing...@k@vS20/36/VTZ_natsumi1014. I'll have to follow her example by eating a lot so I can cheer up and try harder too.@k@|@y@vS20/36/VTZ_natsumi1015. Isn't that right, Akira-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 12167,
+    "TextENGNew": "``...Please, Natsumi.@k@vS20/39/VTZ_akira1005. I'll let you get away with anything else... so just don't do that, I'm begging you.@k@vS20/39/VTZ_akira1006. It'd be a tragedy in a whole different sense.``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 12168,
+    "TextENGNew": "``...Geez.@k@|@y@vS20/28/VTZ_tomoe1012. Oh, that's right, Rena-san. Nagisa-san's here too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 12169,
+    "TextENGNew": "``Heya, Reina.@k@vS20/35/VTZ_nagisa1002. Long time no see~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 12170,
+    "TextENGNew": "``Ah... N-Nagisa-chan!@k@vS20/02/VTZ_rena1012. You're over there?@k@|@y@vS20/02/VTZ_rena1013. We could've talked about so much if you'd only come over here...``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 12171,
+    "TextENGNew": "``I'm sorry, cram school went on too long...@k@vS20/35/VTZ_nagisa1004. But I'll come visit you soon.@k@vS20/35/VTZ_nagisa1005. So wait for me, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 12172,
+    "TextENGNew": "``Yeah... Yeah!@k@vS20/02/VTZ_rena1015. I'll introduce you to all my friends here!@k@vS20/02/VTZ_rena1016. That's a promise!``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 12173,
+    "TextENGNew": "``Yeah, I'm looking forward to it! Ehehe...``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 12174,
+    "TextENGNew": "``H...huh?@k@|@y@vS20/37/VTZ_chisato1008. Um, excuse me, Ozaki-san.@k@vS20/37/VTZ_chisato1009. Have you ever made that face before?``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 12175,
+    "TextENGNew": "``Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 12176,
+    "TextENGNew": "``Now that you mention it... I've never seen that expression before.@k@|@y@vS20/38/VTZ_tamako1007. Maybe it's exclusive to this wrap-up party?``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 12177,
+    "TextENGNew": "``N-no...@k@|@y@vS20/35/VTZ_nagisa1009. I never had a chance to make that face since the script didn't call for it.@k@|@y@vS20/35/VTZ_nagisa1010. But I've actually had that variation all along.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 12178,
+    "TextENGNew": "``So it was basically dummied out?@k@|@y@vS20/37/VTZ_chisato1011. I see, that makes sense.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 12179,
+    "TextENGNew": "``...It's kind of upsetting when you say it like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 12180,
+    "TextENGNew": "``My apologies, Ozaki-san.@k@vS20/38/VTZ_tamako1009. Chisato has a bad habit of flaring up at anyone cuter than herself.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 12181,
+    "TextENGNew": "``Don't talk about people like they're jealous demons!@k@|@y@vS20/37/VTZ_chisato1013. Oh, speaking of getting dummied out... that event CG ended up the same way, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 12182,
+    "TextENGNew": "``What are you talking about?``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 12183,
+    "TextENGNew": "``You know, that scene where Keiichi-kun's stretching his hand out as far as he can while clinging to something.@k@vS20/37/VTZ_chisato1015. It was in the music videos... but was it ever actually used?``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 12184,
+    "TextENGNew": "``N-now that you mention it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 12185,
+    "TextENGNew": "``Just where were they planning on using it...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 12186,
+    "TextENGNew": "``Oh, I have some comments from the director of the console version regarding that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 12187,
+    "TextENGNew": "``Huh, really?``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 12188,
+    "TextENGNew": "``Yeah. I'll read through them. Let's see... Hmm, I get it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 12189,
+    "TextENGNew": "``It was actually meant to be used in the confrontation with Takano at the end of Miotsukushi.@k@vS20/28/VTZ_tomoe1016. Originally, that scene wasn't planned to be at the Furude shrine, but at the quarry in Yagouchi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 12190,
+    "TextENGNew": "``Wow...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 12191,
+    "TextENGNew": "``Miyuki-chan came to Hinamizawa for Watanagashi, right?@k@vS20/28/VTZ_tomoe1018. However, she was kidnapped by the Mountain Dogs, so her rescue team had to go to the Furude shrine...``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 12192,
+    "TextENGNew": "``And of course, our team was the one assigned to go to the shrine to save Miyuki.@k@vS20/13/VTZ_akasaka1006. In other words, the plan to have Maebara-kun and the others go to the Furude shrine while we went to Yagouchi was originally completely reversed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 12193,
+    "TextENGNew": "``That's right.@k@vS20/28/VTZ_tomoe1020. And Maebara-kun and the others would have fought a hard battle to keep the helicopter in Yagouchi from spreading H-173-02...``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 12194,
+    "TextENGNew": "``And well, that's the story.``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 12195,
+    "TextENGNew": "``Huh... So why was it changed?``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 12196,
+    "TextENGNew": "``The director was too tired.``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 12197,
+    "TextENGNew": "``What?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 12198,
+    "TextENGNew": "``I'm just kidding.@k@|@y@vS20/28/VTZ_tomoe1024. They wanted the essence of it to be Hanyuu-chan and Rika-chan's final battle, so giving Akasaka-san and the others such a big part would've taken a lot away from that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 12199,
+    "TextENGNew": "``It seems that was the reasoning.@k@vS20/28/VTZ_tomoe1026. The director said he questioned whether he should do it or not all the way up until the deadline came... but he still has lingering regrets about it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 12200,
+    "TextENGNew": "``Hauu... So that's it.@k@|@y@vS20/02/VTZ_rena1018. But I wish I could've seen Keiichi-kun have a big moment like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 12201,
+    "TextENGNew": "``Now now, it's all good.@k@vS20/03/VTZ_mion1006. Since the original finale ``Matsuribayashi`` was added in, both you and Kei-chan got plenty of time to shine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 12202,
+    "TextENGNew": "``...Though I think you're the one who got the best moments in the end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 12203,
+    "TextENGNew": "``Ugh.``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 12204,
+    "TextENGNew": "``She's got that right.@k@|@y@vS20/06/VTZ_shion1008. I was all set up to have a cool moment when I held those guys off for you to get away.@k@|@y@vS20/06/VTZ_shion1009. ...And yet I was captured and used as a hostage like it was nothing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 12205,
+    "TextENGNew": "``A-ahahaha...@k@|@y@vS20/36/VTZ_natsumi1019. But Shion-chan, you played a big part and were pretty cool during the counterattack.``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 12206,
+    "TextENGNew": "``When the number of characters gets large, it's inevitable that there'll be a discrepancy in their lines and appearances... Meep.``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 12207,
+    "TextENGNew": "``You're right.@k@vS20/35/VTZ_nagisa1014. But I'd like to talk with Reina someday if I ever get the chance.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 12208,
+    "TextENGNew": "``Ahahaha!@k@vS20/02/VTZ_rena1021. If there's a happy world like that, Rena really wants to go there too!@k@vS20/02/VTZ_rena1022. And then we'll talk a lot, come to an understanding... and get along even better!``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 12209,
+    "TextENGNew": "``Of course!@k@vS20/35/VTZ_nagisa1016. That's a promise, Reina!``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 12210,
+    "TextENGNew": "``...Oh, we're almost out of time.@k@vS20/06/VTZ_shion1011. Alright, it's sad to say goodbye, people of Kakiuchi, but we need to hang up now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 12211,
+    "TextENGNew": "``Okay.@k@vS20/36/VTZ_natsumi1021. See you later~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 12212,
+    "TextENGNew": "``Thank you.@k@|@y@vS20/02/VTZ_rena1024. ...Ahaha, I'm glad I got to talk to Nagisa-chan again.@k@|@y@vS20/02/VTZ_rena1025. Ok, moving on to the next one. Excuse me, can you hear me~?``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 12213,
+    "TextENGNew": "``Yeah, loud and clear.``",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 12214,
+    "TextENGNew": "``Congratulations, everyone. You already got started, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 12215,
+    "TextENGNew": "``Ah, hello there~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 12216,
+    "TextENGNew": "``...Wait, where is that?@k@vS20/03/VTZ_mion1009. It feels like a different time period altogether?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 12217,
+    "TextENGNew": "``...Well, this is interesting.@k@vS20/43/VTZ_Amion1002. I get to talk to a young Rena...``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 12218,
+    "TextENGNew": "``And there's someone I think I've seen before?!@k@vS20/03/VTZ_mion1011. Or rather, someone I don't want to see or acknowledge!@k@vS20/03/VTZ_mion1012. Wh-what's going on here?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 12219,
+    "TextENGNew": "``Quit throwing a fuss about the details.@k@vS20/43/VTZ_Amion1004. We can't talk unless you calm down, can we?``",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 12220,
+    "TextENGNew": "``H-how are you so calm?!@k@vS20/03/VTZ_mion1014. Don't you find this strange at all?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 12221,
+    "TextENGNew": "``Beats me, I don't have a clue about any of this complicated logic stuff.@k@vS20/43/VTZ_Amion1006. ...But there is one thing I can say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 12222,
+    "TextENGNew": "``It's not strange at all for the dead to be walking in Hinamizawa, nor is it strange to hear their voices.@k@|@y@vS20/43/VTZ_Amion1008. In other words, it's not unusual to see and converse with those from another world like we are now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 12223,
+    "TextENGNew": "``I-is that right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 12224,
+    "TextENGNew": "``It is.@k@vS20/43/VTZ_Amion1010. Keep fretting about stupid stuff like that and you're going to get wrinkles and gray hair while you're still young.@k@vS20/43/VTZ_Amion1011. Heheheh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 12225,
+    "TextENGNew": "``Gboa?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 12226,
+    "TextENGNew": "``M-Mii-chan?@k@|@y@vS20/02/VTZ_rena1027. Aaaah, Mii-chan's foaming at the mouth and twitching?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 12227,
+    "TextENGNew": "``Fwaaaaaaaa?@k@vS20/04/VTZ_satoko1002. Sh-Shion-san's also starting to mutter something on the other side of the wall!``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 12228,
+    "TextENGNew": "``Oh? ...Is it really that big of a shock to see your adult self?@k@vS20/43/VTZ_Amion1013. Besides, if you hate it that much, you might be able to change your future if you start putting in the effort now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 12229,
+    "TextENGNew": "``We're nothing more than a single possible future.@k@vS20/43/VTZ_Amion1015. We're like ghosts abandoned from when a choice was made in the past.@k@|@y@vS20/43/VTZ_Amion1016. What matters is the emotions you carry with you... Isn't that right, Rika-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 12230,
+    "TextENGNew": "``Exactly, nipah☆.``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 12231,
+    "TextENGNew": "``...Sonozaki-san does make a point.@k@vS20/42/VTZ_yae1002. Go on, Takumi-kun, say hi to everyone.@k@|@y@vS20/42/VTZ_yae1003. ...Huh?@k@|@y@vS20/42/VTZ_yae1004. I'm sorry, it seems he's fallen asleep again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 12232,
+    "TextENGNew": "``Uh, that's no joke when it comes to you, Towada-san...``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 12233,
+    "TextENGNew": "``...?@k@vS20/40/VTZ_miyuki1004. What's wrong, Ryuunosuke-san?@k@|@y@vS20/40/VTZ_miyuki1005. Please come over to the screen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 12234,
+    "TextENGNew": "``I've been here the whole time!@k@vS20/62/VTZ_arakawa1003. Don't treat me like I'm a ghost!``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 12235,
+    "TextENGNew": "``Haah, and even though they finally added sprites for me in ``Hou``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 12236,
+    "TextENGNew": "``Hey, what the! Now my voice won't even play! What's going on here?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 12237,
+    "TextENGNew": "``Unfortunately, your voice has already vanished!``",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 12238,
+    "TextENGNew": "``What the?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 12239,
+    "TextENGNew": "``Adding your sprites took considerable resources, including your voice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 12240,
+    "TextENGNew": "``Don't go throwing cliche lines at me! I'm seriously pissed off here!``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 12241,
+    "TextENGNew": "``Then here's your reason. ...Have you heard the tale of The Little Mermaid? She gave up her voice in exchange for becoming human.``",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 12242,
+    "TextENGNew": "``In other words, you've lost your ability to speak in exchange for being able to have your sprite standing here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 12243,
+    "TextENGNew": "``This is most certainly not a cut made in production. If you try to speak up, you'll just evaporate into bubbles.``",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 12244,
+    "TextENGNew": "``What's with these nonsensical rules?! Do you hate me? You hate me that much? You enjoy tormenting me that far, oh god of the console versiooon?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 12245,
+    "TextENGNew": "``No no, this is all done out of love.``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 12246,
+    "TextENGNew": "``What kind of love is that?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 12247,
+    "TextENGNew": "``We can't do anything about it.@k@|@y@vS20/40/VTZ_miyuki1008. That's just how it played out... And besides.``",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 12248,
+    "TextENGNew": "``And besides what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 12249,
+    "TextENGNew": "``Any fans out there, I urge you to buy the manga version of Yoigoshi, two volumes long!@k@vS20/40/VTZ_miyuki1010. I'm not in it, unfortunately, but it's a wonderful story where you get to see the valor of Mion-san and the others!``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 12250,
+    "TextENGNew": "``A shameless plug?! If you're going to advertise, make a plea for the me who's actually here!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 12251,
+    "TextENGNew": "``A-ahahaha... Anyway, we've got everything all wrapped up.@k@|@y@vS20/41/VTZ_otobe1003. It's already time, isn't it? Then we'll hang up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 12252,
+    "TextENGNew": "``Nothing's wrapped up at all!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 12253,
+    "TextENGNew": "``Oh, you spoke up again. Which means it's time for you to evaporate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 12254,
+    "TextENGNew": "``*bubble* *bubble* *bubble*``",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 12255,
+    "TextENGNew": "``A-ahahahaha.@k@|@y@vS20/02/VTZ_rena1029. It feels like the ability to have these sorts of talks is a specialty of these wrap-up parties.``",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 12256,
+    "TextENGNew": "``...No... No...@k@vS20/03/VTZ_mion1018. That worn-out slob of a lady isn't my future...!@k@|@y@vS20/03/VTZ_mion1019. I should feel more... alive... I could never turn into such a mountain witch...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 12257,
+    "TextENGNew": "``...And what's more... isn't it strange?@k@vS20/06/VTZ_shion1013. There's only about a ten-year difference or so between Miyuki-chan and us...@k@|@y@vS20/06/VTZ_shion1014. Yet no matter how you think about it, we looked old enough to be her mother, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 12258,
+    "TextENGNew": "``...Um, what are we even supposed to say to them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 12259,
+    "TextENGNew": "``Let's just leave them be.@k@|@y@vS20/05/VTZ_rika1004. All right then, where are we calling next, Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 12260,
+    "TextENGNew": "``Au au, the world of the past.@k@|@y@vS20/12/VTZ_hanyu1002. ...Will you be ok, Rika?``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 12261,
+    "TextENGNew": "``I'm fine.@k@vS20/05/VTZ_rika1006. Unlike Mion and Shion, all I'll be doing is seeing my ancestors.``",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 12262,
+    "TextENGNew": "``What about you?@k@vS20/05/VTZ_rika1008. Are you ok with facing your past self?``",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 12263,
+    "TextENGNew": "``Well, I'm part of a race that doesn't grow old even when we age.@k@vS20/12/VTZ_hanyu1004. I'm also looking forward to seeing Ouka again after so long, au au☆.``",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 12264,
+    "TextENGNew": "``Really?@k@vS20/05/VTZ_rika1010. Then I'll connect us.@k@vS20/05/VTZ_rika1011. Hello...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 12265,
+    "TextENGNew": "``Hngeaaaaaaa?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 12266,
+    "TextENGNew": "``Riku!@k@vS20/45/VTZ_hanyu1006. I swear, I swear, you're always, always, always, always, always like this!@k@vS20/45/VTZ_hanyu1007. Can't you forget your miko outfits for once and find it in yourself to join in the fun!?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 12267,
+    "TextENGNew": "``Abaghe, hhhhhhhoooo?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 12268,
+    "TextENGNew": "``M-mother?@k@|@y@vS20/47/VTZ_ouka1002. Wha...? P-please calm down!@k@vS20/47/VTZ_ouka1003. You're putting Father in danger!``",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 12269,
+    "TextENGNew": "``Danger? Danger?!@k@vS20/45/VTZ_hanyu1009. You're the one in danger here, Ouka!``",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 12270,
+    "TextENGNew": "``Wearing those idiotic and super erotic miko outfit that Riku wove in front of everyone during our last appearance, of all things!``",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 12271,
+    "TextENGNew": "``The whole Onigafuchi faith will fall apart if it looks like Oyashiro-sama is a pervert!``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 12272,
+    "TextENGNew": "``U-um... That's...``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 12273,
+    "TextENGNew": "``I-it's ok, Hanyuu...!@k@vS20/46/VTZ_riku1004. I'm sure we'll get a boost in believers if she goes out in public in that miko outfit!@k@|@y@vS20/46/VTZ_riku1005. Especially men! Believe me, I can proudly attest to that!``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 12274,
+    "TextENGNew": "``That sort of thing will draw the majority of women and men of good morals away!``",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 12275,
+    "TextENGNew": "``Hngeeeh!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 12276,
+    "TextENGNew": "``A-anyway, see you all later! Back to the show!``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 12277,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 12278,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 12279,
+    "TextENGNew": "``...@k@vS20/05/VTZ_rika1014. Hey Hanyuu, can I ask you something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 12280,
+    "TextENGNew": "``Wh-what is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 12281,
+    "TextENGNew": "``It terrifies me a little, no, a lot to know I've inherited some of that blood...@k@vS20/05/VTZ_rika1016. Just what did you see in him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 12282,
+    "TextENGNew": "``Um... his kindness, I think.@k@vS20/12/VTZ_hanyu1016. ...Probably.``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 12283,
+    "TextENGNew": "``Probably?``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 12284,
+    "TextENGNew": "``A-au... It was so long ago that I don't really remember.@k@|@y@vS20/12/VTZ_hanyu1018. ...Or rather, now that I have the benefit of hindsight to look back on it with a cool head, I'm losing confidence in myself.@k@|@y@vS20/12/VTZ_hanyu1019. It's just like Rena said... Love is blind.``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 12285,
+    "TextENGNew": "``...@k@vS20/05/VTZ_rika1019. We may be able to change the future... but there's absolutely nothing we can do about the past.``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 12286,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 12287,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 12288,
+    "TextENGNew": "``...Let's just pretend we didn't see anything.``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 12289,
+    "TextENGNew": "``You're right.@k@vS20/05/VTZ_rika1022. ...``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 12290,
+    "TextENGNew": "``Oh my...? Hey Hanyuu, it seems like there's another incoming call.``",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 12291,
+    "TextENGNew": "``Au? You're right... Who on earth could it be from?``",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 12292,
+    "TextENGNew": "``There was nothing else in the schedule. Let's go ahead and connect for now. ...Hello?``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 12293,
+    "TextENGNew": "``Ah, it actually went through. ...Hehe, I'm about to meet some interesting people.``",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 12294,
+    "TextENGNew": "``Meep? No way, you're...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 12295,
+    "TextENGNew": "``Hello... or maybe I should say nice to meet you? My name is Rika Furude, a high school student from Hinamizawa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 12296,
+    "TextENGNew": "``Rika Furude... you say? Then is this a future version of Rika, like we saw with Mion-san earlier?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 12297,
+    "TextENGNew": "``Th-there's a future version of me participating too? B-but nobody said a word about that at the preliminary meeting...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 12298,
+    "TextENGNew": "``...Hanyuu, what is going on here?! Even if this is a backstage afterparty, how could anyone expect something like this?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 12299,
+    "TextENGNew": "``I-I didn't hear anything about this either! B-but...``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 12300,
+    "TextENGNew": "``...But, what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 12301,
+    "TextENGNew": "``W-well... after going through the ``Higurashi`` series for so many years, I guess you could say I found a link to a parallel world of Hinamizawa...``",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 12302,
+    "TextENGNew": "``A parallel world...? What does that mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 12303,
+    "TextENGNew": "``Exactly what it sounds like, it's a world that isn't our past, present, or future.``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 12304,
+    "TextENGNew": "``The same person can be different there due to differences in chronology and environment, and when those different elements come together they form an alternate history. So aside from the name, it's a different world altogether.``",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 12305,
+    "TextENGNew": "``Hey Mion, have you recovered yet from the shock of meeting your future self?``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 12306,
+    "TextENGNew": "``Hahaha, of co-o-ourse! ...Right, right, another world, I get it~. So that old lady with the same name as me earlier was a totally different person.``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 12307,
+    "TextENGNew": "``That's a relief! I thought I'd lose myself to despair and hang myself if that tired battered lady was my future, but she's a total stranger! Just a doppelganger. Mm-hmm!``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 12308,
+    "TextENGNew": "``...If that really was a doppelganger you'd die the moment you saw it. Meep.``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 12309,
+    "TextENGNew": "``Mion... you need to accept reality. That was a separate person from a parallel universe, but given your circumstances there's a good chance you'll end up like that in the futu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 12310,
+    "TextENGNew": "``Hmm? Ohh, there are lots of people on the other end of the screen! Hello there, everyone having a good time?``",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 12311,
+    "TextENGNew": "``...Way to blatantly divert the conversation. Or should say, dodge the question.``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 12312,
+    "TextENGNew": "``Seems like she really wants to forget that scene from earlier. ...Rika, are you sure you're okay with this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 12313,
+    "TextENGNew": "``You said it yourself, right? I'm talking to a completely different person right now, who just happens to have the same name. So seeing each other face to face is no big deal.``",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 12314,
+    "TextENGNew": "``Hee hee... So the rumors are true. We look so similar it's hard to see each other as strangers.``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 12315,
+    "TextENGNew": "``Hehe, I suppose. Seems like you've had a tough time too, being tossed around by people in a certain organization. ...So, were you able to achieve a happy ending after that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 12316,
+    "TextENGNew": "``Who knows? If I stepped through thousands of worlds like you did, maybe a future like that is out there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 12317,
+    "TextENGNew": "``...Speaking from experience, I can't say I'd recommend it. Plus you'll have a weird god that follows you everywhere you go.``",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 12318,
+    "TextENGNew": "``Don't talk about me like I'm some kind of plague!``",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 12319,
+    "TextENGNew": "``Come to think of it, that girl still isn't here yet? She said she was making a quick trip to the restroom, but still...``",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 12320,
+    "TextENGNew": "``...Ah there she is, she's heading back now. Hey, over here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 12321,
+    "TextENGNew": "``I'm heeere! Rika-san, did you need somethi... What the?``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 12322,
+    "TextENGNew": "``...Huh? Huuuh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 12323,
+    "TextENGNew": "``Ah, it's me! It's just like you said, Rika-san, I'm there!``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 12324,
+    "TextENGNew": "``Waaahh?! I-i-i-it's meee? My look-alike is here agaaaaain?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 12325,
+    "TextENGNew": "``Come on, I'm not some look-alike! I'm an authentic Mion Sonozaki, just like you! Although I'm not the heir to the Three Families or anything big like that~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 12326,
+    "TextENGNew": "``Wow, it's Mii-chan from another world! You look so mature, but so kyute~!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 12327,
+    "TextENGNew": "``Ahahaha! I'm in high school though, so maybe cute isn't the right word! ...But the me of your world is totally cute! Especially that <i>chest</i>!``",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 12328,
+    "TextENGNew": "``M-my cheeest?! D-don't be ridiculous! When it comes to the ``Higurashi`` series, even if I suffer in the popularity polls, my chest is the one thing people always rate top class...``",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 12329,
+    "TextENGNew": "``M-my chest...``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 12330,
+    "TextENGNew": "``... H-have I been utterly defeateeed?! Plus she's sexier and taller than me! It's a total loss! I'm up against a perfect game!``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 12331,
+    "TextENGNew": "``Oh, is that so? In fact, I've been getting bigger lately. Honestly, the bra I have on right now feels pretty tight. Ahahahah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 12332,
+    "TextENGNew": "``Whaaaaat?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 12333,
+    "TextENGNew": "``M-Mii-chan's eyes have gone white, and she's foaming at the mouth again?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 12334,
+    "TextENGNew": "``I-it must be tough looking at an older version of herself... but looking at someone with her same name and so much more womanly charm must really be a lot to take in...``",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 12335,
+    "TextENGNew": "``Umm, you're saying that calmly, but on the other hand... Shion-san, you and Mion-san are twins, so I don't think you can act like she's a total stranger to you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 12336,
+    "TextENGNew": "``I... I'm totally fine! Yes, this is a future version of Sis! S-so I actually welcome the idea that we'll show this much growth! It's a beacon of hope!``",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 12337,
+    "TextENGNew": "``...Shion-san, are you forcing yourself to believe that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 12338,
+    "TextENGNew": "``...Meep? Then that means when I grow up my chest will be as big as this girl's...``",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 12339,
+    "TextENGNew": "``Uhh, Rika? I'm sorry to rain on your parade, but your older appearance was already revealed in the second season of the anime.``",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 12340,
+    "TextENGNew": "``It's such a tragic fate, but there are no signs of anything, she's pancake flat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 12341,
+    "TextENGNew": "``...Oh how convenient, there's a bottle of scathing hot sauce right here. Let me just drink it down the way Americans chug a can of Coke...! *gulp* *gulp*``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 12342,
+    "TextENGNew": "``Ngyaaaahh?! It burns, it buuurns! It's like magma erupting in my mooouth?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 12343,
+    "TextENGNew": "``R-Rika-chan?! Drinking that hot sauce all at once is going to give you a stomachache, you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 12344,
+    "TextENGNew": "``I-I'll be all right...! I just needed to punish a narrow-minded god... N-nipah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 12345,
+    "TextENGNew": "``...Uhh, Rika-san? Is that girl really another form of you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 12346,
+    "TextENGNew": "``I hate to admit it... but youthful mistakes are a thing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 12347,
+    "TextENGNew": "``I mean, no, that's wrong. She's a completely separate being from me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 12348,
+    "TextENGNew": "``...Hmmmm? Well, I suppose it's nice we were able to see something amusing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 12349,
+    "TextENGNew": "``Ah, look at us getting worked up over here. Feel free to call us again any time you like. See ya.``",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 12350,
+    "TextENGNew": "``...That was a surprise on multiple levels. Well, let's just say that such a world may exist out there. ...Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 12351,
+    "TextENGNew": "``...I'm already dead. *slam*``",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 12352,
+    "TextENGNew": "``...What a despicable sight, people of horns. You should be ashamed of yourselves for having such a noisy, boisterous feast.``",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 12353,
+    "TextENGNew": "``Wha...? Is that you, Tamurahime no Mikoto?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 12354,
+    "TextENGNew": "``And me as well... I can't help but show my face at least once.``",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 12355,
+    "TextENGNew": "``Oh, Une. So you rushed all the way out here too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 12356,
+    "TextENGNew": "``It's... not as though we didn't want to come. And... not as though we dislike fun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 12357,
+    "TextENGNew": "``...You two are the same as ever, with that roundabout way of speaking. Doesn't that make your shoulders twitch? Your tongue cramp?``",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 12358,
+    "TextENGNew": "``Pay it no heed, miko of the people of horns. To me, this is the beautiful speech of Yamato. It would be most disgraceful to liken it to the common word.``",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 12359,
+    "TextENGNew": "``It's not like we didn't care. ...It's just a huge hassle for the person who breathes life into you, so it felt like a shame.``",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 12360,
+    "TextENGNew": "``There is no such person! Do refrain from speaking of confidential matters, miko of the people of horns!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 12361,
+    "TextENGNew": "``Right right, got it. ...Anyway, thanks to the ``Kamikashimashi`` story that you two were introduced in, the mystery behind Hanyuu has been getting deeper and deeper.``",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 12362,
+    "TextENGNew": "``A-au...? Rika, what do you mean by that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 12363,
+    "TextENGNew": "``Who are you really, Hanyuu? Are you an alien after all? Or a creature from another dimension? Maybe it would be okay to call you a purely fictional being?``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 12364,
+    "TextENGNew": "``R-Rika... At the very least, you're my descendant, so treating me like a fictional character seems a bit much...``",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 12365,
+    "TextENGNew": "``Then I'd like to use this occasion to clear things up. These gods who know your past went to great lengths to come here. ...So, what can you two tell me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 12366,
+    "TextENGNew": "``I know not. Merely uttering a sound on matters concerning the people of horns fills me with dread. But be that as it may...``",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 12367,
+    "TextENGNew": "``In the past, a continental philosopher exquisitely mused ``I think, therefore I am.`` As such, the truth is only as valid as those who observe it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 12368,
+    "TextENGNew": "``Thus, heed that it is an act of folly to rely on the words of some other god, rather than one's own thoughts and beliefs.``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 12369,
+    "TextENGNew": "``...Way to dodge the question. So, Hanyuu, did you reconcile with these two in the end?``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 12370,
+    "TextENGNew": "``Bleeh! Not a chance! Even if they got down on their knees and begged, I'd never want to see the faces of these narcissistic gods again! Au!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 12371,
+    "TextENGNew": "``S...such insolence! If you insist on goading me like this, you leave me no choice! We shall settle this here and now!``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 12372,
+    "TextENGNew": "``Just what I was hoping for! Let's settle this, clear as day, instead of leaving it with a vague answer like the end of that story did!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 12373,
+    "TextENGNew": "``...My existence... shouldn't be... conspicuous.``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 12374,
+    "TextENGNew": "``Right? When you're standing between two striking gods like this, you can't just go sticking your nose in things.``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 12375,
+    "TextENGNew": "``...So next time, I'll be sure to use this character to the fullest and super dominate the ``Higurashi`` series! Next time it'll be my turn!``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 12376,
+    "TextENGNew": "``...Kuhihihi. Super kuhihihihihihihihihi...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 12377,
+    "TextENGNew": "``...Well, if there is a next time that is. I'll keep my hopes up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 12378,
+    "TextENGNew": "``Now then, we've seen all the endings, so this will be the final wrap-up party.``",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 12379,
+    "TextENGNew": "``Normally, we'd go over the scenario after having a toast, but this time, all the characters here would like to each thank the players.``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 12380,
+    "TextENGNew": "``Uh, I'll start, then.``",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 12381,
+    "TextENGNew": "``We went through all sorts of tragedies and experienced many different types of atrocities, but I'm so happy we were all able to get a happy ending.``",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 12382,
+    "TextENGNew": "``I'm looking forward to when we can all meet again in a different world.``",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 12383,
+    "TextENGNew": "``Ok, I'm next.``",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 12384,
+    "TextENGNew": "``I'm sorry for being a violent character who snaps and goes wild at the smallest things, making things more complicated for everyone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 12385,
+    "TextENGNew": "``But... I truly am glad I managed to find the truth I'd been looking for and acquired something precious at the end.@k@vS20/06/440600207. It's thanks to you all sticking with me through the end that I accomplished this, so I'd like to thank you from the bottom of my heart.``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 12386,
+    "TextENGNew": "``Okay, I'm up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 12387,
+    "TextENGNew": "``I caused a lot of people problems due to the trauma of the sins I committed in the past and my inability to be honest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 12388,
+    "TextENGNew": "``But I'll always treasure my memories with those who accepted and protected me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 12389,
+    "TextENGNew": "``I'll live on, never forgetting these feelings, and always considering what I can do for others.``",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 12390,
+    "TextENGNew": "``Perhaps I was too cowardly...``",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 12391,
+    "TextENGNew": "``...To confirm the truth and to protect what mattered to me.@k@vS20/08/440800166. I plan to bolster my courage and act while always keeping in mind what I should do in the present.``",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 12392,
+    "TextENGNew": "``Thank you so much for helping me realize what matters.``",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 12393,
+    "TextENGNew": "``...I don't think I went down the wrong path.``",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 12394,
+    "TextENGNew": "``But because I was obsessed with nothing else but achieving my dreams, I forgot that the world is comprised of many peoples' wills.``",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 12395,
+    "TextENGNew": "``Other people have their own dreams and values that they surely treasure as much as I do mine.@k@vS20/09/440900166. I understand that well, now that I have someone supporting me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 12396,
+    "TextENGNew": "``This was also because you all guided me this far.``",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 12397,
+    "TextENGNew": "``Yes, I think so too.@k@vS20/10/441000124. I was able to realize that thanks to a single girl.``",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 12398,
+    "TextENGNew": "``A self-righteous dream is nothing but blind ambition.@k@vS20/10/441000126. Dreams are fulfilled by earning the acknowledgment of many, and acknowledging them in return.@k@|@y@vS20/10/441000127. ...Oh my, it seems to have taken so long for us to realize that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 12399,
+    "TextENGNew": "``But I'm sure we're happy we were able to realize it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 12400,
+    "TextENGNew": "``The door to the truth lies at that time in that place.@k@vS20/13/441300091. It doesn't matter how many failures or regrets I accumulate along the way.@k@vS20/13/441300092. I want to never forget the effort I put into opening that door, and that I never gave up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 12401,
+    "TextENGNew": "``Because that seems like the best and most understandable way to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 12402,
+    "TextENGNew": "``...It's nothing that complicated at all.@k@vS20/11/440700451. So long as people have the will, their dreams will never betray them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 12403,
+    "TextENGNew": "``We can't get back lost time, but the future surely has something in store for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 12404,
+    "TextENGNew": "``All hail curry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 12405,
+    "TextENGNew": "``Why did you have to go and ruin the good finish we were all building up to?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 12406,
+    "TextENGNew": "``...Actually, was Chie-sensei always like this?@k@vS20/07/443300014. Mmph, I'm not sure it matches up with my vision of her...``",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 12407,
+    "TextENGNew": "``Huh? Time for us to close it off?@k@|@y@vS20/01/440100316. Ok then... Ahem.``",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 12408,
+    "TextENGNew": "``Thank you very much for playing all the way to the end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 12409,
+    "TextENGNew": "``We failed and encountered a lot of tragedies along the way, but I'm really happy we were able to greet this happy future at the end like this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 12410,
+    "TextENGNew": "``Irreplaceable friends who are always nearby and support you through life.@k@vS20/02/440200436. Do you all have people like that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 12411,
+    "TextENGNew": "``You can't obtain that by simply wishing for it.@k@vS20/02/440200438. But Rena believes that those who always strive to be kind to others will have people reaching out to them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 12412,
+    "TextENGNew": "``...I'm sure no one's born having it all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 12413,
+    "TextENGNew": "``Some things that you have now were obtained out of your own strength, and other things were given to you by someone else.@k@vS20/05/440500207. I'm sure it's a joy to be able to live a fulfilled life surrounded by those things.``",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 12414,
+    "TextENGNew": "``But I believe that rather than being on the receiving end, it is more wonderful to be the one giving, to change someone else's time and world into something blissful.``",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 12415,
+    "TextENGNew": "``...``Higurashi When They Cry`` is a story full of dreams, hopes, and feelings of many people like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 12416,
+    "TextENGNew": "``If this story meant anything to you, or was able to spark some sort of change in you, then we're very happy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 12417,
+    "TextENGNew": "``And we hope that you never forget ``Higurashi`` and us as we continue to spread through all sorts of worlds. Au.``",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 12418,
+    "TextENGNew": "``Ok then, one last word from everyone!@k@|@y@vS20/03/440300555. Shall I kick things off? Then one, two, three!``",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 12419,
+    "TextENGNew": "``Thank you so much!``",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 12420,
+    "TextENGNew": "``Thank you so much!``",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 12421,
+    "TextENGNew": "``Until we meet again somewhere!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 12422,
+    "TextENGNew": "``Until we meet again somewhere!!``",
+    "significantChanges": false
+  }
+]
