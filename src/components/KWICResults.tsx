@@ -5,8 +5,10 @@ import "./KWICResults.css";
 interface KWICResultsProps {
   query: string;
   totalHits: number;
+  totalSources: number;
   groups: SearchGroup[];
   onSelectHit: (hit: SearchHit, filename: string) => void;
+  onLoadMore: (filename: string) => void;
   selectedEntryIndex: number | null;
 }
 
@@ -78,16 +80,21 @@ function highlightInText(text: string, query: string): ReactNode {
 function KWICGroup({
   group,
   query,
+  totalHitsInFile,
   onSelectHit,
+  onLoadMore,
   selectedEntryIndex,
 }: {
   group: SearchGroup;
   query: string;
+  totalHitsInFile?: number;
   onSelectHit: (hit: SearchHit, filename: string) => void;
+  onLoadMore: (filename: string) => void;
   selectedEntryIndex: number | null;
 }) {
   const [open, setOpen] = useState(true);
   const name = formatSourceName(group.source, group.filename);
+  const hasMore = totalHitsInFile != null && totalHitsInFile > group.hits.length;
 
   return (
     <div className="kwic-group">
@@ -96,7 +103,9 @@ function KWICGroup({
           ▶
         </span>
         <span className="kwic-group__name">{name}</span>
-        <span className="kwic-group__badge">{group.hits.length}</span>
+        <span className="kwic-group__badge">
+          {group.hits.length}{hasMore ? ` / ${totalHitsInFile}` : ""}
+        </span>
       </div>
 
       {open && (
@@ -150,6 +159,14 @@ function KWICGroup({
               </div>
             );
           })}
+          {hasMore && (
+            <button
+              className="kwic-group__show-more"
+              onClick={() => onLoadMore(group.filename)}
+            >
+              Show all {totalHitsInFile} results in {name}
+            </button>
+          )}
         </div>
       )}
     </div>
@@ -159,8 +176,10 @@ function KWICGroup({
 export default function KWICResults({
   query,
   totalHits,
+  totalSources,
   groups,
   onSelectHit,
+  onLoadMore,
   selectedEntryIndex,
 }: KWICResultsProps) {
   if (totalHits === 0 && query) {
@@ -176,8 +195,8 @@ export default function KWICResults({
   return (
     <div className="kwic-results">
       <div className="kwic-results__summary">
-        {totalHits} hit{totalHits !== 1 ? "s" : ""} across {groups.length} source
-        {groups.length !== 1 ? "s" : ""}
+        {totalHits.toLocaleString()} hit{totalHits !== 1 ? "s" : ""} across {totalSources.toLocaleString()} source
+        {totalSources !== 1 ? "s" : ""}
       </div>
 
       {groups.map((group) => (
@@ -185,7 +204,9 @@ export default function KWICResults({
           key={group.filename}
           group={group}
           query={query}
+          totalHitsInFile={group.totalInFile}
           onSelectHit={onSelectHit}
+          onLoadMore={onLoadMore}
           selectedEntryIndex={selectedEntryIndex}
         />
       ))}

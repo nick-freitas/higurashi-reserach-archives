@@ -73,6 +73,23 @@
   white-space: nowrap;
 }
 
+.kwic-group__show-more {
+  display: block;
+  margin: 8px 0 4px 12px;
+  padding: 4px 12px;
+  font-size: 0.8rem;
+  color: #b0a890;
+  background: none;
+  border: 1px solid #3a3940;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.kwic-group__show-more:hover {
+  color: #d4c8a0;
+  border-color: #5a5960;
+}
+
 /* KWIC lines */
 .kwic-group__lines {
   padding-left: 15px;

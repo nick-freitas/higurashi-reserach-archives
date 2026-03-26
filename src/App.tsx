@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useMemo } from "react";
+import { useState, useEffect, useCallback, useMemo, useRef } from "react";
 import type {
   SearchResponse,
   SearchHit,
@@ -11,7 +11,7 @@ import type {
   Source,
 } from "./types";
 import { initDb, listArcs, getArcChapters, getEntries, search, getSpeakers, loadAnnotations, saveAnnotation } from "./db";
-import type { EntryRow, Annotation, AnnotationsMap, SearchOptions } from "./db";
+import type { EntryRow, Annotation, AnnotationsMap, SearchOptions, SearchResult } from "./db";
 import SearchBar from "./components/SearchBar";
 import KWICResults from "./components/KWICResults";
 import DetailPanel from "./components/DetailPanel";
@@ -43,7 +43,7 @@ function entryRowToArcEntry(row: EntryRow): ArcEntry {
 }
 
 function mapSearchResult(
-  result: { entries: EntryRow[]; total: number; query: string },
+  result: SearchResult,
   query: string,
 ): SearchResponse {
   // Group entries by filename
@@ -99,10 +99,14 @@ function mapSearchResult(
     });
   }
 
-  const groups: SearchGroup[] = [...groupMap.values()];
+  const groups: SearchGroup[] = [...groupMap.values()].map(g => ({
+    ...g,
+    totalInFile: result.fileCountMap.get(g.filename) ?? g.hits.length,
+  }));
   return {
     query,
     totalHits: result.total,
+    totalSources: result.totalSources,
     offset: 0,
     limit: 100,
     groups,
@@ -254,6 +258,16 @@ export default function App() {
 
   const handleSearch = useCallback((query: string, lang: "jp" | "en" | "both") => {
     if (!dbReady) return;
+
+    // No text query → switch to browse mode with "All" selected
+    if (!query) {
+      setSearchResult(null);
+      if (!selectedBookId) {
+        setSelectedBookId("__all__");
+      }
+      return;
+    }
+
     setLoading(true);
     setSelectedEntry(null);
     try {
@@ -282,6 +296,7 @@ export default function App() {
         opts.scores = selectedScores;
       }
 
+      lastSearchOptsRef.current = opts;
       const result = search(opts);
       setSearchResult(mapSearchResult(result, query));
     } catch (err) {
@@ -290,6 +305,26 @@ export default function App() {
       setLoading(false);
     }
   }, [dbReady, selectedBookId, selectedArcId, selectedChapter, bookArcIds, selectedCharacter, significantMode, selectedScores]);
+
+  const lastSearchOptsRef = useRef<SearchOptions | null>(null);
+
+  const handleLoadMore = useCallback((filename: string) => {
+    if (!lastSearchOptsRef.current) return;
+    // Re-run search scoped to this file with a large limit
+    const opts: SearchOptions = { ...lastSearchOptsRef.current, file: filename, offset: 0, limit: 5000 };
+    const result = search(opts);
+    // Merge the expanded file results into the existing search result
+    setSearchResult(prev => {
+      if (!prev) return prev;
+      const newGroup = mapSearchResult(result, prev.query).groups[0];
+      if (!newGroup) return prev;
+      newGroup.totalInFile = result.fileCountMap.get(filename) ?? newGroup.hits.length;
+      const groups = prev.groups.map(g =>
+        g.filename === filename ? newGroup : g
+      );
+      return { ...prev, groups };
+    });
+  }, []);
 
   const handleClearSearch = useCallback(() => {
     setSearchResult(null);
@@ -465,8 +500,10 @@ export default function App() {
           <KWICResults
             query={filteredSearchResult.query}
             totalHits={filteredSearchResult.totalHits}
+            totalSources={filteredSearchResult.totalSources}
             groups={filteredSearchResult.groups}
             onSelectHit={handleSelectHit}
+            onLoadMore={handleLoadMore}
             selectedEntryIndex={selectedEntry?.index ?? null}
           />
         ) : (

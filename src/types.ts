@@ -28,11 +28,13 @@ export interface SearchGroup {
   source: Source;
   filename: string;
   hits: SearchHit[];
+  totalInFile?: number;
 }
 
 export interface SearchResponse {
   query: string;
   totalHits: number;
+  totalSources: number;
   offset: number;
   limit: number;
   groups: SearchGroup[];
