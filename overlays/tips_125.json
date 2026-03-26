@@ -8,146 +8,132 @@
   },
   {
     "index": 1,
-    "MessageID": 16196,
-    "TextENGNew": "``Good work today~``",
+    "MessageID": 16032,
+    "TextENGNew": "The Son of God prophesied that he would rise again on the third day.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes 'promised' to 'prophesied' (JPN 予言 = prophecy, not promise), and 'within three days' to 'on the third day' (JPN 三日の後に = after three days), altering both the nature of the speech act and the timing.",
+    "changeScore": 3
   },
   {
     "index": 2,
-    "MessageID": 16197,
-    "TextENGNew": "``Good work, everyone. ...Oh, and I'm sorry about today. I got caught up talking with my friend...``",
+    "MessageID": 16033,
+    "TextENGNew": "Sinners sealed the tomb with soldiers and kept watch to ensure his body would not return to life, but this was the height of foolishness.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "The new translation adds the detail of sealing the tomb with soldiers (JPN 兵にて墓を封じ), which the original omitted entirely, and distinguishes between sealing and watching as separate actions.",
+    "changeScore": 3
   },
   {
     "index": 3,
-    "MessageID": 16198,
-    "TextENGNew": "``Ahaha, don't worry about it. Your boyfriend came to see you, so of course you'd want to chat.``",
+    "MessageID": 16034,
+    "TextENGNew": "For resurrection does not mean the revival of the flesh--it means the revival of one's spirit and teachings.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes from a specific attribution ('He meant') to a general philosophical statement about the nature of resurrection, matching the JPN general declarative form (復活とは...だからです).",
+    "changeScore": 3
   },
   {
     "index": 4,
-    "MessageID": 16199,
-    "TextENGNew": "``Huh... oh, no... he's not exactly my... boyfriend...``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16035,
+    "TextENGNew": "Do not fear the death of the body.",
+    "significantChanges": false
   },
   {
     "index": 5,
-    "MessageID": 16200,
-    "TextENGNew": "``Even so, he's even nicer than you described. He rushed to your rescue and chased those thugs away, right?``",
+    "MessageID": 16036,
+    "TextENGNew": "If your contributions are unshakeable, you will surely be reborn.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes the condition from 'achieve great things' to 'contributions are unshakeable' (JPN 貢献が揺ぎ無い = contributions are unwavering), which shifts the criterion from achievement to enduring impact.",
+    "changeScore": 3
   },
   {
     "index": 6,
-    "MessageID": 16201,
-    "TextENGNew": "``...Ah, yes. Thanks to him... I was saved.``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16037,
+    "TextENGNew": "In that moment, you will transcend death and attain eternal life.",
+    "significantChanges": false
   },
   {
     "index": 7,
-    "MessageID": 16202,
-    "TextENGNew": "``Kyaa~ How cool~♪ Having a handsome hero swoop in to rescue you when you're surrounded by bad guys... that's a girl's ultimate fantasy, isn't it~?``",
+    "MessageID": 16038,
+    "TextENGNew": "And then the devil took the Son of God to the edge of a cliff and told him to leap.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes 'A demon' to 'the devil' (JPN 悪魔 in biblical context refers to Satan/the devil specifically) and 'son of God' to 'Son of God,' shifting from a generic demon to the specific biblical adversary.",
+    "changeScore": 3
   },
   {
     "index": 8,
-    "MessageID": 16203,
-    "TextENGNew": "``Ah, ahaha... Kei-chan is, well, he's strong, at least...``",
+    "MessageID": 16039,
+    "TextENGNew": "He claimed that if he was truly the Son of God, then God would perform a miracle to protect him.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes 'a son of God' to 'the Son of God' (unique title vs generic) and specifies 'God would perform a miracle to protect him' rather than a vague 'a miracle would help him survive,' making God the explicit agent as in the JPN (神は奇跡にてその身を守る).",
+    "changeScore": 3
   },
   {
     "index": 9,
-    "MessageID": 16204,
-    "TextENGNew": "``But neither of you got hurt, so that's a relief. By the way, why did those delinquents pick on you in the first place?``",
+    "MessageID": 16040,
+    "TextENGNew": "To put this to the test is to put God himself to the test.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Old misrepresents as narrative action ('He tried to challenge'); Japanese is a philosophical statement about testing God.",
+    "changeScore": 4
   },
   {
     "index": 10,
-    "MessageID": 16205,
-    "TextENGNew": "``Well... I was just walking down the street normally, and they started hitting on me... haha.``",
+    "MessageID": 16041,
+    "TextENGNew": "God may test mankind, but mankind must never test God.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes 'challenge' to 'test' throughout (JPN 試す = to test/try, not challenge), which shifts the meaning from confrontation to verification/doubt.",
+    "changeScore": 3
   },
   {
     "index": 11,
-    "MessageID": 16206,
-    "TextENGNew": "``Wow, so it was street harassment? Those types are showing up even in Okinomiya now. We should be careful too...``",
+    "MessageID": 16042,
+    "TextENGNew": "To test is to doubt.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes 'challenge' to 'test' (JPN 試す) and 'suspect' to 'doubt' (JPN 疑う), correcting both key terms to more accurate translations.",
+    "changeScore": 3
   },
   {
     "index": 12,
-    "MessageID": 16207,
-    "TextENGNew": "``You're right. I'll be more careful from now on. Next time, I'll smack them with an extendable baton or something. Ahahaha~``",
+    "MessageID": 16043,
+    "TextENGNew": "Doubt will lend your ear to the devil's whispers and lead you into corruption.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Changes 'Suspicion' to 'Doubt' (JPN 疑い), 'speak words of evil' to 'the devil's whispers' (JPN 悪魔の囁き = devil's whispers), and 'falter' to 'corruption' (JPN 堕落 = corruption/depravity), significantly altering the theological imagery and severity.",
+    "changeScore": 3
   },
   {
     "index": 13,
-    "MessageID": 16208,
-    "TextENGNew": "``...Just don't use a knife, okay? Nowadays you can get arrested just for carrying a utility knife around.``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16044,
+    "TextENGNew": "Do not doubt your own achievements.",
+    "significantChanges": false
   },
   {
     "index": 14,
-    "MessageID": 16209,
-    "TextENGNew": "``Roger that~ ...Well then, I'll head out first. Good work today, everyone~``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16045,
+    "TextENGNew": "Do not doubt your own life.",
+    "significantChanges": false
   },
   {
     "index": 15,
-    "MessageID": 16210,
-    "TextENGNew": "``...Sonozaki-san seemed to be in awfully high spirits, didn't she? She must have been really happy.``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16046,
+    "TextENGNew": "Do not doubt your own contributions.",
+    "significantChanges": false
   },
   {
     "index": 16,
-    "MessageID": 16211,
-    "TextENGNew": "``Ahh~ I wish I could find someone nice too. Wouldn't it be wonderful if there were a prince charming somewhere out there who'd come running whenever I was in trouble~?``",
+    "MessageID": 16047,
+    "TextENGNew": "And do not put others' evaluation of your work to the test.",
     "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "changeReason": "Old mistranslates: says preventing others from criticizing, but Japanese means one must not seek validation.",
+    "changeScore": 4
   },
   {
     "index": 17,
-    "MessageID": 16212,
-    "TextENGNew": "``...But I definitely wouldn't want anyone from that Dessert Festa crowd, that's for sure.``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16048,
+    "TextENGNew": "For to test that is the same as doubting your very life.",
+    "significantChanges": false
   },
   {
     "index": 18,
-    "MessageID": 16213,
-    "TextENGNew": "``Ahahahaha!!``",
-    "significantChanges": true,
-    "changeReason": "Original translation was empty; new translation provides content.",
-    "changeScore": 5
+    "MessageID": 16049,
+    "TextENGNew": "Hifumi. T",
+    "significantChanges": false
   }
 ]

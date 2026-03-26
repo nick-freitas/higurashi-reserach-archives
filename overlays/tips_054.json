@@ -8,136 +8,138 @@
   },
   {
     "index": 1,
-    "MessageID": 15433,
-    "TextENGNew": "The danger inherent in learned delusions lies in the short-circuit misinterpretation of facts.",
+    "MessageID": 14125,
+    "TextENGNew": "The collection of fables known in Japan as 'Aesop's Fables' is said to have been created by the ancient Greek fabulist Aesopus — written in English as 'Aesop.'",
     "significantChanges": true,
-    "changeReason": "Old uses incorrect clinical terminology ('culture-bound syndrome', 'delusional misidentification syndrome'); new correctly translates 学習型の妄想 as 'learned delusions.'",
-    "changeScore": 4
+    "changeReason": "Original translation was missing entirely; new translation provides: introduction to Aesop's Fables and their origin from the ancient Greek fabulist Aesopus.",
+    "changeScore": 5
   },
   {
     "index": 2,
-    "MessageID": 15434,
-    "TextENGNew": "In the present case, that is to say, every time the patient observes something trivial, she attempts to interpret it as a manifestation of the \"curse.\"",
-    "significantChanges": false
+    "MessageID": 14126,
+    "TextENGNew": "However, not all of them were Aesopus's own creations. The prevailing theory holds that many were folk fables that existed throughout Greece during his lifetime and afterward,",
+    "significantChanges": true,
+    "changeReason": "Original translation was missing entirely; new translation provides: explanation that not all fables were Aesopus's original creations, many being pre-existing Greek folk tales.",
+    "changeScore": 5
   },
   {
     "index": 3,
-    "MessageID": 15435,
-    "TextENGNew": "Furthermore, the subject exhibits a slight but observable tendency to favor self-righteous words and actions.",
+    "MessageID": 14127,
+    "TextENGNew": "or folk tales passed down as moral teachings in Asia Minor, his homeland, which were later compiled under his name.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: continuation explaining folk tales from Asia Minor compiled under Aesop's name.",
     "changeScore": 5
   },
   {
     "index": 4,
-    "MessageID": 15436,
-    "TextENGNew": "Needless to say, this is at an extremely mild level and poses no impediment to ordinary daily life.",
+    "MessageID": 14128,
+    "TextENGNew": "Among the most famous of these tales is 'The Boy Who Cried Wolf' — also known as 'The Wolf and the Shepherd.'",
     "significantChanges": true,
-    "changeReason": "Old incorrectly introduces 'personality disorder'; new correctly translates that the condition is extremely mild.",
+    "changeReason": "Original translation was missing entirely; new translation provides: identification of 'The Boy Who Cried Wolf' as one of the most famous fables.",
     "changeScore": 5
   },
   {
     "index": 5,
-    "MessageID": 15437,
-    "TextENGNew": "Even healthy individuals frequently engage in fantasy (delusional thinking) in the course of daily life.",
+    "MessageID": 14129,
+    "TextENGNew": "— A shepherd boy, bored with the monotony of his days, cries one day that a wolf has come. The adults hear his cries and rush over armed and in a panic, only to discover it was a lie.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: the opening of the Boy Who Cried Wolf story where the bored shepherd boy first raises a false alarm.",
     "changeScore": 5
   },
   {
     "index": 6,
-    "MessageID": 15438,
-    "TextENGNew": "However, because the content is unrealistic, the individual themselves cannot make sense of it, and it is normally disregarded automatically.",
+    "MessageID": 14130,
+    "TextENGNew": "The adults, exhausted from the fruitless ordeal, are furious. But the boy finds their reaction so entertaining that, to stave off boredom, he begins to raise the alarm again and again as the days go by.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: how the boy repeatedly cries wolf for entertainment, angering the adults.",
     "changeScore": 5
   },
   {
     "index": 7,
-    "MessageID": 15439,
-    "TextENGNew": "However, there are cases in which such thoughts accumulate despite being incomprehensible.",
+    "MessageID": 14131,
+    "TextENGNew": "At first the adults come running each time, but eventually, fed up with the boy's lies, no one comes anymore.",
     "significantChanges": true,
-    "changeReason": "Old says thoughts are ignored (opposite meaning); new correctly translates that thoughts accumulate despite being incomprehensible.",
-    "changeScore": 4
+    "changeReason": "Original translation was missing entirely; new translation provides: the adults eventually stop responding to the boy's false alarms.",
+    "changeScore": 5
   },
   {
     "index": 8,
-    "MessageID": 15440,
-    "TextENGNew": "This is thought to be largely determined by personality, and the subject appears to have a relatively strong tendency toward this pattern of thinking.",
+    "MessageID": 14132,
+    "TextENGNew": "Then one day, a wolf truly does come to the pasture. The startled boy calls for help from the adults, but they assume it is another lie and ignore him. In the end, the sheep are eaten...",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: the climax where a real wolf comes but no one believes the boy, resulting in the sheep being eaten.",
     "changeScore": 5
   },
   {
     "index": 9,
-    "MessageID": 15441,
-    "TextENGNew": "In the subject's case, it appears that these incomprehensible delusions accumulated and, through an interpretive framework developed via lifelong exposure to local lore and learning, became comprehensible by being interpreted as the \"curse.\"",
+    "MessageID": 14133,
+    "TextENGNew": "The lesson of this tale as it is generally known is: 'Lying destroys trust.'",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: the commonly known moral of the fable — that lying destroys trust.",
     "changeScore": 5
   },
   {
     "index": 10,
-    "MessageID": 15442,
-    "TextENGNew": "A comprehensible delusional system is perceived as comprehensible \"fact,\" causing the individual's convictions to grow ever more entrenched over time.",
+    "MessageID": 14134,
+    "TextENGNew": "...And yet, when one considers the international circumstances of ancient Greece and Asia Minor at the time this fable was composed, an alternative interpretation has recently begun to emerge.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: introduction of an alternative interpretation of the fable based on historical context.",
     "changeScore": 5
   },
   {
     "index": 11,
-    "MessageID": 15443,
-    "TextENGNew": "The individual themselves is unaware that their behavior is problematic, and since they have made sense of the delusional system through their own interpretation, it is not uncommon for them to be highly fortified with elaborate reasoning, making it extremely difficult for a third party to point out that it is a delusion.",
+    "MessageID": 14135,
+    "TextENGNew": "Let us suppose, for example, that out of ten times the boy cries wolf, nine of them are lies.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: a hypothetical scenario — nine out of ten wolf cries being lies.",
     "changeScore": 5
   },
   {
     "index": 12,
-    "MessageID": 15444,
-    "TextENGNew": "Furthermore, depending on the nature of the delusion, when harmed, the individual may engage in negative anticipation and speculation, ultimately fabricating imaginary enemies and proceeding to antisocial acts.",
+    "MessageID": 14136,
+    "TextENGNew": "In that case, is it truly the right course of action for the village adults to make no preparations for a wolf attack merely because the probability is ten percent?",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: the rhetorical question challenging whether ignoring a ten percent threat is wise.",
     "changeScore": 5
   },
   {
     "index": 13,
-    "MessageID": 15445,
-    "TextENGNew": "Fortunately, the present subject has not reached such a severe state.",
+    "MessageID": 14137,
+    "TextENGNew": "Looked at paradoxically: one of those ten times will inevitably be a real wolf.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: the paradoxical observation that one alarm out of ten is guaranteed to be real.",
     "changeScore": 5
   },
   {
     "index": 14,
-    "MessageID": 15446,
-    "TextENGNew": "With appropriate treatment, she should be able to reintegrate into society without great difficulty.",
+    "MessageID": 14138,
+    "TextENGNew": "That one real instance might be the tenth — or it might be the very first. And if the wolf truly comes on the first occasion, the probability is not ten percent at all: it is effectively one hundred percent.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: argument that the real wolf could come first, making the effective probability 100%.",
     "changeScore": 5
   },
   {
     "index": 15,
-    "MessageID": 15447,
-    "TextENGNew": "For the above reasons, if a return to her home village is planned, I would strongly urge that she continue to receive guidance from a specialized medical institution thereafter.",
+    "MessageID": 14139,
+    "TextENGNew": "This holds true whether the total is ten times or a hundred.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: statement that this principle applies regardless of scale.",
     "changeScore": 5
   },
   {
     "index": 16,
-    "MessageID": 15448,
-    "TextENGNew": "My sincerest apologies for the considerable length of this letter.",
+    "MessageID": 14140,
+    "TextENGNew": "Even if ninety-nine out of a hundred are lies, whether the one true alarm comes last or first makes an enormous difference in perceived probability and in consequence. And regrettably, in most cases, one only learns which it was after the outcome.",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: elaboration on how timing of the real event changes perceived probability, knowable only in hindsight.",
     "changeScore": 5
   },
   {
     "index": 17,
-    "MessageID": 15449,
-    "TextENGNew": "Thank you for reading to the end.",
+    "MessageID": 14141,
+    "TextENGNew": "Even when the estimated probability is low, failing to prepare for the worst at all times means that the perceived probability and the resulting loss can shift dramatically. ...In other words, the lesson hidden within this fable may well have been: 'If you are prepared, you have nothing to fear.'",
     "significantChanges": true,
-    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeReason": "Original translation was missing entirely; new translation provides: the alternative moral — that the fable's hidden lesson is about preparedness rather than just honesty.",
     "changeScore": 5
   }
 ]
