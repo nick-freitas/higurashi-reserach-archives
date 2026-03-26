@@ -57,8 +57,10 @@ export const BOOKS: BookDef[] = [
       "matsuribayashi",
       "miotsukushi_omote", "miotsukushi_ura",
       "saikoroshi", "kotohogushi", "hajisarashi",
+      "everdream",
     ],
     arcOrder: [
+      "everdream",
       "book_04_prologue",
       "matsuribayashi",
       "miotsukushi_omote", "miotsukushi_ura",
@@ -77,12 +79,6 @@ export const BOOKS: BookDef[] = [
     label: "Tips",
     arcIds: ["tips"],
     arcOrder: ["tips"],
-  },
-  {
-    id: "everdream",
-    label: "Everdream",
-    arcIds: ["everdream"],
-    arcOrder: ["everdream"],
   },
 ];
 

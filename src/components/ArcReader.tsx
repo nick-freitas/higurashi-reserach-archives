@@ -104,8 +104,15 @@ export default function ArcReader({
       <div className="arc-reader__pagination">
         <button
           className="arc-reader__page-btn"
-          disabled={chapterData.offset === 0}
-          onClick={() => handlePageChange(Math.max(0, chapterData.offset - chapterData.limit), "prev")}
+          onClick={() => {
+            if (chapterData.offset === 0) {
+              // Wrap to last page
+              const lastPageOffset = (totalPages - 1) * chapterData.limit;
+              handlePageChange(lastPageOffset, "prev");
+            } else {
+              handlePageChange(chapterData.offset - chapterData.limit, "prev");
+            }
+          }}
         >
           Prev
         </button>
@@ -114,8 +121,14 @@ export default function ArcReader({
         </span>
         <button
           className="arc-reader__page-btn"
-          disabled={chapterData.offset + chapterData.limit >= chapterData.totalEntries}
-          onClick={() => handlePageChange(chapterData.offset + chapterData.limit, "next")}
+          onClick={() => {
+            if (chapterData.offset + chapterData.limit >= chapterData.totalEntries) {
+              // Wrap to first page
+              handlePageChange(0, "next");
+            } else {
+              handlePageChange(chapterData.offset + chapterData.limit, "next");
+            }
+          }}
         >
           Next
         </button>
