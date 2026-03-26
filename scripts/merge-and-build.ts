@@ -77,13 +77,88 @@ function getChapterName(filename: string, source: Source): string | null {
   }
 }
 
+// ── Overlay types ─────────────────────────────────────────────────
+
+interface OverlayEntry {
+  index: number;
+  MessageID?: number;
+  TextENGNew?: string;
+  ENGNew?: string;
+  significantChanges?: boolean;
+  changeReason?: string;
+  changeScore?: number;
+}
+
+// ── Merge logic ───────────────────────────────────────────────────
+
+function mergeOverlays(sourceEntries: any[], overlayEntries: OverlayEntry[], filename: string): any[] {
+  // Clone so we don't mutate the originals
+  const merged = sourceEntries.map((e) => ({ ...e }));
+
+  for (const overlay of overlayEntries) {
+    const idx = overlay.index;
+
+    if (idx < 0 || idx >= merged.length) {
+      console.warn(`[${filename}] overlay index ${idx} out of bounds (source has ${merged.length} entries), skipping`);
+      continue;
+    }
+
+    const target = merged[idx];
+
+    // For MSGSET entries, verify MessageID matches if present in overlay
+    if (overlay.MessageID != null && target.type === "MSGSET") {
+      if (target.MessageID !== overlay.MessageID) {
+        console.warn(
+          `[${filename}] MessageID mismatch at index ${idx}: source=${target.MessageID}, overlay=${overlay.MessageID}, skipping`
+        );
+        continue;
+      }
+    }
+
+    // Merge overlay fields into the source entry
+    if (overlay.TextENGNew !== undefined) target.TextENGNew = overlay.TextENGNew;
+    if (overlay.ENGNew !== undefined) target.ENGNew = overlay.ENGNew;
+    if (overlay.significantChanges !== undefined) target.significantChanges = overlay.significantChanges;
+    if (overlay.changeReason !== undefined) target.changeReason = overlay.changeReason;
+    if (overlay.changeScore !== undefined) target.changeScore = overlay.changeScore;
+  }
+
+  return merged;
+}
+
 // ── Main build ────────────────────────────────────────────────────
 
-const GAME_TEXT_DIR = path.resolve(import.meta.dirname ?? __dirname, "..", "game_text");
-const DB_PATH = path.resolve(import.meta.dirname ?? __dirname, "..", "public", "higurashi.db");
+const scriptDir = import.meta.dirname ?? __dirname;
+const SOURCE_DIR = path.resolve(process.env.SOURCE_DIR ?? path.join(scriptDir, "..", "upstream"));
+const OVERLAYS_DIR = path.resolve(scriptDir, "..", "overlays");
+const DB_PATH = path.resolve(scriptDir, "..", "public", "higurashi.db");
 
 function main() {
   const startTime = Date.now();
+
+  console.log(`Source dir:   ${SOURCE_DIR}`);
+  console.log(`Overlays dir: ${OVERLAYS_DIR}`);
+  console.log(`Output:       ${DB_PATH}`);
+
+  if (!fs.existsSync(SOURCE_DIR)) {
+    console.error(`Source directory not found: ${SOURCE_DIR}`);
+    console.error(`Set SOURCE_DIR env var or clone upstream repo to ./upstream`);
+    process.exit(1);
+  }
+
+  const overlaysExist = fs.existsSync(OVERLAYS_DIR);
+  if (!overlaysExist) {
+    console.log(`No overlays directory found — building from source only`);
+  }
+
+  // Build a set of overlay filenames for quick lookup
+  const overlayFiles = new Set<string>();
+  if (overlaysExist) {
+    for (const f of fs.readdirSync(OVERLAYS_DIR)) {
+      if (f.endsWith(".json")) overlayFiles.add(f);
+    }
+    console.log(`Found ${overlayFiles.size} overlay files`);
+  }
 
   // Ensure output directory exists
   fs.mkdirSync(path.dirname(DB_PATH), { recursive: true });
@@ -145,15 +220,16 @@ function main() {
     VALUES (@id, @textJpn, @textEng, @speakerJpn, @speakerEng)
   `);
 
-  // Read all JSON files
-  const files = fs.readdirSync(GAME_TEXT_DIR)
+  // Read all JSON files from source
+  const files = fs.readdirSync(SOURCE_DIR)
     .filter((f) => f.endsWith(".json"))
     .sort();
 
-  console.log(`Found ${files.length} JSON files in game_text/`);
+  console.log(`Found ${files.length} source JSON files`);
 
   let totalEntries = 0;
   let skippedFiles = 0;
+  let mergedFiles = 0;
 
   // Wrap everything in a single transaction for performance
   const transaction = db.transaction(() => {
@@ -171,12 +247,21 @@ function main() {
       const chapterName = getChapterName(file, source);
       const filenameNoExt = file.replace(/\.json$/, "");
 
-      const filePath = path.join(GAME_TEXT_DIR, file);
-      const raw = JSON.parse(fs.readFileSync(filePath, "utf-8")) as any[];
+      // Read source entries
+      const sourcePath = path.join(SOURCE_DIR, file);
+      let entries = JSON.parse(fs.readFileSync(sourcePath, "utf-8")) as any[];
+
+      // Check for overlay and merge if present
+      if (overlayFiles.has(file)) {
+        const overlayPath = path.join(OVERLAYS_DIR, file);
+        const overlayData = JSON.parse(fs.readFileSync(overlayPath, "utf-8")) as OverlayEntry[];
+        entries = mergeOverlays(entries, overlayData, file);
+        mergedFiles++;
+      }
 
       let entryIndex = 0;
 
-      for (const entry of raw) {
+      for (const entry of entries) {
         const type = entry.type as string;
 
         let speakerJpn: string | null = null;
@@ -255,7 +340,7 @@ function main() {
   const sizeMB = (fileSize / (1024 * 1024)).toFixed(1);
 
   console.log(`Done in ${elapsed}s`);
-  console.log(`Entries: ${totalEntries} (skipped ${skippedFiles} meta files)`);
+  console.log(`Entries: ${totalEntries} (skipped ${skippedFiles} meta files, merged ${mergedFiles} overlay files)`);
   console.log(`Database: ${DB_PATH} (${sizeMB} MB)`);
 }
 

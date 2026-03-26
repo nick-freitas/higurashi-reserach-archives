@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build:db": "tsx scripts/build-db.ts",
+    "build:db": "tsx scripts/merge-and-build.ts",
     "build": "npm run build:db && tsc -b && vite build",
     "test": "vitest run",
     "test:watch": "vitest"
