@@ -43,7 +43,7 @@ function getArcName(arcId: string): string {
   return arcId.charAt(0).toUpperCase() + arcId.slice(1);
 }
 
-function getChapterName(filename: string, source: Source): string | null {
+function getBasicChapterName(filename: string, source: Source): string | null {
   switch (source.type) {
     case "arc":
     case "miotsukushi": {
@@ -51,10 +51,10 @@ function getChapterName(filename: string, source: Source): string | null {
       if (ch === "") return null;
       if (ch === "end") return "Ending";
       if (ch === "badend") return "Bad End";
-      // Numeric chapter
+      if (ch.startsWith("badend")) return `Bad End ${ch.slice(6)}`;
+      if (ch === "afterparty") return "After Party";
       const num = parseInt(ch, 10);
       if (!isNaN(num)) return `Chapter ${num}`;
-      // Fallback: return as-is with first letter capitalized
       return ch.charAt(0).toUpperCase() + ch.slice(1);
     }
     case "tips": {
@@ -75,6 +75,105 @@ function getChapterName(filename: string, source: Source): string | null {
     case "meta":
       return null;
   }
+}
+
+/** Extract "#N / Title" from the first few entries of a file */
+function extractChapterTitle(entries: any[]): string | null {
+  for (let i = 0; i < Math.min(5, entries.length); i++) {
+    const text = stripTags(entries[i].TextENG ?? entries[i].ENG ?? "");
+    const match = text.match(/^#(\d+[A-Z]?)\s*\/\s*(.+)/);
+    if (match) return `#${match[1]} / ${match[2]}`;
+  }
+  return null;
+}
+
+/** Extract title and day for common route files */
+function extractCommonTitle(entries: any[], filename: string): string | null {
+  if (filename === "common_partnerselection.json") return "Partner Selection";
+
+  let label: string | null = null;
+  let title: string | null = null;
+
+  for (let i = 0; i < Math.min(4, entries.length); i++) {
+    const text = stripTags(entries[i].TextENG ?? entries[i].ENG ?? "");
+    const labelMatch = text.match(/^(Day \d+|.+ Route\s*\w*)$/);
+    if (labelMatch) { label = labelMatch[1]; continue; }
+    const titleMatch = text.match(/^(#\d+[A-Z]?\s*\/?\s*.+)/);
+    if (titleMatch) { title = titleMatch[1]; break; }
+  }
+
+  if (!label) {
+    const dayMatch = filename.match(/common_day(\d+)/);
+    if (dayMatch) {
+      label = `Day ${dayMatch[1]}`;
+    } else {
+      const routeMatch = filename.match(/common_(\w+?)(\d*)_\d/);
+      if (routeMatch) {
+        const name = routeMatch[1].charAt(0).toUpperCase() + routeMatch[1].slice(1);
+        const num = routeMatch[2] || "";
+        label = num ? `${name} Route ${num}` : `${name} Route`;
+      }
+    }
+  }
+
+  if (title && label) return `${label} - ${title}`;
+  if (title) return title;
+  return null;
+}
+
+/** Extract tip name from first entries */
+function extractTipTitle(entries: any[], tipNumber: number | string): string | null {
+  for (let i = 0; i < Math.min(3, entries.length); i++) {
+    const text = stripTags(entries[i].TextENG ?? entries[i].ENG ?? entries[i].JPN ?? "");
+    if (text === "TIPS") continue;
+    if (text.length > 0 && text.length < 120 && !text.startsWith("``") && !text.startsWith("From ")) {
+      return `#${Number(tipNumber)} ${text}`;
+    }
+  }
+  return `#${Number(tipNumber)}`;
+}
+
+/** Get prologue/epilogue display name from first SAVEINFO entry */
+function extractPrologueEpilogueName(entries: any[], arcId: string): string | null {
+  const match = arcId.match(/^book_\d+_(prologue|epilogue)$/);
+  if (!match) return null;
+  const suffix = match[1] === "prologue" ? "Prologue" : "Epilogue";
+  for (const entry of entries) {
+    if (entry.type === "SAVEINFO") {
+      const title = stripTags(entry.ENG ?? "");
+      if (title) return `${title} (${suffix})`;
+      break;
+    }
+  }
+  return suffix;
+}
+
+/** Arc types that should NOT use standard #N title extraction */
+const SKIP_TITLE_EXTRACTION = new Set(["tips", "fragment", "common"]);
+
+function getChapterName(filename: string, source: Source, entries: any[]): string | null {
+  const basic = getBasicChapterName(filename, source);
+
+  if (source.type === "tips") {
+    return extractTipTitle(entries, source.number ?? 0);
+  }
+  if (source.type === "common") {
+    return extractCommonTitle(entries, filename) ?? basic;
+  }
+  if (!SKIP_TITLE_EXTRACTION.has(source.type)) {
+    const arcId = getArcId(source, filename);
+    if (/^book_\d+_(prologue|epilogue)$/.test(arcId)) {
+      return basic; // prologues/epilogues use basic name
+    }
+    return extractChapterTitle(entries) ?? basic;
+  }
+  return basic;
+}
+
+function getArcNameWithEntries(arcId: string, entries: any[]): string {
+  const prologueName = extractPrologueEpilogueName(entries, arcId);
+  if (prologueName) return prologueName;
+  return getArcName(arcId);
 }
 
 // ── Overlay types ─────────────────────────────────────────────────
@@ -242,9 +341,6 @@ function main() {
         continue;
       }
 
-      const arcId = getArcId(source, file);
-      const arcName = getArcName(arcId);
-      const chapterName = getChapterName(file, source);
       const filenameNoExt = file.replace(/\.json$/, "");
 
       // Read source entries
@@ -258,6 +354,10 @@ function main() {
         entries = mergeOverlays(entries, overlayData, file);
         mergedFiles++;
       }
+
+      const arcId = getArcId(source, file);
+      const arcName = getArcNameWithEntries(arcId, entries);
+      const chapterName = getChapterName(file, source, entries);
 
       let entryIndex = 0;
 
