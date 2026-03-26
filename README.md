@@ -15,24 +15,35 @@ A research and analysis tool for studying the nuances between the original Japan
 
 ```
 npm install
+npm run build:wasm
+npm run build:db      # requires game_text/ or SOURCE_DIR set
 npm run dev
 ```
 
-This starts both the Express API server and the Vite dev server. The app will be available at `http://localhost:4737`.
+The build:db step merges upstream source text (from `SOURCE_DIR`, default `./upstream`) with the overlay data in `overlays/` and generates a SQLite database. For local development, clone the upstream repo:
+
+```
+git clone https://github.com/masagrator/HigurashiENX-texts.git upstream
+SOURCE_DIR=./upstream npm run build:db
+```
 
 ## Project structure
 
 ```
 src/           React frontend
-server/        Express API (indexer, search, arc browser)
-game_text/     Bilingual JSON dialogue files
+scripts/       Build scripts (merge, DB generation, overlay extraction)
+overlays/      Our translation analysis data (new translations, scores)
 py_scripts/    Python translation and scoring scripts
 tests/         Test files
-data/          Runtime data (annotations)
+public/        Static assets (generated DB, WASM)
 ```
+
+## How it works
+
+The upstream game text lives in a [separate repository](https://github.com/masagrator/HigurashiENX-texts). This repo stores only our analysis overlay data (new translations, significance scores, change reasons) in `overlays/`. At build time, a merge script combines them into a SQLite database that the React app queries client-side via sql.js (WASM). No server required — hosted as a static site on GitHub Pages.
 
 ## License
 
 The source code in this repository is licensed under the [MIT License](LICENSE).
 
-The game text data in `game_text/` originates from the [HigurashiENX-texts](https://github.com/masagrator/HigurashiENX-texts) repository by masagrator and is **excluded** from this license — see `LICENSE` and `THIRD_PARTY_NOTICES` for details.
+The overlay data in `overlays/` contains derivative analysis of text from the [HigurashiENX-texts](https://github.com/masagrator/HigurashiENX-texts) repository by masagrator, which has no explicit license — see `LICENSE` and `THIRD_PARTY_NOTICES` for details.

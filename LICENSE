@@ -22,8 +22,8 @@ SOFTWARE.
 
 ---
 
-The game text and translation data in the game_text/ directory originates from
-the HigurashiENX project by masagrator
-(https://github.com/masagrator/HigurashiENX-texts) and is excluded from the
-MIT License above. No license has been provided by the upstream author for that
-data. See THIRD_PARTY_NOTICES for attribution details.
+The overlay data in the overlays/ directory contains derivative analysis of text
+from the HigurashiENX project by masagrator
+(https://github.com/masagrator/HigurashiENX-texts). No license has been
+provided by the upstream author for the original text data. See
+THIRD_PARTY_NOTICES for attribution details.
