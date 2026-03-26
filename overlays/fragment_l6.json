@@ -1,0 +1,374 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9308,
+    "TextENGNew": "Forbidden treasure, ``Onigari no Ryuuou.``",
+    "significantChanges": true,
+    "changeReason": "Artifact name changed from translated 'Demon Hunting Willow' to romanized 'Onigari no Ryuuou'.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 9309,
+    "TextENGNew": "A priceless relic said to be enshrined within the ritual storehouse of the Furude Shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9310,
+    "TextENGNew": "Since the age of the gods.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 9311,
+    "TextENGNew": "It is a treasured blade said to have vanquished the demon god who stood at the root of chaos, in that ancient era known as the 'World of Chaos' when humans and demons coexisted in this land.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'demon god' (鬼神) rather than just 'demon', and changes the target from the vague 'root of chaos' to the specific 'demon god who stood at the root of chaos.'",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 9312,
+    "TextENGNew": "No living soul has laid eyes upon it for a thousand years.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 9313,
+    "TextENGNew": "According to legend, it is sealed within the sacred body of Oyashiro-sama, enshrined in the ritual storehouse, and the very design of the seal ensures that it can never be broken so long as the faith endures -- a forbidden ritual implement.",
+    "significantChanges": true,
+    "changeReason": "Old says the storehouse keeps Oyashiro-sama's body sealed; new says the sword is sealed within the sacred body -- fundamentally different descriptions of what is sealed and where.",
+    "changeScore": 4
+  },
+  {
+    "index": 7,
+    "MessageID": 9314,
+    "TextENGNew": "Moreover, records of its existence appear only in the tightly sealed forbidden texts of the Furude Shrine, and aside from the successive heads of the Furude family, scarcely anyone in the past millennium has even known of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 9315,
+    "TextENGNew": "According to several forbidden texts, its shape is said to resemble a willow with drooping branches.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9316,
+    "TextENGNew": "A number of Furude family heads attempted to imagine its form and left behind ink paintings, but none of these depictions agree with one another -- a testament to the fact that they were all mere speculation.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9317,
+    "TextENGNew": "Legend tells of a pure maiden named Ouka who received a divine revelation to defeat the demon god at the root of chaos.",
+    "significantChanges": true,
+    "changeReason": "New specifies 'divine revelation' and 'defeat the demon god' rather than just 'revelation' and 'destroy the root of chaos'; the target of the quest differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 9318,
+    "TextENGNew": "That demon god could not be slain by a human sword, nor by a demon's sword.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 9319,
+    "TextENGNew": "Neither a sword of humanity, nor a sword of demonkind.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 9320,
+    "TextENGNew": "Only a blade that could be wielded by one who bore the blood of both -- only such a weapon could strike it down.",
+    "significantChanges": true,
+    "changeReason": "Old implies a hybrid sword ('created from a combination of the two'); new implies a hybrid wielder ('wielded by one who bore the blood of both'). TextJPN supports the wielder interpretation.",
+    "changeScore": 4
+  },
+  {
+    "index": 14,
+    "MessageID": 9321,
+    "TextENGNew": "* Accounts describing the ancestors of Hinamizawa as possessing half-human, half-demon blood are numerous, but the earliest known individual documented as bearing both bloodlines is believed to be Furude Ouka (year ??? to ???), and this passage is thought to refer to that fact.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 9322,
+    "TextENGNew": "The heavens entrusted Ouka with a single sacred blade.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 9323,
+    "TextENGNew": "That blade was shaped like the branches of a willow.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 9324,
+    "TextENGNew": "Its boughs divided into three, symbolizing the harmony of heaven, earth, and humanity -- and the reconciliation of the divine, the demonic, and the human.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 9325,
+    "TextENGNew": "Ouka traveled to the swamp where the demon god lurked, as the revelation had foretold, and struck it down with the sacred blade.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 9326,
+    "TextENGNew": "* The accounts of its 'defeat' vary considerably across the forbidden texts.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 9327,
+    "TextENGNew": "* Some say the demon was vanquished, others that it was driven away, and still others that it was made to submit. Much about the demon god's subsequent fate remains unclear.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 9328,
+    "TextENGNew": "* The earliest text states that the blade was used to strike violently upon the demon god's horn, though other texts make no mention of this.",
+    "significantChanges": true,
+    "changeReason": "New adds 'violently' (激しく from TextJPN) to describe how the horn was struck, absent from old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 9329,
+    "TextENGNew": "The sacred blade that felled the demon god was dedicated to the shrine and later given the name 'Onigari no Ryuuou.'",
+    "significantChanges": true,
+    "changeReason": "Artifact name changed from 'Demon Hunting Willow' to 'Onigari no Ryuuou'.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 9330,
+    "TextENGNew": "Yet Ouka sealed the blade deep within the shrine and forbade its existence for all eternity.",
+    "significantChanges": true,
+    "changeReason": "Old says 'forbade it from being used' while JPN その存在を永遠に禁じた means 'forbade its very existence forever' — different scope of prohibition, but both convey that Ouka sealed the blade.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 9331,
+    "TextENGNew": "* One theory holds that, though a demon god, the blade that bound together the divine and the mortal was itself no longer of this world, and had no place remaining upon the earth, thus it was removed from the realm of humanity.",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly frames the theory; new correctly conveys that the blade itself was no longer of this world and had to be removed from humanity, matching TextJPN.",
+    "changeScore": 4
+  },
+  {
+    "index": 25,
+    "MessageID": 9332,
+    "TextENGNew": "* However, an alternative theory suggests that Ouka herself was the daughter of the demon god, and that she sealed the blade to prevent the weapon of patricide from ever being used again. This passage is cited as one basis for that view.",
+    "significantChanges": true,
+    "changeReason": "Old says 'forbade the sword from being used for murder'; JPN 親殺しの剣 means 'weapon of patricide' — more specific term that connects to the Furude family lore, but 'murder' is in the right direction.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 9333,
+    "TextENGNew": "In the earliest worship of Oyashiro-sama, there is a theory that the deity referred to as Oyashiro-sama was in fact this demon god.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 9334,
+    "TextENGNew": "The root of chaos, and the wellspring of all evil and discord.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 9335,
+    "TextENGNew": "It is believed that the foundation of this primitive worship was to pacify the demon through reverence, thereby preventing its return to the human world.",
+    "significantChanges": true,
+    "changeReason": "New adds 'to pacify the demon through reverence' (崇め慰める from TextJPN), a key element missing from old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 9336,
+    "TextENGNew": "* Some form of malevolent deity worship?",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 9337,
+    "TextENGNew": "* The notion of worshipping not to seek divine protection but to quell a curse shares some connection with present-day Oyashiro-sama worship. Yet it stands at some distance from the modern image of Oyashiro-sama as a benevolent guardian presiding over good fortune and matchmaking.",
+    "significantChanges": true,
+    "changeReason": "Old reverses which worship tradition (primitive vs modern) corresponds to curse-prevention vs guardian/matchmaker role; new correctly aligns them with TextJPN.",
+    "changeScore": 4
+  },
+  {
+    "index": 31,
+    "MessageID": 9338,
+    "TextENGNew": "The idea that all human discord is the work of Oyashiro-sama, and that there are no demons in the world of men -- a philosophy rooted in the inherent goodness of human nature.",
+    "significantChanges": true,
+    "changeReason": "New adds 'a philosophy rooted in the inherent goodness of human nature' (人間性善説 from TextJPN), entirely absent from old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 9339,
+    "TextENGNew": "From here, the myths gradually transformed into the form most widely known today -- the tale of reconciliation between humans and demons...",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 9340,
+    "TextENGNew": "However, during this era, many texts recording the origins of Oyashiro-sama worship and the writings of the Furude family's founder were declared forbidden and sealed away.",
+    "significantChanges": true,
+    "changeReason": "Old attributes sealing only to Furude founder's works; new correctly includes both Oyashiro-sama worship origins texts AND Furude founder writings, per TextJPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 9341,
+    "TextENGNew": "This was most likely because the later image of Oyashiro-sama -- deified as a being of compassion -- contradicted the original depiction of the deity as the source of all evil, making the doctrine increasingly difficult to reconcile.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 9342,
+    "TextENGNew": "Furthermore, if the forbidden texts are to be believed, the Furude family slew the demon god who was their own parent -- making them a bloodline of patricides, and their blood deeply, irrevocably cursed.",
+    "significantChanges": true,
+    "changeReason": "New correctly conveys the Furude family as 'a bloodline of patricides' (親殺しの一族) whose blood is cursed, rather than just identifying a single murderer.",
+    "changeScore": 4
+  },
+  {
+    "index": 36,
+    "MessageID": 9343,
+    "TextENGNew": "If all of this were true, then the faith as it exists today would be fundamentally different from what the Furude family's founder intended.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 9344,
+    "TextENGNew": "One of the Furude family heads, writing several centuries ago, added this note in the margins of a forbidden text:",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 9345,
+    "TextENGNew": "The legendary blade Onigari no Ryuuou is a symbol of the sins of the Furude family and of the human world.",
+    "significantChanges": true,
+    "changeReason": "Artifact name changed from 'Demon Hunting Willow' to 'Onigari no Ryuuou'.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 9346,
+    "TextENGNew": "An age of chaos, when the root of all evil was sought in others, and the only purification of sin anyone knew was to cut it down.",
+    "significantChanges": true,
+    "changeReason": "Old says evil 'was sought after'; new says evil 'was sought in others' -- TextJPN 他者に求め means scapegoating, a crucial thematic difference.",
+    "changeScore": 4
+  },
+  {
+    "index": 40,
+    "MessageID": 9347,
+    "TextENGNew": "The founder of the Furude family (Note 1) took all the blame of chaos upon themselves and allowed their own child to strike them down, thereby freeing this land from the chaos.",
+    "significantChanges": true,
+    "changeReason": "Old says the founder 'took the root of all chaos'; new says 'took all the blame of chaos' -- changes the concept from embodying chaos to accepting blame.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 9348,
+    "TextENGNew": "* Note 1: 'The founder of the Furude family' generally refers to Furude Ouka, but in rare instances may refer to the parent whom Ouka defeated.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 9349,
+    "TextENGNew": "* Note 1: The notion that the founder of the Furude family was in fact the demon god is supposed to be the family's greatest taboo, and yet the fact that at least one family head held this view is deeply significant.",
+    "significantChanges": true,
+    "changeReason": "Old calls it 'greatest contradiction'; new calls it 'greatest taboo' (最大の禁忌). These are meaningfully different concepts.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 9350,
+    "TextENGNew": "When the Furude family, or the world of humanity, once again commits the folly of seeking sin in others and begins to return to the ways of demons --",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 9351,
+    "TextENGNew": "The faith will vanish, the sacred body will shatter, and the Onigari no Ryuuou sealed within shall once again reveal itself before us.",
+    "significantChanges": true,
+    "changeReason": "Artifact name changed from 'Demon Hunting Willow' to 'Onigari no Ryuuou'; adds 'sacred body' precision.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 9352,
+    "TextENGNew": "That will be its second coming -- the resurrection of the memory of sin that the Furude family had long forgotten...",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 9353,
+    "TextENGNew": "Is the demon god merely a creature of legend and fiction?",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 9354,
+    "TextENGNew": "Or was it a real, living being?",
+    "significantChanges": true,
+    "changeReason": "Old asks if the demon god is 'a real person'; new asks if it was 'a real, living being' -- 'person' vs 'being' matters since the subject is a demon god.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 9355,
+    "TextENGNew": "In exceedingly rare cases, a human might be born with natural horn-like growths -- and such a child would have been reviled as a child of the demon god.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 9356,
+    "TextENGNew": "To the descendants of the Furude family who will one day read this:",
+    "significantChanges": true,
+    "changeReason": "Old is a third-person statement; new is a direct address to descendants, matching the imperative tone of TextJPN (末裔よ).",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 9357,
+    "TextENGNew": "Though there are many forbidden texts conveying the mythology, their accounts differ greatly from one another.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 9358,
+    "TextENGNew": "Yet do not let those discrepancies obscure your vision.",
+    "significantChanges": true,
+    "changeReason": "Old uses literal metaphor 'don't be fooled by the display of smoke'; new interprets it as 'do not let those discrepancies obscure your vision,' conveying a different image.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 9359,
+    "TextENGNew": "No matter how much the accounts differ, there is but one single truth they all strive to convey.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 9360,
+    "TextENGNew": "Seek the heart of Furude Ouka, who forbade the Onigari no Ryuuou for all eternity.",
+    "significantChanges": true,
+    "changeReason": "Old is a declarative statement about what Ouka decided; new is an imperative command to 'seek the heart of Ouka,' matching TextJPN's imperative 心を探れ.",
+    "changeScore": 4
+  },
+  {
+    "index": 54,
+    "MessageID": 9361,
+    "TextENGNew": "That is the truth every head of the Furude family must come to understand.",
+    "significantChanges": false
+  }
+]

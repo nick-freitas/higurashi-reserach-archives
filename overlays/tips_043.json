@@ -1,0 +1,213 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Mahjong Parlor \"Suzu\"",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"At the Suzu Mahjong Parlor\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13736,
+    "TextENGNew": "\"Reserved for the day. ~Suzu Mahjong Parlor~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13737,
+    "TextENGNew": "Clatter-clatter~.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13738,
+    "TextENGNew": "\"Oh, Kura-chan. You're the last one here~ All the young folks have been waiting.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13739,
+    "TextENGNew": "\"Na-ha-ha-ha... Excuse me, miss.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13740,
+    "TextENGNew": "When Ooishi handed over a convenience store bag containing a carton of cigarettes, the old woman who ran the parlor deftly made herself scarce.@k...She was well accustomed to this by now.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13741,
+    "TextENGNew": "\"Ooishi-san! Thank you for your hard work!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13742,
+    "TextENGNew": "\"What, were you all just sitting here waiting? You could have played three-player.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13743,
+    "TextENGNew": "Ooishi's subordinates occupied every mahjong table in the cramped parlor, but not a single tile had been laid out.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13744,
+    "TextENGNew": "\"Everyone, thank you for the tireless days and sleepless nights you've devoted to this investigation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13745,
+    "TextENGNew": "\"\"Sir!!\"\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 「ぅおおっす！！」 as 'Thank you!!' while new translates as 'Sir!!' — these convey different responses. The Japanese is a spirited affirmation/acknowledgment closer to 'Sir!' or 'Yes sir!' than 'Thank you.'",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 13746,
+    "TextENGNew": "Spirited voices filled the parlor.@k...It had already lost any semblance of an entertainment venue.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13747,
+    "TextENGNew": "\"The situation is not favorable. It appears the superintendent has caved to the threats of the Sonozaki-aligned assemblyman.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The chief appears to have backed down due to Congressman Sonozaki's threats'; new says 'the superintendent has caved to the threats of the Sonozaki-aligned assemblyman' — 'chief' vs 'superintendent' (署長) and 'Congressman Sonozaki' vs 'Sonozaki-aligned assemblyman' (園崎系議員) are meaningfully different: the latter correctly identifies it as an assemblyman aligned with the Sonozaki family, not a person named Sonozaki.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 13748,
+    "TextENGNew": "\"In the coming days, Takano's murder will be handed off to the neighboring prefecture's police, and the disappearances of the village chief and the others will be classified as missing persons cases and transferred to the community affairs division.\"",
+    "significantChanges": true,
+    "changeReason": "Old uses active voice ('we'll hand off') implying Ooishi's team acts; new uses passive ('will be handed off') and adds 'classified as missing persons cases' — the passive better reflects the JPN where this is something imposed on them, and the classification detail matches 行方不明扱い.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 13749,
+    "TextENGNew": "...That spineless upstart of a superintendent.@kThe veterans in the room spat the words.",
+    "significantChanges": true,
+    "changeReason": "Old translates 署長 as 'chief'; new translates as 'superintendent' and adds 'spineless' (which captures the contempt in 若造署長). Also 'cursed him' vs 'spat the words' — the Japanese 吐き捨てる literally means to spit out words.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 13750,
+    "TextENGNew": "\"Every warrant we requested has been denied as well. The section chief has even told me to stay away from the Sonozaki family entirely.@k@vS20/11/440700185....We're in quite the bind, I must say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 13751,
+    "TextENGNew": "\"Incidentally, I've been told that starting next week, I'll be receiving orders for a training assignment at the Metropolitan Police Department. After that, I'm even being told to use up my remaining vacation days in Izu.@k@vS20/11/440700187....Well, that doesn't sound half bad~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 13752,
+    "TextENGNew": "A few wry laughs escaped.@k...There was nothing funny about it, but laughing was all they could do.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 13753,
+    "TextENGNew": "\"As always, incidents are a lot like locking your keys in the car. The key you need is always trapped inside.@k@vS20/11/440700189.With a car, you call a locksmith and they pry open the door.@k@vS20/11/440700190.With an incident?@k@vS20/11/440700191.Kuma-chan, the blueprints.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 13754,
+    "TextENGNew": "Kumagai flipped the whiteboard over.@kOn the back, a diagram of the estate had been affixed with magnets.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a map of the Sonozaki premises made with magnets'; new says 'a diagram of the estate had been affixed with magnets' — 'map of the Sonozaki premises made with magnets' vs 'diagram affixed with magnets': the old version says the map was 'made with' magnets, the new correctly says it was 'affixed with' magnets. Also 邸内の図面 is a diagram/blueprint of the estate interior, not specifically 'Sonozaki premises.'",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 13755,
+    "TextENGNew": "\"Now, I've been in this line of work for a very long time. I like to think my instincts are reliable, but this might just be the one time they're wrong.@k@vS20/11/440700193.Anyone who values their pension has until I count to ten to leave.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'this could be the one time it was wrong' and 'Anyone worried about their retirement money has until the count of ten to get out'; new says 'this might just be the one time they're wrong' and 'Anyone who values their pension has until I count to ten to leave' — 'retirement money' vs 'pension' is minor, but 'gut' vs 'instincts' (勘) and the shift from 'I've got a lot of faith in my gut' to 'I like to think my instincts are reliable' slightly changes the characterization. Overall the meaning shift is marginal but the 'gut' to 'instincts' is a different register.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 13756,
+    "TextENGNew": "As Ooishi began counting to ten, everyone counted along with him.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 13757,
+    "TextENGNew": "......It was their trademark -- the ten-count of resolve.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 13758,
+    "TextENGNew": "\"Nine, ten!! Well, well, nobody's leaving.@k@vS20/11/440700195.Don't any of you care about your families? Nfu-fu-fu!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 13759,
+    "TextENGNew": "\"\"Wa-ha-ha-ha-ha-ha...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 13760,
+    "TextENGNew": "The whole room burst into hearty laughter, raising everyone's spirits.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 13761,
+    "TextENGNew": "\"I want everyone to review your materials. Memorize the locations and blind spots of every security camera.@k@vS20/11/440700197.Kuma-chan, you'll be on standby in the command vehicle.@k@vS20/11/440700198.If anything goes wrong, you take command in my place.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 13762,
+    "TextENGNew": "\"Komiyama-kun will lead Infiltration Team A. Atsushi-kun will command Team B.@k@vS20/11/440700200.Surveillance teams one through eight, take your assigned positions.@k@vS20/11/440700201.Bonchi-kun, you're in charge of keeping a strict timetable.@k@vS20/11/440700202.Manage the rotations so headquarters doesn't catch on.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 13763,
+    "TextENGNew": "\"Now, the team on standby has the most critical job. If the section chief asks where I am, play dumb.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 13764,
+    "TextENGNew": "\"\"Wa-ha-ha-ha-ha-ha!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 13765,
+    "TextENGNew": "\"I'll handle escorting our guest personally. I'll bring them to the venue, so everyone sit tight and be patient.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 13766,
+    "TextENGNew": "\"...Think he'll crack? Keiichi Maebara, I mean.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 13767,
+    "TextENGNew": "\"From what I've seen, we're looking at tomorrow or the day after. He'll flip in no time.@k@vS20/11/440700206.Nfu-fu-fu-fu!\"",
+    "significantChanges": false
+  }
+]

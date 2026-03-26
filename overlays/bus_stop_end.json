@@ -1,0 +1,494 @@
+[
+  {
+    "index": 1,
+    "MessageID": 156710,
+    "TextENGNew": "Oda takes aim. His gun fires.\nRika is shot through the chest and dies in an instant.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 156711,
+    "TextENGNew": "\"Waaaaaaaaah?! ...Rika-san?! Rika-san?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 156712,
+    "TextENGNew": "\"Capture her. The surgery is urgent.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 156713,
+    "TextENGNew": "Mion snatches the blade from Rika's hand and braces herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 156714,
+    "TextENGNew": "\"Don't shoot!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 156715,
+    "TextENGNew": "\"...Rika-san?! ...Rika-san?! ...Rika...san... ...Nngh...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 156716,
+    "TextENGNew": "\"We need to do the surgery now! ...There's no time to waste!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 156717,
+    "TextENGNew": "\"...You killed...Rika-saaaaaan?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 156718,
+    "TextENGNew": "\"...Calm down, Sonozaki-san! ...We haven't killed anyone! ...What you're seeing is a hallucination! ...You're in the terminal stage!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 156719,
+    "TextENGNew": "\"L-Lies...! ...You all...ki...killed her! ...I'll kill you! ...I'll kill you all!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 156720,
+    "TextENGNew": "\"Calm down, calm down! ...That's all a hallucination! ...Drop the knife!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 156721,
+    "TextENGNew": "\"...Shut up, shut up! ...I'll kill you, I'll kill you all! ...Raaaaaaaaaaaagh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 156722,
+    "TextENGNew": "Mion leaps at Oda and drives the knife into him. Oda crumples to the ground.",
+    "significantChanges": true,
+    "changeReason": "Old translation added 'into his stomach' not present in Japanese; new translation more accurately says 'into him' matching the unspecified target in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 156723,
+    "TextENGNew": "\"Why you—!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 156724,
+    "TextENGNew": "\"I'll kill you! I'll kill every one of you who killed Rika-san! ...Hoooooooooooooh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 156725,
+    "TextENGNew": "\"Calm down! Calm down, I said! ...Sonozaki-kun! ...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 156726,
+    "TextENGNew": "Mion lunges at Nitta and stabs him.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies the target as 'Nitta' (matching the Japanese 新田) rather than the ambiguous 'him' in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 156727,
+    "TextENGNew": "``You bastard!``",
+    "significantChanges": true,
+    "changeReason": "Old uses 'bitch' (female-directed) for この野郎 which is a male-directed insult; changes the gendered tone of the exclamation.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 156728,
+    "TextENGNew": "Okano grabs Mion from behind. In the struggle, Mion's knife catches him in the throat. Okano collapses.",
+    "significantChanges": true,
+    "changeReason": "Old translation specified 'pierces his neck' and 'clutching his throat' which aren't in the Japanese (which just says the knife caught him); new translation is more faithful.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 156729,
+    "TextENGNew": "Hotoda screams and tries to run. Mion catches up and drives the blade into her.",
+    "significantChanges": true,
+    "changeReason": "Old translation specified 'into her back' not present in the Japanese (突きたてる = 'drives in'); new translation removes this addition.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 156730,
+    "TextENGNew": "\"Gaaaaaaaaah! ...Who killed Rika-san?! ...Damn it, damn it, damn it! ...I'll kill you! I'll kill you! I'll kill you!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 156731,
+    "TextENGNew": "``...Sonozaki-san! ...Calm down! We didn't do anything! Honestly! ...You're...seeing things—you're on your own, and you're going berserk! ...Please calm down!``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'on your own' reflecting ひとりで in the Japanese, clarifying Mion is lashing out alone in a hallucination, which the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 156732,
+    "TextENGNew": "\"Shut up...! ...Give Rika-san back to me! ...Raaaaaaaaaaaaaaaaagh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 156733,
+    "TextENGNew": "She hurls herself at Hoshino and brings the knife down with all her strength.",
+    "significantChanges": true,
+    "changeReason": "Old says 'stabs deep into her stomach' specifying both action and target; JPN 振り下ろす means 'swings down with force' — different attack action, and the old adds a specific body part not in the source.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 156734,
+    "TextENGNew": "...Bodies lie strewn across the stage. ...The downpour blends with the ragged sound of Mion's heaving breaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 156735,
+    "TextENGNew": "She comes back to herself and slowly draws near Rika.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 156736,
+    "TextENGNew": "\"...Rika-san... ...Rika-san...! ...Please wake up...! ...It's time to go home...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 156737,
+    "TextENGNew": "\"Gyaaaaaaaaaaaaaaaaaaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 156738,
+    "TextENGNew": "The stage blazes red. Mion sobs and screams.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 156739,
+    "TextENGNew": "\"...Poor child. ...It must have been so hard.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 156740,
+    "TextENGNew": "\"Rika-san! ...Rika-san! ...It's all a liiiiiiiie!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 156741,
+    "TextENGNew": "\"...Hey, Mion-san. ...This time...I'll set you free.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 156742,
+    "TextENGNew": "\"Let me see Rika-san! ...Please let me see her!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 156743,
+    "TextENGNew": "``...You want to see her...? ...You want to see her, do you? ...You want to see her. ...Fufufufu! ...Very well. ...I'll let you see her.``",
+    "significantChanges": true,
+    "changeReason": "Old uses 'them' (plural) where context indicates the person wants to see Rika specifically; new uses 'her' (singular) which better fits the narrative context, though JPN is ambiguous on number.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 156744,
+    "TextENGNew": "\"...Kondou-san. Kakinuma-san. ...Mori-san. Katou-san. ...And Arakawa-kun—they all saw her.\"",
+    "significantChanges": true,
+    "changeReason": "Old translation implied Arakawa-kun met everyone; new translation reinterprets the sentence structure so all the named individuals 'saw her,' better matching Oyashiro-sama's listing of people who have died.",
+    "changeScore": 1
+  },
+  {
+    "index": 36,
+    "MessageID": 156745,
+    "TextENGNew": "\"...Now you as well...shall see her, of course.\"",
+    "significantChanges": true,
+    "changeReason": "Old translation used 'them' but new uses 'her,' consistent with the context of seeing the deceased Rika.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 156746,
+    "TextENGNew": "\"Let me see her! ...Let me see her! ...Rika-saaaaaaaaaaaan!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 156747,
+    "TextENGNew": "A thunderclap booms.\nThe stage flashes bright, then goes dark.\nOnly the soft sound of rain persists.\nA long silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 156748,
+    "TextENGNew": "The stage gradually brightens.\nOnly Mion and Rika remain.\nMion is sleeping with her head resting in Rika's lap.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 156749,
+    "TextENGNew": "\"...Did you wake up...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 156750,
+    "TextENGNew": "\"...Nnh... ...Mnh... ...My head... ...hurts...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 156751,
+    "TextENGNew": "\"...The medicine still hasn't kicked in? ...You can sleep a little longer, you know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 156752,
+    "TextENGNew": "\"...Rika-san...? ...It really is you, isn't it...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 156753,
+    "TextENGNew": "\"...Who else would I be...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 156754,
+    "TextENGNew": "\"Rika-san... ...Rika-san! ...Rika-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 156755,
+    "TextENGNew": "Mion wraps her arms around Rika.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 156756,
+    "TextENGNew": "Rika is caught off guard for a moment, then gently hugs her back.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 156757,
+    "TextENGNew": "\"It really is you, right?! ...You are Rika-san, right?! ...Waaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 156758,
+    "TextENGNew": "\"...I'm here. ...I'm right here. ...Did you have a sad dream...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 156759,
+    "TextENGNew": "\"...Nnh... ...Waaaaaaaaaaaaaaaaaaah!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 156760,
+    "TextENGNew": "Rika holds Mion with a tender, gentle expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 156761,
+    "TextENGNew": "\"...Have you calmed down...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 156762,
+    "TextENGNew": "\"Ha—hahaha... ...Yes. ...I'm sorry about that... ...Haha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 156763,
+    "TextENGNew": "\"...Hey, Mion. ...I didn't want to wake you up, so... ...we let a bus go by without getting on.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 156764,
+    "TextENGNew": "\"What?! ...Then when is the next bus coming?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 156765,
+    "TextENGNew": "\"...You don't want to wait any longer, do you? ...Hey—why don't we just walk? ...If we take the shortcut, I don't think it'll take that long.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 156766,
+    "TextENGNew": "\"...But we don't have an umbrella. ...Though the rain does look like it's let up a little...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 156767,
+    "TextENGNew": "\"...Don't you want to walk through the rain with me...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 156768,
+    "TextENGNew": "\"Of course I do! ...For you, Rika-san, I'd walk through fire or flood! Let's go! I'll escort you wherever you please!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 156769,
+    "TextENGNew": "\"...Are you really sure...? ...Without an umbrella...we'll get completely soaked.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 156770,
+    "TextENGNew": "\"Of course!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 156771,
+    "TextENGNew": "\"You'll get covered in mud.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 156772,
+    "TextENGNew": "\"I'm ready for that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 156773,
+    "TextENGNew": "\"...You might catch a cold.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 156774,
+    "TextENGNew": "\"We're walking in the rain!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 156775,
+    "TextENGNew": "The two of them stand up.",
+    "significantChanges": true,
+    "changeReason": "Old translation said 'stand there for a moment' implying they were already standing; new correctly translates 立ち上がる as 'stand up' since they were sitting at the bus stop.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 156776,
+    "TextENGNew": "\"...I'll always stay by your side. ...So don't go anywhere without me, okay?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 156777,
+    "TextENGNew": "\"Ahhn! I'd never leave! I'd rather press right up against you!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 156778,
+    "TextENGNew": "\"...Yes. ...That's perfect. ...Let's go.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 156779,
+    "TextENGNew": "Rika takes Mion's hand and starts walking. Mion's heart flutters with nervous excitement.",
+    "significantChanges": true,
+    "changeReason": "Old says 'holding Mion's shoulder' but JPN 魅音の手を取り means 'takes Mion's hand' — wrong body part.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 156780,
+    "TextENGNew": "\"...Wh...what's gotten into you, Rika-san? ...You seem different from usual somehow...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 156781,
+    "TextENGNew": "\"...Let's go. ...With the two of us together, we can go anywhere.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 156782,
+    "TextENGNew": "The stage gradually fades to black.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 156783,
+    "TextENGNew": "After a moment, the piercing beep of a radio call breaks the silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 156784,
+    "TextENGNew": "\"This is vehicle three.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 156785,
+    "TextENGNew": "\"...HQ to all units on standby. ...The target did not board the bus. Repeat—the target did not board the bus.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 156786,
+    "TextENGNew": "\"Reconnaissance to HQ! ...The bus stop is completely empty. We've lost the target.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 156787,
+    "TextENGNew": "\"...Block off all roads. ...Repeat—block off all roads. ...Don't let them reach the city! ...Capture them alive!\"",
+    "significantChanges": false
+  }
+]

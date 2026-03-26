@@ -1,0 +1,59 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Dam Supporters' Couple Falls to Their Deaths",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Dam Supporter Couple's Falling Accident\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12822,
+    "TextENGNew": "From the evening edition, June XX, 1980.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12823,
+    "TextENGNew": "Around 2 PM on the XXth, an office worker named XXX-san and his wife XXXX-san from Hinamizawa village, X district, Shishibone City, fell 27 meters from an observation deck into a mountain stream within the prefectural Shirakawa Natural Park and went missing.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'X district' address detail and specifies 'prefectural' for Shirakawa Natural Park, matching the Japanese source; also restructures the sentence for better clarity on the sequence of events.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 12824,
+    "TextENGNew": "Police and fire department personnel searched downstream and discovered the body of XXX-san around 7 PM that same evening.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12825,
+    "TextENGNew": "His wife, XXXX-san, has yet to be found.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12826,
+    "TextENGNew": "The mountain stream had swollen due to the recent Typhoon No. 3, making the search extremely difficult.",
+    "significantChanges": true,
+    "changeReason": "Original mistranslates 台風３号 as 'category 3 typhoon' (severity rating); new translation correctly renders it as 'Typhoon No. 3' (the third named typhoon of the season).",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 12827,
+    "TextENGNew": "It appears the couple had been leaning against the railing at the observation deck when it gave way, causing them both to fall.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'It appears' to reflect the speculative tone (模様) in the Japanese, and changes 'fence' to 'railing' — a more contextually appropriate rendering for an observation deck.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 12828,
+    "TextENGNew": "The railing had deteriorated with age, and police are questioning relevant parties to determine whether the park's facilities had been properly maintained.",
+    "significantChanges": true,
+    "changeReason": "Original implies park staff weren't taking 'adequate precautions' (personnel focus); new translation correctly focuses on whether facilities were 'properly maintained' (設備管理が適正), matching the Japanese emphasis on equipment management.",
+    "changeScore": 3
+  }
+]

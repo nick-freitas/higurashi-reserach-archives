@@ -1,0 +1,58 @@
+[
+  {
+    "index": 1,
+    "MessageID": 21860,
+    "TextENGNew": "Rena had won the right to pat Rika-chan's head to her heart's content, and she went home with Rika-chan and the others, absolutely glowing.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly renders 権利を獲得した as 'won the right' (not passive 'given permission'), specifies 'Rika-chan and the others' (梨花ちゃんたち, plural) instead of vague 'together,' and uses 'pat' for なでなで rather than the more intimate 'caress.'",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 21861,
+    "TextENGNew": "So today, once again, it was just the two of us — me and Mion — walking home.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 21862,
+    "TextENGNew": "\"Man, that was heated! I never knew you were such a beast at President, Kei-chan!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 21863,
+    "TextENGNew": "\"Honestly, nobody was more surprised than me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 21864,
+    "TextENGNew": "Playing against guys, I probably never could have pulled that off...",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 21865,
+    "TextENGNew": "\"Still... that was brutal.\nBeing hauled off on a stretcher dressed like that — that's the kind of thing that stains your bloodline for generations.\"",
+    "significantChanges": true,
+    "changeReason": "Original renders 末代までの恥 as 'haunt me until the day I die' (personal/lifetime); new translation correctly captures the Japanese idiom as shame that 'stains your bloodline for generations,' emphasizing hereditary disgrace rather than personal haunting.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 21866,
+    "TextENGNew": "\"Ahaha!\nBut hey, it's fine, isn't it?\nYou also got something worth bragging about for just as many generations!\"",
+    "significantChanges": true,
+    "changeReason": "New translation connects 七代 ('seven generations') to the previous line's generational theme with 'just as many generations,' whereas original uses the vaguer 'for the ages,' losing the specific callback to generational shame.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 21867,
+    "TextENGNew": "Hau...\nShe had me there. We both ended up laughing.",
+    "significantChanges": true,
+    "changeReason": "Original mistranslates 笑い合う as 'smiled at each other' when it means 'laughed together,' and renders それを言われると弱い as a conditional clause rather than the idiomatic concession 'She had me there.'",
+    "changeScore": 2
+  }
+]

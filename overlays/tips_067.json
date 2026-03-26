@@ -1,0 +1,243 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Smooth Sailing",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Going Smoothly\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14415,
+    "TextENGNew": "The sound of the car grew closer, followed by the sound of it braking as the engine cut out.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14416,
+    "TextENGNew": "At that instant, the man in the room -- who had been sprawled out lazily -- shot upright, pressed himself against the wall beside the window, and cautiously peered outside...",
+    "significantChanges": true,
+    "changeReason": "Old misinterprets 足を投げ出していた (had legs sprawled out lazily) as \"lackadaisical footsteps\"; the man was sitting/lying with legs stretched out, not walking.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 14417,
+    "TextENGNew": "...It was his comrade's car.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14418,
+    "TextENGNew": "Even so, he still didn't relax his guard.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14419,
+    "TextENGNew": "Footsteps approached the door.@k...Thump, thump-thump-thump. The prearranged knock.",
+    "significantChanges": true,
+    "changeReason": "\"Passcode\" changed to \"prearranged knock\" -- 決められた合図のノック means a prearranged signal knock, not a verbal passcode.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 14420,
+    "TextENGNew": "\"...I'm back. Open up, it's me.\"",
+    "significantChanges": true,
+    "changeReason": "Old omits 俺だ (\"it's me\") and adds \"already\" implying impatience not strongly present in the Japanese; the dialect rendering also differs.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 14421,
+    "TextENGNew": "``Ahh, you must be tired. I'm opening it now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14422,
+    "TextENGNew": "The locks were undone and the door opened, revealing a man with his arms full of bulging supermarket plastic bags.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14423,
+    "TextENGNew": "The bags bore the logo \"Seventh Mart,\" with bread rolls and milk cartons peeking out from the top.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14424,
+    "TextENGNew": "The contents of those bags were then spread out over a sheet on the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14425,
+    "TextENGNew": "\"I bought some cup noodles, so boil some water. ...How's the kid?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14426,
+    "TextENGNew": "``Hm? He's been sleeping the entire time.@k@vS20/00/yamaB44003. Thank god he's not causing any trouble.@k@vS20/00/yamaB44004. He did struggle a bit when he was about to shit himself.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14427,
+    "TextENGNew": "\"Don' let 'im soil himself. The stench would be real bad if someone came snoopin' around.\"",
+    "significantChanges": true,
+    "changeReason": "Old says the stench would be bad \"in here\" but the Japanese 万一の時 (in case of emergency) implies concern about detection by outsiders; new correctly captures this as \"if someone came snoopin' around.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 14428,
+    "TextENGNew": "``...Yeah, I know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14429,
+    "TextENGNew": "\"Check the gag regularly. Can't have it comin' loose, but don' make it too tight neither...@k@vS20/14/443400014.If he suffocates, this was all for nothin'.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14430,
+    "TextENGNew": "``I said, I know... Huh? Didn't I ask you to pick up another can of gas for the portable stove?@k@vS20/00/yamaB44007. We're out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14431,
+    "TextENGNew": "``Ya never asked, ya ijit.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14432,
+    "TextENGNew": "``...Gaah... seriously? Come on, work.... Dammit!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14433,
+    "TextENGNew": "He rattled the portable stove as he struggled to get it to light.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14434,
+    "TextENGNew": "...Seeing that, the man who went to buy supplies let out a deep sigh.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14435,
+    "TextENGNew": "And with a backwards glance at that sight, began to walk to the corner of the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14436,
+    "TextENGNew": "...The kidnapped boy lay sprawled on a blanket spread over the floor.",
+    "significantChanges": true,
+    "changeReason": "\"Sheet\" changed to \"blanket\" -- 毛布 specifically means blanket, not sheet.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 14437,
+    "TextENGNew": "``....Boy, ya doin' okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14438,
+    "TextENGNew": "Of course, the man didn't assume the kid was able to hear that question.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14439,
+    "TextENGNew": "Because the boy's ears were plugged, and his eyes and ears were thoroughly sealed beneath layers of packing tape.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 14440,
+    "TextENGNew": "Also, his mouth was gagged with a thin, twisted-up towel.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 14441,
+    "TextENGNew": "...Because of that, the boy was unable to close his mouth properly, his cheeks sticky with his own saliva.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 14442,
+    "TextENGNew": "Of course, that wasn't the only reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 14443,
+    "TextENGNew": "Both his arms were tied tightly behind his back with a leather belt.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 14444,
+    "TextENGNew": "\"Things seem to be goin' smooth. Yer life ain't in danger.@k@vS20/14/443400018....If yer grandpa had tried to play tough, we mighta had to lop off an ear... be grateful we don' have to...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14445,
+    "TextENGNew": "\"If the Main Family decides somethin'... there's no arguin'. ...I can't even imagine what kinda cruel orders they might give.@k@vS20/14/443400020....But they said not a single scratch on 'im, so things must be goin' well for now...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14446,
+    "TextENGNew": "``The Minister is discretely withdrawing the dam project. The Hinamizawa Dam is indefinitely postponed.@k@vS20/00/yamaB44010. ...I wonder when we're letting the boy go.@k@vS20/00/yamaB44011. ...I just want to be done with this already.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14447,
+    "TextENGNew": "``Tha Main Family seem ta be gaugin' tha timin'. I don' know when it'll be, but prob'ly soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 14448,
+    "TextENGNew": "``Isn't that great, kid? You'll be let go real soon, heh heh heh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 14449,
+    "TextENGNew": "The men didn't know if their voices were heard by the boy.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 14450,
+    "TextENGNew": "...For the boy, there was nothing he could do but keep sleeping -- the only defense he had left to shield his spirit from this wretched reality...",
+    "significantChanges": true,
+    "changeReason": "Old omits 魂を守るために (to protect his spirit) and 自衛の方法 (means of self-defense), which the new translation includes, adding emotional depth about the boy's desperate psychological retreat.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 14451,
+    "TextENGNew": "``More importan'ly, wha' are we gonna do about tha gas? We can' eat the cup noodles raw!!@k@vS20/14/443400023. If we're out of gas say something, geez!!``",
+    "significantChanges": false
+  }
+]

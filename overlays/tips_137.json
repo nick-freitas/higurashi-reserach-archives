@@ -1,0 +1,649 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Resolve",
+    "significantChanges": true,
+    "changeReason": "English translation was missing; ENG field contained untranslated Japanese text.",
+    "changeScore": 5
+  },
+  {
+    "index": 1,
+    "MessageID": 16268,
+    "TextENGNew": "Akasaka stood in a dimly lit dojo steeped in the smell of sweat and mildew, clad in his training uniform.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'clad in his training uniform' (道着姿の) and 'mildew' for カビ; original omits the training attire detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 16269,
+    "TextENGNew": "The dojo occupied a room in a crumbling low-rise building in a cluttered entertainment district. It was neither spacious nor well-equipped with training apparatus.",
+    "significantChanges": true,
+    "changeReason": "JPN specifies a 'crumbling low-rise building in a cluttered entertainment district' (雑多な繁華街の朽ちた低層ビル); original simplifies to 'middle of downtown, in a small building.'",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 16270,
+    "TextENGNew": "At a glance, it hardly seemed like a dojo worthy of someone of Akasaka's caliber.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 16271,
+    "TextENGNew": "There were few students--only three or four people, including Akasaka, were actively training.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'were actively training' (稽古に勤しんでいる) matching JPN; original just says 'there were only three or four students there.'",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 16272,
+    "TextENGNew": "...Yet this was the dojo Akasaka had chosen.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 16273,
+    "TextENGNew": "For Akasaka, karate was undeniably a weapon for crushing his enemies... but now he sought something beyond that.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 16274,
+    "TextENGNew": "To pursue that deeper goal, the combat-oriented dojos full of hot-headed young students no longer suited him.",
+    "significantChanges": true,
+    "changeReason": "JPN specifies 'combat-oriented dojos full of hot-headed young students' (喧嘩っ早い若い門下生); original's 'many young students having actual physical lessons' loses the combative/hot-headed characterization.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 16275,
+    "TextENGNew": "After cycling through several dojos, this ramshackle place was where he finally arrived...",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 16276,
+    "TextENGNew": "The occasional heavy thud and rattle of chains came from the sandbag Akasaka was striking.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 16277,
+    "TextENGNew": "...He was not punching recklessly. He would contemplate deeply, refine his intent to perfection, and then--strike!",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 16278,
+    "TextENGNew": "It was more a deep, low vibration than a sound. Beads of sweat scattered, dust-laden air billowed upward, silently attesting to the devastating weight behind each blow. It was a flawless straight punch that embodied the very principle of one strike, one kill.",
+    "significantChanges": true,
+    "changeReason": "New translation captures JPN's 一撃必殺 as 'one-strike-kill' concept in 'a masterful straight punch that embodied the one-strike kill'; original's 'a perfect punch' loses this martial arts concept.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 16279,
+    "TextENGNew": "And yet, Akasaka seemed unsatisfied. He half-closed his eyes... adjusted the channeling of his power and the depth of his breathing, sometimes pausing long enough to hear the cicadas, then struck again.",
+    "significantChanges": true,
+    "changeReason": "New translation captures JPN details: 'half-closed his eyes' (薄く目を瞑り), 'adjusted the channeling of his power and the depth of his breathing'; original simplifies to 'controlled his breathing as if trying to hear the cry of cicadas' which mischaracterizes the cicada reference.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 16280,
+    "TextENGNew": "To an untrained eye, it might look like he was taking leisurely breaks. ...But the other students, who glanced over while continuing their own training, felt something beyond awe--a reverence for each meticulously refined blow...",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 16281,
+    "TextENGNew": "``I heard Akasaka-san works for the police...``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 16282,
+    "TextENGNew": "``Seriously?@k@vS20/00/monkaB44002. If someone like him is a police officer, I'd never even think about breaking the law...``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 16283,
+    "TextENGNew": "``Still... Akasaka-san's concentration is incredible. The man never seems to tire.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 16284,
+    "TextENGNew": "On his days off, Akasaka came to the dojo first thing in the morning. He would then silently devote himself to training, hour after hour, indefinitely.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 16285,
+    "TextENGNew": "By this point, it was no longer physical training but spiritual training. The other students had already discerned that his unbroken concentration was the secret to Akasaka's strength.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 16286,
+    "TextENGNew": "But putting that into practice was far from simple. ...As long as one lives, one is ensnared by countless obligations and idle thoughts. To liberate one's mind from all of them transcends the realm of martial arts and may border on true enlightenment.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 16287,
+    "TextENGNew": "Humanity has explored countless paths in search of that state. ...What has been learned is that no single path leads there exclusively. ...Any path, if mastered to its fullest extent, can arrive at the same destination.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 16288,
+    "TextENGNew": "And the path Akasaka chose was karate...",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 16289,
+    "TextENGNew": "``The rumors say@k@vS20/00/monkaC44002. his wife died.@k@vS20/00/monkaC44003. Supposedly, he took up karate to forget about it.``",
+    "significantChanges": true,
+    "changeReason": "JPN uses 'wife died' (奥さん死んじゃってる) in past tense as a rumor; original says 'his wife is dead' which sounds like current state. New translation's 'his wife died' is more accurate to the JPN tense.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 16290,
+    "TextENGNew": "``Really? I heard something different.@k@vS20/00/monkaB44004. ...That he couldn't save a girl while on duty, and it made him realize how powerless he was, or something like that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 16291,
+    "TextENGNew": "``...Hey, I can hear you.@k@vS20/13/441300051. Stop gossiping about people and get back to training.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 16292,
+    "TextENGNew": "``````Yes, sir!!``````",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 16293,
+    "TextENGNew": "At that moment, a small electronic beep sounded. Someone's watch was announcing noon.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 16294,
+    "TextENGNew": "``Akasaka-san,@k@vS20/00/monkaA44005. we're going to grab lunch. Want us to pick something up for you too?``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 16295,
+    "TextENGNew": "``...I'd appreciate that.@k@vS20/13/441300053. Anything is fine. Thanks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 16296,
+    "TextENGNew": "For Akasaka, the convenience of having lunch brought to him mattered less than the welcome silence that came when the others left.",
+    "significantChanges": true,
+    "changeReason": "New translation captures JPN's detail about Akasaka valuing the silence (静かになることの方が嬉しかった) more than the lunch; original states this but less precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 16297,
+    "TextENGNew": "As they changed into their shoes and their footsteps pattered away, the dojo sank into profound stillness...",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'changed into their shoes' (靴に履き替え) and 'pattered away' (ぱたぱた) and 'profound stillness' (シンと静まり返る) from JPN; original's 'silence filled the building' omits these sensory details.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 16298,
+    "TextENGNew": "``...Damn it.@k@vS20/13/441300055. Their gossiping broke my concentration.``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 16299,
+    "TextENGNew": "Yet if a bit of idle chatter was enough to shatter his focus, that only proved his training was insufficient. ...He still had much further to go before reaching the state of selfless emptiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 16300,
+    "TextENGNew": "He collected himself and drove his fist into the sandbag, but the sound was conspicuously lighter than before. The weight had clearly drained from his punch.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 16301,
+    "TextENGNew": "Akasaka recognized that he needed to rest and pulled a towel from his sports bag before sitting down on the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 16302,
+    "TextENGNew": "The drone of cicadas seeped into his body.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 16303,
+    "TextENGNew": "The windows were open, but the dojo's layout seemed to prevent any cross-breeze. Still, even the faintest whisper of cool air reached Akasaka in his current state.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 16304,
+    "TextENGNew": "...The primary reason Akasaka had taken up karate was, just as they said, Yukie's death.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 16305,
+    "TextENGNew": "Of course, being outmatched in the struggle with the kidnapper during that incident was motivation enough. But what weighed on him far more heavily was the pain of losing Yukie...",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 16306,
+    "TextENGNew": "Yukie had fallen down the hospital stairs and died... while he was away on assignment in Shishibone.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 16307,
+    "TextENGNew": "Unable to shake that grief, he had sought solace by walking through the doors of a karate dojo.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 16308,
+    "TextENGNew": "But... in June of Showa 58, when the Great Hinamizawa Disaster occurred... I realized I had forgotten something profoundly important.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 16309,
+    "TextENGNew": "A young girl had predicted Yukie's death.",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'single plea--for me to help her' (自分を助けてほしいという願い) and uses first person 'me'; original's 'she wanted him to help her' uses third person, and the POV shift between first/third person is significant here.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 16310,
+    "TextENGNew": "And in exchange for that prediction, the girl had made a single plea--for me to help her.",
+    "significantChanges": true,
+    "changeReason": "JPN shifts to first person internal narration using 私 throughout; original stays in third person 'he.' This POV change from 'He could have told himself' to 'I might have been able to accept it' fundamentally changes the narrative voice.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 16311,
+    "TextENGNew": "...Yukie's death had been an accident. I might have been able to accept it as something beyond anyone's control. But the death of that girl--Rika Furude--was different. She had known of her own murder five years before it happened.",
+    "significantChanges": true,
+    "changeReason": "Continues the significant first-person vs third-person narration shift. JPN uses 私 (I); original uses 'he.'",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 16312,
+    "TextENGNew": "When the Disaster struck, I remembered Ooishi, who had helped me during that earlier case, and called to check on him......... That was how I learned everything.",
+    "significantChanges": true,
+    "changeReason": "Continues the first-person vs third-person POV shift. JPN 私は 'I was consumed' vs original 'he fell into despair.' Also 'crushing remorse' (深い悔悟) vs 'despair' are different emotions.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 16313,
+    "TextENGNew": "The moment I learned the truth, I was consumed by a crushing remorse.",
+    "significantChanges": true,
+    "changeReason": "Continues first-person vs third-person shift. Also 'turning point of my life' vs 'turning point in his life.'",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 16314,
+    "TextENGNew": "Rika Furude had been the turning point of my life.",
+    "significantChanges": true,
+    "changeReason": "Continues first-person vs third-person shift.",
+    "changeScore": 2
+  },
+  {
+    "index": 48,
+    "MessageID": 16315,
+    "TextENGNew": "If I had believed her prediction and taken some kind of action, perhaps Yukie would never have fallen down those stairs.",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift from third person to first person matching JPN's 私.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 16316,
+    "TextENGNew": "I had become a police officer to uphold justice, yet I failed to even notice a single girl's cry for help. I overlooked the conspiracy that surrounded her for five full years despite having all that time, and let her be killed.",
+    "significantChanges": true,
+    "changeReason": "Continues POV shift. Also new translation captures 'I overlooked the conspiracy that surrounded her for five full years' more completely from JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 16317,
+    "TextENGNew": "That visit to Hinamizawa for the kidnapping of the Minister's grandson... without a doubt, it had been the crossroads of my fate.",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift from third to first person.",
+    "changeScore": 2
+  },
+  {
+    "index": 51,
+    "MessageID": 16318,
+    "TextENGNew": "If only I had listened more carefully to that girl's words... Yukie would still be alive. And I could have rushed to Rika Furude's side to save her.",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift. Also 'rushed to Rika Furude's side' vs 'been there to help Rika Furude.'",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 16319,
+    "TextENGNew": "...Those two failures... became an indelible regret that continued to torment me...",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift. Also 'indelible regret that continued to torment me' vs 'continued to haunt him.'",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 16320,
+    "TextENGNew": "The series of mysterious deaths in Hinamizawa that Ooishi told me about had been swept under the rug by the Great Disaster... but it was clearly a bizarre case that reeked of some vast conspiracy.",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift. New translation also adds 'swept under the rug' matching JPN うやむやにされてしまった.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 16321,
+    "TextENGNew": "To challenge something like that required experience from countless complex cases and a honed, razor-sharp strength capable of confronting any evil single-handedly. ...I was pouring myself into work and training to attain that strength, but... it was all too late. It was already over...",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift from third to first person.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 16322,
+    "TextENGNew": "It was while I wrestled with that anguish that the master of this dojo offered me counsel.",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift. 'the master of this dojo offered me counsel' vs 'the dojo instructor admonished him.'",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 16323,
+    "TextENGNew": "What is done cannot be undone. ...Then at the very least, train yourself so relentlessly that if the exact same thing were to happen again, you would be able to save them without fail.",
+    "significantChanges": true,
+    "changeReason": "Continues the POV shift. Also new translation uses direct imperative 'train yourself so relentlessly' vs original's reported speech.",
+    "changeScore": 2
+  },
+  {
+    "index": 57,
+    "MessageID": 16324,
+    "TextENGNew": "It was all too late. Everything was already over.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 16325,
+    "TextENGNew": "Yukie died in an accident. Hinamizawa was annihilated by the gas disaster. ...And Rika-chan was brutally murdered--her intestines torn from her living body...",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'her intestines ripped out' detail about Rika's murder from JPN (内臓を引き摺り出されて) that the original truncates. Also continues POV context.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 16326,
+    "TextENGNew": "Damn it...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 16327,
+    "TextENGNew": "I was so consumed by Yukie's death that I couldn't hear the pleas of a girl I might have been able to save...!",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'I might have been able to save' (救えたかもしれない) from JPN; the original's phrasing is slightly different.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 16328,
+    "TextENGNew": "No--if I had listened to her, I might have prevented even Yukie's accident...!",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 16329,
+    "TextENGNew": "...I can't give up... I refuse to give up...!! Damn it all...!!!",
+    "significantChanges": true,
+    "changeReason": "JPN says 'I can't give up... I refuse to give up' (諦められない、諦めきれない); original says 'Damn it... Damn it!! Shiiiit!!' which is entirely different content—frustration rather than determination.",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 16330,
+    "TextENGNew": "When Akasaka looked up, clawing at his hair in anguish, he found himself staring at... the small Shinto altar that watched over the dojo.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'clawing at his hair in anguish' and specifies 'small Shinto altar that watched over the dojo' (道場を見守る神棚); original's 'small shrine overhead' is less specific.",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 16331,
+    "TextENGNew": "Akasaka certainly had respect for gods and buddhas, but he had never resorted to praying in times of hardship. ...And yet, for the first time in his life, he felt the urge to pray.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 16332,
+    "TextENGNew": "If it were something within his own power, he would never pray. ...It was precisely because it lay beyond his power that he prayed.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'precisely because it lay beyond his power that he prayed' (自分に出来ないことだから祈った); new translation captures this paradox more precisely than the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 16333,
+    "TextENGNew": "It was... an extraordinarily convenient wish.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'extraordinarily convenient wish' (とても都合のいい願い); original says 'very selfish wish.' Convenient/convenient and selfish are different concepts.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 16334,
+    "TextENGNew": "If such a wish could be granted, surely countless people throughout the world would wish for the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 16335,
+    "TextENGNew": "``...Once more...@k@vS20/13/441300057. Let me go back to that time, just once more...@k@vS20/13/441300058. If I could... this time, I swear I will save them both...!!``",
+    "significantChanges": true,
+    "changeReason": "JPN says 'Once more... Let me go back to that time, just once more' (もう一度…もう一度あの時に戻らせてくれ); original says 'Please give me another chance.' The new translation is more literal and specific about going back in time.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 16336,
+    "TextENGNew": "...At that moment, Akasaka felt his entire body grow suddenly light... No, it was more like a momentary loss of equilibrium... Like the sensation of fainting from anemia.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 16337,
+    "TextENGNew": "Perhaps it was because he had shouted so loudly right after an intense training session, starving his brain of oxygen.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 16338,
+    "TextENGNew": "And yet, he could not tear his eyes from the altar...",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 16339,
+    "TextENGNew": "``...Thank you, Akasaka.@k@vS20/12/441100017. ...Your feelings are something we desperately needed.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Your feelings are something we desperately needed' (あなたの思いが私たちにはとても必要だった); original's 'We needed your thoughts' loses the emotional weight and desperation.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 16340,
+    "TextENGNew": "...Was this a hallucination brought on by oxygen deprivation?",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 16341,
+    "TextENGNew": "Akasaka felt as though someone he had never seen, never met, was speaking to him.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'someone he had never seen, never met' (見たことのない、会ったことのない) matching JPN's double emphasis; original simplifies to just 'a stranger.'",
+    "changeScore": 2
+  },
+  {
+    "index": 75,
+    "MessageID": 16342,
+    "TextENGNew": "``We must wish for a miracle,@k@vS20/12/441100019. and you too must wish for a miracle--otherwise, no miracle will come to pass.@k@vS20/12/441100020. ...Because a miracle will not occur unless everyone wishes for it.@k@vS20/12/441100021. Unless both sides reach out their hands, they can never meet.``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 16343,
+    "TextENGNew": "...He could not understand what she was saying, but... something told him he must not let a single word escape him. ...Something told him she was saying something of tremendous importance.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 16344,
+    "TextENGNew": "``...Akasaka,@k@vS20/12/441100023. if you too are willing to wish for it... then a miracle for you.@k@vS20/12/441100024. A miracle for us.``",
+    "significantChanges": true,
+    "changeReason": "New translation captures 'if you too are willing to wish for it... then a miracle for you. And a miracle for us' matching JPN structure; original's 'if you wish for it, I'll grant you this miracle' implies she personally grants it, which differs.",
+    "changeScore": 2
+  },
+  {
+    "index": 78,
+    "MessageID": 16345,
+    "TextENGNew": "``...Joining broken Fragments together will create the chance to forge a greater, grander Fragment.@k@vS20/12/441100026. ...A single resolve of yours may profoundly influence the fates and convictions of everyone.``",
+    "significantChanges": true,
+    "changeReason": "New translation restructures from reported speech to direct quotation marks, and 'forge a greater, grander Fragment' vs 'create an even greater Fragment'—forge implies more active creation.",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 16346,
+    "TextENGNew": "``Can you@k@vS20/13/441300060. ...turn back time to that moment...?``",
+    "significantChanges": true,
+    "changeReason": "JPN says 'turn back time to that moment' (あの時に); original lacks 'moment' specificity. New adds '...?' with questioning uncertainty matching JPN tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 80,
+    "MessageID": 16347,
+    "TextENGNew": "``Mm-mm. I can't do something like that.@k@vS20/12/441100028. ...All I can do is help you notice.``",
+    "significantChanges": true,
+    "changeReason": "JPN starts with 'Mm-mm' (うぅん) which is a gentle negative; original just says 'No.' Also new adds 'All I can do is help you notice' vs 'The only thing I can do is to let you notice'—slight but both are close. The key change is the opening interjection.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 16348,
+    "TextENGNew": "``...Help you notice that what cannot be learned from one Fragment alone can be learned from others.@k@vS20/12/441100030. ...So all I need to do is return this broken Fragment to where it belongs.``",
+    "significantChanges": true,
+    "changeReason": "New translation uses direct quotation structure; original drops quotes. Also 'what cannot be learned from one Fragment alone' vs 'things you can't learn from one Fragment' is slightly different framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 16349,
+    "TextENGNew": "``...Even that alone would be a great miracle.@k@vS20/12/441100032. ...Though you will most likely never even realize it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 16350,
+    "TextENGNew": "``That small, tiny force of will--``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 84,
+    "MessageID": 16351,
+    "TextENGNew": "``--will transform scattered 'Fragments' into a 'Whole,' becoming a great force that turns one of the gears of fate.``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 85,
+    "MessageID": 16352,
+    "TextENGNew": "``It is a small gear, sitting quietly in a forgotten corner of the world, one that no one has ever noticed.``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 86,
+    "MessageID": 16353,
+    "TextENGNew": "``But--``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 87,
+    "MessageID": 16354,
+    "TextENGNew": "``--when it turns, the gears locked rigidly together will shift direction, giving rise to a vast, different motion.``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 88,
+    "MessageID": 16355,
+    "TextENGNew": "``With the force to wrench open a sealed door.``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 89,
+    "MessageID": 16356,
+    "TextENGNew": "``With the ferocity to smash through a wall that stands in the way.``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 90,
+    "MessageID": 16357,
+    "TextENGNew": "``So, Akasaka--``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 91,
+    "MessageID": 16358,
+    "TextENGNew": "``Please... give that resolve of yours... to 'us'--``",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  }
+]

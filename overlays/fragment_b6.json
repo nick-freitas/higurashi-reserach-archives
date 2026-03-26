@@ -1,0 +1,806 @@
+[
+  {
+    "index": 1,
+    "MessageID": 4604,
+    "TextENGNew": "The dissection plan for Satoko-chan had been suspended, and we were moving forward with plans to administer C103—a reagent whose safety had not been established at all.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'scrubbed' (cancelled) and 'almost totally untested medicine'; new says 'suspended' (temporary) and 'reagent whose safety had not been established at all,' more precisely matching the Japanese which says the plan was 'suspended' (中止) and the reagent had 'no safety established' (安全性のない試薬).",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 4605,
+    "TextENGNew": "The reagent worked by suppressing the secretion of a certain hormone, thereby blocking the transmission by which Hinamizawa Syndrome was driving Satoko-chan toward derangement.",
+    "significantChanges": true,
+    "changeReason": "Old says 'experimental medicine suppresses the production of a certain type of hormone' and 'stop the transmission of the syndrome triggering Satoko-chan's condition'; new says 'reagent worked by suppressing the secretion of a certain hormone, thereby blocking the transmission by which Hinamizawa Syndrome was driving Satoko-chan toward derangement,' adding specificity about Hinamizawa Syndrome and derangement matching the Japanese text.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 4606,
+    "TextENGNew": "The mechanism of Hinamizawa Syndrome was understood to work as follows: a pathogen commandeers the frontal lobe and induces a state of heightened sensitivity specifically toward paranoia,\nwith the result that the patient \"voluntarily\" engages in excessive defensive behaviors—i.e., problematic conduct.",
+    "significantChanges": true,
+    "changeReason": "New translation adds quotation marks around 'voluntarily' matching the Japanese quotation marks around 自発的に, and changes 'problematic extent' to 'problematic conduct' (問題行動), more accurately reflecting that the Japanese says the defensive behaviors themselves are the problematic conduct.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 4607,
+    "TextENGNew": "If that induction could be severed, it would be possible to save terminal-stage patients from derangement.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 4608,
+    "TextENGNew": "Merely severing the induction, however, did not constitute a fundamental cure.",
+    "significantChanges": true,
+    "changeReason": "Old says 'it's not really a cure' which is vague; new says 'did not constitute a fundamental cure,' preserving the Japanese distinction that it lacks 'fundamental/root' (根源的な) curative power rather than simply not being a cure at all.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 4609,
+    "TextENGNew": "...Ironically, the brain is an organ that learns.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 4610,
+    "TextENGNew": "Once the brain has been made to learn excessive paranoia through Hinamizawa Syndrome, even if the pathogen were completely eradicated, the brain would have already finished learning its defensive response to paranoia—it would not simply unlearn it.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'defensive response to paranoia' and 'it would not simply unlearn it,' matching the Japanese more closely which says the brain has 'already finished learning its defensive response to paranoia' (疑心暗鬼に対する抵抗を学び終えている).",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 4611,
+    "TextENGNew": "In short, even without the pathogen inducing derangement, the patient would steer their own emotions in that direction by their own volition.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 4612,
+    "TextENGNew": "...And so, a clean escape from the L5 state—the brink of derangement—would not be achievable.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 4613,
+    "TextENGNew": "(The proverb \"once bitten, twice shy\" illustrates this well.)",
+    "significantChanges": true,
+    "changeReason": "Old uses 'a burnt child dreads the fire' and has a missing closing parenthesis; new uses 'once bitten, twice shy'—a different English proverb choice for the same Japanese proverb 羹に懲りてナマスを吹く, and properly closes the parenthetical.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 4614,
+    "TextENGNew": "(Even after the burn on your tongue heals, the fear of burning it again on hot food does not.)",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 4615,
+    "TextENGNew": "(When this process leads somewhere good, we call it \"learning.\" When it leads somewhere bad, we call it \"trauma.\")",
+    "significantChanges": true,
+    "changeReason": "Old says 'learning a lesson' vs new says 'learning,' matching the Japanese 学習 which simply means 'learning' not 'learning a lesson.' The old version also has mismatched parentheses.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 4616,
+    "TextENGNew": "Treatment would probably require a very considerable length of time, working on two tracks simultaneously: pharmacological treatment such as psychotropic medication, and mental care such as counseling.",
+    "significantChanges": true,
+    "changeReason": "Old says 'We predict Satoko-chan's treatment' specifying the patient; new says 'Treatment would probably require' speaking generally about the treatment outlook, matching the Japanese which does not name Satoko specifically in this sentence (その治療は).",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 4617,
+    "TextENGNew": "Suppressing the syndrome's induction of derangement while simultaneously unwinding, bit by bit, the paranoia that had hardened in her mind to the point of breaking...",
+    "significantChanges": true,
+    "changeReason": "Old says 'We have to slowly unravel her mind's solidified paranoia'; new says 'Suppressing the syndrome's induction of derangement while simultaneously unwinding, bit by bit, the paranoia that had hardened in her mind to the point of breaking,' adding the detail about paranoia hardening 'to the point of breaking' (錯乱直前まで) present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 4618,
+    "TextENGNew": "...That was the outlook for the treatment plan for a terminal-stage patient like Satoko-chan.",
+    "significantChanges": true,
+    "changeReason": "Old says 'This is the treatment plan for terminal patients like Satoko-chan'; new says 'That was the outlook for the treatment plan,' adding 'outlook' (見通し) which is present in the Japanese and changes the framing from definitive plan to projected outlook.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 4619,
+    "TextENGNew": "That said, we were proposing to alternately stimulate the emotional centers of her brain—the pathogen and ourselves in turns—",
+    "significantChanges": true,
+    "changeReason": "Old says 'at the same time' (simultaneously) but JPN 交互に means 'alternately/in turns' — opposite procedural meaning for brain stimulation methodology.",
+    "changeScore": 4
+  },
+  {
+    "index": 17,
+    "MessageID": 4620,
+    "TextENGNew": "and unforeseen side effects were certainly conceivable.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 4621,
+    "TextENGNew": "...The key to the success rate lay in her physical stamina and mental fortitude.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Both her mental and physical strength hold the key to our success'; new says 'The key to the success rate lay in her physical stamina and mental fortitude,' adding 'success rate' (成功率) which is more specific than just 'success.'",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 4622,
+    "TextENGNew": "We were to begin the experiment once we had carefully confirmed her emotional stabilization and recovery of physical strength...",
+    "significantChanges": true,
+    "changeReason": "Old says 'once she regains her emotional stability and physical strength'; new says 'once we had carefully confirmed her emotional stabilization and recovery of physical strength,' adding the 'carefully confirmed' (慎重に見極めた) detail from the Japanese about the careful assessment process.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 4623,
+    "TextENGNew": "And in the midst of all that, someone who seemed determined to disturb that fragile emotional stability had been showing up at my door day after day.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Someone who threatens to disturb her emotional stability has been coming here every day'; new says 'someone who seemed determined to disturb that fragile emotional stability had been showing up at my door day after day,' adding 'at my door' (私のところへ押し掛けて) and the sense of intrusion from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 4624,
+    "TextENGNew": "...The wily old detective from the Okinomiya precinct: Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 4625,
+    "TextENGNew": "He viewed everything from the dam conflict to last year's dismemberment murder of the site foreman as organized crime orchestrated behind the scenes by the village's three great families,",
+    "significantChanges": true,
+    "changeReason": "Old says 'everything, from the dam protests to the dismemberment murder of the construction manager, is an organized effort secretly conducted by the Three Families'; new adds 'last year's' (昨年の) and changes 'construction manager' to 'site foreman' (現場監督) and 'Three Families' to 'three great families' (御三家), more precisely matching the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 4626,
+    "TextENGNew": "and was convinced that the fall that had claimed Satoko-chan's parents—spoken of as this year's curse—was equally criminal. That conviction kept him dogging Satoko-chan, who stood at the center of it all...",
+    "significantChanges": true,
+    "changeReason": "Old says 'He even thinks the accident involving Satoko-chan's parents wasn't an accident. That's why he keeps coming back so he can talk to Satoko-chan'; new says 'was convinced that the fall...was equally criminal. That conviction kept him dogging Satoko-chan, who stood at the center of it all,' adding the detail about this year's curse (今年の祟り) and Satoko being 'at the center of it all' (渦中の人物) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 4627,
+    "TextENGNew": "\"...No matter how many times you come, I cannot authorize a visit to Satoko-chan.\nShe has been devastated by the shock of losing her parents, you understand?\nCan you not take that into consideration?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'She's still crippled by the shock of her parents' deaths'; new says 'She has been devastated by the shock of losing her parents, you understand?' The old version says 'deaths' while the Japanese says 'losing her parents' (両親を亡くした)—a subtle but meaningful distinction in how directly the death is referenced.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 4628,
+    "TextENGNew": "\"No no, I really only need a brief word with her.\nI don't intend to take up very much of her time at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 4629,
+    "TextENGNew": "\"...If you're telling me I need a warrant, there's nothing stopping me from applying for one—but then we'd be getting into quite a serious matter, wouldn't we?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'If you want me to get a warrant, I will. But that's pretty serious, you know?' which is brief and direct; new says 'If you're telling me I need a warrant, there's nothing stopping me from applying for one—but then we'd be getting into quite a serious matter, wouldn't we?' which more accurately conveys the conditional/threatening tone of the Japanese (令状が必要だってんなら申請しないことはありませんが).",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 4630,
+    "TextENGNew": "\"Is it not precisely out of consideration for Houjou-san's condition that I've been avoiding the graceless step of obtaining a warrant?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm being considerate of Houjou-san, and that's why I haven't gotten a warrant'; new says 'Is it not precisely out of consideration for Houjou-san's condition that I've been avoiding the graceless step of obtaining a warrant?' The new version captures the rhetorical question form and adds 'graceless step' (無粋) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 4631,
+    "TextENGNew": "\"I simply cannot fathom what it is you intend to ask Satoko-chan that would require going so far as to obtain a warrant.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'What are you trying to ask her anyway? I don't really understand'; new says 'I simply cannot fathom what it is you intend to ask Satoko-chan that would require going so far as to obtain a warrant,' adding the warrant detail (令状を取ってまで) present in the Japanese that was omitted in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 4632,
+    "TextENGNew": "\"...Hmm, well, the fact of the matter is...\nthere is a possibility that the fall was not an accident but a crime.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'It's possible that the fall was not an accident'; new adds 'not an accident but a crime' (事故ではなく事件), making the contrast explicit as in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 4633,
+    "TextENGNew": "\"I am aware that the Houjou couple has been disliked by the entire village since the dam conflict.\nBut following them all the way to their travel destination just to push them off—isn't that rather too far-fetched?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'who would actually follow them on their trip and push them off?'; new says 'following them all the way to their travel destination just to push them off,' more closely matching the Japanese emphasis on 'going all the way to their travel destination' (旅行先まで追いかけて).",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 4634,
+    "TextENGNew": "\"Hmmmm.\nWell, I'd be perfectly happy to call it an accident.\nExcept there's a lie in there that I simply cannot get past.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Well, we could call it an accident. But if that was the case, there are some things which just don't make sense'; new says 'I'd be perfectly happy to call it an accident. Except there's a lie in there that I simply cannot get past,' introducing the specific word 'lie' (嘘) that appears in the Japanese, which the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 4635,
+    "TextENGNew": "\"When I think about why a lie would be necessary,\nI find myself thinking this simply couldn't have been an accident.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Why lie? With those lies, I don't think it was an accident'; new says 'When I think about why a lie would be necessary, I find myself thinking this simply couldn't have been an accident,' which more accurately reflects the reasoning process in the Japanese (どうして嘘が必要なのか、って考えると).",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 4636,
+    "TextENGNew": "\"...What lie are you referring to?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 4637,
+    "TextENGNew": "\"Well, it's this.\nSatoko Houjou-san's claim that she was asleep in the car at the time of the accident.\n...I find the story a little odd, you see.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 4638,
+    "TextENGNew": "From the start, Satoko-chan had consistently maintained that at the time of the accident she had been asleep in the back seat of the car.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko-chan claims she was asleep in the back seat'; new says 'From the start, Satoko-chan had consistently maintained that at the time of the accident she had been asleep in the back seat,' adding 'From the start' and 'consistently maintained' (当初から...主張していた) from the Japanese, emphasizing the persistence of her claim.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 4639,
+    "TextENGNew": "As a result, she claimed not to have gotten out at the observation deck where the accident had occurred.",
+    "significantChanges": true,
+    "changeReason": "Old says 'So she didn't get out of the car at the viewing platform'; new says 'As a result, she claimed not to have gotten out at the observation deck where the accident had occurred,' adding 'she claimed' and 'where the accident had occurred' (事故現場の) clarifying this is her assertion, not established fact.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 4640,
+    "TextENGNew": "When she woke, her parents were nowhere to be seen; she had been at a loss—and only later discovered that they had fallen to the foot of the cliff.",
+    "significantChanges": true,
+    "changeReason": "Old says 'When she woke up, she didn't see her parents. Then she found out they had fallen off the cliff'; new adds 'she had been at a loss' (途方に暮れ) matching the Japanese detail about her state of confusion before learning about the fall.",
+    "changeScore": 2
+  },
+  {
+    "index": 38,
+    "MessageID": 4641,
+    "TextENGNew": "\"And where exactly is the lie in that?\nYou're not suggesting that Satoko-chan was actually awake and accompanied her parents to the observation deck—are you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 4642,
+    "TextENGNew": "\"That's right.\nSatoko Houjou-san was never asleep.\nShe got out of the car together with her parents and went to the observation deck.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 4643,
+    "TextENGNew": "...By this point, a terrible imagining had taken hold of me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm suddenly hit by a terrible possibility'; new says 'By this point, a terrible imagining had taken hold of me,' where 'by this point' (この頃) conveys the timing differently—old implies sudden onset, new implies it had been building.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 4644,
+    "TextENGNew": "If what Ooishi was saying was true—if Satoko-chan had in fact gone with her parents to the observation deck and yet lied that she had not—",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 4645,
+    "TextENGNew": "...then a horrifying picture would take form.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It's terrible to even imagine'; new says 'then a horrifying picture would take form,' which matches the Japanese 恐ろしい想像が形を成す (a frightening imagining taking form) rather than just being terrible to imagine.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 4646,
+    "TextENGNew": "\"I—I don't understand what grounds you have for saying that.\nAnd why would Satoko-chan have any reason to lie?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Why are you saying such a thing?'; new says 'I don't understand what grounds you have for saying that,' adding 'grounds' (根拠) which is present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 4647,
+    "TextENGNew": "\"That's precisely my point.\nWhy would Satoko Houjou-san need to lie?\nUnless I hear the truth behind it,\n...this cannot be written off as a simple fall.\"",
+    "significantChanges": true,
+    "changeReason": "Old has Ooishi say 'That's why I need to talk to her. Otherwise, this won't end as just a simple accident'; new says 'Unless I hear the truth behind it, this cannot be written off as a simple fall,' adding 'the truth behind it' (本当のところ) from the Japanese and changing 'accident' to 'fall' (転落事故).",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 4648,
+    "TextENGNew": "\"Why are you so convinced that Satoko-chan is lying?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 4649,
+    "TextENGNew": "\"...This incident falls outside my jurisdiction, so the Shirakawa station handled the interviews with all involved parties.\nBut when I read through the record, there are things that catch my eye.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The guys from the Shirakawa station conducted the interviews with the parties involved'; new says 'the Shirakawa station handled the interviews with all involved parties. But when I read through the record, there are things that catch my eye,' adding the detail about reading the records (調書を読んでみると) from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 4650,
+    "TextENGNew": "\"Things that catch your eye...such as what?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 4651,
+    "TextENGNew": "\"According to Satoko Houjou-san's account,\nher parents invited her to come along to the observation deck, but she was sleepy and declined, remaining in the car.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 4652,
+    "TextENGNew": "\"She then fell into a deep sleep and woke up a considerable time later.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Then she fell asleep and woke up after a while'; new says 'She then fell into a deep sleep and woke up a considerable time later,' where 'deep sleep' (熟睡) and 'considerable time' (相当の時間) are more specific than the vague old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 4653,
+    "TextENGNew": "\"Growing anxious as her parents failed to return, she began to cry.\nA park maintenance worker on rounds heard her and spoke to her—that is how the accident came to light.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 4654,
+    "TextENGNew": "\"Now—at that moment, you see?\nAccording to the park worker's testimony, she was the one who said first that her parents had fallen off the cliff.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'guess what? According to the park worker's testimony, she was the one who first said her parents had fallen off the cliff'; new says 'According to the park worker's testimony, she was the one who said first that her parents had fallen off the cliff.' While similar, the old adds 'guess what?' which is editorializing not present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 4655,
+    "TextENGNew": "\"The thing is, from where the Houjoufamily's car was parked, the accident site itself wouldn't have been clearly visible.\nWell—perhaps, with a careful look, one might have noticed that the railing was broken.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'it's hard to see the accident site in question from where the car was parked'; new adds 'the Houjou family's car' (北条夫妻が停めた車) specifying whose car, matching the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 4656,
+    "TextENGNew": "\"But still, you see—\nI find it strange that upon waking and finding her parents gone, the very first thing she would say is that they had fallen off a cliff.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 4657,
+    "TextENGNew": "\"Ordinarily, one would say something like: my parents went for a walk and left me behind, and they haven't come back...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 4658,
+    "TextENGNew": "\"Without having seen the actual scene of the fall, telling a stranger outright that her parents had fallen—that I simply cannot accept as natural!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 4659,
+    "TextENGNew": "\"...It is precisely around this point—how she came to be so certain that her parents had fallen—that I've been calling on you daily, wanting her to tell me the full story.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 4660,
+    "TextENGNew": "\"I asked her many times before she was admitted here, but all she would say was that she had no memory of it or that she'd been confused at the time—answers straight out of a politician's playbook, I must say.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I asked her many times before she was admitted here, but all she said was that she doesn't remember or that she was confused at the time. Sounds like a politician, huh?'; new says 'answers straight out of a politician's playbook, I must say.' Both capture the politician comparison but the old uses 'Sounds like a politician, huh?' as a question while the Japanese uses it as a statement (まるでどこかの政治家みたいな答弁でして).",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 4661,
+    "TextENGNew": "\"That's why I've been thinking it might be worth sitting down and having a proper, unhurried talk with her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 4662,
+    "TextENGNew": "At that point, the terrible imagining inside me took on definite shape.",
+    "significantChanges": true,
+    "changeReason": "Old says 'That terrifying possibility has turned to certainty in my head'; new says 'the terrible imagining inside me took on definite shape,' where old says it became 'certainty' while new says it took 'definite shape' (確実に形となった)—forming clearly is different from becoming certain.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 4663,
+    "TextENGNew": "I had vaguely assumed that the shock of her parents' accident had triggered her terminal-stage onset.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'd assumed that her parents' accident triggered her terminal symptoms'; new says 'I had vaguely assumed that the shock of her parents' accident had triggered her terminal-stage onset,' adding 'vaguely' (漠然と) from the Japanese which indicates the assumption was not firmly held.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 4664,
+    "TextENGNew": "...But that was wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 4665,
+    "TextENGNew": "...Satoko-chan had already been in a terminal-stage condition. Even before the accident, her heart had been filled with a paranoia that was near-maddening.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko-chan had already gone terminal, and just before the accident, her heart was filled with paranoia that drove her mad'; new says 'even before the accident, her heart had been filled with a paranoia that was near-maddening,' where 'near-maddening' (狂いそうになるくらい) is more accurate than 'drove her mad' since the Japanese says 'to the point of almost going mad.'",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 4666,
+    "TextENGNew": "She had been at odds with her stepfather, who was not her blood relation, and had been carrying considerable stress.",
+    "significantChanges": true,
+    "changeReason": "Old says 'She was under a lot of stress because of her bad relationship with her stepfather'; new says 'She had been at odds with her stepfather, who was not her blood relation, and had been carrying considerable stress,' adding the detail about not being blood-related (血のつながらない) which is in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 4667,
+    "TextENGNew": "And her mother had also been reproaching her for her inability to open up to her stepfather.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko-chan caused trouble repeatedly, and even called the city's child abuse hotline'; new says 'Satoko-chan had caused repeated trouble, ultimately going so far as to make a false report to the city welfare consultation center,' adding 'false report' (嘘の電話) which is present in the Japanese and changes the nature of the call significantly—it was a false accusation, not a genuine report.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 4668,
+    "TextENGNew": "...If the paranoia had seized hold of her there and she had come to believe—falsely—that her parents saw her as a burden and harbored murderous intent toward her...",
+    "significantChanges": true,
+    "changeReason": "Old says 'she was also being scolded by her mother for not being able to get along with him'; new says 'her mother had also been reproaching her for her inability to open up to her stepfather,' where 'open up to' (打ち解けられない) is more nuanced than 'get along with'—it's about emotional openness, not just getting along.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 4669,
+    "TextENGNew": "And when she was brought to the observation deck, she must have been convinced they were going to push her off and disguise it as an accident.",
+    "significantChanges": true,
+    "changeReason": "Old says 'If that made her paranoid, made her think her parents considered her to be a bother and were going to kill her'; new says 'If the paranoia had seized hold of her there and she had come to believe—falsely—that her parents saw her as a burden and harbored murderous intent toward her,' adding 'falsely' (誤解) from the Japanese, emphasizing this was a misunderstanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 4670,
+    "TextENGNew": "And so—what she had perceived as self-defense had sent her parents plummeting to the foot of the cliff. A tragedy by another name...",
+    "significantChanges": true,
+    "changeReason": "Old says 'she must have thought they were going to push her off the cliff'; new says 'she must have been convinced they were going to push her off and disguise it as an accident,' adding 'disguise it as an accident' (事故に見せかけて) which is present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 4671,
+    "TextENGNew": "As the person who knew Hinamizawa Syndrome better than anyone—I was certain of it.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she pushed her parents off instead, although she considered it to have been self-defense'; new says 'what she had perceived as self-defense had sent her parents plummeting to the foot of the cliff. A tragedy by another name...' The restructuring shifts emphasis to match the Japanese which frames it as 'a tragedy called self-defense' (正当防衛という名の悲劇).",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 4672,
+    "TextENGNew": "This fall was not an \"accident.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 4673,
+    "TextENGNew": "...Nor was it a \"crime\" in the sense Ooishi suspected.",
+    "significantChanges": true,
+    "changeReason": "Old says 'This accident isn't an accident'; new says 'This fall was not an \"accident,\"' where the new version adds quotation marks around 'accident' matching the Japanese quotation marks (『事故』).",
+    "changeScore": 2
+  },
+  {
+    "index": 71,
+    "MessageID": 4674,
+    "TextENGNew": "There had simply been a \"tragedy\"—one that was nothing but sorrowful.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It isn't a crime either, like Ooishi is thinking'; new says 'Nor was it a \"crime\" in the sense Ooishi suspected,' adding quotation marks around 'crime' matching the Japanese (『事件』) and using 'suspected' (睨む) rather than 'is thinking.'",
+    "changeScore": 2
+  },
+  {
+    "index": 72,
+    "MessageID": 4675,
+    "TextENGNew": "When I later heard the family's story from Satoshi-kun, my certainty only deepened.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It is simply a tragedy'; new says 'There had simply been a \"tragedy\"—one that was nothing but sorrowful,' adding the emotional qualifier 'nothing but sorrowful' (ただただ悲しいだけの) present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 4676,
+    "TextENGNew": "Because I learned that, despite Satoko-chan refusing to open her heart, the stepfather had been making clumsy but genuine efforts to communicate with her.",
+    "significantChanges": true,
+    "changeReason": "Old says 'When I talked to Satoshi-kun about the family, I was even more convinced'; new says 'When I later heard the family's story from Satoshi-kun, my certainty only deepened,' where 'later' (後に) specifies the timing more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 4677,
+    "TextENGNew": "Things had not gone well between them at first, certainly.",
+    "significantChanges": true,
+    "changeReason": "Old says 'He told me even though Satoko-chan refused to open up to her stepfather, he had tried to communicate with her'; new says 'I learned that, despite Satoko-chan refusing to open her heart, the stepfather had been making clumsy but genuine efforts to communicate with her,' adding 'clumsy but genuine' (不器用ながら) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 4678,
+    "TextENGNew": "Satoko-chan had caused repeated trouble, ultimately going so far as to make a false report to the city welfare consultation center.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 4679,
+    "TextENGNew": "At that point they had received guidance from the consultation center, which identified a lack of communication between stepfather and daughter as the root problem.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko-chan caused trouble repeatedly, and even called the city's child abuse hotline'; new says 'ultimately going so far as to make a false report to the city welfare consultation center,' adding 'false report' (嘘の電話を掛ける). Also old says 'child abuse hotline' while Japanese says '生活相談所' (life/welfare consultation center)—different organization.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 4680,
+    "TextENGNew": "And the stepfather had then undergone the city's parenting curriculum under a probation officer's guidance and had been making earnest, if clumsy, efforts to build a connection with her.",
+    "significantChanges": true,
+    "changeReason": "Old says 'the stepfather took a parenting course under the social worker's guidance'; new says 'the stepfather had then undergone the city's parenting curriculum under a probation officer's guidance,' where 'probation officer' (保護司) is more specific than 'social worker' and changes the authority figure involved.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 4681,
+    "TextENGNew": "Satoshi-kun had known all of this—and had been trying to reason with Satoko-chan, who remained closed off in spite of it all...",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoshi-kun noticed his efforts, so he tried to talk to Satoko-chan about it'; new says 'Satoshi-kun had known all of this—and had been trying to reason with Satoko-chan, who remained closed off in spite of it all,' adding the detail about Satoko remaining closed off (それでもなお心を開こうとしない) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 4682,
+    "TextENGNew": "And yet Satoko-chan had been unable to perceive those efforts.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 4683,
+    "TextENGNew": "Driven to terminal onset by extreme stress, she had been unable to recognize her stepfather's remorse and his attempts to make amends.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The excessive stress she was under triggered terminal symptoms and she couldn't understand her stepfather's remorse'; new says 'Driven to terminal onset by extreme stress, she had been unable to recognize her stepfather's remorse and his attempts to make amends,' adding 'attempts to make amends' (努力) from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 4684,
+    "TextENGNew": "...On the contrary, the change in his behavior had likely only deepened her suspicion...",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 4685,
+    "TextENGNew": "And as a result—the modest, utterly natural wish of a family simply wanting to share the beautiful view from the Shirakawa Nature Park observation deck, to share that joy together—could not reach Satoko-chan...",
+    "significantChanges": true,
+    "changeReason": "Old says 'they went to enjoy the beautiful view...as a family and to share in that joy...Yet that humble, ordinary family's wish...couldn't even get through to Satoko-chan'; new restructures to emphasize 'the modest, utterly natural wish of a family' (家族としては当然の願い) matching the Japanese framing better.",
+    "changeScore": 2
+  },
+  {
+    "index": 83,
+    "MessageID": 4686,
+    "TextENGNew": "...What an unbearably sad passing in the night...",
+    "significantChanges": true,
+    "changeReason": "Old says 'What a tragic misunderstanding'; new says 'What an unbearably sad passing in the night,' where the Japanese すれ違い means 'passing each other by' or 'miscommunication'—the new translation captures the metaphor of ships passing in the night rather than labeling it a 'misunderstanding.'",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 4687,
+    "TextENGNew": "His daughter, who had stayed sulking in the car, hauling herself up and creeping toward him in muffled footsteps.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko-chan stayed in the car telling her parents that she wanted to sleep, but then she got out and snuck up behind them'; new says 'His daughter, who had stayed sulking in the car, hauling herself up and creeping toward him in muffled footsteps,' changing perspective to the stepfather's viewpoint and adding 'sulking' (不貞寝) and 'muffled footsteps' (足音を殺しながら) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 4688,
+    "TextENGNew": "The stepfather had probably heard her, in all likelihood.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 4689,
+    "TextENGNew": "...Thinking to himself: she must be trying to surprise me from behind—and pretending not to notice, playing along.",
+    "significantChanges": true,
+    "changeReason": "Old says 'He pretended not to notice her, thinking that she was doing that to surprise him'; new says 'Thinking to himself: she must be trying to surprise me from behind—and pretending not to notice, playing along,' adding the playful 'playing along' aspect and 'from behind' (背後からワッ！) from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 87,
+    "MessageID": 4690,
+    "TextENGNew": "...When I think of what must have passed through the stepfather's heart at that moment, it becomes almost unbearable.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 4691,
+    "TextENGNew": "...He must have thought, at last, that she had finally opened her heart to him—and then she had come at him with intent to kill.",
+    "significantChanges": true,
+    "changeReason": "Old says 'While he thought he had finally gotten through to her, she was actually approaching him with the intent to kill'; new says 'He must have thought, at last, that she had finally opened her heart to him—and then she had come at him with intent to kill,' where 'opened her heart' (心が通じた) is more specific than 'gotten through to her.'",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 4692,
+    "TextENGNew": "And yet it was not Satoko-chan's true nature that had driven her to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 4693,
+    "TextENGNew": "It was the disease that had taken hold of her.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It's the disease'; new says 'It was the disease that had taken hold of her,' adding 'that had taken hold of her' (沙都子ちゃんを冒した) matching the Japanese which specifies the disease had afflicted/attacked her.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 4694,
+    "TextENGNew": "Satoko-chan was pitiable, certainly—but so, too, were the parents who had been pushed to their deaths...",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko-chan isn't the only one who is to be pitied. Her parents are its victims, too'; new says 'Satoko-chan was pitiable, certainly—but so, too, were the parents who had been pushed to their deaths,' where 'pushed to their deaths' (突き落とされた) is more explicit and matches the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 4695,
+    "TextENGNew": "And now, on top of all that, Ooishi was even suspecting her as the person who had carried out the push.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Ooishi thinks she's a criminal'; new says 'Ooishi was even suspecting her as the person who had carried out the push,' which more precisely translates the Japanese (突き落としの実行犯) as 'the person who carried out the push' rather than generically 'a criminal.'",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 4696,
+    "TextENGNew": "...Crimes committed with malicious intent deserve judgment and punishment.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Judgment and punishment are required for crimes with malicious intent'; new says 'Crimes committed with malicious intent deserve judgment and punishment,' where old uses 'punishment' for 懲役 but the Japanese specifically means 'imprisonment/penal servitude' not just punishment.",
+    "changeScore": 2
+  },
+  {
+    "index": 94,
+    "MessageID": 4697,
+    "TextENGNew": "...But what she needed was only compassion and understanding.",
+    "significantChanges": true,
+    "changeReason": "Old says 'But what she really needs is understanding and sympathy'; new says 'But what she needed was only compassion and understanding,' where old uses 'sympathy' but Japanese says 哀れみ (pity/compassion) and new adds 'only' (だけ) emphasizing that's all she needed.",
+    "changeScore": 2
+  },
+  {
+    "index": 95,
+    "MessageID": 4698,
+    "TextENGNew": "...And that understanding was something that no one but me—the only person who knew of Hinamizawa Syndrome—could possibly provide...",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 4699,
+    "TextENGNew": "I was the head of the Irie Institute—yet until now, I had never conducted myself accordingly or exercised that authority.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 4700,
+    "TextENGNew": "But for the first time since assuming this post, I resolved to exercise it.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 4701,
+    "TextENGNew": "Not as the head of a clandestine research organization.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm not doing it as the head of the Irie Institute, the secret research organization'; new says 'Not as the head of a clandestine research organization,' which removes the proper name 'Irie Institute' though it is present in the Japanese (入江機関).",
+    "changeScore": 2
+  },
+  {
+    "index": 99,
+    "MessageID": 4702,
+    "TextENGNew": "...It was something I judged necessary as a physician—to protect Satoko-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 4703,
+    "TextENGNew": "\"Regarding Satoko-chan's parents' fall at the Shirakawa Nature Park...\n...is it possible to ask Okonogi-san of the Mountain Dogs to arrange for this matter to be closed as an accident?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Do you think you can ask Okonogi-san from the Mountain Dogs to make it out to be an accident?'; new says 'is it possible to ask Okonogi-san of the Mountain Dogs to arrange for this matter to be closed as an accident?' where 'closed as an accident' (事故で決着する) is more precise legal language than 'make it out to be.'",
+    "changeScore": 2
+  },
+  {
+    "index": 101,
+    "MessageID": 4704,
+    "TextENGNew": "\"Oh, that's a trivial matter.\nThe Mountain Dogs are the unit most specially trained in concealment and fabrication of exactly such things.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Sure, of course. That's no problem'; new says 'Oh, that's a trivial matter,' where 'trivial matter' (お安い御用) better captures Takano's dismissive tone in the Japanese. Also old says 'concealment and manipulation' while new says 'concealment and fabrication' (隠蔽や捏造), where fabrication more accurately translates 捏造.",
+    "changeScore": 3
+  },
+  {
+    "index": 102,
+    "MessageID": 4705,
+    "TextENGNew": "\"...It is a bother, after all, to have the police hovering around our research subject when that fall hasn't been settled as an accident yet.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We have to put an end to it quickly, otherwise the police will end up getting closer to finding out about our research'; new says 'It is a bother, after all, to have the police hovering around our research subject when that fall hasn't been settled as an accident yet,' changing from concern about discovering their research to police being a nuisance around their research subject (実験体), which matches the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 103,
+    "MessageID": 4706,
+    "TextENGNew": "\"...Precisely.\nPlease ensure especially that Ooishi-san withdraws from this matter promptly.\nWe are at a delicate stage of the reagent administration experiment.\nIt would be inappropriate to subject her to unnecessary emotional strain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 4707,
+    "TextENGNew": "\"Quite right.\nI'll convey that to the Mountain Dogs.\nApparently they already have connections within the police, so I'll instruct them to apply pressure as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 4708,
+    "TextENGNew": "\"Within the near future, I expect the Shirakawa fall will be formally concluded as an accident.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm sure the accident in Shirakawa will be concluded as exactly that within a few days'; new says 'Within the near future, I expect the Shirakawa fall will be formally concluded as an accident,' where 'near future' (近日中に) is more precise than 'within a few days.'",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 4709,
+    "TextENGNew": "An accident. Determined.",
+    "significantChanges": true,
+    "changeReason": "Old says 'With that, it was declared an accident'; new says 'An accident. Determined.' The new translation mirrors the terse, declarative Japanese syntax (事故ということで、確定) more closely.",
+    "changeScore": 2
+  },
+  {
+    "index": 107,
+    "MessageID": 4710,
+    "TextENGNew": "...Ah—if it had truly been an accident, Satoko-chan's heart might still have found some small measure of salvation...",
+    "significantChanges": true,
+    "changeReason": "Old says 'If only it really was one, it would have eased Satoko-chan's soul'; new says 'if it had truly been an accident, Satoko-chan's heart might still have found some small measure of salvation,' where 'some small measure of salvation' (幾ばくか救われる) is more nuanced than simply 'eased.'",
+    "changeScore": 2
+  },
+  {
+    "index": 108,
+    "MessageID": 4711,
+    "TextENGNew": "Eradicating the pathogen would not heal a wounded heart.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Getting rid of the pathogen can't heal that wounded soul'; new says 'Eradicating the pathogen would not heal a wounded heart,' where 'heart' (心) is the literal Japanese word rather than 'soul.'",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 4712,
+    "TextENGNew": "...Nor would it undo the sorrowful tragedy that had already come to pass.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 4713,
+    "TextENGNew": "All I could do was keep trying—so that the day she recovered her smile might come even one day sooner...",
+    "significantChanges": false
+  }
+]

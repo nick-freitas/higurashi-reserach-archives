@@ -1,0 +1,143 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Neighborhood Circular",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Community Notice\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12802,
+    "TextENGNew": "With the rainy season ending earlier than usual, summer already feels close at hand. I trust this finds everyone in good health and spirits.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12803,
+    "TextENGNew": "The season for this year’s Watanagashi festival is finally upon us.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'this year's' and 'festival', specifying the annual recurrence and explicitly naming it a festival, matching the Japanese '今年も' (this year too).",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 12804,
+    "TextENGNew": "With the cooperation of the town council, let us make this a wonderful festival for all.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12805,
+    "TextENGNew": "To that end, we kindly ask for everyone’s assistance with the following matters.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12806,
+    "TextENGNew": "(1) Bazaar Donations Wanted!",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12807,
+    "TextENGNew": "We are accepting items for the ever-popular Hinamizawa Grand Bazaar.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12808,
+    "TextENGNew": "Leftover summer gifts, outgrown clothing—all contributions are welcome!",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'summer gifts' (お中元, mid-year gifts) and 'outgrown clothing' rather than the vaguer 'unconsumed gifts' and 'used clothing', more accurately reflecting the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 12809,
+    "TextENGNew": "No perishables, please.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12810,
+    "TextENGNew": "Contact: Makino",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 12811,
+    "TextENGNew": "(2) Kids’ Festival Taiko Drummers Wanted!",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'Li'l Festival Drum Dancers' to 'Kids' Festival Taiko Drummers', preserving the Japanese term 'taiko' (太鼓) rather than translating it as generic 'drum dancers'.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 12812,
+    "TextENGNew": "The Kids’ Festival Taiko Circle, renowned for its careful instruction and track record, is accepting last-minute participants.",
+    "significantChanges": true,
+    "changeReason": "New translation removes the fabricated 'Shoufu Society' name and changes 'choreography' to 'instruction and track record', matching the Japanese 指導と実績 (instruction and track record).",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 12813,
+    "TextENGNew": "We’re looking for any attention-loving elementary and middle schoolers!",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12814,
+    "TextENGNew": "Contact: Kimiyoshi",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12815,
+    "TextENGNew": "(3) Donations Welcome!!",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12816,
+    "TextENGNew": "We are accepting monetary donations starting from 1,000 yen.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'multiples of 1,000 yen' implying fixed increments; new says 'starting from 1,000 yen' matching the Japanese 一口千円から (from 1,000 yen per unit).",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 12817,
+    "TextENGNew": "For every donation, you’ll receive one food stall ticket sheet!",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'refreshment stand ticket' per '1,000 yen donation'; new says 'food stall ticket sheet' per donation without specifying amount, and adds 'sheet' matching シート in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 12818,
+    "TextENGNew": "Contact: Sonozaki",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12819,
+    "TextENGNew": "We are always open to fun ideas for the festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12820,
+    "TextENGNew": "If you have any interesting suggestions, please bring them to Village Chief Kimiyoshi’s residence!",
+    "significantChanges": true,
+    "changeReason": "Old translation calls Kimiyoshi 'mayor'; new correctly uses 'Village Chief', matching the Japanese 村長 (village chief/head).",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 12821,
+    "TextENGNew": "(Below the perforated line, a 200-yen food stall ticket is attached.)",
+    "significantChanges": false
+  }
+]

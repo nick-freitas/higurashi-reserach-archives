@@ -1,0 +1,77 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "A Civil Servant's Mindset",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"A Civil Servant's Preparations\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 16010,
+    "TextENGNew": "``I see. Now that we know the town council and that intimidation group--the Onigafuchi Guardians or whatever they're called--are not behind this, we can relax.@k@vS20/00/442100002. Handle Satoko Houjou-san's case through normal procedures, without giving it any special treatment.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'without worrying about it too much' while new correctly says 'without giving it any special treatment' (特別扱いせずに), and adds 'intimidation group' (恫喝団体) describing the Guardians, which changes the reader's understanding of the instruction and the group.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 16011,
+    "TextENGNew": "``Yes, sir. Knowing this isn't the will of the entire village allows us to handle it calmly.``",
+    "significantChanges": true,
+    "changeReason": "Old expresses personal relief ('I'm glad') while new focuses on operational capability ('allows us to handle it calmly'), matching the Japanese 落ち着いて処理ができます which is about being able to process the case calmly.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 16012,
+    "TextENGNew": "``However, I am not fond of this approach. Regardless of who is or is not behind a case, a civil servant should always respond with impartiality.``",
+    "significantChanges": true,
+    "changeReason": "Old misidentifies the object of the Chief's disapproval ('I wouldn't agree with them') while the Japanese (好きになれませんね) means he dislikes the entire approach of checking who is behind a case. New correctly captures this systemic criticism and includes 'civil servant' (公務員) from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 16013,
+    "TextENGNew": "``This strange unwritten rule that Hinamizawa gets special treatment only exists because someone once allowed threats and intimidation to dictate our response, doesn't it?``",
+    "significantChanges": true,
+    "changeReason": "The Japanese ends with ではないですか？ making this a rhetorical question, but the old translation renders it as a declarative statement. New preserves the question form ('doesn't it?'), which matters for the Chief's tone toward his subordinate.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 16014,
+    "TextENGNew": "``...Well, you are absolutely right about that, sir... but, well...``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 16015,
+    "TextENGNew": "``The section chief from the municipal office went to the trouble of confirming that the town council has no involvement. Our staff should proceed with their duties in a fair and proper manner.``",
+    "significantChanges": true,
+    "changeReason": "Old uses incorrect title 'manager' for 係長 (section chief) and says 'please continue to work on this case' while the Japanese 厳粛に事務を進めて instructs staff to proceed with duties properly/solemnly. New correctly renders the rank and the directive to handle matters with due propriety.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 16016,
+    "TextENGNew": "``The very act of checking whether Hinamizawa is 'behind' something before deciding how to respond is itself a failure of the civil servant's mindset. Section Chief, you need to make sure your staff understand that.``",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases loosely ('afraid of one tiny community') while the Japanese specifically criticizes the act of seeking approval based on Hinamizawa's involvement (お伺いを立てること自体が問題). Old also says 'think about that a little' while new correctly conveys the Chief ordering the Section Chief to educate staff (職員に教えて).",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 16017,
+    "TextENGNew": "``Yes, I apologize... In any case, it is a relief to know the village is not involved...``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 16018,
+    "TextENGNew": "``Even if the village were involved, we should not rush our response. No matter what!@k@vS20/00/442100008. Handle Satoko Houjou-san's case with due caution.@k@vS20/00/442100009. Make absolutely certain the staff do not take any exceptional measures.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'act the same way' while Japanese 対応を焦るべきではありません specifically warns against rushing the response. Also old says 'don't try to give her any special treatment' addressing Harayama directly, while new correctly conveys the instruction to press this upon the person in charge (担当に念を押して).",
+    "changeScore": 3
+  }
+]

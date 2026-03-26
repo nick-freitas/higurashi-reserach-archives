@@ -1,0 +1,82 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8381,
+    "TextENGNew": "This piece holds a very important meaning for us.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 8382,
+    "TextENGNew": "Because for the first time, it showed us the possibility of punching a hole in the fate of June 1983 — that fate we had accepted as utterly inescapable.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'that fate we had accepted as utterly inescapable', capturing the Japanese 抗えない運命と諦めていた (the resignation to an irresistible fate) which the original omitted entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 8383,
+    "TextENGNew": "To state it plainly: in the end, everything is swallowed by Rule Y and undone.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 8384,
+    "TextENGNew": "And yet, it confronts Rule X — the great law that governs this board — head-on, and proves, drawing on all that was learned from the pieces that came before, that it can be defeated.",
+    "significantChanges": true,
+    "changeReason": "Old translation uses present tense 'we're challenging' with 'we' as subject, but the Japanese uses past tense (挑み...証明した) with the piece/fragment as the implicit subject; new translation corrects both the tense and perspective.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 8385,
+    "TextENGNew": "Through learning, we grow.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8386,
+    "TextENGNew": "Even in a game where victory seemed impossible, we can find a sliver of hope.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 8387,
+    "TextENGNew": "That is what this precious piece has taught us...",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'precious' (とても大切な) and the trailing ellipsis, both present in the Japanese; the original omitted the emotional qualifier entirely.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 8388,
+    "TextENGNew": "Within this piece, Rule X is all but completely shattered.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8389,
+    "TextENGNew": "Keiichi Maebara and the others will never again be led astray by something so pathetic as Hinamizawa Syndrome, never again made to dance in tragedy...",
+    "significantChanges": true,
+    "changeReason": "Old translation uses 'any longer' and adds 'our other friends' not present in the Japanese; new translation uses 'never again' matching the finality of 二度とない and removes the invented 'friends' qualifier.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 8390,
+    "TextENGNew": "It has also taught us that the Rules are not invincible — that they can be broken.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 8391,
+    "TextENGNew": "In other words, it has given hope to us — those watching from outside the game board.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 8392,
+    "TextENGNew": "...A crucial piece — the origin of everything, and the turning point that changes it all...",
+    "significantChanges": false
+  }
+]

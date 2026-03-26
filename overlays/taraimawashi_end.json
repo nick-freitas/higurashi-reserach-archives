@@ -1,0 +1,892 @@
+[
+  {
+    "index": 1,
+    "MessageID": 55354,
+    "TextENGNew": "Tokyo -- the Showa era had ended, and the age of Heisei had begun.",
+    "significantChanges": true,
+    "changeReason": "Old says 'at the end of the Showa era and the dawn of Heisei' (simultaneous) but JPN states 'Showa had ended, and Heisei had begun' (sequential/completed); temporal framing differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 55355,
+    "TextENGNew": "Goods, information, and even people were being updated and overflowing at a staggering pace.",
+    "significantChanges": true,
+    "changeReason": "Old says 'modernize' but JPN 更新され、溢れ続けている means 'being updated and overflowing'; new correctly adds 'overflowing'.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 55356,
+    "TextENGNew": "Even if the news had swept across all of Japan at the time, hardly anyone remembered a story from a rural area ten years later.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 55357,
+    "TextENGNew": "Yet there was a man who still pursued that 'past' everyone else had forgotten.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 55358,
+    "TextENGNew": "Ooishi set foot on this land for the first time in a long while.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 55359,
+    "TextENGNew": "Lately, Ooishi had been keenly aware of his body's decline.",
+    "significantChanges": true,
+    "changeReason": "Old says 'suffering remarkable physical decline' but JPN 衰えをいちじるしく感じていた means 'keenly felt/was aware of decline'; new correctly frames it as awareness rather than objective suffering.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 55360,
+    "TextENGNew": "Despite the short duration, the economy-class flight had taken a toll on his body.",
+    "significantChanges": true,
+    "changeReason": "Old omits 'economy-class' entirely; JPN エコノミーでの移動 specifically means economy-class travel. New correctly includes this detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 55361,
+    "TextENGNew": "But he'd kept up the dancing he'd started after retirement.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 55362,
+    "TextENGNew": "He prided himself on having recently mastered a silver-haired gentleman's style of dance that didn't rely on stamina.",
+    "significantChanges": true,
+    "changeReason": "Old says the style 'has gained a lot of traction' (passive, about the style) but JPN 身についてきたと自賛している means 'he prided himself on having mastered it'; the subject and framing differ significantly.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 55363,
+    "TextENGNew": "Stepping into the lobby, Ooishi scanned the area for the man he was meeting.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 55364,
+    "TextENGNew": "The airport interior had become considerably larger and cleaner than what Ooishi remembered.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 55365,
+    "TextENGNew": "Left, right, even up and down -- nothing looked familiar.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 55366,
+    "TextENGNew": "Just as unease began to creep in, a nostalgic, clear voice called out to him.",
+    "significantChanges": true,
+    "changeReason": "Old says 'familiar voice' but JPN 懐かしい張りのある声 means 'nostalgic, clear/strong voice'; new adds 'nostalgic' and 'clear' matching the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 55367,
+    "TextENGNew": "``Ooishi-san...?@k@vS17/13/111300002. Ooishi-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 55368,
+    "TextENGNew": "``Nahahaha! Akasaka-san!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 55369,
+    "TextENGNew": "The man called Akasaka was waving at Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 55370,
+    "TextENGNew": "He was a tall plainclothes detective -- a bit too weathered to be called young anymore.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a bit too old to be called a young man' but JPN いささか年を重ねすぎた means 'a bit too weathered/aged'; new's 'too weathered' is more accurate than simply 'too old'.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 55371,
+    "TextENGNew": "``It's been so long!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Nice to see you, it's been a long time!' but JPN どおも、お久しぶりです is simply 'Hey, it's been a while!'; old adds 'nice to see you' not in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 55372,
+    "TextENGNew": "``I was about to get lost in here! Nahahaha!@k@vS17/11/110700093. How many years has it been~?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 55373,
+    "TextENGNew": "Ooishi slapped Akasaka firmly on the shoulder, delighted at their reunion.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 55374,
+    "TextENGNew": "``Oho~, you haven't been skipping your training, have you?@k@vS17/11/110700095. Those are some fine muscles~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 55375,
+    "TextENGNew": "``I don't let my guard down anymore like I used to.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'not as frail as I was' but JPN 不覚はとりません means 'I don't let my guard down/make careless mistakes'; 'frail' is incorrect, the new version is accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 55376,
+    "TextENGNew": "Akasaka said it with an embarrassed smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 55377,
+    "TextENGNew": "``And your face is looking more distinguished than ever.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'handsome' but JPN いい顔つき means 'good/distinguished face'; 'distinguished' in new is more apt for an aging man.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 55378,
+    "TextENGNew": "``You think so?@k@vS17/13/111300006. Flattery won't get you anything.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'There's no need for flattery' (deflecting) but JPN おだてても何もでませんよ means 'Flattery won't get you anything' (joking warning); different nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 55379,
+    "TextENGNew": "``No, I mean it -- you've got the face of an active-duty investigator, through and through.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 55380,
+    "TextENGNew": "``You're looking more trim yourself, Ooishi-san.@k@vS17/13/111300008. Still doing the ballroom dancing?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'pretty stylish' but JPN スマートになりました means 'become more slim/trim'; 'stylish' and 'trim' have different meanings.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 55381,
+    "TextENGNew": "``Mufufufu!@k@vS17/11/110700099. The great thing about it is you can keep going regardless of age.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'despite my age I'm still at it' but JPN 歳を関係無く続けられる means 'you can keep going regardless of age'; the new version expresses the general principle rather than personal persistence.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 55382,
+    "TextENGNew": "``Sounds like you found a great hobby.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 55383,
+    "TextENGNew": "``And thanks to it, I'm quite popular!@k@vS17/11/110700101. You should take it up yourself one of these days, Akasaka-san.@k@vS17/11/110700102. Nahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 55384,
+    "TextENGNew": "``O-oh, no. I don't have the rhythm for that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 55385,
+    "TextENGNew": "``Just give it a try.@k@vS17/11/110700104. That's all it takes to win people over!@k@vS17/11/110700105. Nfufufufu!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Just do your best' but JPN そこを頑張りましょうよ means 'Just give it a try'; new is more accurate—it's encouragement to start, not to keep going.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 55386,
+    "TextENGNew": "After their brief reunion pleasantries, the two men headed toward their destination in Akasaka's car.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 55387,
+    "TextENGNew": "After about thirty minutes' drive from the airport, Akasaka's car pulled into the parking lot of a general hospital.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 55388,
+    "TextENGNew": "The sky was brilliantly clear.",
+    "significantChanges": true,
+    "changeReason": "Old says sky 'was beginning to clear up' (process) but JPN 抜けるように晴れ渡っている means 'was brilliantly clear' (state); the sky was already clear.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 55389,
+    "TextENGNew": "The hospital's white exterior walls gleamed in the sunlight.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 55390,
+    "TextENGNew": "A gentle afternoon breeze softly stirred the curtains of the hospital room.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 55391,
+    "TextENGNew": "A woman in clean white pajamas sat on the edge of the bed, gazing out the window.",
+    "significantChanges": true,
+    "changeReason": "New adds 'on the edge of the bed' matching JPN ベッドに腰掛けた (sitting on the edge); also 'solid white' vs 'clean white' - JPN 清潔そうな = clean-looking.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 55392,
+    "TextENGNew": "The breeze ruffled her hair but wasn't strong enough to reveal her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 55393,
+    "TextENGNew": "Her long, flowing hair kept it hidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 55394,
+    "TextENGNew": "And she must rarely go outside -- her skin was as white as her pajamas and the hospital curtains.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 55395,
+    "TextENGNew": "While waiting at the reception desk, Ooishi's leg was twitching slightly -- he probably didn't even notice it himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 55396,
+    "TextENGNew": "It was a trembling that Ooishi himself couldn't have explained.",
+    "significantChanges": true,
+    "changeReason": "Old says 'couldn't possibly put it into words' but JPN 震えは...説明のできない means the TREMBLING was something that couldn't be explained; new correctly attributes it to the trembling.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 55397,
+    "TextENGNew": "Anticipation, fear, and other emotions beyond words were all tangled together, shaking his body.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 55398,
+    "TextENGNew": "Akasaka, standing beside him, was gripped by much the same feelings.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 55399,
+    "TextENGNew": "Despite the air-conditioned waiting room, Akasaka kept wiping away sweat.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 55400,
+    "TextENGNew": "In less than a few minutes, a nurse appeared before the two men.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 55401,
+    "TextENGNew": "Neither spoke as they followed the nurse down the corridor.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 55402,
+    "TextENGNew": "Two men who already looked out of place in a hospital entered an even more incongruous private room.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 55403,
+    "TextENGNew": "A retired detective and an active metropolitan police investigator.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 55404,
+    "TextENGNew": "The name of the hospitalized patient was... Mion Sonozaki.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 55405,
+    "TextENGNew": "Ten years ago, when the great disaster struck Hinamizawa, Mion had been rescued.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion was a survivor' but JPN 保護された means 'was rescued/taken into protective custody'; 'survivor' vs 'rescued' frame the event differently.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 55406,
+    "TextENGNew": "She was found by chance, locked in the basement of the Sonozaki estate.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Sonozaki family home' but JPN 園崎家 in this context refers to the larger Sonozaki estate; new uses 'estate'.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 55407,
+    "TextENGNew": "But Mion Sonozaki had sustained a severe blow to the head.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 55408,
+    "TextENGNew": "As a result, she had lost all memory of the events before and after her confinement...",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 55409,
+    "TextENGNew": "``Sonozaki-san, you have visitors again.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'another visitor' (singular) but JPN またお客さん with Ooishi and Akasaka together implies plural; new correctly says 'visitors'.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 55410,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 55411,
+    "TextENGNew": "There was no reaction, as if she couldn't hear a thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 55412,
+    "TextENGNew": "But there was nothing wrong with her hearing.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 55413,
+    "TextENGNew": "``...No matter how many times you come, the result is always the same, Detective.``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 55414,
+    "TextENGNew": "The patient's reaction was exactly as expected, and the nurse told the two men with a resigned air.",
+    "significantChanges": true,
+    "changeReason": "Old says nurse 'sounded disappointed' but JPN 呆れたように means 'with a resigned/exasperated air'; disappointment vs resignation are different emotional states.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 55415,
+    "TextENGNew": "They had already been briefed on Mion Sonozaki's condition when they contacted the hospital beforehand.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 55416,
+    "TextENGNew": "Put bluntly, the hospital's message had been: 'There's no point in coming.'",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 55417,
+    "TextENGNew": "...A detective who had retired without ever solving the serial murders in Hinamizawa -- the ones rumored to be 'the curse of Oyashiro-sama' -- ten years ago.",
+    "significantChanges": true,
+    "changeReason": "Old describes Ooishi retiring 'without ever finding the answer', while new describes him as having 'retired without ever solving the serial murders'; the framing shifts from passive to active, and the structure changes the emphasis.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 55418,
+    "TextENGNew": "...And a veteran metropolitan investigator who had been sent to Hinamizawa fifteen years ago and caught a glimpse of one piece of the case.",
+    "significantChanges": true,
+    "changeReason": "Old says 'was involved in one of these incidents while visiting Hinamizawa' but JPN 潜入 means 'infiltrated/was sent undercover'; also 'caught a glimpse of one piece of the case' is more accurate than 'was involved'.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 55419,
+    "TextENGNew": "Even after the statute of limitations had expired, they had their reasons for continuing to visit Mion Sonozaki...",
+    "significantChanges": true,
+    "changeReason": "Old says 'couldn't stop visiting' (compulsive) but JPN 訪れ続けずにはいられない事情があった means 'had their reasons/circumstances that compelled them'; new correctly says 'had their reasons'.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 55420,
+    "TextENGNew": "...It happened ten years ago, in Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 55421,
+    "TextENGNew": "......Late June, 1983.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Near the end of June' but JPN 昭和58年6月末 means 'late June'; also 1983 is added in new matching the year.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 55422,
+    "TextENGNew": "...Lethal volcanic gas erupted from Onigafuchi Swamp and engulfed Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "Old says 'emerged' and 'smothered' but JPN 猛毒の火山ガスが噴出 means 'lethal volcanic gas erupted'; new adds 'lethal' (猛毒) which was missing.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 55423,
+    "TextENGNew": "The catastrophe struck in the dead of night, and the village was annihilated overnight...",
+    "significantChanges": true,
+    "changeReason": "Old says 'in the middle of the night' but JPN 深夜 means 'dead of night'; more importantly, 'annihilated the entire village' vs 'village was annihilated'—the passive framing differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 55424,
+    "TextENGNew": "Panic over the volcanic gas spread across the nation, as people became irrationally terrified of reports of strange odors.@k Immediately afterward, the entire Hinamizawa area was placed under complete quarantine.",
+    "significantChanges": true,
+    "changeReason": "Old says 'overreacted to unsubstantiated reports' but JPN 異臭情報に過剰に怯え means 'became irrationally terrified of reports of strange odors'; new correctly specifies 'strange odors'. Also new adds the quarantine information from the second clause.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 55425,
+    "TextENGNew": "The serial murders in Hinamizawa -- known as 'the curse of Oyashiro-sama' -- came to an end with an unprecedented disaster.",
+    "significantChanges": true,
+    "changeReason": "Old says 'ended with an unprecedented catastrophe' but JPN 閉幕 means 'came to a close/final curtain'; 'came to an end' in new is closer.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 55426,
+    "TextENGNew": "After the catastrophe, no one was permitted to set foot in Hinamizawa -- not Ooishi, not Akasaka, not anyone...",
+    "significantChanges": true,
+    "changeReason": "Old says 'All entry into Hinamizawa was strictly forbidden' but JPN 何人たりとも means 'not a single person'; new's phrasing 'no one was permitted to set foot' is more emphatic.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 55427,
+    "TextENGNew": "The curtain was forcibly drawn on the case they had been pursuing.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 55428,
+    "TextENGNew": "Over 1,200 people died in the disaster, with more than 20 still unaccounted for.",
+    "significantChanges": true,
+    "changeReason": "Old says 'claimed the lives' while new says 'died'; also 'still missing' vs 'still unaccounted for' - minor but new is more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 55429,
+    "TextENGNew": "...And one lone survivor.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 55430,
+    "TextENGNew": "That survivor... was Mion Sonozaki.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 55431,
+    "TextENGNew": "...In a gas disaster that wiped out every other villager, why had she alone survived?",
+    "significantChanges": true,
+    "changeReason": "Old frames it as 'why did she alone survive' but JPN also includes 園崎魅音以外の村人が全滅した emphasizing 'every other villager was wiped out'; new captures both aspects.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 55432,
+    "TextENGNew": "What had happened to Mion Sonozaki between Watanagashi and her disappearance?",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 55433,
+    "TextENGNew": "Ooishi and Akasaka had a mountain of questions they wanted to ask.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a lot of questions' but JPN 山ほど means 'a mountain of'; new's 'mountain of questions' is more accurate to the idiom.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 55434,
+    "TextENGNew": "``It's been a long time, Mion-san.@k@vS17/11/110700107. It's Ooishi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 55435,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 55436,
+    "TextENGNew": "``Don't you remember me?@k@vS17/11/110700109. I'm that detective from Okinomiya who was always getting pushed around by the Sonozaki family.``",
+    "significantChanges": true,
+    "changeReason": "Old reverses the direction: says the detective 'gave the Sonozaki family a hard time' while JPN 苛められてた means he 'was pushed around/bullied BY' the Sonozaki family.",
+    "changeScore": 5
+  },
+  {
+    "index": 84,
+    "MessageID": 55437,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 55438,
+    "TextENGNew": "``Sonozaki-san, I know this must be painful.@k@vS17/11/110700111. But you're the only one who can tell us.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I realize it must be painful, but you're the only person I can talk to' while new separates these thoughts and says 'you're the only one who can tell us'—the emphasis shifts from talking to HER to HER being able to tell THEM.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 55439,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 55440,
+    "TextENGNew": "``Sonozaki-san!@k@vS17/11/110700113. You're the only one left who can tell us.@k@vS17/11/110700114. About Hinamizawa!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'You're the only person left with any connection to Hinamizawa' but JPN says あなたにしか語れないんです = 'only you can tell us'; also new adds 'About Hinamizawa!' as separate emphasis.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 55441,
+    "TextENGNew": "Mion gave no answer, but at the word 'Hinamizawa,' her body flinched.",
+    "significantChanges": true,
+    "changeReason": "Old says 'body did move faintly' but JPN ビクっと反応した means 'flinched/twitched in response'; 'flinched' is more specific than 'moved faintly'.",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 55442,
+    "TextENGNew": "Slowly, she turned her body away from the window and back toward the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 55443,
+    "TextENGNew": "The motion was awkward, jerky -- like a mechanical doll that had just been switched on.",
+    "significantChanges": true,
+    "changeReason": "Old says 'electric doll that was suddenly turned on' but JPN 電気仕掛けの人形がスイッチを入れられてぎこちなく動き出した emphasizes the 'awkward/jerky' movement; new captures this better.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 55444,
+    "TextENGNew": "Her unfocused eyes were nonetheless directed at the two men.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 55445,
+    "TextENGNew": "Her face was hard to make out, obscured by long, flowing hair.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 55446,
+    "TextENGNew": "Through the strands, only the vacant gleam of her eyes was visible.",
+    "significantChanges": true,
+    "changeReason": "Old says 'it was possible to see the blank look in her eyes' but JPN 虚ろな眼光のみ確認 means 'only the vacant gleam of her eyes could be confirmed'; new correctly emphasizes 'only'.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 55447,
+    "TextENGNew": "Just as everyone in the room braced for Mion to speak, she reached for something at her bedside.",
+    "significantChanges": true,
+    "changeReason": "Old says 'impatiently waited for Mion to say something, she reached out and grabbed something' but JPN 何かの束を取り出した means 'produced/pulled out a bundle of something'; 'bundle' detail is in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 95,
+    "MessageID": 55448,
+    "TextENGNew": "A deck of playing cards...",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 55449,
+    "TextENGNew": "The nurse instantly grasped what was happening, and her shoulders slumped.",
+    "significantChanges": true,
+    "changeReason": "Old says 'shoulders immediately began to droop as if she'd realized something' but JPN 瞬時に何事かを悟り means 'instantly grasped what was happening'; new is more direct.",
+    "changeScore": 3
+  },
+  {
+    "index": 97,
+    "MessageID": 55450,
+    "TextENGNew": "Unable to comprehend the situation, Ooishi and Akasaka exchanged bewildered glances.",
+    "significantChanges": true,
+    "changeReason": "Old says 'turned to face one another' but JPN 顔を見合わせる means 'exchanged glances'; new's 'exchanged bewildered glances' is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 98,
+    "MessageID": 55451,
+    "TextENGNew": "``Is everyone... ready?@k@vS17/03/110300284. Let's get started.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 55452,
+    "TextENGNew": "With vacant eyes scanning the room, Mion unmistakably spoke those words.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 55453,
+    "TextENGNew": "Mion had clearly said 'everyone.'",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 55454,
+    "TextENGNew": "The people in the room were Ooishi, Akasaka, and the nurse.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 55455,
+    "TextENGNew": "But it was obvious that none of them were the 'everyone' she meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 55456,
+    "TextENGNew": "Mion was speaking to an 'everyone' that no one else could see...",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 55457,
+    "TextENGNew": "With practiced hands, Mion began shuffling the cards.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 55458,
+    "TextENGNew": "Her movements were leisurely, completely relaxed.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 55459,
+    "TextENGNew": "*swish swish swish, swish swish swish, swish swish swish*...",
+    "significantChanges": true,
+    "changeReason": "Old has simple 3 swishes while new has 9 swishes with ellipsis, matching JPN's longer シャッシャッシャ、シャッシャッシャッ、シャッシャッシャッ…… pattern.",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 55460,
+    "TextENGNew": "She dealt the shuffled cards out on the bed.@k Naturally, no one was there to pick them up.",
+    "significantChanges": true,
+    "changeReason": "Old says 'nobody was there to receive these piles of cards' but new says 'no one was there to pick them up'; also old explicitly states dealing while new is more compact matching JPN structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 108,
+    "MessageID": 55461,
+    "TextENGNew": "Mion continued playing cards, conversing with her invisible 'everyone.'",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 55462,
+    "TextENGNew": "Ooishi was able to make out several familiar names.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 55463,
+    "TextENGNew": "``...Ooishi-san...@k@vS17/13/111300012. What is this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 55464,
+    "TextENGNew": "Ooishi closed his eyes and listened to Mion's voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 55465,
+    "TextENGNew": "``...It seems that for Mion Sonozaki, time has been completely frozen since the incident...``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 55466,
+    "TextENGNew": "``Since the incident... all this time...@k@vS17/13/111300014. Then her memory...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'She's been like this since the incident... Then, her memory is...' but new says 'Since the incident... all this time... Then her memory...'; the 'all this time' emphasis is added matching JPN ずっと.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 55467,
+    "TextENGNew": "Akasaka's shoulders sagged, and he clenched his fists tightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 55468,
+    "TextENGNew": "Mion continued playing cards, innocently.@k To anyone who looked, she would appear no older than a high schooler.",
+    "significantChanges": true,
+    "changeReason": "Old says 'simply continued playing cards' with 'would appear to only be a high school student' but JPN 無邪気に means 'innocently'; new captures this with 'innocently'.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 55469,
+    "TextENGNew": "The clock inside Mion had truly stopped.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Mion's internal clock had truly stopped' but JPN 魅音の中の時計 literally means 'the clock inside Mion'; new uses this more literal phrasing.",
+    "changeScore": 3
+  },
+  {
+    "index": 117,
+    "MessageID": 55470,
+    "TextENGNew": "``...Damn it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 55471,
+    "TextENGNew": "Ooishi suddenly approached Mion and shouted near her ear.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 55472,
+    "TextENGNew": "``Sonozaki-san!@k@vS17/11/110700118. Mion Sonozaki-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 55473,
+    "TextENGNew": "Mion slowly turned her face toward Ooishi.",
+    "significantChanges": true,
+    "changeReason": "Old says 'turned towards Ooishi' but JPN 顔を向けた means 'turned her face toward'; new adds the 'face' detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 55474,
+    "TextENGNew": "``We've continued investigating all this time, trying to uncover the truth behind the incidents in Hinamizawa.@k@vS17/11/110700120. We need your testimony, Mion-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 55475,
+    "TextENGNew": "Mion slowly brushed aside the hair that had been covering most of her face, revealing it fully.",
+    "significantChanges": true,
+    "changeReason": "New adds 'revealing it fully' matching JPN 顔面を露にした (exposed/revealed her face), which was missing from old.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 55476,
+    "TextENGNew": "Her face was white -- endlessly white, like fine porcelain.",
+    "significantChanges": true,
+    "changeReason": "New adds 'endlessly white' (どこまでも白かった) which was missing from old, and 'fine porcelain' for 白磁.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 55477,
+    "TextENGNew": "And as if refusing to acknowledge the passage of ten years, it was the exact same face of the girl they'd seen a decade ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 55478,
+    "TextENGNew": "Ooishi involuntarily caught his breath.",
+    "significantChanges": true,
+    "changeReason": "Old says 'suddenly caught his breath' but JPN 思わず means 'involuntarily/without thinking'; new correctly says 'involuntarily'.",
+    "changeScore": 3
+  },
+  {
+    "index": 126,
+    "MessageID": 55479,
+    "TextENGNew": "``...!!@k@vS17/11/110700121_1. ...We need your testimony, Mion-san.@k@vS17/11/110700122. For the sake of your friends who never got justice -- please, wake up!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'for the sake of your friends. Please wake up!' but new says 'For the sake of your friends who never got justice—please, wake up!'; new adds 'who never got justice' matching JPN お仲間の無念を晴らす (to clear the regrets/avenge your friends).",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 55480,
+    "TextENGNew": "Mion's piercing gaze was fixed forward, yet it remained somehow hollow.",
+    "significantChanges": true,
+    "changeReason": "Old says 'gazed forward intently, but her eyes still looked vacant' while new says 'piercing gaze was fixed forward, yet it remained somehow hollow'; JPN 射抜くような means 'piercing' which is missing from old.",
+    "changeScore": 3
+  },
+  {
+    "index": 128,
+    "MessageID": 55481,
+    "TextENGNew": "Ooishi met those eyes squarely, searching for an answer.",
+    "significantChanges": true,
+    "changeReason": "Old says 'gazed deep into her eyes, looking for an answer' but JPN それに答えるように means 'as if answering/responding to (her gaze)'; new correctly says 'met those eyes squarely, searching for an answer'.",
+    "changeScore": 3
+  },
+  {
+    "index": 129,
+    "MessageID": 55482,
+    "TextENGNew": "Then Mion... very, very slowly... opened her mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 55483,
+    "TextENGNew": "``...I wonder what the penalty game should be...@k@vS17/03/110300286. Tell me... okay... Kei-chan......``",
+    "significantChanges": true,
+    "changeReason": "Old says 'What should this game's punishment be?' but JPN 罰ゲーム means 'penalty game' (a specific concept in Japanese game culture); new correctly uses 'penalty game'.",
+    "changeScore": 3
+  }
+]

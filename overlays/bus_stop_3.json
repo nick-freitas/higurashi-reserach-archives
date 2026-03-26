@@ -1,0 +1,596 @@
+[
+  {
+    "index": 1,
+    "MessageID": 155936,
+    "TextENGNew": "\"...Before long, that 'something'... came to be called Oyashiro-sama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 155937,
+    "TextENGNew": "\"...I've never heard a word of any such rumors!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 155938,
+    "TextENGNew": "\"It's a trait of the Japanese temperament—when something is deemed ominous, people seal their lips. ...By not speaking of it, they try to make it as if it never happened.\"",
+    "significantChanges": true,
+    "changeReason": "Old translation adds 'workers' as subject not present in Japanese; new correctly uses general 'people'. Also 'taboo' vs 'ominous' (忌み) shifts nuance.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 155939,
+    "TextENGNew": "\"...But then it happened. ...A second incident. A third. ...With each new strange event, they grew more frightened of Oyashiro-sama's curse and closed their mouths all the tighter.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 155940,
+    "TextENGNew": "\"...Management grew troubled by the situation and, it appears, moved to suppress the truth as much as possible.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'it appears' matching the Japanese tentative ようです; old presents the cover-up as definite fact.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 155941,
+    "TextENGNew": "\"That can't be...! ...Staff members are dying, and they're covering it up?! That's inconceivable!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 155942,
+    "TextENGNew": "\"Not that they were hiding bodies, nothing like that. What I mean is they exercised strict control over information so that it wouldn't reach the ears of anyone uninvolved.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 155943,
+    "TextENGNew": "\"They didn't want to drag morale down any further. ...But those who know, know. ...Don't they, Arakawa-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 155944,
+    "TextENGNew": "\"...That... was an accident!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 155945,
+    "TextENGNew": "\"...Arakawa... kun...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 155946,
+    "TextENGNew": "\"...Hahahaha! ...Give us a break already! ...Ahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 155947,
+    "TextENGNew": "\"...What exactly is funny?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 155948,
+    "TextENGNew": "\"I-I mean... you can't honestly expect us not to laugh. ...Hahahaha! ...Come on! In this day and age!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 155949,
+    "TextENGNew": "\"Ahahahahaha! Go ahead and laugh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 155950,
+    "TextENGNew": "\"We laughed! We did!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 155951,
+    "TextENGNew": "\"We laughed and said what nonsense, something like that couldn't possibly be real! Me too! My colleagues! Everyone! Every one of us!\"",
+    "significantChanges": true,
+    "changeReason": "Old uses 'friends' while new uses 'colleagues' for 仲間, which is more accurate in this workplace context.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 155952,
+    "TextENGNew": "\"And then it happened again. The next victim was a man named Kakinuma-san from the Urban Rivers Office.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 155953,
+    "TextENGNew": "\"Numa-san's was an accident! ...It had nothing to do with any curse!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 155954,
+    "TextENGNew": "\"...Were you friends?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 155955,
+    "TextENGNew": "\"...N-No. ...He's a colleague I didn't know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 155956,
+    "TextENGNew": "\"He was a man who loved drinking and gambling, and always had a laugh ready. ...He was my direct predecessor in this post, and despite the age difference, we went out for drinks often!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 155957,
+    "TextENGNew": "\"And yet he'd drink the night away every single evening, even though he had a beautiful wife who looked a full decade younger!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 155958,
+    "TextENGNew": "\"...You should go home at a decent hour once in a while, I told him.\"",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases as third-person narration; new correctly renders it as direct speech matching the Japanese dialogue format.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 155959,
+    "TextENGNew": "\"Listen here, Ara-chan. Don't go getting married, you hear me? The best years are the ones when you're single and can do whatever you please!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 155960,
+    "TextENGNew": "\"...He seemed to be wearing down. It had been one gruelling day after another, so I thought it was only natural.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 155961,
+    "TextENGNew": "\"The last train had long since gone. ...Numa-san was driving me home as he often did. ...And that's when I said to him—Numa-san, you look exhausted.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 155962,
+    "TextENGNew": "\"...Lately the nights have been rough... I can't seem to get any real sleep.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 155963,
+    "TextENGNew": "\"Ha! ...Hahahaha! ...Numa-san, come on! ...Don't tell me it's showing up at your place too? The you-know-what.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 155964,
+    "TextENGNew": "\"...............You haven't felt anything yourself, Ara-chan? ...At night, say?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 155965,
+    "TextENGNew": "\"Feel something at night? ...Hahaha! That sounds a bit risqué!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 155966,
+    "TextENGNew": "\"...There's definitely something there. ......Something's there.\"",
+    "significantChanges": true,
+    "changeReason": "Old uses 'they're there' (plural entities) while new uses 'something there' (singular/ambiguous); the Japanese \"いる\" is ambiguous about number, so this changes reader interpretation.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 155967,
+    "TextENGNew": "\"...When I can't stand it I turn the light on. ...But all that's there is my wife and the kid. Of course, right? ...........And yet, there's still something there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 155968,
+    "TextENGNew": "\"...Numa-san, please... ...Something's there, something's there—what in the world is supposed to be there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 155969,
+    "TextENGNew": "\"...Kondou-san, you know. ...He was saying the same sort of thing about a month before... wasn't he...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 155970,
+    "TextENGNew": "\"Kondou-san, well, he was just—you know! ...He had that kind of... tendency to begin with...\"",
+    "significantChanges": true,
+    "changeReason": "Old implies the situations were similar; new implies Kondou-san had a pre-existing tendency (そういう所がありました), shifting the characterization of Kondou.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 155971,
+    "TextENGNew": "\"...Maybe the same one that's been coming to my place... ...was there at Kondou-san's place too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 155972,
+    "TextENGNew": "\"...Let's drop it. The Kondou-san business!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 155973,
+    "TextENGNew": "\"...Yeah, I know. ...But the thing Kondou-san said was there... that thing is probably him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 155974,
+    "TextENGNew": "\"...He's definitely there. ...With every passing day, I feel his presence more and more strongly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 155975,
+    "TextENGNew": "\"Can we please stop this. ...This isn't funny anymore!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 155976,
+    "TextENGNew": "\"...Yeah! ...Let's stop. ...But you know, day by day the feeling gets stronger. I'm not kidding.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 155977,
+    "TextENGNew": "\"...Strong enough that I almost feel if I were to open my eyes... I'd find him standing right there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 155978,
+    "TextENGNew": "The lights go out. The stage is plunged into darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 155979,
+    "TextENGNew": "\"...You know what? ...I think I'll be meeting him soon. ...Oyashiro-sama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 155980,
+    "TextENGNew": "\"...That very night, in the small hours. ...He drove into an oncoming dump truck and was killed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 155981,
+    "TextENGNew": "\"It was an accident! ...However close it followed that conversation! ...It was an accident!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 155982,
+    "TextENGNew": "\"...But I couldn't possibly tell his wife about that conversation! ...A story that absurd—how could anyone say that to her!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 155983,
+    "TextENGNew": "\"At first it was thought he had fallen asleep at the wheel. But that was not the case. ...Kakinuma-san's body was found with the throat clawed raw.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 155984,
+    "TextENGNew": "\"Both hands were drenched in blood, and some of the nails had been torn from his fingers.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 155985,
+    "TextENGNew": "\"...I'm having some trouble following all this...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 155986,
+    "TextENGNew": "\"...In other words, in the moments before he died, for some reason he began clawing at his own throat. ...With such terrible force that it ripped his nails right off.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 155987,
+    "TextENGNew": "\"How do you know about that?! ...That detail, it...\"",
+    "significantChanges": true,
+    "changeReason": "Old implies suspicion about Yoshimura's identity ('Could you be...'); new focuses on the restricted detail ('That detail, it...'), matching the Japanese その事は which refers to the confidential information.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 155988,
+    "TextENGNew": "\"I dug into it. ...I am a writer, after all, however modest.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates ライター as 'reporter' while new uses 'writer'; 端くれ (lit. 'merely at the edge of') is rendered as 'something of a' vs 'however modest', with the new being more precise.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 155989,
+    "TextENGNew": "\"...But why would you go to those lengths...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates どうして as 'how' (method) while new correctly translates it as 'why' (motivation), changing the nature of the question.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 155990,
+    "TextENGNew": "\"...He met him. ...Oyashiro-sama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 155991,
+    "TextENGNew": "Distant thunder.@k@rThe sound of rain.@k@rA heavy silence settles over them.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 155992,
+    "TextENGNew": "\"Are you aware of what happened to Mori-san and Katou-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 155993,
+    "TextENGNew": "\"I don't! I genuinely don't know about either of them! ...Katou-san I only heard about in passing... I don't know the details!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 155994,
+    "TextENGNew": "\"Katou-san threw himself in front of a train and was killed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 155995,
+    "TextENGNew": "\"...Station employees witnessed him acting strangely in the moments before he jumped, but the details remain unclear.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 155996,
+    "TextENGNew": "\"I don't know, I don't know, I don't know!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 155997,
+    "TextENGNew": "\"What about Mori-san? That happened at the office, didn't it? You should have been at work that day.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 155998,
+    "TextENGNew": "\"At the office?! ...I knew nothing about that! What happened?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 155999,
+    "TextENGNew": "\"...I don't know! I'd gone out for lunch! ...When I came back there was all this commotion... and it was already over!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 156000,
+    "TextENGNew": "\"By the time I got back it was all done with! ...So I don't know! I don't know anything!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 156001,
+    "TextENGNew": "\"This is the first I've heard of it! ...If something like that happened at the office, how could I not have known?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 156002,
+    "TextENGNew": "\"...By that point Mori-san was the fourth, after all. It seems that management had already made arrangements with senior police regarding 'special circumstances,' so even the scene investigation was conducted entirely in secret.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 156003,
+    "TextENGNew": "\"...Do you recall? ...There was a day when there was a commotion over an accident during gas valve replacement work.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 156004,
+    "TextENGNew": "\"...Now that you mention it... ...They said a contractor and the staff member present were injured and taken away... ...I do seem to remember a day of uproar like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 156005,
+    "TextENGNew": "\"That was a cover story, naturally. The truth is a very different matter.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 156006,
+    "TextENGNew": "\"...A cover story?\"",
+    "significantChanges": true,
+    "changeReason": "Old has generic question 'What do you mean?' while new correctly echoes カバーストーリー？ as 'A cover story?' matching the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 156007,
+    "TextENGNew": "\"...A fabricated account. ...A false story designed to hide the truth.\"",
+    "significantChanges": true,
+    "changeReason": "Old implies 'they used their authority' which is not in the Japanese; new accurately renders the definition of cover story from the JPN without adding extra meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 156008,
+    "TextENGNew": "\"...Those involved kept their silence with remarkable determination, so I lack full details, but the following is certain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 156009,
+    "TextENGNew": "\"...Near the end of the lunch break, Mori-san, who had been sleeping at his desk, suddenly bolted upright and attacked the colleague beside him with an awl.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 156010,
+    "TextENGNew": "\"He then attacked three more staff members... and before he could be restrained, he drove the awl into his own throat and died. It was all over in the space of a minute or two.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 156011,
+    "TextENGNew": "\"That's why I told you—I was out for lunch! I don't know anything!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 156012,
+    "TextENGNew": "The stage darkens.@k@rA light falls on Arakawa.@k@rHe is reliving the moment when Mori backed him into a corner, awl in hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 156013,
+    "TextENGNew": "\"Please, Mori-san, stop! There's nothing there! No one's there!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 156014,
+    "TextENGNew": "\"There's nothing there! There isn't anything! Please calm down!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 156015,
+    "TextENGNew": "\"It's a folk tale! ...There's nothing there! Oyashiro-sama doesn't existttttt!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 156016,
+    "TextENGNew": "\"...Bathroom. ...I'm sorry. ...Please excuse me again.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 156017,
+    "TextENGNew": "Arakawa leaves the stage, his face strained.@k@r...The sound of rain returns.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 156018,
+    "TextENGNew": "\"...I had no idea. ...That things like that had...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 156019,
+    "TextENGNew": "\"The true nature of Oyashiro-sama's curse remains unknown. ...But it undeniably exists. And the key to unravelling that mystery must lie here—in Hinamizawa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 156020,
+    "TextENGNew": "\"...That is why I have come. To investigate that something.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 156021,
+    "TextENGNew": "\"...You'll die.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 156022,
+    "TextENGNew": "\"Pardon?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 156023,
+    "TextENGNew": "\"...You will die too. ...The very act of seeking out Oyashiro-sama's true nature is itself a desecration.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 156024,
+    "TextENGNew": "\"...If that is why you have come to Hinamizawa... then you will die.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 156025,
+    "TextENGNew": "A leaden silence. Yoshimura says nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 156026,
+    "TextENGNew": "\"...The bus is certainly taking its time. ...Shouldn't it have come by now?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 156027,
+    "TextENGNew": "\"...Haha... running late, probably. ...Given the rain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 156028,
+    "TextENGNew": "The stage slowly goes dark, accompanied by the sound of rain.@k@rA moment of silence.@k@rThe stage remains pitch black. A voice crackles over a radio.",
+    "significantChanges": true,
+    "changeReason": "Old says rain sound 'fades out' which isn't in the Japanese; new correctly describes the stage darkening accompanied by rain, matching 雨の音と共に舞台、徐々に暗転.",
+    "changeScore": 2
+  },
+  {
+    "index": 94,
+    "MessageID": 156029,
+    "TextENGNew": "\"...Reconnaissance unit, reporting. ...There are outsiders among the group.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 156030,
+    "TextENGNew": "\"...That was not anticipated. ...Do we abort?\"",
+    "significantChanges": false
+  }
+]

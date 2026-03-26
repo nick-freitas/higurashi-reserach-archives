@@ -1,0 +1,2906 @@
+[
+  {
+    "index": 1,
+    "MessageID": 67341,
+    "TextENGNew": "I woke up.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 67342,
+    "TextENGNew": "...My memories of what followed were a jumbled mess. What happened after that, how I made it back to this room...@k I had to cradle my head in both arms just to piece it together.",
+    "significantChanges": true,
+    "changeReason": "Old says memories were 'missing' while Japanese (ぐちゃぐちゃ) and new say 'jumbled mess'; old also omits the detail about needing to hold her head to remember.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 67343,
+    "TextENGNew": "My left hand was wrapped in bandages.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 67344,
+    "TextENGNew": "The three fingers on my left hand where the nails had been torn off... I did not want to look at them. Perhaps it was the anesthesia, but they had a strange, alien feel to them.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 67345,
+    "TextENGNew": "...After that, I had three fingernails ripped from me... and the matter was considered settled, more or less.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 67346,
+    "TextENGNew": "Once the old hag had witnessed it, she had droned on at length about something or other in that self-important way of hers, but none of it had stuck.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 67347,
+    "TextENGNew": "After that, I was immediately driven to an orthopedic clinic in Okinomiya.",
+    "significantChanges": true,
+    "changeReason": "Medical facility type differs: 'hospital' vs 'orthopedic clinic'.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 67348,
+    "TextENGNew": "The jostling of the car on the way there was absolutely unbearable.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 67349,
+    "TextENGNew": "...Someone told me headache pills would work as painkillers and handed me a sheet of twelve tablets... I swallowed them to dull the pain.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 67350,
+    "TextENGNew": "The pills really did work as fast as they claimed on TV.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 67351,
+    "TextENGNew": "But the effect wore off after only about ten minutes.@k ...Without even water, I endured by swallowing pills dry with my own saliva every time the pain came surging back.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 67352,
+    "TextENGNew": "...While I was being treated at the hospital and sitting in a daze in the waiting room...",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 67353,
+    "TextENGNew": "......Kasai had come.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 67354,
+    "TextENGNew": "Kasai had probably wanted to ask if I was all right.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 67355,
+    "TextENGNew": "But it was plain to see that I was anything but, with my left hand swaddled in bandages and suspended in a sling.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 67356,
+    "TextENGNew": "Kasai looked completely unharmed.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 67357,
+    "TextENGNew": "...At least, as far as I could see, there was not a single bruise on him.",
+    "significantChanges": true,
+    "changeReason": "Old translation appears significantly truncated compared to new translation and Japanese source.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 67358,
+    "TextENGNew": "......Seeing that, I knew my sacrifice had meant something.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 67359,
+    "TextENGNew": "Kasai said nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 67360,
+    "TextENGNew": "...Expressionless, standing close at my side... I could not even tell whether he wanted to say something to me or not.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 67361,
+    "TextENGNew": "....................Kasai.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 67362,
+    "TextENGNew": "..........Yes?",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 67363,
+    "TextENGNew": ".....................",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 67364,
+    "TextENGNew": "The slight pause before Kasai answered told me... he was probably angry.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 67365,
+    "TextENGNew": "...I did not regret having revealed my true identity to protect Satoshi-kun back then.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 67366,
+    "TextENGNew": "But... when I thought about the trouble I had caused Kasai and Uncle Yoshiroh... my feelings were a tangled mess.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 67367,
+    "TextENGNew": "......Do you know what happened to Uncle Yoshiroh...?",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 67368,
+    "TextENGNew": "No.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 67369,
+    "TextENGNew": ".....................",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 67370,
+    "TextENGNew": "......He is a resilient man.@k@vS06/15/151500155. I believe he is fine.@k@vS06/15/151500156. You should apologize to him when you get the chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 67371,
+    "TextENGNew": "..............................Yeah...",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 67372,
+    "TextENGNew": "...I had wanted to ask about Satoshi-kun next.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 67373,
+    "TextENGNew": "I worried whether he had been caught up in the fallout from my actions -- seized by the main family, or worse, subjected to something terrible.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 67374,
+    "TextENGNew": "But... I hesitated to bring up Satoshi-kun's name in front of Kasai.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 67375,
+    "TextENGNew": "In the end, I had weighed Satoshi-kun against them... and I had chosen to disregard them.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 67376,
+    "TextENGNew": "...Was Satoshi-kun safe?",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 67377,
+    "TextENGNew": "Even if they had not harmed him directly... I could only hope they had not captured him and locked him away somewhere...",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 38,
+    "MessageID": 67378,
+    "TextENGNew": "......After paying the bill, Kasai drove me back to my apartment...",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 67379,
+    "TextENGNew": "...My foggy head finally registered that someone was knocking on my door.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 67380,
+    "TextENGNew": "Shion-san... it is time to get up.@k@vS06/15/151500158. Staying in bed this long is not good for you.",
+    "significantChanges": true,
+    "changeReason": "Old omits the instruction to get up (体を起こして); new includes 'it is time to get up' present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 67381,
+    "TextENGNew": "It was Kasai.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 67382,
+    "TextENGNew": "Kasai had bought a boxed meal and some side dishes. We spread them out on the table... and picked at them together.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 67383,
+    "TextENGNew": "\"......Are you feeling any calmer?\"",
+    "significantChanges": true,
+    "changeReason": "Old asks 'How do you feel?' while Japanese (落ち着かれましたか) and new specifically ask 'Are you feeling any calmer?' — different questions.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 67384,
+    "TextENGNew": "...I suppose \"calmer\" is one word for it. More like... deflated.@k@vS06/06/150601015. ...Haah...",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 67385,
+    "TextENGNew": "Have you been lying in bed these past few days?@k@vS06/15/151500161. Have you been eating?",
+    "significantChanges": true,
+    "changeReason": "Old omits 'these past few days' (この数日間) and 'lying in bed' (伏せっていた) present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 67386,
+    "TextENGNew": "...I have been eating whatever was left in the fridge.@k@vS06/06/150601017. Other than that, I have just been either staring at the ceiling or sleeping.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 67387,
+    "TextENGNew": "Three days had passed since then.@k ...I had spent almost the entire time lying down.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 67388,
+    "TextENGNew": "My sleep had been shallow, and I had half-woken several times, but I never had the energy to actually get up... I just drifted in that shallow, thoughtless half-sleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 67389,
+    "TextENGNew": "I had forgotten about hunger until now, but the smell of the boxed meal reminded me of it.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 67390,
+    "TextENGNew": "I had nothing to say... so I just silently lifted my chopsticks to my mouth.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 67391,
+    "TextENGNew": "Yesterday... I received a call from Mion-san.@k@vS06/15/151500163. She said she had tried calling your room several times but could not get through.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 67392,
+    "TextENGNew": "The mention of Mion's name... it felt like a door I had finally managed to close was being pried open again.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 67393,
+    "TextENGNew": "But I did not interrupt, and let Kasai continue.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 67394,
+    "TextENGNew": "\"......The Sonozaki main family has decided... that since you settled the matter yourself, they consider it closed.@k@vS06/15/151500165. ...Your withdrawal from the academy will be submitted.@k@vS06/15/151500166. You will be transferred to a school in Okinomiya.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 55,
+    "MessageID": 67395,
+    "TextENGNew": "\"...........So Sonozaki Shion's right to exist is finally being acknowledged, huh...\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Shion' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 67396,
+    "TextENGNew": "\"...That is correct.@k@vS06/15/151500168. From now on, you are free to live as Sonozaki Shion.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Shion' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 67397,
+    "TextENGNew": "...However, you must not go near Hinamizawa without good reason.@k@vS06/15/151500170. You must not impersonate Sonozaki Mion.@k@vS06/15/151500171. You must not show yourself in public carelessly... there are other stipulations as well, but in essence...",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 67398,
+    "TextENGNew": "\"So they will acknowledge my existence... as long as I never do anything to embarrass the main family again.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'they don't want me to hang around' while Japanese and new say 'never do anything to embarrass the main family again' — substantially different conditions.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 67399,
+    "TextENGNew": "That is correct.@k@vS06/15/151500173. ...Of course, this is not permanent.@k@vS06/15/151500174. It is only until things cool down.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 67400,
+    "TextENGNew": "There is no specific deadline, but... I think it would be wise to continue living inconspicuously, as you have been, at least through the end of the year.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 67401,
+    "TextENGNew": "...Living quietly in Okinomiya is more than enough for me.@k@vS06/06/150601021. ...That is how I have been living all along, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 67402,
+    "TextENGNew": "Kasai gave a bitter smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 67403,
+    "TextENGNew": "I returned the same kind of smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 67404,
+    "TextENGNew": "And then... without breaking the flow of conversation... I voiced the question I had been wanting to ask all along.",
+    "significantChanges": true,
+    "changeReason": "Old says 'before the conversation ended' implying urgency while Japanese (流れを断ち切らず) and new say 'without breaking the flow' implying deliberate seamlessness.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 67405,
+    "TextENGNew": "..........Satoshi-kun... what happened to him...?",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 67406,
+    "TextENGNew": ".....................",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 67407,
+    "TextENGNew": "I wanted him to just say one word: \"He is safe.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 67408,
+    "TextENGNew": "But Kasai did not give me that answer.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 67409,
+    "TextENGNew": "\"...Kasai.@k@vS06/06/150601024. ...Is Satoshi-kun... safe...?\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 67410,
+    "TextENGNew": "......Shion-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 67411,
+    "TextENGNew": "Kasai set his chopsticks down.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 67412,
+    "TextENGNew": "\"The main family... has instructed me to tell you to forget about Houjou Satoshi.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Houjou' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 67413,
+    "TextENGNew": "\".....................What did you just say?\"",
+    "significantChanges": true,
+    "changeReason": "Old translates as 'What?' while Japanese (何それ) and new translate as 'What did you just say?' — different intensity of response.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 67414,
+    "TextENGNew": "Shion-san.@k@vS06/15/151500180. ...I do not wish to quarrel with you, so I would rather not discuss this further.@k@vS06/15/151500181. ...I am only relaying what the main family has told me.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 67415,
+    "TextENGNew": "Wh-... What do you mean you do not want to discuss it...?!@k@vS06/06/150601027. Kasai!",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 67416,
+    "TextENGNew": "...............",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 67417,
+    "TextENGNew": "Kasai acted as though he had not heard me and resumed eating.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 67418,
+    "TextENGNew": "...I had never seen Kasai be this stubborn and cold.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 67419,
+    "TextENGNew": "...The Sonozaki family had been using the Houjou family as a scapegoat all this time.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 67420,
+    "TextENGNew": "...If someone who bore the Sonozaki name -- even nominally -- were to become romantically involved with a Houjou... it would undermine everything.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 67421,
+    "TextENGNew": "...I did not like that one bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 67422,
+    "TextENGNew": "...Satoko was friends with Mion at school, was she not?",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 67423,
+    "TextENGNew": "A friendship between girls from opposing families was apparently fine... but my relationship with Satoshi-kun was not.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 84,
+    "MessageID": 67424,
+    "TextENGNew": "......But... if I did something conspicuous again... this time, it might bring real harm to Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 67425,
+    "TextENGNew": "Just as they had forced me to tear out my own fingernails.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 67426,
+    "TextENGNew": "...The Sonozaki main family does not bluff when push comes to shove.@k ...I could all too easily imagine what cruelties they might inflict on Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 67427,
+    "TextENGNew": "...If I truly loved him... perhaps it was better that I stayed away from him.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 67428,
+    "TextENGNew": "Unless Satoshi-kun returned to the Hinamizawa Fighters...@k he was unlikely to come to Okinomiya again anytime soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 67429,
+    "TextENGNew": "If I wanted to go to Hinamizawa, I would have to impersonate Mion again.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 67430,
+    "TextENGNew": "But Mion... would never cooperate with me again.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Mion' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 67431,
+    "TextENGNew": "Even if she eventually forgave me, that would not happen until things had blown over... a long time from now.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 67432,
+    "TextENGNew": "......Even if they had not explicitly told me not to see Satoshi-kun...",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 67433,
+    "TextENGNew": "I had already lost every means of meeting him again.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 67434,
+    "TextENGNew": "Ah... wait.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 67435,
+    "TextENGNew": "...Mion had given me his home phone number before.@k ...I could call him.@k ...Maybe I could even ask him to meet me in secret.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 67436,
+    "TextENGNew": ".....................Kasai.@k@vS06/06/150601029. I would like... to be alone for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 67437,
+    "TextENGNew": "Kasai assumed I wanted him to leave and hastily began cleaning up the meal.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 67438,
+    "TextENGNew": "\"Oh, no, it is fine.@k@vS06/06/150601031. Take your time and finish eating, Kasai.@k@vS06/06/150601032. I just want to go for a walk by myself.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 99,
+    "MessageID": 67439,
+    "TextENGNew": "...........I cannot lock this room unless I leave with you.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 67440,
+    "TextENGNew": "Kasai quickly tidied up and came out the door with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 67441,
+    "TextENGNew": "...Just so we are clear... I am not going out to see Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 67442,
+    "TextENGNew": "Understood.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 67443,
+    "TextENGNew": "I turned my back to Kasai and started walking.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Kasai' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 104,
+    "MessageID": 67444,
+    "TextENGNew": "The place I headed, craving solitude, was... a rather pathetic destination.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 67445,
+    "TextENGNew": "Yes... it was the toy store that sold the stuffed bear Satoshi-kun had wanted to buy for Satoko.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoko' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 106,
+    "MessageID": 67446,
+    "TextENGNew": "I cannot deny that I harbored a faint hope of running into Satoshi-kun there.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 67447,
+    "TextENGNew": "Every time someone with a similar build passed by, I could not help peering into their face.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 67448,
+    "TextENGNew": "I looked into the toy store's display window.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 67449,
+    "TextENGNew": "...That enormous stuffed bear was gone.",
+    "significantChanges": true,
+    "changeReason": "Old says 'teddy bear' while Japanese (巨大なぬいぐるみ) and new specify 'enormous stuffed bear' — the size detail matters as it's a key plot element.",
+    "changeScore": 2
+  },
+  {
+    "index": 110,
+    "MessageID": 67450,
+    "TextENGNew": "Satoshi-kun......... congratulations.@k@vS06/06/150601035. ...You managed to buy it.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 67451,
+    "TextENGNew": "His cruel aunt was dead, and his wretched uncle had vanished to his mistress's house in Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 67452,
+    "TextENGNew": "Satoshi-kun had successfully bought the stuffed animal his beloved little sister wanted, fulfilling his duty as her big brother.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 67453,
+    "TextENGNew": "There was no one left to torment Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 67454,
+    "TextENGNew": "And the part-time jobs that had chained him down were no longer necessary.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 67455,
+    "TextENGNew": "...Satoshi-kun had been freed from all the suffering of those days.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 67456,
+    "TextENGNew": "In time, Satoshi-kun would get his smile back.@k ...And he would return to being the Satoshi-kun I had fallen in love with.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 67457,
+    "TextENGNew": "...............But.@k ......I would not be there.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 67458,
+    "TextENGNew": "I heard a car horn.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 67459,
+    "TextENGNew": "I did not think it was directed at me at first, but it kept honking so persistently that I finally looked up.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 67460,
+    "TextENGNew": "Someone was waving from the car.@k ......It was the Coach -- Irie.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 67461,
+    "TextENGNew": "Oblivious to what I was feeling, he was waving enthusiastically with that carefree smile of his.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 67462,
+    "TextENGNew": "\"Sonozaki-san~!@k@vS06/10/151000115. It has been a while!@k@vS06/10/151000116. Oh, could it be you are meeting up with Satoshi-kun?\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Houjou' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 67463,
+    "TextENGNew": "...No, that is not it.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 67464,
+    "TextENGNew": "\"Satoshi-kun used to look into that toy store's window all the time, you know.@k@vS06/10/151000118. ...So I just assumed you were waiting for him here or something.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 125,
+    "MessageID": 67465,
+    "TextENGNew": "...No, I was just passing by.@k@vS06/06/150601038. .........It looks like he was able to buy it, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 67466,
+    "TextENGNew": "The Coach seemed to know about the stuffed bear as well.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 67467,
+    "TextENGNew": "He smiled upon seeing the large empty space where the bear had been.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 67468,
+    "TextENGNew": "......Yesterday was Satoko-chan's birthday.@k@vS06/10/151000120. I am sure he was able to celebrate it with that stuffed bear.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 67469,
+    "TextENGNew": "\"So Satoshi-kun does not have to keep working himself to the bone anymore, right?\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 67470,
+    "TextENGNew": "That is right.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 67471,
+    "TextENGNew": "\"......Did Satoshi-kun... you know... submit his resignation to the Hinamizawa Fighters?\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 132,
+    "MessageID": 67472,
+    "TextENGNew": "Has he? I never received anything like that.@k@vS06/10/151000123. Did you, Sonozaki-san -- as the team manager?",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 67473,
+    "TextENGNew": "...Ahahaha, no, I have not.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 67474,
+    "TextENGNew": "If nobody received a resignation, then, haha, he is still a member of our team.@k@vS06/10/151000126. I think he will come back once things have settled down.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 67475,
+    "TextENGNew": "But if you are not there when he comes back... he will surely be sad.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 67476,
+    "TextENGNew": "The Coach said it with a teasing tone.@k ...He was a grown-up, after all.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 137,
+    "MessageID": 67477,
+    "TextENGNew": "He could tell my spirits were low, and I felt he was deliberately putting on a cheerful front for my sake.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 67478,
+    "TextENGNew": "\"......Sonozaki-san, please come back to the team whenever you are ready.@k@vS06/10/151000129. It really is not the same without you.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 139,
+    "MessageID": 67479,
+    "TextENGNew": "...When you do come back, I have been thinking of redesigning the manager's uniform into a maid outfit.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 67480,
+    "TextENGNew": "I could not help but burst out laughing.@k The Coach never changed.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 141,
+    "MessageID": 67481,
+    "TextENGNew": "......Oh, right.@k@vS06/06/150601043. I can use my real name now.@k@vS06/06/150601044. Coach, I am sorry for deceiving you all this time.@k@vS06/06/150601045. ...I am not Mion.@k@vS06/06/150601046. I am her twin sister, Shion.@k@vS06/06/150601047. For various reasons, I have been pretending to be Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 67482,
+    "TextENGNew": "Wh-... what?@k@vS06/10/151000132. Mion-san's twin... sister...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 67483,
+    "TextENGNew": "The Coach's flustered reaction was so amusing that I burst out laughing again.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 67484,
+    "TextENGNew": "That is right.@k@vS06/06/150601049. My name is Sonozaki Shion.@k@vS06/06/150601050. The Sonozaki main family does not like me much, so I cannot exactly live out in the open.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 67485,
+    "TextENGNew": "...I had no idea...@k@vS06/10/151000134. I never imagined that Mion-san had a twin sister......",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 67486,
+    "TextENGNew": "Na ha ha ha. I feel exactly the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 67487,
+    "TextENGNew": "Suddenly, a deep, booming voice cut in.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 67488,
+    "TextENGNew": "A greasy, unpleasant laugh -- nothing like the Coach's bright, open one.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 149,
+    "MessageID": 67489,
+    "TextENGNew": "...It was him.@k Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 67490,
+    "TextENGNew": "Good afternoon, Dr. Irie.@k@vS06/11/150700146. Thank you for your time the other night.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 67491,
+    "TextENGNew": "Not at all. I am sorry I could not be of more help.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 67492,
+    "TextENGNew": "...The kind of perfunctory pleasantries adults exchange.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 67493,
+    "TextENGNew": "It was plain as day that neither of them thought highly of the other.",
+    "significantChanges": true,
+    "changeReason": "Old says 'they hated each other' while Japanese (良く思いあっていない) and new say 'neither thought highly of the other' — hatred vs mild dislike is a significant difference in characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 154,
+    "MessageID": 67494,
+    "TextENGNew": "The Coach leaned in and whispered to me.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 155,
+    "MessageID": 67495,
+    "TextENGNew": "......I am about to leave. Would you like a ride?@k@vS06/10/151000137. I can take you home.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 67496,
+    "TextENGNew": "The Coach had guessed that Ooishi's target was me and was subtly offering me an escape.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 157,
+    "MessageID": 67497,
+    "TextENGNew": "Looking at Ooishi's face, it was clear that his interest was aimed squarely at me.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 158,
+    "MessageID": 67498,
+    "TextENGNew": "...He was surely planning to press me about my testimony that I had been with Satoshi-kun on the day of the festival -- the day of the incident -- until I slipped up.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 159,
+    "MessageID": 67499,
+    "TextENGNew": "...I was confident I could dodge him, but I had no desire to waste my time on something so unpleasant.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 67500,
+    "TextENGNew": "You are right.@k@vS06/06/150601050_2. Well then, Coach,@k@vS06/06/150601050_3. shall we get going?",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 67501,
+    "TextENGNew": "...Oh, were the two of you on your way somewhere together?",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 67502,
+    "TextENGNew": "Yes.@k@vS06/10/151000142. We are out shopping for prizes for the team's evening party.@k@vS06/10/151000143. We have several more stores to visit, so if you will excuse us.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 67503,
+    "TextENGNew": "The Coach bowed, and I followed suit.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 164,
+    "MessageID": 67504,
+    "TextENGNew": "...The Coach really was an adult.@k He rattled off lies with perfect poise, without a trace of hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 67505,
+    "TextENGNew": "Ooishi seemed to know it was a lie, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 67506,
+    "TextENGNew": "But he did not have a warrant, so he could not forcibly detain us.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 167,
+    "MessageID": 67507,
+    "TextENGNew": "......Is your injury healing all right?@k@vS06/11/150700149. Shion Sonozaki-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 67508,
+    "TextENGNew": "I froze mid-step, about to get into the Coach's car.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 67509,
+    "TextENGNew": "...My left hand was wrapped in bandages.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 67510,
+    "TextENGNew": "...It was unsightly, so I had been keeping it stuffed in my pocket.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 67511,
+    "TextENGNew": "There was no way Ooishi could have seen it.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 67512,
+    "TextENGNew": "As long as it does not get infected, it will heal up nicely.@k@vS06/11/150700151. I lost a few fingernails myself as a kid. But look -- good as new, right?@k@vS06/11/150700152. Nfu fu fu.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 67513,
+    "TextENGNew": "......A man bragging about his pretty nails is just creepy.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 67514,
+    "TextENGNew": "Ooishi scratched his head and laughed, agreeing wholeheartedly.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 67515,
+    "TextENGNew": "...Ooishi was reputed to be the sharpest detective at the Okinomiya precinct, well-versed in the region's underground dealings, including those in Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Ooishi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 176,
+    "MessageID": 67516,
+    "TextENGNew": "I see... so he had caught wind of my punishment from somewhere...",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 67517,
+    "TextENGNew": "...But what happened that day took place deep within the inner sanctum of the Sonozaki main house.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 67518,
+    "TextENGNew": "Whatever his source, this man's information network was not to be underestimated.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 67519,
+    "TextENGNew": "I am deeply moved by your concern.@k@vS06/06/150601053. ...Well, we must be going now.@k@vS06/06/150601054. Excuse us.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 67520,
+    "TextENGNew": "Shion Sonozaki-san.@k@vS06/11/150700154. Why don't you join me for coffee?",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 67521,
+    "TextENGNew": "...Excuse me?@k@vS06/06/150601056. Are you asking me out?",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 67522,
+    "TextENGNew": "If you want to see it that way, sure.@k@vS06/11/150700156. Nfu fu fu.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 67523,
+    "TextENGNew": "I will pass.@k@vS06/06/150601058. There are only twenty-four hours in a day.@k@vS06/06/150601059. Wasting them on something tedious would be idiotic.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 67524,
+    "TextENGNew": "Ah... you got me there...@k@vS06/11/150700158. ...All right, how about this?@k@vS06/11/150700159. If talking to me gets boring, you are free to leave at any time.@k@vS06/11/150700160. I will not try to stop you.@k@vS06/11/150700161. How does that arrangement sound?",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 67525,
+    "TextENGNew": "...You can talk all you want, but I will not be answering.@k@vS06/06/150601061. Whether that qualifies as a conversation is debatable.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 67526,
+    "TextENGNew": "Yes, yes, that is perfectly fine.@k@vS06/11/150700163. You can just be the listener.@k@vS06/11/150700164. I will simply talk at you one-sidedly.@k@vS06/11/150700165. ...You just sip your coffee and let a middle-aged man's rambling wash over you. That will be enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 67527,
+    "TextENGNew": "......What a strangely aggressive approach.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 67528,
+    "TextENGNew": "Oddly, it did not feel like he was trying to crack my story open.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 67529,
+    "TextENGNew": "This man who knew about my fingernails -- what sort of \"talk\" could he possibly offer that would not bore me?@k .........I was skeptical, but I could not deny that a small spark of curiosity had been lit.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 190,
+    "MessageID": 67530,
+    "TextENGNew": "\"...Coach.@k@vS06/06/150601063. I am sorry, but I think I will go on a little date with dear old Ooishi-sama instead.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Ooishi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 191,
+    "MessageID": 67531,
+    "TextENGNew": "Mio... no, Shion-san......?",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 67532,
+    "TextENGNew": "I winked at him, telling him not to worry.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 67533,
+    "TextENGNew": "...The Coach did not press the matter. He got into his car and drove away.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Irie' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 194,
+    "MessageID": 67534,
+    "TextENGNew": "Behind me, Ooishi was backing his car up to where I stood.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 67535,
+    "TextENGNew": "I did not want to sit in the front seat, so I climbed into the back.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 67536,
+    "TextENGNew": "...Are we really going to a cafe?",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 67537,
+    "TextENGNew": "Hmm... if you could point me to one with no connection to your family, that would be a great help.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 67538,
+    "TextENGNew": "Tch.@k@vS06/06/150601066. ...Then just take me wherever you want.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 67539,
+    "TextENGNew": "Ooishi -- more careful than his appearance would suggest -- checked both ways for traffic, used his turn signal, and then pulled out.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 67540,
+    "TextENGNew": "True to expectations, Ooishi drove us straight to the Okinomiya police station.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 67541,
+    "TextENGNew": "...If he had actually taken me to some stylish cafe, I might have raised my opinion of him a notch.@k ...But of course, that was too much to hope for.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 202,
+    "MessageID": 67542,
+    "TextENGNew": "I thought it would be more convenient to come here.@k@vS06/11/150700168. ...Our agreement still stands, of course. You may leave whenever my talk gets boring.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 67543,
+    "TextENGNew": "......Well then, do your best not to bore me.@k@vS06/06/150601068. ...Shall I walk in arm-in-arm with you, dear sir?",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 67544,
+    "TextENGNew": "Ooishi laughed heartily and got out of the car, then led the way inside...",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 67545,
+    "TextENGNew": "The room he brought me to was not a cramped interrogation room, but rather an office with \"Criminal Investigation Division\" written on the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 67546,
+    "TextENGNew": "...Officers in uniforms and plainclothes detectives were going about their work at their desks, answering phones, or taking it easy.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 67547,
+    "TextENGNew": "In front of a slightly grander, unoccupied desk labeled \"Section Chief,\" there were a pair of facing sofas and a faux-marble table.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 67548,
+    "TextENGNew": "Ooishi told me to sit there, then walked over to a cabinet and began preparing instant coffee.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 67549,
+    "TextENGNew": "I had never been in a place like this inside a police station before, so I was looking around restlessly, taking everything in.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 67550,
+    "TextENGNew": "Did you think I was going to sit you down in an interrogation room and feed you pork cutlet on rice?",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 67551,
+    "TextENGNew": "Ooishi brought over two guest-style coffee cups on a dull silver tray.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 67552,
+    "TextENGNew": "...The hospitality is better than I expected.@k@vS06/06/150601070. I was prepared to be kneeling on the courtyard gravel at the very least.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 67553,
+    "TextENGNew": "Hmph, that is not my style.@k@vS06/11/150700171. Na ha ha ha ha.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 67554,
+    "TextENGNew": "So?@k@vS06/06/150601072. ...Were you not going to regale me with your talk?",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 67555,
+    "TextENGNew": "\"Very well. I will get straight to the point.@k@vS06/11/150700173. Shion-san, are you in love with Houjou Satoshi?\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Shion' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 216,
+    "MessageID": 67556,
+    "TextENGNew": "...........Huh?@k@vS06/06/150601074. ...This is already boring. I am leaving.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 67557,
+    "TextENGNew": "Na ha ha ha ha... all right, forget I said that.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 67558,
+    "TextENGNew": "...If this man knew about my torn fingernails, then he knew the circumstances that led to it.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Ooishi' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 219,
+    "MessageID": 67559,
+    "TextENGNew": "That question was not an attempt to confirm whether I liked Satoshi-kun. It was his way of letting me know he already knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 67560,
+    "TextENGNew": "...I already gave Detective Kumagai a full account of Satoshi-kun's alibi for the day of the incident.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 67561,
+    "TextENGNew": "Of course. I have read Kuma-cha... I mean, Kumagai-kun's report.@k@vS06/11/150700176. I know you were with him.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 67562,
+    "TextENGNew": "I will give you the same statement no matter how many times you ask.@k@vS06/06/150601077. If you think you can trip me up by asking over and over, you are sorely mistaken.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 67563,
+    "TextENGNew": "No, no, I would never think that.@k@vS06/11/150700178. You are a clever person.@k@vS06/11/150700179. I know a trick like that would never work on you.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 67564,
+    "TextENGNew": "Then what trick are you planning?@k@vS06/06/150601079. Either way, trying to get information about Satoshi-kun from me is a waste of time.@k@vS06/06/150601080. There is nothing beyond what I already told you.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 67565,
+    "TextENGNew": "Ah, what a shame. This is boring after all.@k@vS06/06/150601082. I am going home.@k@vS06/06/150601083. That was our agreement, was it not?@k@vS06/06/150601084. Excuse me.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 67566,
+    "TextENGNew": "I said that much and stood up from the sofa.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 67567,
+    "TextENGNew": "Shion-san.@k@vS06/11/150700181. I admit that I did want to ask you about Satoshi-san's alibi.@k@vS06/11/150700182. I will not deny that.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 67568,
+    "TextENGNew": "...Then that settles it.@k@vS06/06/150601086. It is boring.@k@vS06/06/150601087. I am leaving.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 67569,
+    "TextENGNew": "I turned on my heel, my shoes clicking against the floor, and headed for the exit.",
+    "significantChanges": true,
+    "changeReason": "Old translation appears significantly truncated compared to new translation and Japanese source.",
+    "changeScore": 3
+  },
+  {
+    "index": 230,
+    "MessageID": 67570,
+    "TextENGNew": "Ooishi did not panic, but he raised his voice slightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 67571,
+    "TextENGNew": "But Shion-san.@k@vS06/11/150700184. What I want to ask about is not his alibi for the day of the incident.@k@vS06/11/150700185. It is his alibi for yesterday.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 67572,
+    "TextENGNew": "Yesterday...? Why would you need his alibi for yesterday?@k@vS06/06/150601089. What does yesterday have to do with his aunt's murder?",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 67573,
+    "TextENGNew": "Because Satoshi-kun went out yesterday and has not been seen since. He has vanished.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 67574,
+    "TextENGNew": "...What?",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 67575,
+    "TextENGNew": "...You did not know he had disappeared?",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 67576,
+    "TextENGNew": ".....................",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 67577,
+    "TextENGNew": "I could not bring myself to answer aloud, but my expression must have said everything.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Ooishi' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 238,
+    "MessageID": 67578,
+    "TextENGNew": "What do you mean...?@k@vS06/06/150601092. Disappeared... what?",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 67579,
+    "TextENGNew": "Why don't you sit back down?",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 67580,
+    "TextENGNew": "Satoshi-kun disappeared, you said...?!@k@vS06/06/150601094. What?!!",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 67581,
+    "TextENGNew": "The one thing we know for certain is that he withdrew all his savings at the Okinomiya post office before three in the afternoon.@k@vS06/11/150700190. After that, we have lost all trace of him.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ: old has ['3'], new has [].",
+    "changeScore": 2
+  },
+  {
+    "index": 242,
+    "MessageID": 67582,
+    "TextENGNew": "I understood why he had withdrawn all his money.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 67583,
+    "TextENGNew": "It was to buy Satoko's birthday present -- that stuffed bear.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 67584,
+    "TextENGNew": "...So Satoshi-kun had gone to buy the bear yesterday.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 245,
+    "MessageID": 67585,
+    "TextENGNew": "...This is just my speculation, mind you.@k@vS06/11/150700192. But... I wonder if maybe he took that money and skipped town.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 67586,
+    "TextENGNew": "You think he used it as getaway money?@k@vS06/06/150601096. That is absurd.@k@vS06/06/150601097. He had been saving that money to buy Satoko a birthday present.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 67587,
+    "TextENGNew": "He bought that huge, expensive stuffed bear from the toy store with it.@k@vS06/06/150601099. There is no way he had enough left over to fund some escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 67588,
+    "TextENGNew": "Yes, the most expensive stuffed animal in that toy store was indeed sold.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 67589,
+    "TextENGNew": "But we cannot confirm that it was Satoshi-kun who bought it.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 67590,
+    "TextENGNew": "Then just ask the clerk!@k@vS06/06/150601101. Satoshi-kun and I reserved it together!@k@vS06/06/150601102. ......Oh...",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 67591,
+    "TextENGNew": "A terrible thought crossed my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 67592,
+    "TextENGNew": "......It was that old man who had been minding the shop.@k He had looked completely unreliable.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 67593,
+    "TextENGNew": "...What if he had been watching the store again that day, and...@k even though Satoshi-kun had bought it, the old man did not even remember selling it...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 67594,
+    "TextENGNew": "Ooishi put on a wry smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 67595,
+    "TextENGNew": "...From his expression, it was clear he had already tried questioning that old man himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 67596,
+    "TextENGNew": "A-Anyway!!@k@vS06/06/150601104. Satoshi-kun is the one who bought it!",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 67597,
+    "TextENGNew": "Satoshi-kun barely had enough money for the stuffed bear,@k@vS06/06/150601106. so there is no way he could have afforded it and still had funds to flee.@k@vS06/06/150601107. It makes no sense!",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 258,
+    "MessageID": 67598,
+    "TextENGNew": "All right.@k@vS06/11/150700196. Let us say he really did buy the stuffed bear.@k@vS06/11/150700197. Then why did he not bring it home?",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 67599,
+    "TextENGNew": "At that moment...@k ......I felt something like frost crystallize deep inside my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 67600,
+    "TextENGNew": "Satoshi-kun had been pushing both his mind and body to the breaking point, working himself ragged at part-time jobs just to earn enough to buy that stuffed bear.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 67601,
+    "TextENGNew": "And then, at last, he had bought it.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 67602,
+    "TextENGNew": "It was unthinkable that someone else had coincidentally come along and bought that exact bear on a whim!",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 67603,
+    "TextENGNew": "The bear was gone because Satoshi-kun had bought it.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 67604,
+    "TextENGNew": "That much was absolutely, unquestionably certain!",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 67605,
+    "TextENGNew": "But if that was true...",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 67606,
+    "TextENGNew": "...Satoshi-kun would have given that hard-won bear to Satoko. Without a doubt.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 267,
+    "MessageID": 67607,
+    "TextENGNew": "And yet, despite buying the bear... he had not gone home.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 67608,
+    "TextENGNew": "He had not gone home?",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 67609,
+    "TextENGNew": "That was impossible.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 67610,
+    "TextENGNew": "If he had bought the bear, he would have headed straight home without a second thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 67611,
+    "TextENGNew": "There was no way he would buy the bear and then decide to run off somewhere.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 67612,
+    "TextENGNew": "Even if Satoshi-kun had wanted to flee from the police...",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 67613,
+    "TextENGNew": "He would never, ever have bought the bear and then disappeared without giving it to Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 67614,
+    "TextENGNew": "Anyway, the one who bought that bear was Satoshi-kun!@k That much was absolutely beyond doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 67615,
+    "TextENGNew": "The question was -- why had he been unable to bring it home?!",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 67616,
+    "TextENGNew": "That bear was enormous.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 67617,
+    "TextENGNew": "It would never fit in a bicycle's front basket.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 67618,
+    "TextENGNew": "At best, he would have had to bring some cord and strap it to the rear rack, wobbling along precariously.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 67619,
+    "TextENGNew": "In that state, there was no way he would have thought of stopping somewhere or making a detour.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 67620,
+    "TextENGNew": "So he absolutely, without question, would have gone straight from \"post office\" to \"toy store\" to \"home\"!",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 67621,
+    "TextENGNew": "The path from \"post office\" to \"toy store\" was certain.@k It had to be!@k Nobody else could have bought that bear!!!@k It was impossible, impossible, absolutely impossible!",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 67622,
+    "TextENGNew": "That bear had been sitting in the showcase for ages up until that very day.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 67623,
+    "TextENGNew": "It had been in plain sight of every passerby.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 67624,
+    "TextENGNew": "And yet, right up until that day, it had sat there unsold!",
+    "significantChanges": true,
+    "changeReason": "Old translation appears significantly truncated compared to new translation and Japanese source.",
+    "changeScore": 3
+  },
+  {
+    "index": 285,
+    "MessageID": 67625,
+    "TextENGNew": "So it was impossible that someone else had coincidentally bought it!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 67626,
+    "TextENGNew": "Therefore, the path from \"post office\" to \"toy store\" was beyond question.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 67627,
+    "TextENGNew": "The real problem was the stretch from \"toy store\" to \"home.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 67628,
+    "TextENGNew": "There should have been no deviation there, either.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 67629,
+    "TextENGNew": "With a stuffed bear that huge, he could not have done anything else.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 67630,
+    "TextENGNew": "He would not have felt like making any stops!",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 67631,
+    "TextENGNew": "So the moment he bought it, he would have headed straight home!!",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 67632,
+    "TextENGNew": "But... Satoshi-kun was not seen after that.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 293,
+    "MessageID": 67633,
+    "TextENGNew": "Then the answer was simple.@k Satoshi-kun had vanished somewhere between the \"toy store\" and \"home.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 67634,
+    "TextENGNew": "Vanished?@k What did that even mean...?",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 67635,
+    "TextENGNew": "The one who killed his aunt was almost certainly Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 296,
+    "MessageID": 67636,
+    "TextENGNew": "And Satoshi-kun lacked my kind of cunning.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 297,
+    "MessageID": 67637,
+    "TextENGNew": "So had the steadily tightening net of the police investigation become more than he could bear?",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 67638,
+    "TextENGNew": "Even though I had helped him at the scene... had the fact that the police had made contact with him convinced him it was only a matter of time before he was found out?",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 299,
+    "MessageID": 67639,
+    "TextENGNew": "And so Satoshi-kun had decided to run?",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 300,
+    "MessageID": 67640,
+    "TextENGNew": "Had he judged it better to go into hiding until things blew over, rather than be arrested??",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 67641,
+    "TextENGNew": "Impossible, impossible, impossible!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 67642,
+    "TextENGNew": "It was absolutely impossible that he would have come to that decision \"while on his way home from buying a stuffed bear\"!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 67643,
+    "TextENGNew": "Even if such a thought had crossed his mind, it would have come only after giving Satoko her present and fulfilling his duty as her brother.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 67644,
+    "TextENGNew": "Satoshi-kun treasured Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 67645,
+    "TextENGNew": "I had thought she was too spoiled -- that indulging her so much only made things worse. But regardless, Satoshi-kun had always tried to be the best possible brother to her.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 306,
+    "MessageID": 67646,
+    "TextENGNew": "So there was absolutely no way he would have disappeared without going home!!",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 67647,
+    "TextENGNew": "The frost inside my chest was spreading -- tearing through the lining of my heart, peeling it back layer by layer.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 67648,
+    "TextENGNew": "If it was \"absolutely impossible\" that Satoshi-kun had vanished of his own will...",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 67649,
+    "TextENGNew": "Then the answer was simple.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 67650,
+    "TextENGNew": "Satoshi-kun had been made to vanish against his will.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 67651,
+    "TextENGNew": "Satoshi-kun was......... eliminated.........?@k@vS06/06/150601109. Aha...... ahahahahahahahahahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 67652,
+    "TextENGNew": "Th-This is ridiculous. This is such a boring story, old man.@k@vS06/06/150601111. Ahahahahahahahahahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 67653,
+    "TextENGNew": "I thought that if I laughed loudly enough, I could sweep away the frost that had spread through my chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 67654,
+    "TextENGNew": "Believing that, I laughed and laughed.@k On and on.@k And on.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 67655,
+    "TextENGNew": "The detectives in the room were all staring at me, wondering what had come over me.",
+    "significantChanges": true,
+    "changeReason": "Old translation appears significantly truncated compared to new translation and Japanese source.",
+    "changeScore": 3
+  },
+  {
+    "index": 316,
+    "MessageID": 67656,
+    "TextENGNew": "They looked at me as though doubting my sanity.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 67657,
+    "TextENGNew": "I did not care.@k ...I kept laughing until I choked and started coughing...",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 67658,
+    "TextENGNew": "Ahahahahahahaha... ahahahaha, huff!@k@vS06/06/150601113. Cough, cough!@k@vS06/06/150601114. Ack!!",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 67659,
+    "TextENGNew": "...I finally took a sip of my now stone-cold coffee, and the laughing fit ended.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 67660,
+    "TextENGNew": "The frost had already pierced through the thin wall of my heart, covered my twisted intestines, and was now threatening to break through the skin of my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 67661,
+    "TextENGNew": "It was so cold... my fingers trembled and rattled against the coffee cup as I held it.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 67662,
+    "TextENGNew": "Shion-san.@k@vS06/11/150700199. I would like you to hear me out without interrupting.@k@vS06/11/150700200. I am going to share a little theory I have put together.@k@vS06/11/150700201. It is all fabrication, every bit of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 67663,
+    "TextENGNew": "It might sound so far-fetched that you will want to burst out laughing.@k@vS06/11/150700203. Even so, I want you to hear me out to the end.@k@vS06/11/150700204. ...Can you promise me that?",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 67664,
+    "TextENGNew": "I-... I will promise anything, just...@k@vS06/06/150601117. h-hurry up and tell me...",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 325,
+    "MessageID": 67665,
+    "TextENGNew": "The cold enveloping my entire body had my teeth chattering against each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 67666,
+    "TextENGNew": "My brain was already packed solid with frost... I had lost the ability to think.",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 67667,
+    "TextENGNew": "...So... I could not think for myself.@k ...All I could do was hear it from Ooishi's lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 67668,
+    "TextENGNew": "The worst possible scenario -- one I did not want to arrive at on my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 67669,
+    "TextENGNew": "But a truth I had to hear.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 67670,
+    "TextENGNew": "......The deceased aunt had been abusing both Satoshi-kun and Satoko-san. I am well aware of that.@k@vS06/11/150700206. Satoko-san in particular was singled out relentlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 67671,
+    "TextENGNew": "...Given all that, if Satoshi-kun's desire to protect his sister gradually turned into murderous intent toward his aunt...@k@vS06/11/150700208. I think that is a perfectly natural human response.",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 67672,
+    "TextENGNew": "I should have denied it -- should have insisted that Satoshi-kun did not kill his aunt.",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 67673,
+    "TextENGNew": "...But what Ooishi was saying was true... it had to be the reality.",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 67674,
+    "TextENGNew": "I could not bring myself to deny it... and so, as promised, I kept silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 67675,
+    "TextENGNew": "......What follows is pure fantasy, all right?!@k@vS06/11/150700210. Please do not get angry!@k@vS06/11/150700211. And no interrupting!@k@vS06/11/150700212. Understood?!",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 67676,
+    "TextENGNew": "I-I know...!@k@vS06/06/150601117. Just keep going...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 67677,
+    "TextENGNew": "Houjou Satoshi planned and carried out the murder of his aunt.@k@vS06/11/150700214. Of course, we have no evidence, all right?!@k@vS06/11/150700215. This is all my delusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 67678,
+    "TextENGNew": "I know that!@k@vS06/06/150601119. I am well aware it is your delusion!@k@vS06/06/150601120. So hurry up and continue...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 67679,
+    "TextENGNew": "Now the subject changes.@k@vS06/11/150700217. ...Shion-san.@k@vS06/11/150700218. You were forbidden from seeing Satoshi-kun, were you not?@k@vS06/11/150700219. They made it clear -- forget him, never have anything to do with him again.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 67680,
+    "TextENGNew": "I believe the real reason was not that they despised the relationship between the two families... but that they could not tolerate a Sonozaki daughter being romantically involved with a murderer.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 341,
+    "MessageID": 67681,
+    "TextENGNew": "......That was... not an impossible theory.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 67682,
+    "TextENGNew": "After all... before my identity as Shion was exposed...",
+    "significantChanges": true,
+    "changeReason": "Character name 'Mion' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 343,
+    "MessageID": 67683,
+    "TextENGNew": "...Even when I was still pretending to be Mion, I had been interacting with Satoshi-kun, and no one had objected.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Mion' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 344,
+    "MessageID": 67684,
+    "TextENGNew": "If the problem were simply a Sonozaki being close to a Houjou... they could have raised an objection back when I was with the Hinamizawa Fighters.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Houjou' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 345,
+    "MessageID": 67685,
+    "TextENGNew": "For the Sonozaki main family, living at the heart of Hinamizawa, it would have been child's play to learn that Satoshi-kun was the killer.",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 67686,
+    "TextENGNew": "They might have even witnessed the murder itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 67687,
+    "TextENGNew": "That was when having a Sonozaki romantically involved with a murderer suddenly became intolerable to the main family... and could no longer be ignored.",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 67688,
+    "TextENGNew": "Also... you are known for being the type who does not give up easily, are you not?@k@vS06/11/150700222. In other words, even if the Sonozaki main family threatened you and tore off your fingernails...@k@vS06/11/150700223. you were still not ready to cut ties with Satoshi-kun, were you?",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 67689,
+    "TextENGNew": "I could not deny it.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 67690,
+    "TextENGNew": "True, I had lost most of my means of getting to Hinamizawa, so my connection to Satoshi-kun had been effectively severed.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 67691,
+    "TextENGNew": "But I still knew his phone number, and I had been hoping he would eventually return to the Hinamizawa Fighters.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 352,
+    "MessageID": 67692,
+    "TextENGNew": "\"I believe the Sonozaki main family knew that mere threats would never be enough to make you give up Satoshi-kun.@k@vS06/11/150700225. No amount of intimidation would work on you.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 353,
+    "MessageID": 67693,
+    "TextENGNew": "So... they would have no choice but to deal with the other party, would they not...?",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 67694,
+    "TextENGNew": "D-D-Deal with him how?!?!@k@vS06/06/150601122. What do you mean, deal with him?!!!@k@vS06/06/150601123. What?!!@k@vS06/06/150601124. What?!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 67695,
+    "TextENGNew": "If threatening me was futile...@k ...then they would deal with Satoshi-kun instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 67696,
+    "TextENGNew": "Deal with him how?!?!",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 67697,
+    "TextENGNew": "If they \"dealt with\" him, would that sever the path from \"toy store\" to \"home\"?!",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 67698,
+    "TextENGNew": "\"Toy store\" to \"home\"!!",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 67699,
+    "TextENGNew": "\"Toy store\" to X to \"home\"!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 67700,
+    "TextENGNew": "What was X?! What was X?!",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 67701,
+    "TextENGNew": "X was what severed the path.@k But what severed it?!",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 67702,
+    "TextENGNew": "What could have happened to prevent Satoshi-kun from getting from the \"toy store\" to \"home\"?!?!",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 67703,
+    "TextENGNew": "Why, why, why?!?!@k What was X?!!@k X!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 67704,
+    "TextENGNew": "I blacked out from hyperventilation and dizziness, and collapsed backward.",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 67705,
+    "TextENGNew": "...The floor was hard, cold tile.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 67706,
+    "TextENGNew": "...And yet I felt no pain. I simply crumpled, softly and suddenly, as though I had become a celluloid doll.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 67707,
+    "TextENGNew": "Ooishi and several others rushed over with alarmed faces and helped me up.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 67708,
+    "TextENGNew": "Calm down, Shion-san.@k@vS06/11/150700228. ...It is not certain that Satoshi-kun was killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 67709,
+    "TextENGNew": "Not certain he was killed?!",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 67710,
+    "TextENGNew": "What kind of nonsensical drivel was that?!",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 67711,
+    "TextENGNew": "Did he not know about that underground secret room where they had forced me to tear out my nails?!",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 67712,
+    "TextENGNew": "It was rumored that behind it lay stone prison cells, and beyond those, a well for dumping corpses!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 67713,
+    "TextENGNew": "If the Sonozaki main family wanted to eliminate Satoshi-kun safely and thoroughly, they would obviously kill him in that secret room and dispose of the body!!!",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 374,
+    "MessageID": 67714,
+    "TextENGNew": "And you say it is not certain he was killed?!@k Are you an idiot? Is your brain made of tofu?!@k If I were in the hag's position, I would absolutely kill him!!!@k I would never do something as half-baked as giving him escape money and telling him to hide!!",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 375,
+    "MessageID": 67715,
+    "TextENGNew": "Even I would kill him if I were in her shoes, so there is no way that monster would not!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 67716,
+    "TextENGNew": "Please calm down, Shion-san.@k@vS06/11/150700230. This is unconfirmed, but we have a report that a young person who appeared to be a runaway was spotted at Nagoya Station.@k@vS06/11/150700231. He apparently boarded a bullet train for Tokyo.",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 67717,
+    "TextENGNew": "The clothing description did not match, but it is possible he changed clothes to evade police tracking.@k@vS06/11/150700233. The fact that the clothes were different does not rule out it being Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 378,
+    "MessageID": 67718,
+    "TextENGNew": "\"...I-... Is he alive?!@k@vS06/06/150601126. Satoshi-kun... is he alive...?!\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 379,
+    "MessageID": 67719,
+    "TextENGNew": "This is also my speculation, but let me continue.@k@vS06/11/150700235. Your twin sister, Mion-san...@k@vS06/11/150700236. As the next head of the family, she is close to Sonozaki Oryou, correct?",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 67720,
+    "TextENGNew": "Sonozaki Oryou most likely proposed killing Satoshi-kun in secret at first.@k@vS06/11/150700238. But I believe your sister stopped her.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Mion' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 381,
+    "MessageID": 67721,
+    "TextENGNew": "...Mion?@k ......That was a scenario I could vividly picture.",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 67722,
+    "TextENGNew": "There was a high chance that Mion had intervened out of some clumsy sense of mercy.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Mion' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 383,
+    "MessageID": 67723,
+    "TextENGNew": "That fool was always so half-hearted.",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 67724,
+    "TextENGNew": "If you are going to save someone, then save them! If you are going to show mercy, then show it properly!!",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 67725,
+    "TextENGNew": "She never followed through on anything.@k She probably could not stomach the guilt of having Satoshi-kun killed, so she settled for exile -- as a convenient excuse for her own conscience.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 386,
+    "MessageID": 67726,
+    "TextENGNew": "The Sonozaki main family most likely made contact with Satoshi-kun.@k@vS06/11/150700240. They would have told him they could no longer protect him from this incident, and that he should disappear somewhere to save himself.@k@vS06/11/150700241. ...No, \"forced\" is probably the more fitting word.",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 67727,
+    "TextENGNew": "Satoshi-kun would have refused. Absolutely.@k@vS06/06/150601128. There is no way he would leave Satoko behind and abandon Hinamizawa!!",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 67728,
+    "TextENGNew": "I agree.@k@vS06/11/150700243. ...Satoshi-kun was working at jobs arranged through Mion-san, was he not?@k@vS06/11/150700244. So the family would have known he had a substantial sum of money on hand for an escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 67729,
+    "TextENGNew": "But he would never have used that money for anything other than buying that stuffed bear.",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 67730,
+    "TextENGNew": "Indeed.@k@vS06/11/150700246. Once he withdrew his savings, he would have gone straight to the toy store without hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 67731,
+    "TextENGNew": "But what if...@k@vS06/11/150700248. ...when Satoshi-kun arrived at the toy store... the stuffed bear had already been sold, and was gone?",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 392,
+    "MessageID": 67732,
+    "TextENGNew": "That would have been... an unimaginably bleak and desolate scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 67733,
+    "TextENGNew": "Those had been long, grueling days.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 67734,
+    "TextENGNew": "...His aunt's torment had ground down his spirit... juggling multiple part-time jobs had ground down his body.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 67735,
+    "TextENGNew": "...And the money he had finally scraped together from all that.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 67736,
+    "TextENGNew": "Clutching it tight... he had rushed to the toy store for his one and only purpose -- a birthday present for his sister.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 67737,
+    "TextENGNew": "And just as he always had, he would have searched the showcase for the bear.",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 67738,
+    "TextENGNew": "But... the large figure that should have been there was gone.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 67739,
+    "TextENGNew": "Satoshi-kun was the optimistic type, though.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 400,
+    "MessageID": 67740,
+    "TextENGNew": "...He would not have panicked just from seeing that.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 67741,
+    "TextENGNew": "...He had told them he would come to buy it today. Maybe they had already gift-wrapped it for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 67742,
+    "TextENGNew": "...Thinking that, buoyed by excitement, he must have stepped through the shop's entrance.",
+    "significantChanges": true,
+    "changeReason": "Old translation appears significantly truncated compared to new translation and Japanese source.",
+    "changeScore": 3
+  },
+  {
+    "index": 403,
+    "MessageID": 67743,
+    "TextENGNew": "......And then... what exchange took place inside the store.",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 67744,
+    "TextENGNew": "Just imagining it... made my chest feel as though it would tear apart.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 67745,
+    "TextENGNew": "He had made a reservation. Why was it not there?@k Why was it gone?",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 67746,
+    "TextENGNew": "Had that unreliable old man not even understood his protests, just staring blankly...?",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 67747,
+    "TextENGNew": "...No, even without that old man, the result might have been the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 67748,
+    "TextENGNew": "If a gang of tough-looking Sonozaki enforcers had come in and slammed cash on the counter, no shopkeeper could have refused them, reservation or not.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 67749,
+    "TextENGNew": "Eventually, Satoshi-kun would have run out of words to protest.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 67750,
+    "TextENGNew": "...No matter how much he argued... what was gone was gone.",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 67751,
+    "TextENGNew": "......The day he had dreamed of for so long... he could never have imagined it would be painted over with despair.",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 67752,
+    "TextENGNew": "Stumbling along... leaning against telephone poles from time to time.@k ...Satoshi-kun must have been in agony.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 413,
+    "MessageID": 67753,
+    "TextENGNew": "On the day he had wanted to make Satoko happiest of all.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 67754,
+    "TextENGNew": "The one present Satoko had been looking forward to most -- and he could not get it for her.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoko' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 415,
+    "MessageID": 67755,
+    "TextENGNew": "Satoshi-kun... probably never thought of buying something else instead.@k ...Because it had never occurred to him that he might not be able to buy it.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 416,
+    "MessageID": 67756,
+    "TextENGNew": "Satoshi-kun... with that hollow, unbelievably lonely smile on his face...",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoko' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 417,
+    "MessageID": 67757,
+    "TextENGNew": "...Imagining Satoko's beaming face as she waited for her big brother to come home with the perfect present... and watching that smile crumble into disappointment.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoko' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 418,
+    "MessageID": 67758,
+    "TextENGNew": "The hundred-some thousand yen he had saved up until now... was nothing but scraps of paper.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 419,
+    "MessageID": 67759,
+    "TextENGNew": "Satoshi-kun... was the kind of person who never cried, no matter how much he was hurting.",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 67760,
+    "TextENGNew": "I wonder... if he even knew how to shed tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 67761,
+    "TextENGNew": "Because it was always his little sister, Satoko, who did the crying.",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 67762,
+    "TextENGNew": "...And so, Satoshi-kun... grew up never learning how to cry.",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 67763,
+    "TextENGNew": "Do you know what tears are...?",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 67764,
+    "TextENGNew": "...They flow so that the sadness inside your heart... can be washed away, even if just a little...",
+    "significantChanges": true,
+    "changeReason": "Old translation omits content present in the Japanese; new translation includes additional clauses/sentences.",
+    "changeScore": 2
+  },
+  {
+    "index": 425,
+    "MessageID": 67765,
+    "TextENGNew": "Satoshi-kun could not even do that.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 67766,
+    "TextENGNew": "His chest must have been bursting with unbearable grief.@k ...And he could not let any of it out.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 67767,
+    "TextENGNew": "......You said he would never leave Satoko-san behind and leave Hinamizawa.@k@vS06/11/150700250. ...But what if.@k@vS06/11/150700251. ...What if the Sonozaki main family told him... they would look after Satoko in his absence?",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 67768,
+    "TextENGNew": "...The bear he was supposed to buy was gone.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 429,
+    "MessageID": 67769,
+    "TextENGNew": "...All that remained was a crumpled wad of bills, a little over a hundred thousand yen.",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 67770,
+    "TextENGNew": "......The Sonozaki main family told him the police would come to arrest him sooner or later, and that he should flee somewhere far away.@k ...And they said they would take care of Satoko.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 431,
+    "MessageID": 67771,
+    "TextENGNew": "Satoshi-kun could not face his sister.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 67772,
+    "TextENGNew": "......And just like that... drifting aimlessly... he found himself at Okinomiya Station......",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 67773,
+    "TextENGNew": "Over and over in his heart, apologizing to his beloved sister.",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoko' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 434,
+    "MessageID": 67774,
+    "TextENGNew": "...Believing he would surely be able to return someday.@k And so he went to Nagoya.@k ...And then to Tokyo.",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 67775,
+    "TextENGNew": "But... if that was what happened, then he was alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 67776,
+    "TextENGNew": "......He was alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 67777,
+    "TextENGNew": "...If he was alive, I would surely see him again.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 67778,
+    "TextENGNew": "...Satoshi-kun intended to come back, so I would definitely see him again...!",
+    "significantChanges": true,
+    "changeReason": "Character name 'Satoshi' present in new translation but absent in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 439,
+    "MessageID": 67779,
+    "TextENGNew": "\"I believe they arranged a safe house or a contact for him somewhere far away.@k@vS06/11/150700253. Satoshi-kun must have headed there.\"",
+    "significantChanges": true,
+    "changeReason": "Character name 'Sonozaki' present in old translation but absent in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 440,
+    "MessageID": 67780,
+    "TextENGNew": "Then... he is safe.@k@vS06/06/150601131. ...He is coming back someday, right...?",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 67781,
+    "TextENGNew": "Ooishi stretched and looked up at the ceiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 67782,
+    "TextENGNew": "He did not answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 67783,
+    "TextENGNew": "On June 24th, Showa 57, Houjou Satoshi disappeared.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ: old has ['1982'], new has ['57'].",
+    "changeScore": 2
+  },
+  {
+    "index": 444,
+    "MessageID": 67784,
+    "TextENGNew": "As a prime suspect in the bludgeoning murder that occurred on the 20th of that month, police treated his disappearance as flight and began searching for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 67785,
+    "TextENGNew": "Initially, there was a report that a boy believed to be him had boarded a Tokyo-bound bullet train at Nagoya Station, but its veracity remains unknown.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 67786,
+    "TextENGNew": "His trail went cold after that.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 67787,
+    "TextENGNew": "In truth, not only his whereabouts, but even whether he is alive or dead remains unknown.",
+    "significantChanges": false
+  }
+]

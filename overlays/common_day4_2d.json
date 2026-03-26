@@ -1,0 +1,218 @@
+[
+  {
+    "index": 1,
+    "MessageID": 20300,
+    "TextENGNew": "The moment club activities wrapped up, Rena was gone—bolted straight home.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 20301,
+    "TextENGNew": "Apparently she'd spotted something irresistibly cute at her usual treasure-hunting spot.",
+    "significantChanges": true,
+    "changeReason": "Old translation uses the pronoun 'he' when referring to Rena (a female character); new translation correctly uses 'her.'",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 20302,
+    "TextENGNew": "So for once it was just Mion and me making the walk home together.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 20303,
+    "TextENGNew": "She pouted the whole way, but she was dutifully carrying my bag all the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 20304,
+    "TextENGNew": "\"That spot she's always talking about... it's a garbage heap on the other side of those woods over there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 20305,
+    "TextENGNew": "She said it with a resigned shrug. Fair enough—it wasn't exactly the kind of place a girl her age should be getting starry-eyed over.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 20306,
+    "TextENGNew": "\"But seriously, what kind of treasure are you going to find in an illegal dumping site? I just hope she doesn't hurt herself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 20307,
+    "TextENGNew": "\"Ahahahaha! Relax, she'll be fine—it's not like it's her first time. Besides, that used to be the dam construction site, so there's all sorts of stuff there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 20308,
+    "TextENGNew": "\"All... sorts of stuff...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 20309,
+    "TextENGNew": "\"Yeah, a lot happened there. Like, battles! Sit-ins, protests, that kind of thing!\"",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'this great battle' (singular/specific) and 'strikes,' but the Japanese 戦いとか means 'battles' (plural/general) and 座りこみ means 'sit-ins,' not 'strikes.'",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 20310,
+    "TextENGNew": "Calling it a battle sounded intense, but I decided to hear her out.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 20311,
+    "TextENGNew": "Mion launched into the story with wide, animated gestures.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 20312,
+    "TextENGNew": "\"So they wanted to flood Hinamizawa—sink the whole village under a reservoir... That really is something else.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 20313,
+    "TextENGNew": "\"The government people were absolutely relentless. So full of themselves! And once they realized money wasn't going to settle it, they started pulling every dirty trick in the book.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 20314,
+    "TextENGNew": "Mion spoke as if she'd witnessed the whole thing firsthand, her voice rising with indignation.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 20315,
+    "TextENGNew": "\"I'm amazed you actually won. You were up against the national government, weren't you?\"",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'federal government,' but Japan has a unitary national government, not a federal one; new translation correctly says 'national government.'",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 20316,
+    "TextENGNew": "\"The village head and the influential families filed petitions everywhere. They went to Tokyo, worked all kinds of back channels with politicians... And eventually the whole plan got shelved. A total victory for us! Ahahahahaha!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'signed petitions' omitting that they petitioned widely (方々に), and 'struck deals with legislators' where Japanese 根回し means behind-the-scenes groundwork rather than deal-making.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 20317,
+    "TextENGNew": "\"There wasn't any... violence, was there? Like assault... or, you know, murder—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 20318,
+    "TextENGNew": "\"There wasn't.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 20319,
+    "TextENGNew": "She cut me off with a clean finality.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 20320,
+    "TextENGNew": "Something about it sat wrong with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 20321,
+    "TextENGNew": "There was a period at the end of those words.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 20322,
+    "TextENGNew": "Was she telling me not to dig any further? Or was it something else—",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 20323,
+    "TextENGNew": "Maybe this wasn't the kind of thing you just casually pried into.",
+    "significantChanges": true,
+    "changeReason": "Old implies Mion is hiding the truth, but the Japanese suggests Keiichi reflecting that this wasn't something to casually dig into--a shift from suspicion of Mion to self-awareness about prying.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 20324,
+    "TextENGNew": "My restless curiosity drooped inside my chest, not knowing where to go.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 20325,
+    "TextENGNew": "\"What's that look for? You look like you still want to be teased.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 20326,
+    "TextENGNew": "\"N-No I don't!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 20327,
+    "TextENGNew": "\"Here you go. This old man has personally delivered Kei-chan's bag all the way to his house! See you tomorrow. Bye-bye!\"",
+    "significantChanges": true,
+    "changeReason": "Old translation omits Mion's characteristic self-reference as おじさん (old man/uncle), a defining character trait where she jokingly refers to herself in masculine terms.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 20328,
+    "TextENGNew": "And with that, she went skipping off happily.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 20329,
+    "TextENGNew": "Tch... maybe I went a bit too easy on her. But she's a girl, so... whatever, I guess.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 20330,
+    "TextENGNew": "\"Hm? ........Wait, WHAT?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 20331,
+    "TextENGNew": "I happened to glance at my hand. Pitch black. What—WHAT?! The handle was completely smeared with ink! W-When did she even DO that?!",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 20332,
+    "TextENGNew": "She got me! That little—!",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 20333,
+    "TextENGNew": "I spun around and there she was: pulling down her eyelid and sticking out her tongue. Classic Mion—even when she's losing, she never loses.",
+    "significantChanges": false
+  }
+]

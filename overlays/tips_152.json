@@ -1,0 +1,627 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Mother and Daughter",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 16885,
+    "TextENGNew": "...The instant I laid eyes on it, a cold shiver ran through my entire body.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 16886,
+    "TextENGNew": "Goosebumps rose all across my skin, and a cold sweat traced a slow line down my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 16887,
+    "TextENGNew": "\"...Wh... what is... this...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 16888,
+    "TextENGNew": "My own home, transformed beyond recognition into such a wretched sight — I nearly let my shopping basket slip from my hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 16889,
+    "TextENGNew": "...Green bamboo poles, each one planted individually on either side of the gate, their color luridly vivid.",
+    "significantChanges": true,
+    "changeReason": "Old translates 青竹 (green bamboo) as 'colorful candles' -- entirely different objects.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 16890,
+    "TextENGNew": "Between them hung a thick shimenawa rope, from which many shide paper streamers dangled and swayed.",
+    "significantChanges": true,
+    "changeReason": "JPN specifies 'shimenawa rope' (注連縄) and 'shide paper streamers' (紙垂); original translates as 'Shinto straw festoon' and 'zig-zagging paper streamers,' which while not wrong are less precise terms. New preserves the Japanese terminology.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 16891,
+    "TextENGNew": "And it wasn't only the gate — the same decorations ran along the garden fence, circling the house entirely, strung above the front door and over every window...",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 16892,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 16893,
+    "TextENGNew": "A gust of wind swept past me just then. The white shide hanging from the shimenawa stirred and rustled with an unsettling sound.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 16894,
+    "TextENGNew": "Rustle... rustle... rustle...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 16895,
+    "TextENGNew": "And the rustling wasn't only from the shide. Looking up at the garden trees, I saw large sheets of white paper cut into human shapes, each one life-sized.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 16896,
+    "TextENGNew": "Rustle... rustle... rustle... rustle... rustle... rustle...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 16897,
+    "TextENGNew": "...Together they conjured an atmosphere of dread unlike anything I had ever felt.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'unlike anything I had ever felt' which intensifies beyond original's simpler 'incredibly creepy aura,' though both convey eeriness. JPN says よりいっそう不気味 (even more eerie) which the new captures better.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 16898,
+    "TextENGNew": "\"......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 16899,
+    "TextENGNew": "Looking more closely at the paper figures, I could make out characters written on them.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 16900,
+    "TextENGNew": "\"Touji.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 16901,
+    "TextENGNew": "\"Haruko.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 16902,
+    "TextENGNew": "\"Aki.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 16903,
+    "TextENGNew": "\"Natsumi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 16904,
+    "TextENGNew": "There was no mistaking it. Those were the names of my family members. As if these paper figures were meant to stand in for each of us...",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 16905,
+    "TextENGNew": "\"Who... did this...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 16906,
+    "TextENGNew": "A scorched smell made me grimace. Looking down, I saw a stack of firewood piled just inside the gate, burning vigorously.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 16907,
+    "TextENGNew": "\"F-fire...?! This is terrible!\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops the @k and voice tags from the middle of the line, collapsing the two-part dialogue into one. Original preserves the game formatting with the pause tag.",
+    "changeScore": 1
+  },
+  {
+    "index": 24,
+    "MessageID": 16908,
+    "TextENGNew": "Before I could think, I was kicking the stacked firewood apart and stamping it out. The fire was quickly extinguished, but my favorite new shoes were blackened with soot.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 16909,
+    "TextENGNew": "\"Wh... what is going on here? — Huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 16910,
+    "TextENGNew": "The wrongness of it all made me look up instinctively — and I was shocked all over again.",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'instinctively looked up to drag my eyes away from the bizarre desecration' to 'The wrongness of it all made me look up instinctively'; original adds 'desecration' which is not in JPN and frames the looking up differently.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 16911,
+    "TextENGNew": "The outer walls, which should have been white, were now completely black...",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 16912,
+    "TextENGNew": "But it wasn't soot that had blackened them!",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 16913,
+    "TextENGNew": "What covered every inch of those walls in dense black ink was — brushstrokes, like the words of some terrible curse...!!",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'brushstrokes, like the words of some terrible curse' matching JPN 呪詛の文言のような筆文字; original just says 'looked like a curse' without the brushstroke/calligraphy detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 16914,
+    "TextENGNew": "\"...Upon this sacred altar... we offer sacred wine, brewed through the ages... we humbly beseech thee... hear our trembling prayers... grant us peace, grant us repose... great god Oyashiro... in your towering, boundless, magnificent... — huh?!\"",
+    "significantChanges": true,
+    "changeReason": "The prayer text is substantially retranslated: 'Here on god's earth...we've brewed your sacred wine for generations...we pledge ourselves to you' vs 'Upon this sacred altar...we offer sacred wine, brewed through the ages...we humbly beseech thee.' Multiple different nouns and framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 16915,
+    "TextENGNew": "I felt people staring and turned around. Familiar faces — Kono-san's wife from three houses down, and her friend Shiraishi-san.",
+    "significantChanges": true,
+    "changeReason": "JPN identifies them as 'Kono-san's wife from three houses down, and her friend Shiraishi-san' (河野さんの奥さんと、その友達の白石さん); new translation restructures but preserves these. Original uses 'The wife of Kono-san' — minor but the overall restructuring changes flow.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 16916,
+    "TextENGNew": "The two of them were staring at my house with bewildered expressions, whispering to each other.",
+    "significantChanges": true,
+    "changeReason": "JPN says 怪訝な目 (bewildered/suspicious eyes); original says 'dumbfoundedly' which conveys shock rather than suspicion. New translation's 'bewildered expressions' is closer to JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 16917,
+    "TextENGNew": "\"...I wonder what's the matter with the Kimiyoshi household...\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'Kimiyoshi household' (公由さんのお宅) referring to the family; original says 'Kimiyoshi-san's house' which is the same. Actually both are close. New uses 'household' vs 'house' — minimal.",
+    "changeScore": 1
+  },
+  {
+    "index": 34,
+    "MessageID": 16918,
+    "TextENGNew": "\"You know, there's a grandmother living there, isn't there? A peculiar old woman — even when you greet her on the street she just keeps her eyes down and mutters to herself...\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures the dialogue more naturally and adds 'A peculiar old woman — even when you greet her on the street, she just looks down and mutters'; this restructuring changes how the information flows but preserves the content.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 16919,
+    "TextENGNew": "\"Apparently she's taken to some strange rituals... I do feel rather sorry for that daughter of hers...\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'taken to some strange rituals' (変なおまじないにとりつかれている) and feels sorry for 'that daughter' (あの奥さん); original says 'strange charms' and 'that lady/wife.' New uses 'daughter' (referring to Natsumi's mother from grandmother's perspective) which may be more accurate to context.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 16920,
+    "TextENGNew": "\"......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 16921,
+    "TextENGNew": "I turned away and hurried inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 16922,
+    "TextENGNew": "The nerve of them saying they \"feel sorry\"...! Their faces were written all over with nothing but nosiness and contempt!",
+    "significantChanges": true,
+    "changeReason": "JPN says faces were distorted with 好奇心と優越感 (curiosity and superiority); original says 'befuddlement and scorn.' New translation says 'nosiness and contempt.' The specific emotions differ between all three versions.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 16923,
+    "TextENGNew": "I forced down the urge to spit with disgust and kicked off my ruined shoes.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'forced down the urge to spit' (唾棄したい思い) from JPN and describes shoes as 'ruined'; original's 'fought to hold back my disdain' is similar but misses the physical urge to spit.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 16924,
+    "TextENGNew": "...The house inside was strangely, utterly silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 16925,
+    "TextENGNew": "\"...Mother?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 16926,
+    "TextENGNew": "I called out from the entryway. At this hour, Mother should have been awake.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 16927,
+    "TextENGNew": "...Most families in this neighborhood are young, and there are very few elderly people. Mother had not been able to find anyone her own age to befriend, and had gradually stopped going out the way she once did.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'Most families in this neighborhood are young' and 'had not been able to find friends her own age' matching JPN; original says 'relatively few elderly people' and 'had trouble finding any friends' (not specifying same-age).",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 16928,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 16929,
+    "TextENGNew": "I still feel guilty about it, even now. By dragging my reluctant mother away from Okinomiya, I ended up making her even lonelier.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 16930,
+    "TextENGNew": "But leaving her all alone in that town would have been far crueler, wouldn't it? That was why I insisted to my husband, even when it was an imposition, that Mother should live with us...",
+    "significantChanges": true,
+    "changeReason": "JPN says 'far crueler' (よっぽど親不孝); new translation says 'far crueler' vs original's 'far more disrespectful.' Also new adds the conditional question format matching JPN's rhetorical style.",
+    "changeScore": 2
+  },
+  {
+    "index": 47,
+    "MessageID": 16931,
+    "TextENGNew": "\"Mother... are you home? Mother...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 16932,
+    "TextENGNew": "I stepped inside and walked down the hallway, peering into the rooms.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 16933,
+    "TextENGNew": "...Not in the living room. That means... the back room with the household shrine.",
+    "significantChanges": true,
+    "changeReason": "JPN asks about the room with the 神棚 (household shrine) specifically; new translation says 'the back room with the household shrine' vs original's 'back room with the shrine' — 'household shrine' is more precise for 神棚.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 16934,
+    "TextENGNew": "\"...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 16935,
+    "TextENGNew": "Just then, a faint voice reached me through the narrow gap in the sliding door.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 16936,
+    "TextENGNew": "\"...Upon this sacred altar... we offer sacred wine, brewed through the ages... we humbly beseech thee... hear our trembling prayers... grant us peace, grant us repose... hear this... great god Oyashiro... in your towering, boundless, magnificent...\"",
+    "significantChanges": true,
+    "changeReason": "Prayer text retranslated with same significance as entry 16914.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 16937,
+    "TextENGNew": "\"Mother...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 16938,
+    "TextENGNew": "Peering inside quietly, I found Mother facing the household shrine with single-minded devotion, offering prayers I could not understand.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'with single-minded devotion' (一心不乱に) from JPN; original's 'devotedly' captures some of this but less precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 16939,
+    "TextENGNew": "Monotone, devoid of inflection, unsettlingly rhythmic. ...Like the chanting of sutras.",
+    "significantChanges": true,
+    "changeReason": "JPN describes the chanting as 'monotone, devoid of inflection, unsettlingly rhythmic' (抑揚のない、気味が悪いほどの規則的な旋律); new translation matches this more precisely than original's 'consistent rhythm and lack of inflection sounded really creepy.'",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 16940,
+    "TextENGNew": "\"...Upon this sacred altar... we celebrate... we pledge... and offer this sacrifice...... hear our trembling prayers... great god Oyashiro... in your towering, boundless, magnificent... great god Oyashiro...\"",
+    "significantChanges": true,
+    "changeReason": "Prayer text retranslated, same significance as entries 16914 and 16936.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 16941,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 16942,
+    "TextENGNew": "Looking at that hunched, shrunken back... a wave of revulsion rose inside me.",
+    "significantChanges": true,
+    "changeReason": "JPN says 嫌悪感がこみ上げてくる (revulsion welling up); original says 'transformed my concern into revulsion' which adds a transformation from concern not in JPN. New translation's 'a wave of revulsion rose inside me' is closer.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 16943,
+    "TextENGNew": "A misshapen body draped in wrinkles and white hair.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'wrinkles and white hair' (皺と白髪); original says 'wrinkles and gray hair.' White vs gray hair is a specific visual difference.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 16944,
+    "TextENGNew": "Could this person really be... my own mother...?",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 16945,
+    "TextENGNew": "Am I really the daughter of something so ugly, so wretched and pathetic...?",
+    "significantChanges": true,
+    "changeReason": "JPN asks whether speaker was born from such a person (自分は生まれてきたというのか); new translation says 'Am I really the daughter of something so ugly' explicitly adding 'daughter.' Original says 'Was I born from such a hideous... old woman' which is equivalent. But new uses 'something' (物化) vs old's 'such a... old woman' — dehumanizing shift.",
+    "changeScore": 2
+  },
+  {
+    "index": 62,
+    "MessageID": 16946,
+    "TextENGNew": "\"......Mother...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 16947,
+    "TextENGNew": "\"...Upon this sacred altar... we celebrate... we pledge... and offer this sacrifice...... hear our trembling prayers... great god Oyashiro... in your towering, boundless, magnificent... great god Oyashiro...\"",
+    "significantChanges": true,
+    "changeReason": "Prayer text retranslated consistently.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 16948,
+    "TextENGNew": "\"..........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 16949,
+    "TextENGNew": "A shudder ran through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 16950,
+    "TextENGNew": "A sensation — hot, or perhaps cold — coursed through every inch of me and seized my heart in its grip.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 16951,
+    "TextENGNew": "...Why won't she turn around...?",
+    "significantChanges": true,
+    "changeReason": "JPN asks 'why won't she turn around' (振り返らないの); original says 'look back.' 'Turn around' (physical action) is more specific than 'look back' (could be just eyes).",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 16952,
+    "TextENGNew": "I went to the trouble of calling out to her.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'I went to the trouble of calling out to her' (せっかく声をかけたのに) expressing futile effort; original's 'After all that effort I put into calling out to her' is close but slightly different in tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 16953,
+    "TextENGNew": "She should know I'm right here.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 16954,
+    "TextENGNew": "......Ah, that's right. Of course. That's how it is.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 16955,
+    "TextENGNew": "Whenever she's in a foul mood, she always ignores me like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 16956,
+    "TextENGNew": "No matter how I call out to her, try to talk to her, or pour myself into apologizing — she treats me as if I'm a stone by the roadside, completely ignoring me.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 16957,
+    "TextENGNew": "\"......Hey... Mo... ther...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 16958,
+    "TextENGNew": "\"...Upon this sacred altar... we celebrate... we pledge... and offer this sacrifice...... hear our trembling prayers... great god Oyashiro... in your towering, boundless, magnificent...\"",
+    "significantChanges": true,
+    "changeReason": "Prayer text retranslated consistently.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 16959,
+    "TextENGNew": "I apologized for what happened, didn't I...",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 16960,
+    "TextENGNew": "I put it off because Natsumi was there, but I did apologize properly — before bed and again the next morning — for going too far... didn't I?",
+    "significantChanges": true,
+    "changeReason": "JPN says she apologized 'before bed and again the next morning' (寝る前にも、次の日の朝にも) and specifies 'for going too far' (言いすぎた); original says 'I may have put it off a little' and 'I did apologize' — the new more precisely captures the specific timing and reason.",
+    "changeScore": 2
+  },
+  {
+    "index": 77,
+    "MessageID": 16961,
+    "TextENGNew": "But... what about you, Mother?",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 16962,
+    "TextENGNew": "You upset me... you humiliated me in front of my husband and Natsumi... and now you're just going to keep ignoring me until you feel better about it?",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'in front of my husband and Natsumi' (あの人や、夏美の前で) where original only says 'in front of Natsumi,' omitting the husband.",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 16963,
+    "TextENGNew": "And on top of that — putting up those grotesque decorations all around our house without a word to any of us......!",
+    "significantChanges": true,
+    "changeReason": "JPN says '奇ッ怪な飾り付け' (grotesque/bizarre decorations); original says 'bizarre decorations' while new says 'grotesque decorations' and adds 'without a word to any of us' — both capture the unauthorized nature but the new is more emphatic.",
+    "changeScore": 2
+  },
+  {
+    "index": 80,
+    "MessageID": 16964,
+    "TextENGNew": "\"..........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 16965,
+    "TextENGNew": "Do you even understand?",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 16966,
+    "TextENGNew": "It's me who has to clean all of that up.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 16967,
+    "TextENGNew": "It's me who has to go door to door apologizing to the neighbors.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'go door to door apologizing to the neighbors' (ご近所に頭を下げて回る — literally bowing and going around); original says 'apologize to the neighbors for disturbing the peace.' New omits 'for disturbing the peace' but adds 'door to door' matching 回る.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 16968,
+    "TextENGNew": "It's ME who has to clean up your mess before Touji-san or Natsumi find out and start worrying!!",
+    "significantChanges": true,
+    "changeReason": "JPN says 'clean up your mess before Touji-san or Natsumi find out and start worrying' (冬司さんや夏美に余計な心配をさせる前に); original says 'cover for you to keep... from getting too worried.' 'Clean up your mess' vs 'cover for you' conveys different actions.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 16969,
+    "TextENGNew": "\"...Upon this sacred altar... we celebrate... we pledge... and offer this sacrifice...... hear our trembling prayers... great god Oyashiro... in your towering, boundless, magnificent...\"",
+    "significantChanges": true,
+    "changeReason": "Prayer text retranslated consistently.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 16970,
+    "TextENGNew": "\"......!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 16971,
+    "TextENGNew": "Be quiet. Quiet, quiet, QUIET...!!",
+    "significantChanges": true,
+    "changeReason": "JPN says 'うるさいうるさいうるさい' which could be either 'shut up' or 'be quiet'; original uses 'shut up' while new uses 'be quiet/QUIET.' Both valid, but the escalation to capitalized QUIET vs the repeated shut up conveys different emotional registers.",
+    "changeScore": 2
+  },
+  {
+    "index": 88,
+    "MessageID": 16972,
+    "TextENGNew": "That's enough. Stop that disgusting chanting and think, for once, about the trouble you cause everyone around you!",
+    "significantChanges": true,
+    "changeReason": "JPN says '呪詛じみた詠唱' (curse-like chanting); original says 'accursed spells' while new says 'disgusting chanting.' 'Spells' vs 'chanting' are different things. Also 'think about how much trouble you're causing all of us' vs 'think, for once, about the trouble you cause everyone' — 'for once' adds accusation.",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 16973,
+    "TextENGNew": "And if you still plan to ignore us, if you still refuse to be quiet — then I will—!!",
+    "significantChanges": true,
+    "changeReason": "JPN says 'if you still refuse to be quiet — then I will—!!' (静かにするのを拒むというのなら); original says 'insist on causing a ruckus even after all that' which is less threatening. New translation's 'then I will—!!' with the trailing implication is closer to JPN's threatening tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 90,
+    "MessageID": 16974,
+    "TextENGNew": "\"..........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 16975,
+    "TextENGNew": "I'll simply choose a simpler solution.",
+    "significantChanges": false
+  }
+]

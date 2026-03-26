@@ -1,0 +1,652 @@
+[
+  {
+    "index": 1,
+    "MessageID": 125114,
+    "TextENGNew": "The troubled look on Shion's face as we parted ways.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 125115,
+    "TextENGNew": "I couldn't get it out of my head. The moment I got home I called Mion, gave her a brief account of what I'd told Shion that afternoon, and begged her to keep Shion from doing anything rash.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 125116,
+    "TextENGNew": "...Naturally enough, Mion was confused at first by the sudden call—but she knew all too well what Satoko had gone through last year, and understood the situation quickly.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 125117,
+    "TextENGNew": "And she promised to send someone immediately to keep watch on Shion's movements.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies Mion would 'send someone' to watch Shion (matching JPN 人をやって), while original implies Mion herself would keep an eye on Shion.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 125118,
+    "TextENGNew": "Good. ...That should hold for now. The instant I thought that and was about to head upstairs, the phone rang. ...It was Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 125119,
+    "TextENGNew": "—Shion had apparently vanished...!",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 125120,
+    "TextENGNew": "The strain in Mion's voice told me everything. I had let the worst come to pass...",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 125121,
+    "TextENGNew": "...Several days later.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 125122,
+    "TextENGNew": "The bodies of Rina Mamiya and Teppei Houjou were discovered in the village drainage ditch. As Rika-chan and I stood at a distance, staring at the scene in a daze, the one who walked calmly toward us and spoke in the same easy tone as always was... Shion.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'stood at a distance' (from JPN 遠目に) and 'drainage ditch' (from ドブ溜め) vs original's 'gutter', providing more spatial specificity.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 125123,
+    "TextENGNew": "\"Dealing with those two was the quickest solution, wasn't it?\"",
+    "significantChanges": true,
+    "changeReason": "New translation uses the euphemistic 'dealing with' (matching JPN 始末する) rather than the explicit 'killing,' changing the tone from blunt confession to coded language.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 125124,
+    "TextENGNew": "She said it with a fearless grin—and her eyes... burned with an eerie, hawk-like amber.",
+    "significantChanges": true,
+    "changeReason": "New translation corrects the eye color from 'dark red' to 'hawk-like amber,' accurately translating 鳶色 (tobi-iro, the color of a kite/hawk).",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 125125,
+    "TextENGNew": "And yet... things did not go as Shion had planned.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 125126,
+    "TextENGNew": "Detective Ooishi, who had long been investigating the chain of mysterious deaths in Hinamizawa with extraordinary—indeed, obsessive—zeal, grew only more deeply suspicious of the Sonozaki family in the wake of these new deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 125127,
+    "TextENGNew": "And Oryou, the head of the Sonozaki family, recognizing the gravity of the situation... made the decision to lock Shion in the family dungeon.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 125128,
+    "TextENGNew": "But Shion, who had anticipated the scheme in advance, turned the tables—and in the heat of the moment, killed Oryou herself. Then she locked Mion, the only witness, in the dungeon, and disguised herself as Mion to appear before us.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 125129,
+    "TextENGNew": "...We learned all of this from 'Mion'—or rather, from Shion in disguise—in the hidden basement chamber. As two of the very few people who knew the truth of what Shion had done, Rika-chan and I—",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 125130,
+    "TextENGNew": "—were silenced. Killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 125131,
+    "TextENGNew": "That was why.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 125132,
+    "TextENGNew": "\"...Shion, stop that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 125133,
+    "TextENGNew": "\"—What?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 125134,
+    "TextENGNew": "\"He's worthless scum. Kill him and maybe some people would cheer, but nobody would weep. ...But that doesn't mean we have to get our hands dirty because of someone like him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 125135,
+    "TextENGNew": "\"I don't want you fouling your hands for the sake of a man like that. Not for Satoko—not for yourself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 125136,
+    "TextENGNew": "\"...That's a strange accusation. What made you think I was considering anything of the sort?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 125137,
+    "TextENGNew": "\"Because I considered it myself. Just now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 125138,
+    "TextENGNew": "\"——\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 125139,
+    "TextENGNew": "Shion's eyes went wide—and then she fell silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 125140,
+    "TextENGNew": "\"No matter what words you put around it—'I did it for someone I love'—a crime is still a crime, no matter how far you carry it. So let's find a way to make Satoko happy that doesn't involve any of that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 125141,
+    "TextENGNew": "\"Don't you think that's what she'd want?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 125142,
+    "TextENGNew": "\"...Her too...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 125143,
+    "TextENGNew": "\"What?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 125144,
+    "TextENGNew": "\"Nothing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 125145,
+    "TextENGNew": "Shion shook her head and shrugged with a pained smile. Then, as though to settle herself, she tipped back her glass of ice water—which had melted into plain cold water long ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 125146,
+    "TextENGNew": "\"...Anyway, how do you plan to make it so that 'nothing happened'? Don't tell me you're going to try to reason with them?\"",
+    "significantChanges": true,
+    "changeReason": "New translation accurately renders なかったことにする as 'make it so nothing happened,' while original paraphrases as 'accomplish this without resorting to that,' shifting the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 125147,
+    "TextENGNew": "\"No—it's simple. ...Shion, and Kasai-san. I need a favor from you both.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 125148,
+    "TextENGNew": "\"? What kind of favor?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 125149,
+    "TextENGNew": "\"Please replace all the locks at the Sonozaki group's office. Today.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 125150,
+    "TextENGNew": "\"Huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 125151,
+    "TextENGNew": "Shion, Kasai-san, and Rika-chan beside me all stared at me with their mouths hanging open. ...Well. At least that reaction alone made it feel worth having the idea.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 125152,
+    "TextENGNew": "\"H-hold on a moment? If you spring something like that on us, just arranging for the contractors alone would take a few days—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 125153,
+    "TextENGNew": "\"Right, so rather than replacing the locks—replace the doors themselves. Swap them with a door from a neighboring room with a similar layout, for instance. Swapping doors is basically just carpentry, isn't it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 125154,
+    "TextENGNew": "\"Well, I suppose... half an hour, maybe...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 125155,
+    "TextENGNew": "\"For the reason—say the doors were sticking, so you swapped them around to see if that helped. Oh, and obviously—keep it secret from Rina and her associates.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 125156,
+    "TextENGNew": "\"...If you'll pardon me, Maebara-san. There is a reasonable chance they stole the entire key ring. If one key fails, wouldn't they simply try the others?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 125157,
+    "TextENGNew": "\"Heh heh heh... Kasai-san, do you know? A freshly copied key is extraordinarily hard to turn.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 125158,
+    "TextENGNew": "\"Well... that's true enough.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 125159,
+    "TextENGNew": "\"So it goes like this. When the key doesn't fit, they'll start to panic.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 125160,
+    "TextENGNew": "\"And even if they try the other keys thinking it must be a mistake—a copied key tends to catch and bind, and with their nerves stretched to breaking, their hands will be shaking, and they'll convince themselves it must be the wrong key.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 125161,
+    "TextENGNew": "\"And after all that trial and error, they'll arrive at their own conclusion. ...They'll think every single key on that ring belongs to somewhere else entirely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 125162,
+    "TextENGNew": "\"...... ...No way...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 125163,
+    "TextENGNew": "...And then, just at that moment, a memory surfaced in the back of Shion's mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 125164,
+    "TextENGNew": "Come to think of it—when she had slipped away from St. Lucia last year... that time too, struggling with a lock had made her mind go completely white...",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 125165,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 125166,
+    "TextENGNew": "\"Then they'll start blaming each other. After enough of that, they'll call it a night and retreat. After that, you call the contractor and replace the locks for real—and everything is solved! What do you say?\"",
+    "significantChanges": true,
+    "changeReason": "New translation accurately renders 責任の押し付け合い as 'blaming each other,' while original incorrectly paraphrases as 'demanding they cut their losses.'",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 125167,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 125168,
+    "TextENGNew": "\"...Wait?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 125169,
+    "TextENGNew": "All three of them were staring at me in unbroken silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 125170,
+    "TextENGNew": "...Could it be that this plan had... some fatal flaw?",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 125171,
+    "TextENGNew": "\"...Pfft...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 125172,
+    "TextENGNew": "But, unexpectedly—",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 125173,
+    "TextENGNew": "\"Hehe... hehehehe... ahahahahahaha~~~!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 125174,
+    "TextENGNew": "The silence was shattered by Rika-chan's laughter from right beside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 125175,
+    "TextENGNew": "\"Ahahaha, aahahaha~~! Kei-chan, that's brilliant! Just imagining the looks on their faces while they're bickering and fumbling in front of the door—that's hilarious~~! Right, Kasai?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 125176,
+    "TextENGNew": "\"Ha, well... this is no laughing matter, I would say...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 125177,
+    "TextENGNew": "Even Shion was doubled over, laughing helplessly. Kasai-san was hard to read behind his sunglasses... but he seemed at a loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 125178,
+    "TextENGNew": "It's not like I came up with this plan specifically to get laughs out of anyone...",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 125179,
+    "TextENGNew": "\"—Kasai. Let's go along with what he said.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 125180,
+    "TextENGNew": "\"...What? But surely—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 125181,
+    "TextENGNew": "Shion made the proposal to Kasai-san while wiping tears from the corners of her eyes. At that, Kasai-san folded his arms, his expression sobering into something careful and reluctant.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 125182,
+    "TextENGNew": "...Well, of course. From Kasai-san's point of view, planning this robbery was already an act of betrayal against the organization—a disgrace to their name. Being asked to let it slide was not something he could simply nod at and accept.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 125183,
+    "TextENGNew": "\"Oh, stop being so rigid. Doesn't it sound entertaining? I'll take responsibility for it, all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 125184,
+    "TextENGNew": "\"As for responsibility—what exactly could you take responsibility for, Shion-san... Haah. Very well. If Shion-san says so, then...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 125185,
+    "TextENGNew": "And with that sigh, Kasai-san gave his consent. ...He was probably always being dragged around by Shion's whims like this. Even so, his support right now was something I was grateful for.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 125186,
+    "TextENGNew": "\"Heh heh heh...! Kei-chan, your pranks are truly the best! I almost want to go and watch it happen in person.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 125187,
+    "TextENGNew": "\"You can go—just don't try to catch them. That would ruin everything.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 125188,
+    "TextENGNew": "Shion said \"Understood\" and raised one hand in a mock pledge. Kasai-san, looking less stern than moments ago, fished the banana from his half-melted parfait and helped himself to a bite.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 125189,
+    "TextENGNew": "\"Thank you very much. We're counting on you both.\"",
+    "significantChanges": true,
+    "changeReason": "New translation renders よろしくお願いします as 'we're counting on you both' (a direct request for help), while original uses 'I hope everything goes well' (a passive wish).",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 125190,
+    "TextENGNew": "Rika-chan bowed deeply to Shion and Kasai-san. I hurried to bow as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 125191,
+    "TextENGNew": "We turned our attention back to what was left of our parfaits.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 125192,
+    "TextENGNew": "The ice cream had mostly melted away, but the strawberries and bananas were still perfectly intact.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 125193,
+    "TextENGNew": "I stirred my long spoon through the soupy mess, fishing around for treasures buried in the pools of melted cream.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 125194,
+    "TextENGNew": "Shion, who had already finished hers long ago, immediately ordered another.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 125195,
+    "TextENGNew": "Rika-chan was savoring the whole affair at her own pace, carefully spooning the melted ice cream into her mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 125196,
+    "TextENGNew": "...After that, no one brought up Rina again.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 125197,
+    "TextENGNew": "New tenants moving into one of the buildings at Okinomiya Station... a new album from a favorite singer... we talked about nothing in particular, and it was fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 125198,
+    "TextENGNew": "Kasai-san sat quietly sipping his coffee, watching over us.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 125199,
+    "TextENGNew": "Eventually, Kasai-san insisted on picking up the tab, and we all left the shop together.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 125200,
+    "TextENGNew": "\"Shion, Kasai-san. Thank you for today.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 125201,
+    "TextENGNew": "I bowed again to the two of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 125202,
+    "TextENGNew": "More than anything, I was glad Kasai-san had come to be here today.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 125203,
+    "TextENGNew": "\"...If something had gone wrong, the losses would have fallen on our side as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 125204,
+    "TextENGNew": "\"Mii~. Thank you, both of you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 125205,
+    "TextENGNew": "Rika-chan dipped her head with a little bow, and smiled warmly.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 125206,
+    "TextENGNew": "\"Well then, we'll be—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 125207,
+    "TextENGNew": "\"—Oh, Kei-chan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 125208,
+    "TextENGNew": "Just as I was about to turn away, Shion stopped me.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 125209,
+    "TextENGNew": "\"Kei-chan. ...Since we're here, let me tell you something. About Teppei.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 125210,
+    "TextENGNew": "\"...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 125211,
+    "TextENGNew": "\"I just heard from the manager as I was leaving... He said that Teppei and his partner Rina recently found a new target. A big one.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 125212,
+    "TextENGNew": "\"...Is that a problem?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 125213,
+    "TextENGNew": "\"The target's family name... is 'Ryuugu,' apparently.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 125214,
+    "TextENGNew": "\"—!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 125215,
+    "TextENGNew": "Rika-chan caught her breath in shock before I even had a chance to react.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 125216,
+    "TextENGNew": "Ryuugu... could it be that Rina and her associates were running their marriage fraud scheme on Rena's father...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 125217,
+    "TextENGNew": "\"...And *that* had to come here, of all places...! Is God really so cruel...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 125218,
+    "TextENGNew": "Rika-chan's fists clenched tight.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 125219,
+    "TextENGNew": "Evening was already close at hand.",
+    "significantChanges": false
+  }
+]

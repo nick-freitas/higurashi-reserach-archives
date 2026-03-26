@@ -1,0 +1,85 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Hellfire",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Fire from Hell\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14197,
+    "TextENGNew": "\"Hello. Is this an ambulance call, or the fire department?\"",
+    "significantChanges": true,
+    "changeReason": "OLD says 'hospital' but JPN '救急' means ambulance/emergency medical services, not a hospital. NEW correctly renders this as 'ambulance call.'",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 14198,
+    "TextENGNew": "\"Uh, um... the fire department!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14199,
+    "TextENGNew": "\"Is this a fire, or an accident? Please take a breath and speak clearly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14200,
+    "TextENGNew": "\"I, uh, I think it's a fire... This is the Kakiuchi Service Area on the Chubu Expressway. I can see this incredible amount of fire and smoke rising from the mountain behind us.\"",
+    "significantChanges": true,
+    "changeReason": "Old blanks out location names; new provides 'Kakiuchi Service Area' and 'Chubu Expressway' matching the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 14201,
+    "TextENGNew": "\"Nobody goes out there, so I have no idea why there'd be a fire... Anyway, I thought I'd better report it...! It could turn into a forest fire!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14202,
+    "TextENGNew": "\"Understood. We'll dispatch someone to confirm the situation immediately. Could you please give me your name, a phone number where we can reach you, and the precise location of the fire?\"",
+    "significantChanges": true,
+    "changeReason": "OLD says 'I need to know exactly where you are' (requesting the caller's location), while JPN 'すぐに現場を確認しますので' and NEW say 'We'll dispatch someone to confirm the situation immediately' — a different action (dispatching responders vs. asking for the caller's whereabouts).",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 14203,
+    "TextENGNew": "\"Notice from Fire Department Command. A suspicious fire has been reported on the western mountain slope of G Block. Given the distance from the road, it may be a couple's campfire or illegally dumped refuse that has been set alight.\"",
+    "significantChanges": true,
+    "changeReason": "Old blanks out location as '_____ Mountain'; new specifies 'G Block' matching the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 14204,
+    "TextENGNew": "\"The site is deep in forested terrain. No residential structures in the area, but there is a risk of the fire spreading. Proceed to the scene immediately for confirmation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14205,
+    "TextENGNew": "\"Is this the fire station? This is the Third Fire Corps of G Block. We've just arrived at the reported location. Confirmed: one oil drum abandoned in the mountains, currently in flames. The fire is dying down; no risk of spreading.\"",
+    "significantChanges": true,
+    "changeReason": "Old blanks out unit name; new provides 'Third Fire Corps of G Block' matching the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 10,
+    "MessageID": 14206,
+    "TextENGNew": "\"...And... well... inside the drum... I think it might be a person. It looks like a human body that was burned with kerosene, or something like that. ...I think perhaps we should also contact the police...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14207,
+    "TextENGNew": "\"Wha — wha!! No, no, there's no mistake about it!! This is a person!! Eeeeaaagh...!!\"",
+    "significantChanges": false
+  }
+]

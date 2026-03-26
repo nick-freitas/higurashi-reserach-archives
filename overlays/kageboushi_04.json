@@ -1,0 +1,4126 @@
+[
+  {
+    "index": 1,
+    "MessageID": 76705,
+    "TextENGNew": "Saturday, July 2nd, Showa 58",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between old (set()) and new ({'58'}) translations.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 76706,
+    "TextENGNew": "\"...Hello, Papa? Yaaay, it's been so long~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 76707,
+    "TextENGNew": "\"Hahaha. How are you, Miyuki?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 76708,
+    "TextENGNew": "\"Yeah! I'm great! Papa, where are you right now?\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'Yeah, I'm fine. Where are you, Papa?'; new: 'Yeah! I'm great! Papa, where are you right now?' JPN 元気だよ = energetic/great, and 今 (right now) is in JPN but missing from old. Child's enthusiasm better captured in new.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 76709,
+    "TextENGNew": "\"Ah, ...well, Papa is still far away for work right now. Miyuki, are you being a good girl at Grandpa's house?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 76710,
+    "TextENGNew": "\"Yeah! Grandpa and Grandma play with me all the time! Oh, and the other day when we went shopping, they bought me a dolly! I'll show it to you too when you come home, Papa!\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'Grandma and Grandpa play with me a lot!'; new: 'Grandpa and Grandma play with me all the time!' JPN order is おじいちゃんとおばあちゃん (Grandpa and Grandma), reversed in old. Also old omits the doll shopping detail that continues in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 76711,
+    "TextENGNew": "\"Ah, yeah. ...I'm looking forward to it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 76712,
+    "TextENGNew": "...Partly as a matter of discipline, I had made a point of not buying Miyuki too many toys.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 76713,
+    "TextENGNew": "However, my father-in-law and mother-in-law, perhaps worried that she was lonely all by herself, always gave in and bought her whatever she asked for.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 76714,
+    "TextENGNew": "Naturally, this had nearly led to arguments on more than one occasion, but...whenever they brought up my own attitude toward raising my child, I found myself unable to say anything in return.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 76715,
+    "TextENGNew": "\"When are you coming home? Tomorrow?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 76716,
+    "TextENGNew": "\"Tomorrow's not going to work. ...But I think I'll be back soon.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 76717,
+    "TextENGNew": "\"Really? When?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 76718,
+    "TextENGNew": "\"Uh, well...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 76719,
+    "TextENGNew": "I immediately regretted having carelessly said that just to put her at ease.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 76720,
+    "TextENGNew": "There was no way to know the exact timeframe, and there was no guarantee I could keep such a vague promise...",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 76721,
+    "TextENGNew": "But,",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 76722,
+    "TextENGNew": "\"...Okay, I understand. You're a police officer, Papa, so you're working to help people who are in trouble!\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'Papa is a policeman, so people need his help!'; new: 'You're a police officer, Papa, so you're working to help people who are in trouble!' JPN uses 困った人のために働いてる (working for people in trouble), which new captures more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 76723,
+    "TextENGNew": "\"Miyuki...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 76724,
+    "TextENGNew": "\"Miyuki is fine, okay? I'll be a good girl and wait until you come home!\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds reference to miyuki, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 76725,
+    "TextENGNew": "\"......I'm sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 76726,
+    "TextENGNew": "My daughter's voice was cheerful, yet tinged with a loneliness she was trying to hide behind a brave front. Her kindness made me happy, and yet...it only made things harder.",
+    "significantChanges": true,
+    "changeReason": "Old: 'She sounded cheerful... but I detected a hint of loneliness'; new: 'My daughter's voice was cheerful, yet tinged with a loneliness she was trying to hide behind a brave front.' JPN 強がる (putting on a brave face) is captured by new but missing from old.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 76727,
+    "TextENGNew": "\"Well then, Miyuki. I'll call again soon.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 76728,
+    "TextENGNew": "\"Okay! Bye-bye, Papa~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 76729,
+    "TextENGNew": "Her spirited voice was followed by the sharp click of the phone hanging up.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Her cheerful voice echoed as she slammed the phone down'; new: 'Her spirited voice was followed by the sharp click of the phone hanging up.' JPN 電話が切れる音が勢いよく響く = 'the sound of the phone disconnecting rang out energetically', not 'echoed' and not 'slammed'.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 76730,
+    "TextENGNew": "Most likely she'd handled it roughly, with the carelessness typical of a child, but... that shrill sound felt almost like a rebuke for my failings as a father.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 76731,
+    "TextENGNew": "\"...I'm sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 76732,
+    "TextENGNew": "I murmured softly as I set the receiver back in its cradle.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 76733,
+    "TextENGNew": "We were a single-father household. I should have been devoting more of my time to my daughter...",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 76734,
+    "TextENGNew": "Before being a police officer, I was truly hopeless as a parent.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 76735,
+    "TextENGNew": "And worse still... I had been seeking comfort from my own dejection in the one person I should have been comforting most...",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 76736,
+    "TextENGNew": "\"...Hm?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 76737,
+    "TextENGNew": "\"Ah--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 76738,
+    "TextENGNew": "I suddenly sensed someone at the entrance to the break room and turned to look.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 76739,
+    "TextENGNew": "...Standing there with an awkward expression on her face was Inspector Minai.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 76740,
+    "TextENGNew": "\"I-I'm sorry. I didn't mean to eavesdrop, but...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 76741,
+    "TextENGNew": "\"Oh, no... Ha ha ha, you've caught me at a rather pathetic moment.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 76742,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 76743,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 76744,
+    "TextENGNew": "Inspector Minai was holding a bundle of documents. She had probably come to fetch me.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 76745,
+    "TextENGNew": "\"Sorry about that. ...Have you found something?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 76746,
+    "TextENGNew": "\"Huh? Oh, yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 76747,
+    "TextENGNew": "\"Ooishi-san is in Conference Room Three as well, so we can go over the details there.\"",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between old ({'3'}) and new (set()) translations.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 76748,
+    "TextENGNew": "\"Understood.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 76749,
+    "TextENGNew": "Inspector Minai and I walked side by side toward the Criminal Investigation Division's office.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 76750,
+    "TextENGNew": "...For a while, we walked in silence through the uncomfortable air between us, until--",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 76751,
+    "TextENGNew": "\"...Um.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 76752,
+    "TextENGNew": "\"Yes?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 76753,
+    "TextENGNew": "I turned to face Inspector Minai as she spoke up.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 76754,
+    "TextENGNew": "\"That phone call just now... was that your child?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 76755,
+    "TextENGNew": "\"Yes, she's turned five now. ...Right now she's staying with my wife's family.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 76756,
+    "TextENGNew": "\"Her family...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 76757,
+    "TextENGNew": "I told Inspector Minai about losing my wife, taking care to keep the conversation from becoming too heavy.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 76758,
+    "TextENGNew": "At first, she drew a sharp breath in surprise, but—",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 76759,
+    "TextENGNew": "\"...That must be hard.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 76760,
+    "TextENGNew": "She murmured it quietly, just a few words...but they carried a sincere warmth. Then—",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 76761,
+    "TextENGNew": "\"My father was a police officer too. ...He passed away twelve years ago now.\"",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between old ({'12'}) and new (set()) translations.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 76762,
+    "TextENGNew": "\"...Is that so.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 76763,
+    "TextENGNew": "I'd already heard this from Ooishi-san, but I feigned ignorance and offered a polite response.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 76764,
+    "TextENGNew": "Just like her earlier reply...her words carried a weight of genuine feeling that only someone who'd lived through it could understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 76765,
+    "TextENGNew": "\"He hardly ever had days off, so when I was little, I'd complain about it sometimes. Other children spent Sundays and holidays with their fathers, but in our household, it was quite the opposite.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 76766,
+    "TextENGNew": "\"...That hits close to home. Just recently I cancelled a trip and really disappointed her. I'm sure when I'm not around, she has plenty of complaints and grievances to share.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 76767,
+    "TextENGNew": "\"...That may be true. But—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 76768,
+    "TextENGNew": "Inspector Minai stepped around in front of me and looked up. Her eyes wandered briefly, as though choosing her words carefully, before she fixed me with a steady gaze and spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 76769,
+    "TextENGNew": "\"...To this day, my father is still my pride and joy. The reason I chose this line of work, the reason I've kept at it all this time—it's because of him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 76770,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 76771,
+    "TextENGNew": "\"So someday... I believe your child will understand too, Superintendent Akasaka.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 76772,
+    "TextENGNew": "\"I know it's presumptuous of me to say this, never having been a parent myself, but time spent together isn't the only thing a child remembers about their parent. ...I understand that now. So please, take heart.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 76773,
+    "TextENGNew": "\"Inspector Minai...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 76774,
+    "TextENGNew": "\"...... I'll be heading in first. Well then.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 76775,
+    "TextENGNew": "Inspector Minai spun on her heel and strode briskly away. Watching her retreating figure, I realized the gloom that had been weighing on me had lifted, if only a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 76776,
+    "TextENGNew": "\"...Thank you, Tomoe-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 76777,
+    "TextENGNew": "When I entered the conference room, Inspector Minai and Ooishi-san were already there, along with two other detectives.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 76778,
+    "TextENGNew": "Their faces looked familiar...I quickly recognized them as the detectives under Inspector Minai who'd been running around the crime scene the other day.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 76779,
+    "TextENGNew": "\"Sorry to keep you waiting.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 76780,
+    "TextENGNew": "\"Oh no, I wasn't waiting at all~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 76781,
+    "TextENGNew": "Ooishi-san laughed as he stepped away from the window and stubbed out his cigarette.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 76782,
+    "TextENGNew": "The ashtray was relatively clean, with little ash in it. ...Apparently, whether by directive from the top or not, smokers weren't exactly welcome here.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 76783,
+    "TextENGNew": "\"Akasaka-san, first let me make some introductions. This is Sergeant Fujita and Sergeant Hanada. Starting today, they'll be joining us in earnest on this case.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 76784,
+    "TextENGNew": "At Minai-keibu's prompting, the two young detectives who had been preparing documents each gave a polite bow.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 76785,
+    "TextENGNew": "Their expressions were slightly tense, but perhaps thanks to a word from the senior officers, there was no awkward sense of distance.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 76786,
+    "TextENGNew": "\"Neither of them has the best conduct record, I'll admit, but I can vouch for their discretion and their toughness. I think they're ideal for the kind of legwork this case demands.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 76787,
+    "TextENGNew": "\"Huh? Is our conduct really that bad...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 76788,
+    "TextENGNew": "\"...Um, Minai-san. Setting aside the discretion part, is 'tough' really meant as a compliment?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 76789,
+    "TextENGNew": "\"Of course it is. After all, you two are my right leg and left leg~♪\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 76790,
+    "TextENGNew": "Minai-keibu said this with a carefree laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 76791,
+    "TextENGNew": "...That easy, familiar tone she never used when speaking with us. Hearing it gave me a glimpse of the trust she placed in her two subordinates, and the bond the three of them shared.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 76792,
+    "TextENGNew": "\"...Legs, though? Not arms?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 76793,
+    "TextENGNew": "\"So basically we're just her chauffeurs...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 76794,
+    "TextENGNew": "\"What? You have a problem with that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 76795,
+    "TextENGNew": "\"N-No, not at all...\"",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 76796,
+    "TextENGNew": "The two of them wilted visibly. After encouraging (?) them, Minai-keibu composed her expression and turned back to the desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 76797,
+    "TextENGNew": "\"——Now then, shall we begin? Fujita-kun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 76798,
+    "TextENGNew": "\"Yes. First of all...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 76799,
+    "TextENGNew": "At Minai-keibu's prompting, Detective Fujita spread his documents across the desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 76800,
+    "TextENGNew": "The items marked with red checks were the names and addresses of former Hinamizawa residents that Ooishi-san, the keibu, and I had already investigated.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 76801,
+    "TextENGNew": "The leftmost column listed each person's age. Without exception, they were all elderly—in their seventies or older.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between old ({'70'}) and new (set()) translations.",
+    "changeScore": 2
+  },
+  {
+    "index": 98,
+    "MessageID": 76802,
+    "TextENGNew": "\"In light of last night's incident, we expanded our scope from the original five years back to fifteen years. In terms of numbers, that's roughly double... no, closer to triple.\"",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between old ({'10'}) and new (set()) translations.",
+    "changeScore": 2
+  },
+  {
+    "index": 99,
+    "MessageID": 76803,
+    "TextENGNew": "\"That's quite a lot. ...Ah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 76804,
+    "TextENGNew": "Our eyes came to a sudden halt on a spot in the list marked with a red circle.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 76805,
+    "TextENGNew": "\"Hatakeyama Kazuma and Obata Kiyoshi...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 76806,
+    "TextENGNew": "Needless to say, these were the names of the two old men who had lost their lives in last night's tragedy.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 76807,
+    "TextENGNew": "\"A complete blind spot, wasn't it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 76808,
+    "TextENGNew": "\"Yes. ...Obata Kiyoshi hadn't been acting out conspicuously compared to Hatakeyama. ...That's why we overlooked him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 76809,
+    "TextENGNew": "Everyone let out deep sighs. We were tormented by the regret of having known about the peculiarities surrounding the \"curse\" yet still failing to prevent the tragedy.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 76810,
+    "TextENGNew": "\"Even so, we've been watching for people acting strangely out of fear of the 'curse,' but it seems we need to turn our attention to other things as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 76811,
+    "TextENGNew": "\"...Other things?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 76812,
+    "TextENGNew": "\"The influence on those around them. Perhaps 'contagion' would be the better word.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 76813,
+    "TextENGNew": "Indeed... as Ooishi-san said, Hatakeyama Kazuma aside, Obata Kiyoshi hadn't been exhibiting any particularly \"unusual\" behavior.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 76814,
+    "TextENGNew": "However, given the bond of their rare friendship, the possibility that Obata had been influenced by Hatakeyama and driven to violence was extremely high.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 76815,
+    "TextENGNew": "\"Even so... if we're expanding the scope this much, the investigation is going to be quite an ordeal.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 76816,
+    "TextENGNew": "\"You're saying we canvass over 120 households with this many people? ...Even by a simple calculation, that would take more than 20 days.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 76817,
+    "TextENGNew": "Detective Hanada shrugged with a wry smile. Indeed, with numbers like these, individual effort alone couldn't make up the difference.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 76818,
+    "TextENGNew": "And the time remaining to us was only about half of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 76819,
+    "TextENGNew": "Perhaps it really was too much to ask. ——Just as I was about to murmur that to myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 76820,
+    "TextENGNew": "\"Ah——\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 76821,
+    "TextENGNew": "\"What is it, Superintendent Akasaka?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 76822,
+    "TextENGNew": "\"Inspector Minai, and Ooishi-san. It might be mere coincidence, but I've... found something strange.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 76823,
+    "TextENGNew": "\"...Something strange?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 76824,
+    "TextENGNew": "\"Take a look at this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 76825,
+    "TextENGNew": "Acting on the nagging sense of something off, I began marking the list with a red felt-tip pen. And then,",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 76826,
+    "TextENGNew": "\"This one, this one, and this one are the houses I visited... this one is Inspector Minai's, and this one is Ooishi-san's. And the houses that each had strange decorations or charms... come to these five.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 76827,
+    "TextENGNew": "\"...Ah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 76828,
+    "TextENGNew": "\"Ohh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 76829,
+    "TextENGNew": "Seeing them lined up on the list, the other two noticed it as well. Those five houses shared a curious commonality.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 76830,
+    "TextENGNew": "\"...That's right. They're all... two-generation households.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 76831,
+    "TextENGNew": "\"Hmm...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 76832,
+    "TextENGNew": "The other houses were either out at work on this weekday, or simply not answering. ...And none of them had any decorations on display.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 76833,
+    "TextENGNew": "The same was true of the elderly residents' homes. ...And come to think of it, even Obata Kiyoshi, who had committed that atrocity, had no decorations whatsoever in his own home. No ritual charms, no sacred prayers.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 76834,
+    "TextENGNew": "\"But what about Masaki-san, who caused the incident at the care center? The list does show she has a daughter and son-in-law, but they weren't living together.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 76835,
+    "TextENGNew": "\"About that, actually. ...It turns out she went home once last week.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 76836,
+    "TextENGNew": "\"And apparently, she was supposed to stay living with her family until her grandchild's summer vacation started, but she suddenly moved up her schedule and came back to the center...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 76837,
+    "TextENGNew": "\"So that means... she caused problems at home, and her family kicked her out?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 76838,
+    "TextENGNew": "\"We can't say for sure until we ask. ...But the possibility isn't zero.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 76839,
+    "TextENGNew": "I see... So the opposite pattern from the Hatakeyama household had been occurring with the Masaki family.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 76840,
+    "TextENGNew": "Which meant, as I suspected——.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 76841,
+    "TextENGNew": "\"So then... the targets suspected of having some involvement with the 'curse' are households where two generations live together?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 76842,
+    "TextENGNew": "\"Well, we can't go that far yet... But we might be able to say they're at higher risk.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 76843,
+    "TextENGNew": "\"And when you think about it that way, the only two-generation households that haven't been caught up in an incident are... the Takegami family and the Okamoto family, both living here in Monobe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 76844,
+    "TextENGNew": "\"Monobe? ...That's fairly close to here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 76845,
+    "TextENGNew": "In response to my words, Detective Hanada drew red lines under the names \"Takegami Hirotada\" and \"Okamoto Masaru.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 76846,
+    "TextENGNew": "Below each head of household on the list, five and three additional names were listed respectively.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 76847,
+    "TextENGNew": "\"Also, since suspect Obata was originally from Okinomiya, we've added families who relocated from Okinomiya to the investigation as well. ——Fujita-kun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 76848,
+    "TextENGNew": "\"Yes. Here is the list of families originally from Okinomiya, the town neighboring Hinamizawa. Among those, the ones living with grandparents would be...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 76849,
+    "TextENGNew": "Following the hypothesis I had presented, they crossed out the non-applicable entries with a red marker.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 76850,
+    "TextENGNew": "Once we narrowed the criteria, there were eight two-generation households. Fewer than I had expected.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 76851,
+    "TextENGNew": "\"That's quite few. Is this all?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 76852,
+    "TextENGNew": "\"It is. It's the times, you know. Even I live apart from my father and mother.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 76853,
+    "TextENGNew": "\"Oh? Staff housing?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 76854,
+    "TextENGNew": "\"It's cheap, after all. Since I'm a government employee, it'd be a waste not to take advantage of it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 76855,
+    "TextENGNew": "\"My place is my family home, so... well, there's no reason not to take advantage of that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 76856,
+    "TextENGNew": "\"\"Ah ha ha ha ha!!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 76857,
+    "TextENGNew": "Detectives Fujita and Haneda joined in as Ooishi-san said this with a laugh. Judging by their left hands, both men appeared to be married, but it seemed they had each set up households separate from their parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 76858,
+    "TextENGNew": "The explosive population growth of the postwar era.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 76859,
+    "TextENGNew": "As if to underscore the declaration that \"it is no longer the postwar era,\" public housing complexes were built at a staggering pace, keeping step with the surging economic growth.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 76860,
+    "TextENGNew": "As a result, people left their family homes to settle in the cities, and so-called nuclear families continued to multiply.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 76861,
+    "TextENGNew": "That same historical backdrop was plainly visible in the list of people who had moved away from Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 76862,
+    "TextENGNew": "The young left the village one after another... and among the elderly, many had departed alongside them.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 76863,
+    "TextENGNew": "And yet, perhaps because nothing could replace the comfort of one's hometown, the majority of them had eventually returned to Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 76864,
+    "TextENGNew": "The consequence was a steady decline in young couples living together with their grandparents...",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 76865,
+    "TextENGNew": "\"Well then... in that case, for now—Fujita-kun, focus on the Takegami household and the surrounding area. Haneda-kun, take the Okamoto household.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 76866,
+    "TextENGNew": "\"I'll conduct interviews at the Saeki Care and Welfare Center, then check on the current state of the Hatakeyama household.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 76867,
+    "TextENGNew": "\"And I'd like Ooishi-san and Akasaka-san to visit the households originally from Okinomiya... How would you like to handle it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 76868,
+    "TextENGNew": "\"We'll...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 76869,
+    "TextENGNew": "Even limiting ourselves to households from Okinomiya, the number was enormous. Should we start with the nearby ones, or gradually work our way in from the more distant cases...?",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 76870,
+    "TextENGNew": "Even splitting the work with Ooishi-san, where should we begin next?",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 76871,
+    "TextENGNew": "\"Hm...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 76872,
+    "TextENGNew": "Ooishi-san's eyes stopped on a particular name entry. Listed there was the name \"Kimiyoshi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 76873,
+    "TextENGNew": "...Wait. The three great families of Hinamizawa... the Furudes, the Sonozakis, and—",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 76874,
+    "TextENGNew": "\"Exactly right, Akasaka-san. ...Without a doubt, this is one of Hinamizawa's Three Families.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 76875,
+    "TextENGNew": "\"...How can you be so certain?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 76876,
+    "TextENGNew": "\"Because in Hinamizawa, only those of the bloodline are permitted to bear the name of the Three Families. Good eye, Tomoe-chan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 76877,
+    "TextENGNew": "\"Huh? No, I actually just learned that for the first time right now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 76878,
+    "TextENGNew": "\"But still, to think that such a prominent Hinamizawa family had settled among those who relocated from Okinomiya...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 76879,
+    "TextENGNew": "The Three Families of Hinamizawa had been revered for generations as clans descended from the blood of demons.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 76880,
+    "TextENGNew": "The fact that someone carries the bloodline of a powerful village family... is worth looking into.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 76881,
+    "TextENGNew": "\"Our assignment starts with this house. ...Akasaka-san, why don't you join me for this one?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 76882,
+    "TextENGNew": "\"...Yes, let's. Let's head over right away.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 76883,
+    "TextENGNew": "\"In that case, I'll start with the Saeki Care and Welfare Center. I may be able to find out something about Hatakeyama Kazuma's hospitalization.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 76884,
+    "TextENGNew": "\"Understood. I'll leave it to you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 76885,
+    "TextENGNew": "And so Ooishi-san and I decided to pay a visit to the Kimiyoshi household, which had moved from Okinomiya a year ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 76886,
+    "TextENGNew": "However, we were caught in a torrential downpour on the way, and ...it took us longer to arrive than expected.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 76887,
+    "TextENGNew": "...In any case, to make up for lost time, Ooishi-san and I hurried toward our destination.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 76888,
+    "TextENGNew": "A family from the Kimiyoshi house — one of Hinamizawa's three great families — was living in this town. That fact alone drove me forward with urgency.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 76889,
+    "TextENGNew": "Ooishi-san seemed to feel the same way. He pressed on without a word of idle chatter.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 76890,
+    "TextENGNew": "...Then we arrived at the house and stood before the gate.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 76891,
+    "TextENGNew": "I checked the nameplate.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 76892,
+    "TextENGNew": "\"Kimiyoshi Toji\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 76893,
+    "TextENGNew": "The name of this house's head of household.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 76894,
+    "TextENGNew": "According to our files, Kimiyoshi Toji, the head of the family, was not originally from Hinamizawa — he was from another prefecture.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 76895,
+    "TextENGNew": "He had met Kimiyoshi Haruko during their university years and later married into her family.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 76896,
+    "TextENGNew": "Kimiyoshi Haruko was a distant relative of Kimiyoshi Kiichiro, the village chief of Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 76897,
+    "TextENGNew": "Quite attractive... yet strong-willed and known for keeping her husband firmly under her thumb. Apparently she had participated in the student movement during her university days, and the prefectural police headquarters still had a record of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 76898,
+    "TextENGNew": "...However, from the photographs we'd obtained, she gave every impression of a perfectly ordinary housewife living happily in a peaceful home.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 76899,
+    "TextENGNew": "Then there was Haruko's mother, Aki.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 76900,
+    "TextENGNew": "Aki was originally from Hinamizawa. Her late husband, Kimiyoshi Tokujiro, had been her cousin. In other words, theirs was a marriage between branch families.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 76901,
+    "TextENGNew": "Marriages between close relatives were apparently not so uncommon in those days, but ...in that sense, Aki was the one in this household with the strongest Hinamizawa blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 76902,
+    "TextENGNew": "And then there was the Kimiyoshi family's only daughter — a high school girl named Natsumi.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 76903,
+    "TextENGNew": "In the photograph we'd obtained, she appeared to be a perfectly ordinary girl, her round, bright eyes being her most striking feature.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 76904,
+    "TextENGNew": "For a high school student these days, she had a curiously unsophisticated look about her.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 76905,
+    "TextENGNew": "\"...This is the place, correct?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 76906,
+    "TextENGNew": "\"Yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 76907,
+    "TextENGNew": "Ooishi-san and I exchanged glances, and I nodded. Then, just as we started from the gate toward the entrance... a figure sitting in front of the door caught my eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 76908,
+    "TextENGNew": "Braided hair, and...a school uniform. Her head was bowed, but it was immediately clear she was a girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 76909,
+    "TextENGNew": "\"Sheltering from the rain...perhaps?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 76910,
+    "TextENGNew": "\"Heh heh heh... On her own front doorstep?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 76911,
+    "TextENGNew": "...Come to think of it, that was a foolish question. Few people would cut through someone's courtyard just to take shelter under their front awning.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 76912,
+    "TextENGNew": "Which meant she belonged to this household. So what on earth was she doing, sitting out here under the eaves?",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 76913,
+    "TextENGNew": "\"...should've...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 76914,
+    "TextENGNew": "Just then, the girl's voice drifted over to us.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 76915,
+    "TextENGNew": "\"...I really should have gone to my part-time job after all.\n...If only the rain would let up a little...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 76916,
+    "TextENGNew": "She was muttering to herself, hard to make out clearly. The sound of heavy raindrops shattering against the ground drowned out much of what she said.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 76917,
+    "TextENGNew": "We nodded to each other in silence, then slowly approached her.",
+    "significantChanges": true,
+    "changeReason": "New translation removes reference to ooishi, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 214,
+    "MessageID": 76918,
+    "TextENGNew": "...Perhaps hearing our footsteps, the girl gasped and looked up.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 76919,
+    "TextENGNew": "\"...Excuse me.\nDo you live here?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 76920,
+    "TextENGNew": "\"Huh? ...Oh, yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 76921,
+    "TextENGNew": "The girl gave a timid, hesitant nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 76922,
+    "TextENGNew": "I didn't even need to check the photograph. I could tell this girl was the daughter of the Kimiyoshi household—Natsumi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 76923,
+    "TextENGNew": "\"How do you do.\nMy name is Mamoru Akasaka, from Okinomiya Publishing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 76924,
+    "TextENGNew": "\"Oh, ...hello.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 76925,
+    "TextENGNew": "Hearing the name Okinomiya, Natsumi-san's wariness softened ever so slightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 76926,
+    "TextENGNew": "...It had been Ooishi-san's idea not to identify ourselves as police this time.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 76927,
+    "TextENGNew": "The more peacefully someone has lived their life, the more they tend to overreact at the mention of the police.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 76928,
+    "TextENGNew": "(Even so, what was she doing out here in this downpour without even going inside...?)",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 76929,
+    "TextENGNew": "\"Is everything all right? What are you doing out here?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 76930,
+    "TextENGNew": "\"Um... I... forgot my key...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 76931,
+    "TextENGNew": "\"Your key?\"",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 228,
+    "MessageID": 76932,
+    "TextENGNew": "\"Today, my father and mother... and my grandmother, they all went out on errands. But this morning, when I left for school... I forgot it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 76933,
+    "TextENGNew": "I see. So she couldn't get inside until someone in her family came home.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 76934,
+    "TextENGNew": "However... for our purposes, the absence of any adults might actually work in our favor. Ooishi-san and I, arriving at the same thought, exchanged a discreet glance before striking up a friendly conversation with her.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 76935,
+    "TextENGNew": "\"I see, what a shame. ...Well, how about this? Why don't we get out of the rain and have some tea nearby...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 76936,
+    "TextENGNew": "\"——\"",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 76937,
+    "TextENGNew": "Ooishi-san extended the invitation in a gentle tone, but... Natsumi-san turned to face him with open wariness.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 76938,
+    "TextENGNew": "...A perfectly natural reaction.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 76939,
+    "TextENGNew": "\"Ahaha. No, we're certainly not suspicious characters. Okinomiya Shobo is a publishing company based in Okinomiya, Shikakotsu City.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 76940,
+    "TextENGNew": "\"Okinomiya...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 76941,
+    "TextENGNew": "At the mention of Okinomiya, Natsumi-san seemed to perk up with a flicker of interest.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 76942,
+    "TextENGNew": "And no wonder—it was the name of the place where she had lived until just last year.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 76943,
+    "TextENGNew": "\"That's right. We came all the way from a publishing company in Okinomiya. ...Do you like books?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 76944,
+    "TextENGNew": "\"...Yes, I do. Most of them are ones I borrow from the library, though...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 76945,
+    "TextENGNew": "Natsumi-san's eyes suddenly lit up, and she rattled off the names of several well-known titles. ...Just as she said, I could tell this girl genuinely loved books.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 76946,
+    "TextENGNew": "\"That's true, good books can be quite expensive to buy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 76947,
+    "TextENGNew": "\"Exactly. A lot of the older books can be hard to read, but that's actually part of the fun...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 76948,
+    "TextENGNew": "When someone talks about what they love, anyone would find themselves drawn in.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 76949,
+    "TextENGNew": "Natsumi-san was warming up nicely, offering more than what she'd been asked.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 76950,
+    "TextENGNew": "\"And then—— ...um, well... so, what was it you wanted?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 76951,
+    "TextENGNew": "But the unease of being alone has its limits. After chatting for a while, Natsumi-san asked again, her expression turning suspicious once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 76952,
+    "TextENGNew": "\"Well, you see, we're putting together a book on regional history. We heard that the grandmother of this household is originally from Hinamizawa, so we came by hoping to hear some stories about the village.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 76953,
+    "TextENGNew": "\"Regional history?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 76954,
+    "TextENGNew": "\"Um, among the titles you mentioned earlier, there were some works based on local folktales, weren't there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 76955,
+    "TextENGNew": "\"Oh, that's right. Many fairy tales and such were written by authors who researched the folk legends surviving in various regions, so...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 76956,
+    "TextENGNew": "\"I see. And we felt the same way—we wanted to preserve the stories that remain in areas like this for future generations, which is why we've been doing this kind of work...you see.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 76957,
+    "TextENGNew": "\"Oh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 76958,
+    "TextENGNew": "Natsumi-san nodded, her eyes sparkling with interest. I'd been stringing together words off the top of my head, but the conversation was flowing nicely.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 76959,
+    "TextENGNew": "\"And so, we've been listening to stories from the local elderly folks. Heh heh heh heh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 76960,
+    "TextENGNew": "\"...Huh.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 76961,
+    "TextENGNew": "However, perhaps Ooishi-san didn't quite look the part of someone from a publishing company—she stared back at him with a dubious expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 76962,
+    "TextENGNew": "...If we were going to make our pitch at a bookstore, it probably would have been better if I'd come alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 76963,
+    "TextENGNew": "\"Oh, this is my supervisor. His name is Ooishi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 76964,
+    "TextENGNew": "\"Hello there. I'm Ooishi, her colleague. ...So, how about it? Would you mind letting us ask you a few questions?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 76965,
+    "TextENGNew": "\"But I don't know anything at all about Okinomiya's history...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 76966,
+    "TextENGNew": "\"No no no, don't worry about that. Anything will do...yes, even just casual small talk is perfectly fine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 76967,
+    "TextENGNew": "\"Then please ask my grandmother. She'll be back soon...probably in about two hours.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 76968,
+    "TextENGNew": "\"Well then, how about we kill some time until she gets back? I couldn't help but notice you were just saying 'I'm so hungryyyy' a moment ago.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 76969,
+    "TextENGNew": "\"Ah—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 76970,
+    "TextENGNew": "Natsumi-san gasped and pressed her hands over her stomach.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 76971,
+    "TextENGNew": "...Right on cue, her stomach let out a quiet grumble.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 76972,
+    "TextENGNew": "\"Nah hah hah! Hit the nail right on the head, didn't I? Come now, let's be off. Since we're at it, I'll treat you to something delicious.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 76973,
+    "TextENGNew": "With that, Ooishi-san was already striding off toward the street.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 76974,
+    "TextENGNew": "\"Wh...what?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 76975,
+    "TextENGNew": "Natsumi-san looked bewildered, but...even so, she found herself swept up in the flow and rose to her feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 76976,
+    "TextENGNew": "\"After you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 76977,
+    "TextENGNew": "I held out my umbrella and ushered her under it, and...perhaps she was simply the type who had trouble saying no, because she timidly fell into step beside me—.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 76978,
+    "TextENGNew": "At the café, the three of us sat in a booth.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 76979,
+    "TextENGNew": "Across from where Ooishi-san and I sat, Kimiyoshi Natsumi-san was seated.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 76980,
+    "TextENGNew": "I couldn't help but wonder how it looked from the outside—two middle-aged men sitting across from a high school girl in uniform.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 76981,
+    "TextENGNew": "The mind wanders to all sorts of unnecessary places.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 76982,
+    "TextENGNew": "I glanced to the side and saw... Ooishi-san watching Natsumi-san with that affable grin plastered on his face.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 76983,
+    "TextENGNew": "——Staring... openly.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 76984,
+    "TextENGNew": "(...Ooishi-san, you're going to make her suspicious.)",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 76985,
+    "TextENGNew": "I muttered under my breath and nudged him with my elbow.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 76986,
+    "TextENGNew": "\"Heh heh heh heh. Well, it's not often I get to chat with someone so young... I just can't help myself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 76987,
+    "TextENGNew": "...Honestly, the man was the same old fox as always. Behind that clownish demeanor, he was scrutinizing Kimiyoshi Natsumi's every move without letting his guard down for a second.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 76988,
+    "TextENGNew": "\"Now then, what would you like to order? Umm...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 76989,
+    "TextENGNew": "\"Oh, I'm Natsumi. ...Kimiyoshi, Natsumi...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 76990,
+    "TextENGNew": "She reflexively introduced herself, then... repeated her name once more, somewhat hesitantly.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 76991,
+    "TextENGNew": "She had probably given her name out of courtesy toward adults, but... then suddenly felt uneasy about having done so.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 76992,
+    "TextENGNew": "Then, watching our faces for a reaction, Natsumi-san posed her question.",
+    "significantChanges": true,
+    "changeReason": "New translation adds reference to natsumi, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 289,
+    "MessageID": 76993,
+    "TextENGNew": "\"...Um. So, what did you want to talk to me about?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 76994,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 76995,
+    "TextENGNew": "I lowered my eyes, carefully choosing my words. ...Then, slowly, I looked up.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 76996,
+    "TextENGNew": "\"Well... let's see. What we'd like to ask you about is...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 76997,
+    "TextENGNew": "It was possible that someone of Natsumi-san's generation might not know the details. But still...",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 76998,
+    "TextENGNew": "\"...It's about 'Oyashiro-sama.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 76999,
+    "TextENGNew": "\"......?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 77000,
+    "TextENGNew": "Natsumi-san blinked, tilting her head slightly with a puzzled expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 77001,
+    "TextENGNew": "Did she not understand what she was being asked? ...No, that couldn't be.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 77002,
+    "TextENGNew": "She was born into the Kimiyoshi family—one of the three great old families of Hinamizawa—and had been raised by her grandmother. She must have heard something.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 77003,
+    "TextENGNew": "...With that conviction, I continued.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 77004,
+    "TextENGNew": "\"We'd like to hear about the indigenous faith of Hinamizawa—the worship of 'Oyashiro-sama.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 77005,
+    "TextENGNew": "\"I don't really know much about that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 77006,
+    "TextENGNew": "\"It's true that Grandma prays at the household shrine. But...I don't know the details...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 77007,
+    "TextENGNew": "\"You see, the deity your grandmother worships is tied to an eschatological belief--a prophecy of the end times.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 77008,
+    "TextENGNew": "\"E-Eschatology...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 77009,
+    "TextENGNew": "Eschatology is a concept found in virtually every culture and religion around the world.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 77010,
+    "TextENGNew": "It refers to an ideology that emerges in times of political and economic instability, when people suffer hardship--a way of thinking that seeks to explain the cause and course of that suffering through divine judgment or future salvation.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 77011,
+    "TextENGNew": "\"...What does that have to do...with Grandma's...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 77012,
+    "TextENGNew": "\"Yes. We believe that this eschatological thinking is what gave rise to the 'curse.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 77013,
+    "TextENGNew": "\"...Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 77014,
+    "TextENGNew": "\"The other day, an entire village was wiped out by gas. The Hinamizawa Disaster.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 77015,
+    "TextENGNew": "\"And rumors have been spreading... that it was 'Oyashiro-sama's curse.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 77016,
+    "TextENGNew": "\"But this has gone beyond mere rumor. People from the village--especially the elderly--have been exhibiting incomprehensible behavior. Bizarre acts.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 77017,
+    "TextENGNew": "\"Bizarre acts...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 77018,
+    "TextENGNew": "In other words, they believed the disaster was caused by 'Oyashiro-sama's curse,' and each of them had been performing religious rituals according to a set of rules--all to ward off the 'curse.'",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 77019,
+    "TextENGNew": "Natsumi-san was listening attentively for the time being, but...her expression still suggested she didn't quite understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 77020,
+    "TextENGNew": "She seemed to be cross-referencing what she was hearing with what she already knew, trying to make it all fit together somehow...to digest it. That was the look on her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 77021,
+    "TextENGNew": "I watched her carefully as I continued.",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 77022,
+    "TextENGNew": "...And then I told her about the serious incidents that had arisen in the course of those religious rituals.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 77023,
+    "TextENGNew": "--Arson... Murder...",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 77024,
+    "TextENGNew": "And the most common of all--suicide...",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 77025,
+    "TextENGNew": "If someone simply hanged themselves or jumped in front of a train, at least the cost would be their life alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 77026,
+    "TextENGNew": "But what made things so troubling was that...many of these incidents had dragged in innocent bystanders who had nothing to do with any of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 77027,
+    "TextENGNew": "Across every location we had investigated, incident after incident...",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 77028,
+    "TextENGNew": "An elderly person who committed murder in the bathhouse of a care center.",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 77029,
+    "TextENGNew": "An old man in Sugaya who set fire to his own home with his family still inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 77030,
+    "TextENGNew": "\"Every one of these incidents...was committed by someone from Hinamizawa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 77031,
+    "TextENGNew": "\"I-I... I don't...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 77032,
+    "TextENGNew": "Natsumi-san shrank into the corner of the table.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 77033,
+    "TextENGNew": "It was understandable. She was hearing that a string of horrifying criminals had come from her hometown. How could anyone take that calmly?",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 77034,
+    "TextENGNew": "...But more than that, she seemed to have finally understood why we had come here. Regret and anxiety flooded her face as she caught her breath with a sharp gasp.",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 77035,
+    "TextENGNew": "\"Um, ...you people are--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 77036,
+    "TextENGNew": "\"Some of those who committed suicide did so in ways that defy all rational thought. As if they were dragging the people around them into it as living sacrifices...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 77037,
+    "TextENGNew": "\"......?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 77038,
+    "TextENGNew": "\"For example, ...clawing their own throat open with their fingernails, writhing in agony as they drowned in their own blood until death--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 77039,
+    "TextENGNew": "\"By the way, ...is your family doing all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 77040,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 77041,
+    "TextENGNew": "Natsumi-san's shoulders were trembling faintly. She hung her head, searching for some answer she should give--no, searching for words that would let her escape this situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 77042,
+    "TextENGNew": "\"--They're all ri... huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 77043,
+    "TextENGNew": "At that moment, Ooishi-san, who had been sitting in silence until now, suddenly seized Natsumi-san's face with both hands and wrenched it upward. His eyes snapped open wide as he stared deep into hers.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 77044,
+    "TextENGNew": "\"You're lying... aren't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 77045,
+    "TextENGNew": "\"--?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 77046,
+    "TextENGNew": "Natsumi-san's eyes, frozen with terror, were locked onto Ooishi-san's gaze.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 77047,
+    "TextENGNew": "(This is bad... Ooishi-san, you're going too far!)",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 77048,
+    "TextENGNew": "Before I could reach out to stop him, Ooishi-san was already pressing on.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 77049,
+    "TextENGNew": "\"When it comes to Hinamizawa... there are far too many things we don't understand. Especially this gas disaster and the incidents that followed--they've gone far beyond anything we can make sense of!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 77050,
+    "TextENGNew": "\"..........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 77051,
+    "TextENGNew": "\"The shrine maiden of Furude Shrine... Rika Furude, was brutally murdered before the disaster. Her murder...must be connected to this entire chain of events somehow. That's about all we've been able to come up with.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 77052,
+    "TextENGNew": "\"...That's why we want to hear from you. Anything you can tell us--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 77053,
+    "TextENGNew": "\"I-I...I d-don't know anything...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 77054,
+    "TextENGNew": "Natsumi-san's face was frozen in an expression of sheer terror. ...This was no different from an interrogation. All the care we had taken to bring her here quietly had been for nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 77055,
+    "TextENGNew": "\"O-Ooishi-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 77056,
+    "TextENGNew": "\"You'll tell us, won't you...? Kimiyoshi...san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 77057,
+    "TextENGNew": "\"I-I...d-d-don't kn...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 77058,
+    "TextENGNew": "I was about to stand up and put a stop to it, to suggest we try again another time--when it happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 77059,
+    "TextENGNew": "\"--?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 77060,
+    "TextENGNew": "With a violent crash, something like a white wall slammed down between me and Natsumi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 77061,
+    "TextENGNew": "\"--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 77062,
+    "TextENGNew": "A wooden art panel stood upright on the table... and when I looked up, a male student wearing the same school crest as Natsumi-san's uniform was glaring down at us.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 77063,
+    "TextENGNew": "\"To-Toudou-ku...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 77064,
+    "TextENGNew": "\"--...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 77065,
+    "TextENGNew": "The boy Natsumi-san had called Toudou turned to look at her with concern. And then,",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 77066,
+    "TextENGNew": "\"Let's go, Kimiyoshi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 77067,
+    "TextENGNew": "\"Ah...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 77068,
+    "TextENGNew": "Without waiting for a reply, he grabbed Natsumi-san's arm and pulled her to her feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 77069,
+    "TextENGNew": "\"Excuse me, ...we're still in the middle of a conversation here?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 77070,
+    "TextENGNew": "\"It doesn't seem that way to her. --Right, Kimiyoshi?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 77071,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 77072,
+    "TextENGNew": "Natsumi-san gave a timid nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 77073,
+    "TextENGNew": "...He was a boy with a strong light in his eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 77074,
+    "TextENGNew": "And with that, he escorted Natsumi-san out of the shop, shielding her as they left...",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 77075,
+    "TextENGNew": "\"...Haah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 77076,
+    "TextENGNew": "...What a failure. We had been fortunate enough to make contact with the Kimiyoshi family's only daughter, and yet we hadn't managed to learn a thing before she slipped away...",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 77077,
+    "TextENGNew": "\"That was...a bit much, wasn't it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 77078,
+    "TextENGNew": "\"Hmm, well, I do apologize. I got carried away with my usual routine... Nah ha ha ha.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 77079,
+    "TextENGNew": "Ooishi-san was laughing, but...it was clear he lacked his usual spirit, as if he actually felt guilty.",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 77080,
+    "TextENGNew": "\"She's a young girl, after all. Perhaps it would have been better to let Inspector Minai handle this instead.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 77081,
+    "TextENGNew": "\"...You're right. I'll ask her when we get back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 77082,
+    "TextENGNew": "...I could understand Ooishi-san's impatience. By sheer coincidence, we had found someone who might be a crucial lead. It was only natural to press hard when the opportunity arose.",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 77083,
+    "TextENGNew": "And even I, while talking to her, had never been free of that nagging urgency--the desperate need to extract whatever information I could in the limited time we had.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 77084,
+    "TextENGNew": "We had both been too agitated to keep each other in check, and I deeply regretted the blunder that resulted from it...",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 77085,
+    "TextENGNew": "\"Well then, shall we shift gears and at least ask around about the family's reputation?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 77086,
+    "TextENGNew": "\"Sure.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 77087,
+    "TextENGNew": "..........",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 77088,
+    "TextENGNew": "And so we walked around the neighborhood, visiting the ikebana class Haruko Kimiyoshi attended, Touji Kimiyoshi's workplace, and other places, discreetly making inquiries.",
+    "significantChanges": true,
+    "changeReason": "New translation adds reference to irie, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 385,
+    "MessageID": 77089,
+    "TextENGNew": "We returned to Natsumi-san's house about an hour after parting ways with her.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 77090,
+    "TextENGNew": "\"...Looks like the rain has let up.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 77091,
+    "TextENGNew": ".........",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 77092,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 77093,
+    "TextENGNew": "\"--?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 77094,
+    "TextENGNew": "Standing before the gate of the Kimiyoshi residence, we caught our breath at the sight before us.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 77095,
+    "TextENGNew": "None of this had been here when we first visited.",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 77096,
+    "TextENGNew": "It had been a perfectly ordinary house--a single-family home with a gate and a courtyard. The kind of place any homeowner of that generation would have envied.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 77097,
+    "TextENGNew": "And yet, in just a few hours...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 77098,
+    "TextENGNew": "\"What on earth is this...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 77099,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 77100,
+    "TextENGNew": "This simple residential street...in this one spot alone, had taken on an indescribably eerie, otherworldly atmosphere.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 77101,
+    "TextENGNew": "Green bamboo stakes had been planted one by one on either side of the gate.",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 77102,
+    "TextENGNew": "Between them hung a thick shimenawa--a sacred rope--from which dangled numerous shide, strips of white paper cut in the jagged zigzag pattern said to represent lightning.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 77103,
+    "TextENGNew": "And it wasn't just the gate... The rope wound its way along the fence encircling the yard, wrapping around the entire house, and was even draped above the front entrance and the windows.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 77104,
+    "TextENGNew": "When the wind blew through, the white shide hanging from the shimenawa at intervals...",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 77105,
+    "TextENGNew": "Rustle rustle rustle... rustle rustle rustle... rustle rustle rustle...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 77106,
+    "TextENGNew": "No...that wasn't only the sound of the shide fluttering.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 77107,
+    "TextENGNew": "When I looked up, I saw them in the garden trees--life-sized figures cut from white paper, shaped like human silhouettes...",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 77108,
+    "TextENGNew": "Rustle rustle rustle... rustle rustle rustle... rustle rustle rustle... rustle rustle rustle... rustle rustle rustle... rustle rustle rustle...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 77109,
+    "TextENGNew": "...Yes, they were the source of that eerie sound.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 77110,
+    "TextENGNew": "Characters were written on the human-shaped paper figures. ...The same kind of paper figures I had seen at the Hatakeyama house.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 77111,
+    "TextENGNew": "'Natsumi'... 'Touji'... 'Haruko'... 'Aki'...",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 77112,
+    "TextENGNew": "The name of each member of the Kimiyoshi family was written on a separate paper figure.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 77113,
+    "TextENGNew": "\"Here too...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 77114,
+    "TextENGNew": "When I happened to glance down, I noticed the trampled remains of a fire just inside the gate.",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 77115,
+    "TextENGNew": "No...rather than a simple bonfire, it looked like the remnants of a goma ritual fire.",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 77116,
+    "TextENGNew": "When a mountain ascetic performs a goma fire ritual, they stack the wood in layers to build a structure. This is called a gomadangi--a ritual pyre, constructed expressly for the purpose of prayer.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 77117,
+    "TextENGNew": "It appeared that after the small ritual pyre had been lit, it was not extinguished with water but rather stamped out underfoot.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 77118,
+    "TextENGNew": "\"Was this also some kind of prayer ritual...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 77119,
+    "TextENGNew": "\"...Well, who can say. It also looks like someone might have disrupted it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 77120,
+    "TextENGNew": "Even so--",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 77121,
+    "TextENGNew": "That was not the only abnormality.",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 77122,
+    "TextENGNew": "The exterior walls of the house, which should have been white, were so covered in markings that they appeared nearly black.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 77123,
+    "TextENGNew": "They were densely covered in Shinto prayers!",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 77124,
+    "TextENGNew": "\"...Upon this sacred bed of the gods... we offer the sacred wine of generations... we humbly pledge ourselves... With fear and trembling we beseech thee... grant us peace and tranquility... hear our prayer... O great deity Oyashiro... exalted and mighty...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 77125,
+    "TextENGNew": "Ooishi-san gazed at the deathly silent Kimiyoshi house with a dark expression, then murmured quietly.",
+    "significantChanges": true,
+    "changeReason": "New translation adds reference to kimiyoshi, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 422,
+    "MessageID": 77126,
+    "TextENGNew": "\"...This place might be next...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 77127,
+    "TextENGNew": "'...Huh?' slipped from my lips as I looked up at Ooishi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 77128,
+    "TextENGNew": "He returned my glance, then...put into words the very thing I had been thinking.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 77129,
+    "TextENGNew": "\"A victim. Or...perhaps even a perpetrator.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 77130,
+    "TextENGNew": "\"......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 77131,
+    "TextENGNew": "His words were ominous.",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 77132,
+    "TextENGNew": "My mind went back to that girl we had been with just a short while ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 77133,
+    "TextENGNew": "\"...Natsumi Kimiyoshi...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 77134,
+    "TextENGNew": "I could say nothing more...and simply stood there, staring up at those ritual decorations...",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 77135,
+    "TextENGNew": "Monday, July 4th, Showa 58",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between old (set()) and new ({'58'}) translations.",
+    "changeScore": 2
+  },
+  {
+    "index": 432,
+    "MessageID": 77136,
+    "TextENGNew": "\"A single sweet bun? ...That's your whole lunch?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 77137,
+    "TextENGNew": "This wasn't my usual teasing. ...If anything, genuine worry was what prompted me to say it.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 77138,
+    "TextENGNew": "\"Huh, ...is that weird?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 77139,
+    "TextENGNew": "\"Well, it's not weird exactly... What happened to your usual bento? You know, your mom's homemade tamagoyaki and meatballs?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 77140,
+    "TextENGNew": "\"Y-Yeah... Um, well...Mom overslept this morning, so...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 77141,
+    "TextENGNew": "\"Really? Aww, what a shame. I was so looking forward to snagging a few of your delicious side dishes to liven up my sad little cafeteria bread.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 77142,
+    "TextENGNew": "\"...Chisato-chan, that's sneaky.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 77143,
+    "TextENGNew": "Natsumi said that with an exasperated look, her shoulders drooping. ...Just then, Tamako returned from buying a drink at the vending machine.",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 77144,
+    "TextENGNew": "\"Sorry for the wait~. ...Oh? Natsumi?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 77145,
+    "TextENGNew": "She sat down across from Natsumi and immediately asked the same question I had. And Natsumi gave her the same answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 77146,
+    "TextENGNew": "\"Wow... that's really unusual for you, not bringing a bento. Isn't this the first time?\"",
+    "significantChanges": true,
+    "changeReason": "New translation removes reference to natsumi, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 443,
+    "MessageID": 77147,
+    "TextENGNew": "\"Hmm, how unexpected. Even your superhuman mom slips up sometimes. This is a revelation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 77148,
+    "TextENGNew": "\"A-Ahahaha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 77149,
+    "TextENGNew": "With an awkward, halfhearted laugh, Natsumi opened her bread wrapper.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 77150,
+    "TextENGNew": "An apple danish? ...I hate to say it, but picking one of the five least popular items in the whole cafeteria shop just proves this girl has no taste.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 77151,
+    "TextENGNew": "(...Oops, better not say that.)",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 77152,
+    "TextENGNew": "I barely managed to swallow the words before they escaped my mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 77153,
+    "TextENGNew": "...With Tamako, a quip like that would just bounce off. But Natsumi would take it to heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 77154,
+    "TextENGNew": "Even so, though...",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 77155,
+    "TextENGNew": "\"But Natsumi, even if it's just lunch, a single bread roll is way too little, don't you think?\"",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 452,
+    "MessageID": 77156,
+    "TextENGNew": "\"Huh, ...is it? I don't usually buy from the cafeteria, so I wasn't sure how much would be enough...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 77157,
+    "TextENGNew": "\"No, even so, this is clearly not enough. Right, competitive eater Tamako-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 77158,
+    "TextENGNew": "\"Who are you calling a glutton?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 77159,
+    "TextENGNew": "\"...But well, it might be a bit on the small side. I overbought, so want me to share some of mine?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 77160,
+    "TextENGNew": "\"Huh, really? Thanks, Tamako-chan~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 77161,
+    "TextENGNew": "Natsumi accepted the cheese castella Tamako offered with a smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 77162,
+    "TextENGNew": "Classic Tamako--she gave Natsumi the most popular bread. ...If it were me, I'd probably have handed over something dubious just to watch her reaction (i.e., using her as a taste tester).",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 77163,
+    "TextENGNew": "\"But Natsumi, even if it's just lunch, you need to eat properly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 77164,
+    "TextENGNew": "\"Y-Yeah... You're right, but...it's just...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 77165,
+    "TextENGNew": "\"Otherwise, ...certain things won't grow, you know?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 77166,
+    "TextENGNew": "\"Ugeh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 77167,
+    "TextENGNew": "Natsumi nearly choked on her bread at that sore subject, reeling backward in mortification. She frantically washed it down with milk, then glared at me with half-tearful eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 77168,
+    "TextENGNew": "\"Ch-Chisato-chan! Grow where?! What do you mean?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 77169,
+    "TextENGNew": "\"Oh, you know, it's important for a healthy romantic relationship.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 77170,
+    "TextENGNew": "\"There she goes with 'healthy' again. ...Chisato, weren't you the one who loudly declared the other day that 'being flat is a status symbol'?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 77171,
+    "TextENGNew": "\"Well, I said what I said, but at a certain point you have to wonder if it's really enough. He is a guy, after all~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 77172,
+    "TextENGNew": "\"Um, ...a-are you talking about...Toudou-kun...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 77173,
+    "TextENGNew": "The moment Akira's name came up, ...Natsumi turned bashful. Honestly, she's such an open book.",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 77174,
+    "TextENGNew": "\"Who else would I mean? Unless Natsumi, you've already moved on to another--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 77175,
+    "TextENGNew": "\"N-No way! I would never! I mean, he's...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 77176,
+    "TextENGNew": "She waved her hands vigorously in denial, and then...turned red when her true feelings nearly slipped out.",
+    "significantChanges": true,
+    "changeReason": "New translation removes reference to natsumi, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 473,
+    "MessageID": 77177,
+    "TextENGNew": "God, she's so adorable it's infuriating!",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 474,
+    "MessageID": 77178,
+    "TextENGNew": "What a lucky guy, to be loved by a girl like her~!!",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 77179,
+    "TextENGNew": "\"Now, now, I'm sure Akira-chan doesn't care about that sort of thing at all. So relax.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 77180,
+    "TextENGNew": "\"Really?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 77181,
+    "TextENGNew": "\"Think about it--he sees female bodies for sketching so often he's probably sick of them, right? If anything, someone slender like Natsumi might actually feel refreshing to him since he's not used to it.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds reference to natsumi, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 478,
+    "MessageID": 77182,
+    "TextENGNew": "\"Wha--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 77183,
+    "TextENGNew": "\"Hey now, Tamako-san, that's not helping at all. Though I'll admit, the last model I saw him drawing was this incredible seal-shaped lady, so I did feel sorry for him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 77184,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 77185,
+    "TextENGNew": "\"...It'd be like if we had to sketch some greasy middle-aged guy. At that point, it might be better for your sanity to stop thinking of them as a person entirely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 77186,
+    "TextENGNew": "\"Come on, that's going too far. Hey, Natsumi, what do you thi--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 77187,
+    "TextENGNew": "As I said that, lightly tapping her on the shoulder to bring her into the conversation, ...Natsumi's response was sluggish. When I turned to look at her quizzically, she was gazing downward with a complicated expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 77188,
+    "TextENGNew": "\"...What's wrong, Natsumi?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 77189,
+    "TextENGNew": "\"Huh? Oh, um...I was just wondering whether Toudou-kun really does spend all that time...looking at female models...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 77190,
+    "TextENGNew": "\"Well, ...yeah, of course he does. He's on an art scholarship, so figure drawing is as fundamental as handwriting practice for him. It'd be stranger if he weren't doing it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 77191,
+    "TextENGNew": "\"R-Right...of course.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 77192,
+    "TextENGNew": "\"If it's for class, it can't be helped...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 77193,
+    "TextENGNew": "\"--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 77194,
+    "TextENGNew": "In that instant.",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 491,
+    "MessageID": 77195,
+    "TextENGNew": "Through the gap between the desk and Natsumi, I caught a glimpse of both her hands resting on her knees below...and felt a chill run through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 77196,
+    "TextENGNew": "Natsumi's hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 493,
+    "MessageID": 77197,
+    "TextENGNew": "She was gripping her skirt with such ferocity it looked as though she might tear it apart.",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 77198,
+    "TextENGNew": "Her knuckles were white, tendons standing out from how hard she was clenching.",
+    "significantChanges": false
+  },
+  {
+    "index": 495,
+    "MessageID": 77199,
+    "TextENGNew": "\"Natsumi, listen--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 77200,
+    "TextENGNew": "\"...Oh, it's Akira-chan. Hey there~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 77201,
+    "TextENGNew": "With spectacularly bad timing, Tamako spotted Akira walking down the hall and called out to him, cutting me off. Akira stopped and looked at us with his usual subdued expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 77202,
+    "TextENGNew": "\"Perfect timing! Akira-chan, Natsumi was calling for you~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 499,
+    "MessageID": 77203,
+    "TextENGNew": "\"Huh? W-Wait a second, Tamako-chan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 500,
+    "MessageID": 77204,
+    "TextENGNew": "\"You want to know too, don't you, Natsumi? Then go ask him yourself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 501,
+    "MessageID": 77205,
+    "TextENGNew": "Tamako urged the flustered Natsumi on with a teasing grin.",
+    "significantChanges": false
+  },
+  {
+    "index": 502,
+    "MessageID": 77206,
+    "TextENGNew": "...It seemed Tamako hadn't noticed how Natsumi had been acting just moments before. Then again, even I was starting to wonder if I had simply imagined it.",
+    "significantChanges": false
+  },
+  {
+    "index": 503,
+    "MessageID": 77207,
+    "TextENGNew": "(...Well, whatever.)",
+    "significantChanges": false
+  },
+  {
+    "index": 504,
+    "MessageID": 77208,
+    "TextENGNew": "\"Come on, Akira, don't just stand there looking lost. Get over here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 505,
+    "MessageID": 77209,
+    "TextENGNew": "\"Huh? --Wha?! H-Hey!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 506,
+    "MessageID": 77210,
+    "TextENGNew": "Akira had been staring at Natsumi's face, seemingly hesitant to enter, so I grabbed his hand and forcibly dragged him into the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 507,
+    "MessageID": 77211,
+    "TextENGNew": "Then I practically shoved him down into the chair I'd just been sitting in.",
+    "significantChanges": false
+  },
+  {
+    "index": 508,
+    "MessageID": 77212,
+    "TextENGNew": "\"H-Hold on, Chisa...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 509,
+    "MessageID": 77213,
+    "TextENGNew": "\"Oh relax, Akira-kun, no need to be shy. ...Natsumi was just dying to ask you how familiar you are with the female body from all your sketching~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 510,
+    "MessageID": 77214,
+    "TextENGNew": "\"W-Whaaat?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 511,
+    "MessageID": 77215,
+    "TextENGNew": "\"Ch-Ch-Ch-Chisato-chan?! I never said anything like--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 512,
+    "MessageID": 77216,
+    "TextENGNew": "\"Hmm~? So you're saying you're not curious, Natsumi?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 513,
+    "MessageID": 77217,
+    "TextENGNew": "\"Um, uh...well...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 514,
+    "MessageID": 77218,
+    "TextENGNew": "Natsumi fidgeted with her necktie, her face turning bright red as she looked down. ...If anything, it was Akira who seemed more thrown off by her reaction, and his face flushed too.",
+    "significantChanges": false
+  },
+  {
+    "index": 515,
+    "MessageID": 77219,
+    "TextENGNew": "\"I-It's not like that! E-Even though they call it figure drawing, I mainly focus on landscapes, so I really haven't done much of it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 516,
+    "MessageID": 77220,
+    "TextENGNew": "\"Well, it was mandatory in first year, so I attended two--no, maybe three sessions, but since moving up I haven't gone to a single one, ...honestly!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 517,
+    "MessageID": 77221,
+    "TextENGNew": "\"I-Is that...so? Ah, ahahaha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 518,
+    "MessageID": 77222,
+    "TextENGNew": "\"Akira. Nobody asked for that level of detail. And why does it sound like you're desperately making excuses?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 519,
+    "MessageID": 77223,
+    "TextENGNew": "\"Th-That's because...I, uh...I figured Kimiyoshi might worry unless I explained properly...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 520,
+    "MessageID": 77224,
+    "TextENGNew": "\"...R-Really? S-Sorry for making you worry, Toudou-kun...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 521,
+    "MessageID": 77225,
+    "TextENGNew": "\"N-No...it's fine. Yeah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 522,
+    "MessageID": 77226,
+    "TextENGNew": "\"\"Okay okay, we get it. Thanks for the show.\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 523,
+    "MessageID": 77227,
+    "TextENGNew": "Tamako and I pressed our hands together in unison, offering applause that mingled exasperation with genuine admiration. ...Natsumi and Akira bashfully glanced at each other, then quickly looked away and fell silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 524,
+    "MessageID": 77228,
+    "TextENGNew": "(Well, it's a familiar sight by now.)",
+    "significantChanges": false
+  },
+  {
+    "index": 525,
+    "MessageID": 77229,
+    "TextENGNew": "The fact that Natsumi and Akira had started going out (well, technically they might not be official yet) was something Tamako and I had discreetly let the class information network know about, and by now it was common knowledge.",
+    "significantChanges": false
+  },
+  {
+    "index": 526,
+    "MessageID": 77230,
+    "TextENGNew": "Since they were both the reserved type, it was Tamako's idea to spread the word quietly from the start, figuring that making a big fuss about it right away might hurt them instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 527,
+    "MessageID": 77231,
+    "TextENGNew": "Of course, a few classmates reacted more strongly than others, but for the most part everyone treated it as old news.",
+    "significantChanges": false
+  },
+  {
+    "index": 528,
+    "MessageID": 77232,
+    "TextENGNew": "\"Well, we'll leave Akira in charge. Time for us to make ourselves scarce.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 529,
+    "MessageID": 77233,
+    "TextENGNew": "\"Wh...Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 530,
+    "MessageID": 77234,
+    "TextENGNew": "\"Ahahaha, sorry, Natsumi, Akira-chan. We've got something to take care of in the teachers' lounge.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 531,
+    "MessageID": 77235,
+    "TextENGNew": "\"H-...Hey! Chisa, Tama?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 532,
+    "MessageID": 77236,
+    "TextENGNew": "With that, Tamako and I grabbed our lunches and stood up, clearing the space for Natsumi and Akira to be alone. Ignoring the flustered voice calling after us, we left the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 533,
+    "MessageID": 77237,
+    "TextENGNew": "\"Hmm~, maybe that was a bit pushy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 534,
+    "MessageID": 77238,
+    "TextENGNew": "I leaned on the rooftop railing and bit into my bread, then turned to Tamako beside me. She was sitting primly on the bench, poking a straw into a carton of milk.",
+    "significantChanges": false
+  },
+  {
+    "index": 535,
+    "MessageID": 77239,
+    "TextENGNew": "\"Well, I think it's fine. Without that much prodding, those two would never eat lunch together.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 536,
+    "MessageID": 77240,
+    "TextENGNew": "\"Seriously, those two are exhausting. I can't decide if they're an awkward couple or a kindergarten couple...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 537,
+    "MessageID": 77241,
+    "TextENGNew": "\"Even so, they both seem happy, don't they? Akira-chan isn't great at being sociable, so having a girl like Natsumi who adores him so purely must be really precious to him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 538,
+    "MessageID": 77242,
+    "TextENGNew": "\"Yeah, yeah, sorry for not being pure-hearted.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 539,
+    "MessageID": 77243,
+    "TextENGNew": ".........",
+    "significantChanges": false
+  },
+  {
+    "index": 540,
+    "MessageID": 77244,
+    "TextENGNew": "\"...Do you...still have regrets?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 541,
+    "MessageID": 77245,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 542,
+    "MessageID": 77246,
+    "TextENGNew": "I didn't answer Tamako's question right away. Instead, I looked up at the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 543,
+    "MessageID": 77247,
+    "TextENGNew": "Clouds mingled overhead--it was technically clear, but the weather felt ambiguous. The humid warmth made me break a light sweat, and something in the air hinted that rain wasn't far off.",
+    "significantChanges": false
+  },
+  {
+    "index": 544,
+    "MessageID": 77248,
+    "TextENGNew": "Mamoru-senpai and Tamako...were probably the only ones who knew my true feelings.",
+    "significantChanges": false
+  },
+  {
+    "index": 545,
+    "MessageID": 77249,
+    "TextENGNew": "Tamako in particular had never said it aloud, but she had carried complicated feelings about Natsumi and Akira's relationship all this time...",
+    "significantChanges": false
+  },
+  {
+    "index": 546,
+    "MessageID": 77250,
+    "TextENGNew": "\"No regrets?\"",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 547,
+    "MessageID": 77251,
+    "TextENGNew": "\"...Who knows.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 548,
+    "MessageID": 77252,
+    "TextENGNew": "\"It's not like you to accept defeat without even putting up a fight.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 549,
+    "MessageID": 77253,
+    "TextENGNew": "\"...Shut up.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 550,
+    "MessageID": 77254,
+    "TextENGNew": "\"I know how special Akira-chan was to you, Chisato. That's the whole reason you chose this school--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 551,
+    "MessageID": 77255,
+    "TextENGNew": "\"Stop.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 552,
+    "MessageID": 77256,
+    "TextENGNew": "Snap.",
+    "significantChanges": false
+  },
+  {
+    "index": 553,
+    "MessageID": 77257,
+    "TextENGNew": "Even I was startled by how sharp and cold my own voice sounded as I cut Tamako off.",
+    "significantChanges": false
+  },
+  {
+    "index": 554,
+    "MessageID": 77258,
+    "TextENGNew": "We had been over this more times than I could count, big conversations and small. ...And I had already come to terms with one conclusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 555,
+    "MessageID": 77259,
+    "TextENGNew": "So...this was usually the point where Tamako would apologize, or we'd pretend it never came up and move on to another topic.",
+    "significantChanges": false
+  },
+  {
+    "index": 556,
+    "MessageID": 77260,
+    "TextENGNew": "But.",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 557,
+    "MessageID": 77261,
+    "TextENGNew": "Today, for some reason, ...Tamako wouldn't back down.",
+    "significantChanges": true,
+    "changeReason": "New translation adds reference to tamako, altering the specificity of the passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 558,
+    "MessageID": 77262,
+    "TextENGNew": "\"...I've been supporting them and all, but I have a feeling Akira-chan and Natsumi aren't right for each other.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 559,
+    "MessageID": 77263,
+    "TextENGNew": "\"...What?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 560,
+    "MessageID": 77264,
+    "TextENGNew": "\"You saw how Natsumi reacted earlier when the topic of Akira-chan's sketching came up, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 561,
+    "MessageID": 77265,
+    "TextENGNew": "\"...For an artist, that's completely normal. But she can't see it that way at all. If things stay like this, I'm worried about what lies ahead.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 562,
+    "MessageID": 77266,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 563,
+    "MessageID": 77267,
+    "TextENGNew": "So...Tamako had noticed Natsumi's 'change' after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 564,
+    "MessageID": 77268,
+    "TextENGNew": "\"I've noticed it recently... Natsumi has a strong possessive streak. Or to put it more harshly...she's deeply jealous.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 565,
+    "MessageID": 77269,
+    "TextENGNew": "\"She's keeping it under wraps for now because she's not used to all this yet, but if she keeps trying to control Akira-chan like that in the future... I'm sure he'll start to suffocate.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 566,
+    "MessageID": 77270,
+    "TextENGNew": "\"That's enough, Tamako.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 567,
+    "MessageID": 77271,
+    "TextENGNew": "I couldn't let this slide any further and rebuked Tamako. ...This was the exact opposite of how things usually went between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 568,
+    "MessageID": 77272,
+    "TextENGNew": "\"...Hold on. You're always the one telling me not to badmouth Natsumi. And now you're the one saying awful things about her? What's going on?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 569,
+    "MessageID": 77273,
+    "TextENGNew": "\"Don't misunderstand, Chisato. The reason I warned you about how you talked about her wasn't because she's important to me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 570,
+    "MessageID": 77274,
+    "TextENGNew": "\"...It's because she's the girl you dote on more than anyone, the one you want to protect most. So when I told you to watch your words, I was doing it for your sake--so she'd like you more.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 571,
+    "MessageID": 77275,
+    "TextENGNew": "\"W-Wait a second--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 572,
+    "MessageID": 77276,
+    "TextENGNew": "\"If I'm being honest... I can't bring myself to like the Natsumi of lately. I've been hearing rumors about people from Hinamizawa, and that bothers me, but...Natsumi has been hiding all of that from us this whole time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 573,
+    "MessageID": 77277,
+    "TextENGNew": "\"Well, that may be true. But...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 574,
+    "MessageID": 77278,
+    "TextENGNew": "...I was stunned. Tamako saying she 'disliked' someone...I don't think that had ever happened before.",
+    "significantChanges": false
+  },
+  {
+    "index": 575,
+    "MessageID": 77279,
+    "TextENGNew": "\"...I'd help her in a heartbeat if she ever came to me for advice. But somehow it feels like she doesn't trust us at all. And that makes me angry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 576,
+    "MessageID": 77280,
+    "TextENGNew": "\"...On top of that, it infuriates me that she's getting cozy with Akira-chan without ever considering how you really feel. ...Why should we treasure a friendship that's nothing but a facade?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 577,
+    "MessageID": 77281,
+    "TextENGNew": "\"Tamako, you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 578,
+    "MessageID": 77282,
+    "TextENGNew": "Speechless, ...I could only stare at Tamako.",
+    "significantChanges": false
+  },
+  {
+    "index": 579,
+    "MessageID": 77283,
+    "TextENGNew": "Ah, ...I see. Tamako is truly furious right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 580,
+    "MessageID": 77284,
+    "TextENGNew": ".........",
+    "significantChanges": false
+  },
+  {
+    "index": 581,
+    "MessageID": 77285,
+    "TextENGNew": "...Yeah, she's right. No more pretending. ...Time to be honest.",
+    "significantChanges": false
+  },
+  {
+    "index": 582,
+    "MessageID": 77286,
+    "TextENGNew": "Deep down, I too had been harboring a smoldering discontent toward Natsumi...like a small fire that had never gone out.",
+    "significantChanges": false
+  },
+  {
+    "index": 583,
+    "MessageID": 77287,
+    "TextENGNew": "...I had heard about the Great Hinamizawa Disaster and the strange incidents being caused by people from that village.",
+    "significantChanges": false
+  },
+  {
+    "index": 584,
+    "MessageID": 77288,
+    "TextENGNew": "In fact, I had only recently learned that one of the patients at the care and welfare center affiliated with my father's hospital was from there, and had been caught up in an incident after returning home.",
+    "significantChanges": false
+  },
+  {
+    "index": 585,
+    "MessageID": 77289,
+    "TextENGNew": "So I understood the prejudice against people from Hinamizawa...I shared that unsettling fear and unease.",
+    "significantChanges": false
+  },
+  {
+    "index": 586,
+    "MessageID": 77290,
+    "TextENGNew": "(But, ...that's exactly it. That's precisely why...!)",
+    "significantChanges": false
+  },
+  {
+    "index": 587,
+    "MessageID": 77291,
+    "TextENGNew": "I wanted Natsumi to tell us the truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 588,
+    "MessageID": 77292,
+    "TextENGNew": "...Mamoru-senpai had told me that Natsumi might be from a village near Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 589,
+    "MessageID": 77293,
+    "TextENGNew": "And the fact that she had been so listless recently, increasingly withdrawing into her own worries, only served to confirm that suspicion.",
+    "significantChanges": false
+  },
+  {
+    "index": 590,
+    "MessageID": 77294,
+    "TextENGNew": "But then...why wouldn't she come to us?",
+    "significantChanges": false
+  },
+  {
+    "index": 591,
+    "MessageID": 77295,
+    "TextENGNew": "Why wouldn't she open up about what was tearing her apart and let us help?",
+    "significantChanges": false
+  },
+  {
+    "index": 592,
+    "MessageID": 77296,
+    "TextENGNew": "Was she afraid we would hate her?",
+    "significantChanges": false
+  },
+  {
+    "index": 593,
+    "MessageID": 77297,
+    "TextENGNew": "Did she think we would stop being her friends if we found out?",
+    "significantChanges": false
+  },
+  {
+    "index": 594,
+    "MessageID": 77298,
+    "TextENGNew": "But couldn't she see that keeping this from us was the greatest betrayal of all?",
+    "significantChanges": false
+  },
+  {
+    "index": 595,
+    "MessageID": 77299,
+    "TextENGNew": "Wasn't the whole reason we were friends because we trusted each other, understood each other's hearts, ...and never thought of using one another?",
+    "significantChanges": false
+  },
+  {
+    "index": 596,
+    "MessageID": 77300,
+    "TextENGNew": "\"......!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 597,
+    "MessageID": 77301,
+    "TextENGNew": "The frustration surging up inside me...made me want to punch the nearest thing I could find.",
+    "significantChanges": false
+  },
+  {
+    "index": 598,
+    "MessageID": 77302,
+    "TextENGNew": "Until now, ...I had been suppressing these feelings out of guilt toward Natsumi. More than that--I had convinced myself they didn't exist in the first place.",
+    "significantChanges": false
+  },
+  {
+    "index": 599,
+    "MessageID": 77303,
+    "TextENGNew": "I told myself this was my just desserts.",
+    "significantChanges": false
+  },
+  {
+    "index": 600,
+    "MessageID": 77304,
+    "TextENGNew": "All those times I had unknowingly, carelessly hurt Natsumi... I believed this was my penance.",
+    "significantChanges": false
+  },
+  {
+    "index": 601,
+    "MessageID": 77305,
+    "TextENGNew": "That it was wrong of me to be angry with Natsumi to begin with...",
+    "significantChanges": false
+  },
+  {
+    "index": 602,
+    "MessageID": 77306,
+    "TextENGNew": "\"--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 603,
+    "MessageID": 77307,
+    "TextENGNew": "But...no. I was wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 604,
+    "MessageID": 77308,
+    "TextENGNew": "All I had been doing was running away from this resentment...",
+    "significantChanges": false
+  },
+  {
+    "index": 605,
+    "MessageID": 77309,
+    "TextENGNew": "\"...Hey, Tamako.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 606,
+    "MessageID": 77310,
+    "TextENGNew": "\"What?\"",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 607,
+    "MessageID": 77311,
+    "TextENGNew": "\"If...it turned out Natsumi really was from Hinamizawa, ...what would you do?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 608,
+    "MessageID": 77312,
+    "TextENGNew": "\"Well. ...If someone else told me that, I'd probably cut ties with her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 609,
+    "MessageID": 77313,
+    "TextENGNew": "Definitive.",
+    "significantChanges": false
+  },
+  {
+    "index": 610,
+    "MessageID": 77314,
+    "TextENGNew": "Without a shred of hesitation, Tamako declared it in a cold voice. And then,",
+    "significantChanges": false
+  },
+  {
+    "index": 611,
+    "MessageID": 77315,
+    "TextENGNew": "\"...But.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 612,
+    "MessageID": 77316,
+    "TextENGNew": "\"Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 613,
+    "MessageID": 77317,
+    "TextENGNew": "\"If...Natsumi herself came to me and confided in me, I think I would protect her. No matter what anyone says, she's my precious best friend.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 614,
+    "MessageID": 77318,
+    "TextENGNew": "\"...Tamako.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 615,
+    "MessageID": 77319,
+    "TextENGNew": "Hearing Tamako's gentle answer, I looked away, lost in thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 616,
+    "MessageID": 77320,
+    "TextENGNew": "What...would I do?",
+    "significantChanges": false
+  },
+  {
+    "index": 617,
+    "MessageID": 77321,
+    "TextENGNew": "Protect Natsumi? Or...",
+    "significantChanges": false
+  },
+  {
+    "index": 618,
+    "MessageID": 77322,
+    "TextENGNew": "\"...Hm?\"",
+    "significantChanges": true,
+    "changeReason": "Significant difference in content length suggests added or omitted information in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 619,
+    "MessageID": 77323,
+    "TextENGNew": "...I hadn't come here with any particular intent to eavesdrop.",
+    "significantChanges": false
+  },
+  {
+    "index": 620,
+    "MessageID": 77324,
+    "TextENGNew": "Tamako said she had an errand to run, so we parted ways on the rooftop. ...Still wanting to sort out my thoughts a bit more, I stopped by the vending machine area to grab a canned coffee.",
+    "significantChanges": false
+  },
+  {
+    "index": 621,
+    "MessageID": 77325,
+    "TextENGNew": "And there, by pure chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 622,
+    "MessageID": 77326,
+    "TextENGNew": "I ended up overhearing Natsumi and Akira's conversation from behind a pillar...",
+    "significantChanges": false
+  },
+  {
+    "index": 623,
+    "MessageID": 77327,
+    "TextENGNew": "\"...You really do think it's creepy, ...don't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 624,
+    "MessageID": 77328,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 625,
+    "MessageID": 77329,
+    "TextENGNew": "To Natsumi's question, Akira remained silent, offering no answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 626,
+    "MessageID": 77330,
+    "TextENGNew": "He merely clenched and unclenched his fists repeatedly, his eyes drifting.",
+    "significantChanges": false
+  },
+  {
+    "index": 627,
+    "MessageID": 77331,
+    "TextENGNew": "...Having known him for so long, I recognized this as Akira's habit when he was desperately searching for the right words to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 628,
+    "MessageID": 77332,
+    "TextENGNew": "\"I knew it. ...It is creepy, isn't it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 629,
+    "MessageID": 77333,
+    "TextENGNew": "But whether she hadn't noticed that about Akira, or simply couldn't wait, Natsumi kept her head bowed and went on talking, drawing her own conclusions.",
+    "significantChanges": false
+  },
+  {
+    "index": 630,
+    "MessageID": 77334,
+    "TextENGNew": "...Since I had my back turned to them, I couldn't see the expression on her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 631,
+    "MessageID": 77335,
+    "TextENGNew": "\"The house covered in eerie talismans... those bizarre chants. ...And those strange incidents where people commit murder.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 632,
+    "MessageID": 77336,
+    "TextENGNew": "\"...It's repulsive, isn't it? Even I hate people like that--I don't want to go anywhere near them...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 633,
+    "MessageID": 77337,
+    "TextENGNew": "\"...Kimiyoshi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 634,
+    "MessageID": 77338,
+    "TextENGNew": "\"Curses, and...'Oyashiro-sama'! It's ridiculous! Why are all the people from Hinamizawa such freaks?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 635,
+    "MessageID": 77339,
+    "TextENGNew": "\"They should just disappear! If they all just vanished, they wouldn't cause anyone any more trouble, and then, and then--!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 636,
+    "MessageID": 77340,
+    "TextENGNew": "\"Stop it, Kimiyoshi!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 637,
+    "MessageID": 77341,
+    "TextENGNew": "\"...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 638,
+    "MessageID": 77342,
+    "TextENGNew": "Unable to bear it any longer, Akira grabbed Natsumi by the shoulders and silenced her.",
+    "significantChanges": false
+  },
+  {
+    "index": 639,
+    "MessageID": 77343,
+    "TextENGNew": "...Natsumi flinched, her body going rigid for an instant, but...she seemed to calm down slightly, hanging her head, and soon her small frame began to tremble.",
+    "significantChanges": false
+  },
+  {
+    "index": 640,
+    "MessageID": 77344,
+    "TextENGNew": "Faintly, ...I could hear Natsumi's muffled sobs.",
+    "significantChanges": false
+  },
+  {
+    "index": 641,
+    "MessageID": 77345,
+    "TextENGNew": "(Eerie talismans...? Bizarre chants...?)",
+    "significantChanges": false
+  },
+  {
+    "index": 642,
+    "MessageID": 77346,
+    "TextENGNew": "Was she talking about the strange behavior of people from Hinamizawa that everyone's been whispering about?",
+    "significantChanges": false
+  },
+  {
+    "index": 643,
+    "MessageID": 77347,
+    "TextENGNew": "Then...could the reason Natsumi didn't bring a lunch today be because someone in her family is...?",
+    "significantChanges": false
+  },
+  {
+    "index": 644,
+    "MessageID": 77348,
+    "TextENGNew": "\"It'll be all right. ...I won't tell anyone about what's happening at your house. The kids in our class don't seem to know whose house it is, either.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 645,
+    "MessageID": 77349,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 646,
+    "MessageID": 77350,
+    "TextENGNew": "\"Besides, there's nothing strange about putting up protective charms, is there? I've seen all sorts of shrine decorations doing outdoor sketches, so...I get it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 647,
+    "MessageID": 77351,
+    "TextENGNew": "\"Toudou-kun...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 648,
+    "MessageID": 77352,
+    "TextENGNew": "\"So don't worry about it. ...I understand.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 649,
+    "MessageID": 77353,
+    "TextENGNew": "\"LIAR!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 650,
+    "MessageID": 77354,
+    "TextENGNew": "In that instant.",
+    "significantChanges": false
+  },
+  {
+    "index": 651,
+    "MessageID": 77355,
+    "TextENGNew": "I barely...just barely managed to swallow the scream that nearly escaped me.",
+    "significantChanges": false
+  },
+  {
+    "index": 652,
+    "MessageID": 77356,
+    "TextENGNew": "Such a voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 653,
+    "MessageID": 77357,
+    "TextENGNew": "Laced with such raw, murderous fury.",
+    "significantChanges": false
+  },
+  {
+    "index": 654,
+    "MessageID": 77358,
+    "TextENGNew": "...I had never heard anything like it.",
+    "significantChanges": false
+  },
+  {
+    "index": 655,
+    "MessageID": 77359,
+    "TextENGNew": "Natsumi...letting out a roar like a wild beast...",
+    "significantChanges": false
+  },
+  {
+    "index": 656,
+    "MessageID": 77360,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 657,
+    "MessageID": 77361,
+    "TextENGNew": "No, ...that wasn't even it.",
+    "significantChanges": false
+  },
+  {
+    "index": 658,
+    "MessageID": 77362,
+    "TextENGNew": "Was that girl really Natsumi?",
+    "significantChanges": false
+  },
+  {
+    "index": 659,
+    "MessageID": 77363,
+    "TextENGNew": "Was that really the slightly timid Natsumi Kimiyoshi I knew?",
+    "significantChanges": false
+  },
+  {
+    "index": 660,
+    "MessageID": 77364,
+    "TextENGNew": "...I couldn't believe it.",
+    "significantChanges": false
+  },
+  {
+    "index": 661,
+    "MessageID": 77365,
+    "TextENGNew": "More than some hidden nature revealing itself...it was as if she had transformed into an entirely different creature that merely wore the same shape. That terrifying sense of wrongness gnawed at me--",
+    "significantChanges": false
+  },
+  {
+    "index": 662,
+    "MessageID": 77366,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 663,
+    "MessageID": 77367,
+    "TextENGNew": "And surely, Akira felt the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 664,
+    "MessageID": 77368,
+    "TextENGNew": "I steadied my breathing and calmed my racing heart before peeking around the corner again. ...Akira stood frozen, eyes wide, his face locked in an expression of stunned disbelief.",
+    "significantChanges": false
+  },
+  {
+    "index": 665,
+    "MessageID": 77369,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 666,
+    "MessageID": 77370,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 667,
+    "MessageID": 77371,
+    "TextENGNew": "\"...... Ah--\"",
+    "significantChanges": false
+  },
+  {
+    "index": 668,
+    "MessageID": 77372,
+    "TextENGNew": "Eventually...as if coming back to herself, Natsumi let out a sharp gasp, then slipped past Akira and fled into the school building.",
+    "significantChanges": false
+  },
+  {
+    "index": 669,
+    "MessageID": 77373,
+    "TextENGNew": "Left behind was Akira, standing there dumbstruck.",
+    "significantChanges": false
+  },
+  {
+    "index": 670,
+    "MessageID": 77374,
+    "TextENGNew": "And me, having completely lost any chance to reveal myself, stranded alone...",
+    "significantChanges": false
+  },
+  {
+    "index": 671,
+    "MessageID": 77375,
+    "TextENGNew": "\"If...Natsumi herself came to me and chose to tell me the truth, I think I'd want to protect her. Because no matter what anyone said, she'd still be my precious best friend.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 672,
+    "MessageID": 77376,
+    "TextENGNew": "Tamako...",
+    "significantChanges": false
+  },
+  {
+    "index": 673,
+    "MessageID": 77377,
+    "TextENGNew": "The Natsumi you spoke of...was Natsumi Kimiyoshi, your 'best friend.'",
+    "significantChanges": false
+  },
+  {
+    "index": 674,
+    "MessageID": 77378,
+    "TextENGNew": "But what if it were a Natsumi who wasn't your 'best friend'? ...What would you do then?",
+    "significantChanges": false
+  },
+  {
+    "index": 675,
+    "MessageID": 77379,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 676,
+    "MessageID": 77380,
+    "TextENGNew": "And...what would I do?",
+    "significantChanges": false
+  },
+  {
+    "index": 677,
+    "MessageID": 77381,
+    "TextENGNew": "I don't know... I don't know what's right anymore...!",
+    "significantChanges": false
+  }
+]

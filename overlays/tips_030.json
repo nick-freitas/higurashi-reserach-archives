@@ -1,0 +1,67 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook IV",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"From The Scrapbook IV\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13491,
+    "TextENGNew": "<Regarding Watanagashi>",
+    "significantChanges": true,
+    "changeReason": "The original omits について (regarding/about), reducing a topical heading to a bare title and losing the framing that this section is a discussion about Watanagashi.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 13492,
+    "TextENGNew": "The Watanagashi rite is today merely a village festival held each June, but tracing it back to its origins reveals a deeply blood-soaked ceremony.",
+    "significantChanges": true,
+    "changeReason": "The original uses 'sanguine' which in modern English primarily means 'optimistic,' creating potential misreading; the Japanese 血生臭い unambiguously means 'reeking of blood.' The new translation removes this ambiguity.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 13493,
+    "TextENGNew": "Originally, Watanagashi operated on a certain cycle: receiving Oyashiro-sama's oracle, a \"sacrifice\" was chosen,@kthen hunted down by the entire village (demoned away), and devoured in a ceremonial feast.",
+    "significantChanges": true,
+    "changeReason": "The original mistranslates 神託 (oracle/divine revelation) as 'trust,' changes 狩り (hunt) to 'kidnap,' and adds 'dissect' which is not present in the Japanese 饗する (to feast upon/entertain with food).",
+    "changeScore": 4
+  },
+  {
+    "index": 4,
+    "MessageID": 13494,
+    "TextENGNew": "(The rules governing these cycles remain largely mysterious.@kThe intervals between ceremonies were extremely irregular.@kSome theories suggest they were determined by astrological divination, but this explanation is unconvincing.)",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13495,
+    "TextENGNew": "The ancient residents of Onigafuchi Village firmly believed they were transcendent beings who possessed supernatural powers—nobler than ordinary humans—and they compelled recognition of this status both within and beyond the village.",
+    "significantChanges": true,
+    "changeReason": "The original adds 'half-man, half-demon' not present in the Japanese 妖しの力を持つ仙人 (transcendents with supernatural powers), and translates 高貴な (noble) as 'more valuable' which changes the nature of the claimed superiority.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 13496,
+    "TextENGNew": "Perhaps the act of hunting and feasting upon sacrifices was performed to demonstrate their superiority in the food chain.",
+    "significantChanges": true,
+    "changeReason": "The original translates 狩り (hunting) as 'kidnapping' and 饗する (feast upon) as 'eating,' and replaces 生贄 (sacrifices) with 'people,' losing the ritualistic framing of the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 13497,
+    "TextENGNew": "This is merely a hypothesis, but could the Watanagashi rite have been a political event—designed as a release valve or a distraction whenever dissatisfaction began to build@kwithin the closed environment of Onigafuchi Village?",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13498,
+    "TextENGNew": "If that was its primary purpose, the irregularity of the ceremony becomes much easier to explain.",
+    "significantChanges": false
+  }
+]

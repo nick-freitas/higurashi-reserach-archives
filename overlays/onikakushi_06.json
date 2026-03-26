@@ -1,0 +1,1622 @@
+[
+  {
+    "index": 1,
+    "MessageID": 33327,
+    "TextENGNew": "How long had I been lying there?",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 33328,
+    "TextENGNew": "Outside, it was already getting dark.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 33329,
+    "TextENGNew": "My body was drenched in sweat.@k ...I should probably change into some sleepwear.",
+    "significantChanges": true,
+    "changeReason": "Old says 'change my sheets'; new says 'change into some sleepwear.' JPN 寝巻きに着替えた means 'change into sleepwear/pajamas' -- old translated the wrong object entirely",
+    "changeScore": 4
+  },
+  {
+    "index": 4,
+    "MessageID": 33330,
+    "TextENGNew": "Just then, the phone rang downstairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 33331,
+    "TextENGNew": "It was probably Mom.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 33332,
+    "TextENGNew": "She was quite the worrywart.@k ...It might not even have been the first call—I may have just slept through the earlier ones.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 33333,
+    "TextENGNew": "``Hello, Maebara residence.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 33334,
+    "TextENGNew": "``Oh, you're alive! Hello!@k@vS01/03/120300083. It's Mion.@k@vS01/03/120300084. How are you feeling~?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Oh, he's alive!'; new says 'Oh, you're alive!' JPN お、生きてた is ambiguous but in phone context, addressing the person directly ('you') vs referring to someone in third person ('he') changes the interaction dynamic",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 33335,
+    "TextENGNew": "``Oh, is this one of Keiichi's friends?@k@vS01/01/120100321. Keiichi's resting right now, but...@k@vS01/01/120100322. Shall I put him on?``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 33336,
+    "TextENGNew": "``Huh?!@k@vS01/03/120300086. O-Oh, is this his father??@k@vS01/03/120300087. Ahahahaha, s-s-sorry!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 33337,
+    "TextENGNew": "``Bwahahahahaha!!@k@vS01/01/120100324. Sucker~!@k@vS01/01/120100325. You totally fell for it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 33338,
+    "TextENGNew": "``What?!@k@vS01/03/120300089. K-Kei-chaaaaAAAAAaan!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 33339,
+    "TextENGNew": "We fell into our usual routine of banter and shared a laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 33340,
+    "TextENGNew": "...But even as we laughed together, I couldn't stop the suspicion creeping in...",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 33341,
+    "TextENGNew": "...Was everyone... really connected to those incidents...?",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 33342,
+    "TextENGNew": "...It saddened me that I couldn't bring myself to say 'no.'",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 33343,
+    "TextENGNew": "``I'm relieved you sound well.@k@vS01/03/120300091. Rena was really worried, you know?@k@vS01/03/120300092. Satoko was gloating—'serves him right!'@k@vS01/03/120300093. And Rika-chan said, 'poor thing, being sick!'``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 33344,
+    "TextENGNew": "``Tch, sounds like you all had a grand old time without me!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'everyone was making a big deal out of it'; new says 'you all had a grand old time without me.' JPN implies envy/being left out, which new captures; old misses the 'without me' nuance",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 33345,
+    "TextENGNew": "``Now, now. So, Kei-chan.@k@vS01/03/120300095. Would it be a bad time if we stopped by?``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 33346,
+    "TextENGNew": "``A visit?@k@vS01/01/120100328. Nah, you don't have to. I'm not exactly on my deathbed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 33347,
+    "TextENGNew": "``My grandma made a mountain of ohagi, you see.@k@vS01/03/120300097. She told me to share them around.@k@vS01/03/120300098. So I'm bringing some over!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi (sweet rice balls coated in red bean paste), a different item from mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 33348,
+    "TextENGNew": "``...Hey, don't blame me if you catch my cold.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 33349,
+    "TextENGNew": "``Don't worry! Both Rena and this old man are too dumb to catch colds!@k@vS01/03/120300100. See ya!@k@vS01/03/120300101. We'll be right there!``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 33350,
+    "TextENGNew": "She hung up with characteristic energy.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 33351,
+    "TextENGNew": "Rena was coming too?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 33352,
+    "TextENGNew": "That's what it sounded like.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 33353,
+    "TextENGNew": "...Seeing Rena still made me a bit uneasy, but I figured it would be fine if Mion was with her.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 33354,
+    "TextENGNew": "Less than ten minutes later, the doorbell rang.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 33355,
+    "TextENGNew": "``How are you feeling?@k@vS01/03/120300103. Did you take your medicine and rest properly~?``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 33356,
+    "TextENGNew": "``You bet I did.``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 33357,
+    "TextENGNew": "``I-I'm glad you look okay. I was worried...``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 33358,
+    "TextENGNew": "``Sorry about that. ...I'll be fine by tomorrow.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 33359,
+    "TextENGNew": "Mion, who showed absolutely no concern for someone recovering from illness, and Rena, who looked genuinely worried from the bottom of her heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 33360,
+    "TextENGNew": "...Their expressions seemed sincere.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 33361,
+    "TextENGNew": "``...I was going to hang out for a bit, but it looks like you're still not back to full strength.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 33362,
+    "TextENGNew": "``Hm, r-really?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 33363,
+    "TextENGNew": "It seemed they'd noticed the shadow crossing my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 33364,
+    "TextENGNew": "``...Well, here, Keiichi-kun.@k@vS01/02/120200146. ...These are ohagi that Mii-chan's grandma made.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 33365,
+    "TextENGNew": "Rena held out a bundle wrapped in newspaper.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 33366,
+    "TextENGNew": "There were probably about five inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 33367,
+    "TextENGNew": "...It had a satisfying heft to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 33368,
+    "TextENGNew": "``Oh, thanks. ...Give my regards to your grandma, Mion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 33369,
+    "TextENGNew": "``Sure.@k@vS01/02/120200148. Oh, and there's one I made mixed in there too!@k@vS01/02/120200149. I wonder if Keiichi-kun can figure out which one...``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 33370,
+    "TextENGNew": "``This is Kei-chan's homework for missing today's club meeting!@k@vS01/03/120300106. Each ohagi has a letter on it, so give me your answer tomorrow!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 33371,
+    "TextENGNew": "``I-Is this a get-well visit or a club assignment—make up your mind!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 33372,
+    "TextENGNew": "``Yep, yep, looking lively. You'll be fine by tomorrow~``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 33373,
+    "TextENGNew": "``What are you gonna do if my fever comes back because of all this racket?``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 33374,
+    "TextENGNew": "``M-Mii-chan, we shouldn't make too much noise...@k@vS01/02/120200151. Let's go.@k@vS01/02/120200152. His family will get upset.``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 33375,
+    "TextENGNew": "...The two of them seemed to think my parents were home.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 33376,
+    "TextENGNew": "Our entryway was cluttered enough to give that impression.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 33377,
+    "TextENGNew": "``You're right, let's head out.@k@vS01/03/120300109. ...Oh, that's right, Kei-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 33378,
+    "TextENGNew": "``What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 33379,
+    "TextENGNew": "``What did you have for lunch?``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 33380,
+    "TextENGNew": "I flinched and looked up at Mion—and froze.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 33381,
+    "TextENGNew": "...It was an expression I'd never seen on her before. Deeply unsettling.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 33382,
+    "TextENGNew": "But... why... was she asking me about lunch...?",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 33383,
+    "TextENGNew": "Mion's words were eerily hollow.",
+    "significantChanges": true,
+    "changeReason": "Old says 'so inane it was almost meaningless' (trivial); new says 'eerily hollow' (ominous). JPN 無気味なくらい空虚 means 'hollow to an eerie/unsettling degree,' new captures the ominous tone the old misses",
+    "changeScore": 4
+  },
+  {
+    "index": 58,
+    "MessageID": 33384,
+    "TextENGNew": "...The way she said it, she didn't seem to care about my answer in the slightest.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 33385,
+    "TextENGNew": "``I-I ate out...``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 33386,
+    "TextENGNew": "...Had they figured out I'd been with Ooishi-san...?",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 33387,
+    "TextENGNew": "I knew that hesitating or dodging the question would only make them read more into it... so I answered as quickly as I could.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 33388,
+    "TextENGNew": "But... despite my best efforts, there was a pause before they responded.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 33389,
+    "TextENGNew": "``...Hmm, so you went out for lunch, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 33390,
+    "TextENGNew": "At some point, the light in Rena's eyes had changed too.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 33391,
+    "TextENGNew": "...They gleamed with an intensity that made the casual tone of her words feel all the more hollow.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 33392,
+    "TextENGNew": "...She already knew. That's the only way it looked to me—she was feigning ignorance.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 33393,
+    "TextENGNew": "``How was it? Tasty?``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 33394,
+    "TextENGNew": "``...Wh-Why are you even asking me this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 33395,
+    "TextENGNew": "Mion's voice had dropped to an oddly low register.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 33396,
+    "TextENGNew": "...Almost as if... she knew I'd eaten at that restaurant in town...",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 33397,
+    "TextENGNew": "No... I was overthinking this.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 33398,
+    "TextENGNew": "...Both of them should have been at school during lunch.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 33399,
+    "TextENGNew": "...There was no way they could have known where I was...",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 33400,
+    "TextENGNew": "``Seems you were with a rather distinguished older gentleman. ...Who was he?``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 33401,
+    "TextENGNew": "*Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 33402,
+    "TextENGNew": "...The bundle of ohagi slipped from my hands.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 33403,
+    "TextENGNew": "I could feel the blood draining from my face with an almost audible rush.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 33404,
+    "TextENGNew": "``...Oh?@k@vS01/02/120200155. Keiichi-kun, who was that?@k@vS01/02/120200156. ...Could it have been the same man from before, I wonder?@k@vS01/02/120200157. ...I wonder?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 33405,
+    "TextENGNew": "My mouth went bone-dry, right down to the root of my tongue...",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 33406,
+    "TextENGNew": "This was no bluff.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 33407,
+    "TextENGNew": "...They... knew everything...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 33408,
+    "TextENGNew": "``H-How... do you... know that...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 33409,
+    "TextENGNew": "It took everything I had to squeeze those words from my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 33410,
+    "TextENGNew": "...My knees had started to buckle.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 33411,
+    "TextENGNew": "``...Who knows?@k@vS01/03/120300114. ...There's nothing this old man doesn't find out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 33412,
+    "TextENGNew": "...Mion smirked—a knowing, lingering grin.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 33413,
+    "TextENGNew": "``So, Kei-chan, what did you talk about?@k@vS01/03/120300116. You seemed pretty worked up about it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 33414,
+    "TextENGNew": "``W-We weren't talking about you guys...!@k@vS01/01/120100341. It had nothing to do with Mion or Rena...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 33415,
+    "TextENGNew": "``Hmm?@k@vS01/02/120200159. ...Funny how our names come up even though nobody asked about us, hmmm?``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 33416,
+    "TextENGNew": "Rena's sticky gaze bored into me, probing past my eyes into something deeper.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 33417,
+    "TextENGNew": "I'd dug my own grave.@k ...My heart pounded so hard it felt like it might explode...",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 33418,
+    "TextENGNew": "``Well, whatever you're trying to hide, this old man already sees through it all.@k@vS01/03/120300118. ...Just don't forget that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 33419,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 33420,
+    "TextENGNew": "I couldn't even shake my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 33421,
+    "TextENGNew": "...It took everything I had just to keep my teeth from chattering...",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 33422,
+    "TextENGNew": "Mion tilted her head in an almost elegant gesture, but her gaze never once released mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 33423,
+    "TextENGNew": "``...Keiichi-kun, you don't look so good.@k@vS01/02/120200161. I think you should lie down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 33424,
+    "TextENGNew": "``You're right. We should be going.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 33425,
+    "TextENGNew": "The two of them shared a laugh as if nothing had happened and turned to leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 33426,
+    "TextENGNew": "I hadn't moved a muscle since I'd dropped the ohagi—I stood frozen in the same position.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 101,
+    "MessageID": 33427,
+    "TextENGNew": "They stepped out through the door... and it began to close... slowly.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 33428,
+    "TextENGNew": "...All I could do was stare.@k ...As if I weren't allowed to move until the door had shut completely.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 33429,
+    "TextENGNew": "Then the nearly-closed door was yanked back open, and my heart leapt into my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 33430,
+    "TextENGNew": "A single eye peered through the gap, and once again, Mion's hawkish gaze pierced right through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 33431,
+    "TextENGNew": "``See you, Kei-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 33432,
+    "TextENGNew": "``...Y-Yeah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 33433,
+    "TextENGNew": "``...'Don't you dare' miss school tomorrow, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 33434,
+    "TextENGNew": "*Slam.*",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 33435,
+    "TextENGNew": "...The door closed.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 33436,
+    "TextENGNew": "Even after their low laughter faded into the distance and silence returned, I couldn't move a single finger...",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 33437,
+    "TextENGNew": "When I finally came to my senses, the first thing I did was lock the door...",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 33438,
+    "TextENGNew": "Mion and the others... knew I'd been talking to Ooishi-san...?!",
+    "significantChanges": true,
+    "changeReason": "Old says 'They knew what Ooishi-san and I talked about'; new says 'Mion and the others knew I'd been talking to Ooishi-san.' Old implies they know the content, new only implies they know the meeting occurred. JPN uses 話していたこと (the fact of talking), ambiguous",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 33439,
+    "TextENGNew": "How...?!@k Why?!",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 33440,
+    "TextENGNew": "No... that didn't matter. The only thing that mattered was that they knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 33441,
+    "TextENGNew": "Thinking back... from the very first time Ooishi-san approached me, they may have been listening to everything.@k ...Just as Mion said... I couldn't hide anything from them...",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 33442,
+    "TextENGNew": "Then... what were they trying to tell me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 33443,
+    "TextENGNew": "...The answer was obvious.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 33444,
+    "TextENGNew": "They were warning me not to discuss anything 'unnecessary.'",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 33445,
+    "TextENGNew": "What counts as unnecessary...?",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 33446,
+    "TextENGNew": "I only ever discussed one thing with Ooishi-san.@k ...And that was what they were warning me about.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 33447,
+    "TextENGNew": "What Ooishi-san and I discussed... was that the annual incidents attributed to Oyashiro-sama's curse weren't isolated cases—@k they were all connected, and the perpetrators might be a group hiding within Hinamizawa itself...",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 33448,
+    "TextENGNew": "No... he went further than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 33449,
+    "TextENGNew": "...He named Mion, Rena, Satoko, and Rika-chan outright as suspects.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 33450,
+    "TextENGNew": "If this was a warning against that...?",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 33451,
+    "TextENGNew": "``Wh-What kind of nonsense am I thinking?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 33452,
+    "TextENGNew": "I slapped my own cheek so hard that it cracked through the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 33453,
+    "TextENGNew": "...I'd hoped it might snap me out of this nightmare... but for some reason it felt like hitting a pillow—frustratingly painless.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 33454,
+    "TextENGNew": "Calm down, Maebara Keiichi...!",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 33455,
+    "TextENGNew": "Since when did I become someone who could only think the worst?!",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 33456,
+    "TextENGNew": "Calm down. Calm down!",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 33457,
+    "TextENGNew": "Take a breath and think this through...!",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 33458,
+    "TextENGNew": "The reason Mion knew about my lunch with Ooishi-san... was probably just that someone from Hinamizawa happened to be at the restaurant.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 33459,
+    "TextENGNew": "They must have mentioned to Mion that they'd seen me there...",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 33460,
+    "TextENGNew": "That was the most natural explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 33461,
+    "TextENGNew": "And... when I really thought about it... all Mion had asked was where I ate lunch.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 33462,
+    "TextENGNew": "...Then she just asked, 'Was it good?'...!",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 33463,
+    "TextENGNew": "Since the person I was with wasn't from Hinamizawa, it naturally piqued their curiosity... that's all. There wasn't necessarily any ulterior motive...@k That's right. That had to be it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 33464,
+    "TextENGNew": "When I thought about it, the same was true with Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 33465,
+    "TextENGNew": "I'd been evasive about meeting Ooishi-san, so Rena had simply called me out on it.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 33466,
+    "TextENGNew": "The gap between her usual mild-mannered self and that sharp side had just thrown me off... it had simply startled me.@k That was the most natural way to look at it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 33467,
+    "TextENGNew": "...My head felt like a tangled mess of spaghetti.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 33468,
+    "TextENGNew": "...If you squeezed it, bright red marinara might come pouring out of my ears and nose.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 33469,
+    "TextENGNew": "That thought triggered a sudden wave of nausea and a headache.",
+    "significantChanges": true,
+    "changeReason": "Old says 'felt like vomiting'; new says 'triggered a sudden wave of nausea and a headache.' JPN 嘔吐感 and context -- new adds 'headache' (頭痛) which may come from adjacent text, but it adds a symptom not in old",
+    "changeScore": 2
+  },
+  {
+    "index": 144,
+    "MessageID": 33470,
+    "TextENGNew": "...Not wanting that to actually happen, I stopped clutching my head...",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 33471,
+    "TextENGNew": "Lately, I had no idea what anyone was really saying...",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 33472,
+    "TextENGNew": "Being with everyone was fun.@k There was no sense of hidden agendas.@k They really were good people...",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 33473,
+    "TextENGNew": "When I'd just moved here, knowing nothing about anything, they'd been genuinely kind to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 33474,
+    "TextENGNew": "Rena was truly kind and thoughtful.@k When that strange side of her didn't show up, she was really a sweet girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 33475,
+    "TextENGNew": "Mion was also a fantastic person.@k She never cared about age or gender—positive and proactive.@k There was never a dull moment with her.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 33476,
+    "TextENGNew": "...Speaking of never dull, the boisterous Satoko was great too.@k She was mouthy, sure, but that was just how she connected with people.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 33477,
+    "TextENGNew": "...And Rika-chan was no different.@k She may not have talked much, but she wasn't withdrawn. ...She was one of us!",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 33478,
+    "TextENGNew": "...But... ever since Tomitake-san and Ooishi-san had burdened me with Hinamizawa's secrets I didn't need to know—the story of Oyashiro-sama's curse—everything had started to go wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 33479,
+    "TextENGNew": "And then Ooishi-san had told me... that everyone—Mion, Rena, Satoko, Rika-chan—was suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 33480,
+    "TextENGNew": "...After that... everyone changed.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 33481,
+    "TextENGNew": "...That's right.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 33482,
+    "TextENGNew": "Everything started going wrong after Ooishi-san began filling my head with those stories...",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 33483,
+    "TextENGNew": "...I should have refused to listen back then. I should have shut it all out.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 33484,
+    "TextENGNew": "...For that matter, I should never have asked Tomitake-san about the past incidents on the night of the Watanagashi...",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 33485,
+    "TextENGNew": "...If only I hadn't let that curiosity get the better of me... if only I hadn't...",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 33486,
+    "TextENGNew": "That's right...@k That's why they did what they did to Tomitake-san.@k He was an outsider who had the nerve to tell me what they'd gone out of their way to keep hidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 33487,
+    "TextENGNew": "Then Ooishi-san would be next, too...@k For trying to dig up what everyone had warned me was better left buried.",
+    "significantChanges": true,
+    "changeReason": "Old says 'They'll probably **** Ooishi-san as well' (censored violent action); new says 'Then Ooishi-san would be next, too...' (vaguer threat). The register and specificity differ significantly",
+    "changeScore": 3
+  },
+  {
+    "index": 162,
+    "MessageID": 33488,
+    "TextENGNew": "Besides... he was unforgivable for planting seeds of doubt about my friends.@k ...A man like that—who cares what happens to him...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 33489,
+    "TextENGNew": "Tomitake-san and Ooishi-san were outsiders in the end.@k Entities that could never coexist with the people of Hinamizawa.@k People like them deserved to fall victim to Oyashiro-sama's curse and just ***!!",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 33490,
+    "TextENGNew": "Everyone was innocent.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 33491,
+    "TextENGNew": "...The one at fault was me, for not being able to rein in my curiosity.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 33492,
+    "TextENGNew": "Everyone was innocent.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 33493,
+    "TextENGNew": "Everyone was innocent.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 33494,
+    "TextENGNew": "Everyonewasinnocenteveryonewasinnocenteveryonewasinnocent.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 33495,
+    "TextENGNew": "A dull, dazed feeling settled over me... like the grogginess of just waking up, but the ominous chill that had gripped me was fading.@k ...I was fine now.@k ...I wasn't scared anymore.@k ...I was completely back to normal.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 33496,
+    "TextENGNew": "I'd go to school tomorrow, bright and cheerful.@k I'd greet everyone.@k I'd join in club activities.@k It would be fun.@k It had to be fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 33497,
+    "TextENGNew": "...Because I was one of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 33498,
+    "TextENGNew": "``...Oh, right. I need to eat those ohagi...@k@vS01/01/120100346. I have to figure out which one Rena made.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 173,
+    "MessageID": 33499,
+    "TextENGNew": "I remembered the 'homework' the two of them had brought along with their visit.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 33500,
+    "TextENGNew": "Though really, the fact that our club offered delivery service was pretty impressive.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 33501,
+    "TextENGNew": "I picked up the bundle of ohagi from where it had fallen on the floor and carried it to the living room.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 33502,
+    "TextENGNew": "It would be nice to have some tea with it.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 33503,
+    "TextENGNew": "...Homemade ohagi with a cup of tea.@k ...Hey.@k That was actually a pretty delightful setup.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 178,
+    "MessageID": 33504,
+    "TextENGNew": "Inside the newspaper wrapping were five compact but dense koshi-an ohagi.",
+    "significantChanges": true,
+    "changeReason": "Old says 'red bean paste mochi'; new says 'koshi-an ohagi.' JPN こしあんのおはぎ means ohagi with smooth bean paste (koshi-an), an entirely different food preparation from mochi",
+    "changeScore": 3
+  },
+  {
+    "index": 179,
+    "MessageID": 33505,
+    "TextENGNew": "Letters had been written on the newspaper beneath each one, from left to right: A, B, C, D, E.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 33506,
+    "TextENGNew": "Now then.@k One of these was supposedly Rena's handiwork... but which one?",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 33507,
+    "TextENGNew": "They all looked more or less the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 33508,
+    "TextENGNew": "The smell and general appearance were nearly identical.@k ...This was... a genuinely challenging problem!",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 33509,
+    "TextENGNew": "If there was one area where differences might show... it was probably the shape.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 33510,
+    "TextENGNew": "I had no idea what kind of person Mion's grandmother was, but her work had to be different from Rena's...!",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 33511,
+    "TextENGNew": "Looking closely, I noticed one ohagi that had been crafted with exceptional care.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 186,
+    "MessageID": 33512,
+    "TextENGNew": "If you stared at them, you could spot it right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 33513,
+    "TextENGNew": "``...Looks like the whole thing hinges on whether or not this one is Rena's.``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 33514,
+    "TextENGNew": "I calmed myself and thought harder...!",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 33515,
+    "TextENGNew": "...Mion had said her grandma made a mountain of them and was sharing them around.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 33516,
+    "TextENGNew": "...Which meant four of these five came from that massive batch.",
+    "significantChanges": true,
+    "changeReason": "Old says 'four of these' without context; new says 'four of these five,' explicitly stating the total count of items being compared. JPN この中の４つ in context of five ohagi makes '4 of 5' more accurate",
+    "changeScore": 2
+  },
+  {
+    "index": 191,
+    "MessageID": 33517,
+    "TextENGNew": "And what about Rena?",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 33518,
+    "TextENGNew": "She'd probably... only made this single one.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 33519,
+    "TextENGNew": "So she would have poured all her effort into that one piece.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 33520,
+    "TextENGNew": "...In other words... Rena's handmade ohagi was... this one—E!!",
+    "significantChanges": true,
+    "changeReason": "Old says 'the one Rena had made was this one... E!!'; new says 'Rena's handmade ohagi was... this one--E!!' Also corrects mochi to ohagi",
+    "changeScore": 3
+  },
+  {
+    "index": 195,
+    "MessageID": 33521,
+    "TextENGNew": "For a moment, I wondered if Mion had anticipated this and set a trap, but that was unlikely.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 33522,
+    "TextENGNew": "...If Mion had made it, I'd be less certain, but since she'd said Rena made it, there shouldn't be any trick.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 33523,
+    "TextENGNew": "``All right.@k@vS01/01/120100349. Tea is ready.@k@vS01/01/120100350. First up, the defending champion—Mion's grandma.@k@vS01/01/120100351. ...Let's see.``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 33524,
+    "TextENGNew": "Hmm.@k ...Not bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 33525,
+    "TextENGNew": "The smoothness of the koshi-an paired with its substantial bite was not to be underestimated!!",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 33526,
+    "TextENGNew": "A sip of tea afterward only enhanced the experience.@k ...This was... exquisite craftsmanship!",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 33527,
+    "TextENGNew": "Now, how about Rena's?",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 33528,
+    "TextENGNew": "A delicate creation worthy of a high-end Japanese confectionery.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 33529,
+    "TextENGNew": "As a growing boy, I was a little concerned about the smaller portion...@k But first, a bite...",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 33530,
+    "TextENGNew": "...This was going to be a tough call!",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 33531,
+    "TextENGNew": "Since the ingredients were identical, the flavor was virtually the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 33532,
+    "TextENGNew": "The only difference was in the final shaping, so that was to be expected.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 33533,
+    "TextENGNew": "So the deciding factors would be artistry... and portion size.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 33534,
+    "TextENGNew": "The champion, with her satisfying, substantial portion, versus the challenger Rena, with her irresistibly dainty size!",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 33535,
+    "TextENGNew": "I'd only taken one bite of Rena's so far.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 33536,
+    "TextENGNew": "Better to finish it before passing judgment.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 33537,
+    "TextENGNew": "...There might be some incredible surprise hidden inside that could turn the tide...!",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 33538,
+    "TextENGNew": "``*Munch munch* ...Hmm?``",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 33539,
+    "TextENGNew": "It seemed my prediction had been right.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 33540,
+    "TextENGNew": "My tongue touched something.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 33541,
+    "TextENGNew": "It didn't feel like food, so I pinched it between my fingers and pulled it out.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 33542,
+    "TextENGNew": "...What...@k@|@y ...was this?",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 33543,
+    "TextENGNew": "Before my brain could process what it was, I'd already hurled the half-eaten ohagi with all my strength!!!",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi'; new says 'ohagi.' JPN おはぎ means ohagi, not mochi. Corrected food item",
+    "changeScore": 3
+  },
+  {
+    "index": 218,
+    "MessageID": 33544,
+    "TextENGNew": "It smashed against the wall, and bean paste splattered everywhere.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 33545,
+    "TextENGNew": "After a single heartbeat, it peeled away and dropped to the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 33546,
+    "TextENGNew": "...I stared, stunned at my own actions.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 33547,
+    "TextENGNew": "What was I doing...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 33548,
+    "TextENGNew": "Rena had gone to the trouble of making it by hand... how could I?!",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 33549,
+    "TextENGNew": "Dazed, I looked at the hand that had committed this atrocity... then remembered what I had pulled from my mouth...",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 33550,
+    "TextENGNew": "At first, I'd thought it was a strand of hair.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 33551,
+    "TextENGNew": "But even Rena, whose hair was shorter than Mion's, had fairly long hair.@k It wouldn't have been this short.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 33552,
+    "TextENGNew": "Besides, it was a bit too stiff to be hair.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 33553,
+    "TextENGNew": "It was thick enough to roll around on my tongue.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 33554,
+    "TextENGNew": "...It had a faint silver gleam, and at one end... yes, there was a small hole—like the eye of a sewing needle...",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 33555,
+    "TextENGNew": "Yes, that was it...",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 33556,
+    "TextENGNew": "It looked very much like a sewing needle.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 33557,
+    "TextENGNew": "...Exactly like one.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 33558,
+    "TextENGNew": "...The tip was sharp, too.@k Extremely sharp.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 33559,
+    "TextENGNew": "...It truly did look just like a sewing needle.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 33560,
+    "TextENGNew": "Wait.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 33561,
+    "TextENGNew": "...That thing just now... if it only 'looked like' a sewing needle... then what was it...?",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 33562,
+    "TextENGNew": "...I couldn't answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 33563,
+    "TextENGNew": "But another part of me already knew—and it told me by setting my molars chattering.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 33564,
+    "TextENGNew": "...I couldn't push back the terror welling up inside me...",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 33565,
+    "TextENGNew": "A metallic taste flooded my mouth, and the back of my tongue began to sting.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 33566,
+    "TextENGNew": "...I shoved a finger into the back of my mouth, feeling around to check for bleeding.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 33567,
+    "TextENGNew": "...A sudden surge of nausea.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 33568,
+    "TextENGNew": "The burning tang of stomach acid seared the back of my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 33569,
+    "TextENGNew": "I clamped both hands over my mouth and writhed in agony... until the nausea finally, barely, subsided.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 33570,
+    "TextENGNew": "Once I could breathe normally again, my heart started hammering like a fire bell.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 33571,
+    "TextENGNew": "...And then, finally, the conscious part of me understood too.@k What had been hidden inside the ohagi.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mixed in with the mochi'; new says 'hidden inside the ohagi.' JPN おはぎ means ohagi, not mochi. Also 'mixed in' vs 'hidden inside' changes the nature of the concealment",
+    "changeScore": 3
+  },
+  {
+    "index": 246,
+    "MessageID": 33572,
+    "TextENGNew": "My hands moved before the word even formed in my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 33573,
+    "TextENGNew": "*SPLAT!*",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 33574,
+    "TextENGNew": "*SMACK!!*",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 33575,
+    "TextENGNew": "*SPLORCH!!!*",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 33576,
+    "TextENGNew": "I hurled the remaining ohagi against the wall, one after another.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mochi' (wrong food item); new says 'ohagi' (correct). JPN おはぎ means ohagi (rice balls), not mochi",
+    "changeScore": 3
+  },
+  {
+    "index": 251,
+    "MessageID": 33577,
+    "TextENGNew": "The geometric patterns the scattered bean paste drew on the wall seemed to suggest something ominous...",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 33578,
+    "TextENGNew": "I tore my eyes away, dashed into the hallway, thundered up the stairs to my room, and dove under the covers that were still laid out from this morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 33579,
+    "TextENGNew": "Clutching my own shoulders, I howled—a snarl of fear, frustration, rage, and grief all tangled together...",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 33580,
+    "TextENGNew": "This wasn't a warning, or a threat, or an admonition—nothing so mild as any of those...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 33581,
+    "TextENGNew": "What had happened in Hinamizawa?",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 33582,
+    "TextENGNew": "What was happening now?",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 33583,
+    "TextENGNew": "What was about to happen?",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 33584,
+    "TextENGNew": "...I didn't know the answer to any of those. And none of them mattered.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 33585,
+    "TextENGNew": "What taboo had I broken, and where?!",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 33586,
+    "TextENGNew": "All I knew was... Rena and Mion... and perhaps others too?@k I had made enemies of them!!",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 33587,
+    "TextENGNew": "And they... wanted me dead!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 33588,
+    "TextENGNew": "Like hell I'll let you kill me!!@k Not like this—not without even knowing why!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 33589,
+    "TextENGNew": "A vortex of negative emotions dragged me down into a restless sleep, like a swirling, bottomless swamp...",
+    "significantChanges": false
+  }
+]

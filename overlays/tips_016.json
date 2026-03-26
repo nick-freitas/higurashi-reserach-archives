@@ -1,0 +1,255 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "A Drug That Induces Suicide?",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"What's a Drug That Makes You Commit Suicide?\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12939,
+    "TextENGNew": "``Let me get straight to the point... is there a drug that can make someone kill themselves?``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12940,
+    "TextENGNew": "``Not directly, no.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 12941,
+    "TextENGNew": "``That’s a roundabout answer. ...So you’re saying there’s an indirect way?``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12942,
+    "TextENGNew": "``What I mean is that it’s possible to induce a mental state in which someone becomes suicidal.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12943,
+    "TextENGNew": "``...That’s getting complicated. What exactly is a “suicidal mental state”?``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12944,
+    "TextENGNew": "``Well, from a general psychological standpoint, it’s said that suicide attempts most often occur during the transition from an introverted state to an extroverted one.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12945,
+    "TextENGNew": "Bipolar disorder is distinct from clinical depression.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12946,
+    "TextENGNew": "Depression produces only a deeply negative mental state,@kbut bipolar disorder alternates between that negative, depressive state and an extremely active manic state.",
+    "significantChanges": true,
+    "changeReason": "Old says manic state \"accompanies\" the depressive state; new correctly says they \"alternate\" (交互に), reflecting that bipolar disorder cycles between states rather than having them simultaneously.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 12947,
+    "TextENGNew": "``During the introverted phase, the individual loses all confidence and becomes deeply pessimistic. But they don’t commit suicide.@k@vS20/00/443200024. They lack even the willpower to take their own life.@k@vS20/00/443200025. ...And during the opposite phase, they don’t commit suicide either.``",
+    "significantChanges": true,
+    "changeReason": "Old omits the third line 逆の状態もまた自殺をせん (\"the opposite state also doesn't lead to suicide\"), and has the missing closing quotation mark fixed in new.",
+    "changeScore": 4
+  },
+  {
+    "index": 10,
+    "MessageID": 12948,
+    "TextENGNew": "``In that state, they’re overflowing with confidence and energy—they feel like everything is going swimmingly. So naturally, they have no reason to end their life.``",
+    "significantChanges": true,
+    "changeReason": "Old includes material from the previous entry (\"The opposite state doesn't lead to suicide, either\") that doesn't belong in this line; also \"walking on air\" changed to \"going swimmingly\" which better matches 順風満帆 (smooth sailing).",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 12949,
+    "TextENGNew": "``...I see. So neither state leads to suicide on its own, but when the transition between them occurs, that’s when it happens?``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12950,
+    "TextENGNew": "``During the introverted phase, the desire to die exists, but they lack the energy to carry out such a monumental act. However, as the extroverted phase begins, their motivation gradually returns and they regain control of their body.``",
+    "significantChanges": true,
+    "changeReason": "\"Gain a burst of willpower\" changed to \"motivation gradually returns\" -- Japanese says 徐々に (gradually), contradicting the sudden \"burst\" in the old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 12951,
+    "TextENGNew": "``I see! So in other words, they recover the energy needed to go through with suicide.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12952,
+    "TextENGNew": "``Precisely.@k@vS20/00/443200028a. That’s why medication is prescribed during that transitional period—to keep them from acting on those impulses.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12953,
+    "TextENGNew": "``...So was Tomitake in this kind of mental state?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12954,
+    "TextENGNew": "``Generally speaking, suicide is carried out through deliberate, culturally understood methods. Tools are involved.@k@vS20/00/443200030. It’s completely different from self-mutilation!``",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases 道具を使用して (using tools) as \"They prepare\"; new correctly translates it as \"Tools are involved.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 12955,
+    "TextENGNew": "``Tomitake’s death was hardly what you’d call deliberate...``",
+    "significantChanges": true,
+    "changeReason": "\"Civilized\" changed to \"deliberate\" -- 文化的 means cultural/civilized (matching the forensic investigator's previous terminology about 文化的な手法), not \"deliberate\" which has a different meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 12956,
+    "TextENGNew": "``...Then perhaps it’s most natural to assume some kind of intoxication was involved. Please tell me about that drug you mentioned—the one that induces a suicidal mental state.``",
+    "significantChanges": true,
+    "changeReason": "Old asks about a \"drug that causes someone to commit suicide\" but the Japanese specifies 自殺したくなる精神状態を起こす薬 (a drug that induces a mental state of wanting to commit suicide), and 中毒 (intoxication) is rendered as \"foreign substance\" in old but \"intoxication\" in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 12957,
+    "TextENGNew": "``There are reports that certain analgesics can cause an excessive psychological swing from introverted to extroverted.``",
+    "significantChanges": true,
+    "changeReason": "\"Violent\" changed to \"excessive\" -- 過剰 means excessive/extreme, not violent.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 12958,
+    "TextENGNew": "``...Additionally, abnormal consumption of drugs with hypnotic properties has been reported to cause erratic behavior, though it’s not very common.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12959,
+    "TextENGNew": "``Neither of those showed up in the autopsy report. ...Are there any other possibilities?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12960,
+    "TextENGNew": "``The only remaining possibility would be illness.@k@vS20/00/443200034. Diseases that cause thyroid abnormalities have been reported to produce similar symptoms. But those all come with distinctive symptoms of their own.@k@vS20/00/443200035. The deceased exhibited none of them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12961,
+    "TextENGNew": "``Isn’t there something more sudden? Something that fits this case—an acute condition that would make someone want to kill themselves on the spot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12962,
+    "TextENGNew": "``Let me think... well, there’s the possibility of psychological disturbance caused by brain damage.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 12963,
+    "TextENGNew": "``This can be caused by drug intoxication, but also by physical trauma to the brain or certain diseases.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"physical trauma\" generally; new specifies \"physical trauma to the brain\" matching the Japanese 脳の外傷 (brain trauma).",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 12964,
+    "TextENGNew": "``So you’re saying it’s possible to fall into an abnormal mental state even without drugs.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 12965,
+    "TextENGNew": "``The deceased was surrounded by his attackers with his life in danger, right?@k@vS20/00/443200039. Prolonged extreme stress, compounded by hormonal irregularities, and on top of that, an unlucky blow to the head causing brain damage that triggered self-destructive behavior... it’s a possibility, at least.``",
+    "significantChanges": true,
+    "changeReason": "Old adds \"after being chased\" which is not in the Japanese (犯人に囲まれて = surrounded by criminals); also \"messed with his brain chemistry\" oversimplifies 分泌異常 (hormonal irregularities) and the new more accurately translates the chain of causation.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 12966,
+    "TextENGNew": "``...Could you perhaps put that in simpler terms...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 12967,
+    "TextENGNew": "``Ha ha ha! Put simply—he bonked his head during the brawl, and that made him go haywire.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 12968,
+    "TextENGNew": "``Bwah ha ha ha ha ha ha!!! So the attackers didn’t actually intend to kill him, then.@k@vS20/11/440700031. They just wanted to rough him up for some pocket change and happened to hit him in the wrong spot!``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 12969,
+    "TextENGNew": "Two portly middle-aged men shared a vulgar laugh.",
+    "significantChanges": true,
+    "changeReason": "Old omits 中年 (middle-aged) and mistranslates 下品に (vulgarly) as \"hoarsely\"; new correctly describes them as \"portly middle-aged men\" with a \"vulgar laugh.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 12970,
+    "TextENGNew": "``...But of course, that’s not what happened.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 12971,
+    "TextENGNew": "``Ahem. ...Indeed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 12972,
+    "TextENGNew": "``Whether it was habitual drug use or something psychological, the deceased’s identity holds the key. How’s that side of the investigation going?``",
+    "significantChanges": true,
+    "changeReason": "\"Background\" changed to \"identity\" -- 身元 specifically means identity/personal details, not background.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 12973,
+    "TextENGNew": "``Oh my, look at the time! I’d better head back before Kuma-chan gets upset with me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 12974,
+    "TextENGNew": "``Right! Keep at it!@k@vS20/00/443200044. And have a good one!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 12975,
+    "TextENGNew": "``Same to you!``",
+    "significantChanges": false
+  }
+]

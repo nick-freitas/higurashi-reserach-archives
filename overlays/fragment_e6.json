@@ -1,0 +1,850 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6345,
+    "TextENGNew": "...Ugh...?!",
+    "significantChanges": true,
+    "changeReason": "Interjection changed from 'Aah' to 'Ugh'; the Japanese うっ specifically indicates a grunt/groan, making 'Ugh' more accurate.",
+    "changeScore": 1
+  },
+  {
+    "index": 2,
+    "MessageID": 6346,
+    "TextENGNew": "A dim corridor stretched out before me as I stepped off the elevator.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 6347,
+    "TextENGNew": "The sight of it filled me with more than unease—I felt a genuine, creeping fear.",
+    "significantChanges": true,
+    "changeReason": "Old translation mentions 'flinch' (physical recoil from 尻込み) which is dropped in the new version, changing the described reaction.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 6348,
+    "TextENGNew": "...\nThis really is the right place... isn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 6349,
+    "TextENGNew": "I could not help muttering that to myself—the hallway, devoid of any human presence, was so cold and unsettling that my skin crawled.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 6350,
+    "TextENGNew": "...The fluorescent lights flickered, as if they might go out at any moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 6351,
+    "TextENGNew": "The linoleum floor threw back a shrill echo with every step I took.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 6352,
+    "TextENGNew": "Even the hum of the ventilation system—or whatever that mechanical drone was—grated on my nerves.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 6353,
+    "TextENGNew": "Even the research building I had snuck into in the dead of night as a student to retrieve something I had forgotten was never this ghastly a sight.",
+    "significantChanges": true,
+    "changeReason": "Old says 'pick up something from the lost and found' but the Japanese 忘れ物を取りに (retrieve a forgotten item) doesn't mention lost and found; new version corrects this.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 6354,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 6355,
+    "TextENGNew": "This went well beyond cost-cutting... it felt more like a stage set for a courage test.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 6356,
+    "TextENGNew": "Could it be that whatever department occupied this floor was despised by general affairs? Or was it the administration's way of signaling that they did not consider it important...?",
+    "significantChanges": true,
+    "changeReason": "Old says 'facilities personnel' but Japanese 総務 means 'general affairs department'; new correctly translates this as 'general affairs'.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 6357,
+    "TextENGNew": "...Haah...",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 6358,
+    "TextENGNew": "The air felt stagnant and oppressively heavy. I pressed my hand to my chest and drew several slow, deep breaths.",
+    "significantChanges": true,
+    "changeReason": "Old says 'rapidly beating chest' but Japanese 高鳴る胸を押さえながら describes pressing a pounding chest while breathing deeply; new adds 'slow, deep breaths' vs just exhaling.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 6359,
+    "TextENGNew": "...I wanted nothing more than to turn around and go back up to daylight, but my new posting lay somewhere ahead—I had no choice but to keep walking.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 6360,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 6361,
+    "TextENGNew": "Even so, perhaps I should have asked someone to escort me.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 6362,
+    "TextENGNew": "Even so...",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 6363,
+    "TextENGNew": "Alongside the anxiety that weakened my knees, I also felt something more: a sense of wrongness.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 6364,
+    "TextENGNew": "When I heard the words \"Public Relations Office,\" I had naturally pictured a place with a cheerful mascot near the entrance, pamphlets displayed for visitors, and posters on every wall.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 6365,
+    "TextENGNew": "In fact, the last time I had come here for an interview, it had been on the second floor of the National Police Agency building—a clean, brightly lit office open to ordinary visitors.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 6366,
+    "TextENGNew": "There had been a showroom with exhibits, and on that same day a group of elementary school students on a field trip had been shown around by a smiling female officer.",
+    "significantChanges": true,
+    "changeReason": "New adds 'on that same day' and 'on a field trip' (社会見学), details present in JPN but missing from old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 6367,
+    "TextENGNew": "So I had half resigned myself to the likelihood that I too would be doing more work with children—and with that in mind I had called out to one of the staff members... only to be directed down here.",
+    "significantChanges": true,
+    "changeReason": "New adds 'only to be directed down here' which clarifies the trailing 'but...' in old, giving the reader the implication explicitly.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 6368,
+    "TextENGNew": "...Ah, you are the one being assigned to Director Maeno's office?\nYour office is on the first basement floor.\nTake the elevator at the far east end, then go all the way to the room at the end of the corridor.",
+    "significantChanges": true,
+    "changeReason": "New changes 'the room is around there' to 'the room at the end of the corridor', matching JPN つきあたりの部屋 (room at the dead end).",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 6369,
+    "TextENGNew": "Basement...?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 6370,
+    "TextENGNew": "...\nWhat on earth does that mean...?",
+    "significantChanges": true,
+    "changeReason": "Old says 'What's the meaning of this?' while new says 'What on earth does that mean?'; the Japanese どういうことなんだろう is self-directed wondering, not demanding explanation.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 6371,
+    "TextENGNew": "I had no real objection to working somewhere damp, dim, and smelling of mildew.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 6372,
+    "TextENGNew": "...Even if it was disheartening.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 6373,
+    "TextENGNew": "But... something was off.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 6374,
+    "TextENGNew": "A Public Relations Office should be handling media inquiries and disseminating information to the general public—that was supposed to be its primary function.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 6375,
+    "TextENGNew": "This division had more reason to come into contact with people outside the police than any other, so why was it buried in a hole like this?",
+    "significantChanges": true,
+    "changeReason": "Old says 'pigsty' but Japanese 穴熊のような means 'like a badger's den/hole'; new correctly says 'buried in a hole'.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 6376,
+    "TextENGNew": "(...And the security is abnormally strict.)",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 6377,
+    "TextENGNew": "I raised only my gaze toward the ceiling.",
+    "significantChanges": true,
+    "changeReason": "Old says 'gently turned my gaze' but Japanese 目だけを上に向けて means 'raised only my eyes upward'; the new version captures the 'only eyes' detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 6378,
+    "TextENGNew": "...A surveillance camera was pointed directly at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 6379,
+    "TextENGNew": "On top of that...",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 6380,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 6381,
+    "TextENGNew": "I noticed a door partway down the corridor—the kind that leads to an emergency stairwell—and tried the handle.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 6382,
+    "TextENGNew": "...It was locked from the other side.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 6383,
+    "TextENGNew": "Which meant that this corner of the first basement floor... could only be entered through the elevator I had just come down in.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 6384,
+    "TextENGNew": "It is like the secret base of some villainous organization.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'lair' while new uses 'base'; Japanese 秘密基地 literally means 'secret base', not 'lair'.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 6385,
+    "TextENGNew": "An exaggerated comparison—yet somehow it felt perfectly accurate, and I let out a short, involuntary laugh.",
+    "significantChanges": true,
+    "changeReason": "Old says 'chased the thought away' but Japanese くすっと吹き出す means she 'let out a small laugh'; the reaction is completely different.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 6386,
+    "TextENGNew": "Before long I reached the end of the corridor and found a door with a placard above it reading \"Public Relations Office\"—and drew a slow, steadying breath.",
+    "significantChanges": true,
+    "changeReason": "Old says 'found a plate on a door near the end' but JPN describes reaching the dead end (突き当たり) and finding the placard above the door (ドアの上に); new captures 'above it' and 'end of corridor' more accurately.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 6387,
+    "TextENGNew": "Confirming there was a faint light on inside, I knocked—tap, tap—then opened the door.",
+    "significantChanges": true,
+    "changeReason": "New adds 'tap, tap' onomatopoeia for the knocking, matching JPN とん、とん、と, and specifies 'faint light' matching ほのかに.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 6388,
+    "TextENGNew": "...Oh my...",
+    "significantChanges": true,
+    "changeReason": "Interjection 'Whoa' vs 'Oh my' for Japanese ぅわ; new is closer to the feminine surprise expression.",
+    "changeScore": 1
+  },
+  {
+    "index": 45,
+    "MessageID": 6389,
+    "TextENGNew": "The moment I stepped inside, a smell like the inside of a library tickled my nose.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 6390,
+    "TextENGNew": "In every direction I could see, tall bookshelves stood crammed together... every shelf packed tight with files and volumes.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6391,
+    "TextENGNew": "(This is... the Public Relations Office...?)",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 6392,
+    "TextENGNew": "The sheer volume of materials—enough to mistake this for a reference room—drew an involuntary sigh from me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'gasped' but Japanese ため息が漏れる means 'a sigh leaked out'; the new version correctly uses 'sigh'.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 6393,
+    "TextENGNew": "The spines of the files were labelled with dates and prefecture names, each one given its own number.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 6394,
+    "TextENGNew": "And then—",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 6395,
+    "TextENGNew": "...Ah...",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 6396,
+    "TextENGNew": "Squeezing through the narrow passage between the shelves and making my way deeper in, I emerged into a slightly more open area.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 6397,
+    "TextENGNew": "It was furnished with several office desks and a reception set—and stretched across the long sofa lay someone buried under a blanket, snoring loudly.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 6398,
+    "TextENGNew": "E-excuse me...? Ugh?",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 6399,
+    "TextENGNew": "I had taken one step closer to call out—and immediately recoiled, pressing my hand over my nose against the ferocious stench.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 6400,
+    "TextENGNew": "Drifting off the person's entire body were the combined smells of cigarettes, coffee... and alcohol.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 6401,
+    "TextENGNew": "Mixed in with all of that was a cologne apparently intended to mask body odour—which only made the whole thing worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 6402,
+    "TextENGNew": "(V-ventilation! Where is the air conditioning?!)",
+    "significantChanges": true,
+    "changeReason": "Old says 'Air flow' but Japanese 換気 means 'ventilation'; new correctly uses 'Ventilation'.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 6403,
+    "TextENGNew": "Holding my breath against the noxious fumes that were threatening to bring tears to my eyes, I looked around for any sign of a ventilation unit.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 6404,
+    "TextENGNew": "I found an air conditioner along the wall, cranked it to maximum, and finally allowed myself to breathe.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 6405,
+    "TextENGNew": "Haah...\nI thought I was going to die...",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 6406,
+    "TextENGNew": "...Nnn...?",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 6407,
+    "TextENGNew": "Perhaps woken by the clamour of the motor, the person on the sofa heaved himself upright and scratched listlessly at his wildly dishevelled hair.",
+    "significantChanges": true,
+    "changeReason": "Old says 'began fixing his messy hair' but Japanese ぼりぼりとかく means 'scratching'; new correctly describes scratching rather than fixing.",
+    "changeScore": 3
+  },
+  {
+    "index": 64,
+    "MessageID": 6408,
+    "TextENGNew": "...Hey, wait.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 6409,
+    "TextENGNew": "Those tiny white flakes scattering in all directions... that is dandruff, is it not?",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 6410,
+    "TextENGNew": "...Mm?\nWho is it... coming at this hour of the morning... hhnn.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 6411,
+    "TextENGNew": "Early in the morning? It is past one in the afternoon.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 6412,
+    "TextENGNew": "He was a stranger, and I knew it—yet I could not stop myself from saying something.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I knew I was just a stranger' (self-referential) but Japanese 見ず知らずな人 refers to HIM being a stranger; new correctly frames it as 'He was a stranger'.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 6413,
+    "TextENGNew": "You could perhaps call it early morning before noon, but well past noon was a different matter entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 6414,
+    "TextENGNew": "Hearing that, he glanced at his wristwatch and gave a great yawn—scratching his hair yet again.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 6415,
+    "TextENGNew": "(No, stop! Please do not shed any more dandruff!)",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 6416,
+    "TextENGNew": "A shudder of revulsion entirely unlike the fear from before ran down my spine—but I called to mind the unwritten rules of a male-dominated workplace, and somehow held back the urge to flee.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 6417,
+    "TextENGNew": "I cleared my throat, straightened myself up... and turned to face him, keeping a certain distance between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 6418,
+    "TextENGNew": "Um... My name is Tomoe Minai, and I have been assigned to the Public Relations Division as of today.\nI was transferred here from the Kakiuchi Precinct in Aichi Prefecture.\nI-it is a pleasure to be working with you.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'Department' but new uses 'Division'; also old says 'station' for 署 while new correctly uses 'Precinct'; and 'nice to meet you' vs 'pleasure to be working with you' for よろしくお願いします in a work context.",
+    "changeScore": 2
+  },
+  {
+    "index": 75,
+    "MessageID": 6419,
+    "TextENGNew": "...Mm...?\nAh, right, I did hear someone was coming today.\nSo, what is your name?",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 6420,
+    "TextENGNew": "...Tomoe Minai.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 6421,
+    "TextENGNew": "I swallowed the retort of I just told you that, and repeated my name.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 6422,
+    "TextENGNew": "He stared back at me with narrowed, appraising eyes... then had the absolute gall to yawn again, stretch mightily, crack his neck, and stand up.",
+    "significantChanges": true,
+    "changeReason": "Old says 'eyes open wide' (surprise) but JPN うろんな目つき means 'dubious/suspicious eyes.' Incorrect facial expression, but rest of sentence matches.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 6423,
+    "TextENGNew": "(...Huh?)",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 6424,
+    "TextENGNew": "He looked familiar.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 6425,
+    "TextENGNew": "...Or rather, I had the feeling I had seen his face just a few months ago.",
+    "significantChanges": true,
+    "changeReason": "Old says 'someone I'd met face to face' (uncertain) but Japanese 顔を合わせたばかりだ means 'had just met face to face' (certain); new captures this certainty better.",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 6426,
+    "TextENGNew": "Because he must be...",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 6427,
+    "TextENGNew": "Excuse me... are you Director Maeno?",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 6428,
+    "TextENGNew": "...What?\nYou have already forgotten my face?",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 6429,
+    "TextENGNew": "Ah... n-no...",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 6430,
+    "TextENGNew": "...Inwardly I muttered that it might perhaps have been better if I had forgotten—while blinking furiously to conceal my flustered state.",
+    "significantChanges": true,
+    "changeReason": "Old says 'squinting my eyes' but Japanese しばたかせる means 'blinking'; new correctly says 'blinking furiously'.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 6431,
+    "TextENGNew": "The Maeno-san I had met at my previous interview had cut a far more dashing figure, as I recalled.",
+    "significantChanges": true,
+    "changeReason": "Old says 'dignified' but Japanese 颯爽とした means 'dashing/spirited'; new correctly uses 'dashing'.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 6432,
+    "TextENGNew": "He had given the impression of a sharp-looking elite—handsome in a fine suit, admirable in bearing.",
+    "significantChanges": true,
+    "changeReason": "New adds 'handsome' (好男子) which is present in JPN but missing from old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 6433,
+    "TextENGNew": "At the very least, he had not been like this... like...",
+    "significantChanges": true,
+    "changeReason": "Old says 'But now, this was a little more' but Japanese 少なくとも means 'at the very least'; new correctly translates this framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 90,
+    "MessageID": 6434,
+    "TextENGNew": "An unshaven older man lounging about in a dirty tracksuit...!",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 6435,
+    "TextENGNew": "Um, excuse me...\nA-anyway, could you please give your approval of my posting?",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 6436,
+    "TextENGNew": "Sure... urgh.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 6437,
+    "TextENGNew": "Saying that, Maeno-san shuffled over to me with a lumbering gait and took the transfer order I was holding out with a careless, absent-minded grab.",
+    "significantChanges": true,
+    "changeReason": "Old says 'gently walked' but Japanese のっそり means 'lumbering/sluggish'; new correctly uses 'shuffled over...with a lumbering gait'.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 6438,
+    "TextENGNew": "Then he pulled a stamp from a drawer—presumably at his own desk—pressed it into the approval column without so much as glancing at the contents, and stashed the document away.",
+    "significantChanges": true,
+    "changeReason": "Old says 'left the document there' but Japanese 中にしまった means 'put it away inside (the drawer)'; new correctly says 'stashed the document away'.",
+    "changeScore": 2
+  },
+  {
+    "index": 95,
+    "MessageID": 6439,
+    "TextENGNew": "Um, excuse me...\nS-so, which desk is mine?",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 6440,
+    "TextENGNew": "Right... any of those desks over there is fine.\nThey are all empty.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 6441,
+    "TextENGNew": "All empty...? Maeno-san, are you saying you and I are the only two people in the Public Relations Office?!",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 6442,
+    "TextENGNew": "No, no... everyone else is stationed in the Public Relations Room on the second floor.\nYou and I are the only ones working in this room.\n...You are directly under the section head—are you not delighted?",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 6443,
+    "TextENGNew": "E-extremely!",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 6444,
+    "TextENGNew": "...Absolutely not.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 6445,
+    "TextENGNew": "Working directly under one's superior might sound impressive—but in practice it simply meant being treated as a personal secretary, did it not?",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 6446,
+    "TextENGNew": "The treatment I had received was so far beyond anything I had anticipated that I felt almost dizzy.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 6447,
+    "TextENGNew": "There was nothing to be happy about here.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 6448,
+    "TextENGNew": "Nothing at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 6449,
+    "TextENGNew": "...Now then.\nI have a little errand to run.\n...Minai, was it?\nI need you to make a clean copy of those documents by tomorrow morning.",
+    "significantChanges": true,
+    "changeReason": "Old says 'little something to take care of' but Japanese ちょいと出てくる means 'stepping out for a bit'; and 'material' vs 'documents' (資料 = materials/documents).",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 6450,
+    "TextENGNew": "Eh...?\nUgh...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 6451,
+    "TextENGNew": "In the direction Maeno-san pointed was a towering mountain of documents piled high on the desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 6452,
+    "TextENGNew": "That was an enormous quantity... and he expected me to get through all of it by tomorrow morning?!",
+    "significantChanges": true,
+    "changeReason": "Old says 'a single day's work' but Japanese/context indicates 'by tomorrow morning' (明日朝まで); the deadline is different.",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 6453,
+    "TextENGNew": "...What?\nNot confident in your handwriting?",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 6454,
+    "TextENGNew": "N-no, I am!\nBy tomorrow morning, then...!\nUnderstood!",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 6455,
+    "TextENGNew": "Good, I am counting on you.\nSee you.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 6456,
+    "TextENGNew": "Ah... w-where are you going?",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 6457,
+    "TextENGNew": "...Mm.\nGoing to walk off the drink.",
+    "significantChanges": true,
+    "changeReason": "Old says 'sober up' while new says 'walk off the drink'; JPN 酔い覚まし can mean either, but the nuance differs—'sober up' is more about the state, 'walk off the drink' about the method.",
+    "changeScore": 2
+  },
+  {
+    "index": 114,
+    "MessageID": 6458,
+    "TextENGNew": "Th-that is not what I meant—where exactly are you going?!",
+    "significantChanges": true,
+    "changeReason": "Old simply repeats the question 'where are you actually going' but new adds 'that is not what I meant' which better captures the JPN だから (therefore/I'm saying) implying frustration at his evasive answer.",
+    "changeScore": 2
+  },
+  {
+    "index": 115,
+    "MessageID": 6459,
+    "TextENGNew": "...Shinjuku.\nGoing to pick up some horse-racing tickets.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 6460,
+    "TextENGNew": "What?!",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 6461,
+    "TextENGNew": "I was too struck dumb with astonishment to say another word—and in the meantime Maeno-san walked out the door, still wearing his tracksuit.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 6462,
+    "TextENGNew": "And so I was left behind, standing alone in the hollow, empty room.",
+    "significantChanges": true,
+    "changeReason": "Old says 'messy room' but Japanese がらんとした means 'empty/hollow/deserted'; new correctly says 'hollow, empty room'.",
+    "changeScore": 3
+  },
+  {
+    "index": 119,
+    "MessageID": 6463,
+    "TextENGNew": "...Huh...",
+    "significantChanges": true,
+    "changeReason": "Old translates as 'Haah' (a sigh) but new says 'Huh'; Japanese ふ is ambiguous but in context precedes an outburst.",
+    "changeScore": 1
+  },
+  {
+    "index": 120,
+    "MessageID": 6464,
+    "TextENGNew": "Don't you dare—!!!",
+    "significantChanges": true,
+    "changeReason": "Old says 'Don't give me this bullshit' while new says 'Don't you dare'; JPN ふざけるな means 'don't mess with me/how dare you', both capture anger but old is more vulgar than the JPN warrants.",
+    "changeScore": 2
+  },
+  {
+    "index": 121,
+    "MessageID": 6465,
+    "TextENGNew": "I was ready to let loose a shout full of pent-up fury—but I swallowed it down.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 6466,
+    "TextENGNew": "What stopped me was a sudden, wordless intuition: not that I was being made a fool of, but that Maeno-san was testing me.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 6467,
+    "TextENGNew": "...\nAll right...",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 6468,
+    "TextENGNew": "I claimed a desk, dropped into the chair, and began going through the pile of documents.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 6469,
+    "TextENGNew": "...Fine. Watch me.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 6470,
+    "TextENGNew": "I will prove beyond any doubt that I am not the sort of person who loses her nerve over something like this.",
+    "significantChanges": true,
+    "changeReason": "Old says 'loses motivation' but Japanese ヤワなやつ means 'weak/soft person' and new says 'loses her nerve'; also new uses 'her' confirming the character's gender.",
+    "changeScore": 2
+  },
+  {
+    "index": 127,
+    "MessageID": 6471,
+    "TextENGNew": "I will not be defeated...!",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 6472,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 6473,
+    "TextENGNew": "...\nThose eyes... really are identical.\nLike father, like daughter, after all...",
+    "significantChanges": false
+  }
+]

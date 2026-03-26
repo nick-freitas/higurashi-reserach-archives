@@ -1,0 +1,1458 @@
+[
+  {
+    "index": 1,
+    "MessageID": 64389,
+    "TextENGNew": "There was no wake-up chime.",
+    "significantChanges": true,
+    "changeReason": "OLD adds subjective 'I didn't hear' not in JPN; NEW correctly states the factual absence of the chime (起床のチャイムはない).",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 64390,
+    "TextENGNew": "I'm not at the academy anymore.",
+    "significantChanges": true,
+    "changeReason": "JPN 学園 specifically means 'academy' (referring to St. Lucia's boarding school); 'school' is less precise and loses the institutional connotation.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 64391,
+    "TextENGNew": "My sleep-addled brain understood that much.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 64392,
+    "TextENGNew": "And yet, waking up at exactly the time the academy's prescribed rising hour dictated was deeply irritating.",
+    "significantChanges": true,
+    "changeReason": "OLD paraphrases loosely ('doesn't feel good'); NEW captures the JPN nuance of シャクだった (deeply irritating) and the specific institutional schedule.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 64393,
+    "TextENGNew": "I considered going back to sleep, but once I was awake, there was no undoing it.",
+    "significantChanges": true,
+    "changeReason": "OLD omits Shion's deliberation about going back to sleep (寝直そうかとも思ったが) present in JPN; NEW includes it.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 64394,
+    "TextENGNew": "Besides, from now on I wouldn't be trudging through a life dictated by others, grumbling all the while.",
+    "significantChanges": true,
+    "changeReason": "OLD paraphrases as 'torturous school life'; NEW more accurately captures JPN meaning of no longer passively following a life dictated by others while complaining.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 64395,
+    "TextENGNew": "Whether my days were joyful or dull -- that was entirely up to me now.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 64396,
+    "TextENGNew": "Ahh! That's actually pretty uplifting.@k This is what it feels like to be alive.",
+    "significantChanges": true,
+    "changeReason": "OLD adds 'for the first time in a while' not present in JPN; also あっは☆ is more like 'Ahh!' than 'Yay!'.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 64397,
+    "TextENGNew": "With no change of clothes to speak of, I was still wearing the academy track suit.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 64398,
+    "TextENGNew": "...Supposedly designed by some Italian designer or another -- but I had serious doubts about where exactly the 'design' was in something this bland and flavorless.",
+    "significantChanges": true,
+    "changeReason": "OLD heavily truncates the JPN which discusses the supposed Italian designer and questions where any 'design' exists in something so bland; NEW captures this skepticism fully.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 64399,
+    "TextENGNew": "Here I was, savoring my freedom, and yet being stuck in school-issued clothes left a distinctly unpleasant taste.",
+    "significantChanges": true,
+    "changeReason": "OLD adds 'I want to enjoy my freedom as soon as possible' not in JPN; NEW more accurately captures the contrast between savoring freedom and being stuck in school clothes.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 64400,
+    "TextENGNew": "I certainly couldn't walk around outside dressed like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 64401,
+    "TextENGNew": "I'd have Kasai bring me something proper to wear later.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 64402,
+    "TextENGNew": "After that, maybe I'd think about how to arrange the room.",
+    "significantChanges": true,
+    "changeReason": "JPN 部屋のレイアウト means room layout/arrangement; OLD's 'redecorating' implies changing decor rather than planning the arrangement of an empty room.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 64403,
+    "TextENGNew": "This was going to be my castle from now on, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 64404,
+    "TextENGNew": "The apartment was in a fairly impressive high-rise on the outskirts of Okinomiya --@k a property that a real estate company in my father's network had 'seized' through some murky dispute or another.",
+    "significantChanges": true,
+    "changeReason": "NEW adds details present in JPN: 高層マンション (high-rise), the property was 'seized' (差し押さえた) through murky circumstances; OLD simplifies to 'obtained after foreclosure.'",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 64405,
+    "TextENGNew": "...Most of the original residents had cleared out because of all that murky business.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 64406,
+    "TextENGNew": "So despite the abundance of units, it was a lonely building with scarcely any sign of life.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 64407,
+    "TextENGNew": "Apart from the manager couple and maybe one or two other households, everyone living there was connected to my father -- and none of them looked particularly respectable.",
+    "significantChanges": true,
+    "changeReason": "JPN 管理人夫婦 specifies 'manager couple' (married pair); OLD renders as just 'the manager,' omitting the spouse.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 64408,
+    "TextENGNew": "It probably wouldn't be long before the last decent residents were driven out...",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 64409,
+    "TextENGNew": "The unit I'd be living in had apparently served as a model room, so it had the look and feel of a business hotel suite.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 64410,
+    "TextENGNew": "The furniture was halfway there, but nothing actually needed for daily life was present.",
+    "significantChanges": true,
+    "changeReason": "JPN 中途半端に家具は揃っている means furniture was incompletely/half-heartedly furnished; OLD's 'fully furnished' is the opposite meaning.",
+    "changeScore": 5
+  },
+  {
+    "index": 23,
+    "MessageID": 64411,
+    "TextENGNew": "I'd pick those up little by little as I went.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 64412,
+    "TextENGNew": "``...That's actually better, isn't it?@k@vS06/06/150600072. It'll make the place feel like it's really mine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 64413,
+    "TextENGNew": "I nodded along to my own words.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 64414,
+    "TextENGNew": "It probably looked silly, but morale boosts matter.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 64415,
+    "TextENGNew": "At the academy, the only television had been in the common area, and commercial channels were forbidden.",
+    "significantChanges": true,
+    "changeReason": "JPN 民放 means commercial/private broadcast channels, not 'cable channels' as in OLD; NEW correctly uses 'commercial channels.'",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 64416,
+    "TextENGNew": "As an act of pure emancipation, I flipped through every commercial channel I could find.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 64417,
+    "TextENGNew": "Of course, at this ungodly hour, none of them were airing anything worth watching.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 64418,
+    "TextENGNew": "Still, I managed to enjoy it well enough, and even the commercials -- which I hadn't seen in ages -- had a certain charm.",
+    "significantChanges": true,
+    "changeReason": "OLD omits that Shion hadn't seen commercials in a long time (久しぶりに見る), which emphasizes her isolation at the academy.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 64419,
+    "TextENGNew": "Once I'd tired of that and my stomach started growling, Kasai arrived with a boxed meal.",
+    "significantChanges": true,
+    "changeReason": "OLD omits that Shion first got bored of TV then got hungry (JPN sequence); also JPN 弁当 = boxed meal, not specifically 'lunch.'",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 64420,
+    "TextENGNew": "``Good morning, Shion-san.@k@vS06/15/151500069. Did you sleep well last night?``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 64421,
+    "TextENGNew": "``Sleeping on the couch wrapped in a blanket was pretty rough.@k@vS06/06/150600074. A proper Japanese futon on the floor -- that's what I need.@k@vS06/06/150600075. Mmm, this pickled radish is delicious~!``",
+    "significantChanges": true,
+    "changeReason": "OLD omits 毛布 (blanket) from JPN; also NEW better captures the casual conversational tone of the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 64422,
+    "TextENGNew": "``Glad to hear it.@k@vS06/15/151500071. Let me know what you need later.@k@vS06/15/151500072. I'll do my best to get everything arranged.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 64423,
+    "TextENGNew": "``Thanks.@k@vS06/06/150600077. Oh, but don't go overboard worrying about me.@k@vS06/06/150600078. This is the life I chose, after all.@k@vS06/06/150600079. Besides, your wallet would give out if I started bleeding you dry! Ahahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 64424,
+    "TextENGNew": "Money, and the reality of my new life going forward -- these were things I needed to address seriously.",
+    "significantChanges": true,
+    "changeReason": "OLD vaguely says 'my plan'; NEW specifies money and future life (お金とこれからの生活) as in JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 64425,
+    "TextENGNew": "I couldn't keep leaning on Kasai's wallet forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 64426,
+    "TextENGNew": "``I'm thinking of getting a part-time job.@k@vS06/06/150600081. I should at least earn my own living expenses.@k@vS06/06/150600082. This is the life I chose -- taking responsibility for it is only natural!``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 64427,
+    "TextENGNew": "``That's an admirable attitude.@k@vS06/15/151500074. But are you sure about that?@k@vS06/15/151500075. If you go out in public, it's only a matter of time before a family member spots you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 64428,
+    "TextENGNew": "``I've already thought about that.@k@vS06/06/150600084. That's where Mion comes in.@k@vS06/06/150600085. Kasai, would you call the main house for me?@k@vS06/06/150600086. When Mion picks up, hand me the receiver.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 64429,
+    "TextENGNew": "``Good grief, what are you scheming now?@k@vS06/15/151500077. What's the plan?``",
+    "significantChanges": true,
+    "changeReason": "OLD loses JPN 企んでる (scheming); 'whatever you say' doesn't convey Kasai's wry suspicion about Shion's plan.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 64430,
+    "TextENGNew": "Kasai asked as he dialed the main house.",
+    "significantChanges": true,
+    "changeReason": "OLD omits that Kasai was asking a question while dialing (JPN 聞いてくる); NEW includes this detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 64431,
+    "TextENGNew": "It was rather ironic -- I needed to avoid the main house's notice at all costs, yet the very first call I was making was to the main house itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 64432,
+    "TextENGNew": "``...Hello?``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 64433,
+    "TextENGNew": "``Good morning.@k@vS06/15/151500079. ......Is this Mion-san?@k@vS06/15/151500080. ......It's been a while. This is Kasai.@k@vS06/15/151500081. ...Yes.@k@vS06/15/151500082. Good morning.@k@vS06/15/151500083. ...Could you hold for just a moment?@k@vS06/15/151500084. I'm passing the phone to someone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 64434,
+    "TextENGNew": "I took the receiver from Kasai.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 64435,
+    "TextENGNew": "``Hello~?@k@vS06/06/150600088. ......Heh heh heh heh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 64436,
+    "TextENGNew": "``Can you guess who this is?``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 64437,
+    "TextENGNew": "``Th-... That voice!!@k@vS06/03/150300003. But that's impossible...!@k@vS06/03/150300004. Private calls are forbidden at Shion's dorm...!@k@vS06/03/150300005. It can't be...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 64438,
+    "TextENGNew": "``Outside calls are strictly forbidden at the academy, you know.@k@vS06/06/150600091. ...And yet here I am, calling you. Heh heh heh!@k@vS06/06/150600092. Even my dim-witted big sister can figure out what that means.@k@vS06/06/150600093. Heh heh heh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 64439,
+    "TextENGNew": "``...You... you broke out of the school?!@k@vS06/03/150300007. ...H-... How did you...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 64440,
+    "TextENGNew": "``Never mind that.@k@vS06/06/150600095. ...I missed you so much, Sis...``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 64441,
+    "TextENGNew": "``......Ngh... Shion...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 64442,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 64443,
+    "TextENGNew": "If that was my limit, it was Mion's limit too.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 64444,
+    "TextENGNew": "````Pfft. ......Heh heh heh... ...BWAHAHAHAHAHAHAHA!!!````",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 64445,
+    "TextENGNew": "Neither of us could keep up the melodrama any longer, and we both dissolved into laughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 64446,
+    "TextENGNew": "...Through the receiver, the two sisters shared their first real, belly-deep laugh together in a very long time.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 64447,
+    "TextENGNew": "``It's been forever, Shion!!@k@vS06/03/150300011. What on earth happened?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 64448,
+    "TextENGNew": "``What do you think happened?@k@vS06/06/150600099. I wasn't lying about any of it.``",
+    "significantChanges": true,
+    "changeReason": "JPN どうしたもこうしたも is an idiomatic dismissive expression; OLD's 'There's not much else to it' misses the tone; NEW captures the dismissiveness better.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 64449,
+    "TextENGNew": "``Wait... so you actually escaped?!@k@vS06/03/150300013. ...Wow... you've got guts...``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 64450,
+    "TextENGNew": "``Their security was a little too lax to keep me locked up!@k@vS06/06/150600101. Ahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 64451,
+    "TextENGNew": "``...Maybe the school should be grateful you went quietly...@k@vS06/03/150300015. If you'd been serious, you could've blown the whole place sky-high on your way out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 64452,
+    "TextENGNew": "``Bombing might be a stretch, but I could've managed a nice little arson.@k@vS06/06/150600103. Ahahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 64453,
+    "TextENGNew": "Kasai watched the sisters enthusiastically bonding over violent scenarios, wearing an expression that was equal parts exasperation and amusement.",
+    "significantChanges": true,
+    "changeReason": "NEW captures the JPN nuance of 物騒な話題で盛り上がる (bonding over dangerous topics) that OLD simplifies; also OLD uses 'us' when JPN uses third-person 姉妹.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 64454,
+    "TextENGNew": "``Sis, is it okay to talk right now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 64455,
+    "TextENGNew": "``It's fine.@k@vS06/03/150300017. Granny's out at a lesson.@k@vS06/03/150300018. She said she won't be back until evening.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 64456,
+    "TextENGNew": "``Perfect.@k@vS06/06/150600106. Let's meet up and talk properly soon.@k@vS06/06/150600107. For today, the phone will have to do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 64457,
+    "TextENGNew": "``Okay.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 64458,
+    "TextENGNew": "``Has the main house gotten any word from the academy about my escape?``",
+    "significantChanges": true,
+    "changeReason": "JPN asks about 本家 (main house) receiving word from the academy; OLD changes this to 'grandmother' specifically, losing the institutional question.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 64459,
+    "TextENGNew": "``Nope.@k@vS06/03/150300021. Nothing.@k@vS06/03/150300022. All calls and visitors to the main house go through me now, so nothing reaches Granny without my knowing.@k@vS06/03/150300023. I can say with confidence that she hasn't heard a thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 64460,
+    "TextENGNew": "``...Wow.@k@vS06/06/150600110. That's impressive.@k@vS06/06/150600111. Spoken like the true next head of the Sonozaki family.``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 64461,
+    "TextENGNew": "``I hate all that, though. You should take over for me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 64462,
+    "TextENGNew": "``You're the one possessed by the demon, aren't you?@k@vS06/06/150600113. Well, do your best.@k@vS06/06/150600114. I'll be cheering you on from the shadows.@k@vS06/06/150600115. Anyway, that doesn't matter right now. Ahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 64463,
+    "TextENGNew": "``That's such a detached way to put it...@k@vS06/03/150300026. Well, whatever...``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 64464,
+    "TextENGNew": "``If anything comes up about me, contact Kasai, okay?@k@vS06/06/150600117. I'd like to give you my number here, but... I'll keep it secret for now.@k@vS06/06/150600118. Sorry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 64465,
+    "TextENGNew": "``Yeah...@k@vS06/03/150300028. If Granny finds out you ran away from the academy... things are going to get messy.@k@vS06/03/150300029. Got it.@k@vS06/03/150300030. If anything happens, I'll pass it along to Kasai-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 64466,
+    "TextENGNew": "``Thanks.@k@vS06/06/150600120. Also, I have a favor to ask, Sis.``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 64467,
+    "TextENGNew": "``I figured that was coming.@k@vS06/03/150300032. Just so we're clear -- money's off the table!``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 64468,
+    "TextENGNew": "``I wasn't delusional enough to think I could mooch money off you.@k@vS06/06/150600122. What I need is a little help with my part-time job.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 64469,
+    "TextENGNew": "``Ahh, I see.@k@vS06/03/150300034. ...So that's the angle.@k@vS06/03/150300035. Specifically, what do you need me to do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 64470,
+    "TextENGNew": "In situations like this, communication between us sisters is lightning fast.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 64471,
+    "TextENGNew": "We know what the other is thinking instantly, so we can skip the explanations and cut straight to the point.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 64472,
+    "TextENGNew": "``Uncle Yoshiroh was always on my side, right?@k@vS06/06/150600124. I'm going to ask him if I can work at one of his shops.@k@vS06/06/150600125. Once my shifts are set, I'll let you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 64473,
+    "TextENGNew": "``So I just need to make myself scarce during your work hours. Got it.@k@vS06/03/150300037. ...What a hassle, though.``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 64474,
+    "TextENGNew": "``Oh, come on, Sis.@k@|@y@vS06/06/150600127. You'd really turn down a request from your own twin sister?@k@vS06/06/150600128. Seriously?``",
+    "significantChanges": true,
+    "changeReason": "JPN 双子の妹 specifically means 'twin younger sister'; OLD renders as 'only sister,' losing the twin reference important to the Sonozaki twins' identity.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 64475,
+    "TextENGNew": "``Fine, fine -- I'll do it!@k@vS06/03/150300039. I know better than to deal with the fallout if I turned you down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 64476,
+    "TextENGNew": "``Ahaha!@k@vS06/06/150600130. Thank you!@k@vS06/06/150600131. Next time, I'll treat you to cake from Schlanke Bertha's!@k@vS06/06/150600132. I'll stuff you full of adorable little tarts~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 64477,
+    "TextENGNew": "``...Oh, Shion.@k@vS06/03/150300041. Schlanke Bertha's... it closed down last fall.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 64478,
+    "TextENGNew": "``Huh?@k@vS06/06/150600134. ...............Oh. I see.``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 64479,
+    "TextENGNew": "``Yeah.@k@vS06/03/150300043. The owner had a stroke.@k@vS06/03/150300044. He reopened once after getting out of the hospital,@k@vS06/03/150300045. but his health just couldn't hold up.@k@vS06/03/150300046. ...Everyone was sad to see it go, but the shop had to close.``",
+    "significantChanges": true,
+    "changeReason": "OLD omits 惜しまれたけど (everyone mourned/regretted it) present in JPN; NEW includes this community sentiment about the shop closing.",
+    "changeScore": 2
+  },
+  {
+    "index": 92,
+    "MessageID": 64480,
+    "TextENGNew": "``...I see.@k@vS06/06/150600136. ...That's a shame.@k@vS06/06/150600137. ...I guess my dream of eating their Mont Blanc until I burst will stay just that -- a dream forever.``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 64481,
+    "TextENGNew": "What stung wasn't simply that my favorite cake shop had closed.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 64482,
+    "TextENGNew": "It was the loneliness of realizing that the town had gone on changing without me while I was away.",
+    "significantChanges": true,
+    "changeReason": "JPN 寂しさ means 'loneliness/sadness'; OLD renders as 'regrettable,' a different emotion; NEW correctly identifies the feeling as loneliness.",
+    "changeScore": 3
+  },
+  {
+    "index": 95,
+    "MessageID": 64483,
+    "TextENGNew": "``...Are there other things that have changed? Things I don't know about?``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 64484,
+    "TextENGNew": "``Yeah.@k@vS06/03/150300048. A few things.@k@vS06/03/150300049. I'll tell you everything when we meet up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 64485,
+    "TextENGNew": "``Thanks.@k@vS06/06/150600140. I'll share everything about life at the academy too.@k@vS06/06/150600141. Let's find a time soon.@k@vS06/06/150600142. I'll be in touch.``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 64486,
+    "TextENGNew": "``Okay.@k@vS06/03/150300051. Sounds good.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 64487,
+    "TextENGNew": "``...Mion?``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 64488,
+    "TextENGNew": "``What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 64489,
+    "TextENGNew": "``Are you doing all right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 64490,
+    "TextENGNew": "``Ahahaha -- of course!``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 64491,
+    "TextENGNew": "``Good.@k@vS06/06/150600146. I'm hanging up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 64492,
+    "TextENGNew": "``Okay.@k@vS06/03/150300055. Talk to you soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 64493,
+    "TextENGNew": "And with that, our long-overdue sisterly conversation came to a close for the time being.",
+    "significantChanges": true,
+    "changeReason": "OLD omits that the conversation ended (JPN 終了した); shifts from the JPN's third-person observation to first-person reflection.",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 64494,
+    "TextENGNew": "I set down the receiver and let out a breath, and Kasai appeared with tea.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 64495,
+    "TextENGNew": "``So, how did it go?``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 64496,
+    "TextENGNew": "``Uncle Yoshiroh always had a soft spot for me, remember?@k@vS06/06/150600148. I'm going to come clean to him about leaving the academy@k@vS06/06/150600149. and ask if I can work at one of his shops.``",
+    "significantChanges": true,
+    "changeReason": "JPN 可愛がってくれた means 'doted on me/was fond of me'; OLD adds 'in favor of me staying' which is not present in the source text.",
+    "changeScore": 3
+  },
+  {
+    "index": 109,
+    "MessageID": 64497,
+    "TextENGNew": "``You'll be seen in public, though.@k@vS06/15/151500087. Uncle Yoshiroh aside, what if another relative spots you?``",
+    "significantChanges": true,
+    "changeReason": "JPN 人目に触れますよ specifically means 'you'll be seen in public'; OLD's vague 'Are you sure?' omits this concrete concern.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 64498,
+    "TextENGNew": "``That's what Sis is for.@k@vS06/06/150600151. Once my shifts are set, I'll notify Sis.@k@vS06/06/150600152. She just needs to stay out of sight during my working hours.@k@vS06/06/150600153. Follow?``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 64499,
+    "TextENGNew": "Kasai cocked his head slightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 64500,
+    "TextENGNew": "It really wasn't that complicated.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 64501,
+    "TextENGNew": "``It's simple.@k@vS06/06/150600155. If anyone questions me while I'm at work, I just insist that I'm Mion.@k@vS06/06/150600156. Get it now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 64502,
+    "TextENGNew": "Ordinarily, anyone would want to dismiss such a harebrained scheme.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 64503,
+    "TextENGNew": "But Kasai had known us sisters since we were small, and he was well aware of just how effortlessly we could swap places.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 64504,
+    "TextENGNew": "``You're certainly audacious... or perhaps cunning is the word...@k@vS06/15/151500089. No, no... I take my hat off to you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 64505,
+    "TextENGNew": "``That's a compliment, right, Kasai?@k@vS06/06/150600158. Hee hee hee...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 64506,
+    "TextENGNew": "Kasai wore a look of exasperated amusement.",
+    "significantChanges": true,
+    "changeReason": "JPN 呆れた顔をして苦笑い means exasperated expression with a wry smile; OLD's 'looked amazed' misses the exasperation and amusement.",
+    "changeScore": 3
+  },
+  {
+    "index": 119,
+    "MessageID": 64507,
+    "TextENGNew": "If things truly went sideways, Kasai would bear responsibility too.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 64508,
+    "TextENGNew": "...Given the customs of my father's world, a simple apology wouldn't begin to cover it.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 64509,
+    "TextENGNew": "That's why Kasai genuinely didn't want me crossing any dangerous bridges.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 64510,
+    "TextENGNew": "...He'd helped me escape knowing full well what was at stake. I really needed to find a way to repay this loyal man...",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 64511,
+    "TextENGNew": "``Yeah, yeah -- leave it to me.@k@vS06/00/152900002. If anyone gives you trouble, Shion-chan, I'll sort them out.``",
+    "significantChanges": true,
+    "changeReason": "JPN シメとく means to discipline/straighten out, not necessarily 'beat up' as OLD states; also OLD loses the casual 任せとけよ (leave it to me) tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 64512,
+    "TextENGNew": "``Ahaha!@k@vS06/06/150600160. I knew I could count on you, Uncle Yoshiroh!@k@vS06/06/150600161. I was sure you'd come through for me!``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 64513,
+    "TextENGNew": "Uncle Yoshiroh kept saying 'leave it to me' and thumped his chest for emphasis.",
+    "significantChanges": true,
+    "changeReason": "JPN 任せとけを連発 means he repeatedly said 'leave it to me'; OLD omits this repetition detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 126,
+    "MessageID": 64514,
+    "TextENGNew": "He seemed genuinely delighted that I'd come to him first.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 64515,
+    "TextENGNew": "``It's all good.@k@vS06/00/152900004. What impresses me is your determination to earn your own keep.@k@vS06/00/152900005. If you'd come here begging for handouts, I'd have marched you straight to the main house.``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 64516,
+    "TextENGNew": "``What?@k@vS06/06/150600163. Uncle, you're scaring me~!@k@vS06/06/150600164. Ahahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 64517,
+    "TextENGNew": "Uncle Yoshiroh was exactly as dependable as I'd hoped.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 64518,
+    "TextENGNew": "He understood my situation immediately and promised his full support.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 64519,
+    "TextENGNew": "``Manager~, I've got the shift chart.@k@vS06/00/waitA15002. I'll leave it here~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 64520,
+    "TextENGNew": "One of the shop employees brought in the staff shift schedule.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 64521,
+    "TextENGNew": "...The calendar was packed with symbols that meant nothing to an outsider like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 64522,
+    "TextENGNew": "``...So, Shion-chan, how much are you able to work?``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 64523,
+    "TextENGNew": "``It depends on my schedule and Sis's.@k@vS06/06/150600166. Ideally, I'd love to work only on the days I specify.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 64524,
+    "TextENGNew": "``Hey now~, I've never had anyone that brazen walk into a job interview before.@k@vS06/00/152900008. But, well... I know it can't be helped.``",
+    "significantChanges": true,
+    "changeReason": "JPN ムシのいいこと means 'presumptuous/self-serving demand'; OLD softens to 'a little irresponsible' which loses the uncle's amused reaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 137,
+    "MessageID": 64525,
+    "TextENGNew": "Working at all required Mion's cooperation.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 64526,
+    "TextENGNew": "In other words, I could only work when both our schedules aligned.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 64527,
+    "TextENGNew": "...Uncle Yoshiroh understood these complications, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 64528,
+    "TextENGNew": "But I also understood that there wasn't much room in any business for a part-timer audacious enough to dictate her own schedule...",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 64529,
+    "TextENGNew": "In the end, rather than hiring me as a regular part-timer, Uncle suggested I come in as an office helper.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 64530,
+    "TextENGNew": "Since it wasn't a formal hire, there'd be no fixed shifts.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 64531,
+    "TextENGNew": "My pay would come from Uncle's own pocket rather than the shop's coffers.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 64532,
+    "TextENGNew": "``Ahaha, I don't care about titles.@k@vS06/06/150600168. As long as I can earn enough to cover my living expenses, that's all I need.``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 64533,
+    "TextENGNew": "``Then let's go with that.@k@vS06/00/152900010. I am paying you, so I expect solid work while you're here.@k@vS06/00/152900011. Oh, and no calling me 'Uncle' in the office, got it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 64534,
+    "TextENGNew": "``Yes sir, understood, Man~a~ger!@k@vS06/06/150600170. I may be inexperienced, but please take good care of me!``",
+    "significantChanges": true,
+    "changeReason": "OLD omits JPN 不束者ですけどよろしくお願いします (humble self-deprecation); NEW preserves this important cultural greeting.",
+    "changeScore": 3
+  },
+  {
+    "index": 147,
+    "MessageID": 64535,
+    "TextENGNew": "``Likewise, pleased to have you aboard.@k@vS06/00/152900013. Bwahahahaha!``",
+    "significantChanges": true,
+    "changeReason": "JPN こちらこそどうぞよろしく is a standard reciprocal greeting; OLD's 'Good, you get it!' misses the polite tone entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 148,
+    "MessageID": 64536,
+    "TextENGNew": "Once the business talk was settled, Uncle Yoshiroh subjected me to a barrage of questions.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 64537,
+    "TextENGNew": "The gist of which was:",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 64538,
+    "TextENGNew": "What on earth is life like in a prestigious girls' boarding school?!@k He wanted to know everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 64539,
+    "TextENGNew": "Apparently, all sorts of rumors swirled around the academy I'd been confined to, and everyone was dying of curiosity about what actually went on inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 64540,
+    "TextENGNew": "I gave him a colorful account of just how far from normal academy life had been, embellishing here and there for dramatic effect.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 64541,
+    "TextENGNew": "Uncle was positively delighted to hear all the juicy insider details about the mysterious girls' academy...@k ...The dirty old man.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 64542,
+    "TextENGNew": "Once Uncle had thoroughly sated his curiosity about the secret garden of adolescent girls, it was my turn to ask questions.",
+    "significantChanges": true,
+    "changeReason": "OLD omits the evocative JPN detail 思春期の女の子の花園の秘密 (the secret garden of adolescent girls) which characterizes Uncle's salacious curiosity.",
+    "changeScore": 3
+  },
+  {
+    "index": 155,
+    "MessageID": 64543,
+    "TextENGNew": "I needed to know what had happened in town during the two years I'd been locked away at the academy.",
+    "significantChanges": true,
+    "changeReason": "OLD omits JPN's specific '二年' (two years) and '閉じ込められて' (locked away), which emphasize the duration and nature of Shion's absence.",
+    "changeScore": 2
+  },
+  {
+    "index": 156,
+    "MessageID": 64544,
+    "TextENGNew": "Unless I filled in that two-year gap, I wouldn't be able to convincingly pass myself off as 'Mion.'",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 64545,
+    "TextENGNew": "``Nothing's changed all that dramatically.@k@vS06/00/152900015. It's been pretty sleepy around here since the Dam War ended.``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 64546,
+    "TextENGNew": "``I left for the academy not long after they announced the project freeze.@k@vS06/06/150600172. There was still a bit of tension in the air when I was last here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 64547,
+    "TextENGNew": "``Even after the freeze announcement, the protest alliance was on edge for about a year, insisting the plan was only suspended, not canceled.@k@vS06/00/152900017. They held the official disbandment ceremony the following year.``",
+    "significantChanges": true,
+    "changeReason": "OLD references 'Onigafuchi Guardians' which isn't in this JPN text (JPN uses 同盟 = 'alliance'); NEW uses 'protest alliance' more accurately.",
+    "changeScore": 2
+  },
+  {
+    "index": 160,
+    "MessageID": 64548,
+    "TextENGNew": "``A grand ceremony right there in the Hinamizawa shrine grounds.@k@vS06/00/152900019. That was the true end of the Dam War.``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 64549,
+    "TextENGNew": "``So that was right after I got locked up.@k@vS06/06/150600174. ...With the war over, did everyone just go soft?``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 64550,
+    "TextENGNew": "``Bwahahaha!@k@vS06/00/152900021. I bet for you kids, the dam protests felt like one big game of war, didn't they?@k@vS06/00/152900022. Try to spare a thought for the adults who had to drag themselves to the police station every time one of you brats got picked up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 64551,
+    "TextENGNew": "``Ahahaha!@k@vS06/06/150600176. Well, I can't exactly deny that.@k@vS06/06/150600177. For us kids, the Dam War was practically a festival!``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 64552,
+    "TextENGNew": "Uncle seemed both impressed and appalled at how vastly different the Dam War had felt to adults versus children.",
+    "significantChanges": true,
+    "changeReason": "JPN 感服（呆れ？）explicitly includes both admiration and exasperation with a parenthetical question; OLD only captures exasperation.",
+    "changeScore": 3
+  },
+  {
+    "index": 165,
+    "MessageID": 64553,
+    "TextENGNew": "``...Oh yeah, that infuriating construction foreman.@k@vS06/06/150600180. They still hadn't caught everyone involved in that murder, had they?@k@vS06/06/150600181. Did they ever catch them?``",
+    "significantChanges": true,
+    "changeReason": "JPN refers to 'that infuriating foreman' (あのクソムカつく現場監督); OLD jumps to 'dismemberment murder' not stated here. Also JPN implies multiple perpetrators (犯人がまだ全員) while OLD uses singular.",
+    "changeScore": 3
+  },
+  {
+    "index": 166,
+    "MessageID": 64554,
+    "TextENGNew": "``Ahh... come to think of it...@k@vS06/00/152900024. No, I don't think the ringleader was ever caught.``",
+    "significantChanges": true,
+    "changeReason": "JPN 主犯 specifically means 'ringleader/main perpetrator'; OLD's generic 'him' loses this distinction.",
+    "changeScore": 3
+  },
+  {
+    "index": 167,
+    "MessageID": 64555,
+    "TextENGNew": "``And it happened on the night of Watanagashi, the festival honoring Oyashiro-sama, Hinamizawa's guardian deity.@k@vS06/06/150600183. I remember everyone saying it was Oyashiro-sama's curse.@k@vS06/06/150600184. ...That was genuinely scary for us kids.``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 64556,
+    "TextENGNew": "``Yeah, yeah -- Oyashiro-sama's curse.@k@vS06/00/152900026. It happened again the following year too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 64557,
+    "TextENGNew": "``That's right!@k@vS06/06/150600186. That one was terrifying too!@k@vS06/06/150600187. What was it again -- the man who supported the dam died in an accident?@k@vS06/06/150600188. Houjou, wasn't it?@k@vS06/06/150600189. And once again, on the night of Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 64558,
+    "TextENGNew": "Everyone was in an uproar -- saying it could only be a curse!@k@vS06/06/150600191. That was genuinely frightening.@k@vS06/06/150600192. It really was.``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 64559,
+    "TextENGNew": "The universally despised construction foreman at the dam site had been murdered -- by construction workers, no less -- on the night of the Watanagashi festival.@k Even by itself, it was far too intense an incident for children to process.",
+    "significantChanges": true,
+    "changeReason": "OLD adds 'dismembered' not in this JPN line; NEW correctly includes 作業員たちの手で (by the construction workers' hands) which OLD omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 172,
+    "MessageID": 64560,
+    "TextENGNew": "The fact that part of the body was still missing... only added to the ghost-story mystique in our childish imaginations.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 64561,
+    "TextENGNew": "The severed right arm, still wandering in search of the body it belonged to -- in the world of children, that story circulated with absolute credibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 64562,
+    "TextENGNew": "And since the murder occurred on the very night of the festival honoring Hinamizawa's guardian deity, Oyashiro-sama,@k it took no time at all for the rumor mill to churn it into full-blown occult lore.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 64563,
+    "TextENGNew": "But even the most vivid rumor fades after a year.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 64564,
+    "TextENGNew": "...Then came the first Watanagashi held after the dam project's indefinite freeze was announced -- a festival that was, for the first time, truly just a festival.",
+    "significantChanges": true,
+    "changeReason": "OLD says 'we held Watanagashi purely as a festival' which oversimplifies; JPN describes this as the first Watanagashi truly just a festival after the freeze.",
+    "changeScore": 3
+  },
+  {
+    "index": 177,
+    "MessageID": 64565,
+    "TextENGNew": "The curse struck again.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 64566,
+    "TextENGNew": "The victim was a man named Houjou -- a Hinamizawa resident who had nevertheless supported the dam project. He and his wife died in what was ruled a fall from a cliff while on a trip.",
+    "significantChanges": true,
+    "changeReason": "OLD adds 'pro-dam activist' characterization and 'It was considered an accident' not in this JPN line; also OLD says singular victim while JPN includes 夫婦共々 (both husband and wife).",
+    "changeScore": 3
+  },
+  {
+    "index": 179,
+    "MessageID": 64567,
+    "TextENGNew": "(Technically, I believe the search for the wife's body was still ongoing.@k If I recall correctly, they never did find her...)",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 64568,
+    "TextENGNew": "Once again, on the night of the Watanagashi festival, the man most deserving of Oyashiro-sama's wrath had fallen.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 64569,
+    "TextENGNew": "The talk of Oyashiro-sama's curse, which had been fading, roared back to life in an instant.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 64570,
+    "TextENGNew": "Until then, Oyashiro-sama's presence had been a vague and insubstantial thing.",
+    "significantChanges": true,
+    "changeReason": "JPN 存在は希薄 means Oyashiro-sama's 'existence was thin/insubstantial'; OLD's 'not considered very important' misses the nuance of vagueness.",
+    "changeScore": 3
+  },
+  {
+    "index": 183,
+    "MessageID": 64571,
+    "TextENGNew": "In the world of children, at least, it was simply the name of the deity enshrined at the local shrine -- nothing more, nothing less.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 64572,
+    "TextENGNew": "There were brats who'd commit sacrilege at the shrine gates, and even I once stuck my hand into the offering box.@k ...Though I put everything back.",
+    "significantChanges": true,
+    "changeReason": "OLD interprets JPN 失礼を働く (commit disrespect) as specifically 'boys peeing on the archway'; also OLD omits 盗らずに戻した (put it back without stealing).",
+    "changeScore": 2
+  },
+  {
+    "index": 185,
+    "MessageID": 64573,
+    "TextENGNew": "The god of the local shrine was just that trivial to us.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 64574,
+    "TextENGNew": "But after two consecutive years, no child doubted the reality of Oyashiro-sama's curse anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 64575,
+    "TextENGNew": "Everyone genuinely believed in Oyashiro-sama's existence and lived in fear.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 64576,
+    "TextENGNew": "The old legends about Oyashiro-sama, which no one had previously cared about, suddenly commanded rapt attention.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 64577,
+    "TextENGNew": "We sat in hushed reverence as the village elders spun their musty old tales,@k and we believed -- truly believed -- in Oyashiro-sama's miracles, the same ones any of us would have laughed off not long before.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 64578,
+    "TextENGNew": "And Oyashiro-sama's rules turned out to be brutally simple.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 64579,
+    "TextENGNew": "Outsiders who encroach upon Hinamizawa will be cursed.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 64580,
+    "TextENGNew": "Villagers who leave the village will be cursed.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 64581,
+    "TextENGNew": "The definition of 'the village' was frustratingly vague. Did it mean you could never leave Hinamizawa proper? Was Okinomiya still safe?",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 64582,
+    "TextENGNew": "Was a single step outside the boundary enough to doom you? Would a two-night, three-day hot spring trip be forgiven? We children drew and redrew the line endlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 64583,
+    "TextENGNew": "In the end, the consensus landed on: as long as your home was in Hinamizawa or Okinomiya, you were safe.@k And if you had a home there, even extended travel was apparently permissible... a rather odd conclusion.",
+    "significantChanges": true,
+    "changeReason": "OLD omits JPN ヘンチクリンな決着 (rather odd conclusion), which expresses Shion's bemusement at the arbitrary rules.",
+    "changeScore": 2
+  },
+  {
+    "index": 196,
+    "MessageID": 64584,
+    "TextENGNew": "(These were rules made up by children, after all.@k Calling them absurd would be missing the point.)",
+    "significantChanges": true,
+    "changeReason": "JPN says calling the rules absurd would be missing the point; OLD's 'I know it's weird' doesn't capture this defensive nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 197,
+    "MessageID": 64585,
+    "TextENGNew": "Measured against those rules, my being shipped off to a faraway boarding school certainly seemed to satisfy the conditions for drawing Oyashiro-sama's curse.",
+    "significantChanges": true,
+    "changeReason": "OLD states definitively 'I'd be cursed'; JPN uses tentative language 条件を満たしているようにも見える (seemed to possibly satisfy the conditions).",
+    "changeScore": 3
+  },
+  {
+    "index": 198,
+    "MessageID": 64586,
+    "TextENGNew": "I was at an age where admitting belief in the curse out loud would have been embarrassing, so I kept it to myself.",
+    "significantChanges": true,
+    "changeReason": "OLD shortens to generic embarrassment; NEW captures the JPN detail about being at an age where belief in curses was embarrassing to admit publicly.",
+    "changeScore": 2
+  },
+  {
+    "index": 199,
+    "MessageID": 64587,
+    "TextENGNew": "But deep down, I remember being just a little bit frightened that being sent to a distant land might bring Oyashiro-sama's wrath upon me.",
+    "significantChanges": true,
+    "changeReason": "OLD truncates to generic 'scared of the curse'; NEW preserves the specific fear of being sent to a distant land triggering the curse.",
+    "changeScore": 2
+  },
+  {
+    "index": 200,
+    "MessageID": 64588,
+    "TextENGNew": "``And then it happened again the year after that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 64589,
+    "TextENGNew": "``Two years in a row really gets to you, doesn't it?@k@vS06/06/150600194. Even now, I believe in Oyashiro-sama's power.``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 64590,
+    "TextENGNew": "``Shion-chan, two years? It didn't stop there. You mean you don't know?``",
+    "significantChanges": true,
+    "changeReason": "JPN 二年なんてもんじゃない means 'it wasn't just two years'; OLD misses this key correction that it happened more than twice.",
+    "changeScore": 3
+  },
+  {
+    "index": 203,
+    "MessageID": 64591,
+    "TextENGNew": "``Know what?@k@vS06/06/150600196. What are you talking about?``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 64592,
+    "TextENGNew": "``...Right, of course.@k@vS06/00/152900030. You went off to the academy just before it happened...@k@vS06/00/152900031. ...You wouldn't know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 64593,
+    "TextENGNew": "Uncle Yoshiroh's face took on a look of someone who'd said more than he should have.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 64594,
+    "TextENGNew": "...As though he was thinking: if she didn't know, maybe it would have been better to keep it that way...",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 64595,
+    "TextENGNew": "``What is it, Uncle?@k@vS06/06/150600198. You can't bring it up and then just go quiet on me -- that's not fair.``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 64596,
+    "TextENGNew": "``...Well, I suppose you're not a little kid anymore.``",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 64597,
+    "TextENGNew": "``Uncle, if you look at me and still think 'little kid,' you'll need to choose between visiting an optometrist and receiving a roundhouse kick to the face.``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 64598,
+    "TextENGNew": "``...Ahh, fine, fine.@k@vS06/00/152900035. I'm not trying to hide it.@k@vS06/00/152900036. It happened again after that.``",
+    "significantChanges": true,
+    "changeReason": "JPN 別に隠しゃしないよ means 'I'm not really hiding it'; OLD's 'I'll talk' implies reluctant disclosure while JPN implies it wasn't a secret.",
+    "changeScore": 3
+  },
+  {
+    "index": 211,
+    "MessageID": 64599,
+    "TextENGNew": "``Happened? What happened?@k@vS06/06/150600200. ...Uncle, what have you been talking about this whole time?``",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 64600,
+    "TextENGNew": "A prick.",
+    "significantChanges": true,
+    "changeReason": "JPN ちくり means 'a prick/sting' (as of a needle, confirmed by later context); OLD's 'Tick' is incorrect.",
+    "changeScore": 3
+  },
+  {
+    "index": 213,
+    "MessageID": 64601,
+    "TextENGNew": "When I was a much smaller child.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 64602,
+    "TextENGNew": "...Every time I was about to hear something bad, this little prick would come first, without fail.",
+    "significantChanges": true,
+    "changeReason": "Continuation of ちくり correction; OLD uses 'tick' while NEW correctly uses 'prick' matching the needle metaphor.",
+    "changeScore": 3
+  },
+  {
+    "index": 215,
+    "MessageID": 64603,
+    "TextENGNew": "A tiny person living deep inside my chest, warning me in advance that something unpleasant was coming.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 64604,
+    "TextENGNew": "...Jabbing my heart with a tiny needle held in its tiny hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 64605,
+    "TextENGNew": "If this prick came just before my parents called for me, it was guaranteed to be a scolding or bad news.",
+    "significantChanges": true,
+    "changeReason": "Continuation of ちくり correction from entry 212; OLD's 'tick' should be 'prick' to match the needle metaphor.",
+    "changeScore": 3
+  },
+  {
+    "index": 218,
+    "MessageID": 64606,
+    "TextENGNew": "...Which is why I'd react instantly and bolt.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 64607,
+    "TextENGNew": "But the passage of time had dulled my instincts.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 64608,
+    "TextENGNew": "The little person inside me had tried to warn me... yet I couldn't muster any response. I just sat there, dazed.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 64609,
+    "TextENGNew": "``Well, see...@k@vS06/00/152900038. The year after the Houjous died in that fall...@k@vS06/00/152900039. ...meaning last year.@k@vS06/00/152900040. It happened again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 64610,
+    "TextENGNew": "``Again...?@k@vS06/06/150600203. ...On the night of Watanagashi?!@k@vS06/06/150600204. Three years running?!@k@vS06/06/150600205. Again?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 64611,
+    "TextENGNew": "``That's right.@k@vS06/00/152900042. You know the shrine in Hinamizawa?@k@vS06/00/152900043. Furude Shrine.@k@vS06/00/152900044. ...The head priest dropped dead on the night of the festival, just like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 64612,
+    "TextENGNew": "``And once again, on the night of Watanagashi.@k@vS06/00/152900047. Then his wife threw herself into the swamp that same night... it was absolute chaos.@k@vS06/00/152900048. The village mayor called an emergency meeting, everything was in an uproar......``",
+    "significantChanges": true,
+    "changeReason": "OLD restructures and truncates: moves the Watanagashi reference and omits てんやわんや (chaos/uproar) about the village's reaction.",
+    "changeScore": 2
+  }
+]

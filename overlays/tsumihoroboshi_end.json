@@ -1,0 +1,2728 @@
+[
+  {
+    "index": 1,
+    "MessageID": 91077,
+    "TextENGNew": "``Can you hear me, Maebara-saaaan!!@k@vS09/11/170700623. And Ryuugu-san too!!@k@vS09/11/170700624. It's too dangerous to stay up there!!@k@vS09/11/170700625. It could explode at any moment!!@k@vS09/11/170700626. There's a flower bed below the building -- jump down into it!!!``",
+    "significantChanges": true,
+    "changeReason": "New preserves elongated calling (Maebara-saaaan) from JPN. Also 'by the school building' vs 'below the building' -- JPN 校舎の下 means below.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 91078,
+    "TextENGNew": "``A flower bed?@k@vS09/01/170101377. Damn it, I can't tell where it is from up here...``",
+    "significantChanges": true,
+    "changeReason": "Original 'I can't see it from here' vs new 'I can't tell where it is from up here' adds spatial context of being on a roof.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 91079,
+    "TextENGNew": "Unfortunately, there was no time to leisurely search for a flower bed.",
+    "significantChanges": true,
+    "changeReason": "Original 'it didn't sound like I had enough time' vs new explicitly names 'flower bed' per JPN 花壇.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 91080,
+    "TextENGNew": "......A white hand appeared at the edge of the roof... followed by Rena's head.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 91081,
+    "TextENGNew": "Rena was no longer hurrying. She climbed onto the roof with slow, deliberate movements.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN もはや焦らず (no longer hurrying) which original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 91082,
+    "TextENGNew": "I stood there calmly, waiting for her...",
+    "significantChanges": true,
+    "changeReason": "Original omits JPN 悠然と (calmly); new includes it.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 91083,
+    "TextENGNew": "``...I never imagined you'd find what I hid up here...@k@vS09/02/170201658. ...With this... it's all... a failure...``",
+    "significantChanges": true,
+    "changeReason": "Original omits 'what I hid up here' per JPN. Also 'all for nothing' vs 'a failure' -- JPN 失敗 means failure.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 91084,
+    "TextENGNew": "Rena clawed frantically at her own neck.",
+    "significantChanges": true,
+    "changeReason": "Original 'scratched at her throat' vs new 'clawed frantically at her neck.' JPN バリバリと掻き毟る is violent clawing; 首 is neck not throat.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 91085,
+    "TextENGNew": "The bandages she'd so carefully applied had all peeled away, revealing raw, painful-looking scratches oozing blood...",
+    "significantChanges": true,
+    "changeReason": "New captures more of JPN's detail about painful scratches oozing blood that original simplifies.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 91086,
+    "TextENGNew": "``Game over, Rena!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 91087,
+    "TextENGNew": "We stood facing each other on the second-story roof of the school.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 91088,
+    "TextENGNew": "...This was it -- the final round of our club activities, real-combat edition!",
+    "significantChanges": true,
+    "changeReason": "Old says 'This wasn't a club activity, but a real battle!' but Japanese says 'club activities, real-combat edition!' -- opposite framing.",
+    "changeScore": 4
+  },
+  {
+    "index": 13,
+    "MessageID": 91089,
+    "TextENGNew": "At first, Rena had glared at me with pure hatred for ruining her plan,",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 91090,
+    "TextENGNew": "...But partway through, something like resignation seemed to settle over her, and she let out a small laugh before breaking into a bold, defiant grin.",
+    "significantChanges": true,
+    "changeReason": "Original 'smiling wickedly' vs new 'bold, defiant grin.' JPN 不敵に means bold/fearless, not wicked.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 91091,
+    "TextENGNew": "The chorus of the higurashi cicadas seemed to be trying to cool the sweat of our battle...",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 91092,
+    "TextENGNew": "...But it didn't seem like we'd be needing that service anytime soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 91093,
+    "TextENGNew": "``If this were a board game, this would be the finish line and your victory, Keiichi-kun.@k@vS09/02/170201660. But this isn't a game.``",
+    "significantChanges": true,
+    "changeReason": "Original merges dialogue entries and missing closing quotes. New properly formats with 'Keiichi-kun' addressing.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 91094,
+    "TextENGNew": "``That's why this isn't the finish line -- it's a dead end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 91095,
+    "TextENGNew": "``...Tch, you really don't know when to admit defeat...@k@vS09/01/170101380. ...Rena, you really are incredibly strong.@k@vS09/01/170101381. You never give in, never break.@k@vS09/01/170101382. You fight to the very end.@k@vS09/01/170101383. And you believe to the very end, too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 91096,
+    "TextENGNew": "``Being praised at a time like this doesn't make me happy in the least...@k@vS09/02/170201663. You destroyed the plan I'd staked my very life on, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 91097,
+    "TextENGNew": "``...I was desperately fighting to protect humanity from the aliens, and you went and ruined it all.@k@vS09/02/170201665. If humanity goes extinct because of this... it'll go down in history as YOUR fault, Keiichi-kun!!!``",
+    "significantChanges": true,
+    "changeReason": "Original omits JPN 必死に (desperately); new includes 'desperately fighting.'",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 91098,
+    "TextENGNew": "I hadn't meant to laugh, but I might have snorted a little.",
+    "significantChanges": true,
+    "changeReason": "Original 'I couldn't help it' (certainty) vs new 'I might have snorted a little' (uncertainty matching JPN かもしれない).",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 91099,
+    "TextENGNew": "...If my name went down in alien history books as the man who destroyed the human race, that was actually kind of cool, wasn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 91100,
+    "TextENGNew": "``Rena.@k@vS09/01/170101385. No matter what you say, I've already won this game.@k@vS09/01/170101386. I've already won -- you just refuse to admit your loss. That's all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 91101,
+    "TextENGNew": "``............Yeah, maybe you're right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 91102,
+    "TextENGNew": "``But maybe that's just how things work.@k@vS09/01/170101388. A game doesn't end when there's a winner.@k@vS09/01/170101389. It ends when there's a loser.@k@vS09/01/170101390. ...Which means me winning alone isn't enough.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'maybe that's not how it works' but Japanese means 'maybe that's just how things work' -- opposite implication.",
+    "changeScore": 4
+  },
+  {
+    "index": 27,
+    "MessageID": 91103,
+    "TextENGNew": "``...........Oh...?@k@vS09/02/170201668. And what does that mean...?``",
+    "significantChanges": true,
+    "changeReason": "Original 'Hmm?' vs new 'Oh...?' -- JPN へぇ expresses surprise, which new captures.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 91104,
+    "TextENGNew": "I tapped the metal bat against my shoulder, and with my other hand, beckoned Rena to come at me.",
+    "significantChanges": true,
+    "changeReason": "Original omits 'with my other hand' which is in JPN もう片方の手で.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 91105,
+    "TextENGNew": "``It means I'm going to beat into you -- body and soul -- that you've lost.``",
+    "significantChanges": true,
+    "changeReason": "Original 'make you understand' vs new 'beat into you.' JPN 叩き込む means to pound/beat into.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 91106,
+    "TextENGNew": "I won't run. I won't hide.@k ...Why?",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 91107,
+    "TextENGNew": "Because our club charter has no provision for desertion in the face of the enemy!!",
+    "significantChanges": true,
+    "changeReason": "Different register: casual 'rules of our club' vs formal 'club charter/desertion.' JPN uses formal terms.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 91108,
+    "TextENGNew": "``I'll settle this right here and now.@k@vS09/01/170101393. I'll prove to you that you've already lost, Rena!!``",
+    "significantChanges": true,
+    "changeReason": "New preserves 'settle this right here' from JPN ここで白黒をつけてやるぜ which original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 91109,
+    "TextENGNew": "\"..........................Hmm.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 91110,
+    "TextENGNew": "``Here goes.@k@vS09/01/170101396. Parasites and aliens?@k@vS09/01/170101397. Are you an idiot? Stupid.@k@vS09/01/170101398. Who believes in that stuff nowadays? How lame.@k@vS09/01/170101399. I can't help but laugh -- hahahahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 91111,
+    "TextENGNew": "\"...You never believed me from the start... you pretended to believe... and you deceived Rena......!!@k@vS09/02/170201670. I'll never forgive you...@k@vS09/02/170201671. I'll never forgive you, never forgive you...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 91112,
+    "TextENGNew": "\"It's your business if you want to believe that stuff, Rena.@k@vS09/01/170101401. But I'm not buying into anything that sketchy!@k@vS09/01/170101402. If I'm gonna believe in something, the Tokugawa buried treasure sounds way more fun!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 91113,
+    "TextENGNew": "``If you still want to make me believe... there's a simple way for us club members to settle this, isn't there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 91114,
+    "TextENGNew": "``......The winner is right... is that it...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 91115,
+    "TextENGNew": "\"Exactly!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 91116,
+    "TextENGNew": "Rena and I shared a grin, then began circling each other on the sloping rooftop, slowly measuring the distance between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 91117,
+    "TextENGNew": "\"If you can beat me to a pulp, Rena, then fine—I'll believe your alien story!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 91118,
+    "TextENGNew": "``I'll do a suspicious dance morning and night to summon UFOs, and go to the cow barn for cattle mutilation!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 91119,
+    "TextENGNew": "\"But Rena.@k@vS09/01/170101408. If I beat you senseless, then you'd better be ready!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 91120,
+    "TextENGNew": "\"Ahhahahahahahahahahahahahahahaha!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 91121,
+    "TextENGNew": "\"There's no need to decide that, I don't think there is!@k@vS09/02/170201675. There's no way I'd lose to you, Keiichi-kun!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 91122,
+    "TextENGNew": "I caught it easily with the metal bat.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 91123,
+    "TextENGNew": "For a split second, I thought I saw sparks fly.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 91124,
+    "TextENGNew": "``Hey, don't be so sure -- you might be surprised, you know?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 91125,
+    "TextENGNew": "\"Going through all those fierce battles in the club, I finally came to understand something.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 91126,
+    "TextENGNew": "I learned about myself!",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 91127,
+    "TextENGNew": "Now I know what I need... to bring out my ultimate power.``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 91128,
+    "TextENGNew": "``Really?@k@vS09/02/170201677. I wonder what it is...",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 91129,
+    "TextENGNew": "I wonder!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 91130,
+    "TextENGNew": "Rena, your hatchet can be a powerful weapon.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 91131,
+    "TextENGNew": "But my metal bat is as powerful as your hatchet.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 91132,
+    "TextENGNew": "Sure, it doesn't have a blade, but it reaches farther and it's easy to handle!",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 91133,
+    "TextENGNew": "I won't be going for a defensive battle!",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 91134,
+    "TextENGNew": "I'm going to fight you face to face, and I'm going to defeat you!!",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 91135,
+    "TextENGNew": "I'm sure I'm stronger than you physically, but you're better at drawing out your true potential, Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 91136,
+    "TextENGNew": "In other words, we're equally matched!!@k This is great!@k I won't need to hold back at all!",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 91137,
+    "TextENGNew": "``So what are you going to do after you beat me?",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 91138,
+    "TextENGNew": "Take that, that, and that!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 91139,
+    "TextENGNew": "Hmm, I think I might have the upper hand!``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 91140,
+    "TextENGNew": "``Huh!",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 91141,
+    "TextENGNew": "I'm just warming up!",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 91142,
+    "TextENGNew": "Just you wait and see!",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 91143,
+    "TextENGNew": "Wait and see what I do after I take you down!",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 91144,
+    "TextENGNew": "We've both put a lot of chips on the pile!",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 91145,
+    "TextENGNew": "Prepare yourself for having to make a big payout!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 91146,
+    "TextENGNew": "``Ahahahahahahahahahahahahahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 91147,
+    "TextENGNew": "Aren't you counting your chickens before they've hatched?",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 91148,
+    "TextENGNew": "Your bluffing is just pathetic!``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 91149,
+    "TextENGNew": "``Heh heh heh!",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 91150,
+    "TextENGNew": "You don't get it, do you?",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 91151,
+    "TextENGNew": "My strength increases in proportion to my reward, don't you know?",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 91152,
+    "TextENGNew": "Let's see...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 91153,
+    "TextENGNew": "You'll be my personal maid!!",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 91154,
+    "TextENGNew": "Starting from the moment I wake up until I go to sleep at night, you'll serve me all day, every day!",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 91155,
+    "TextENGNew": "With Coach's help, you'll be wearing a different costume every day!!",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 91156,
+    "TextENGNew": "Wait, until I go to sleep at night?",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 91157,
+    "TextENGNew": "What if I make it so that you won't let me sleep instead?!",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 91158,
+    "TextENGNew": "How 'bout that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 91159,
+    "TextENGNew": "``Ahahahahahahahahahahahahahaha. Ahhhh ha ha ha ha ha ha ha ha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 91160,
+    "TextENGNew": "That's so like you, Keiichi-kun!",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 91161,
+    "TextENGNew": "No, thank you!",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 91162,
+    "TextENGNew": "Actually, I'll win, and make you my servant!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 91163,
+    "TextENGNew": "Ah ha ha ha ha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 91164,
+    "TextENGNew": "We both laughed like crazy people as we struck at each other!!",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 91165,
+    "TextENGNew": "It was strange how much fun it was becoming.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 91166,
+    "TextENGNew": "Rena and I were trying to kill each other... and yet, it was a blast!",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 91167,
+    "TextENGNew": "Sparks were flying. We could get seriously injured!!",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 91168,
+    "TextENGNew": "If we fell off of the rooftop, we'd break our bones, yet this was so much fun!!",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 91169,
+    "TextENGNew": "I had been mourning and crying all day today while Rena terrified me.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 91170,
+    "TextENGNew": "How did all that turn into this?",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 91171,
+    "TextENGNew": "``The two of us can't be serious even if we try!",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 91172,
+    "TextENGNew": "Even with sparks flying, we can only goof around!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 91173,
+    "TextENGNew": "``Too bad!",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 91174,
+    "TextENGNew": "That's not me. I like being elegant and graceful.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 91175,
+    "TextENGNew": "You can have fun goofing around by yourself, Keiichi-kun!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 91176,
+    "TextENGNew": "Rena's next strike came at a strange angle, but I managed to deflect it!",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 91177,
+    "TextENGNew": "``Whoa!!",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 91178,
+    "TextENGNew": "Taahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 91179,
+    "TextENGNew": "That's too, too weak. You're done!``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 91180,
+    "TextENGNew": "``Ha ha!",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 91181,
+    "TextENGNew": "Finally, I'm all warmed up.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 91182,
+    "TextENGNew": "This is just a warm-up, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 91183,
+    "TextENGNew": "``Huh?",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 91184,
+    "TextENGNew": "Stupid, this isn't even a warm-up.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 91185,
+    "TextENGNew": "This is like taking a walk.@k@vS09/01/170101437. Hey, you're all sweaty.``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 91186,
+    "TextENGNew": "``Hee hee hee hee, ah ha ha ha ha ha ha ha ha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 91187,
+    "TextENGNew": "Instead of sweat, you'll be covered in your own blood!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 91188,
+    "TextENGNew": "``Maebara-san!!",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 91189,
+    "TextENGNew": "Jump off!!@k@vS09/19/173100195. Come on, jump!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 91190,
+    "TextENGNew": "He isn't even listening to us!",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 91191,
+    "TextENGNew": "He's so into it that he can't even hear anything...!@k@vS09/19/173100199. ...Ooishi-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 91192,
+    "TextENGNew": "``.........Hmm?@k@vS09/11/170700628. Ah, ah, sorry!@k@vS09/11/170700629. What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 91193,
+    "TextENGNew": "``What do you mean 'what is it'?@k@vS09/19/173100200. We have to figure out a way to rescue him!``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 91194,
+    "TextENGNew": "Ooishi couldn't figure out why he was distracted, considering the seriousness of the situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 91195,
+    "TextENGNew": "He was engrossed in watching the two of them fight with the sunset behind them.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 91196,
+    "TextENGNew": "But Ooishi wasn't the only one.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 91197,
+    "TextENGNew": "Everyone watching was captivated by their battle on the rooftop.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 91198,
+    "TextENGNew": "At that moment, a sudden loud voice broke the silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 91199,
+    "TextENGNew": "``M-Maebara-san, hang in there!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 91200,
+    "TextENGNew": "Careful, don't fall!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 91201,
+    "TextENGNew": "The students who were about to climb onto the ambulance@k were cheering him on.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 91202,
+    "TextENGNew": "Mion was being loaded onto a stretcher with bandages around her head, but even she sat up, captivated as she was by Rena and Keiichi's duel.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 91203,
+    "TextENGNew": "Our once-happy days were supposed to have shattered due to a series of misunderstandings. They were supposed to be irretrievable...",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 91204,
+    "TextENGNew": "But... huh...... ...why?",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 91205,
+    "TextENGNew": "Why did I feel this way...?",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 91206,
+    "TextENGNew": "This was such a close game.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 91207,
+    "TextENGNew": "But it wouldn't be fun to stay in a stalemate forever!!",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 91208,
+    "TextENGNew": "Rena and I kicked at each other with perfect timing, and increased the distance between us!",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 91209,
+    "TextENGNew": "``Hey!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 91210,
+    "TextENGNew": "This is a blast!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 91211,
+    "TextENGNew": "What do you think, Rena?",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 91212,
+    "TextENGNew": "Isn't this just the best?``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 91213,
+    "TextENGNew": "``Ahahahahahahahahahahaha!",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 91214,
+    "TextENGNew": "I've been having fun since the very beginning!!",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 91215,
+    "TextENGNew": "But it'll be even more fun to split your head open, Keiichi-kun!",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 91216,
+    "TextENGNew": "Split it opeeen!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 91217,
+    "TextENGNew": "``Wow, that's dangerous!!@k@vS09/01/170101443. Over here!!",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 91218,
+    "TextENGNew": "Come back over here!!",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 91219,
+    "TextENGNew": "Let's use more space!!",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 91220,
+    "TextENGNew": "Something like this doesn't happen too often!!",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 91221,
+    "TextENGNew": "Let's enjoy it as much as we can!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 91222,
+    "TextENGNew": "``Ahhhahahahahahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 91223,
+    "TextENGNew": "This would make a great picture!",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 91224,
+    "TextENGNew": "Look, there's a beautiful moon behind us!@k@vS09/02/170201704. The breeze feels great!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 91225,
+    "TextENGNew": "It was such a fantastical scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 91226,
+    "TextENGNew": "Two people were fighting on the rooftop of the school building, with the moon behind them. It was almost unbelievable.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 91227,
+    "TextENGNew": "All the policemen and children looked at that mysterious and fantastical scene from a distance, completely entranced.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 91228,
+    "TextENGNew": "Everyone was thinking the same thing,@k but nobody said anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 91229,
+    "TextENGNew": "...Why does it look like they're having fun?",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 91230,
+    "TextENGNew": "``Getting all fired up in a breeze this cool...",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 91231,
+    "TextENGNew": "It reminds me of the Watanagashi festival!!",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 91232,
+    "TextENGNew": "I don't really like to just sit back and enjoy the cool of the evening in silence!",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 91233,
+    "TextENGNew": "When the moon comes up, I turn into an animal!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 91234,
+    "TextENGNew": "All us club members went crazy on the night of Watanagashi!",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 91235,
+    "TextENGNew": "The mayor scolded us by the end of it, but we laughed at each other, and promised to do the same thing again next year!!",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 91236,
+    "TextENGNew": "``Going crazy under the moon, huh? That sounds cool, doesn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 91237,
+    "TextENGNew": "Maybe we're already crazy!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 91238,
+    "TextENGNew": "``Yeah, I feel the same!!",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 91239,
+    "TextENGNew": "We're having fun trying to kill each other... we must be mad already!!@k@vS09/01/170101454. This must be what insanity is like!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 91240,
+    "TextENGNew": "Some people say the moon has the power to arouse passions in people.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 91241,
+    "TextENGNew": "Maybe that's true, and maybe it's not.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 91242,
+    "TextENGNew": "One thing that's for sure is that even if it were a new moon tonight,",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 91243,
+    "TextENGNew": "we would still feel the same way!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 91244,
+    "TextENGNew": "As our surroundings got darker, the sparks we'd create with each hit started to look like fireflies.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 91245,
+    "TextENGNew": "Hey now, isn't there gasoline in the drain pipe right nearby?@k Ahhhahahahahaha, who cares? If an explosion happens, it happens!!",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 91246,
+    "TextENGNew": "``Hey, what are you doing?",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 91247,
+    "TextENGNew": "Are you getting too sweaty to hold the bat?",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 91248,
+    "TextENGNew": "Why don't you take a break and dry your hands off?@k@vS09/02/170201710. I'll split your head open while you do that, though!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 91249,
+    "TextENGNew": "``Wa ha ha ha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 91250,
+    "TextENGNew": "That's a good one!!",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 91251,
+    "TextENGNew": "Isn't your skirt clinging to your legs? You can take it off if you want!!",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 91252,
+    "TextENGNew": "I'll just watch you instead of attacking!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 91253,
+    "TextENGNew": "``Really?",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 91254,
+    "TextENGNew": "Then I'll give you a good blow to the head while you're charmed by my legs!",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 91255,
+    "TextENGNew": "Ahhahahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 91256,
+    "TextENGNew": "``This really is so much fun, isn't it, Rena?!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 91257,
+    "TextENGNew": "``Yep, it sure is!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 91258,
+    "TextENGNew": "We flew!",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 91259,
+    "TextENGNew": "We danced!",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 91260,
+    "TextENGNew": "We struck! We laughed!",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 91261,
+    "TextENGNew": "We stepped back once in a while to catch a breath, and then charged at each other and let the sparks fly!",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 91262,
+    "TextENGNew": "We aimed at each other as we went around in circles on the rooftop of the school, our special stage.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 91263,
+    "TextENGNew": "Rena and I were all sweaty.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 91264,
+    "TextENGNew": "But we weren't exhausted yet. The beads of sweat rolling down my body just tickled me.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 91265,
+    "TextENGNew": "We exchanged furious blows one after the other.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 91266,
+    "TextENGNew": "Neither of us was at an advantage or disadvantage.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 91267,
+    "TextENGNew": "Neither of us exalted in victory or raged in defeat.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 91268,
+    "TextENGNew": "The battle with Rena in itself was fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 91269,
+    "TextENGNew": "It was like a dance.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 91270,
+    "TextENGNew": "A dance I couldn't dance by myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 91271,
+    "TextENGNew": "It was a dance I could only dance with someone with whom I was equally matched.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 91272,
+    "TextENGNew": "``Didn't you think the same thing I did when we did that club activity with the whole class...?@k@vS09/01/170101461. The day we duelled with water guns...``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 91273,
+    "TextENGNew": "``Yeah, I did!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 91274,
+    "TextENGNew": "````We wanted to fight like this again!!!````",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 91275,
+    "TextENGNew": "As we thought that way on the rooftop, our classmates down below must've thought the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 91276,
+    "TextENGNew": "Our fight was so pure and passionate... that everyone thought the same thing!",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 91277,
+    "TextENGNew": "We want to join them!!'",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 91278,
+    "TextENGNew": "``It was the same back then!",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 91279,
+    "TextENGNew": "We were using water guns, but we did the same thing!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 91280,
+    "TextENGNew": "``But this is far more fun!!",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 91281,
+    "TextENGNew": "I don't have to worry about how much water I have left in my gun!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 91282,
+    "TextENGNew": "``Yeah, we can't create sparks with water guns!``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 91283,
+    "TextENGNew": "``We couldn't strike at each other like this either!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 91284,
+    "TextENGNew": "We both were breathing hard, waiting for the right timing to take a step forward.@k In the midst of that, we grinned at each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 91285,
+    "TextENGNew": "``Huff... huff...!",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 91286,
+    "TextENGNew": "This is exactly what I said then, but I'm going to say it again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 91287,
+    "TextENGNew": "``Okay then, I'll respond just the same.``",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 91288,
+    "TextENGNew": "We both smiled wickedly in the same moment!!",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 91289,
+    "TextENGNew": "``This is so fun!",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 91290,
+    "TextENGNew": "I don't want it to ever end!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 91291,
+    "TextENGNew": "``Ahahahaha!@k@vS09/02/170201722. Don't hate me if you lose!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 91292,
+    "TextENGNew": "``No, never!!",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 91293,
+    "TextENGNew": "I'd hate myself for ending this game!!",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 91294,
+    "TextENGNew": "But I know I won't be the one crying in the end!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 91295,
+    "TextENGNew": "``I don't know about that!",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 91296,
+    "TextENGNew": "Your feet are getting weak, like they're made of straw!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 91297,
+    "TextENGNew": "``Shut uuuup!!@k@|@y@vS09/01/170101474. Whoaaaryaaahhhhh!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 91298,
+    "TextENGNew": "Everyone was captivated by our fight.@k They were swept up in our fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 91299,
+    "TextENGNew": "We both had weapons.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 91300,
+    "TextENGNew": "Weapons deadly enough to seriously hurt one another!",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 91301,
+    "TextENGNew": "But we were both perfectly matched and neither of us had hit the other yet!!",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 91302,
+    "TextENGNew": "Why did they look so happy?@k This was just ridiculous...!",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 91303,
+    "TextENGNew": "All the people below were just watching this fight on the rooftop with the beautiful moon as a backdrop.@k Not even the police could stop them!",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 91304,
+    "TextENGNew": "This was impossible!!",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 91305,
+    "TextENGNew": "This battle was absurd... and absolutely impossible!!",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 91306,
+    "TextENGNew": "``Keiichi-san!!@k@vS09/04/170400204. Try to stay in the middle of the roof!!@k@vS09/04/170400205. Use the height to your advantage!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 91307,
+    "TextENGNew": "Satoko and some of her classmates cheered Keiichi on, but there were some who were cheering for Rena too.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 91308,
+    "TextENGNew": "To them, this was no longer a fight to the death.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 91309,
+    "TextENGNew": "It was just the second round of their water gun battle.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 91310,
+    "TextENGNew": "A club activity is a club activity and a game is a game.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 91311,
+    "TextENGNew": "This was just the second round, so nobody would die.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 91312,
+    "TextENGNew": "Even though they had real weapons...",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 91313,
+    "TextENGNew": "Nobody thought they would get hurt.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 91314,
+    "TextENGNew": "Rika wasn't cheering. She was just looking up at the rooftop.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 91315,
+    "TextENGNew": "``...I've...... never seen anything... like this before...``",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 91316,
+    "TextENGNew": "Rika thought to herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 91317,
+    "TextENGNew": "She thought Keiichi could win.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 91318,
+    "TextENGNew": "Not just against Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 91319,
+    "TextENGNew": "Rika thought Keiichi could even destroy the walls of the maze of tragedies that had no exit.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 91320,
+    "TextENGNew": "``What are the snipers doing?@k@vS09/00/ootaka17027. The suspect is trying to harm the hostage!@k@vS09/00/ootaka17028. Fire immediately!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 91321,
+    "TextENGNew": "As Ootaka yelled into the radio, Mion screamed for him to stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 91322,
+    "TextENGNew": "``No, no!!@k@vS09/03/170300711. Don't shoot Rena!!@k@vS09/03/170300712. Rena isn't crazy anymore!@k@vS09/03/170300713. She isn't who she was earlier!@k@vS09/03/170300714. That's a different Rena!@k@vS09/03/170300715. So please, don't shoot her!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 91323,
+    "TextENGNew": "``What do you mean, she's different?@k@vS09/00/ootaka17030. Look!@k@vS09/00/ootaka17031. She's swinging around that weapon!@k@vS09/00/ootaka17032. She's trying to kill him!@k@vS09/00/ootaka17033. Unless we shoot her down, the hostage is in danger!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 91324,
+    "TextENGNew": "``...No, no!!@k@vS09/03/170300717. Don't shoot at Rena!!",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 91325,
+    "TextENGNew": "If you shoot Rena, Kei-chan will kill you for sure!!@k@vS09/03/170300719. I can guarantee it!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 91326,
+    "TextENGNew": "``Wh-Why would he kill me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 91327,
+    "TextENGNew": "``They aren't trying to kill each other!@k@vS09/03/170300721. They're just having fun creating sparks!!@k@vS09/03/170300722. Can't you see?",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 91328,
+    "TextENGNew": "Kei-chan is talking to her, too.@k@vS09/03/170300724. He's telling her that they're equal!@k@vS09/03/170300725. That means she can trust him more than anyone!!",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 91329,
+    "TextENGNew": "Kei-chan will wake Rena up!@k@vS09/03/170300727. No, he's already waking her up!!@k@vS09/03/170300728. Rena's nightmare is almost over!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 91330,
+    "TextENGNew": "``Keiichi-kun, you're the best!!@k@vS09/02/170201726. I don't even want to kill you anymore!!",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 91331,
+    "TextENGNew": "A world without you would be so boring!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 91332,
+    "TextENGNew": "``Huh! Thanks for the compliment. I appreciate it!!",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 91333,
+    "TextENGNew": "So what's going to happen to the world, huh?",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 91334,
+    "TextENGNew": "Aren't aliens trying to invade it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 91335,
+    "TextENGNew": "``Ahahahahaahahaahahahahaha, ahhhahahahahahahahahahahahaahhahahahaha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 91336,
+    "TextENGNew": "You know, I don't think I even care about aliens or parasites anymore.@k@vS09/02/170201730. If the world is going to perish, go ahead and perish. Who cares about the conspiracy of the Three Families, anyway?``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 91337,
+    "TextENGNew": "``That's right, even if a meteor hits the Earth tomorrow...``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 91338,
+    "TextENGNew": "``Nothing could be more fun than this moment!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 91339,
+    "TextENGNew": "``Hey, aren't you supposed to die tonight due to some poison?",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 91340,
+    "TextENGNew": "You sure don't look like you only have a few hours left to live!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 91341,
+    "TextENGNew": "``Ahahahahahahahahahahaha!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 91342,
+    "TextENGNew": "That's right, I completely forgot about that. I'm supposed to claw out my throat and die tonight!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 91343,
+    "TextENGNew": "``Hey, that's the scenario you came up with, don't forget.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 91344,
+    "TextENGNew": "Come on, scratch your throat once in a while, at least!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 91345,
+    "TextENGNew": "``Ahahahahahahahahahahaha!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 91346,
+    "TextENGNew": "``Hey, I know, it doesn't itch anymore, does it?",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 91347,
+    "TextENGNew": "It definitely doesn't!!",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 91348,
+    "TextENGNew": "This is more fun than scratching your throat could ever be!``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 91349,
+    "TextENGNew": "``Yeah, this dance of ours really is way more fun!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 91350,
+    "TextENGNew": "I wished it would never end!!",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 91351,
+    "TextENGNew": "But my body was screaming.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 91352,
+    "TextENGNew": "I was breathing hard, and felt dizzy from lack of oxygen.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 91353,
+    "TextENGNew": "My upper body felt as light as a piece of paper, as if even a slight breeze could take me away.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 91354,
+    "TextENGNew": "...It really had been a blast, but I needed to end it soon...",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 91355,
+    "TextENGNew": "I could feel the same sadness as in that water gun fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 91356,
+    "TextENGNew": "Back then, it had been declared a draw.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 91357,
+    "TextENGNew": "``I wonder what will happen this time...``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 91358,
+    "TextENGNew": "``Who knows?",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 91359,
+    "TextENGNew": "But one thing is for certain.``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 91360,
+    "TextENGNew": "``What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 91361,
+    "TextENGNew": "``I loved doing this with you!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 91362,
+    "TextENGNew": "``Me too!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 91363,
+    "TextENGNew": "I jumped backwards and slammed the roof with my bat.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 91364,
+    "TextENGNew": "The sound was as intense as a huge drum,",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 91365,
+    "TextENGNew": "and the noise woke up the people who were captivated by our fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 91366,
+    "TextENGNew": "The silence returned, and the chorus of higurashi filled the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 91367,
+    "TextENGNew": "``Okay...... let's pause for a moment.``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 91368,
+    "TextENGNew": "``......Sure.@k@vS09/02/170201739. Let's end this with one more strike.``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 91369,
+    "TextENGNew": "We started to move slowly... and increased the distance between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 91370,
+    "TextENGNew": "Everyone realized it.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 91371,
+    "TextENGNew": "This fight was ending very soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 91372,
+    "TextENGNew": "``Okay, this is it.@k@vS09/01/170101492. I'm going to ask you one more time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 91373,
+    "TextENGNew": "``Hmm? What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 91374,
+    "TextENGNew": "``Ahahahaha, hey, you're betting something on this, right?@k@vS09/01/170101494. Isn't that why you were fighting?``",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 91375,
+    "TextENGNew": "``I did?",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 91376,
+    "TextENGNew": "Ahahahahahaha, sorry, I forgot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 91377,
+    "TextENGNew": "``Tsk. You're hopeless.@k@vS09/01/170101496. Okay, listen carefully.@k@vS09/01/170101497. If I win,@k@vS09/01/170101498. you'll become my personal maid and serve me every day!!@k@vS09/01/170101499. You'll have introduce me to others as your master!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 91378,
+    "TextENGNew": "``Ahahahahahahahahahahaha, my uniform better be cute!``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 91379,
+    "TextENGNew": "``Of course it will.@k@vS09/01/170101501. There will be a variety of uniforms, ranging from old-fashioned ones to ones that are a little dangerous!!@k@vS09/01/170101502. They'll be custom-made so they'll fit you perfectly.@k@vS09/01/170101503. How about that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 91380,
+    "TextENGNew": "``My goodness.@k@vS09/02/170201745. I don't intend to lose, but that could be fun, somehow.@k@vS09/02/170201746. Ahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 91381,
+    "TextENGNew": "``If you win, Rena.``",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 91382,
+    "TextENGNew": "I paused for a moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 91383,
+    "TextENGNew": "``If you win, I'll believe your stories.``",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 91384,
+    "TextENGNew": "Rena was happy until just a moment ago, but that expression was suddenly wiped from her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 91385,
+    "TextENGNew": "``Aliens are invading the Earth and we have parasites in our brains.@k@vS09/01/170101507. The Sonozaki family is pulling the strings, they're researching the parasites in secret, and aliens will be in control of the world starting tomorrow. I will believe in that.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 91386,
+    "TextENGNew": "Also, since you're dying tonight,@k@vS09/01/170101509. I'll make sure you go peacefully, so don't worry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 91387,
+    "TextENGNew": "``......It's not fun if I win, is it?@k@vS09/02/170201748. Your reward sounds a lot more fun, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 91388,
+    "TextENGNew": "``Well, what can I do?@k@vS09/01/170101511. You did all this because of what I just said, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 91389,
+    "TextENGNew": "``...............Yeah, I guess...@k@vS09/02/170201750. Sorry, I almost forgot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 91390,
+    "TextENGNew": "Rena smiled sadly for a moment, but soon that expression was wiped off her face too.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 91391,
+    "TextENGNew": "``I'm going to win no matter what.@k@vS09/01/170101513. I want my personal maid!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 91392,
+    "TextENGNew": "``......Boo, boo.@k@vS09/02/170201752. It's not fun if I win.``",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 91393,
+    "TextENGNew": "``Then do you want to change it?@k@vS09/01/170101515. What do you want?``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 91394,
+    "TextENGNew": "......Finally, Rena smiled happily again.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 91395,
+    "TextENGNew": "The breeze dried our sweat.@k It was a good feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 91396,
+    "TextENGNew": "We no longer went crazy, even with the moon out.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 91397,
+    "TextENGNew": "We could finally enjoy the coolness of the evening.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 91398,
+    "TextENGNew": "It would be so nice if we could just lie down on our backs and gaze at the moon.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 91399,
+    "TextENGNew": "Still smiling a little, Rena spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 91400,
+    "TextENGNew": "``I want the same reward as yours, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 91401,
+    "TextENGNew": "``What?@k@vS09/01/170101517. You want me to be your maid?@k@vS09/01/170101518. That's something.``",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 91402,
+    "TextENGNew": "``You don't have to be my maid.@k@vS09/02/170201755. But the rest is the same.@k@vS09/02/170201756. I want you to say 'good morning' to me every morning and 'good night' every night.@k@vS09/02/170201757. I want you to treat me well and let me play around all the time.",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 91403,
+    "TextENGNew": "......Hmm?@k@vS09/02/170201759. Aha ha ha ha ha, I guess no matter who wins we'll always... be together.``",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 91404,
+    "TextENGNew": "``We'll be together, but the one who gets the special treatment is different.``",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 91405,
+    "TextENGNew": "``Aha! Ahahahahahahahahahahahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 91406,
+    "TextENGNew": "````Hahahahaha! Hahahahahahahahahahahahahahahahahahaha.````",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 91407,
+    "TextENGNew": "``Why am I fighting with someone I like so much?``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 91408,
+    "TextENGNew": "``I don't know.@k@vS09/01/170101522. Why are we on the rooftop?@k@vS09/01/170101523. Why did we even come up here in the first place?``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 91409,
+    "TextENGNew": "``Ahahahahaha, I don't know.@k@vS09/02/170201764. I forgot.``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 91410,
+    "TextENGNew": "``Maybe we're both airheads.@k@vS09/01/170101525. That's why we floated up here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 91411,
+    "TextENGNew": "``Yep, we're airhead buddies.``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 91412,
+    "TextENGNew": "``We're buddies, alright.``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 91413,
+    "TextENGNew": "````Ahahahahahahahahahahahahahahaha...````",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 91414,
+    "TextENGNew": "``...Well then, shall we get started?@k@vS09/01/170101528. I don't want to cool down too much.``",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 91415,
+    "TextENGNew": "``You're right.@k@vS09/02/170201769. We better finish up before it gets too cold.``",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 91416,
+    "TextENGNew": "We readied our weapons and took our stances.",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 91417,
+    "TextENGNew": "``I......@k@vS09/02/170201771. was going to suggest that we stop this. I really was.``",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 91418,
+    "TextENGNew": "I shook my head slowly.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 91419,
+    "TextENGNew": "``No.@k@vS09/01/170101530. We have to finish this.@k@vS09/01/170101531. ...Otherwise, it won't end.@k@vS09/01/170101532. Our fight won't end.@k@vS09/01/170101533. We can't quit.@k@vS09/01/170101534. We have to bring it to an end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 91420,
+    "TextENGNew": "``...This isn't right.@k@vS09/02/170201773. It's possible that no matter who wins or loses, there will be no reward.``",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 91421,
+    "TextENGNew": "``.........Even if that happens, we shouldn't hate each other.@k@vS09/01/170101536. So I'm going to tell you this now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 91422,
+    "TextENGNew": "``......What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 91423,
+    "TextENGNew": "``It was fun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 91424,
+    "TextENGNew": "``Yeah............ I feel the same way...``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 91425,
+    "TextENGNew": "``Rena...@k@vS09/01/170101539. Even if one of us dies, we'll see each other again.@k@vS09/01/170101540. And when we do...``",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 91426,
+    "TextENGNew": "``We'll have fun in a normal way. We'll laugh together in a normal way. ......And we'll fall in love in a normal way. We won't doubt each other. We'll trust each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 91427,
+    "TextENGNew": "......And we'll meet again, right? For sure, right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 91428,
+    "TextENGNew": "``Yes... for sure...``",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 91429,
+    "TextENGNew": "Tears appeared in Rena's eyes...",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 91430,
+    "TextENGNew": "I noticed I was about to break down, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 91431,
+    "TextENGNew": "``Okay......... are you ready?``",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 91432,
+    "TextENGNew": "There was no signal.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 91433,
+    "TextENGNew": "But we stepped forward at the same time.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 91434,
+    "TextENGNew": "Our shadows jumped in the moonlight.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 91435,
+    "TextENGNew": "We were fighting so viciously earlier, but now it was like we were moving very slowly. We must have looked like a shadow play.",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 91436,
+    "TextENGNew": "Everyone was watching the shadows dance.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 91437,
+    "TextENGNew": "Rena's shadow hit my metal bat violently.@|@y As a result, I let go of it...",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 91438,
+    "TextENGNew": "The metal bat bounced once on the roof, then rolled down to the schoolyard.",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 91439,
+    "TextENGNew": "I had lost my weapon.",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 91440,
+    "TextENGNew": "Here was Rena's chance. Of course, she wouldn't miss it...",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 91441,
+    "TextENGNew": "I was lying flat on the roof, and Rena got on top of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 91442,
+    "TextENGNew": "Rena's knees were holding down my arms, and there was no way for me to fight back.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 91443,
+    "TextENGNew": "The moon was divided into two.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 91444,
+    "TextENGNew": "The shadow of Rena's hatchet had split the moon right down the middle.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 91445,
+    "TextENGNew": "This was the end.",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 91446,
+    "TextENGNew": "``......Shit, that was good.@k@vS09/01/170101544. I can't even pull my arms away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 91447,
+    "TextENGNew": "``Hey, Keiichi-kun.@k@vS09/02/170201779. ...It's over... right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 91448,
+    "TextENGNew": "``Not yet.@k@vS09/01/170101546. It's not over until you swing down your hatchet.``",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 91449,
+    "TextENGNew": "``......I don't wanna.``",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 91450,
+    "TextENGNew": "``Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 91451,
+    "TextENGNew": "``...I don't want to. ......I don't want to...``",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 91452,
+    "TextENGNew": "Rena's arms were still raised, but tears were pouring from her eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 91453,
+    "TextENGNew": "``...What happened?@k@vS09/02/170201783. What went wrong?@k@vS09/02/170201784. I loved everyone and I trusted everyone. When did I start to doubt them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 91454,
+    "TextENGNew": "``...............``",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 91455,
+    "TextENGNew": "``I don't know why I'm doing this to you... I don't know.@k@vS09/02/170201786. ...Why, why am I doing this to people... I love so much?``",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 91456,
+    "TextENGNew": "``You... You realized it.@k@vS09/01/170101550. You realized it in 'this' world!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 91457,
+    "TextENGNew": "``I can't believe myself...",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 91458,
+    "TextENGNew": "Every day was so much fun but... why, why...?@k@vS09/02/170201789. I didn't have any complaints, I didn't worry about anything... so why did I try to destroy everything with my own two hands...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 91459,
+    "TextENGNew": "``Rena... you're... you're incredible!``",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 91460,
+    "TextENGNew": "After I killed you and Mion... ...I didn't realize I had done anything wrong, so I left a note and called Ooishi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 91461,
+    "TextENGNew": "I still believed that someone else was at fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 91462,
+    "TextENGNew": "Until, I mean,@k even after I was dead!",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 91463,
+    "TextENGNew": "I didn't even notice I had sinned.",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 91464,
+    "TextENGNew": "How sad it was to kill my friends because of a little misunderstanding, even when they were trying to help me.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 91465,
+    "TextENGNew": "And how painful it was not to realize it was a sin...",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 91466,
+    "TextENGNew": "``Therefore... you're amazing, Rena...@k@vS09/01/170101553. You didn't kill any of your friends.@k@vS09/01/170101554. You came to your senses ...before you committed a sin.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 91467,
+    "TextENGNew": "Ha ha, aha ha ha ha ha!!@k@vS09/01/170101556. You're incredible, Rena. ......Just incredible... You're totally different from me!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 91468,
+    "TextENGNew": "Rena stood up slowly and lowered her hatchet.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 91469,
+    "TextENGNew": "``I hurt my friend.@k@vS09/02/170201791. I hurt Mii-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 91470,
+    "TextENGNew": "``Just apologize to her.@k@vS09/01/170101558. Personally, I appreciate that the wounds will help me tell the twins apart.``",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 91471,
+    "TextENGNew": "``I've already killed...``",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 91472,
+    "TextENGNew": "``Huh?@k@vS09/01/170101560. No, you haven't.@k@vS09/01/170101561. Who did you kill?``",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 91473,
+    "TextENGNew": "``......Rina Mamiya... and Teppei Houjou...``",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 91474,
+    "TextENGNew": "``Ah... those two...``",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 91475,
+    "TextENGNew": "``......I thought it was right to kill them.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 91476,
+    "TextENGNew": "But the day I killed them... the world started to go crazy.@k@vS09/02/170201796. Did that mean...@k@vS09/02/170201797. that it was wrong to kill them...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 91477,
+    "TextENGNew": "``I don't know if it was right or wrong, but it wasn't the best thing you could have done.``",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 91478,
+    "TextENGNew": "``What do you mean, the best thing?``",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 91479,
+    "TextENGNew": "``Don't you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 91480,
+    "TextENGNew": "I grabbed Rena's head and embraced her.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 91481,
+    "TextENGNew": "Then I told her.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 91482,
+    "TextENGNew": "I told her something so simple.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 91483,
+    "TextENGNew": "It was so simple that anyone could think of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 91484,
+    "TextENGNew": "But Rena didn't do it.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 91485,
+    "TextENGNew": "I didn't do it either, back then.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 91486,
+    "TextENGNew": "``If you're in danger or you feel like doubting others or something sad happens...``",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 91487,
+    "TextENGNew": "It was so simple...!",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 91488,
+    "TextENGNew": "``You should talk to... your friends!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 91489,
+    "TextENGNew": "``That's right...@k@vS09/02/170201800. You're right. ...Ooh... whaaaahhhhh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 91490,
+    "TextENGNew": "Rena cried in my arms for a while. ...She cried about the wrong choice she made at the very beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 91491,
+    "TextENGNew": "The choice couldn't have been hard to see.",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 91492,
+    "TextENGNew": "I'm sure it was something that was within her grasp.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 91493,
+    "TextENGNew": "How stupid it was to worry about it by herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 91494,
+    "TextENGNew": "She had friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 91495,
+    "TextENGNew": "She had friends whom she trusted.",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 91496,
+    "TextENGNew": "Why did she think she couldn't talk to her friends about it?",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 91497,
+    "TextENGNew": "``I was wrong...!!@k@vS09/02/170201802. Why didn't I talk about it?@k@vS09/02/170201803. Everyone trusted me, so why didn't I trust them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 91498,
+    "TextENGNew": "``......I was the same way before.@k@vS09/01/170101568. That's why I won't laugh at you.@k@vS09/01/170101569. But you realized it.@k@vS09/01/170101570. You realized it a lot sooner than I did!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 91499,
+    "TextENGNew": "We will trust each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 91500,
+    "TextENGNew": "We will never doubt our friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 91501,
+    "TextENGNew": "We will rely on each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 91502,
+    "TextENGNew": "We will talk to each other and help each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 91503,
+    "TextENGNew": "That's why friends are always happy, and why we can endure anything together...",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 91504,
+    "TextENGNew": "``Okay, Rena.@k@vS09/01/170101572. Why don't we respond to the curtain call?@k@vS09/01/170101573. This is really the end of everything.``",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 91505,
+    "TextENGNew": "``Wh-What do you mean by the curtain call? What do you mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 91506,
+    "TextENGNew": "``Well, I was just talking to myself.@k@vS09/01/170101575. Come on.``",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 91507,
+    "TextENGNew": "We stood up together, holding hands.@k ...The moon was hanging behind us.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 91508,
+    "TextENGNew": "When I nodded, Rena threw away her hatchet. It disappeared into the darkness below.",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 91509,
+    "TextENGNew": "Then I spoke to the audience in Hell, the demons who weren't expecting this ending.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 91510,
+    "TextENGNew": "I was proclaiming victory!",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 91511,
+    "TextENGNew": "``That's all for tonight!@k@vS09/01/170101577. We overcame this tragedy!!@k@vS09/01/170101578. We'll never doubt each other again.@k@vS09/01/170101579. We'll be united forever!!@k@vS09/01/170101580. No matter what disaster might befall us, don't think we'll ever yield!!",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 91512,
+    "TextENGNew": "Who cares about tragedy, who cares about disaster?@k@vS09/01/170101582. Even if the script is written by demons,@k@vS09/01/170101583. we'll tear the whole thing to pieces!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 91513,
+    "TextENGNew": ".........There still wasn't any reply from Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 91514,
+    "TextENGNew": "Shit......! If we don't find out where Rena's hidden the incendiary device quickly—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 91515,
+    "TextENGNew": "We've managed to confine her to this space, but finding the device is what's really important.",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 91516,
+    "TextENGNew": "Please......... Satoko, you're the only one we're counting on!!",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 91517,
+    "TextENGNew": "``Ahahahahaha Ahahahahahahahahaha!",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 91518,
+    "TextENGNew": "Awesome, awesome, it's not like we're having club activities or anything, you know?@k@vS09/02/170201629. Ahahahahahahahahahahahahahahaha!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 91519,
+    "TextENGNew": "Rena who had thrown Rika-chan aside, swung around to face me as she stood up, her eyes glittering with fury.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 91520,
+    "TextENGNew": "And then, with an icy jeer enough to make my hairs stand on their ends, she raised her hatchet above her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 91521,
+    "TextENGNew": "``Hyaaaaaaaaaaaaa~!!!@k@vS09/02/170201649. I'll smash your head in with a single striiiiiiikeeeeee~!!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 91522,
+    "TextENGNew": "Shit......!!",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 91523,
+    "TextENGNew": "Adrenaline gushing through my veins, I twisted my body to barely dodge Rena's attack as the hatchet sliced through the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 91524,
+    "TextENGNew": "The hatchet she had swung recklessly sunk into the wooden floor with a thunderous roar, and Rena retracted it as if it were nothing and held it up once more as she sniggered, flashing her red tongue in mirth.",
+    "significantChanges": false
+  }
+]

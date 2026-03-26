@@ -1,0 +1,1826 @@
+[
+  {
+    "index": 1,
+    "MessageID": 98457,
+    "TextENGNew": "A cool breeze swept through the shrine grounds.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 98458,
+    "TextENGNew": "The rain-washed stone torii gate sparkled faintly under the sunlight.",
+    "significantChanges": true,
+    "changeReason": "Old 'rain-soaked stones near the shrine gate' vs new 'rain-washed stone torii gate'; JPN 石造りの鳥居 specifically means 'stone torii gate,' not generic stones near a gate. The new translation correctly identifies the object.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 98459,
+    "TextENGNew": "We followed Sonozaki-san down the stone steps and along the country road.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 98460,
+    "TextENGNew": "\"...I wonder if Towada-san will be all right.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 98461,
+    "TextENGNew": "I pictured Towada-san alone in the abandoned assembly hall, huddled close to Kurosawa.",
+    "significantChanges": true,
+    "changeReason": "Old 'sitting alone in the assembly hall' vs new 'alone in the abandoned assembly hall, huddled close to Kurosawa'; the new version captures 寄り添うようにして (snuggling/huddling close to) and 廃屋となった (abandoned/ruined) from the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 98462,
+    "TextENGNew": "Sunk to the depths of grief, drowning in regret, consumed by despair...",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 98463,
+    "TextENGNew": "At the very least, I believed she was in a state where she couldn't find even a shred of hope.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 98464,
+    "TextENGNew": "Leaving Towada-san behind in that state... wasn't that the same as abandoning her...?",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 98465,
+    "TextENGNew": "\"Do you think... Towada-san is going to kill herself...?\"",
+    "significantChanges": true,
+    "changeReason": "Old 'planning to die' vs new 'going to kill herself'; JPN 死ぬつもり implies intent to end one's own life, and the new version makes the suicidal nature more explicit.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 98466,
+    "TextENGNew": "\"Who knows. That's for Towada to decide.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 98467,
+    "TextENGNew": "\"...@k@vS10/41/410200805.Was it... really the right choice to leave her behind?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 98468,
+    "TextENGNew": "Otobe seemed to be thinking the same thing. ...But Mion-san simply shrugged her shoulders and looked back at the assembly hall with a tender expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 98469,
+    "TextENGNew": "\"Nobody other than she, herself, can understand what's right for her.@k@vS10/43/410400638. However... she did her utmost to live, and to love him... and after thinking it over for herself, she chose to kill him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 98470,
+    "TextENGNew": "\"If she hadn't heard those last words from Kurosawa, the despair she locked away would've crushed her, and eventually ruined her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 98471,
+    "TextENGNew": "\"...But, she came back.@k@vS10/43/410400641. No... maybe it's more correct to say he brought her back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 98472,
+    "TextENGNew": "\"At this point, Towada needs to seriously regret what she's done, and think hard about what she should do from here on.@k@vS10/43/410400643. ...And do her best not to squander Kurosawa's feelings.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 98473,
+    "TextENGNew": "\"...But even if she thinks it over as hard as possible...@k@vS10/41/410200807. That doesn't change the fact that she did something wrong...@k@vS10/41/410200808. Not to mention... the crime she committed won't just disappear.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 98474,
+    "TextENGNew": "\"...Well, of course.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 98475,
+    "TextENGNew": "Sonozaki-san looked away while chuckling to herself, then turned her back to us and continued walking. And then,",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 98476,
+    "TextENGNew": "\"However... that girl won't regret what she does next.@k@vS10/43/410400646. That's what it means to take responsibility for the outcome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 98477,
+    "TextENGNew": "\"And that outcome will be what she believed to be best, so we'll have no choice but to accept that.@k@vS10/43/410400648. ...In the end, she can choose to die by his side or to go on living by herself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 98478,
+    "TextENGNew": "\"But... there's no longer room in there to lie to herself.@k@vS10/43/410400650. So I believe... she will make the right choice... the best choice for herself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 98479,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 98480,
+    "TextENGNew": "\"The important thing isn't to ask what to do.@k@vS10/43/410400652. ...Or to panic about what you can do on your own.@k@vS10/43/410400653. ...It's to take responsibility for your own choices.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 98481,
+    "TextENGNew": "I could feel the weight behind Sonozaki-san's words.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 98482,
+    "TextENGNew": "Maybe she's been living her whole life like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 98483,
+    "TextENGNew": "What about me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 98484,
+    "TextENGNew": "Before I knew it, I was thinking about the editorial department back in Tokyo.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 98485,
+    "TextENGNew": "Am I fine with things the way they are...?",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 98486,
+    "TextENGNew": "Can I really keep up this charade as a popular writer?",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 98487,
+    "TextENGNew": "I finally managed to find work as an occult writer, but there's no telling if I'll be able to keep that up in the future.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 98488,
+    "TextENGNew": "My success up until now was largely due to the Hinamizawa interview tapes my father left behind... I can't depend on that forever. I need to accomplish something of my own merit.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 98489,
+    "TextENGNew": "It's normal to jump around between various jobs, even up to around 35 years old... but sooner or later, I need to find a way of securing my future life... instead of feeling at a loss for my own personal value.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 98490,
+    "TextENGNew": "This village, Hinamizawa, was the story that changed my father's life as a reporter...",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 98491,
+    "TextENGNew": "To be perfectly honest... I didn't come here based on some intuition. That was just nonsense I made up. Saying I wanted to find out something about my father... was merely a convenient excuse.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 98492,
+    "TextENGNew": "In fact, I've largely exhausted all my occult material lately... and my desperation to find something new may have been part of the reason I came to Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 98493,
+    "TextENGNew": "But I understand now, that haphazard lifestyle is no way to live...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 98494,
+    "TextENGNew": "That way of thinking is what got me into this mess.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 98495,
+    "TextENGNew": "Even if the ghosts and curses were sidelined by a yakuza conflict, this crisis might just be me suffering the consequences of my choices...",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 98496,
+    "TextENGNew": "\"...Oh, Ryuunosuke-san.@k@vS10/40/410300942. Take a look at this...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 98497,
+    "TextENGNew": "\"...What is it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 98498,
+    "TextENGNew": "I turned in the direction Miyuki-chan was pointing.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 98499,
+    "TextENGNew": "Over there... a motorcycle was carefully hidden behind a grove of trees.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 98500,
+    "TextENGNew": "I didn't notice it because it was so dark last night, but it looked like something new. ...It probably came from one of the people who attacked Sonozaki-san and the rest of us.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 98501,
+    "TextENGNew": "...And fortunately enough, the keys were still in the ignition.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 98502,
+    "TextENGNew": "\"They're... not here?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 98503,
+    "TextENGNew": "I carefully inspected the surrounding area, then approached the motorcycle and tried to start it.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 98504,
+    "TextENGNew": "*brrr*",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 98505,
+    "TextENGNew": "\"...It worked?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 98506,
+    "TextENGNew": "\"Woohoo...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 98507,
+    "TextENGNew": "Everyone's faces immediately brightened up. With this, we can head straight to the Okinomiya police station...!",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 98508,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 98509,
+    "TextENGNew": "But who should go?",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 98510,
+    "TextENGNew": "It's a small motorcycle, so two passengers would be tough. If we're going to take it, one passenger would be best.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 98511,
+    "TextENGNew": "In which case...",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 98512,
+    "TextENGNew": "\"...Miyuki-chan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 98513,
+    "TextENGNew": "\"Yes?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 98514,
+    "TextENGNew": "\"Take this and go to Okinomiya.@k@vS10/62/410101569. And if you make it somewhere your phone can connect, dial 911 right away.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 98515,
+    "TextENGNew": "\"Huh? Me?@k@vS10/40/410300945. W-wait a minute!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 98516,
+    "TextENGNew": "Miyuki-chan shook her head in surprise. She never expected that I'd nominate her to go.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 98517,
+    "TextENGNew": "\"I understand Sonozaki-san, but Ryuunosuke-san, you and Otobe-kun are just regular civilians, right?!@k@vS10/40/410300947. I can't leave you guys alone to charge into such a dangerous place!@k@vS10/40/410300948. Otobe-kun, Ryuunosuke-san, please. One of you should go!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 98518,
+    "TextENGNew": "\"But I don't have a motorcycle license...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 98519,
+    "TextENGNew": "\"Me neither.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 98520,
+    "TextENGNew": "\"You liar!@k@vS10/40/410300950. Ryuunosuke-san, didn't you tell me earlier you were planning to ride your motorcycle here?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 98521,
+    "TextENGNew": "...Busted.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 98522,
+    "TextENGNew": "\"Plus, if you take this bike... maybe it's not the most admirable choice, but Ryuunosuke-san, Otobe-kun, you can both leave this village together.@k@vS10/40/410300952. That way you'll be safe... And to be perfectly honest, if you stay here you'll just be in the way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 98523,
+    "TextENGNew": "\"...I don't think you'll be that much better yourself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 98524,
+    "TextENGNew": "Once Sonozaki-san pointed that out, Miyuki-chan let out a sigh. ...And after last night, it was abundantly clear why she didn't want her sticking around.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 98525,
+    "TextENGNew": "\"...Miyuki-chan, aren't you low on ammunition anyway?@k@vS10/62/410101572. You sighed after you counted your remaining bullets last night, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 98526,
+    "TextENGNew": "\"Ah, that's true... but still!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 98527,
+    "TextENGNew": "\"At any rate, I doubt the people we're up against will give a damn if you try flashing your badge at them.@k@vS10/43/410400656. Someone who works in anti-yakuza like yourself should be well aware of that, yes?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 98528,
+    "TextENGNew": "\"...I admire your courageous sense of justice, but I won't allow you to have a death wish.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 98529,
+    "TextENGNew": "\"...Shouldn't you be saying that to the two of them?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 98530,
+    "TextENGNew": "Miyuki-chan refused to back down.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 98531,
+    "TextENGNew": "To be honest, I really appreciated her show of spirit. But even so, we shouldn't be arguing here... we had no time to waste.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 98532,
+    "TextENGNew": "\"There's no time.@k@vS10/62/410101574. We're going with Sonozaki-san.@k@vS10/62/410101575. Besides, during my research I learned that there's a secret escape route out of the village hidden in the Sonozaki residence.@k@vS10/62/410101576. ...Isn't that so?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 98533,
+    "TextENGNew": "\"...Yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 98534,
+    "TextENGNew": "\"If you stay on that road, you'll avoid the people waiting for Sonozaki-san.@k@vS10/62/410101578. So Miyuki-chan, I need you to contact the police and get their support.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 98535,
+    "TextENGNew": "\"...Besides, wasn't it your original mission to catch these guys?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 98536,
+    "TextENGNew": "\"...Ryuunosuke-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 98537,
+    "TextENGNew": "Miyuki-chan was still hesitating to give me an answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 98538,
+    "TextENGNew": "Even if we took the motorcycle out of the village, we could still run into an enemy patrol party. There was no guarantee that we'd be able to escape to safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 98539,
+    "TextENGNew": "But... the odds of survival are better if we travel to the Sonozaki main house together, and it's something we can do to give us all hope.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 98540,
+    "TextENGNew": "If we can just buy some time, the police will come save us... I can believe in that.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 98541,
+    "TextENGNew": "Plus, if Miyuki-chan can call in reinforcements from Okinomiya, she'll be able to hold down the scene and collect necessary evidence. Even in the worst case, they'll be able to cut off a retreat.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 98542,
+    "TextENGNew": "...It seemed like a reasonable argument to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 98543,
+    "TextENGNew": "But there was no way I could put it all into words...",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 98544,
+    "TextENGNew": "\"...There is indeed a hidden passage in the grounds of the Sonozaki residence.@k@vS10/43/410400660. From there, you'll be able to get out of the village without being followed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 98545,
+    "TextENGNew": "\"...What about you, Mion-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 98546,
+    "TextENGNew": "\"Do you have to ask?@k@vS10/43/410400662. I'm going to settle this,@k@vS10/43/410400663. regardless of if the police make it here or not.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 98547,
+    "TextENGNew": "In other words... she was prepared to issue them a challenge right here and now.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 98548,
+    "TextENGNew": "\"Miyuki-chan... hurry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 98549,
+    "TextENGNew": "\"We'll be all right.@k@vS10/41/410200813. ...And we'll be waiting for your support.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 98550,
+    "TextENGNew": "\"Understood.@k@vS10/40/410300959. I'll be back as soon as possible, so please don't do anything crazy, everyone.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 98551,
+    "TextENGNew": "Miyuki-chan finally seemed to reach a decision. She straddled the motorcycle, then looked back to us and lightly nodded.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 98552,
+    "TextENGNew": "I gave her a strong nod in response, and then she flew down the mountain road at full speed.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 98553,
+    "TextENGNew": "\"...Hey, Arakawa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 98554,
+    "TextENGNew": "\"Yes?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 98555,
+    "TextENGNew": "\"How do you know about the secret passage in the Sonozaki estate?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 98556,
+    "TextENGNew": "\"Eh?@k@|@y@vS10/62/410101582. ...You're telling me it really exists? Thank goodness...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 98557,
+    "TextENGNew": "\"Huuh...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 98558,
+    "TextENGNew": "Sonozaki-san's eyes opened wide as soon as she heard that. ...Although even I was surprised to hear her confirm it.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 98559,
+    "TextENGNew": "\"Hehehe... nicely done.@k@vS10/43/410400669. But anyway, we're out of time.@k@vS10/43/410400670. ...Let's get going.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 98560,
+    "TextENGNew": "Inspired by Mion-san's declaration, we all started walking again.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 98561,
+    "TextENGNew": "...Was that the first time she sincerely praised me?",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 98562,
+    "TextENGNew": "The scenery in the bright daylight looked completely different than it did in the middle of the night.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 98563,
+    "TextENGNew": "The trees that seemed to go on endlessly in the dark back then were instead lush, green, and gently swaying in the wind.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 98564,
+    "TextENGNew": "Before long... Otobe let out a heavy sigh as we reached a road halfway up the mountain.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 98565,
+    "TextENGNew": "We all looked pale from our lack of sleep, but Otobe's face looked particularly bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 98566,
+    "TextENGNew": "\"Otobe... are you all right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 98567,
+    "TextENGNew": "\"Oh... yeah...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 98568,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 98569,
+    "TextENGNew": "Ever since we left the assembly hall, Otobe had been walking with an expression that looked like something was on his mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 98570,
+    "TextENGNew": "Thinking back on it... That's right, it started around the time we were descending the stone steps, right after Sonozaki-san spoke about Towada-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 98571,
+    "TextENGNew": "\"The important thing isn't to ask what to do.@k@vS10/43/410400672. ...Or to panic about what you can do on your own.@k@vS10/43/410400673. ...It's to take responsibility for your own choices.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 98572,
+    "TextENGNew": "As Otobe listened to that... he gasped and his eyes opened wide, like he had realized something.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 98573,
+    "TextENGNew": "Something about those words seemed to resonate deep within him.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 98574,
+    "TextENGNew": "But if there's one thing I can say... it's that his face looks far more earnest this morning than it did last night.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 98575,
+    "TextENGNew": "\"...Oh.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 98576,
+    "TextENGNew": "Eventually, we reached a bend in the road with one white car parked in front of us.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 98577,
+    "TextENGNew": "At first glance, it seemed like an ordinary passenger car. ...However, something about its shape looked familiar.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 98578,
+    "TextENGNew": "\"...! That's...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 98579,
+    "TextENGNew": "I caught my breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 98580,
+    "TextENGNew": "That's right... I remember!",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 98581,
+    "TextENGNew": "The windows were wrapped in duct tape, and there were three dead people inside who looked they were sleeping...",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 98582,
+    "TextENGNew": "This was the car we found when we first arrived, with the bodies of the three suicide victims.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 98583,
+    "TextENGNew": "\"...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 98584,
+    "TextENGNew": "\"H-hey, Otobe...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 98585,
+    "TextENGNew": "Otobe bit his lip and rushed over to the car.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 98586,
+    "TextENGNew": "Then, he stepped over the duct tape that had fallen to the ground and opened the rear passenger door.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 98587,
+    "TextENGNew": "...I smashed the window yesterday, so there were no longer any traces of carbon monoxide.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 98588,
+    "TextENGNew": "Nevertheless, the ashes of the thoroughly burned charcoal flew into the air as soon as he opened the door, and I frowned as soon as the peculiar odor reached my nose.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 98589,
+    "TextENGNew": "\"Akutagawa-san... Machi-chan... Chiaki-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 98590,
+    "TextENGNew": "Otobe looked at each of their faces, one by one.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 98591,
+    "TextENGNew": "I see... so those are their names.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 98592,
+    "TextENGNew": "I looked them over once more, but they'll never move again.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 98593,
+    "TextENGNew": "They looked so peaceful... as if they were just sleeping.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 98594,
+    "TextENGNew": "But we'll never see smiles on their faces, like they had when they came to this village...",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 98595,
+    "TextENGNew": "\"......I...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 98596,
+    "TextENGNew": "Before long...",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 98597,
+    "TextENGNew": "Otobe had been silently watching the three of them, just like me, but then he slowly opened his mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 98598,
+    "TextENGNew": "\"Somewhere deep in my heart, I probably realized how selfish I was being...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 98599,
+    "TextENGNew": "\"I realized on my own that compared to Towada-san's act of murder... stealing a card from the pocket of someone who had just committed suicide is far less severe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 98600,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 98601,
+    "TextENGNew": "\"But... after hearing what Mion-san had to say... I thought it over.@k@vS10/41/410200821. When considering it with the scale we call earnest effort, maybe there's something about the weight of a sin that can't be measured.@k@vS10/41/410200822. Everyone has been fighting as hard as they can to go on living...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 98602,
+    "TextENGNew": "\"Struggling and struggling... worrying and suffering with no end in sight...@k@vS10/41/410200824. That was why... Towada-san killed her boyfriend.@k@vS10/41/410200825. ...And why... these people killed themselves.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 98603,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 98604,
+    "TextENGNew": "Making an earnest effort to live a proper life... was what drove Towada-san to murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 98605,
+    "TextENGNew": "Living a careless lifestyle and taking on debts that can never be repaid... ultimately made Otobe contemplate suicide.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 98606,
+    "TextENGNew": "It seems foolish to even consider comparing the two of them... but it's no simple task to decide which sin is heavier.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 98607,
+    "TextENGNew": "Sure enough, Otobe was still relying on others even as he was approaching death.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 98608,
+    "TextENGNew": "He didn't have the courage to die alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 98609,
+    "TextENGNew": "Unlike Towada-san, who was wracked with guilt even as she was consumed by despair... he was going on living comfortably.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 98610,
+    "TextENGNew": "That fact probably made Otobe evaluate the weight of his sins.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 98611,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 98612,
+    "TextENGNew": "Otobe had a serious look on his face as he pulled the cash card out of his pocket.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 98613,
+    "TextENGNew": "\"I... didn't have the same resolve as everyone else.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 98614,
+    "TextENGNew": "\"...They all had a tragic but courageous resolve that drove them to suicide here...@k@vS10/41/410200829. I was just happy to go somewhere with other people...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 98615,
+    "TextENGNew": "\"Even as we were heading into our final moments, it felt like a group of \"friends\" going on a trip...@k@vS10/41/410200831. It was reckless... but it was fun...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 98616,
+    "TextENGNew": "Everyone was heading there to die, but it felt completely different for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 98617,
+    "TextENGNew": "I simply wasn't prepared to die...",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 98618,
+    "TextENGNew": "So, when I saw that cash card... when I realized I could start my life over... I jumped at it, right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 98619,
+    "TextENGNew": "I allowed them all to continue down the road to death, and then I ran away alone...",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 98620,
+    "TextENGNew": "...How shallow.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 98621,
+    "TextENGNew": "In the end... I was just looking for an easy, comfortable life.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 98622,
+    "TextENGNew": "...I couldn't even find a cute girlfriend on my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 98623,
+    "TextENGNew": "My coworkers had to introduce me to someone.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 98624,
+    "TextENGNew": "Nevertheless... after she was gone, I hated my coworkers for introducing me to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 98625,
+    "TextENGNew": "\"...How dare you introduce me to a girl like that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 98626,
+    "TextENGNew": "I felt bitter... like they were looking down on me for getting so fired up over a girl of that caliber.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 98627,
+    "TextENGNew": "And, no matter how much my parents cheered me on... I resented that they only looked on from afar, unwilling to understand my suffering.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 98628,
+    "TextENGNew": "\"I continued to go on living by blaming others for all my problems like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 98629,
+    "TextENGNew": "\"Come on... Don't beat yourself up over it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 98630,
+    "TextENGNew": "\"No... it's fine.@k@vS10/41/410200847. I'm not beating myself up over it.@k@vS10/41/410200848. ...I'm owning up to who I was...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 98631,
+    "TextENGNew": "Otobe looked like he was about to burst into tears, but it wasn't like the miserable weeping he did last night.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 98632,
+    "TextENGNew": "It felt like he was prepared to confront himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 98633,
+    "TextENGNew": "\"I've wasted all this time falling into debt hell... because I was too weak to deal with it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 98634,
+    "TextENGNew": "\"I developed an inferiority complex after being bullied in the countryside and wanted to prove myself.@k@vS10/41/410200851. I wanted to look down on all the people who laughed at me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 98635,
+    "TextENGNew": "\"But... in the end, I let that inferiority complex take control, and I fell prey to money lenders, losing any respectability I had...@k@vS10/41/410200853. Really... I'm such an idiot.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 98636,
+    "TextENGNew": "\"Sucked dry by the villains of this world. Crying, cursing, and resenting other people...@k@vS10/41/410200855. And I was about to die to escape it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 98637,
+    "TextENGNew": "As Otobe pinched those words out, he placed the stolen cash card in Chiaki-san's hand and squeezed it tight.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 98638,
+    "TextENGNew": "\"I... didn't earn this money.@k@vS10/41/410200857. So... let me give it back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 98639,
+    "TextENGNew": "\"Wait... what are you going to do about your debts?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 98640,
+    "TextENGNew": "\"It's fine.@k@vS10/41/410200859. I... was being shallow.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 98641,
+    "TextENGNew": "\"Chasing some lofty dream, always blaming others for the problems in my life...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 98642,
+    "TextENGNew": "\"Studying in school was the one thing I was good at.@k@vS10/41/410200862. The teachers at school always told me I was a well-behaved kid.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 98643,
+    "TextENGNew": "\"...In order to be the good kid that always received praise... I locked away the ability to assert myself.@k@vS10/41/410200864. That's why I always felt so irritated.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 98644,
+    "TextENGNew": "\"I became conceited, telling myself I wasn't meant to rot away in a place like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 98645,
+    "TextENGNew": "\"But I didn't have the courage to betray people's expectations, or the will to try and fail at something...@k@vS10/41/410200867. I lost sight of myself while searching for the things I couldn't fail at...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 98646,
+    "TextENGNew": "...In hindsight... he realized even the act of thinking only in terms of successes was an arrogant and cowardly way of living.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 98647,
+    "TextENGNew": "Mustering all your strength on something and trying your best when the result is uncertain.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 98648,
+    "TextENGNew": "Not giving up until you discover your own limits.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 98649,
+    "TextENGNew": "One cannot possibly hope to discover their true dreams and capabilities without putting in that effort...",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 98650,
+    "TextENGNew": "\"...I'm... a total moron.@k@vS10/41/410200873. From now on, I want to take back my life.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 98651,
+    "TextENGNew": "\"I've decided, I'm going to do my best to keep on living.@k@vS10/41/410200876. ...I'm going face the reality in front of me, head on.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 98652,
+    "TextENGNew": "\"No matter how hopeless it is... no matter how little I can do about it...@k@vS10/41/410200878. If I keep on struggling and keep on living... I'm certain I'll open a way forward.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 98653,
+    "TextENGNew": "...Of course, there's a lot to be anxious about.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 98654,
+    "TextENGNew": "There's no way to repay millions in debts.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 98655,
+    "TextENGNew": "Even with the help of my parents back in the countryside, I wouldn't be able to repay that kind of money... Not to mention, the feud with my parents was never really resolved.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 98656,
+    "TextENGNew": "If I return home from Tokyo and confess I've accumulated a mountain of debts... their faces would twist and they'd beat me, crying... They'd kick me out of the house...",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 98657,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 98658,
+    "TextENGNew": "But even so... I have to start from there.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 98659,
+    "TextENGNew": "The odds are terrible, close to zero... but I'm reaping what I sowed.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 98660,
+    "TextENGNew": "If Towada-san's guilt is a cross she'll have to bear moving forward... then I need to carry the weight of my past in order to atone for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 98661,
+    "TextENGNew": "And now, at last... I'll be able to get back on the proper path...",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 98662,
+    "TextENGNew": "Otobe knelt down on the ground... And then,",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 98663,
+    "TextENGNew": "\"Akutagawa-san... Machi-chan... Chiaki-san...@k@vS10/41/410200880. I wish I could've stopped you from killing yourselves.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 98664,
+    "TextENGNew": "\"I came all the way out here driven by such half-assed motives...@k@vS10/41/410200882. I ran away on my own... and I didn't just leave you to die, I robbed you too... I'm so sorry...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 98665,
+    "TextENGNew": "\"I was foolish and weak... Please, forgive me!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 98666,
+    "TextENGNew": "He sincerely lowered his head all the way down to the muddy soil.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 98667,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 98668,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 98669,
+    "TextENGNew": "Sonozaki-san and I could only watch on as Otobe remained like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 98670,
+    "TextENGNew": "...Religious teachings state that the souls of those who commit suicide can never find peace.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 98671,
+    "TextENGNew": "Even if that's just superstition... throwing away the life that your parents gave you... is something that should never be done, no matter the reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 98672,
+    "TextENGNew": "What parent has no aspirations for the child they gave birth to?",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 98673,
+    "TextENGNew": "What parent doesn't feel the joy of watching their child grow up?",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 98674,
+    "TextENGNew": "...People can't survive on their own.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 98675,
+    "TextENGNew": "And at the same time... there's no reason for people to live alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 98676,
+    "TextENGNew": "You can't turn your back on the hopes, dreams, and expectations of others... It doesn't take long to decide on the right path and keep walking.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 98677,
+    "TextENGNew": "That's why you have to see it all the way to the end...",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 98678,
+    "TextENGNew": "Otherwise, what's the meaning of being born into this world...?",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 98679,
+    "TextENGNew": "\"...Otobe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 98680,
+    "TextENGNew": "I... didn't pity him, nor did I admire him.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 98681,
+    "TextENGNew": "And that's because... I'm just like him.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 98682,
+    "TextENGNew": "Even though I overstate how successful I am, I deluded myself into thinking my way of life was mine alone... being lazy and letting the flow of life push me around.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 98683,
+    "TextENGNew": "After all this time... I finally realized it.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 98684,
+    "TextENGNew": "Right here, right now, I'm just like Otobe...",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 98685,
+    "TextENGNew": "The next moment,",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 98686,
+    "TextENGNew": "(...It's all right...)",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 98687,
+    "TextENGNew": "\"...Huh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 98688,
+    "TextENGNew": "I felt like I heard a soft, gentle woman's voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 98689,
+    "TextENGNew": "\"Chiaki-san...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 98690,
+    "TextENGNew": "And Otobe seemed to hear it too. He clung to the body of Chiaki-san in the back seat.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 98691,
+    "TextENGNew": "Could this be... another... voice of the dead...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 98692,
+    "TextENGNew": "(It's all right, Otobe-kun...@k@vS10/00/VT3A_chia1033. If this money... can help you out... you can have it.@k@vS10/00/VT3A_chia1034. ...If it'll give you the will to go on living... I'm happy to help.)",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 98693,
+    "TextENGNew": "The lips of the dead woman in the back seat were not moving.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 98694,
+    "TextENGNew": "But just like with Kurosawa earlier, the voice seemed to echo inside my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 98695,
+    "TextENGNew": "It really did feel like I could hear her voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 98696,
+    "TextENGNew": "(I... hold nothing against you... and I'm sure my husband doesn't, either...@k@vS10/00/VT3A_chia1036. So, don't worry about it... all right?)",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 98697,
+    "TextENGNew": "\"Chiaki-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 98698,
+    "TextENGNew": "(If you want to keep it quiet, that's fine.@k@vS10/00/VT3A_chia1038. No one will blame you...@k@vS10/00/VT3A_chia1039. So, go ahead... take all our wealth.@k@vS10/00/VT3A_chia1040. Let me give it all to you...)",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 98699,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 98700,
+    "TextENGNew": "Otobe hesitantly stared at the cash card for a while... but eventually, he tightened his lips and nodded his head. Then, he reached out and squeezed Chiaki-san's hand holding the cash card.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 98701,
+    "TextENGNew": "\"Thank you, Chiaki-san...@k@vS10/41/410200888. But... I don't need it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 98702,
+    "TextENGNew": "\"Otobe...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 98703,
+    "TextENGNew": "\"Because I've learned that life isn't about waiting for the opportunity to give it your all... it's about constantly giving it your all...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 98704,
+    "TextENGNew": "\"I'm a worthless human being.@k@vS10/41/410200891. I'm a weak person who immediately blames other people.@k@vS10/41/410200892. But... that's the kind of person I've been all this time.@k@vS10/41/410200893. ...The first step is to admit that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 98705,
+    "TextENGNew": "You can't change your tone as soon as something convenient comes around.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 98706,
+    "TextENGNew": "And if you want to overcome your weaknesses, you have to put in the effort without giving in to despair.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 98707,
+    "TextENGNew": "That's the kind of person I want to become... right here, right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 98708,
+    "TextENGNew": "If I take this money right here... I'm sure nothing will change.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 98709,
+    "TextENGNew": "I'm sure someone will help me. It's only a matter of time until my luck turns around, so I just have to wait. ...Somewhere in my heart, I believed in that.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 98710,
+    "TextENGNew": "The time has come to \"stop\" thinking like that ...From now on, I need to be stronger...",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 98711,
+    "TextENGNew": "\"That's why... I don't need this.@k@vS10/41/410200901. I'll struggle... I'll suffer... and I'll feel despair... but I'll rise above it... and I'll keep on living.@k@vS10/41/410200902. Until the day I die... I'll go on living with all my might.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 98712,
+    "TextENGNew": "Although Otobe spoke softly, every last word he said was full of resolve.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 98713,
+    "TextENGNew": "(...I see.)",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 98714,
+    "TextENGNew": "Chiaki-san's voice sounded a little disappointed. ...But even more than that, it was wrapped in a gentle warmth.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 98715,
+    "TextENGNew": "(...I also... wish I hadn't died...)",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 98716,
+    "TextENGNew": "\"Eh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 98717,
+    "TextENGNew": "Otobe squeezed Chiaki-san's hand, but her face didn't move at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 98718,
+    "TextENGNew": "(...If I had heard you say all that while I was still alive...@k@vS10/00/VT3A_chia1044. I... might have changed my mind...)",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 98719,
+    "TextENGNew": "(Maybe I was just lying to myself... about wanting to see my dead husband again...)",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 98720,
+    "TextENGNew": "(...Maybe I just didn't have the confidence to live on my own...@k@vS10/00/VT3A_chia1047. Maybe I should've tried harder... to find a way to live.)",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 98721,
+    "TextENGNew": "(When we all came out here to commit suicide... honestly... I felt so happy.@k@vS10/00/VT3A_chia1049. I didn't realize how long it had been... since I did something together with friends...)",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 98722,
+    "TextENGNew": "(I didn't have anyone to talk to. It was hard, and painful... I wanted things to get easier as soon as possible.@k@vS10/00/VT3A_chia1051. Every time I saw a person living happily, it reminded me of the painful life I was living...)",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 98723,
+    "TextENGNew": "(But... pain is a natural part of life.@k@vS10/00/VT3A_chia1053. ...And the value of human life... can only be measured by the means by which we overcome that pain...@k@vS10/00/VT3A_chia1054. I wish I had this conversation with you... when I was still alive...)",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 98724,
+    "TextENGNew": "\"Chiaki-san... I'm sorry...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 98725,
+    "TextENGNew": "Otobe deeply bowed his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 98726,
+    "TextENGNew": "In the end... it was just like Towada-san. Refusing to consider anything outside your own arbitrary assumptions... and ultimately leading to a sad ending...",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 98727,
+    "TextENGNew": "(Otobe-kun... thank you.)",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 98728,
+    "TextENGNew": "\"...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 98729,
+    "TextENGNew": "I turned toward Akutagawa's body in the driver's seat.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 98730,
+    "TextENGNew": "...He was an aging man with traces of gray hair and deep wrinkles from enduring trying experiences.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 98731,
+    "TextENGNew": "(...I'm glad I met you.)",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 98732,
+    "TextENGNew": "(...There are people out there who can't accomplish things on their own, who are quick to use dishonest methods, and to betray and hurt others...)",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 98733,
+    "TextENGNew": "(I had given up all hope on other people... but to think that there were young people like you out there, too...)",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 98734,
+    "TextENGNew": "(I wish I had spoken to the wife and children I left behind, once more...)",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 98735,
+    "TextENGNew": "(I gave up on life... and ran away...@k@vS10/00/VT3A_akuta1018. Whatever your reason for abandoning suicide... all I can say is, \"Hang in there\"...)",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 98736,
+    "TextENGNew": "\"Akutagawa-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 98737,
+    "TextENGNew": "(Otobe-kun... don't give up.)",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 98738,
+    "TextENGNew": "(Otobe-kun... give it your best shot.)",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 98739,
+    "TextENGNew": "(Otobe-kun... hang in there...)",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 98740,
+    "TextENGNew": "\"Chiaki-san... Machi-chan... Akutagawa-san...@k@vS10/41/410200909. Thank you.@k@vS10/41/410200910. I'll... keep on living. As best as I can.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 98741,
+    "TextENGNew": "Otobe closed the car door and lowered his head once again, with his eyes full of tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 98742,
+    "TextENGNew": "Sonozaki-san gently patted him on the shoulder while giving him a comforting smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 98743,
+    "TextENGNew": "\"Life is like a tube of toothpaste.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 98744,
+    "TextENGNew": "\"Mion-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 98745,
+    "TextENGNew": "\"You have to squeeze every last drop out of it. That's life.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 98746,
+    "TextENGNew": "Her voice resounded heavily inside my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 98747,
+    "TextENGNew": "...Struggling to find the right thing to do is a part of life.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 98748,
+    "TextENGNew": "If you want to live strictly according to right and wrong, or if you want to live according to some concrete plan... you have the freedom to choose either way. And if you don't always get your way, that's life.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 98749,
+    "TextENGNew": "Success and failure don't matter as long as you're walking down the path that you decided.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 98750,
+    "TextENGNew": "That's more important than if you can earn a living or not, or if it's a stable life. It's meaningless to judge people according to arbitrary values and label them winners and losers.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 98751,
+    "TextENGNew": "I... won't lose my way focusing on appearances or self-interest. I just need to keep walking forward on the path my heart dictates.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 98752,
+    "TextENGNew": "\"Arakawa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 98753,
+    "TextENGNew": "\"Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 98754,
+    "TextENGNew": "Sonozaki-san turned to face me, her face seeing to say, \"You too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 98755,
+    "TextENGNew": "\"Live with all your might.@k@vS10/43/410400680. ...Keep on fighting, for as long as you live.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 98756,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 98757,
+    "TextENGNew": "I raised my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 98758,
+    "TextENGNew": "The mountain peaks all around me had a beautiful blue hue.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 98759,
+    "TextENGNew": "The road that stretched in front of me felt like it led on to a bright future.",
+    "significantChanges": false
+  }
+]

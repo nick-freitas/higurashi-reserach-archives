@@ -1,0 +1,634 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6848,
+    "TextENGNew": "(...Haah, I can't believe they went this far.)",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 6849,
+    "TextENGNew": "Trying to ease the tension, I downed a nicely warmed cup of sake and let out a long, boozy sigh while patting my belly.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 6850,
+    "TextENGNew": "Fine liquor, with exquisite mountain and sea delicacies to go with it.",
+    "significantChanges": true,
+    "changeReason": "Old translates 海山の肴 generically as 'hors d'oeuvres'; new preserves the JPN distinction of 'mountain and sea delicacies,' indicating the variety of the spread.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 6851,
+    "TextENGNew": "...For a tongue accustomed to cheap sake and oden at dingy lantern-lit pubs, this spread was clearly—and then some—well above my station.",
+    "significantChanges": true,
+    "changeReason": "Old translates おでん as generic 'stew'; new preserves the specific dish 'oden,' and adds 'lantern-lit pubs' (ちょうちん居酒屋) which the old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 6852,
+    "TextENGNew": "Invitation or not, I never dreamed that the bigwigs at the Metropolitan Police Department would lay out such a lavish reception... and I felt a twinge of regret for having shown up empty-handed.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 6853,
+    "TextENGNew": "(At the very least, it would've been nice to have Minai-san here for moral support...)",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 6854,
+    "TextENGNew": "Deputy Inspector Minai and I had hit it off at a networking event in Tokyo a few years back, and since then we'd developed a friendship that included drinks whenever I came to the capital.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 6855,
+    "TextENGNew": "He was originally supposed to be here tonight, serving as the intermediary between me and Commissioner Yamaoki... but something urgent had apparently come up, so he wouldn't be attending.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 6856,
+    "TextENGNew": "\"Don't be so tense, Ooishi-san.@k@vS20/30/VTK1_yamaoki1002. Minai-kun tells me you can hold your liquor quite well.@k@vS20/30/VTK1_yamaoki1003. Please, help yourself without any reservation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 6857,
+    "TextENGNew": "\"Na ha ha ha... how embarrassing.@k@vS20/11/VTK1_oishi1086. The only time I've ever drunk in a wide tatami room like this was on a company trip to a hot spring.@k@vS20/11/VTK1_oishi1087. I'm just a timid country fellow, so I can't help feeling a bit on edge~.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 6858,
+    "TextENGNew": "\"Hahaha, such modesty.@k@vS20/30/VTK1_yamaoki1005. Well then... allow this old man to show his appreciation by pouring you another.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 6859,
+    "TextENGNew": "\"Ah, thank you kindly.@k@vS20/11/VTK1_oishi1089. Oops, easy does it... Mmm~, what a wonderful aroma.@k@vS20/11/VTK1_oishi1090. Truly fine sake can get you drunk on the scent alone.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 6860,
+    "TextENGNew": "Saying that, I tossed back the cup of warm sake that the commissioner himself had poured for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 6861,
+    "TextENGNew": "Savoring it once more, it really was exceptional.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 6862,
+    "TextENGNew": "Having a beautiful young lady pour for you is something special, to be sure, but drinking at the invitation of a superior has its own charm—depending on how you look at it.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 6863,
+    "TextENGNew": "...Taking that philosophical view, I decided to trust Yamaoki-san's earlier assurance that rank could be set aside tonight, and opened up with a warm smile.",
+    "significantChanges": true,
+    "changeReason": "Old says 'not wanting to be rude'; new correctly identifies the narrator trusting Yamaoki-san's assurance of 無礼講 (informality/rank-free drinking), which is the actual content.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 6864,
+    "TextENGNew": "\"Oh my~, I really must take my hat off to you, Yamaoki-san.@k@vS20/11/VTK1_oishi1092. Going to such trouble to arrange a setting like this for someone like me.@k@vS20/11/VTK1_oishi1093. I truly do appreciate it... Nfu fu fu!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 6865,
+    "TextENGNew": "\"Oh, don't mention it.@k@vS20/30/VTK1_yamaoki1007. I'm the one who should be thanking you, Ooishi-san, for all your help during the Shirakaba Mountain Villa siege.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 6866,
+    "TextENGNew": "\"The seamless coordination between the local police and our Metropolitan Police Department was entirely thanks to your cooperation. That's what Yuusuke... I mean, our Minai told me.@k@vS20/30/VTK1_yamaoki1009. Please, allow me to express my gratitude on his behalf as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 6867,
+    "TextENGNew": "\"Oh no, I really didn't do anything special.@k@vS20/11/VTK1_oishi1095. Just gave people a little nudge in the ribs and helped cool some hot heads, that's all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 6868,
+    "TextENGNew": "\"Acting tough and puffing out your chest is all well and good, but that kind of bluster doesn't work on armed criminals.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 6869,
+    "TextENGNew": "To begin with, the prefectural police HQ staff were sorely lacking—not just in equipment and skills, but in raw nerve—compared to the MPD investigators and riot police who dealt with violent crime on a daily basis.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 6870,
+    "TextENGNew": "Sending people like that up against barricaded, armed criminals using hostages as human shields was beyond dangerous—it was sheer folly.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 6871,
+    "TextENGNew": "In fact, when I learned they hadn't even issued bulletproof vests to the investigators at the outset, I was ready to knock the person responsible upside the head.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 6872,
+    "TextENGNew": "Even so, the brass—perhaps driven by an inferiority complex toward the capital—refused to defer to the MPD, stubbornly rejecting even the joint operation proposal the MPD had graciously put on the table.",
+    "significantChanges": true,
+    "changeReason": "New adds the specific detail that the MPD had graciously proposed a joint operation (下手に提案してくれた共同作戦) which the old generalizes as simply refusing to 'work together.'",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 6873,
+    "TextENGNew": "As a result, the handling of the criminal group fell into disarray... and the hastily launched first raid accomplished nothing beyond producing casualties.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'repelled immediately' which is not in the JPN; new correctly describes the raid as 'hastily launched' (なし崩しに強行された), better capturing the disorganized nature of the operation.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 6874,
+    "TextENGNew": "And so, the investigators on the ground—including myself—persistently lobbied the higher-ups, urging them to delegate authority to the riot police.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 6875,
+    "TextENGNew": "Thanks to those efforts, overall command was transferred to the riot police commander while we handled logistical support, and the third assault on the villa finally succeeded...",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 6876,
+    "TextENGNew": "\"If you and the others hadn't persuaded the prefectural police, Ooishi-san... the raid on the villa would have been delayed even further.@k@vS20/30/VTK1_yamaoki1011. And had that happened, the hostages inside would have been in far graver danger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 6877,
+    "TextENGNew": "\"In fact, the landlord's wife, whom we rescued, was in such severe physical and mental distress that she's still hospitalized even now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 6878,
+    "TextENGNew": "\"...That's truly unfortunate.@k@vS20/11/VTK1_oishi1098. Knowing we could have acted sooner... it weighs on the heart.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 6879,
+    "TextENGNew": "\"Oh, no, you all did more than enough.@k@vS20/30/VTK1_yamaoki1014. The landlord was overjoyed that the hostages were rescued safely... and we managed to prevent the criminals from escaping.@k@vS20/30/VTK1_yamaoki1015. In my view, that alone should be considered an outstanding result.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 6880,
+    "TextENGNew": "\"Hearing that does put my mind at ease.@k@vS20/11/VTK1_oishi1100. ...Well, the folks at our prefectural HQ tend to be a bit self-conscious—quite a few of them have a competitive streak toward the people from Tokyo.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 6881,
+    "TextENGNew": "\"At times like these, someone has to give them a good knock on the head.@k@vS20/11/VTK1_oishi1102. I think this was a valuable lesson for them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 6882,
+    "TextENGNew": "\"Oh, not at all... our Metropolitan Police originally intended to proceed while fully respecting the prefectural police's jurisdiction.@k@vS20/30/VTK1_yamaoki1017. But any further delay might not only have endangered the hostages, but increased the casualties.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 6883,
+    "TextENGNew": "\"I apologize for overstepping—it was a painful decision.@k@vS20/30/VTK1_yamaoki1019. I would be grateful if everyone involved could understand our position.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 6884,
+    "TextENGNew": "\"Of course, of course, I completely understand!@k@vS20/11/VTK1_oishi1104. I'll have a proper word with the heads of both the First Investigation Division and Public Security.@k@vS20/11/VTK1_oishi1105. You can rest easy and leave that to me... just kidding.@k@vS20/11/VTK1_oishi1106. Na ha ha ha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 6885,
+    "TextENGNew": "As I cheerfully poured another round for Yamaoki, I was silently marveling—this man was everything you'd expect from a top-caliber operator in Public Security.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 6886,
+    "TextENGNew": "The First Investigation Division chief and the Public Security chief at prefectural HQ were, as it happened, my old mahjong partners.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 6887,
+    "TextENGNew": "He must have thoroughly investigated those connections before asking me to serve as the go-between.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 6888,
+    "TextENGNew": "(Well... after they've gone this far, there's no way I can refuse.)",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 6889,
+    "TextENGNew": "Under normal protocol, he could simply visit each section chief directly, offer his thanks, and explain the situation while he was at it.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 6890,
+    "TextENGNew": "But that alone wouldn't sit well with the investigators who had actually faced danger on the ground—especially a local detective like me.",
+    "significantChanges": true,
+    "changeReason": "Old misinterprets the reasoning as 'a nice touch'; new correctly captures that it would negatively affect the impressions (心象に差しさわり) of the field investigators, especially a local detective like the narrator.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 6891,
+    "TextENGNew": "That's why he was rewarding my service in this manner while also asking me to mediate, so the people on the front lines could save face.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 6892,
+    "TextENGNew": "And I couldn't exactly feel bad about being treated as a key player.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 6893,
+    "TextENGNew": "The sentiment alone was more than enough to be grateful for.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6894,
+    "TextENGNew": "\"By the way, how was that sake we sent afterward?@k@vS20/30/VTK1_yamaoki1021. I don't pretend it was adequate compensation for everyone's hard work, but I hope it was to your liking...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 6895,
+    "TextENGNew": "\"Not at all, it was more than enough!@k@vS20/11/VTK1_oishi1109. Kashima Sakura... was it?@k@vS20/11/VTK1_oishi1110. Everyone at the station was overjoyed! They said they'd never tasted anything better~ Nfu fu fu!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 6896,
+    "TextENGNew": "\"There happens to be a rather impressive brewery near Minai's hometown.@k@vS20/30/VTK1_yamaoki1023. I buy from them myself now and then... actually, quite often.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 6897,
+    "TextENGNew": "\"My subordinates even crack open bottles without asking, so lately I've been hiding them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 6898,
+    "TextENGNew": "\"Na ha ha ha!@k@vS20/11/VTK1_oishi1112. I know that feeling all too well~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 6899,
+    "TextENGNew": "This is a secret from everyone, but I actually swiped one bottle... no, two bottles for myself, and gave one to the old man who had always looked after me—as a token of my gratitude.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 6900,
+    "TextENGNew": "...Even that seasoned drinker smacked his lips in appreciation. He was absolutely delighted.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 6901,
+    "TextENGNew": "\"Still, it's a shame.@k@vS20/11/VTK1_oishi1114. I was hoping Minai-san could be here tonight to tell me all about that Kashima Sakura brewery.@k@vS20/11/VTK1_oishi1115. But then he got called away on urgent business... Nfu fu fu, what rotten luck.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 6902,
+    "TextENGNew": "\"I'm terribly sorry about that.@k@vS20/30/VTK1_yamaoki1026. He was really looking forward to tonight's gathering... but he got summoned to the main office.@k@vS20/30/VTK1_yamaoki1027. His boss is on crutches at the moment, so they had to go to Tokyo together.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 6903,
+    "TextENGNew": "\"His boss?@k@vS20/11/VTK1_oishi1117. Ah, you mean that strong-willed young elite?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 6904,
+    "TextENGNew": "I suddenly recalled the face of the sharp, talented young man who had been at Detective Minai's side.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 6905,
+    "TextENGNew": "His name was... right, I'm sure it was Maeno.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 6906,
+    "TextENGNew": "His rank was Chief Inspector, but since he was on the career track—having passed the Class I national civil service exam—he was far younger than his subordinate, Minai-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 6907,
+    "TextENGNew": "He had a somewhat brash, mischievous quality about him, but there was a grounded wildness and real promise in the young man.",
+    "significantChanges": true,
+    "changeReason": "Old translates 人を食ったやんちゃさ as 'hard to get along with'; new uses 'brash, mischievous quality' which better captures the meaning of being cheekily impudent.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 6908,
+    "TextENGNew": "\"That courage of his was genuinely impressive.@k@vS20/11/VTK1_oishi1119. I always figured those highly educated types would flinch at the sound of gunfire.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 6909,
+    "TextENGNew": "\"Volunteering to take command of a dangerous squad like that—not even veteran detectives would be so quick to do that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 6910,
+    "TextENGNew": "\"Well, now... courage and recklessness are quite different things.@k@vS20/30/VTK1_yamaoki1029. I had ordered him to focus on perimeter security during the assault... and look how that turned out.@k@vS20/30/VTK1_yamaoki1030. I was beside myself for a while there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 6911,
+    "TextENGNew": "\"Come to think of it, I heard he was injured during the raid.@k@vS20/11/VTK1_oishi1122. But if he's well enough to walk with crutches, it doesn't seem life-threatening—so that's something, isn't it?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'not so serious he'll need a cane' (won't need one) while JPN says 'well enough to walk with a cane/crutch' (IS using one, which means not life-threatening). Reversed detail but overall optimistic tone is similar.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 6912,
+    "TextENGNew": "\"Yes.@k@|@y@vS20/30/VTK1_yamaoki1032. ...Thanks to Minai.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 6913,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 6914,
+    "TextENGNew": "Hearing that response, delivered with a bittersweet smile... I understood the situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 6915,
+    "TextENGNew": "I had found it hard to believe that someone as level-headed as Minai-san would fire his weapon in an emotional outburst, even against a violent criminal... but I see. So that's what happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 6916,
+    "TextENGNew": "\"When Maeno was first assigned to Public Security, Minai served as his training officer.@k@vS20/30/VTK1_yamaoki1034. Because of that bond, even after their ranks reversed, they maintained a mentor-student—or rather, an older-and-younger-brother kind of relationship.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 6917,
+    "TextENGNew": "\"...Now that you mention it, they did seem that way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 6918,
+    "TextENGNew": "In the handful of times I'd seen them together on-site, Chief Inspector Maeno always addressed Minai-san in formal language and never dropped his deferential manner.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 6919,
+    "TextENGNew": "Even when Minai corrected his behavior, he accepted it without a trace of resistance.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 6920,
+    "TextENGNew": "We used to say it was endearing, how someone who seemed so proud had such an unexpectedly sweet side to him...",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 6921,
+    "TextENGNew": "\"So that's the reason he was called to headquarters.@k@vS20/11/VTK1_oishi1126. ...Yamaoki-san.@k@vS20/11/VTK1_oishi1127. What's going to happen to Minai-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 6922,
+    "TextENGNew": "\"That's currently under inquiry.@k@vS20/30/VTK1_yamaoki1036. I can't say he'll escape consequences entirely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 6923,
+    "TextENGNew": "He had discharged live rounds at a criminal in defiance of a strict no-fire order.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 6924,
+    "TextENGNew": "...And the person he shot had died.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 6925,
+    "TextENGNew": "Even though the criminals had been armed and had already killed three people by that point...@k the fact that a police officer—under strict prohibitions against the use of firearms—had shot and killed a suspect was an extremely damaging development.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 6926,
+    "TextENGNew": "Just the previous year, a police officer who had shot and killed a ship hijacker had been charged with murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 6927,
+    "TextENGNew": "...It was putting the cart before the horse, perhaps, but such was the prevailing climate of the times.",
+    "significantChanges": true,
+    "changeReason": "Old says the trend was 'to overlook those sorts of incidents,' implying leniency; JPN says such backwards reasoning 'prevails/is accepted' (まかり通る), meaning the prosecution of officers is what prevails, not overlooking. New correctly captures this nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 6928,
+    "TextENGNew": "\"...But this doesn't make sense.@k@vS20/11/VTK1_oishi1129. If Minai-san hadn't fired, the already-wounded officer—Chief Inspector Maeno—would almost certainly have been killed by the approaching criminal.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 6929,
+    "TextENGNew": "\"The witness testimony and the television footage should more than suffice to prove it was legitimate self-defense, shouldn't they?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 6930,
+    "TextENGNew": "\"Even so, for the people who weren't there, appearances and protocol matter more than the truth.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 6931,
+    "TextENGNew": "Even if an officer is shot and killed, they'd simply say it was an unavoidable part of the job... Yet if you fire on a violent criminal to ensure safety, they'd brand it illegal and demand punishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 6932,
+    "TextENGNew": "Whether it was police brass or politicians who first set that tone... I didn't know, but there were limits to how far you could ignore the reality of the field.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 6933,
+    "TextENGNew": "\"...Damn it all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 6934,
+    "TextENGNew": "Among the self-proclaimed champions of democracy were those who viewed police officers and soldiers as nothing more than guard dogs or hounds—forgetting that those uniforms contained human lives—while they spouted their ideals... no, their delusions.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 6935,
+    "TextENGNew": "But those people were human, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 6936,
+    "TextENGNew": "They had parents, siblings—wives and children who meant more to them than any duty.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 6937,
+    "TextENGNew": "What, exactly, guaranteed their rights and their dignity...?",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 6938,
+    "TextENGNew": "\"So... in the end... is Minai-san going to be dismissed?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 6939,
+    "TextENGNew": "\"Oh no, I won't let it go that far.@k@vS20/30/VTK1_yamaoki1039. As a formality, they'll transfer him out of his current department, but I plan to place him in a newly established unit under my direct command.@k@vS20/30/VTK1_yamaoki1040. As it happens, I have a case I want him to take charge of.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 6940,
+    "TextENGNew": "\"Is that really all right?@k@vS20/11/VTK1_oishi1134. In that ship hijacking case, the detective was criminally charged and dismissed, and I heard several of the higher-ups had to resign too...\"",
+    "significantChanges": true,
+    "changeReason": "Old omits that the detective was 'criminally charged' (刑事告発されて); new includes both the criminal prosecution and dismissal, which is important context for understanding the stakes for Minai.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 6941,
+    "TextENGNew": "\"Come now... you don't think we'd just sit on our hands and do nothing?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 6942,
+    "TextENGNew": "\"I believe the authority to give orders that put lives at risk is only earned by fulfilling your obligation to shield those people from the consequences.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 6943,
+    "TextENGNew": "\"In which case, it's my duty to guarantee the legitimacy of his actions.@k@vS20/30/VTK1_yamaoki1044. I will do everything in my power to protect Minai.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 6944,
+    "TextENGNew": "\"...That's truly remarkable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 6945,
+    "TextENGNew": "There wasn't an ounce of sarcasm in my voice. I genuinely admired the man.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 6946,
+    "TextENGNew": "Unlike the so-called elites who were all talk, a real elite had an altogether different caliber of resolve and conviction.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 6947,
+    "TextENGNew": "During the siege operation, watching all of his subordinates perform beyond the call of duty had been overwhelming—I'd even felt a pang of defeat—but with a commanding officer like this, it was only natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 6948,
+    "TextENGNew": "\"...Speaking of which, that scoundrel Minai-san shot.@k@vS20/11/VTK1_oishi1137. What was his name again?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 6949,
+    "TextENGNew": "\"I believe it was... Kazunori Takiguchi.@k@|@y@vS20/30/VTK1_yamaoki1046. A student at Touto University.@k@vS20/30/VTK1_yamaoki1047. I recall seeing his face at the T University siege incident.\"",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6706,
+    "TextENGNew": "The forecast had warned there was a chance of heavy rain by evening... but I had not thought it would come down quite this hard.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'heavy rain' (土砂降り) where the original just said 'rain,' more accurately reflecting the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 6707,
+    "TextENGNew": "We had taken shelter in the derelict shed of an old bus stop on a discontinued route, waiting for the rain clouds to pass.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'derelict shed' and 'discontinued route' details present in the Japanese (廃線になったバス停跡の小屋) that the original omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 6708,
+    "TextENGNew": "...I'm sorry, Takano-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 6709,
+    "TextENGNew": "Oh, don't worry about it, Jirou-san. I knew it might pour like this when I agreed to come, after all. Hee hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 6710,
+    "TextENGNew": "Takano-san laughed. She had mentioned that the weather might turn, and it was I who had insisted everything would be fine and dragged her out here.",
+    "significantChanges": true,
+    "changeReason": "New translation adds that Tomitake 'insisted everything would be fine' (大丈夫大丈夫), a detail present in the Japanese but missing from the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 6711,
+    "TextENGNew": "...For a man, it was nothing short of embarrassing—forcing her to give up a precious day off and ending up in a mess like this.",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'as a man' (男として) from the Japanese, changing the framing from general stupidity to specifically masculine embarrassment.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 6712,
+    "TextENGNew": "I was heading back to Tokyo tonight, and it would be some time before I could return to Hinamizawa. That was what made me reluctant to spend my last day in a cheap inn in Okinomiya—so I had asked her to come for a walk.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 6713,
+    "TextENGNew": "Well... hahaha... I really am terribly sorry.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 6714,
+    "TextENGNew": "Hee hee hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 6715,
+    "TextENGNew": "For a while she kept pricking at me with small, mock-reproachful jabs.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 6716,
+    "TextENGNew": "Not in any malicious way—it was simply her style of communication, and I found it charming.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 6717,
+    "TextENGNew": "...I think I have been captivated by her for some time now. But to her, I am nothing more than an inspector from Tokyo.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 6718,
+    "TextENGNew": "...She treated me favourably because she understood that relationship between us—not because she felt anything personally towards me. That was surely all there was to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 6719,
+    "TextENGNew": "......Thinking about it that way, I began to wonder if I had used the authority of my position to compel her to come, and a vague gloom settled over me. This slight warmth I felt was probably just a cold coming on—better to convince myself of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 6720,
+    "TextENGNew": "But she was the kind of person who said no plainly when something was unwelcome. ...She would never use the word itself, but she would say the equivalent in every indirect expression available to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 6721,
+    "TextENGNew": "...That was exactly why I wanted to believe she had come out with me because she felt at least some goodwill toward me.",
+    "significantChanges": true,
+    "changeReason": "Original uses 'attracted' while new uses 'goodwill' (好意); the Japanese word is more ambiguous than romantic attraction, shifting the nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 6722,
+    "TextENGNew": "...Haah.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 6723,
+    "TextENGNew": "I let out a sigh and gave my head a small shake—frustrated with myself for indulging in such self-centred thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 6724,
+    "TextENGNew": "Seeing me like that, she gave a small laugh, as if she could see right through me. I desperately tried to look composed so she would not notice how much I was blushing.",
+    "significantChanges": true,
+    "changeReason": "New translation adds that he 'desperately tried to look composed' (誤魔化すので必死だった), a detail from the Japanese the original omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 6725,
+    "TextENGNew": "You really are a mysterious person, Jirou-san. I imagine women in Tokyo must find you quite popular—so why do you go out of your way to spend time with such a peculiar woman as me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 6726,
+    "TextENGNew": "P-peculiar? Not at all... You are perfectly fascinating, Takano-san! If anything, I feel terrible that someone like me is taking up your precious day off.",
+    "significantChanges": true,
+    "changeReason": "New translation includes Tomitake's mention of taking up her 'precious day off' (貴重な休日を割いてもらった) which the original omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 6727,
+    "TextENGNew": "Of course, I have committed myself to devoting my life to a very important piece of research. But a life with nothing but that would be rather dry.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'a very important piece of research' (とても大切な研究) which the original reduced to just 'my work.'",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 6728,
+    "TextENGNew": "Occasionally switching gears and enjoying oneself is important, too. And besides, engaging with the opposite sex is apparently very good for stimulating the brain. Hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 6729,
+    "TextENGNew": "Ahahaha... Well, if spending time with someone like me is in any way useful for giving your mind a rest, I am glad...",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 6730,
+    "TextENGNew": "Doesn't being with me provide any refreshment for you...?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 6731,
+    "TextENGNew": "Takano-san smiled at me with a teasing little look that made my heart skip a beat. I was frantic to appear natural, hoping she would not notice that I was probably red all the way to my ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 6732,
+    "TextENGNew": "O-of course it does...! Spending time with you is, well... I feel very refreshed in all sorts of ways! And besides, if I can get you interested in bird photography, I will have gained a companion for my outings...!",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 6733,
+    "TextENGNew": "A-and, if you would like, I will bring one of my old cameras next time I come. New ones are expensive, you know—hahahaha...",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 6734,
+    "TextENGNew": "Thank you. I would love you to tell me all about the bird photography that has you so completely enraptured—hee hee—I would very much like to join you on a photography walk some time. So I need not buy my own camera, then?",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 6735,
+    "TextENGNew": "O-oh, yes, yes! It would be better to try my old one first, and if you find you enjoy it, then you can think about buying one of your own! W-when I get back to Tokyo I will send it to you!",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 6736,
+    "TextENGNew": "Thank you. Next time you come, please do give me a critique of my photographs.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 6737,
+    "TextENGNew": "S-sure...! Hahaha, I am looking forward to seeing what you capture!",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 6738,
+    "TextENGNew": "Hee hee. They will be nothing like yours, I am sure—it will be my very first time, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 6739,
+    "TextENGNew": "She laughed with easy grace, while I sat there flustered, face red and scratching my head—the contrast between us could not have been more stark.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 6740,
+    "TextENGNew": "But... was I being conceited? I kept having the nagging feeling that Takano-san did not find my company disagreeable.",
+    "significantChanges": true,
+    "changeReason": "Original says 'likes being with me' while the Japanese (苦痛に思っていない) means 'doesn't find it disagreeable' — a distinctly different level of certainty.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 6741,
+    "TextENGNew": "......If it had been mere social politeness, she would not have come this far.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 6742,
+    "TextENGNew": "......Ohh, no, no, no. Taking women's social pleasantries at face value and then nursing unnecessary wounds over them—that was my worst habit. I must not let myself imagine that she might have real feelings for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 6743,
+    "TextENGNew": "......Come to think of it, this is the first time the two of us have been alone and talked at leisure like this.",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'talked at leisure' (ゆっくりおしゃべり) from the Japanese, which the original omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 6744,
+    "TextENGNew": "Y-you are right. Usually the director or some of the other researchers are around.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 6745,
+    "TextENGNew": "I know almost nothing about you. What sort of work you do in Tokyo, what you have done up until now... What have you been doing in the Self-Defence Force, I wonder?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 6746,
+    "TextENGNew": "``Aha, ahahahaha... I played at being an instructor for a short while back in the day.''",
+    "significantChanges": true,
+    "changeReason": "New translation captures '真似事' (played at/imitated) which conveys he was not a real instructor, while the original simply says 'was an instructor.'",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 6747,
+    "TextENGNew": "But I injured myself and got something in my eye. It does not affect my everyday life, but it was treated as something serious, and ever since I have been given nothing but desk work. Ahahahaha...",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 6748,
+    "TextENGNew": "Takano-san laughed, suggesting that I had doubtless tripped over my own feet and made a fool of myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 6749,
+    "TextENGNew": "``And when I helped out with the internal newsletter for the unit, I discovered the appeal of cameras for the first time while taking photographs at an event!''",
+    "significantChanges": true,
+    "changeReason": "Original says 'PR magazine' while new says 'internal newsletter for the unit' (隊内の広報誌), more accurately rendering the military context; also adds 'for the first time' (初めて) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 6750,
+    "TextENGNew": "Cameras have the power to make people happy. Ahahahaha—you are probably thinking, what on earth are you talking about—but it really is true. I honestly believe that since I started using a camera, I have felt a happiness in each day.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 6751,
+    "TextENGNew": "...But... how does a camera make someone happy...?",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6752,
+    "TextENGNew": "Right. A camera captures moments of everyday life and preserves them as photographs. If you are going to preserve something, naturally you want it to be something happy—would you not say?",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 6753,
+    "TextENGNew": "So you look through the viewfinder at the world around you, searching for where that happiness might be.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 6754,
+    "TextENGNew": "...And there you find, again and again, that the things you had taken for granted were actually brimming with happiness.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'things you had taken for granted' (当り前だと思っていたもの), a key nuance from the Japanese that the original generalized.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 6755,
+    "TextENGNew": "...Take, for example, a single dandelion growing bravely from a crack in the tarmac on the roadside—to someone hurrying past, it is nothing but a weed.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 6756,
+    "TextENGNew": "But when you look at it through the viewfinder, you realise it is a lovely gift from the season, announcing the arrival of spring.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 6757,
+    "TextENGNew": "You capture it and put it in your album. ...And each time you open that album again, the happiness of that moment comes back to life.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 6758,
+    "TextENGNew": "...And you feel that way while you are out photographing landscapes and birds...?",
+    "significantChanges": true,
+    "changeReason": "New translation includes the specific subjects 'landscapes and birds' (風景や野鳥) from the Japanese that the original omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 6759,
+    "TextENGNew": "Yes. Whether the photograph is artistic or not, whether it captures a dramatic moment worthy of a prize—that sort of ambition is not really important to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 6760,
+    "TextENGNew": "I think the true appeal of a camera lies precisely in helping us notice the small happinesses we would otherwise overlook. That is why being able to look at Hinamizawa through my viewfinder is something I find deeply enjoyable and meaningful.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 6761,
+    "TextENGNew": "............Hmm...",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 6762,
+    "TextENGNew": "I had a tendency to run away with myself and say too much—but usually Takano-san would seize on what I said and tease me about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 6763,
+    "TextENGNew": "...So it was really quite unusual for her to listen to me this openly.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 6764,
+    "TextENGNew": "Takano-san sat neatly beside me... and made to touch the camera I was holding.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 6765,
+    "TextENGNew": "...I had no idea how much of an impression my little speech had made on her, but she did seem to have developed at least some interest in the camera.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 6766,
+    "TextENGNew": "I had been half bracing myself to be made fun of, so that unguarded, genuine gesture of hers made me feel unexpectedly glad.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 6767,
+    "TextENGNew": "Do you want to have a try?",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 6768,
+    "TextENGNew": "...Do you think I could manage it?",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 6769,
+    "TextENGNew": "It is easy! To start, all you need to know is how to focus and how to press the shutter. Here, hold it—oh, you must never touch the lens...!",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 6770,
+    "TextENGNew": "Hmph. It is not easy at all. ...Hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 6771,
+    "TextENGNew": "Since she had shown an interest in cameras, it would have been perfect if we could have strolled through the magnificent nature around Hinamizawa together in search of subjects to photograph. ...But the rain showed not the slightest sign of letting up.",
+    "significantChanges": true,
+    "changeReason": "New translation includes the detail about rain not letting up (雨は一向に止みそうな気配がない) that the original merged/lost.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 6772,
+    "TextENGNew": "Still, she was enjoying herself enormously—and from within that little shed in the rain, she kept finding things to point her eye at, committing them to film. So every last one of her very first photographs was of strange, odd objects inside that dim little shed.",
+    "significantChanges": true,
+    "changeReason": "Original had the rain detail that belonged in the previous line and was restructured; new translation correctly attributes the content and adds 'every last one of her first photographs' detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 6773,
+    "TextENGNew": "And from then on... whenever we met again, we would walk together through the village with our cameras in hand.",
+    "significantChanges": false
+  }
+]

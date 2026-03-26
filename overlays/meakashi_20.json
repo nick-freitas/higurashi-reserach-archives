@@ -1,0 +1,2580 @@
+[
+  {
+    "index": 1,
+    "MessageID": 69763,
+    "TextENGNew": "...It was such a happy dream.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 69764,
+    "TextENGNew": "A dream where Satoshi-kun had gone back to his everyday life as if nothing had happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 69765,
+    "TextENGNew": "As if nothing had happened, he came back to the baseball team.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 69766,
+    "TextENGNew": "The coach and I, convinced that treating him like nothing had happened was the grown-up thing to do, forgot all that empty time and welcomed him back.",
+    "significantChanges": true,
+    "changeReason": "Old names character as 'Irie' but new uses 'the coach' for 監督; old says 'as if he had been here with us the whole time' but JPN says 'forgot all that empty time' -- different nuances of how they treated him",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 69767,
+    "TextENGNew": "His batting average in practice wasn't bad, yet somehow in games he was hopeless.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 69768,
+    "TextENGNew": "Geez, Satoshi-kun!! Why do you make an easy out right when it matters most?!",
+    "significantChanges": true,
+    "changeReason": "Changed 'three strikes' to 'easy out' for 凡退 -- different baseball outcomes",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 69769,
+    "TextENGNew": "Please think about how it feels for those of us cheering you on.",
+    "significantChanges": true,
+    "changeReason": "Old just states 'cheering'; new conveys the reproach in the original (think about how we feel)",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 69770,
+    "TextENGNew": "Then Satoshi-kun would mutter with a face that looked half troubled, half sulky.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 69771,
+    "TextENGNew": "...Mmph.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 69772,
+    "TextENGNew": "Something hot spilled from my eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 69773,
+    "TextENGNew": "...Uu... hhk... ngh...",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 69774,
+    "TextENGNew": "...Satoshi-kun... Satoshi-kun... Aah... uuuhhh...!",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 69775,
+    "TextENGNew": "The dream I had immersed myself in, even knowing it was a dream, slowly blurred with my sobbing...",
+    "significantChanges": true,
+    "changeReason": "Old reduces to 'the happy dream faded out'; new preserves key JPN meaning that she was immersed in it knowingly (夢と知りながら浸っていた)",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 69776,
+    "TextENGNew": "The more I blinked to force it into focus, the hazier it became.\n...Then it all disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 69777,
+    "TextENGNew": "Morning sunlight spilled through a gap in the curtains.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 69778,
+    "TextENGNew": "This was... Mion's room in the Sonozaki main house.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 69779,
+    "TextENGNew": "When had I come back here?",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 69780,
+    "TextENGNew": "...I was crouched in the corner of the room, curled in on myself, crying.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 69781,
+    "TextENGNew": "...A dream is a dream.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 69782,
+    "TextENGNew": "I wanted to resent waking up.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 69783,
+    "TextENGNew": "...But dreams end.\nThey end because I am a resident of a world without dreams.",
+    "significantChanges": true,
+    "changeReason": "Old generalizes 'we live in a world where there are no dreams'; new preserves first-person 'I am a resident of a world without dreams', matching the JPN's personal 自分が statement",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 69784,
+    "TextENGNew": "...But I don't know whether that dream was truly mine alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 69785,
+    "TextENGNew": "Because... it felt like Satoshi-kun had been by my side the whole time.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 69786,
+    "TextENGNew": "...Satoshi-kun...? ...Y-you... came back...?",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 69787,
+    "TextENGNew": "The presence I felt gave no answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 69788,
+    "TextENGNew": "That was the rule.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 69789,
+    "TextENGNew": "But... if it really were Satoshi-kun, I wanted him to at least give a shy smile... to let his expression soften.",
+    "significantChanges": true,
+    "changeReason": "Old uses pronoun 'it' for Satoshi ('wish it'd smile'); new correctly uses 'him' and adds specific details from JPN (はにかむ=shy smile, 表情をほころばせて=soften expression)",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 69790,
+    "TextENGNew": "As I kept hoping for something like that, even the sense of Satoshi-kun being there began to blur... and a hollow emptiness came over me, as if he had never been there at all...",
+    "significantChanges": true,
+    "changeReason": "Old omits the JPN detail about hoping/expecting (期待する内に) and the hollowness (空しさ); new includes this emotional arc present in the original",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 69791,
+    "TextENGNew": "I heard the phone at the front door start ringing.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 69792,
+    "TextENGNew": "...Right.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 69793,
+    "TextENGNew": "Right now, I’m the only one in this house... I have to answer it.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 69794,
+    "TextENGNew": "I stood up to head for the entryway.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 69795,
+    "TextENGNew": "...My body swayed, and I hurriedly braced myself against the wall.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 69796,
+    "TextENGNew": "No wonder. I hadn’t slept nearly enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 69797,
+    "TextENGNew": "It felt like I’d let a cold get worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 69798,
+    "TextENGNew": "The phone was still ringing.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 69799,
+    "TextENGNew": "...Even though not answering was an option.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 69800,
+    "TextENGNew": "At that moment, with my mind still half asleep, it never occurred to me to do anything but pick up the receiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 69801,
+    "TextENGNew": "...Hello, Sonozaki residence.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 69802,
+    "TextENGNew": "Sorry to call so early, this is Kimiyoshi. Is your grandmother still resting?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 69803,
+    "TextENGNew": "It was old man Kimiyoshi.",
+    "significantChanges": true,
+    "changeReason": "Changed form of address (uncle vs old man) for Kimiyoshi",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 69804,
+    "TextENGNew": "Yes. It seems yesterday took a lot out of her. I think we should let her sleep for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 69805,
+    "TextENGNew": "``...Yes, you’re right, it’d be bad to force her awake. Mion-chan, you’re heading to school now too, right? ...Then could you leave a message by her pillow for me?``",
+    "significantChanges": true,
+    "changeReason": "Old omits 'leave a message by her pillow' (枕元に伝言を置いて); new includes this specific instruction from the JPN",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 69806,
+    "TextENGNew": "Understood. What should I tell her?",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 69807,
+    "TextENGNew": "Well... because of what happened yesterday, we’ve decided to hold an emergency board meeting. Could you tell her it’s today at five in the evening, at the shrine meeting hall?",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 69808,
+    "TextENGNew": "...Understood. I’ll pass it on.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 69809,
+    "TextENGNew": "The moment I set the receiver down, the bell rang again.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 69810,
+    "TextENGNew": "Hello, Sonozaki residence.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 69811,
+    "TextENGNew": "My apologies for calling so early. My name is Kasai... Is this Mion-san? Good morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 69812,
+    "TextENGNew": "Hm... Kasai-san? Good morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 69813,
+    "TextENGNew": "Is Shion-san still there with you?",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 69814,
+    "TextENGNew": "...I didn't panic much, but I hesitated for a moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 69815,
+    "TextENGNew": "I could pretend she wasn't here. Or I could play both parts myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 69816,
+    "TextENGNew": "...Shion was just washing her face. I'll go get her.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 69817,
+    "TextENGNew": "I decided to play Shion, deliberately went back and forth in the hallway to fake footsteps and a pause, then picked up the receiver again.",
+    "significantChanges": true,
+    "changeReason": "Old says 'play two parts'; new specifies 'play Shion' and adds the deliberate staging of footsteps/pause (足音と間を演出) from JPN",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 69818,
+    "TextENGNew": "Kasai? Mornin'.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 69819,
+    "TextENGNew": "Good morning, Shion-san. Are you going to school today?",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 69820,
+    "TextENGNew": "As if. I'm exhausted.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 69821,
+    "TextENGNew": "Well, I thought as much. In that case, Shion-san, do you have a way back to Okinomiya? If not, I'll have one of the young men come pick you up.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 69822,
+    "TextENGNew": "Mm... I was thinking I'd ask old man Kimiyoshi or someone around there to give me a lift. You can leave me be.",
+    "significantChanges": true,
+    "changeReason": "Changed form of address (uncle vs old man) for Kimiyoshi",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 69823,
+    "TextENGNew": "``I've been given strict orders from the boss to make sure you at least keep your attendance up. For the sake of my little finger, I'd appreciate your cooperation.``",
+    "significantChanges": true,
+    "changeReason": "Old omits 'for the sake of my little finger' (小指のためにも), a threatening yakuza reference present in JPN and new translation",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 69824,
+    "TextENGNew": "Hee hee, well, I'll try if the mood strikes me. ...More importantly, Kasai. Are you listening?",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 69825,
+    "TextENGNew": "Listening to what?",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 69826,
+    "TextENGNew": "...That thing from last night.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 69827,
+    "TextENGNew": "In broad strokes, yes. It's a terrifying story.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 69828,
+    "TextENGNew": "Up to now, all the victims of the curse were people who'd been guilty in the dam war, right? But this year it feels like it's taking a slightly different line. What do you think?",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 69829,
+    "TextENGNew": "``Who can say... That's not something within my knowledge.``",
+    "significantChanges": true,
+    "changeReason": "Old trivializes to 'I don't really know'; new preserves Kasai's formal deflection 'not something within my knowledge' (与り知るところではない), showing his deliberate evasion",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 69830,
+    "TextENGNew": "Kasai wasn't the type to say more than necessary.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 69831,
+    "TextENGNew": "I knew that whenever a topic came at that angle, he'd respond very curtly.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 69832,
+    "TextENGNew": "...Do you know why those two victims last night received Oyashiro-sama's curse?",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 69833,
+    "TextENGNew": "No.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 69834,
+    "TextENGNew": "Actually, from what I heard last night... it sounds like they secretly snuck into the ritual storehouse during Watanagashi. They opened the lock with wire or something.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 69835,
+    "TextENGNew": "Kasai fell silent on the other end of the phone for a short while.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 69836,
+    "TextENGNew": "I held my breath and waited to see what kind of reaction Kasai would show...",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 69837,
+    "TextENGNew": "Is sneaking into the ritual storehouse enough to get you chosen as this year's victims?",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases as indirect thought; new preserves JPN's direct internal question format, changing the narrative voice",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 69838,
+    "TextENGNew": "That's a bit hard to swallow. ...About the response I'd expected.",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases as indirect; new preserves as direct thought followed by narrator comment, matching JPN structure",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 69839,
+    "TextENGNew": "...I see. ...How foolish.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 69840,
+    "TextENGNew": "Hm? ...Ahahahaha. Well, I guess Tomitake-san was an outsider who didn't know much about that either.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 69841,
+    "TextENGNew": "I matched Kasai's tone, but inside I was badly shaken.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 69842,
+    "TextENGNew": "Because Kasai had so readily nodded at the equation of breaking the Saiguden taboo and becoming the fifth year's sacrifice.",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 69843,
+    "TextENGNew": "...Because I'd known Kasai for so long, I knew that this flat little remark carried an unbearably heavy meaning...",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 69844,
+    "TextENGNew": "So, Kasai... the truth is... eheh... me too.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 69845,
+    "TextENGNew": "...You went in?",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 69846,
+    "TextENGNew": "...Nnngh... yeah. Ahahaha...",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 69847,
+    "TextENGNew": "...Into the Saiguden? You, Shion-san?",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 69848,
+    "TextENGNew": "Yeah. Um, Takano-san asked if I wanted to come along. It was Takano-san and Tomitake-san, and then me, and that boy Keiichi who moved into the Maebara house. The four of us.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 69849,
+    "TextENGNew": "Haaah... I heard a heavy sigh of disappointment.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 69850,
+    "TextENGNew": "Without saying a word, I could tell Kasai was appalled.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 69851,
+    "TextENGNew": "...It was the first time I'd ever seen Kasai show this much displeasure.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 69852,
+    "TextENGNew": "``Shion-san... It hasn't even been a year since that incident, has it? ...How do you intend to make amends this time?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'don't you remember'; new more accurately translates as 'it hasn't even been a year since' and 'how do you intend to make amends' (けじめをつける), a more specific concept",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 69853,
+    "TextENGNew": "...Mm, mmh. Last year was three nails, so... should I splurge and make it five?",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 69854,
+    "TextENGNew": "............",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 69855,
+    "TextENGNew": "``Ah... sorry. ...But I'm not joking...! Of course I knew it was bad news, at least a little. But... is it really that bad?!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I knew I shouldn't have done it. I regret it'; new says 'I knew it was bad news'. The old adds regret not in the JPN; the JPN says 'I had awareness it was bad' (認識はあった) not regret",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 69856,
+    "TextENGNew": "...Shion-san, whatever else, you are someone with ties to the Sonozaki main house. Do you think saying that now will be allowed to pass?",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 69857,
+    "TextENGNew": "I mean... I've been in Okinomiya this whole time! Ever since the old lady took a dislike to me, I hardly even came near Hinamizawa! And on top of that, I was kept shut up in that school! There's no way I could've known something like that...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 69858,
+    "TextENGNew": "Once again, a deep sigh came from the other end of the receiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 69859,
+    "TextENGNew": "...No reply could have spoken more clearly that my excuses weren't going to work.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 69860,
+    "TextENGNew": "Shion-san. I mean to be on your side. I want to trust you as much as I can. ...But there are things even I cannot cover for. To begin with, Shi-",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 69861,
+    "TextENGNew": "Ah, ahahaha! Sorry! My sister just got here, so I'm hanging up. Bye!",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 69862,
+    "TextENGNew": "Clack!",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 69863,
+    "TextENGNew": "I cut Kasai off mid-sentence and set the receiver down.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 69864,
+    "TextENGNew": "...I didn’t want to hear it.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 69865,
+    "TextENGNew": "Since long ago, Kasai had always stood by me no matter what, and I couldn’t bear to hear his words of rejection to the very end.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 69866,
+    "TextENGNew": "Tahahahahahahahahaha...... Tch... this really... got me, huh.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 69867,
+    "TextENGNew": "The cicadas’ scorching cries sounded as if I’d been laid on a giant frying pan, sizzling and crackling as I was seared.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 69868,
+    "TextENGNew": "...Only now... does regret well up in me.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 69869,
+    "TextENGNew": "It seems sneaking into the Saiguden was truly, genuinely no laughing matter.",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 108,
+    "MessageID": 69870,
+    "TextENGNew": "But at that point, I hadn’t realized it was that bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 69871,
+    "TextENGNew": "...Sure, it was locked, so I knew that was their way of saying not to go inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 69872,
+    "TextENGNew": "But if that was the case, they should’ve kept the old heavy-duty lock!",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 69873,
+    "TextENGNew": "But then what was it again?",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 69874,
+    "TextENGNew": "Didn’t Rika-chama say it was too heavy or whatever, and have it changed to a light, cheap-looking padlock?",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 69875,
+    "TextENGNew": "That’s exactly why Takano-san set her sights on it...",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 69876,
+    "TextENGNew": "If they’d kept the old secure one, this never would’ve happened...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 69877,
+    "TextENGNew": "I smacked my forehead hard with my open palm.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 69878,
+    "TextENGNew": "...Haa.\nI took one deep breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 69879,
+    "TextENGNew": "Calm down, me.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 69880,
+    "TextENGNew": "What is there to panic about now?",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 69881,
+    "TextENGNew": "Since last night, I’ve already stepped onto a road with no way back.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 69882,
+    "TextENGNew": "I already took that step, so don’t hesitate now.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 69883,
+    "TextENGNew": "After all, I already killed my grandmother.",
+    "significantChanges": true,
+    "changeReason": "Changed 'hag' to 'grandmother' and restructured from passive 'was dead' to active 'I killed', making Shion's responsibility explicit",
+    "changeScore": 4
+  },
+  {
+    "index": 122,
+    "MessageID": 69884,
+    "TextENGNew": "Even if that was only suspended animation from the electric shock, I dropped her into a well that deep. She’s definitely dead.",
+    "significantChanges": true,
+    "changeReason": "New translation adds details about electric shock and suspended animation present in JPN but missing from old",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 69885,
+    "TextENGNew": "So we’re long past the stage where I can chop off five or six fingers and go, Sorry about that, tee-hee☆.",
+    "significantChanges": true,
+    "changeReason": "New adds specific quantity '五六本' (five or six) that was omitted in old translation",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 69886,
+    "TextENGNew": "An unsteady feeling, like both my feet weren’t touching the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 69887,
+    "TextENGNew": "I have played at crossing the fence around the park swings as if I were tightrope-walking.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 69888,
+    "TextENGNew": "That is only fun because even if you fall, it's only a drop of a few dozen centimeters.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 69889,
+    "TextENGNew": "...If that height were so great you couldn't even see the bottom, who would ever call it fun?",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 69890,
+    "TextENGNew": "And yet I've already stepped out onto that high railing.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 69891,
+    "TextENGNew": "The moment I stepped forward, everything behind me disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 69892,
+    "TextENGNew": "It's not as though solid ground lies one step back.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 69893,
+    "TextENGNew": "Where I stand now is that kind of place.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 69894,
+    "TextENGNew": "Just standing here is all I can manage.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 69895,
+    "TextENGNew": "...Even without walking, it's unstable footing where one lapse could send me tumbling into the abyss.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 69896,
+    "TextENGNew": "If I force myself to walk, the danger of falling only grows.\n...But even if I freeze in place, I'm fated to fall eventually.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 69897,
+    "TextENGNew": "I can't even see what lies ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 69898,
+    "TextENGNew": "There is no guarantee that this path leads to ground I can plant both feet on again.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 69899,
+    "TextENGNew": "...But if I stand here frozen, only one fate awaits me.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 69900,
+    "TextENGNew": "Then... I have no choice but to walk!",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 69901,
+    "TextENGNew": "If sitting still means certain death... then I'll die walking.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 69902,
+    "TextENGNew": "Even if what waits ahead is the despair of a dead end, I can accept that more than dying without trying.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 69903,
+    "TextENGNew": "...Even that is an optimistic thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 69904,
+    "TextENGNew": "If my fate is not destined to last much longer... then I'll accept that too.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 69905,
+    "TextENGNew": "But... even then, I won't die easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 69906,
+    "TextENGNew": "I'll struggle and struggle, and struggle with everything I have...",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 69907,
+    "TextENGNew": "I killed my grandmother.\nNo punishment but death is possible!",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母 (grandmother); new correctly translates as 'grandmother', significantly changing the characterization tone",
+    "changeScore": 3
+  },
+  {
+    "index": 146,
+    "MessageID": 69908,
+    "TextENGNew": "Yes, my fate will run out before long.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 69909,
+    "TextENGNew": "In other words... I'm already... dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 69910,
+    "TextENGNew": "...If a dead person is still going to struggle,\n...then there's nothing for it but a do-or-die charge, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 69911,
+    "TextENGNew": "As I said it, I clenched both fists tight.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 69912,
+    "TextENGNew": "Even if I'm going to die anyway,\n...I won't die without a fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 69913,
+    "TextENGNew": "Now... now is the time to avenge Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 69914,
+    "TextENGNew": "Who, for what, and why.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 69915,
+    "TextENGNew": "I'll investigate.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 69916,
+    "TextENGNew": "I'll make them talk.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 69917,
+    "TextENGNew": "I'll drag it into the light.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 69918,
+    "TextENGNew": "And then, yes... I'll make them face a reckoning...",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 69919,
+    "TextENGNew": "...For now, I'll follow the rough plan I came up with yesterday.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 69920,
+    "TextENGNew": "I can cover up Grandmother's death for a while.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母; new uses 'Grandmother', changing character voice from contemptuous to formal",
+    "changeScore": 3
+  },
+  {
+    "index": 159,
+    "MessageID": 69921,
+    "TextENGNew": "If I say she fell ill after Watanagashi and has been bedridden, that should be enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 69922,
+    "TextENGNew": "Mion's absence can be hidden by me becoming Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 69923,
+    "TextENGNew": "...I should say I'm not feeling well, so even if my friends at school sense something off, it will make sense.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 69924,
+    "TextENGNew": "...In fact, I was already dazed from lack of sleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 69925,
+    "TextENGNew": "If I become Mion, Shion disappears automatically.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 69926,
+    "TextENGNew": "...I already told Kasai that Shion entered the Saiguden, so through his channels it'll be that Shion was taken by Oyashiro-sama's curse and spirited away in an \"Onikakushi.\"",
+    "significantChanges": true,
+    "changeReason": "Old uses first person 'I snuck' but new correctly uses third person 'Shion entered' -- Shion is constructing a cover story where 'Shion' disappears as a separate person; also changes 'shrine storage' to 'Saiguden'",
+    "changeScore": 4
+  },
+  {
+    "index": 165,
+    "MessageID": 69927,
+    "TextENGNew": "If that happens... the only one left of the four who snuck into the Saiguden will be Maebara Keiichi.",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 166,
+    "MessageID": 69928,
+    "TextENGNew": "Using that Maebara Keiichi as bait, I might be able to draw the enemy out with very little risk.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 69929,
+    "TextENGNew": "...Kei-chan, sorry, but I'm going to use you as bait.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 69930,
+    "TextENGNew": "It hurts, though, right when I was starting to think you might actually be interesting.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 69931,
+    "TextENGNew": "All right... let's head to school.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 69932,
+    "TextENGNew": "I've gone to school as Mion before, so I know how to handle it.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 69933,
+    "TextENGNew": "When I checked the clock, it was almost school time.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 69934,
+    "TextENGNew": "Mii-chaaaan!! You're so late, so late!!",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 69935,
+    "TextENGNew": "Hah! Hah! ...You waited for me? Y-you could've gone on ahead...",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 69936,
+    "TextENGNew": "Huh, Mion? ...Hey, isn't your face kind of red? You're breathing weirdly hard too.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 69937,
+    "TextENGNew": "...Mii-chan... could it be you're not feeling well?",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 69938,
+    "TextENGNew": "Rena unceremoniously parts my bangs and lays a hand on my forehead.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 69939,
+    "TextENGNew": "...Your hand's cold, Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 69940,
+    "TextENGNew": "Mii-chan... you have a bit of a fever, you know?",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 69941,
+    "TextENGNew": "It's nothing serious. I'll be right as rain in half a day.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 69942,
+    "TextENGNew": "Are you really okay? Don't push yourself too hard, all right?",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 69943,
+    "TextENGNew": "Huh? Kei-chan, you're worrying about me? Ahaha... that makes me happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 69944,
+    "TextENGNew": "I never expected Keiichi, who usually just fools around for laughs, to show me concern.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 69945,
+    "TextENGNew": "I was sure he'd tease me, so it left me a little deflated.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 69946,
+    "TextENGNew": "I-I think you'd better not push yourself. I'll tell sensei you're taking the day off, okay?",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 69947,
+    "TextENGNew": "I'm fine, really! I took cold medicine too. It should start working soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 69948,
+    "TextENGNew": "Then... let's go. And seriously, don't overdo it, okay? ...The time!",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 69949,
+    "TextENGNew": "Wah?! If we d-don't run, we w-won't make it~!!",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 69950,
+    "TextENGNew": "Ahahahahaha! This turned into a thrilling morning, huh. Maybe it's just the jolt our sluggish bodies needed! Let's run!",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 69951,
+    "TextENGNew": "All right then, class rep, the command.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 69952,
+    "TextENGNew": ".........Ah...! Staaaaand!! Atteeeention!!",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 69953,
+    "TextENGNew": "Didn't I mess up the commands last time too?",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 69954,
+    "TextENGNew": "Damn, I never learn...",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 69955,
+    "TextENGNew": "I wonder if Mii-chan is really okay...? She doesn't look well today...",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 69956,
+    "TextENGNew": "...Oh my... is that so? That isn't good at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 69957,
+    "TextENGNew": "Playing up that I wasn't feeling well was the right call.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 69958,
+    "TextENGNew": "Even if I act a little differently than usual, it gives me an excuse.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 69959,
+    "TextENGNew": "Well, you know, that whole thing. Girls have days when they feel bad, that's all.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 69960,
+    "TextENGNew": "...I don't have days like that, you know? Nipah~☆",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 69961,
+    "TextENGNew": "Mion's friends kept up their casual horsing around, while thoughtfully leaving me alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 69962,
+    "TextENGNew": "...Maebara Keiichi, huh.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 69963,
+    "TextENGNew": "If he just suddenly vanished one day... that would mean I failed.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 69964,
+    "TextENGNew": "That would be like dozing off with your line in the water, only to have the bait stolen and nothing else.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 69965,
+    "TextENGNew": "I have to watch carefully, so I don't miss the instant the enemy bites on the bait called Keiichi.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 69966,
+    "TextENGNew": "But in reality, it's impossible to keep him under surveillance twenty-four hours a day.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 69967,
+    "TextENGNew": "Just sneaking glances at how things are like this hardly counts as monitoring him.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 69968,
+    "TextENGNew": "...Should I approach him as Shion, and make Keiichi aware of the danger too?",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 69969,
+    "TextENGNew": "And after that, maybe propose that we form a united front.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 69970,
+    "TextENGNew": "Like me, Keiichi probably knows that stepping into the Saiguden was wrong, but surely he doesn't think it's bad enough to pay for with his life.",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 209,
+    "MessageID": 69971,
+    "TextENGNew": "Besides, starting last year, weren't curse-related incidents put under some kind of classified investigation status?",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 69972,
+    "TextENGNew": "...People tied to the Three Families learned about the incident last night, but... Keiichi probably knows nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 69973,
+    "TextENGNew": "If I tell him the situation he's in, he'll probably be more careful about what he does.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 69974,
+    "TextENGNew": "...If I do that, it should be easier to sense the evil hand reaching for him...",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 69975,
+    "TextENGNew": "Maebara Keiichi had been caught dozing off, and was just heading into the hallway after the teacher ordered him to go wash his face.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 69976,
+    "TextENGNew": "...Speaking of being sleepy... I'm sleepy too.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 69977,
+    "TextENGNew": "I need to be cautious, so having my judgment dulled by lack of sleep is the last thing I need.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 69978,
+    "TextENGNew": "I asked to leave school early, citing poor health.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 69979,
+    "TextENGNew": "Thanks to how I'd looked since morning, they approved it without any trouble...",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 69980,
+    "TextENGNew": "When I stepped out through the entryway, Keiichi was dutifully splashing water over his face at the sink out front.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 69981,
+    "TextENGNew": "Knew it, Kei-chan, you picked this sink. It feels better out front, doesn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 69982,
+    "TextENGNew": "Hm... Mion, huh. Fwaaah... Don't skip class, okay~",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 69983,
+    "TextENGNew": "The way he was roughly throwing that icy water onto his face looked incredibly refreshing.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 69984,
+    "TextENGNew": "Following Keiichi, I splashed cold water onto my own face the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 69985,
+    "TextENGNew": "...But it wasn't as refreshing as I'd imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 69986,
+    "TextENGNew": "...Mion, you doing better from that cold? You're sleepy because of side effects from your cold medicine, not because you stayed up, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 69987,
+    "TextENGNew": "Hm? ...Ahahahaha, it's actually a secret, but... after the festival yesterday, I got dragged into a family banquet. And then... it just went on forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 69988,
+    "TextENGNew": "Endless. Put into Japanese, it means \"continuous\"... in other words, an all-nighter.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 69989,
+    "TextENGNew": "W-Wait, you pulled an all-nighter?! I worried for nothing...",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 69990,
+    "TextENGNew": "Keiichi put on an exaggerated look of shock, and even while grumbling, he still worried about how I was feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 69991,
+    "TextENGNew": "See ya. I'm heading back to the classroom.\nBe careful on your way home.\nDon't go wobbling around and fall into a ditch or an irrigation canal.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 69992,
+    "TextENGNew": "After saying only that, Keiichi turned to head back to the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 69993,
+    "TextENGNew": "Ah... right, Kei-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 69994,
+    "TextENGNew": "I called out to stop Keiichi.\nHe answered, turning only his head back.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 69995,
+    "TextENGNew": "What is it?",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 69996,
+    "TextENGNew": "This is a weird question, but answer without thinking too hard, okay?",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 69997,
+    "TextENGNew": "Well, that depends on what you're asking.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 69998,
+    "TextENGNew": "About last night's Watanagashi.\n...You didn't happen to run into Tomitake-san and Takano-san?",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 69999,
+    "TextENGNew": "...I didn't miss the way Keiichi's body stiffened for a split second.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 70000,
+    "TextENGNew": "From that reaction, I could confirm he felt at least a little guilty about sneaking into the Saiguden last night.",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 239,
+    "MessageID": 70001,
+    "TextENGNew": "And he felt the fear of realizing that what he thought no one knew had been found out by Sonozaki Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 70002,
+    "TextENGNew": "...For now, this should be enough to establish an impression of Sonozaki Mion...",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 70003,
+    "TextENGNew": "You know Tomitake-san and Takano-san, right?\nLook, Kei-chan, when we were doing prep the day before the festival, you were talking with Shion and them, the four of you, remember?",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 70004,
+    "TextENGNew": "In this position, Keiichi's panic was clear as day.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 70005,
+    "TextENGNew": "...I could clearly see Keiichi desperately trying to think of a way to talk his way out of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 70006,
+    "TextENGNew": "...W-who knows...\n...Maybe I met them, maybe I didn't...",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 70007,
+    "TextENGNew": "His lies and his acting were both bottom-rung.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 70008,
+    "TextENGNew": "...I decided he didn't seem very bright.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 70009,
+    "TextENGNew": "Well, maybe this level is enough for Mion's merry little crew.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 70010,
+    "TextENGNew": "...So small-time he wasn't even worth comparing to Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 70011,
+    "TextENGNew": "...Though when it came to lying and acting, maybe Satoshi-kun was much the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 70012,
+    "TextENGNew": "Keiichi, at least, might be a little better for trying so hard to lie, even if he's bad at it.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 70013,
+    "TextENGNew": "...Satoshi-kun, when he gets cornered, just mutters muu... and shuts right up...",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 70014,
+    "TextENGNew": "............ ...That's not something I need to remember right now...",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 70015,
+    "TextENGNew": "...I see. Then one more question. Last night, too. You didn't meet Shion?",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 70016,
+    "TextENGNew": "Maybe that was a mean little finishing blow of a question. Just as expected, Keiichi visibly faltered.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 70017,
+    "TextENGNew": "...You... asked me that yesterday too, right? ...I thought I answered that I don't know whether I met her or not...",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 70018,
+    "TextENGNew": "Huh? ...You asked yesterday too...?",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 70019,
+    "TextENGNew": "Given the surrounding context, he likely meant that Sonozaki Mion asked him.",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 70020,
+    "TextENGNew": "If he was asked yesterday, then it must have been after they came out of the Saiguden and rejoined their friends watching the dedication dance.",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 259,
+    "MessageID": 70021,
+    "TextENGNew": "................. Mion...",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 70022,
+    "TextENGNew": "And when I pressed him, he said he had no idea I'd gone into the Saiguden...",
+    "significantChanges": true,
+    "changeReason": "Changed between 'Saiguden' (Japanese term) and 'ritual storehouse' (English translation) for 祭具殿",
+    "changeScore": 2
+  },
+  {
+    "index": 261,
+    "MessageID": 70023,
+    "TextENGNew": "................................ Damn it...",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 70024,
+    "TextENGNew": "Hm, did I? ...I just figured if I asked again, maybe I'd get a different answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 70025,
+    "TextENGNew": "W-why do you care so much about whether I met her or not?",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 70026,
+    "TextENGNew": "It was practically a hostile snap-back.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 70027,
+    "TextENGNew": "Unable to hide his panic, Keiichi came at me defensively.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 70028,
+    "TextENGNew": "It's nothing big. ...There are people saying nasty things about Tomitake-san and Takano-san, and Shion and Kei-chan. ...I didn't really hear what was supposedly so bad, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 70029,
+    "TextENGNew": "Keiichi was so rattled you could almost hear the sound effect.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 70030,
+    "TextENGNew": "It wasn't funny in the least, but... well, as games go, it wasn't entirely dull either.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 70031,
+    "TextENGNew": "I don't believe Kei-chan would do anything bad. ...But I wanted to ask, just a little, so I did. ...Sorry for making you uncomfortable, okay?",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 70032,
+    "TextENGNew": "After confirming I'd planted enough distrust and danger-sense in Keiichi, I said my farewells.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 70033,
+    "TextENGNew": "When I got back to the Sonozaki main house, an older woman in a kappogi apron was standing in front of the gate.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 70034,
+    "TextENGNew": "...She was the maid called Shimiko-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 70035,
+    "TextENGNew": "Grandmother employed only a small number of maids and left the household chores around her to them.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母; new uses 'Grandmother', and adds detail about employing maids (お手伝いさんを雇って) that old shortened",
+    "changeScore": 3
+  },
+  {
+    "index": 274,
+    "MessageID": 70036,
+    "TextENGNew": "Ah, Mion-chan, thank goodness... we were in trouble...",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 70037,
+    "TextENGNew": "Oh, Shimiko-san, do you need something?",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 70038,
+    "TextENGNew": "Today was the day she was supposed to come help out.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 70039,
+    "TextENGNew": "When she came as usual, the gate was shut and locked, and she couldn't get in.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 70040,
+    "TextENGNew": "She couldn't get through by phone either, and apparently had been left at a complete loss over what to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 70041,
+    "TextENGNew": "You see, it looks like something happened at the Watanagashi festival that didn't sit well with Granny... she's been in a terrible mood since last night.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 70042,
+    "TextENGNew": "...A-ah... I see...",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 70043,
+    "TextENGNew": "Shimiko-san seemed to be turning over one memory after another, wondering whether she had done something wrong, whether that was why she had been disliked.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 70044,
+    "TextENGNew": "It's not that she's ignoring you, she's just bedridden. She was all wound up until very late last night, so she's probably still not able to get up.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 70045,
+    "TextENGNew": "You know, don't you? Once Granny's mood turns sour, you know how long it stays that way.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 70046,
+    "TextENGNew": "...Yes... this is troubling...",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 70047,
+    "TextENGNew": "I think it's better if you don't show your face for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 70048,
+    "TextENGNew": "Even if you meant no harm, Granny is bound to find one thing after another to fault you for. Please leave things to me when it's like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 70049,
+    "TextENGNew": "I-is that so...? ...Well, that does help, but...",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 70050,
+    "TextENGNew": "Shimiko-san, I'm sorry, but could you tell the outside helpers they don't need to come for a while either? I'll call quietly once Granny's mood improves. Please let her be for now...",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 70051,
+    "TextENGNew": "Shimiko-san repeated again and again that she was in my debt, then rode away on her bicycle, bowing as she went...",
+    "significantChanges": true,
+    "changeReason": "Old omits Shimiko's repeated thanks (恩に着る=expressing gratitude repeatedly); new includes this showing her deference",
+    "changeScore": 3
+  },
+  {
+    "index": 290,
+    "MessageID": 70052,
+    "TextENGNew": "If you've ever once felt Granny's wrath, that reaction is only natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 70053,
+    "TextENGNew": "I went back to Mion's room, set Mion's beloved alarm clock for around two, and slipped under the covers.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 70054,
+    "TextENGNew": "I had to recover even a little of my strength. Sharp, calm, cool...",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 70055,
+    "TextENGNew": "School should be over a little after two.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 70056,
+    "TextENGNew": "Then I'll make contact with Keiichi again. A phone call should do.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 70057,
+    "TextENGNew": "From evening on, a town council officers' meeting would be held at the assembly hall on the grounds of Furude Shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 70058,
+    "TextENGNew": "That officers' meeting was for the federated town council that bound together Hinamizawa's several neighborhood councils, where the Three Great Families' lines and the federation's senior figures gathered.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 70059,
+    "TextENGNew": "In the most literal sense, they were the elders at the deepest core of Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 70060,
+    "TextENGNew": "I would attend as the proxy for my grandmother, who had taken ill.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母 and adds 'sick' in quotes implying deception; new neutrally says 'taken ill' without the sarcastic quotation marks, and uses 'grandmother' for 祖母",
+    "changeScore": 3
+  },
+  {
+    "index": 299,
+    "MessageID": 70061,
+    "TextENGNew": "As for what comes after... for now, I'll play it by ear.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 70062,
+    "TextENGNew": "For the time being, Grandmother's and Mion's disappearances should stay out of the light.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母; new uses 'Grandmother'; also old says 'for a long time' but JPN says 当分 (for the time being), different timeframe implication",
+    "changeScore": 3
+  },
+  {
+    "index": 301,
+    "MessageID": 70063,
+    "TextENGNew": "...Don't rush. I still have plenty of time...",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 70064,
+    "TextENGNew": "After checking the hands of the alarm clock one more time,",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 70065,
+    "TextENGNew": "I snapped the switch in my head clean off and fell asleep as if the power had been cut.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 70066,
+    "TextENGNew": "Hello?",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 70067,
+    "TextENGNew": "Ah... it's the younger Sonozaki sister. Hello. Is this a good time?",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 70068,
+    "TextENGNew": "Shion, huh. I figured you'd be down with sleep deprivation today too, same as Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 70069,
+    "TextENGNew": "Huh? Could it be Sis left early? Ahahahahahaha! That's so like Sis~~!",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 70070,
+    "TextENGNew": "As always, Keiichi seemed convinced I was the Mion he knew so well.",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 70071,
+    "TextENGNew": "He couldn't see through me even when we spoke face to face; there was no way he could over the phone.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 70072,
+    "TextENGNew": "I never thought this game of playing two roles could be this fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 70073,
+    "TextENGNew": "...If I've started to feel delight in a game with my life on the line... maybe that means I've gotten at least a little used to this situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 70074,
+    "TextENGNew": "...Or maybe my senses are just going numb.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 70075,
+    "TextENGNew": "...Oh, right... sorry. My parents are waiting on a call, so I can't talk for long. What did you need?",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 70076,
+    "TextENGNew": "...There was something I wanted to talk to you about... but if a long call won't work, it can't be helped...",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 70077,
+    "TextENGNew": "Then how about we meet and talk? While we're at it, I'd appreciate it if you could show me the library too.",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 70078,
+    "TextENGNew": "The library, you mean the municipal one by the station? That's fine. I can do it on my way to work.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 70079,
+    "TextENGNew": "Given how the conversation unfolded, we decided to meet in Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 70080,
+    "TextENGNew": "...Getting from Hinamizawa to Okinomiya is a huge hassle.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 70081,
+    "TextENGNew": "But I had to hurry. The one thing I couldn't allow was running into Keiichi on his way to Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 70082,
+    "TextENGNew": "I remembered Grandma's motorbike key was in the family head's secret drawer.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母; new uses 'Grandma'; also old says 'her secret drawer' but new says 'family head's secret drawer' (頭首の), specifying it's the family head's",
+    "changeScore": 3
+  },
+  {
+    "index": 321,
+    "MessageID": 70083,
+    "TextENGNew": "For public functions, someone came to drive Grandmother, but when she went out for lessons and such, she usually took the motorbike.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'hag' for 祖母; new uses 'Grandmother'; old says 'errands' but JPN says お稽古事 (lessons/practice), different activity",
+    "changeScore": 3
+  },
+  {
+    "index": 322,
+    "MessageID": 70084,
+    "TextENGNew": "To reach Okinomiya Station before Keiichi, who would probably be coming by bicycle, I cranked the throttle wide open.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 70085,
+    "TextENGNew": "Keiichi showed up quite a while after I had already reached the meeting place.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 70086,
+    "TextENGNew": "A motorbike really is fast.",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 70087,
+    "TextENGNew": "There are hardly any traffic lights between Hinamizawa and here, so you can open it up the whole way.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 70088,
+    "TextENGNew": "``Unlike Mion, Shion actually shows up on time...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Wow, Mion never keeps her appointments'; new says 'Unlike Mion, Shion actually shows up on time' -- old omits Shion comparison and changes the compliment structure",
+    "changeScore": 3
+  },
+  {
+    "index": 327,
+    "MessageID": 70089,
+    "TextENGNew": "Ahahahaha. If you use Onee as the standard, all kinds of things get difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 70090,
+    "TextENGNew": "Hm? Aren't you a little unsteady? You didn't get enough sleep last night either, did you? No use trying to hide it. I bet you left school early, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 70091,
+    "TextENGNew": "Too bad. I skipped from the start today. I'm more efficient than Onee.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 70092,
+    "TextENGNew": "Hey, hey... I don't think skipping school is what you'd call efficient.",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 70093,
+    "TextENGNew": "Then should we take care of your errand first? We don't have that much time... We're going to the library, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 70094,
+    "TextENGNew": "Yeah, please. Looks like today's the deadline for returning the books my mom borrowed. ...Is the library far?",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 70095,
+    "TextENGNew": "It's very close.",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 70096,
+    "TextENGNew": "When I said we didn't have much time, I meant it.\nI was a little impatient.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 70097,
+    "TextENGNew": "I'd meant to handle this over the phone, and yet I came all the way to Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 70098,
+    "TextENGNew": "And once we finished talking, Keiichi would crawl back to Hinamizawa on his bicycle.",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 70099,
+    "TextENGNew": "I had to hurry back to Hinamizawa, taking care not to run into Keiichi.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 70100,
+    "TextENGNew": "Otherwise, I wouldn't make it to the evening meeting.",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 70101,
+    "TextENGNew": "Maybe being a little late to the meeting wouldn't have caused a problem, but for me, wanting to know everything discussed there, lateness was unacceptable.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 70102,
+    "TextENGNew": "Shishibone Municipal Library.",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 70103,
+    "TextENGNew": "A tedious library, large only in scale, stocked mostly with musty books.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 70104,
+    "TextENGNew": "But the air-conditioning works, and it's quiet, so it's perfect when I want to be alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 70105,
+    "TextENGNew": "For a while right after Satoshi-kun disappeared last year, I holed up here too, thinking about all sorts of things.",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 70106,
+    "TextENGNew": "...Come to think of it, this is where I met Takano-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 70107,
+    "TextENGNew": "After I thought I didn't want to run into her while I was with Keiichi...",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 70108,
+    "TextENGNew": "...I remembered she was already dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 70109,
+    "TextENGNew": "The first floor is government service counters, where people file applications and declarations.",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 70110,
+    "TextENGNew": "The library is on the second floor, so we went up the grand staircase.",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 70111,
+    "TextENGNew": "As we passed through the automatic doors, the cool air curtain greeted us.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 70112,
+    "TextENGNew": "Inside was quieter than outside, where the cicadas filled the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 70113,
+    "TextENGNew": "The climate control was kept at conditions ideal for books.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 70114,
+    "TextENGNew": "And that distinctive old-book smell, like mildew...",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 70115,
+    "TextENGNew": "...Every library's pretty much the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 70116,
+    "TextENGNew": "After saying only that, Keiichi headed to the counter to return the books.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 70117,
+    "TextENGNew": "...Maybe because it was a weekday, there were hardly any people. It was truly quiet.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 70118,
+    "TextENGNew": "I'd make some small talk first, then... bring up that subject.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 70119,
+    "TextENGNew": "Once Keiichi finished returning the books, I casually led him farther inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 70120,
+    "TextENGNew": "Though he knew Mion well, he knew almost nothing about Shion, so he showed strong interest in the story of us sisters and bit right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 70121,
+    "TextENGNew": "In this very same place where Takano-san told me the truth of Hinamizawa's history a year ago, now I was about to tell Keiichi much the same thing. ...Is this God's idea of irony?",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 70122,
+    "TextENGNew": "...Now that you mention it... that toy store did seem to be run by a relative. Come to think of it, isn't Angel Mort run by a relative too?",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 70123,
+    "TextENGNew": "I explained just how much influence the Sonozaki family holds in this region.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 70124,
+    "TextENGNew": "Because Keiichi, being from the city, might not be able to grasp the idea of an old family ruling over a whole area.",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 70125,
+    "TextENGNew": "...Unless I made him understand how strongly the Sonozaki family's will operates, I would not be able to fully explain the sense of danger closing in on him.",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 70126,
+    "TextENGNew": "They're especially strong in finance and real estate. Also, a fair share of the Chamber of Commerce officers are Sonozakis, or their relatives. With the whole Okinomiya area as their voting base, there are Sonozakis in both the city council and the prefectural assembly.",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 70127,
+    "TextENGNew": "...Wait a second. ...This is starting to sound huge.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 70128,
+    "TextENGNew": "There are shops all over Okinomiya run by relatives, and they're especially strong in finance and real estate...? And on top of that, some of the Chamber of Commerce officers are relatives, and they even have locally elected politicians...?",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 70129,
+    "TextENGNew": "Counting it off on his fingers with exaggerated gestures, Keiichi was astonished by the weight of the Sonozaki family.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 70130,
+    "TextENGNew": "...At least he seemed flexible enough to listen to even an outlandish story.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 70131,
+    "TextENGNew": "And as he slowly began to understand, I could feel his gaze on \"Sonozaki\" Shion changing little by little.",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 70132,
+    "TextENGNew": "With this much explained, it was about time to tell him what sort of presence Sonozaki Mion, the next head, really was.",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 70133,
+    "TextENGNew": "...And then steer it in the same direction Takano-san did.",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 70134,
+    "TextENGNew": "And then connect it to Oyashiro-sama's curse, and the serial mysterious death incidents in Hinamizawa Village...",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 70135,
+    "TextENGNew": "...Could it be... the Sonozaki family is... kind of a huge deal around here...?",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 70136,
+    "TextENGNew": "Yes. They are. Nfufufufu!",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 70137,
+    "TextENGNew": "Suddenly, a heavyset older man with a cigarette in his mouth cut into the conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 70138,
+    "TextENGNew": "......Ooishi?!",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 70139,
+    "TextENGNew": "Why was he here...?",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 70140,
+    "TextENGNew": "Well, hello! Good afternoon. On a date today, are we? How enviable.",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 70141,
+    "TextENGNew": "If you thought so, I'd have appreciated you not intruding. Ooishi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 70142,
+    "TextENGNew": "The timing was terrible. There was no way it was a coincidence.",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 70143,
+    "TextENGNew": "I knew this man well.",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 70144,
+    "TextENGNew": "Wily, cunning, and shrewd.",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 70145,
+    "TextENGNew": "...When it came to this man's appearances, coincidence was never a possibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 70146,
+    "TextENGNew": "...Which meant he must have spotted us somewhere in town and followed us.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 70147,
+    "TextENGNew": "But why?",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 70148,
+    "TextENGNew": "Did he have business with me, with Keiichi, or perhaps both of us?",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 70149,
+    "TextENGNew": "Judging from Ooishi's gaze and demeanor, ...his interest didn't seem to be directed at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 70150,
+    "TextENGNew": "No—rather, it seemed like he was trying to separate Keiichi from me.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 70151,
+    "TextENGNew": "Ooishi knew that last year, I had effortlessly delivered false testimony to protect Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 70152,
+    "TextENGNew": "It was only natural he'd think Keiichi would be harder to crack with someone like me around.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 70153,
+    "TextENGNew": "So then, why was Ooishi trying to make contact with Keiichi?",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 70154,
+    "TextENGNew": "...It could only be about yesterday's incident.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 70155,
+    "TextENGNew": "There must have been plenty of plainclothes officers at the festival grounds, so they surely had witnesses who saw who had been with the victims, Takano-san and the others, until the latest hour.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 70156,
+    "TextENGNew": "In other words—Keiichi and me.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 70157,
+    "TextENGNew": "But Ooishi also knew I wasn't someone who could be handled easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 70158,
+    "TextENGNew": "...So he had narrowed his target down to Keiichi alone. ...A troublesome man, at a troublesome time.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 70159,
+    "TextENGNew": "Maebara-san, was it? You're quite the bold one, aren't you? Two-timing the Sonozaki sisters, no less.",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 70160,
+    "TextENGNew": "N-no... that's not... I'm not two-timing anyone...",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 70161,
+    "TextENGNew": "Keiichi turned back to me in a fluster, as if seeking agreement—desperately hoping I'd throw him a lifeline.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 70162,
+    "TextENGNew": "The way he panicked, blushing slightly, reminded me a little of Satoshi-kun. It was cute.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 70163,
+    "TextENGNew": "But the direction of the conversation was bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 70164,
+    "TextENGNew": "At the rate Ooishi was going, he might even bring up my relationship with Satoshi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 70165,
+    "TextENGNew": "That would be deeply unpleasant for me, and it would also give Keiichi strange preconceptions.",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 70166,
+    "TextENGNew": "Ooishi glanced my way with a thoroughly unpleasant look in his eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 70167,
+    "TextENGNew": "...In that split-second expression, I understood.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 70168,
+    "TextENGNew": "This man was deliberately bringing up topics that made me uncomfortable.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 70169,
+    "TextENGNew": "Moreover, he was blatantly directing it at me—silently but as clearly as could be, coercing me: if I didn't leave, he would expose even more unpleasant things.",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 70170,
+    "TextENGNew": "......Damn that sly old fox...",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 70171,
+    "TextENGNew": "Oh, I'm sorry, Kei-chan. ...It's time for my part-time shift.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 70172,
+    "TextENGNew": "Huh? Oh... is it?",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 70173,
+    "TextENGNew": "...Judging that staying here any longer would only increase the risks, I made up an excuse about my part-time job and stood up to leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 70174,
+    "TextENGNew": "Ooishi responded to my decision with a smirk.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 70175,
+    "TextENGNew": "Damn it... He got me today, but next time it won't go his way.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 70176,
+    "TextENGNew": "Come to think of it... Shion, didn't you have something you wanted to talk about today...? If you want, we could—",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 70177,
+    "TextENGNew": "Yeah, another time... Oh, I'll call you after my shift ends. It's okay to call at night, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 70178,
+    "TextENGNew": "Yeah. I think that'd be fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 70179,
+    "TextENGNew": "Then I'll call you tonight. Talk to you then. Bye!",
+    "significantChanges": false
+  }
+]

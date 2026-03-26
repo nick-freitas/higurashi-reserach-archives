@@ -1,0 +1,183 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Pent-Up Frustration and a Bankbook",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"The Bankbook Frustration\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15914,
+    "TextENGNew": "Teppei had assumed Satoko would have at least some money.",
+    "significantChanges": true,
+    "changeReason": "The original says Teppei 'suspected Satoko was hiding more money' while the JPN もう少し金を持っているだろう means he 'assumed she would have at least some money'--a different characterization of his expectation (suspicion of hiding vs assumption of having).",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 15915,
+    "TextENGNew": "But in reality, she was penniless.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15916,
+    "TextENGNew": "When he demanded to know how she had been surviving,@k she answered that she had been in the care of a friend she lived with and had never needed money of her own.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15917,
+    "TextENGNew": "Teppei had scraped together some cash from gambling and other shady dealings.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15918,
+    "TextENGNew": "He had enough savings to get by for the time being,@k but that money was meant for gambling stakes and entertainment--the thought of wasting it on living expenses was utterly galling.",
+    "significantChanges": true,
+    "changeReason": "The original says 'he had no intention to use it on living expenses' which omits that the money was specifically for gambling stakes and entertainment (軍資金兼遊興費) and that using it for living costs was 'utterly galling' (不愉快極まりない); the new translation includes these details.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 15919,
+    "TextENGNew": "Still, there was no way Satoko had no money at all.@k Teppei was convinced of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15920,
+    "TextENGNew": "Teppei's wife--Satoko's aunt--must have seized the bankbook with a substantial sum from Satoko's parents after their fatal accident.",
+    "significantChanges": true,
+    "changeReason": "The original says the aunt 'must have taken away the family bankbook' while the new translation adds 'with a substantial sum' (かなりの金の入った) and says 'after their fatal accident' matching 事故で死んだ; these details about the substantial amount and cause of death add significant context.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 15921,
+    "TextENGNew": "That aunt died last year, and Satoshi had disappeared.",
+    "significantChanges": true,
+    "changeReason": "The original says 'Satoshi is gone too' implying vagueness while the JPN 失踪 specifically means 'disappeared/went missing'; additionally 'But her aunt' vs 'That aunt' - the original adds 'But' changing the connective logic, and says 'also died' implying it was unexpected, while the JPN is more matter-of-fact.",
+    "changeScore": 1
+  },
+  {
+    "index": 9,
+    "MessageID": 15922,
+    "TextENGNew": "If so, then the bankbook had to be in the possession of the last remaining person--Satoko.",
+    "significantChanges": true,
+    "changeReason": "The original says 'Satoko should have hidden the bankbook somewhere' implying Satoko actively hid it, while the JPN says the bankbook 'must be in the possession of the last remaining person--Satoko' (最後のひとりの沙都子が持っている), meaning it should naturally be with her, not that she hid it.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 15923,
+    "TextENGNew": "But Satoko only insisted she did not have it and knew nothing about it, and she genuinely seemed to be telling the truth.",
+    "significantChanges": true,
+    "changeReason": "The original says 'no matter how much he threatened her' which is not in the JPN; the JPN simply says she answered/insisted (答えるのみ). The new translation also adds 'she genuinely seemed to be telling the truth' matching 本当に持っていなさそうだった, which the original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 15924,
+    "TextENGNew": "...Then where was the bankbook?@k Teppei had two theories.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15925,
+    "TextENGNew": "One: his wife had squirreled it away somewhere like a secret stash.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15926,
+    "TextENGNew": "Two: after his wife died, Satoshi had taken it and hidden it somewhere else.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15927,
+    "TextENGNew": "Either way, he concluded it must be hidden somewhere in this house.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15928,
+    "TextENGNew": "While Satoko busied herself downstairs, Teppei began roaming through the two-story house.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'told Satoko to clean up the mess' not in the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 16,
+    "MessageID": 15929,
+    "TextENGNew": "...In truth, by this point, Teppei was already growing weary of Satoko.",
+    "significantChanges": true,
+    "changeReason": "\"Getting bored with Satoko\" vs \"growing weary of Satoko\" differ: the JPN 持て余し始めていた means 'finding her a burden/nuisance,' closer to 'growing weary of' than 'getting bored with,' which implies mere disinterest rather than being troubled by her presence.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 15930,
+    "TextENGNew": "Word on the street was that Satoko's parents had left behind a considerable sum.",
+    "significantChanges": true,
+    "changeReason": "The original says parents 'had a lot of money saved up' (implying savings) while the JPN 残していたはず means 'must have left behind' (implying inheritance after death); the new translation's 'left behind a considerable sum' matches the JPN better, and 風の噂 ('word on the street/rumor') is captured by the new version but not the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 15931,
+    "TextENGNew": "And his wife had hoarded it all for herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15932,
+    "TextENGNew": "She had been such a miser that, like a dog dutifully bringing home every scrap, the bankbook was probably still untouched and fully intact.",
+    "significantChanges": true,
+    "changeReason": "The original says 'quite thrifty' while the JPN 守銭奴 means 'miser/penny-pincher,' a more extreme characterization. The original also omits the vivid simile 犬が何でも持ち帰って律儀に取って置くように (like a dog dutifully bringing home every scrap) present in the new translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 15933,
+    "TextENGNew": "If he could get his hands on a decent sum, perhaps it would not be so bad to move to a different part of the country entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 15934,
+    "TextENGNew": "He still had a few connections at the gambling spots around Gogura.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15935,
+    "TextENGNew": "Some people he had helped out in the past should still be operating there.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15936,
+    "TextENGNew": "He could lean on old favors and crash at their place.@k They owed him at least a roof over his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 15937,
+    "TextENGNew": "Lately, visits from the school and the child welfare office had made things feel suffocating.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 25,
+    "MessageID": 15938,
+    "TextENGNew": "The irritation from that teacher Chie's visit still had not faded.@k To vent his frustration, Teppei resolved to at least find the bankbook before leaving...",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  }
+]

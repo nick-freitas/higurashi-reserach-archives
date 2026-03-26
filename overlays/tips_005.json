@@ -1,0 +1,125 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Hinamizawa Dam Project",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 12710,
+    "TextENGNew": "October, 1975.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12711,
+    "TextENGNew": "By order of the Prime Minister's Office, the basic plan for power development at the Hinamizawa Power Station was announced.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly identifies 総理府 as 'Prime Minister's Office' (not the PM personally) and accurately names the 'Hinamizawa Power Station' and 'basic plan for power development' per the Japanese, which the old translation generalized.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 12712,
+    "TextENGNew": "The planned Hinamizawa Dam was enormous in scale, and its impact on the village of Hinamizawa would be devastating.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12713,
+    "TextENGNew": "The areas to be submerged by the Hinamizawa Dam would span five communities: Hinamizawa, Takatsudo, Kiyotsu, Matsumoto, and Yagochi.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12714,
+    "TextENGNew": "291 households,@k a population of 1,251,@k one elementary school,@k one middle school,@k one post office,@k one agricultural cooperative branch,@k one forestry service lumber depot,@k five shrines,@k two temples,@k one fish hatchery, and more would all be submerged.",
+    "significantChanges": true,
+    "changeReason": "New translation corrects several terms: 世帯 as 'households' (not 'houses'), 農協支所 as 'cooperative branch', and 魚族増殖場 as 'fish hatchery' (not 'fishery'), and adds the inclusive '等' ('and more') from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 12715,
+    "TextENGNew": "Countless public, cultural, and productive facilities, as well as sacred places of worship, would be permanently lost beneath the waters.",
+    "significantChanges": true,
+    "changeReason": "Old translation renders 生産的 as 'agricultural' when it means 'productive'; new correctly uses 'productive'. Also corrects 永久に from 'indefinitely' to 'permanently'.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 12716,
+    "TextENGNew": "To think of the countless hardships our forebears endured across hundreds of years, pouring their blood and sweat into this blessed and livable homeland—to see it drowned was unbearable. Not only those in the flood zone, but all communities rose up one after another, united in their resolve to defend their homeland, and formed the Onigafuchi Defense Alliance.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the Japanese distinction that 'not only the flood zone, but all communities' united (水没地域はもとより全部落), which the old omitted. Also renders 鬼ヶ淵死守同盟 as 'Defense Alliance' rather than 'Guardians', better reflecting 死守 (defend to the death).",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 12717,
+    "TextENGNew": "They continued to demand with force either the cancellation of the dam's construction or a revision to move it to a tributary.",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly states the dam project 'was halted' as accomplished fact while JPN 要請し続けた describes ongoing demands for cancellation or relocation that were still continuing.",
+    "changeScore": 5
+  },
+  {
+    "index": 9,
+    "MessageID": 12718,
+    "TextENGNew": "They sought peaceful and democratic dialogue, but the government and the president of the power company—its puppet—refused.",
+    "significantChanges": true,
+    "changeReason": "Old translation calls the entire 'electrical company' a puppet, while the Japanese specifies 電源会社総裁 (the president of the power company) as the government's puppet, which the new translation correctly reflects.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 12719,
+    "TextENGNew": "Through acts of wickedness beyond all description, they trampled upon the villagers' democratic movement and the homeland of Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "Old translation omits '雛見沢の郷土' (the homeland of Hinamizawa) as a second object of the trampling, which the new translation includes.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 12720,
+    "TextENGNew": "But the villagers did not flinch. Instead they drew ever closer together, their resolve to defend their homeland only hardening all the more.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12721,
+    "TextENGNew": "Today, the resumption of the fearsome Hinamizawa Dam construction project remains frozen indefinitely.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly renders 無期限に凍結 as 'frozen indefinitely' rather than the vaguer 'still stalled', and clarifies it is the 再開 (resumption) that is frozen.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 12722,
+    "TextENGNew": "The villagers understand that this freeze was achieved through the sublime power of their unity,@k and likewise understand that this fearsome plan has not yet been fully withdrawn.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12723,
+    "TextENGNew": "The Onigafuchi Defense Alliance has already fulfilled its role and been dissolved, but the flame of unity it kindled has not been extinguished.",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the 炎 (flame) metaphor from the Japanese ('flame of unity it kindled') that the old translation replaced with the generic 'feelings of unity it garnered'. Also corrects the organization name to 'Defense Alliance'.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 12724,
+    "TextENGNew": "So long as this flame burns in the hearts of the villagers, the calamity of their homeland sinking beneath the waters shall never come to pass again.",
+    "significantChanges": true,
+    "changeReason": "Old translation implies readiness for future confrontation, while the Japanese (断じてあり得ない) and new translation express absolute certainty that the calamity 'shall never come to pass again'.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 12725,
+    "TextENGNew": "Onigafuchi Defense Alliance Chairman\nKiichirou Kimiyoshi",
+    "significantChanges": true,
+    "changeReason": "Consistent with the rest of the passage, corrects '鬼ヶ淵死守同盟' to 'Defense Alliance' rather than 'Guardians', and removes the erroneous 'Committee' from the title.",
+    "changeScore": 2
+  }
+]

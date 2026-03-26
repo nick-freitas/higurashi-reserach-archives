@@ -1,0 +1,169 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "A Feeling of Rain Clouds",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Premonition of Rainy Days\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15316,
+    "TextENGNew": "I opened my favorite window, laid a cushion there as I always do, and settled in to enjoy my modest little verandah.",
+    "significantChanges": true,
+    "changeReason": "Old omits several details from the Japanese: お気に入りの (favorite) window, いつものように (as always), and ささやかな縁側 (modest verandah), which establish routine and setting.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 15317,
+    "TextENGNew": "...And yet, here comes one noisy creature stomping about and ruining my precious quiet evening.",
+    "significantChanges": true,
+    "changeReason": "Old omits the animal counter 一匹 and onomatopoeia どたどた (stomping); the Japanese deliberately uses an animal counter to describe the person, which the new translation preserves with 'one noisy creature.'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 15318,
+    "TextENGNew": "Thanks to her, my cool and pleasant evening hour is utterly ruined.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15319,
+    "TextENGNew": "\"...You look happy. Ah, right — you got to eat lots of your favorite sweets today, didn't you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15320,
+    "TextENGNew": "This child simply cannot resist anything sweet.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 15321,
+    "TextENGNew": "...I don't dislike sweets myself, but eating that much would give me heartburn.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15322,
+    "TextENGNew": "For the moment, since she looks so happy, I'll leave her be.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15323,
+    "TextENGNew": "For a while now I've been feeding her nothing but spicy and salty things to my own taste, so she must have been overjoyed.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15324,
+    "TextENGNew": "Of course, for me too it was a truly enjoyable day.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15325,
+    "TextENGNew": "It was enough for me to sit here savoring that joy while the evening cool settled in around me.",
+    "significantChanges": true,
+    "changeReason": "Old translates 夕涼み as 'enjoying the sunset' but it actually means 'enjoying the evening cool/breeze'; new correctly captures this.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 15326,
+    "TextENGNew": "But when I looked up at the sky, I could see clouds that carried just a hint of weight.",
+    "significantChanges": true,
+    "changeReason": "Old says 'thick clouds' but the Japanese ほんの少しだけ重みのある雲 describes clouds with only a slight heaviness; new preserves this subtlety.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 15327,
+    "TextENGNew": "...The wind, too, feels just a touch too cool.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15328,
+    "TextENGNew": "It may turn into an evening shower.",
+    "significantChanges": true,
+    "changeReason": "Old uses generic 'raining' but the Japanese 夕立 specifically means an evening/afternoon shower, which the new translation preserves.",
+    "changeScore": 1
+  },
+  {
+    "index": 14,
+    "MessageID": 15329,
+    "TextENGNew": "\"...There are stories that deep-sea fish — ones you would never ordinarily see in the shallows — sometimes appear there as a warning of great earthquakes or tsunamis.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'deep-sea animals' but Japanese says 深海の魚 (deep-sea fish); also omits the emphasis that these fish would 'never normally be seen' in the shallows.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 15330,
+    "TextENGNew": "Today, in our shallows, we saw a rare deep-sea fish that should never appear there.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15331,
+    "TextENGNew": "As with most legends of sea monsters, people despise deep-sea creatures and are quick to see them as harbingers of ill fortune.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15332,
+    "TextENGNew": "Whether it appears alive, or washes up as a corpse.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15333,
+    "TextENGNew": "Ah — that's a rather apt way of putting it. Rather interesting, in fact.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15334,
+    "TextENGNew": "Whether it appears alive, or washes up as a corpse. An omen of misfortune — is that it.",
+    "significantChanges": true,
+    "changeReason": "Old misses the questioning/pondering tone of か at the end and renders it as a declarative statement; new preserves this reflective quality.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 15335,
+    "TextENGNew": "Ah... it may rain after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 15336,
+    "TextENGNew": "\"...I know, you don't have to say it. I'll bring in the laundry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15337,
+    "TextENGNew": "I seized the laundry basket and headed outside to take in the washing fluttering on the clothesline by the front of the house.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15338,
+    "TextENGNew": "The clouds were growing more and more lead-grey.",
+    "significantChanges": true,
+    "changeReason": "Old uses generic 'darker' but the Japanese specifies 鉛色 (lead-grey), a specific and evocative color choice that the new translation preserves.",
+    "changeScore": 1
+  },
+  {
+    "index": 24,
+    "MessageID": 15339,
+    "TextENGNew": "I like rain... but I had a feeling I wouldn't be able to like it today.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Weekly Magazine Special Feature",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Special Tabloid Report\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12726,
+    "TextENGNew": "Nightmare at the Hinamizawa Dam!",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12727,
+    "TextENGNew": "On June 22nd, a blood-curdling murder took place at the Hinamizawa dam construction site in Shishibone City.",
+    "significantChanges": true,
+    "changeReason": "Old translation adds 'dismemberment' (murder/dismemberment) which is not present in the JPN 殺人事件 (murder case); new translation correctly omits it.",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 12728,
+    "TextENGNew": "Though the case sent shockwaves across the nation, the police have refused to divulge any details...@kWhat exactly happened at the Hinamizawa dam...?",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12729,
+    "TextENGNew": "\"At first, they likely had no intention of killing him,\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12730,
+    "TextENGNew": "\"but when the victim began fighting back by swinging a shovel, the assailants all seized whatever was at hand, and the situation rapidly escalated into a killing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12731,
+    "TextENGNew": "So stated the aforementioned investigator.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12732,
+    "TextENGNew": "When the bloodbath was over, all that remained was a mangled corpse that no one could mistake for a living person...",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'mangled' to describe the corpse, matching JPN 無残な (pitiful/mangled), conveying the gruesome state of the body that the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 12733,
+    "TextENGNew": "The site foreman had a reputation for rough treatment and routinely overworked the suspects.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12734,
+    "TextENGNew": "At first, it was only meant to be a little payback...",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'a little' matching JPN ちょっとした (a small/slight), emphasizing the perpetrators' intent was minor retaliation, not serious harm.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 12735,
+    "TextENGNew": "\"Every one of the perpetrators was horrified by the gravity of what they had done.@kSome even suggested turning themselves in to the police.\"",
+    "significantChanges": true,
+    "changeReason": "Old says one person actually turned himself in; new says some suggested turning themselves in. JPN 言い出す者もいた means 'there were those who brought up [the idea]'—a suggestion, not an actual surrender.",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 12736,
+    "TextENGNew": "But the ringleader among the workers proposed hiding the body.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12737,
+    "TextENGNew": "Though the others were reluctant at first, they gradually came around to the idea that they did not want to be caught.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'soon' implying a quick change of mind; new uses 'gradually' matching JPN 次第に (gradually/little by little), conveying a slower process of moral compromise.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 12738,
+    "TextENGNew": "Each was made to participate deeply.@kWhat does that imply?",
+    "significantChanges": true,
+    "changeReason": "Old omits 'deeply' (深く) and the passive/coerced nuance; new translation's 'was made to participate deeply' conveys that each person was forced into deep involvement, implying a deliberate pact of complicity.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 12739,
+    "TextENGNew": "The investigator refused to elaborate on this point to the very end, but one can only imagine the kind of blood-curdling pact that was forged—binding each of them irrevocably to the crime...",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12740,
+    "TextENGNew": "Yet their scheme crumbled in a single night.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12741,
+    "TextENGNew": "One of the workers—the one who had resisted participating until the very end—broke down in tears at the hospital where he was being treated for injuries sustained during the scuffle, and confessed everything...",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'opposed dissecting the corpse' which is not in the JPN; JPN 加担に抵抗した means 'resisted participating/being an accomplice' generally, not specifically dissection.",
+    "changeScore": 4
+  },
+  {
+    "index": 17,
+    "MessageID": 12742,
+    "TextENGNew": "The criminals were arrested one after another, but the ringleader's whereabouts remain unknown.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12743,
+    "TextENGNew": "Nor has the right arm he was tasked with hiding been recovered.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12744,
+    "TextENGNew": "Despite the police conducting daily searches, this fiendish man continues to elude the long arm of the law.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12745,
+    "TextENGNew": "What are the police doing...?",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12746,
+    "TextENGNew": "\"Reportedly, he said he was going to dispose of the body part—the right arm—in the swamp.@kIndeed, his car was found abandoned near the swamp, but all trace of him was lost after that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12747,
+    "TextENGNew": "The ringleader had suspected his companions might betray him from the very start.",
+    "significantChanges": true,
+    "changeReason": "Old misses 最後まで (until the very end); new captures persistence of suspicion but shifts to 'from the very start' rather than 'until the very end.' Improvement on balance but introduces its own imprecision.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 12748,
+    "TextENGNew": "The possibility that he anticipated their confession to the police and fled somewhere other than the swamp cannot be ruled out.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'used his car as a decoy' which is not in the JPN; JPN says 沼以外の場所に逃れた可能性 (possibility he escaped to a place other than the swamp). New correctly omits the decoy detail.",
+    "changeScore": 4
+  },
+  {
+    "index": 24,
+    "MessageID": 12749,
+    "TextENGNew": "\"Of course, we've considered that possibility as well.@k...Without a car, there should be a limit to how far he could have escaped...@kWithin the precinct, there are whispers that he may have accidentally fallen into the swamp and drowned while disposing of the body...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I doubt that theory' (dismissing it) while JPN それも疑っています means 'we suspect/consider that too' (taking it seriously). The new translation correctly conveys that investigators are considering this possibility rather than rejecting it.",
+    "changeScore": 4
+  },
+  {
+    "index": 25,
+    "MessageID": 12750,
+    "TextENGNew": "The locals fear this swamp as a bottomless abyss.@kThey call it Onigafuchi—the Demon's Abyss—and legend has it that its depths connect to the land of demons in hell.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 12751,
+    "TextENGNew": "His cruelty was truly that of a demon from hell itself.@kCould it be that he returned to his infernal home through the swamp...?",
+    "significantChanges": false
+  }
+]

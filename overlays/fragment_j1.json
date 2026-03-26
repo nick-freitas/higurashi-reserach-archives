@@ -1,0 +1,104 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8310,
+    "TextENGNew": "This piece alone is terribly warped.",
+    "significantChanges": true,
+    "changeReason": "Old: 'This piece is the only one that's so distorted' vs New: 'This piece alone is terribly warped.' The old implies uniqueness among pieces while the new emphasizes the degree of warping; 'distorted' vs 'warped' shifts the nature of the abnormality.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 8311,
+    "TextENGNew": "Because it comes from long before June of 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 8312,
+    "TextENGNew": "Therefore, whether this piece exists or not has no bearing whatsoever on the battle we wage on this game board.",
+    "significantChanges": true,
+    "changeReason": "Old frames it as 'existence of this piece has no affect' (passive/abstract) while new says 'whether this piece exists or not has no bearing on the battle we wage on this game board' — specifies 'battle' and 'game board' separately, matching TextJPN's 'ゲーム盤の戦い' more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 8313,
+    "TextENGNew": "...But is it truly a useless piece with no bearing at all?",
+    "significantChanges": true,
+    "changeReason": "Old simply asks 'But is this really a useless piece?' while new adds 'with no bearing at all?' preserving the TextJPN's full phrase '何の影響も及ぼさない役立たずのカケラ' — the qualifier about having no influence is significant.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 8314,
+    "TextENGNew": "By now, the true nature of Rule Y has been completely laid bare.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8315,
+    "TextENGNew": "Backed by a vast and powerful organization, it is strong enough to swallow whole the fragile bonds between individuals.",
+    "significantChanges": true,
+    "changeReason": "Old says 'swallow up the small solidarity of individuals' while new says 'swallow whole the fragile bonds between individuals.' 'Solidarity' (collective unity) vs 'bonds' (personal connections) conveys a different understanding of what is threatened.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 8316,
+    "TextENGNew": "Its power is so utterly unreasonable that I have nearly given up on this game time and again.",
+    "significantChanges": true,
+    "changeReason": "Old: 'I almost give up' (present/single instance) vs New: 'I have nearly given up on this game time and again' — the new explicitly conveys repeated near-surrender ('何度も'), a significant narrative detail about the speaker's ongoing struggle.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 8317,
+    "TextENGNew": "And yet, that is precisely why I find myself thinking...",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8318,
+    "TextENGNew": "...that perhaps, hidden within this piece, there sleeps a game piece capable of standing against so formidable a foe.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a piece hidden somewhere that's strong enough to fight' while new says 'hidden within this piece, there sleeps a game piece capable of standing against.' The new specifies the piece is hidden *within this specific fragment*, matching TextJPN's 'このカケラの中に'.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 8319,
+    "TextENGNew": "Mamoru Akasaka works at the Metropolitan Police Department in Tokyo, and he may well possess the power to stand against a conspiracy of that magnitude.",
+    "significantChanges": true,
+    "changeReason": "Old: 'police headquarters' vs New: 'Metropolitan Police Department' — the new is a more precise translation of '警視庁' (which is specifically the Tokyo Metropolitan Police, not a generic headquarters). Also 'might have the power' vs 'may well possess the power' shifts certainty slightly.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 8320,
+    "TextENGNew": "His strength — I believe — will reach even Rule Y.",
+    "significantChanges": true,
+    "changeReason": "Old converts a confident statement (きっと及ぶ, 'surely will reach') into a question expressing doubt ('Can his power withstand even Rule Y?'). Reverses the emotional tone.",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 8321,
+    "TextENGNew": "Just as Keiichi Maebara shattered Rule Z so brilliantly, might Akasaka shatter Rule Y in the same fashion?",
+    "significantChanges": true,
+    "changeReason": "Old: 'will he be able to defeat Rule Y so easily?' (questioning/doubtful) vs New: 'might Akasaka shatter Rule Y in the same fashion?' — The new names Akasaka explicitly and uses 'shatter' matching '打ち破る'. Both are questions but the old implies ease ('so easily') while the new asks about manner ('in the same fashion').",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 8322,
+    "TextENGNew": "...We need everyone's strength.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 8323,
+    "TextENGNew": "Akasaka's strength, too — it is indispensable...",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Jinx Returns to School",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Sending the Brat Back\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15966,
+    "TextENGNew": "It had been three days since Satoko had taken to bed with her supposed fever.",
+    "significantChanges": true,
+    "changeReason": "Old says 'since he told her to stay home' which is fabricated; Japanese states Satoko took to bed with fever.",
+    "changeScore": 4
+  },
+  {
+    "index": 2,
+    "MessageID": 15967,
+    "TextENGNew": "...That annoying teacher Chie had called again. He screamed at her and slammed down the phone.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the teacher's name 'Chie' (JPN 知恵), which was omitted in the original.",
+    "changeScore": 1
+  },
+  {
+    "index": 3,
+    "MessageID": 15968,
+    "TextENGNew": "But that woman was persistent.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15969,
+    "TextENGNew": "She would not let this go.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15970,
+    "TextENGNew": "Worse, she might raise some ugly suspicions and get the police involved.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates content about Teppei's fear of Satoko seeking help at school.",
+    "changeScore": 4
+  },
+  {
+    "index": 6,
+    "MessageID": 15971,
+    "TextENGNew": "...He had heard from someone that the consultation center sometimes brought the police along.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15972,
+    "TextENGNew": "Teppei had plenty of skeletons in his closet.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'weight on his shoulders' (burden); new uses 'skeletons in his closet,' correctly capturing the JPN idiom about having a criminal past to hide.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 15973,
+    "TextENGNew": "If the police got involved, it would inevitably lead to his other shady business.@k That was the one thing he absolutely could not allow.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15974,
+    "TextENGNew": "If only he had the money.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15975,
+    "TextENGNew": "If he could just find the bankbook his brother and sister-in-law left behind, he could get out of this suffocating village.",
+    "significantChanges": true,
+    "changeReason": "Old says only 'brother's bankbook'; new correctly includes 'brother and sister-in-law' (JPN 兄夫婦).",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 15976,
+    "TextENGNew": "Teppei generally stayed indoors, finding the stares of the other villagers unpleasant.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15977,
+    "TextENGNew": "To pass the time, he would invite his friends over to play mahjong.",
+    "significantChanges": true,
+    "changeReason": "Old inaccurately adds 'at Satoko's house' and misrepresents causality; JPN says he invited friends over to pass the time.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 15978,
+    "TextENGNew": "But mahjong requires four players.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15979,
+    "TextENGNew": "When he could not gather enough people, he had nothing to do but sit around watching television.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15980,
+    "TextENGNew": "So he began spending his ample free time on his treasure hunt.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15981,
+    "TextENGNew": "He was going to leave this house eventually anyway.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko would end up cleaning the mess' but Japanese says 'He was going to leave this house eventually.'",
+    "changeScore": 4
+  },
+  {
+    "index": 17,
+    "MessageID": 15982,
+    "TextENGNew": "What did he care if some furniture got broken?",
+    "significantChanges": true,
+    "changeReason": "Old says 'it wasn't his home anyway' but Japanese says 'What did he care if some furniture got broken.'",
+    "changeScore": 4
+  },
+  {
+    "index": 18,
+    "MessageID": 15983,
+    "TextENGNew": "Teppei pulled everything out of the closets and pried open ceiling panels.",
+    "significantChanges": true,
+    "changeReason": "Old has displaced content; Japanese describes Teppei pulling things from closets and prying ceiling panels.",
+    "changeScore": 4
+  },
+  {
+    "index": 19,
+    "MessageID": 15984,
+    "TextENGNew": "He yanked every drawer from every dresser, dumped out the contents, and inspected the empty compartments.",
+    "significantChanges": true,
+    "changeReason": "Old mentions 'closet' and 'attic' not in the JPN; the JPN describes pulling drawers from dressers and dumping contents.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 15985,
+    "TextENGNew": "A miser like his wife would have been clever about hiding a stash.",
+    "significantChanges": true,
+    "changeReason": "Old drops key details; the JPN specifically says 'a miser' is 'clever at hiding a stash,' both omitted from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 15986,
+    "TextENGNew": "He would not find it without being this thorough.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she must have hid it somewhere unusual' but Japanese says 'wouldn't find it without being thorough.'",
+    "changeScore": 4
+  },
+  {
+    "index": 22,
+    "MessageID": 15987,
+    "TextENGNew": "He continued ransacking the house in this fashion until--",
+    "significantChanges": true,
+    "changeReason": "Old adds fabricated content about floors and Satoko tackling him.",
+    "changeScore": 4
+  },
+  {
+    "index": 23,
+    "MessageID": 15988,
+    "TextENGNew": "``N-Not Nii-nii's room...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 15989,
+    "TextENGNew": "``What the hell do you think you're doing?!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15990,
+    "TextENGNew": "``No! Please don't go in Nii-nii's room...!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 15991,
+    "TextENGNew": "At first, Teppei took Satoko's extreme reaction as proof that the bankbook was hidden in that room.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 15992,
+    "TextENGNew": "Teppei shoved Satoko aside and tried to force his way into Satoshi's room.",
+    "significantChanges": true,
+    "changeReason": "Old says he 'forced his way inside' (implying success); new correctly says 'tried to force his way' (JPN indicates attempt, not completion), and adds 'Satoshi's room.'",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 15993,
+    "TextENGNew": "...But Satoko fought back desperately to stop him.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 15994,
+    "TextENGNew": "``...Hic...! That room... belongs to Nii-nii...@k@vS20/04/440400097. If he comes home and finds it ruined... Nii-nii will be devastated...@k@vS20/04/440400098. *sob*... *hic*...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 15995,
+    "TextENGNew": "``What are you going on about? I'm not going to wreck it just because it's your brother's room. You don't even know if Satoshi is alive or dead.``",
+    "significantChanges": true,
+    "changeReason": "New adds 'alive or dead' matching JPN, and includes Satoshi's name. Old also drops Teppei's dismissive preamble.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 15996,
+    "TextENGNew": "``Nii-nii is alive!! He will come home!!@k@vS20/04/440400100. Waaaaaaaah!!@k@vS20/04/440400101. Don't destroy his room!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 15997,
+    "TextENGNew": "``...Calm down. I'm not going to destroy it.@k@vS20/21/442000015. This room, right?@k@vS20/21/442000016. I just want to give it a little cleaning.@k@vS20/21/442000017. There's no reason to keep a room preserved for someone who's not coming back.@k@vS20/21/442000018. I'm just going to tidy up a bit.``",
+    "significantChanges": true,
+    "changeReason": "New captures full JPN dialogue including 'no reason to keep a room for someone who's not coming back,' which old truncated.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 15998,
+    "TextENGNew": "But Satoko still resisted.@k Even Teppei decided it was better to back off for now.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 34,
+    "MessageID": 15999,
+    "TextENGNew": "``All right, all right!! If you're a good girl, I won't go in this room.@k@vS20/21/442000020. Okay?@k@vS20/21/442000021. Deal?``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 16000,
+    "TextENGNew": "``......Yes... ...yes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 16001,
+    "TextENGNew": "Satoko's reaction only confirmed it for Teppei.@k The bankbook had to be in that room.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 37,
+    "MessageID": 16002,
+    "TextENGNew": "...But if Satoko detected even the slightest sign that he had tampered with the room, she would become unmanageable.",
+    "significantChanges": true,
+    "changeReason": "Old vaguely says 'Satoko would lose it if he went inside'; new correctly captures the specific condition about detecting traces of tampering.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 16003,
+    "TextENGNew": "Come to think of it... it would actually be better to send Satoko to school.",
+    "significantChanges": true,
+    "changeReason": "Original translation was empty; new translation provides content.",
+    "changeScore": 5
+  },
+  {
+    "index": 39,
+    "MessageID": 16004,
+    "TextENGNew": "While she was at school, he could search Satoshi's room in secret.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 16005,
+    "TextENGNew": "``Since you've been such a good girl, your cold must be all better by now.@k@vS20/21/442000023. Starting tomorrow, you go back to school.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 16006,
+    "TextENGNew": "``......Thank you so much... thank you so much...``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 16007,
+    "TextENGNew": "He had trained her to say thank you whenever he granted her anything, but hearing it repeated over and over was unsettling.",
+    "significantChanges": true,
+    "changeReason": "Old only captures that he trained her to say thank you; new includes the full meaning that hearing it repeated was unsettling.",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 16008,
+    "TextENGNew": "Teppei, being the selfish man he was, found even that irritating.",
+    "significantChanges": true,
+    "changeReason": "Old repeats content from the previous line; new correctly translates the JPN as Teppei selfishly finding it irritating.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 16009,
+    "TextENGNew": "``Get out of my sight already, you're getting on my nerves, honestly... ...Aaagh!@k@vS20/21/442000025. So damn annoying!!``",
+    "significantChanges": false
+  }
+]

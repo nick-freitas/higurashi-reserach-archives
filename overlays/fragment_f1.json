@@ -1,0 +1,948 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6474,
+    "TextENGNew": "My motivation to become a doctor was a thoroughly impure one, the kind common enough among children.",
+    "significantChanges": true,
+    "changeReason": "JPN 不純なものだった = 'was an impure thing'; original completely omits the self-deprecating admission that his motivation was impure.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 6475,
+    "TextENGNew": "Become a doctor and you will make plenty of money.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 6476,
+    "TextENGNew": "People will respect you.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 6477,
+    "TextENGNew": "...I believe those were the sort of reasons I had, at the very beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 6478,
+    "TextENGNew": "So whenever I played with children in the neighbourhood, I always cast myself in the role of the doctor.",
+    "significantChanges": true,
+    "changeReason": "JPN 近所の子供たち = 'neighbourhood children' not necessarily 'friends'; new is more precise about the relationship.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 6479,
+    "TextENGNew": "Drawing on whatever knowledge I had cobbled together from books, I would rinse the cuts of children who had taken a tumble, or apply ice to a sprained ankle.",
+    "significantChanges": true,
+    "changeReason": "JPN 付け焼刃の知識 = 'half-baked/hasty knowledge' not 'household medical books'; original fabricates the source. New correctly says 'whatever knowledge I had cobbled together'.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 6480,
+    "TextENGNew": "Everyone around me—myself included—was convinced that little Kyousuke would certainly become a doctor one day.",
+    "significantChanges": true,
+    "changeReason": "New adds 京介くん = 'little Kyousuke' from JPN, showing how others referred to him, which original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 6481,
+    "TextENGNew": "My family was poor, and they were apparently overjoyed at my ambition.",
+    "significantChanges": true,
+    "changeReason": "JPN らしい = 'apparently/seemingly'; original's 'praised' is more definitive than JPN's hedged 'apparently overjoyed'. Different emotional register.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 6482,
+    "TextENGNew": "They told me I would need to study hard if I wanted to become a doctor, and would borrow quasi-medical books from the lending library for me to read.",
+    "significantChanges": true,
+    "changeReason": "JPN 貸本屋 is a commercial 'lending bookshop' (common in postwar Japan), not a public library; this historical detail matters for the poverty context.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 6483,
+    "TextENGNew": "The rental fee for even a single book was no small sum.",
+    "significantChanges": true,
+    "changeReason": "JPN 一冊の借り賃も決して安くない = 'the rental fee for even a single book was by no means cheap'; original drops the emphasis on individual book cost that underscores the family's poverty.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 6484,
+    "TextENGNew": "So I would race through one book in a single day, and then the next day my parents would take it back and claim they had accidentally borrowed something they already had—and get a second book at no extra charge.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 6485,
+    "TextENGNew": "Of course, such knowledge was not particularly useful in practice, but as fuel for the dream of one day becoming a doctor, I believe it served me very well.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 6486,
+    "TextENGNew": "The neighbours called me Dr. Kyousuke, and at school I was invariably put forward as the health committee representative.",
+    "significantChanges": true,
+    "changeReason": "JPN 保健委員 = 'health committee member'; 'class health officer' vs 'health committee representative' are different roles. Also drops '-kun' suffix.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 6487,
+    "TextENGNew": "Even my teacher helped me figure out which courses I would need to take to get into medical school.",
+    "significantChanges": true,
+    "changeReason": "JPN どう進学すればいいか = 'how to advance educationally'; new's 'which courses to get into medical school' is more specific than original's vague 'classes needed to become a doctor'.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 6488,
+    "TextENGNew": "Of course, the real world is not so accommodating as to let a dream alone carry you to a medical degree.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 6489,
+    "TextENGNew": "Studying was gruelling, and the road was anything but smooth.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 6490,
+    "TextENGNew": "To take one's first steps as a doctor, attending university was indispensable.",
+    "significantChanges": true,
+    "changeReason": "JPN 医者の門を叩く = 'to knock on the door of being a doctor' (i.e. begin the journey); 'take one's first steps' captures this better than 'become a doctor'.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 6491,
+    "TextENGNew": "But since my family was poor, I was told I was not permitted to attend an expensive private institution.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 6492,
+    "TextENGNew": "Which left me with nothing but national public universities.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 6493,
+    "TextENGNew": "My marks were not bad by any means, but the gate into a national university was exceedingly narrow.",
+    "significantChanges": true,
+    "changeReason": "JPN 狭き門 = 'narrow gate' is a specific idiom; original's 'marginal admission rate' misses the metaphor. New preserves it.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 6494,
+    "TextENGNew": "And when it came to a medical faculty on top of that, the gate narrowed further still.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 6495,
+    "TextENGNew": "...I studied with everything I had.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 6496,
+    "TextENGNew": "The driving force was the dream I had carried since childhood.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 6497,
+    "TextENGNew": "The only thing that kept me going was that utterly simple, childlike dream: to become a doctor and earn the respect of everyone around me.",
+    "significantChanges": true,
+    "changeReason": "New preserves JPN 安っぽい = 'cheap/simple' describing the dream, which original omits, and better captures the self-awareness.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 6498,
+    "TextENGNew": "...And I was accepted.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 6499,
+    "TextENGNew": "My ranking was not impressive, but I had got there all the same.",
+    "significantChanges": true,
+    "changeReason": "Original erroneously merges content from the next JPN line (子供の頃の夢を叶えるスタートライン); new correctly keeps just this line's content.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 6500,
+    "TextENGNew": "At last, I had reached the starting line of making that childhood dream come true.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes reaching the starting line of a childhood dream; old says 'My parents were thrilled' (content from a different line).",
+    "changeScore": 5
+  },
+  {
+    "index": 28,
+    "MessageID": 6501,
+    "TextENGNew": "My parents were overjoyed.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN says 'My parents were overjoyed'; old contains content about parents' education level and inviting relatives.",
+    "changeScore": 5
+  },
+  {
+    "index": 29,
+    "MessageID": 6502,
+    "TextENGNew": "Neither of them had a high level of education, so when their son managed to pass the entrance examination to a national medical faculty, they summoned all the relatives to celebrate the achievement.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes parents' low education and gathering relatives to celebrate; old talks about tuition costs.",
+    "changeScore": 5
+  },
+  {
+    "index": 30,
+    "MessageID": 6503,
+    "TextENGNew": "Even knowing full well that a national university's tuition was no small expense, they held a proper celebration.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN says they celebrated despite knowing tuition was expensive; old says 'My father didn't express his emotions much.'",
+    "changeScore": 5
+  },
+  {
+    "index": 31,
+    "MessageID": 6504,
+    "TextENGNew": "My father was not a man who wore his emotions on his sleeve.",
+    "significantChanges": true,
+    "changeReason": "Misaligned by one line, but content is closely related: JPN says father didn't show emotions; old says 'He always kept a straight face' (next line's content). Meanings overlap significantly.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 6505,
+    "TextENGNew": "Whatever happened, he kept a stony face.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN says 'Whatever happened, he kept a stony face' but old says 'He rarely voiced his opinion or took initiative' (next line's content).",
+    "changeScore": 4
+  },
+  {
+    "index": 33,
+    "MessageID": 6506,
+    "TextENGNew": "He never voiced his own opinions, never took the lead on anything.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN says 'never voiced his opinions, never took the lead'; old merges content from subsequent lines about mother and the silent father archetype.",
+    "changeScore": 5
+  },
+  {
+    "index": 34,
+    "MessageID": 6507,
+    "TextENGNew": "He was the type who would only appear at the end, after my mother had arranged everything, say nothing, and then disappear—the stoic, taciturn father-figure that was so common in that era.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes the taciturn father archetype of the era; old contains the next line's emotional scene of father shedding tears of joy.",
+    "changeScore": 5
+  },
+  {
+    "index": 35,
+    "MessageID": 6508,
+    "TextENGNew": "Seeing him with tears in his eyes as he broke into a rare display of happiness moved me so deeply that I found tears welling in my own eyes.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes seeing father's rare emotional display and being moved to tears; old contains next line's content about back-slapping and praising.",
+    "changeScore": 5
+  },
+  {
+    "index": 36,
+    "MessageID": 6509,
+    "TextENGNew": "He went around to all the relatives slapping my back over and over, telling everyone how lucky he was to have a son like me, and then turned to face me directly to praise everything I had worked for.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes father praising his son to relatives; old says 'The celebration became my farewell party.'",
+    "changeScore": 5
+  },
+  {
+    "index": 37,
+    "MessageID": 6510,
+    "TextENGNew": "And that celebration became also a send-off for me as I left for Tokyo.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN says the celebration became a send-off for Tokyo; old says 'My father yelled banzai at the station.'",
+    "changeScore": 5
+  },
+  {
+    "index": 38,
+    "MessageID": 6511,
+    "TextENGNew": "At the station, heedless of the crowd, my father called out banzai again and again as the train pulled away.",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN describes father calling banzai at the station; old says 'I was a little embarrassed.'",
+    "changeScore": 5
+  },
+  {
+    "index": 39,
+    "MessageID": 6512,
+    "TextENGNew": "I found it embarrassing while I could still see him—but I remember, the moment he disappeared from view, a rush of grateful tears finally breaking through.",
+    "significantChanges": true,
+    "changeReason": "Original misses most of the content; JPN describes initial embarrassment fading into grateful tears once the father was out of sight. New captures this fully.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 6513,
+    "TextENGNew": "From then on came long, gruelling days of study.",
+    "significantChanges": true,
+    "changeReason": "JPN 永く険しい = 'long and steep/harsh'; original adds 'exams' and 'hellish' not in JPN. New is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 6514,
+    "TextENGNew": "There were days when I was tempted to drown myself in the gleaming life of the city and give in to laziness.",
+    "significantChanges": true,
+    "changeReason": "JPN ハイカラな都会 = 'fashionable/modern city' and 自堕落 = 'self-indulgent laziness'; new distinguishes these two elements better.",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 6515,
+    "TextENGNew": "But every time, the letters from my parents back home encouraged me, and I told myself I would not be broken—and kept going.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 6516,
+    "TextENGNew": "In those days, my dream was to open my own practice as a general physician, return home, and contribute to the community by running an internal medicine or paediatric clinic.",
+    "significantChanges": true,
+    "changeReason": "JPN specifies 内科や小児科 (internal medicine or paediatrics); original omits these specialties while new preserves them.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 6517,
+    "TextENGNew": "So it never once crossed my mind that I would end up involved with the brain...",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 6518,
+    "TextENGNew": "One day, there was a slight change in the tone of the letters from home that had always encouraged me.",
+    "significantChanges": true,
+    "changeReason": "JPN 雰囲気が少し変わった = 'the atmosphere changed slightly'; new captures 'tone' change vs original's vague 'difference'.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 6519,
+    "TextENGNew": "The content was the usual—news from the countryside, words of concern for my life in the city—but the postscript had a different feel to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6520,
+    "TextENGNew": "\"Father has become very rough lately.\nWhen it is bad, he tears the whole house apart and I do not know what to do.\"",
+    "significantChanges": true,
+    "changeReason": "Uses 'Father' (formal letter style) vs 'Your father' and 'rough' vs 'violent'; JPN 乱暴 can mean either but the mother's letter tone in JPN uses softer language.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 6521,
+    "TextENGNew": "...I simply could not reconcile that image of violence with the quiet man I knew. I could not hide my astonishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 6522,
+    "TextENGNew": "Could something serious have happened?",
+    "significantChanges": true,
+    "changeReason": "JPN よほどのこと = 'something considerable/serious'; original's simple 'Did something happen?' misses the gravity implied.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 6523,
+    "TextENGNew": "...But my mother concluded the postscript by saying she could not think of any explanation herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 6524,
+    "TextENGNew": "My mother was my father's life companion.",
+    "significantChanges": true,
+    "changeReason": "JPN 伴侶 = 'life partner/companion'; original's 'had been together for a long time' misses this more intimate term.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 6525,
+    "TextENGNew": "They had been together long before I was born.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 6526,
+    "TextENGNew": "...She was someone who noticed things that I, his own son, would have missed.",
+    "significantChanges": true,
+    "changeReason": "JPN 実の息子に = 'his own biological son'; new preserves this emphasis on the father-son relationship that original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 6527,
+    "TextENGNew": "...And even she could not account for this violence from my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 6528,
+    "TextENGNew": "What on earth had happened?",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 6529,
+    "TextENGNew": "My parents had always been deeply devoted to each other—a truly well-matched couple.",
+    "significantChanges": true,
+    "changeReason": "JPN おしどり夫婦 is a specific idiom meaning 'devoted couple like mandarin ducks'; new's 'well-matched couple' better captures this.",
+    "changeScore": 2
+  },
+  {
+    "index": 57,
+    "MessageID": 6530,
+    "TextENGNew": "When I was small and caused trouble for my mother, my father would discipline me with a gentle rap of his knuckle.",
+    "significantChanges": true,
+    "changeReason": "New adds 'gentle' which is implied by the JPN context (ゲンコツで制裁 = disciplined with a knuckle-rap, presented as mild). Original's 'bonked' is casual but doesn't convey the gentleness.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 6531,
+    "TextENGNew": "...Why, then, was he now treating my mother so harshly?",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 6532,
+    "TextENGNew": "Perhaps there had been some falling out between them.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 6533,
+    "TextENGNew": "...New Year was coming, and I would be going home.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 6534,
+    "TextENGNew": "I thought perhaps I could sit down and have a real talk with my father then.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 6535,
+    "TextENGNew": "...But the situation was far more serious than I had imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 6536,
+    "TextENGNew": "On a cold winter day—",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 6537,
+    "TextENGNew": "...I came home to find my apartment door unlocked.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 6538,
+    "TextENGNew": "I went in expecting a burglary—and found my mother there instead, her luggage beside her.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 6539,
+    "TextENGNew": "...That was it.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 6540,
+    "TextENGNew": "Unable to endure my father's violence any longer, she had fled to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 6541,
+    "TextENGNew": "This was still an era when people said that a woman had no true home of her own.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 6542,
+    "TextENGNew": "Since my mother came from the same region as my father, she could not go back to her own family—and so she had come all the way to Tokyo.",
+    "significantChanges": true,
+    "changeReason": "JPN 父と同郷の = 'from the same hometown as father'; original says 'same region' while JPN is more specifically about shared hometown making her return impossible. New also adds 上京した = 'came up to Tokyo'.",
+    "changeScore": 2
+  },
+  {
+    "index": 70,
+    "MessageID": 6543,
+    "TextENGNew": "And then, from my mother's own lips, I heard the story of those days of violence.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 6544,
+    "TextENGNew": "She wept, saying she had no idea why such a quiet man had changed so completely.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 6545,
+    "TextENGNew": "And she declared that she would never go back to a man who could be so brutal.",
+    "significantChanges": true,
+    "changeReason": "JPN 決別を口にする = 'declared a final break/parting'; new's 'declared' captures the finality while original's 'said' is too mild.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 6546,
+    "TextENGNew": "As his son, there was nothing I could do but stand there at a loss.",
+    "significantChanges": true,
+    "changeReason": "JPN おろおろとするしかない = 'could only stand there flustered/at a loss'; new captures the helplessness and physical detail original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 6547,
+    "TextENGNew": "...I asked whether she might try talking to him one more time—but the bruises covering her body made any such argument fall silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 6548,
+    "TextENGNew": "What happened after that... is too painful to recall in full, so I will be brief.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 6549,
+    "TextENGNew": "Shortly after my mother left the house, my father convinced himself she had taken a lover and turned up at a neighbour's door with a wooden sword—and was arrested.",
+    "significantChanges": true,
+    "changeReason": "JPN 押しかけて暴れ = 'forced his way in and went on a rampage'; original drops the rampage detail, just saying he 'went over'.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 6550,
+    "TextENGNew": "He was released immediately, but convinced that someone nearby was hiding her, he repeated the same sort of behaviour several more times.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 6551,
+    "TextENGNew": "He started picking fights indiscriminately with anyone he met—and in the end, he got into it with a gang of young thugs on the street and was beaten to death.",
+    "significantChanges": true,
+    "changeReason": "JPN 誰彼の見境なく = 'indiscriminately/without distinction'; new captures this better. Also, 愚連隊もどき = 'quasi-gangsters/thugs' which new translates as 'gang of young thugs'.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 6552,
+    "TextENGNew": "...The funeral was arranged by relatives who stood in as chief mourners—my mother did not attend.",
+    "significantChanges": true,
+    "changeReason": "JPN 喪主は親類が務めてくれた = 'relatives served as chief mourner'; original adds 'decent' not in JPN and misses the specific role.",
+    "changeScore": 2
+  },
+  {
+    "index": 80,
+    "MessageID": 6553,
+    "TextENGNew": "One does not speak ill of the dead.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'beating a dead horse' (futile repetition) but JPN 死人に鞭は打たない means 'one does not speak ill of the dead.' Wrong idiom with different meaning.",
+    "changeScore": 4
+  },
+  {
+    "index": 81,
+    "MessageID": 6554,
+    "TextENGNew": "So no one reproached my father for what he had done—yet everyone was simply puzzled as to how such a taciturn man could have changed so utterly.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 6555,
+    "TextENGNew": "Hearing from the relatives about his final years revealed a picture far stranger than even what my mother had described.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 6556,
+    "TextENGNew": "What she had told me concerned only the sudden rages and outbursts of violence.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 6557,
+    "TextENGNew": "...But that, it turned out, was merely the most conspicuous symptom.",
+    "significantChanges": true,
+    "changeReason": "JPN says 極めて目立つ一面に過ぎなかった = 'was merely one extremely conspicuous aspect'; original incorrectly starts introducing relatives' testimony which is the next line.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 6558,
+    "TextENGNew": "There had also been laughter, and bouts of dejection.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 6559,
+    "TextENGNew": "...Apparently various emotions had erupted and shifted in him without warning—and this had been especially marked in his final years.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 6560,
+    "TextENGNew": "And they told me he had begun to suffer from severe headaches following a certain accident.",
+    "significantChanges": true,
+    "changeReason": "JPN 強い頭痛 = 'severe/strong headaches'; original's 'complain about headaches' understates the severity.",
+    "changeScore": 2
+  },
+  {
+    "index": 88,
+    "MessageID": 6561,
+    "TextENGNew": "...My father worked in construction.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 6562,
+    "TextENGNew": "He had once taken a powerful blow to the head from a timber beam at a worksite accident.",
+    "significantChanges": true,
+    "changeReason": "JPN 角材 = 'square timber/lumber beam'; original's 'construction board' is inaccurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 6563,
+    "TextENGNew": "He had apparently regained consciousness quickly and seemed none the worse for it, so the matter was simply left at that—but from the time of that accident onwards, his headaches and strange behaviour had begun to set in gradually.",
+    "significantChanges": true,
+    "changeReason": "Original severely truncates; JPN details that consciousness returned quickly, he seemed fine, so it was dismissed, but the headaches and abnormalities began gradually after. New preserves this progression.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 6564,
+    "TextENGNew": "I sensed a connection between that accident and the change in my father, and after returning to Tokyo I confided in my professor.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 6565,
+    "TextENGNew": "...Hmm.\nI cannot say with certainty, but given what you have described, I cannot rule out the possibility that something went wrong with your father's brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 6566,
+    "TextENGNew": "It is possible that the brain was damaged in the accident, causing an organic change in his mental state.\nThe symptoms your father showed in his final years are consistent with those we often observe in patients of that kind.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 6567,
+    "TextENGNew": "Human behaviour originates in the brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 6568,
+    "TextENGNew": "...When the brain is afflicted, behaviour becomes disordered.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 6569,
+    "TextENGNew": "In other words, my father was not a monster or a lunatic—he was simply an unfortunate patient.",
+    "significantChanges": true,
+    "changeReason": "JPN 異常者でもなんでもなく気の毒な患者 = 'not an abnormal person at all, just a pitiful patient'; new's 'not a monster or lunatic' better captures the social stigma.",
+    "changeScore": 3
+  },
+  {
+    "index": 97,
+    "MessageID": 6570,
+    "TextENGNew": "If you are able to perform an autopsy on him, it would be worth examining his brain carefully.\nYou might find something like a tumour.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 6571,
+    "TextENGNew": "But my father had already been cremated.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 6572,
+    "TextENGNew": "There was no way to confirm it, not anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 6573,
+    "TextENGNew": "But I was certain—everything about his condition left no room for doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 6574,
+    "TextENGNew": "There was simply no other way to explain how a man so quiet, so devoted to his family, so gently attentive to my mother, could have changed the way he did.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 6575,
+    "TextENGNew": "......I tried to explain it to the relatives in order to restore my father's name, but almost none of them accepted it.",
+    "significantChanges": true,
+    "changeReason": "JPN 納得してくれなかった means 'didn't accept/agree with it'; original's 'hardly anyone understood' implies comprehension failure while the issue was disbelief.",
+    "changeScore": 3
+  },
+  {
+    "index": 103,
+    "MessageID": 6576,
+    "TextENGNew": "If his brain had been seriously damaged, surely he would have died.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 6577,
+    "TextENGNew": "But he had been perfectly fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 6578,
+    "TextENGNew": "Therefore the accident could not have damaged his brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 6579,
+    "TextENGNew": "Besides, they insisted, what he became was rooted in his character as a person—it was a matter of the mind, not the brain, and they swept it aside with that convenient word.\nThey simply closed the matter.",
+    "significantChanges": true,
+    "changeReason": "New captures the JPN 心という都合のいい言葉 = 'the convenient word called heart/mind'; original misses this critique of how laypeople use 'mind' as a catch-all.",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 6580,
+    "TextENGNew": "...That was the limit of what ordinary people understood about the brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 6581,
+    "TextENGNew": "...They had no conception of the fact that what they called the mind is nothing more than what the organ called the brain produces.",
+    "significantChanges": true,
+    "changeReason": "JPN 脳という器官で作られるものに過ぎない = 'nothing more than what the organ called the brain produces'; new fully articulates this philosophical point that original truncates to 'the mind and brain are connected'.",
+    "changeScore": 3
+  },
+  {
+    "index": 109,
+    "MessageID": 6582,
+    "TextENGNew": "Most of the relatives would not believe me... and yet there was one person—just one—whom I desperately needed to convince.",
+    "significantChanges": true,
+    "changeReason": "JPN たったひとりだけ信じてほしい人 = 'one person I desperately wanted to believe me'; new captures the desperation while original's 'really wanted to' is understated.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 6583,
+    "TextENGNew": "......That was my mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 6584,
+    "TextENGNew": "As senility crept over her in her later years, her heart too seemed to narrow—and she began to speak of the abuse she had suffered with growing exaggeration.",
+    "significantChanges": true,
+    "changeReason": "JPN 心も少し狭くなり = 'her heart/mind also narrowed a bit'; original drops this nuanced psychological observation and just says 'grew senile'.",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 6585,
+    "TextENGNew": "...Every time she opened her mouth, it was to criticise my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 6586,
+    "TextENGNew": "And at the end, without fail, she would dissolve into tears, lamenting that she had ever married such a man.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 6587,
+    "TextENGNew": "...They had been such a devoted couple.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 6588,
+    "TextENGNew": "...We had been such a warm, close family...",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 6589,
+    "TextENGNew": "That was why, of everything, I could not give up on clearing my mother's misunderstanding about my father...",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 6590,
+    "TextENGNew": "All those things my father had done were nothing more than symptoms of his brain disorder.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 6591,
+    "TextENGNew": "...The cruelty he had inflicted on her was heartbreaking—but it was not something he had truly chosen or desired. I explained again and again that he was not truly at fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 6592,
+    "TextENGNew": "...But... my mother never, in the end, accepted that explanation.",
+    "significantChanges": true,
+    "changeReason": "JPN ついに納得してくれなかった = 'never in the end accepted'; original's 'didn't understand' implies inability while the JPN implies refusal/unwillingness.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 6593,
+    "TextENGNew": "In her final moments, before she drew her last breath, I begged her one last time to forgive my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 6594,
+    "TextENGNew": "But her last words were that she did not want her ashes laid to rest in the same grave as his...",
+    "significantChanges": true,
+    "changeReason": "JPN 骨は決して父と同じ墓に納めないで = 'never put my bones in the same grave as father'; new accurately refers to ashes/bones and the same grave, while original says 'bury me next to'.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 6595,
+    "TextENGNew": "......My father was not at fault.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 6596,
+    "TextENGNew": "He was simply—nothing more than a pitiful victim of a tragic affliction of the brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 6597,
+    "TextENGNew": "You would not scold a person for coughing when they have a cold.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 6598,
+    "TextENGNew": "Because a cough is simply a symptom—and what they deserve is sympathy, not reproach.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 6599,
+    "TextENGNew": "In my father's case, the symptom was not something as easily understood as a cough.\n...It took the form of a change in personality—something far harder to recognise for what it is.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 6600,
+    "TextENGNew": "If only I had studied the brain further, I could have explained it to my mother in greater detail and dispelled her misunderstanding of my father—\n...and perhaps, in the next world at least, they might have been restored to the devoted couple they once were.",
+    "significantChanges": true,
+    "changeReason": "JPN せめてあの世では元通りのおしどり夫婦に = 'at least in the next world, restored to their devoted couple'; original's casual 'a nice couple again in heaven' lacks the おしどり夫婦 idiom and the poignancy of せめて (at least).",
+    "changeScore": 3
+  },
+  {
+    "index": 128,
+    "MessageID": 6601,
+    "TextENGNew": "...When I realised that, I wept at my own powerlessness.",
+    "significantChanges": true,
+    "changeReason": "JPN 自分の無力さに泣いた = 'wept at my own powerlessness'; original drops 無力さ (powerlessness) which is the entire emotional point.",
+    "changeScore": 3
+  },
+  {
+    "index": 129,
+    "MessageID": 6602,
+    "TextENGNew": "And then I understood: in this world there are countless people in the same position as my father—patients who deserve sympathy, yet who are misunderstood and despised.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 6603,
+    "TextENGNew": "And that was when I learned of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 6604,
+    "TextENGNew": "I learned of 'psychosurgery'—a procedure that was drawing attention as a groundbreaking treatment for intractable mental illness and neurological disorders, and was being actively researched.",
+    "significantChanges": true,
+    "changeReason": "Old says 'miraculous cure called a lobotomy' but JPN says 'psychosurgery' (the broader field, not the specific procedure) and 'groundbreaking treatment' (not miraculous). Lobotomy is one type of psychosurgery; the generalization and overstatement are inaccurate but not opposite.",
+    "changeScore": 3
+  },
+  {
+    "index": 132,
+    "MessageID": 6605,
+    "TextENGNew": "From that day forward... I vowed to devote my life to studying the brain, and to saving those who had been wronged by a world that did not understand them.",
+    "significantChanges": true,
+    "changeReason": "JPN 誓った = 'vowed/swore'; original's 'I spent my days' loses the vow. Also, JPN 誤解された人々を救おう = 'save misunderstood people', not just 'people suffering from mental illnesses'.",
+    "changeScore": 3
+  },
+  {
+    "index": 133,
+    "MessageID": 6606,
+    "TextENGNew": "My father is no longer here.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 6607,
+    "TextENGNew": "...But if he were to appear before me now, as he had been in those final days, I would be able to treat him with my own hands.",
+    "significantChanges": true,
+    "changeReason": "JPN あの日の父がそこに現れたなら = 'if the father of those days appeared here'; original's simple 'if he was still alive' misses the hypothetical time-travel quality. Also 'cure' vs 'treat' (JPN 治療 = treatment, not necessarily cure).",
+    "changeScore": 3
+  },
+  {
+    "index": 135,
+    "MessageID": 6608,
+    "TextENGNew": "...And he and my mother could be reconciled.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 6609,
+    "TextENGNew": "That is my—",
+    "significantChanges": true,
+    "changeReason": "JPN それが、私の。 is an incomplete sentence trailing off ('That is my...'); original adds 'the main reason' which isn't in JPN. New correctly preserves the trailing quality.",
+    "changeScore": 2
+  },
+  {
+    "index": 137,
+    "MessageID": 6610,
+    "TextENGNew": "...The source of the passion that drives Kyousuke Irie along this path.",
+    "significantChanges": true,
+    "changeReason": "JPN 入江京介がこの道にかける情熱の原点 = 'the origin of the passion Kyousuke Irie devotes to this path'; original's 'why I am here' is a drastic oversimplification.",
+    "changeScore": 3
+  }
+]

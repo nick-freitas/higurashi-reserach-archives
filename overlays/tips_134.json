@@ -1,0 +1,139 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Faded Notebook II & III",
+    "significantChanges": true,
+    "changeReason": "English translation was missing; ENG field contained untranslated Japanese text.",
+    "changeScore": 5
+  },
+  {
+    "index": 1,
+    "MessageID": 16032,
+    "TextENGNew": "The Son of God prophesied that he would rise again on the third day.",
+    "significantChanges": true,
+    "changeReason": "Changes 'promised' to 'prophesied' (JPN 予言 = prophecy, not promise), and 'within three days' to 'on the third day' (JPN 三日の後に = after three days), altering both the nature of the speech act and the timing.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 16033,
+    "TextENGNew": "Sinners sealed the tomb with soldiers and kept watch to ensure his body would not return to life, but this was the height of foolishness.",
+    "significantChanges": true,
+    "changeReason": "The new translation adds the detail of sealing the tomb with soldiers (JPN 兵にて墓を封じ), which the original omitted entirely, and distinguishes between sealing and watching as separate actions.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 16034,
+    "TextENGNew": "For resurrection does not mean the revival of the flesh--it means the revival of one's spirit and teachings.",
+    "significantChanges": true,
+    "changeReason": "Changes from a specific attribution ('He meant') to a general philosophical statement about the nature of resurrection, matching the JPN general declarative form (復活とは...だからです).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 16035,
+    "TextENGNew": "Do not fear the death of the body.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 16036,
+    "TextENGNew": "If your contributions are unshakeable, you will surely be reborn.",
+    "significantChanges": true,
+    "changeReason": "Changes the condition from 'achieve great things' to 'contributions are unshakeable' (JPN 貢献が揺ぎ無い = contributions are unwavering), which shifts the criterion from achievement to enduring impact.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 16037,
+    "TextENGNew": "In that moment, you will transcend death and attain eternal life.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 16038,
+    "TextENGNew": "And then the devil took the Son of God to the edge of a cliff and told him to leap.",
+    "significantChanges": true,
+    "changeReason": "Changes 'A demon' to 'the devil' (JPN 悪魔 in biblical context refers to Satan/the devil specifically) and 'son of God' to 'Son of God,' shifting from a generic demon to the specific biblical adversary.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 16039,
+    "TextENGNew": "He claimed that if he was truly the Son of God, then God would perform a miracle to protect him.",
+    "significantChanges": true,
+    "changeReason": "Changes 'a son of God' to 'the Son of God' (unique title vs generic) and specifies 'God would perform a miracle to protect him' rather than a vague 'a miracle would help him survive,' making God the explicit agent as in the JPN (神は奇跡にてその身を守る).",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 16040,
+    "TextENGNew": "To put this to the test is to put God himself to the test.",
+    "significantChanges": true,
+    "changeReason": "Old misrepresents as narrative action ('He tried to challenge'); Japanese is a philosophical statement about testing God.",
+    "changeScore": 4
+  },
+  {
+    "index": 10,
+    "MessageID": 16041,
+    "TextENGNew": "God may test mankind, but mankind must never test God.",
+    "significantChanges": true,
+    "changeReason": "Changes 'challenge' to 'test' throughout (JPN 試す = to test/try, not challenge), which shifts the meaning from confrontation to verification/doubt.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 16042,
+    "TextENGNew": "To test is to doubt.",
+    "significantChanges": true,
+    "changeReason": "Changes 'challenge' to 'test' (JPN 試す) and 'suspect' to 'doubt' (JPN 疑う), correcting both key terms to more accurate translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 16043,
+    "TextENGNew": "Doubt will lend your ear to the devil's whispers and lead you into corruption.",
+    "significantChanges": true,
+    "changeReason": "Changes 'Suspicion' to 'Doubt' (JPN 疑い), 'speak words of evil' to 'the devil's whispers' (JPN 悪魔の囁き = devil's whispers), and 'falter' to 'corruption' (JPN 堕落 = corruption/depravity), significantly altering the theological imagery and severity.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 16044,
+    "TextENGNew": "Do not doubt your own achievements.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 16045,
+    "TextENGNew": "Do not doubt your own life.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 16046,
+    "TextENGNew": "Do not doubt your own contributions.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 16047,
+    "TextENGNew": "And do not put others' evaluation of your work to the test.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates: says preventing others from criticizing, but Japanese means one must not seek validation.",
+    "changeScore": 4
+  },
+  {
+    "index": 17,
+    "MessageID": 16048,
+    "TextENGNew": "For to test that is the same as doubting your very life.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 16049,
+    "TextENGNew": "Hifumi. T",
+    "significantChanges": false
+  }
+]

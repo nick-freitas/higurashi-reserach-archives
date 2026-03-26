@@ -1,0 +1,4376 @@
+[
+  {
+    "index": 1,
+    "MessageID": 2811,
+    "TextENGNew": "``Sniffle...@k@vS13/48/550100118. Sniffle, sniffle...@k@vS13/48/550100119. Sob, sob...``",
+    "significantChanges": true,
+    "changeReason": "At least one sentence completely rewritten with different content.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 2812,
+    "TextENGNew": "...How long had I been crying?",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 2813,
+    "TextENGNew": "...I didn't even know how long I'd been comforted like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 2814,
+    "TextENGNew": "My grandfather was gently resting his hand against my tear-streaked cheek.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 2815,
+    "TextENGNew": "...I held his hand lovingly, pressing my damp cheek against it.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 2816,
+    "TextENGNew": "``...Have you calmed down?``",
+    "significantChanges": true,
+    "changeReason": "Substantially reworded with different semantic content that could alter reader understanding.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 2817,
+    "TextENGNew": "``G... G... randpa...@k@vS13/48/550100121. Sniffle...@k@vS13/48/550100122. Waaaa... aaah...``",
+    "significantChanges": false,
+    "changeReason": "Reverted: shifted: TextENGNew truncated to just sniffle, missing Grandpa and crying",
+    "changeScore": 0
+  },
+  {
+    "index": 8,
+    "MessageID": 2818,
+    "TextENGNew": "My grandfather's warm hand stroked my hair.",
+    "significantChanges": true,
+    "changeReason": "Substantially reworded with different semantic content that could alter reader understanding.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 2819,
+    "TextENGNew": "It was the warmth of another person's hand that I'd been missing for so long...",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 2820,
+    "TextENGNew": "When I looked... I was in the middle of a pile of documents I'd been organizing.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 2821,
+    "TextENGNew": "It seemed like it had been a mistake to sort through materials while lying on the soft carpet.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 2822,
+    "TextENGNew": "...At some point, the repetitive work must have made me drowsy, and I'd ended up dozing off face down.",
+    "significantChanges": true,
+    "changeReason": "Old is truncated ('I must have fallen asleep'); new provides the full sentence about monotonous work causing drowsiness and falling asleep face down, matching the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 2823,
+    "TextENGNew": "And then... I'd had a painful dream I didn't need to remember.",
+    "significantChanges": true,
+    "changeReason": "Old omits 'I didn't need to remember' (思い出す必要のない) which is in the Japanese; new includes this detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 2824,
+    "TextENGNew": "\"If you sleep face down, it puts pressure on your chest and makes you more likely to have bad dreams.@k@vS13/00/550200106. ...It's gotten quite late.@k@vS13/00/550200107. Miyoko, go back to your room and sleep.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 2825,
+    "TextENGNew": "``I'm fine.@k@vS13/48/550100124. Ahaha, I took a nap, so I'm not sleepy anymore.@k@vS13/48/550100125. I'm almost done,@k@vS13/48/550100126. so I'm going to finish up, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 2826,
+    "TextENGNew": "``You have school tomorrow.@k@vS13/00/550200109. You should go to sleep, otherwise you'll get scolded for yawning again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 2827,
+    "TextENGNew": "I've been going to bed late recently.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 2828,
+    "TextENGNew": "Because of that, I yawn a lot at school.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 2829,
+    "TextENGNew": "My teacher must have written a note to my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 2830,
+    "TextENGNew": "``I'm fine.@k@vS13/48/550100128. I'll go to sleep as soon as I'm done.@k@vS13/48/550100129. So please let me finish, okay?@k@vS13/48/550100130. Besides, you shouldn't mind me!@k@vS13/48/550100131. Go back to your study and continue with your article!``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 2831,
+    "TextENGNew": "The day for him to present his findings is approaching.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 2832,
+    "TextENGNew": "He's been working so hard, devoting himself to his research, but there's unfortunately a limit to what an individual can do.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 2833,
+    "TextENGNew": "He needs a collaborator in order to go further with his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 2834,
+    "TextENGNew": "He has to explain that his investigation could be the key to solving the mysteries of human behavior, and make people understand just how important his work is.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 2835,
+    "TextENGNew": "But this research is about a very complicated subject,",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 2836,
+    "TextENGNew": "so he couldn't seek assistance from just anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 2837,
+    "TextENGNew": "Someone will be able to help him one day.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 2838,
+    "TextENGNew": "Believing that, my grandfather earnestly continued his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 2839,
+    "TextENGNew": "I want to help him more.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 2840,
+    "TextENGNew": "But all I can do is sort through his data and tidy up his materials.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 2841,
+    "TextENGNew": "I also assist him around the house so he can concentrate more on his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 2842,
+    "TextENGNew": "He always tells me how helpful I am, but that isn't enough for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 2843,
+    "TextENGNew": "I will study hard,@k get into a good college,@k and learn many things@k so I can actually be of assistance to his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 2844,
+    "TextENGNew": "I'm a mediocre student right now, and I don't particularly like school, but I will do it.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 2845,
+    "TextENGNew": "I want to help my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 2846,
+    "TextENGNew": "If...",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 2847,
+    "TextENGNew": "If his heart were to fail and he couldn't continue his research...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 2848,
+    "TextENGNew": "I wouldn't hesitate to cut open my chest and offer my heart up for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 2849,
+    "TextENGNew": "If he needs lungs, I'll give him my lungs.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 2850,
+    "TextENGNew": "If any of his organs fail, I'll give him mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 2851,
+    "TextENGNew": "...There's nothing strange about those feelings.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 2852,
+    "TextENGNew": "They're perfectly normal ones.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 2853,
+    "TextENGNew": "...For if he had found me even a day later...",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 2854,
+    "TextENGNew": "I might not have been alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 2855,
+    "TextENGNew": "...Or even if I lived, it would either be without my body intact...@k or with my mind lost to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 2856,
+    "TextENGNew": "In other words, I'm alive because my grandfather came to save me.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 2857,
+    "TextENGNew": "...If he hadn't rushed to find me, I wouldn't be here.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 2858,
+    "TextENGNew": "So I won't hesitate to give up my life for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 2859,
+    "TextENGNew": "Moreover, I'd be more than happy to do that.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 2860,
+    "TextENGNew": "Even though I want to be with him forever, human lives aren't immortal.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 2861,
+    "TextENGNew": "Just like how my parents died,@k it happens so suddenly without any warning.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 2862,
+    "TextENGNew": "I will never heal from my parents' deaths.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 2863,
+    "TextENGNew": "But now that I have my grandfather,",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 2864,
+    "TextENGNew": "I'm not sad.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 2865,
+    "TextENGNew": "However, his existence isn't eternal, either.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 2866,
+    "TextENGNew": "He may disappear all of a sudden for any unexpected reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 2867,
+    "TextENGNew": "Just like my parents...",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 2868,
+    "TextENGNew": "That's why I wish to be part of him.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 2869,
+    "TextENGNew": "That way, no matter what happens, we will be together forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 2870,
+    "TextENGNew": "I don't want to be alone ever again.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 2871,
+    "TextENGNew": "I want to be with my grandfather forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 2872,
+    "TextENGNew": "I want to help him forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 2873,
+    "TextENGNew": "``...Okay.@k@vS13/00/550200111. Then be sure to go to sleep after you finish this, okay?@k@vS13/00/550200112. Promise?``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 2874,
+    "TextENGNew": "``Yep. I promise!``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 2875,
+    "TextENGNew": "We pinky promised, after that.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 2876,
+    "TextENGNew": "We smiled at each other, and my grandfather went back to his study.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 2877,
+    "TextENGNew": "The dried-up tears are making my cheeks itch.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 2878,
+    "TextENGNew": "I headed to the bathroom to wash my face and brush my teeth.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 2879,
+    "TextENGNew": "I looked at my face in the mirror.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 2880,
+    "TextENGNew": "...None of my grandfather's features are recognizable on my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 2881,
+    "TextENGNew": "Of course they aren't.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 2882,
+    "TextENGNew": "We're not related.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 2883,
+    "TextENGNew": "He must have a family too, but I've never heard about them.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 2884,
+    "TextENGNew": "He doesn't seem to want to talk about that subject, so I don't ever ask him about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 2885,
+    "TextENGNew": "I don't care if he has real grandchildren or not.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 2886,
+    "TextENGNew": "Even if I'm not related to him,",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 2887,
+    "TextENGNew": "I'm a granddaughter of Hifumi Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 2888,
+    "TextENGNew": "I'm not just a granddaughter, either.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 2889,
+    "TextENGNew": "I want to be more than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 2890,
+    "TextENGNew": "I don't want a parent and child relationship, nor a lovers' relationship. Nothing like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 2891,
+    "TextENGNew": "...I want something more certain that binds our souls,",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 2892,
+    "TextENGNew": "something that not even a tragedy can destroy.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 2893,
+    "TextENGNew": "I am Miyoko Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 2894,
+    "TextENGNew": "Hifumi Takano's granddaughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 2895,
+    "TextENGNew": "...Maybe it should be 'Miyo' instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 2896,
+    "TextENGNew": "...That's what my grandfather sometimes calls me.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 2897,
+    "TextENGNew": "I want to succeed Hifumi's spirit.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 2898,
+    "TextENGNew": "Since his name counts from one to three... I want us to share that ``three`` and be the fourth in his line.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 2899,
+    "TextENGNew": "Today, my name changes.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 2900,
+    "TextENGNew": "I wrote that new name in the mirror.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 2901,
+    "TextENGNew": "Miyo Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 2902,
+    "TextENGNew": "What a wonderful name for the new me.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 2903,
+    "TextENGNew": "``Colonel, sir!@k@vS13/00/550200114. Good to see you again!``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 2904,
+    "TextENGNew": "``Takano-kun!@k@vS13/00/550300100. Come on, no more Colonel stuff, no, no!@k@vS13/00/550300101. I was worried when I heard you were ill...@k@vS13/00/550300102. You sure look great now!``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 2905,
+    "TextENGNew": "````Waaaahahahahahahahahahaha!!````",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 2906,
+    "TextENGNew": "My grandfather always told me he doesn't have any friends.@k He used to tell me everyone died in the war.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 2907,
+    "TextENGNew": "But that's not true.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 2908,
+    "TextENGNew": "He has one very close friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 2909,
+    "TextENGNew": "This is him. He's an elderly man my grandfather calls Colonel Koizumi.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 2910,
+    "TextENGNew": "I don't know exactly where they met, but every time they get together, all they talk about is the military and the war.@k So I guess that's where they met.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 2911,
+    "TextENGNew": "``Look at you, Miyo-chan!@k@vS13/00/550300105. How tall are you now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 2912,
+    "TextENGNew": "``Hmm... we just had a physical checkup the other day@k@vS13/48/550100134. and I think I've grown two centimeters!``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 2913,
+    "TextENGNew": "``That's wonderful!@k@vS13/00/550300107. Good girl!@k@vS13/00/550300108. Make sure you eat well, play a lot, and grow big and healthy!@k@vS13/00/550300109. I envy you, Takano-kun, for having such a cute granddaughter...``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 2914,
+    "TextENGNew": "Mr. Koizumi knows that my grandfather and I aren't related, but he always calls me his granddaughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 2915,
+    "TextENGNew": "That makes me very happy, so I poured a little more black tea in his cup.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 2916,
+    "TextENGNew": "After I finished serving tea, I left with a bow.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 2917,
+    "TextENGNew": "I want to stay and listen to them talk,@k but I guess my grandfather doesn't want me to hear stories of the war, so he always makes me leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 2918,
+    "TextENGNew": "I left before I was told to.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 2919,
+    "TextENGNew": "But having to leave doesn't mean I need to go to a different room.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 2920,
+    "TextENGNew": "I just headed to the other side of this huge living room instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 2921,
+    "TextENGNew": "Although I'm not right by them, I can still sit on a sofa and listen to their conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 2922,
+    "TextENGNew": "And if they need something, I can come help them right away.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 2923,
+    "TextENGNew": "...I try to earn points that way to prove I'm useful.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 2924,
+    "TextENGNew": "I sat on a sofa away from them and started reading an encyclopedia.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 2925,
+    "TextENGNew": "While doing that, I tried to listen to their conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 2926,
+    "TextENGNew": "``That's great!@k@vS13/00/550300111. The professors said they want to come over on Sunday, the week after next!``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 2927,
+    "TextENGNew": "``Really?@k@vS13/00/550200117. Thank you very much, Koizumi-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 2928,
+    "TextENGNew": "``Don't mention it!@k@vS13/00/550300113. This just means the report you wrote was that interesting, Takano-kun.@k@vS13/00/550300114. They're showing a lot of interest.@k@vS13/00/550300115. They even said it's possible that this research could receive the Nobel Prize.``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 2929,
+    "TextENGNew": "``A Nobel Prize...?!@k@vS13/00/550200119. Hahaha, that sounds wonderful!``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 2930,
+    "TextENGNew": "My grandfather laughed.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 2931,
+    "TextENGNew": "Since he laughed so cheerfully,",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 2932,
+    "TextENGNew": "something great must have happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 2933,
+    "TextENGNew": "...Mr. Koizumi must have shown the society the essay my grandfather was about to announce and gauged their reactions.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 2934,
+    "TextENGNew": "And supposedly, they found it extremely interesting.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 2935,
+    "TextENGNew": "That means they recognized the value of my grandfather's research.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 2936,
+    "TextENGNew": "That makes me happy, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 2937,
+    "TextENGNew": "``But what worries me is that you'll get infected with the syndrome yourself.@k@vS13/00/550300117. Make sure you don't end up clawing out your own throat, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 2938,
+    "TextENGNew": "``Well, maybe I'm already infected...@k@vS13/00/550200121. But Hinamizawa Syndrome is harmless if you live a normal life.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 2939,
+    "TextENGNew": "It was a dangerous disease back when the villagers believed in Oyashiro-sama and bound themselves with strict rules.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 2940,
+    "TextENGNew": "...But those have faded over time, and now people rarely show symptoms unless something major happens.``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 2941,
+    "TextENGNew": "``After that many cases?``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 2942,
+    "TextENGNew": "``A patient's emotional state has a lot to do with how the syndrome develops.@k@vS13/00/550200125. As long as you live a normal life, there's nothing to worry about.``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 2943,
+    "TextENGNew": "``So when one is under a lot of pressure, like during the war, the disease gets worse...``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 2944,
+    "TextENGNew": "``That's right.@k@vS13/00/550200127. Well... There's nothing to worry about.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 2945,
+    "TextENGNew": "The subjective symptom of the initial stages is a paranoia akin to that in depression.@k@vS13/00/550200129. Once you notice it happening, you can teach yourself to relax emotionally and physically by using my breathing method, and you should also get at least nine hours of sleep a night over a one week period!@k@vS13/00/550200130. That's how you prevent it from worsening.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 2946,
+    "TextENGNew": "In fact, of all the Hinamizawan soldiers under my direction, not even one died mysteriously.``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 2947,
+    "TextENGNew": "As he talks, grandfather started demonstrating the Takano Breathing Method and a bizarre exercise technique.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 2948,
+    "TextENGNew": "According to him, this technique relaxes the body and lets blood and lymphatic fluid flow smoothly. As a result, you relax emotionally, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 2949,
+    "TextENGNew": "But the movements involved in the technique are so weird... I had to look away because my grandfather looked so silly.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 2950,
+    "TextENGNew": "......That was the one thing about his research that I felt bad about.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 2951,
+    "TextENGNew": "Oh...",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 2952,
+    "TextENGNew": "Grandfather asked me to do this exercise, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 2953,
+    "TextENGNew": "I don't want to make him sad so I do it when instructed.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 2954,
+    "TextENGNew": "``Hmm. I'm glad to hear that.@k@vS13/00/550300121. There have been many medical researchers who have died from their research subjects in the past..@k@vS13/00/550300122. So please be careful, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 2955,
+    "TextENGNew": "``But the greatness of their sacrifice for research will remain unshaken even after their deaths.@k@vS13/00/550200133. As a researcher, I'm sure that was their long term goal.``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 2956,
+    "TextENGNew": "My grandfather had often told me stories of researchers who devoted their lives to the study of medicine.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 2957,
+    "TextENGNew": "A researcher losing his life for his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 2958,
+    "TextENGNew": "Sometimes that is a test of a researcher's courage.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 2959,
+    "TextENGNew": "In that sense, grandfather is very brave to visit Hinamizawa himself to gather information.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 2960,
+    "TextENGNew": "He himself says he may already be infected.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 2961,
+    "TextENGNew": "Although, my grandfather estimates from ancient texts that the Hinamizawa Syndrome was only a menace centuries ago,@k and now it's no different from the usual bacteria that share a symbiosis with humans.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 2962,
+    "TextENGNew": "Many people became ill with the disease during the war, but that was because they were in an extremely abnormal situation.@k In today's peaceful environment, it's almost impossible for a person to develop symptoms.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 2963,
+    "TextENGNew": "He sounds very optimistic, but he never brought me with him to Hinamizawa, so maybe he isn't as optimistic as all that.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 2964,
+    "TextENGNew": "However, since I live with him, there is a possibility that I'm already infected as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 2965,
+    "TextENGNew": "But I'm not worried at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 2966,
+    "TextENGNew": "That's because my grandfather has taught me that as long as I maintain myself physically and emotionally, I won't develop any symptoms.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 2967,
+    "TextENGNew": "I know all about the horrible terminal symptoms of Hinamizawa Syndrome, but I'm not overly fearful of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 2968,
+    "TextENGNew": "Grandfather is enjoying his conversation with Mr. Koizumi.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 2969,
+    "TextENGNew": "That's understandable.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 2970,
+    "TextENGNew": "Mr. Koizumi told him some people showed great interest in his report.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 2971,
+    "TextENGNew": "They even want to come over on Sunday, the week after next, to meet and talk to him directly.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 2972,
+    "TextENGNew": "With the rapid advance of modern medicine, unexplored frontiers are steadily dwindling.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 2973,
+    "TextENGNew": "...Was it possible the Hinamizawa Syndrome my grandfather discovered might be a new continent in the field?",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 2974,
+    "TextENGNew": "It'll be decided in two weeks.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 2975,
+    "TextENGNew": "It sounds like there will be more than one person coming.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 2976,
+    "TextENGNew": "And it also sounds like they're all important people in the society.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 2977,
+    "TextENGNew": "They're all rich and famous, yet they aren't satisfied with just that. They all want to be involved with something that's worth an international award.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 2978,
+    "TextENGNew": "This is a chance to gain assistance and sponsorship at the same time.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 2979,
+    "TextENGNew": "``I'll see you in two weeks.@k@vS13/00/550300124. I'll make sure to be here.@k@vS13/00/550300125. Good luck!``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 2980,
+    "TextENGNew": "``Thank you very much.@k@vS13/00/550200135. I owe you everything...``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 2981,
+    "TextENGNew": "``Hahahaha.@k@vS13/00/550300127. It's too early to say that. Let's wait until you find some sponsors.@k@vS13/00/550300128. When that time comes, let's have a toast with that treasured wine of yours!``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 2982,
+    "TextENGNew": "That was the last of their conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 2983,
+    "TextENGNew": "My grandfather kept his head bowed until Mr. Koizumi was gone.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 2984,
+    "TextENGNew": "It sounded like he set up this great chance for my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 2985,
+    "TextENGNew": "So I bowed my head just like him.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 2986,
+    "TextENGNew": "``Did you hear that?@k@vS13/00/550200137. Finally there's a chance for me.@k@vS13/00/550200138. There are people who are interested in my report.``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 2987,
+    "TextENGNew": "``I know, I heard!@k@vS13/48/550100136. Now you'll have people to fund you and people to help with your research!``",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 2988,
+    "TextENGNew": "``Well, that's not set in stone yet.@k@vS13/00/550200140. Hahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 2989,
+    "TextENGNew": "Although he didn't want to admit it,",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 2990,
+    "TextENGNew": "he had a good feeling about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 2991,
+    "TextENGNew": "The research he had conducted all alone was finally about to gain recognition.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 2992,
+    "TextENGNew": "``Sunday, the week after next?``",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 2993,
+    "TextENGNew": "``Quite! I'll be busy.@k@vS13/00/550200142. Their first impression depends on my presentation!@k@vS13/00/550200143. I have to rearrange my data... no, I probably should practice explaining things in front of people.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 2994,
+    "TextENGNew": "Anyway, I have to make sure I don't forget anything!``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 2995,
+    "TextENGNew": "``Boy, it'll be a lot of work to rearrange your data.@k@vS13/48/550100139. Your handwriting is bad, so maybe you should write bigger.``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 2996,
+    "TextENGNew": "``Mmm...@k@vS13/00/550200146. Anyway, I'll be busy!@k@vS13/00/550200147. The next two weeks will go by fast!``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 2997,
+    "TextENGNew": "``You're right!@k@vS13/48/550100141. I'll help you, too.@k@vS13/48/550100142. All the formalin jars have to be dusted.@k@vS13/48/550100143. Also, we'll need to straighten our rolled up documents. Do you think leaving them laid out under the rug overnight would fix it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 2998,
+    "TextENGNew": "``Hmmm...@k@vS13/00/550200149. We have plenty of things to do!@k@vS13/00/550200150. Miyo, could you help me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 2999,
+    "TextENGNew": "``Of course!@k@vS13/48/550100145. I'll skip school for it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 3000,
+    "TextENGNew": "``No, you can't miss school!``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 3001,
+    "TextENGNew": "We laughed together, thrust our fists into the air, and motivated ourselves to work hard toward the week after next.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 3002,
+    "TextENGNew": "Since that day, my grandfather spent more time in his study.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 3003,
+    "TextENGNew": "It's not easy to create a report that you're going to show other people.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 3004,
+    "TextENGNew": "Copying machines hadn't been invented back then,",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 3005,
+    "TextENGNew": "so everything had to be handwritten.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 3006,
+    "TextENGNew": "He knows it's somewhere, but he just can't remember where he put the data he needs.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 3007,
+    "TextENGNew": "As for me, I have to make sure I have enough guest cups to serve tea, so I'm counting them.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 3008,
+    "TextENGNew": "Do I have enough tea leaves?",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 3009,
+    "TextENGNew": "Maybe I should get something to go with tea...",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 3010,
+    "TextENGNew": "My grandfather knows nothing about these things.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 3011,
+    "TextENGNew": "There's a whole list of chores to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 3012,
+    "TextENGNew": "I need to clean the windows so the room will be bright... what else?",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 3013,
+    "TextENGNew": "The two weeks pass quickly while we busy ourselves getting things done.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 3014,
+    "TextENGNew": "What a wonderful two weeks it is. I can finally feel that I'm actually doing something to help my grandfather with his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 3015,
+    "TextENGNew": "I hope the day of the meeting will be a memorable one for my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 3016,
+    "TextENGNew": "I hope that day will be a beautiful and clear one.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 3017,
+    "TextENGNew": "Just as I wished, the day is beautiful.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 3018,
+    "TextENGNew": "Evening.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 3019,
+    "TextENGNew": "My grandfather, having dressed formally, paced around his study nervously.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 3020,
+    "TextENGNew": "I'm also in a beautiful dress. I've only worn it once before, at my piano recital.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 3021,
+    "TextENGNew": "But I'm not nervous like my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 3022,
+    "TextENGNew": "His silly nervousness actually relaxes me.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 3023,
+    "TextENGNew": "Are they here yet?",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 3024,
+    "TextENGNew": "Grandfather looked out the window.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 3025,
+    "TextENGNew": "Then a black car stopped in front of the gate.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 3026,
+    "TextENGNew": "Back then, a car was a luxury item.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 3027,
+    "TextENGNew": "I don't think I had even one classmate whose family owned a car.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 3028,
+    "TextENGNew": "So it only makes sense that the men coming out of the car look respectable.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 3029,
+    "TextENGNew": "Grandfather and I ran out to welcome them.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 3030,
+    "TextENGNew": "``Welcome.@k@vS13/00/550200153. I'm Takano.@k@vS13/00/550200154. Thank you for coming today...``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 3031,
+    "TextENGNew": "``May I take your jacket?``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 3032,
+    "TextENGNew": "I greeted them and filled the role we decided ahead of time.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 3033,
+    "TextENGNew": "Though my being relaxed by my grandfather's silliness ended at that point.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 3034,
+    "TextENGNew": "...Both my grandfather and I were stiff with anxiety as we greeted them now that the moment was here.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 3035,
+    "TextENGNew": "``Nice to meet you, doctor.@k@vS13/00/552000002. And hello, young lady.@k@vS13/00/552000003. Are you his granddaughter?``",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 3036,
+    "TextENGNew": "``Yes.@k@vS13/00/550200156. Miyo, please say hello.``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 3037,
+    "TextENGNew": "``Very nice to meet you.@k@vS13/48/550100148. I'm Miyo Takano.``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 3038,
+    "TextENGNew": "``What a good girl.@k@vS13/00/552000005. I'm here in place of Koizumi-sensei.@k@vS13/00/552000006. Something came up and he can't make it today.@k@vS13/00/552000007. He's very sorry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 3039,
+    "TextENGNew": "``I see.@k@vS13/00/550200158. I'm sorry to hear that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 3040,
+    "TextENGNew": "The person who set up everything isn't here.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 3041,
+    "TextENGNew": "My grandfather even had his treasured wine ready, just as they promised two weeks ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 3042,
+    "TextENGNew": "``Everyone, let me introduce you...@k@vS13/00/552000009. This is Dr. Hifumi Takano.@k@vS13/00/552000010. Dr. Takano was a leading member of the Research Center for the Prevention of Epidemics in Manchuria during the war.``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 3043,
+    "TextENGNew": "``...Nice to meet you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 3044,
+    "TextENGNew": "``Pleasure to meet you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 3045,
+    "TextENGNew": "``Thank you for having me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 3046,
+    "TextENGNew": "The men are even older than my grandfather. They take off their hats one at a time to greet him.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 3047,
+    "TextENGNew": "Their beards, expensive-looking canes, and glasses tell me they are very high up in the society.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 3048,
+    "TextENGNew": "Grandfather bows to each one of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 3049,
+    "TextENGNew": "``Everyone, please come into the study.@k@vS13/00/550200160. Ah, please excuse the mess.@k@vS13/00/550200161. Come in, come in...@k@vS13/00/550200162. Miyo, serve tea for everyone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 3050,
+    "TextENGNew": "``Yes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 3051,
+    "TextENGNew": "I wasn't nervous at all earlier.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 3052,
+    "TextENGNew": "But now, I think I'm the most nervous one.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 3053,
+    "TextENGNew": "I'm not the one making the presentation, and I'm not the one being evaluated, so it's ridiculous that I'm feeling so nervous.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 3054,
+    "TextENGNew": "I don't know if I should use that as my excuse...",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 3055,
+    "TextENGNew": "...But I was so nervous that I knocked over the thermos I had filled to the brim with hot water, and ruined the black tea I'd chosen specifically for this day.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 3056,
+    "TextENGNew": "I apologized to my grandfather and started to boil water again.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 3057,
+    "TextENGNew": "I just need enough for the guests.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 3058,
+    "TextENGNew": "By the time I had cups of tea and cookies ready, grandfather's presentation was at its key part.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 3059,
+    "TextENGNew": "``It pierces the blood or lymph vessels and spreads to the spinal cord, and from there it travels along the cerebrospinal fluid to the brain.@k@vS13/00/550200164. I've confirmed many cases of encephalitis after autopsies.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 3060,
+    "TextENGNew": "Eosinophilic meningoencephalitis is known to be caused by roundworm, and we predict its behavior to be extremely similar,``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 3061,
+    "TextENGNew": "Grandfather said, walking between samples in formalin jars and pointing to several as he gave his explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 3062,
+    "TextENGNew": "There are over a hundred formalin jars in here with parts of brains in them.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 3063,
+    "TextENGNew": "They were all very dusty, so I spent a few days cleaning them.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 3064,
+    "TextENGNew": "I am rather proud to see the sparking jars all lined up like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 3065,
+    "TextENGNew": "``However, there is a wide range of symptoms these viruses can cause.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 3066,
+    "TextENGNew": "Therefore, in many cases, the initial diagnosis cannot be determined to be caused by a virus. On the other hand, symptoms of Hinamizawa Syndrome are very specific to that disease.``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 3067,
+    "TextENGNew": "``You're saying one of them is to claw out one's own throat, yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 3068,
+    "TextENGNew": "``Exactly.@k@vS13/00/550200169. Some soldiers witnessed it just before their fellows died.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 3069,
+    "TextENGNew": "Such self-mutilation was never seen before in any disease.@k@vS13/00/550200171. It only occurs in Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 3070,
+    "TextENGNew": "Also, since that symptom was only seen with terminal stage patients, I believe that's a means of exodus, something we've seen before in several infectious diseases.",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 3071,
+    "TextENGNew": "Viruses mature inside of an organism, reproduce, then leave the host and look for the next one.``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 3072,
+    "TextENGNew": "``So what do you think about the fact that the cases were only seen in the soldiers from Hinamizawa?@k@vS13/00/552100003. If the local soldiers, who had no knowledge of quarantine, had been exposed to it, they could have been infected as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 3073,
+    "TextENGNew": "Don't you think there was a possibility of them getting infected?``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 3074,
+    "TextENGNew": "``I suspected things like an incubation period, @k@vS13/00/550200175. but since it was limited to people from the Hinamizawa region, I believe something such as the unique local climate must play a role.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 3075,
+    "TextENGNew": "I'll talk about that in the next part, but the ancient, indigenous beliefs of Hinamizawa have...``",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 3076,
+    "TextENGNew": "``That can't be possible, Dr. Takano.@k@vS13/00/552200003. I've never heard of a virus being social.``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 3077,
+    "TextENGNew": "``Yes, well, that is one of the revolutionary discoveries in the Hinamizawa Syndrome...``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 3078,
+    "TextENGNew": "The elderly gentlemen mumbled to each other while pointing at the data.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 3079,
+    "TextENGNew": "With that, I finally realize things aren't going too well.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 3080,
+    "TextENGNew": "``Dr. Takano, I've been reviewing your data while listening to your gracious presentation.@k@vS13/00/552300003. First of all, it is simply impossible for viruses to control human minds.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 3081,
+    "TextENGNew": "Human thoughts are controlled by the brain, which is a work of art created by God.@k@vS13/00/552300005. Furthermore, ideology is an extremely advanced aspect of human thought. It's an advanced capability bestowed only to humans on this planet.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 3082,
+    "TextENGNew": "Yet you would say viruses intervene in that?!@k@vS13/00/552300007. Please, that's absurd.``",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 3083,
+    "TextENGNew": "``I agree. Ideology can also be considered a manner of thought that prioritizes the whole over the individual.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 3084,
+    "TextENGNew": "In other words, that's the most important prerequisite condition for a society.@k@vS13/00/552100007. There's no way viruses would be gifted with that, when their only demand is to pass on their genes.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 3085,
+    "TextENGNew": "In the field of biology, there has never once been a discovery of sociality or eusociality within viruses.``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 3086,
+    "TextENGNew": "``B-But, there are cases of different life forms interfering with the host's behavior...``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 3087,
+    "TextENGNew": "``You're misunderstanding one thing, Dr. Takano.@k@vS13/00/552200005. The principle that drives viruses capable of controlling their host is always reproduction and propagation. It's only that primitive concept.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 3088,
+    "TextENGNew": "``That's just like a grasshopper infected with a horsehair worm drowning itself.@k@vS13/00/552100010. Once a horsehair worm matures, it becomes aquatic.@k@vS13/00/552100011. When that happens, it guides a grasshopper to the water and drowns it, then enters the environment it's adapted for.``",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 3089,
+    "TextENGNew": "``...E-Exactly.@k@vS13/00/550200180. The suicidal act of clawing out one's throat corresponds to that in the case of Hinamizawa Syndrome.@k@vS13/00/550200181. For example, guinea worms escape the body by having the host scratch the affected area.``",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 3090,
+    "TextENGNew": "``Indeed. The purpose of all these viruses is reproduction.@k@vS13/00/552300009. For them to infest the brain, God's masterpiece,@k@vS13/00/552300010. ...No, no, infecting the brain itself isn't that strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 3091,
+    "TextENGNew": "...But to say they infest it and influence human ideology is frankly delusional.@k@vS13/00/552300012. In fact, that's a dangerous idea.``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 3092,
+    "TextENGNew": "``I don't think it's that strange that Hinamizawa, an isolated culture, developed its own unique faith.@k@vS13/00/552000013. There are actually many examples of that all over Japan.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 3093,
+    "TextENGNew": "So are you saying all of them were due to viruses?@k@vS13/00/552000015. Or that they were all due to cultural reasons, except the one in Hinamizawa, which was caused by viruses?@k@vS13/00/552000016. How do you establish the distinction?``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 3094,
+    "TextENGNew": "``W-Well,@k@vS13/00/550200183. as I said, in my autopsies on the Hinamizawan soldiers who died in the war, there was sufficient evidence to believe...``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 3095,
+    "TextENGNew": "``Excuse me, Dr. Takano.@k@vS13/00/552200007. I don't think you've gathered enough case studies to call it clinical data.@k@vS13/00/552200008. Furthermore, as you said, it was during the war.``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 3096,
+    "TextENGNew": "``No, I mean,@k@vS13/00/550200185. as I explain in the next part, Hinamizawa Syndrome develops when one experiences suspicion, nervousness, and stress, and becomes emotionally unbalanced...``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 3097,
+    "TextENGNew": "``I think it's a unique approach to suspect some manner of commonality if there were several cases of unique and bizarre self-mutilation such as clawing one's throat out.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 3098,
+    "TextENGNew": "Yet, that's all the more reason it's unreliable.@k@vS13/00/552100014. Maybe it was just a coincidence that such rare cases happened under abnormal circumstances like the war.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 3099,
+    "TextENGNew": "I believe you witnessed the convergence of coincidences, and trapped in a gestaltist view, deluded yourself into finding a pattern.``",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 3100,
+    "TextENGNew": "``To prove otherwise, you would need an enormous amount of clinical data on Hinamizawa Syndrome patients.@k@vS13/00/552200010. But ethically, that's impossible to prove...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 3101,
+    "TextENGNew": "``The natives' act of recognizing it as a curse suggests it's more within the realm of culture-bound syndromes.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 3102,
+    "TextENGNew": "In contrast, the virus can take over your consciousness...",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 3103,
+    "TextENGNew": "I hate to say this, but I think you admire the beliefs of the Hinamizawans a little too much, and as a result, you yourself have been taken in by their culture-bound reactive syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 3104,
+    "TextENGNew": "Actually, that happens quite often with people who research more unusual fields of study.@k@vS13/00/552000021. We're trying to be careful ourselves.``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 3105,
+    "TextENGNew": "````Ha ha ha ha ha ha...````",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 3106,
+    "TextENGNew": "The more they talk, the paler my grandfather's face becomes.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 3107,
+    "TextENGNew": "I was just stunned, myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 3108,
+    "TextENGNew": "We've never heard of viruses like that. That's impossible.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 3109,
+    "TextENGNew": "It was just a coincidence and there isn't enough data.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 3110,
+    "TextENGNew": "The talk goes on and on and every time grandfather says something, they dismiss it like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 3111,
+    "TextENGNew": "...Before he knew it, my grandfather could only hold his silence before their criticisms.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 3112,
+    "TextENGNew": "``Well, no revolutionary discovery is accepted at first.@k@vS13/00/552000023. Maybe this research of yours is one of those things.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 3113,
+    "TextENGNew": "Even if it's ridiculed at first, it may achieve recognition in later years. That happens all the time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 3114,
+    "TextENGNew": "``I...@k@vS13/00/550200187. I'm just an amateur.@k@vS13/00/550200188. I'm just a private researcher who didn't graduate from an elite college, nor do I belong to any academic clique.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 3115,
+    "TextENGNew": "I don't have any connections with experts or research centers.@k@vS13/00/550200190. That's why this is all I can do.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 3116,
+    "TextENGNew": "Is the Hinamizawa Syndrome real,@k@vS13/00/550200192. or is it just my delusion, just like you all say it is?@k@vS13/00/550200193. To find out, I need your help.``",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 3117,
+    "TextENGNew": "``Of course, if this was the discovery of the century, it would create a major uproar.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 3118,
+    "TextENGNew": "After all, you're suggesting that human culture and ideology is all the will of microorganisms, and our frontal lobe is a place for them to live.@k@vS13/00/552200014. Hahaha, what an audacious theory.``",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 3119,
+    "TextENGNew": "``If a link between the existence of this Hinamizawa Syndrome and the disease carriers' belief in Oyashiro-sama could be established,",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 3120,
+    "TextENGNew": "then it would be possible to explain all religions, no, all cultural divisions on Earth.``",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 3121,
+    "TextENGNew": "``What a magnificent and unique idea.@k@vS13/00/552000026. Dr. Takano, instead of showing people like us your essays in secret, you should publish a book about it for the general public.``",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 3122,
+    "TextENGNew": "Grandfather looks at the ground, his fists trembling a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 3123,
+    "TextENGNew": "But... their words were far too cruel.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 3124,
+    "TextENGNew": "I don't know anything about academics. I'm just a little girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 3125,
+    "TextENGNew": "I don't know exactly what they're talking about, but...",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 3126,
+    "TextENGNew": "Grandfather worked so hard by himself until today.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 3127,
+    "TextENGNew": "But to prove his research and delve further into it, he needs sponsors.",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 3128,
+    "TextENGNew": "Yet those sponsors are casting him away, calling his research a delusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 3129,
+    "TextENGNew": "That's outrageous.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 3130,
+    "TextENGNew": "Like asking which came first, the chicken or the egg.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 3131,
+    "TextENGNew": "Besides, if his research was at the level those cheeky men want to see, he wouldn't need their help.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 3132,
+    "TextENGNew": "But they're saying that they can't help him unless they see some results that are beyond the level of private research.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 3133,
+    "TextENGNew": "In any field, doesn't research always start out with just a little idea?",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 3134,
+    "TextENGNew": "If you can prove its existence beforehand, then what's the point of researching it to begin with?",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 3135,
+    "TextENGNew": "If a wild idea can't be the subject of research, how did we gain any knowledge at all?",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 3136,
+    "TextENGNew": "But never mind that...",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 3137,
+    "TextENGNew": "When Mr. Koizumi came two weeks ago, didn't he say they were really interested in his research?",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 3138,
+    "TextENGNew": "What's going on? This is the complete opposite of what he said!",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 3139,
+    "TextENGNew": "``Yes.@k@vS13/00/552000028. I think this is very interesting research.@k@vS13/00/552000029. The human brain still holds many secrets.``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 3140,
+    "TextENGNew": "``Dr. Takano's idea is an extremely unique one.@k@vS13/00/552100018. It seems impossible to ignore, especially from a eugenics perspective.``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 3141,
+    "TextENGNew": "``Humans are not God's children.@k@vS13/00/552200016. We're simply animals who underwent the baptism of evolution.@k@vS13/00/552200017. As such, according to Darwin, there will be differences in that evolution based on environment.",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 3142,
+    "TextENGNew": "In other words, humans can be either superior or inferior.@k@vS13/00/552200019. As a nation, we must think how we can maintain good bloodlines and how we can leave good genes behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 3143,
+    "TextENGNew": "...If we do not raise that as a national policy and research towards it, then by the next century, mankind may fall to a fatal position on the hierarchy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 3144,
+    "TextENGNew": "``Dr. Takano's research has the potential of encompassing more than just mere disease.``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 3145,
+    "TextENGNew": "``If the evil, inferior humans we shouldn't let breed,@k@vS13/00/552000031. can actually be explained by a disease instead of genetics, then it becomes possible to correct their behavior through surgery.",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 3146,
+    "TextENGNew": "As a result, we can leave wonderful people for our future.@k@vS13/00/552000033. From the eugenic point of view, Dr. Takano's research should get started immediately.``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 3147,
+    "TextENGNew": "``It's possible this could be the greatest discovery since Moniz's invention of the lobotomy.@k@vS13/00/552200022. If causality between infectious diseases and an individual's nature could be established, this would be more than Nobel Prize-worthy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 3148,
+    "TextENGNew": "``Koizumi-sensei, thank you for giving us this chance.``",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 3149,
+    "TextENGNew": "``Takano-kun is a single-minded and passionate man.@k@vS13/00/550300130. But he is not good at dealing with people.@k@vS13/00/550300131. He's been working on his research all by himself.@k@vS13/00/550300132. But now he's hit the limit of what one person can do, and he needs help.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 3150,
+    "TextENGNew": "Please, everyone, listen to what Takano-kun has to say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 3151,
+    "TextENGNew": "``Oh, you don't even need to ask, Sensei!@k@vS13/00/552300018. We are the ones who should be thanking you for this opportunity.``",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 3152,
+    "TextENGNew": "``We're already willing to help him.@k@vS13/00/552100020. In fact, the more urgent matter will be arranging jurisdictions within society.``",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 3153,
+    "TextENGNew": "``I would like to thank you for giving me an opportunity to be involved@k@vS13/00/552200024. in such a unique research project at this age.``",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 3154,
+    "TextENGNew": "There was a knock on the door. The sliding door opened, and the owner peeked in.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 3155,
+    "TextENGNew": "``Excuse me.@k@vS13/00/okami55002. There's someone asking for you. May I bring him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 3156,
+    "TextENGNew": "``Someone?@k@vS13/00/550300135. Who could it be?``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 3157,
+    "TextENGNew": "The owner whispered into Koizumi's ear, and his face turned pale all of a sudden.",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 3158,
+    "TextENGNew": "``P-Please, let him in.@k@vS13/00/550300137. No, no, no, I'll come greet him with you...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 3159,
+    "TextENGNew": "As Koizumi stood up, two pairs of footsteps reached the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 3160,
+    "TextENGNew": "``S-Sensei!@k@vS13/00/550300139. I didn't expect you to be here...``",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 3161,
+    "TextENGNew": "``Koizumi-kun, long time no see.@k@vS13/00/fixer55002. I have something I need to tell you today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 3162,
+    "TextENGNew": "``Yes. If you need to tell me something, I'm all ears!@k@vS13/00/550300141. Please go ahead!``",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 3163,
+    "TextENGNew": "The old man known as Koizumi was not someone whose status could be taken lightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 3164,
+    "TextENGNew": "Although he had retired, he was still powerful enough to wield great influence as a fixer.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 3165,
+    "TextENGNew": "So from his meek attitude, it was easy to figure out what kind of person this man must be.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 3166,
+    "TextENGNew": "The old man held onto his bodyguard's shoulder as he walked. He had an expensive-looking cane in his other hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 3167,
+    "TextENGNew": "He couldn't even walk on his own because of his old age...@k but his intense, commanding presence hadn't declined one bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 3168,
+    "TextENGNew": "``I'll get straight to the point.@k@vS13/00/fixer55004. Your friend's research... you need to put a stop to that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 3169,
+    "TextENGNew": "``Huh...?@k@vS13/00/550300143. Wh-What do you mean...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 3170,
+    "TextENGNew": "``Koizumi-kun.@k@vS13/00/fixer55006. He must take his knowledge of Hinamizawa Syndrome to his grave.@k@vS13/00/fixer55007. Nobody should touch it.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 3171,
+    "TextENGNew": "If anyone looks into it... Well, if you poke a bush, a snake will come out.@k@vS13/00/fixer55009. A big, fat snake too.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 3172,
+    "TextENGNew": "...It would pain me to just watch you get swallowed by it.@k@vS13/00/fixer55011. That's why I'm here to give you some advice.",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 3173,
+    "TextENGNew": "Can your friends wait for a little?@k@vS13/00/fixer55013. So how about it? Do you want to have some drinks with me in a different room?``",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 3174,
+    "TextENGNew": "``Y-Yes!@k@vS13/00/550300145. I'll come with you straightaway.``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 3175,
+    "TextENGNew": "Koizumi realized that he was being pressured.",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 3176,
+    "TextENGNew": "He didn't know which direction it was coming from, but clearly some authorities weren't comfortable with the research on Hinamizawa Syndrome, and were trying to stop him from supporting it.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 3177,
+    "TextENGNew": "``...Koizumi-kun, do you understand... that this research is literally ``Pandora's box``?``",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 3178,
+    "TextENGNew": "``This is utter nonsense.@k@vS13/00/552300020. We came here today expecting to hear a more objective side.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 3179,
+    "TextENGNew": "Normally we wouldn't come all the way here for something like this, but since Koizumi-sensei asked us, we didn't have a choice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 3180,
+    "TextENGNew": "``This really was a waste of time, but in a way, it was a good thing we came.@k@vS13/00/552200026. We were able to give you some advice.",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 3181,
+    "TextENGNew": "...You should take up bonsai instead of wasting the rest of your life on this.@k@vS13/00/552200028. Bonsai is great!``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 3182,
+    "TextENGNew": "``I agree!@k@vS13/00/552000036. It's not healthy to just stare at formalin jars in a study.``",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 3183,
+    "TextENGNew": "``But it sure is a unique subject.@k@vS13/00/552100022. If you want, I'll introduce you to the chief of a publishing company.@k@vS13/00/552100023. The general public loves things like this, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 3184,
+    "TextENGNew": "They aren't even trying to hide their hostility.",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 3185,
+    "TextENGNew": "They're laughing at my grandfather, denouncing him, and saying things to denigrate not only his research but his personality as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 3186,
+    "TextENGNew": "If they are simply trying to provoke him...",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 3187,
+    "TextENGNew": "Any response would just be giving them what they want.",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 3188,
+    "TextENGNew": "...Even in this very moment, Grandfather tried to remain a noble researcher... and a proud human being.",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 3189,
+    "TextENGNew": "He's no longer trembling.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 3190,
+    "TextENGNew": "On the contrary, he apologized to them for taking up their time@k and told them he had no intention of keeping them any longer.",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 3191,
+    "TextENGNew": "``We'll give this article back to you.@k@vS13/00/552100025. Though it'd be so much easier if we could actually call it an article.``",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 3192,
+    "TextENGNew": "One of the elderly gentlemen tossed it back to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 3193,
+    "TextENGNew": "Grandfather couldn't catch it in time...",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 3194,
+    "TextENGNew": "...The article he worked so hard on fell onto the floor, and the papers scattered all over on the carpet.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 3195,
+    "TextENGNew": "The elderly gentleman left the study without even apologizing for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 3196,
+    "TextENGNew": "Everyone else followed suit.",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 3197,
+    "TextENGNew": "As they left, they trod all over my grandfather's article.",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 3198,
+    "TextENGNew": "It looked like Grandfather's expression didn't change.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 3199,
+    "TextENGNew": "...But I could see it warping.",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 3200,
+    "TextENGNew": "I could see the wall of research Grandfather bore crunching and warping sadly.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 3201,
+    "TextENGNew": "``............!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 3202,
+    "TextENGNew": "I jumped.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 3203,
+    "TextENGNew": "I grabbed onto the elderly gentleman's leg.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 3204,
+    "TextENGNew": "I don't hate him.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 3205,
+    "TextENGNew": "If I were asked if I hated him or not, the answer would be yes... but that's not the point here.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 3206,
+    "TextENGNew": "What I really can't stand is this foot stepping all over my grandfather's article.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 3207,
+    "TextENGNew": "``Don't step on it!!@k@vS13/48/550100152. Don't step on it!!@k@vS13/48/550100153. Grandpa worked so hard on it. Don't step on it!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 3208,
+    "TextENGNew": "I just want to move the foot that's standing on his papers.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 3209,
+    "TextENGNew": "But the foot doesn't move, no matter how hard I push or pull, as if it's rooted to the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 3210,
+    "TextENGNew": "I felt someone grabbing me from behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 3211,
+    "TextENGNew": "It was my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 3212,
+    "TextENGNew": "``Please excuse my granddaughter.@k@vS13/00/550200195. Don't worry about this.@k@vS13/00/550200196. We'll clean it up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 3213,
+    "TextENGNew": "``Don't!!@k@vS13/48/550100155. Don't step on them!!!@k@vS13/48/550100156. I'm telling you not to step on my grandpa's article!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 3214,
+    "TextENGNew": "My screams don't mean a thing to them.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 3215,
+    "TextENGNew": "They completely ignored my screams. They continued to step on the papers and left the study.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 3216,
+    "TextENGNew": "Only my grandfather and I remain in there now.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 3217,
+    "TextENGNew": "My grandfather is still grabbing the back of my collar.",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 3218,
+    "TextENGNew": "I don't have any words left to say. Only cries.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 3219,
+    "TextENGNew": "My grandfather is determined not to show any emotion.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 3220,
+    "TextENGNew": "He doesn't even open his mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 3221,
+    "TextENGNew": "So I have to cry for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 3222,
+    "TextENGNew": "Just then, my grandfather slapped me in the face.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 3223,
+    "TextENGNew": "That startled me. I'm crying for him, so why did he slap me?",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 3224,
+    "TextENGNew": "Then I understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 3225,
+    "TextENGNew": "Grandfather is the one who wants to cry.",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 3226,
+    "TextENGNew": "But he's enduring.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 3227,
+    "TextENGNew": "So I shouldn't cry either.",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 3228,
+    "TextENGNew": "I wiped my eyes and my runny nose. Then I silently turned my eyes to the papers on the carpet, just like my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 3229,
+    "TextENGNew": "``.........Sorry, Miyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 3230,
+    "TextENGNew": "I don't understand why he's apologizing.",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 3231,
+    "TextENGNew": "I thought he was going to complain about their rudeness.",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 3232,
+    "TextENGNew": "``If I had worked harder, this wouldn't have happened.@k@vS13/00/550200199. Until today, you helped me so much and it was all for nothing...@k@vS13/00/550200200. Sorry about that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 3233,
+    "TextENGNew": "How courageous he is.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 3234,
+    "TextENGNew": "Even after that disaster, he's still concerned about me.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 3235,
+    "TextENGNew": "I shook my head and put my hands on the floor...",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 3236,
+    "TextENGNew": "I tried to gather up the papers, but then... they began to fall. My tears are overflowing again, blurring the ink on the papers.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 3237,
+    "TextENGNew": "...These are... all handwritten by Grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 3238,
+    "TextENGNew": "He was so happy that finally there was someone who understood his research. He was so happy. He spent all night writing these.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 3239,
+    "TextENGNew": "But they stepped on them.",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 3240,
+    "TextENGNew": "They might as well have stepped on my grandfather's very soul.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 3241,
+    "TextENGNew": "``I didn't work hard enough...@k@vS13/00/550200202. If I had done more, this wouldn't have happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 3242,
+    "TextENGNew": "Sorry... I'm so sorry.@k@vS13/00/550200204. I'll work even harder.@k@vS13/00/550200205. I won't give up because of something like this!``",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 3243,
+    "TextENGNew": "I don't know if he's saying that to me or to himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 3244,
+    "TextENGNew": "``Don't worry.@k@vS13/00/550200207. God is watching.@k@vS13/00/550200208. I have to believe that I'll gain recognition.@k@vS13/00/550200209. That day will come.@k@vS13/00/550200210. That's why I have to keep working harder.``",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 3245,
+    "TextENGNew": "Grandfather says that all the time.",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 3246,
+    "TextENGNew": "...But I know the truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 3247,
+    "TextENGNew": "God only plays with people's fate. He doesn't save anyone out of goodwill.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 3248,
+    "TextENGNew": "That's why he let this happen to my grandfather, even though he's worked so hard and so humbly until today...@k That's why he let such a horrible thing happen to me when I was still an innocent little girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 3249,
+    "TextENGNew": "...Grandfather keeps repeating himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 3250,
+    "TextENGNew": "...But I know the truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 3251,
+    "TextENGNew": "God exists.",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 3252,
+    "TextENGNew": "The existence Grandfather believes in is real.",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 3253,
+    "TextENGNew": "But there's no mercy to be found in God.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 3254,
+    "TextENGNew": "He delivers unreasonable fates and makes us call it a challenge.",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 3255,
+    "TextENGNew": "I can't tell my grandfather that, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 3256,
+    "TextENGNew": "I ask God once more, like I did on the day of the thunderstorm.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 3257,
+    "TextENGNew": "...Why?",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 3258,
+    "TextENGNew": "...Why can't you give my Grandfather's effort and hard work the recognition it deserves...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 3259,
+    "TextENGNew": "Grandfather told me that he'll gather up the papers, so I should put away the teacups.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 3260,
+    "TextENGNew": "I nodded silently and put the teacups that hadn't even been touched onto the serving cart.",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 3261,
+    "TextENGNew": "As I pushed it out of the study,",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 3262,
+    "TextENGNew": "Grandfather told me.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 3263,
+    "TextENGNew": "He told me to close the door after I leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 3264,
+    "TextENGNew": "I always close the door when I leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 3265,
+    "TextENGNew": "He doesn't need to remind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 3266,
+    "TextENGNew": "But that's what he wants, so without saying anything, I closed the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 3267,
+    "TextENGNew": "Then, as I walked away from the study...",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 3268,
+    "TextENGNew": "I heard my grandfather sobbing.",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 3269,
+    "TextENGNew": "Tears filled my eyes once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 3270,
+    "TextENGNew": "Sadness and disappointment... I almost feel angry with myself for not being able to do anything for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 3271,
+    "TextENGNew": "Then I felt a cool breeze on my wet cheeks.",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 3272,
+    "TextENGNew": "The breeze was blowing in from a cracked-open window.",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 3273,
+    "TextENGNew": "The curtain was flapping gently in that breeze.",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 3274,
+    "TextENGNew": "I heard the cry of the higurashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 3275,
+    "TextENGNew": "As I listened to them, I calmed down gradually.",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 3276,
+    "TextENGNew": "If I can ease Grandfather's pain by crying, I'll cry in his place.",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 3277,
+    "TextENGNew": "But that won't help.",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 3278,
+    "TextENGNew": "On the contrary, he started to cry because I did.",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 3279,
+    "TextENGNew": "I'm being useless here.",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 3280,
+    "TextENGNew": "......I remember that day.",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 3281,
+    "TextENGNew": "I remember the reason why I'm alive now.",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 3282,
+    "TextENGNew": "If he hadn't come and saved me, I would have spent the last days of my life lying in the corner of the bathroom as a human-shaped piece of meat.",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 3283,
+    "TextENGNew": "Grandfather saved me.",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 3284,
+    "TextENGNew": "He gave me back my rights.",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 3285,
+    "TextENGNew": "The right to walk.",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 3286,
+    "TextENGNew": "The right to stand up.",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 3287,
+    "TextENGNew": "The right to wear clothes,@k the right to eat,@k the right to speak,@k and the right to think.",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 3288,
+    "TextENGNew": "In other words, the right to live as a human being.",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 3289,
+    "TextENGNew": "Grandfather took action right after he got the phone call from me.",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 3290,
+    "TextENGNew": "He found my house@k and he found out which orphanage I was sent to@k after struggling through the sloppily-filed records of the public office.@k Then he saved me.",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 3291,
+    "TextENGNew": "Of course, he was working on his research then.",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 3292,
+    "TextENGNew": "He spent his precious research time on saving me, a perfect stranger.",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 3293,
+    "TextENGNew": "I vowed that if his heart failed, I'd rip my heart out and give it to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 3294,
+    "TextENGNew": "But of course, his heart is fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 3295,
+    "TextENGNew": "So he doesn't need a heart. He needs something else that's equally important.",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 3296,
+    "TextENGNew": "That's something only I can give him in this whole world.",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 3297,
+    "TextENGNew": "I clenched my fists.",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 3298,
+    "TextENGNew": "And held them so tightly that my nails left marks.",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 3299,
+    "TextENGNew": "I now know what I'm supposed to do with this new life as Miyo Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 3300,
+    "TextENGNew": "I finally know.",
+    "significantChanges": false
+  },
+  {
+    "index": 491,
+    "MessageID": 3301,
+    "TextENGNew": "I know the reason why the ``new me`` was born.",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 3302,
+    "TextENGNew": "I know the purpose of Miyo Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 3303,
+    "TextENGNew": "I thought I knew of my grandfather's greatness, but I actually didn't know the half of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 495,
+    "MessageID": 3304,
+    "TextENGNew": "For me to be able to really help him, I have to reach his level.",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 3305,
+    "TextENGNew": "All my lessons lead back to my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 3306,
+    "TextENGNew": "There wasn't a single subject I could ignore.",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 3307,
+    "TextENGNew": "Right now, studying hard is what I can do for him.",
+    "significantChanges": false
+  },
+  {
+    "index": 499,
+    "MessageID": 3308,
+    "TextENGNew": "``I've been a teacher for a long time, but I've never seen such a hard-working student.@k@vS13/00/teacher55002. You've learned not only academically, but socially as well. You've made a great deal of friends.``",
+    "significantChanges": false
+  },
+  {
+    "index": 500,
+    "MessageID": 3309,
+    "TextENGNew": "``I have a goal which I can only reach by studying hard.@k@vS13/09/550500130. Also, I know how powerless an isolated genius is. That's why I needed to learn to socialize.``",
+    "significantChanges": false
+  },
+  {
+    "index": 501,
+    "MessageID": 3310,
+    "TextENGNew": "That's not enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 502,
+    "MessageID": 3311,
+    "TextENGNew": "``I'm not even close to where I want to be.@k@vS13/09/550500132. Entering college is only a step forward.@k@vS13/09/550500133. What matters is what I learn there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 503,
+    "MessageID": 3312,
+    "TextENGNew": "I'm not even close.",
+    "significantChanges": false
+  },
+  {
+    "index": 504,
+    "MessageID": 3313,
+    "TextENGNew": "I'm not even close to being able to help my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 505,
+    "MessageID": 3314,
+    "TextENGNew": "``...Hmm.@k@vS13/00/teacher55004. I'm so proud of you. You can go to Tokyo or Ochanomizu University, or any college of your choice.",
+    "significantChanges": false
+  },
+  {
+    "index": 506,
+    "MessageID": 3315,
+    "TextENGNew": "Nothing will stop you.@k@vS13/00/teacher55006. The most important thing for you is that the school will teach you what you want to learn.``",
+    "significantChanges": false
+  },
+  {
+    "index": 508,
+    "MessageID": 3316,
+    "TextENGNew": "Do I have what I need to be able to truly understand Hinamizawa Syndrome and help Grandfather in his research?",
+    "significantChanges": false
+  },
+  {
+    "index": 509,
+    "MessageID": 3317,
+    "TextENGNew": "I don't need compromises or excuses.",
+    "significantChanges": false
+  },
+  {
+    "index": 510,
+    "MessageID": 3318,
+    "TextENGNew": "The heights I seek are lofty and precipitous.",
+    "significantChanges": false
+  },
+  {
+    "index": 511,
+    "MessageID": 3319,
+    "TextENGNew": "This isn't enough, not even close.",
+    "significantChanges": false
+  },
+  {
+    "index": 512,
+    "MessageID": 3320,
+    "TextENGNew": "My classmates are such idiots, acting as if they're winners in life just because they entered this school.",
+    "significantChanges": false
+  },
+  {
+    "index": 513,
+    "MessageID": 3321,
+    "TextENGNew": "A college is simply a place to learn what I need to know.",
+    "significantChanges": false
+  },
+  {
+    "index": 514,
+    "MessageID": 3322,
+    "TextENGNew": "If this self-proclaimed best school isn't worth my time, I'm not interested.",
+    "significantChanges": false
+  },
+  {
+    "index": 515,
+    "MessageID": 3323,
+    "TextENGNew": "``I didn't expect a talented woman like you to end up at this Institute of Infectious Diseases.@k@vS13/00/zemicho55002. I'm sure everyone wanted you, huh?@k@vS13/00/zemicho55003. I assumed you were interested in something bigger.``",
+    "significantChanges": false
+  },
+  {
+    "index": 516,
+    "MessageID": 3324,
+    "TextENGNew": "``I want to study and research epidemics.@k@vS13/09/550500138. I've worked hard to earn the right to study here.@k@vS13/09/550500139. Aren't I qualified to learn?``",
+    "significantChanges": false
+  },
+  {
+    "index": 517,
+    "MessageID": 3325,
+    "TextENGNew": "``Yes, yes, of course!@k@vS13/00/zemicho55005. There's no reason why we would refuse someone who got the top score on the entrance exam.",
+    "significantChanges": false
+  },
+  {
+    "index": 518,
+    "MessageID": 3326,
+    "TextENGNew": "Welcome to the Institute of Infectious Diseases.@k@vS13/00/zemicho55007. People usually aren't that interested in our field.@k@vS13/00/zemicho55008. There aren't too many researchers who study it.@k@vS13/00/zemicho55009. That's why there's still a lot of unknown elements, compared to other fields.``",
+    "significantChanges": false
+  },
+  {
+    "index": 519,
+    "MessageID": 3327,
+    "TextENGNew": "That's quite true.",
+    "significantChanges": false
+  },
+  {
+    "index": 520,
+    "MessageID": 3328,
+    "TextENGNew": "The world of infectious diseases is an unknown world.",
+    "significantChanges": false
+  },
+  {
+    "index": 521,
+    "MessageID": 3329,
+    "TextENGNew": "Or rather, it's an ignorant one.",
+    "significantChanges": false
+  },
+  {
+    "index": 522,
+    "MessageID": 3330,
+    "TextENGNew": "An ignorant world where the preconception that parasites can't possibly control humans pervades.",
+    "significantChanges": false
+  },
+  {
+    "index": 523,
+    "MessageID": 3331,
+    "TextENGNew": "And those ignorant people laughed at Grandfather and stepped all over his article.",
+    "significantChanges": false
+  },
+  {
+    "index": 524,
+    "MessageID": 3332,
+    "TextENGNew": "``There are still many unsolved mysteries in the world of infectious diseases.@k@vS13/09/550500141. I'm here to solve them.@k@vS13/09/550500142. I came here to help the people who want to solve them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 526,
+    "MessageID": 3333,
+    "TextENGNew": "Learning isn't enough for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 527,
+    "MessageID": 3334,
+    "TextENGNew": "I have to be able to research with my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 528,
+    "MessageID": 3335,
+    "TextENGNew": "And so, I don't ignore the means to gain the help my grandfather couldn't get.",
+    "significantChanges": false
+  },
+  {
+    "index": 529,
+    "MessageID": 3336,
+    "TextENGNew": "Grandfather's research isn't complete just when it's finished being written on a desk.",
+    "significantChanges": false
+  },
+  {
+    "index": 530,
+    "MessageID": 3337,
+    "TextENGNew": "I need the help of plenty of people to present it to the world, so his great work will be praised by many.",
+    "significantChanges": false
+  },
+  {
+    "index": 531,
+    "MessageID": 3338,
+    "TextENGNew": "``Yes, that's correct.@k@vS13/00/kanji55002. This is an association only the top graduates of the Imperial University are allowed to join.",
+    "significantChanges": false
+  },
+  {
+    "index": 532,
+    "MessageID": 3339,
+    "TextENGNew": "Therefore, as only seven people per year are allowed to join, it's a small group compared to a normal organization of alumni. However, its solidarity is unrivaled.``",
+    "significantChanges": false
+  },
+  {
+    "index": 533,
+    "MessageID": 3340,
+    "TextENGNew": "``Thank you for inviting me to such a gathering, I'm honored.@k@vS13/09/550500148. I would like to take the lowest seat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 534,
+    "MessageID": 3341,
+    "TextENGNew": "``Oh no, we can't let someone with such accomplishments and experience sit in the lowest seat.@k@vS13/00/kanji55005. I'm sure everyone will welcome you.",
+    "significantChanges": false
+  },
+  {
+    "index": 535,
+    "MessageID": 3342,
+    "TextENGNew": "The cabinet minister and several important government officials, company presidents, and company advisors will be here.@k@vS13/00/kanji55007. They'll all need you, and they'll provide the help you need.``",
+    "significantChanges": false
+  },
+  {
+    "index": 536,
+    "MessageID": 3343,
+    "TextENGNew": "``...Koizumi-sensei belongs to this association, right?@k@vS13/09/550500150. He was my grandfather's best friend.@k@vS13/09/550500151. What a coincidence.``",
+    "significantChanges": false
+  },
+  {
+    "index": 537,
+    "MessageID": 3344,
+    "TextENGNew": "``I see.@k@vS13/00/kanji55009. I'm sure Koizumi-sensei will be glad to find out that you'll be joining.``",
+    "significantChanges": false
+  },
+  {
+    "index": 538,
+    "MessageID": 3345,
+    "TextENGNew": "An isolated genius is a useless one.",
+    "significantChanges": false
+  },
+  {
+    "index": 539,
+    "MessageID": 3346,
+    "TextENGNew": "People live in society.",
+    "significantChanges": false
+  },
+  {
+    "index": 540,
+    "MessageID": 3347,
+    "TextENGNew": "Society is made up of connections between people.",
+    "significantChanges": false
+  },
+  {
+    "index": 541,
+    "MessageID": 3348,
+    "TextENGNew": "Nobody can ignore that.",
+    "significantChanges": false
+  },
+  {
+    "index": 542,
+    "MessageID": 3349,
+    "TextENGNew": "I do my best as an individual,",
+    "significantChanges": false
+  },
+  {
+    "index": 543,
+    "MessageID": 3350,
+    "TextENGNew": "but to gain the power that can't be achieved as a mere individual, I have to rely on my connections in society.",
+    "significantChanges": false
+  },
+  {
+    "index": 544,
+    "MessageID": 3351,
+    "TextENGNew": "It's all for one purpose.",
+    "significantChanges": false
+  },
+  {
+    "index": 545,
+    "MessageID": 3352,
+    "TextENGNew": "My only wish as Miyo Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 546,
+    "MessageID": 3353,
+    "TextENGNew": "Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 547,
+    "MessageID": 3354,
+    "TextENGNew": "I can't spare any effort.",
+    "significantChanges": false
+  },
+  {
+    "index": 548,
+    "MessageID": 3355,
+    "TextENGNew": "My certain conviction will forge a certain future.",
+    "significantChanges": false
+  },
+  {
+    "index": 549,
+    "MessageID": 3356,
+    "TextENGNew": "Nobody can interfere. Nobody can stop me.",
+    "significantChanges": false
+  },
+  {
+    "index": 550,
+    "MessageID": 3357,
+    "TextENGNew": "I won't allow the die to roll a one.",
+    "significantChanges": false
+  },
+  {
+    "index": 551,
+    "MessageID": 3358,
+    "TextENGNew": "I won't admit that diligent efforts can be erased by a mere train accident.",
+    "significantChanges": false
+  },
+  {
+    "index": 552,
+    "MessageID": 3359,
+    "TextENGNew": "I'm going to make all the dice roll sixes.",
+    "significantChanges": false
+  },
+  {
+    "index": 553,
+    "MessageID": 3360,
+    "TextENGNew": "I won't entrust the die to God. I won't give in to luck.",
+    "significantChanges": false
+  },
+  {
+    "index": 554,
+    "MessageID": 3361,
+    "TextENGNew": "The only people who pray to God are people who don't want to work hard.",
+    "significantChanges": false
+  },
+  {
+    "index": 555,
+    "MessageID": 3362,
+    "TextENGNew": "I don't trust God. I'm going to create results myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 556,
+    "MessageID": 3363,
+    "TextENGNew": "My strong will is going to create a certain future that God can't possibly prevent.",
+    "significantChanges": false
+  },
+  {
+    "index": 557,
+    "MessageID": 3364,
+    "TextENGNew": "This is a different way to become a god than the one my grandfather taught me.",
+    "significantChanges": false
+  },
+  {
+    "index": 558,
+    "MessageID": 3365,
+    "TextENGNew": "This is a way to become a god while still alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 559,
+    "MessageID": 3366,
+    "TextENGNew": "When I realized it, I became truly free.",
+    "significantChanges": false
+  },
+  {
+    "index": 560,
+    "MessageID": 3367,
+    "TextENGNew": "Free from the sadness of losing my parents and my miserable life after that.",
+    "significantChanges": false
+  },
+  {
+    "index": 561,
+    "MessageID": 3368,
+    "TextENGNew": "Free from grandfather's tears when his article was stepped on.",
+    "significantChanges": false
+  },
+  {
+    "index": 562,
+    "MessageID": 3369,
+    "TextENGNew": "That's right. I'll be above God. I'll be an existence that God's caprices can't even touch.",
+    "significantChanges": false
+  },
+  {
+    "index": 563,
+    "MessageID": 3370,
+    "TextENGNew": "I'll make people recognize Grandfather's research.",
+    "significantChanges": false
+  },
+  {
+    "index": 564,
+    "MessageID": 3371,
+    "TextENGNew": "That's the future I wish for. The future I promised will come to pass.",
+    "significantChanges": false
+  },
+  {
+    "index": 565,
+    "MessageID": 3372,
+    "TextENGNew": "People will fight over Grandfather's article.",
+    "significantChanges": false
+  },
+  {
+    "index": 566,
+    "MessageID": 3373,
+    "TextENGNew": "People will respectfully read the same article that was once ridiculed and stepped on.",
+    "significantChanges": false
+  },
+  {
+    "index": 567,
+    "MessageID": 3374,
+    "TextENGNew": "Even if Grandfather dies before that day comes.",
+    "significantChanges": false
+  },
+  {
+    "index": 568,
+    "MessageID": 3375,
+    "TextENGNew": "I won't cry over something like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 569,
+    "MessageID": 3376,
+    "TextENGNew": "Because he already taught me.",
+    "significantChanges": false
+  },
+  {
+    "index": 570,
+    "MessageID": 3377,
+    "TextENGNew": "Even after being buried, one can be resurrected.",
+    "significantChanges": false
+  },
+  {
+    "index": 571,
+    "MessageID": 3378,
+    "TextENGNew": "I'm going to complete his great work, and the whole world will praise him.",
+    "significantChanges": false
+  },
+  {
+    "index": 572,
+    "MessageID": 3379,
+    "TextENGNew": "Grandfather will resurrect, and become a god. He will be eternal.",
+    "significantChanges": false
+  },
+  {
+    "index": 573,
+    "MessageID": 3380,
+    "TextENGNew": "That's an everlasting bond. A bond not even a train accident can break.",
+    "significantChanges": false
+  },
+  {
+    "index": 574,
+    "MessageID": 3381,
+    "TextENGNew": "A bond not even a die that rolls a one can disturb.",
+    "significantChanges": false
+  },
+  {
+    "index": 575,
+    "MessageID": 3382,
+    "TextENGNew": "Since the day of the train accident, my die has kept rolling ones over and over.",
+    "significantChanges": false
+  },
+  {
+    "index": 576,
+    "MessageID": 3383,
+    "TextENGNew": "But I didn't give up. I kept working hard until today.",
+    "significantChanges": false
+  },
+  {
+    "index": 577,
+    "MessageID": 3384,
+    "TextENGNew": "I'll rise above the die.",
+    "significantChanges": false
+  },
+  {
+    "index": 578,
+    "MessageID": 3385,
+    "TextENGNew": "I'll decide what to roll on it.",
+    "significantChanges": false
+  },
+  {
+    "index": 579,
+    "MessageID": 3386,
+    "TextENGNew": "I'll decide my own fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 580,
+    "MessageID": 3387,
+    "TextENGNew": "I'll do that with my unshakable willpower.",
+    "significantChanges": false
+  },
+  {
+    "index": 581,
+    "MessageID": 3388,
+    "TextENGNew": "``When does the clinic open?@k@vS13/00/robaA55002. Is there going to be air conditioning?``",
+    "significantChanges": false
+  },
+  {
+    "index": 582,
+    "MessageID": 3389,
+    "TextENGNew": "``I heard it'll open next month.@k@vS13/00/robaB55002. I hope there'll be a young doctor there. Hya hya hya!``",
+    "significantChanges": false
+  },
+  {
+    "index": 583,
+    "MessageID": 3390,
+    "TextENGNew": "I heard some old ladies talking amongst themselves when I was going up the stairs to the shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 584,
+    "MessageID": 3391,
+    "TextENGNew": "The Irie Clinic is already completed, and it's waiting and ready for opening day.",
+    "significantChanges": false
+  },
+  {
+    "index": 585,
+    "MessageID": 3392,
+    "TextENGNew": "The state-of-the-art equipment has been delivered, and the research is waiting to begin as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 586,
+    "MessageID": 3393,
+    "TextENGNew": "Irie, too, is standing by in top form, and he's almost as passionate as I am about Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 587,
+    "MessageID": 3394,
+    "TextENGNew": "The Mountain Dogs, the counterintelligence unit to support and protect our research, are already stationed at a dummy company somewhere near Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 588,
+    "MessageID": 3395,
+    "TextENGNew": "They are getting in touch with various public institutions.",
+    "significantChanges": false
+  },
+  {
+    "index": 589,
+    "MessageID": 3396,
+    "TextENGNew": "Everything is going well.",
+    "significantChanges": false
+  },
+  {
+    "index": 590,
+    "MessageID": 3397,
+    "TextENGNew": "The only thing to worry about would be the rumors about the Hinamizawa Dam construction plans.",
+    "significantChanges": false
+  },
+  {
+    "index": 591,
+    "MessageID": 3398,
+    "TextENGNew": "There's a rumor that the Ministry of Construction is pushing through a dam project that will submerge all of Hinamizawa, but they're under pressure from several groups.",
+    "significantChanges": false
+  },
+  {
+    "index": 592,
+    "MessageID": 3399,
+    "TextENGNew": "None of my contacts have much influence in the Ministry of Construction, so things aren't going well.",
+    "significantChanges": false
+  },
+  {
+    "index": 593,
+    "MessageID": 3400,
+    "TextENGNew": "Even if applying pressure doesn't work, there are other measures, so either way it'll come to a deadlock.",
+    "significantChanges": false
+  },
+  {
+    "index": 594,
+    "MessageID": 3401,
+    "TextENGNew": "I'm not being optimistic.",
+    "significantChanges": false
+  },
+  {
+    "index": 595,
+    "MessageID": 3402,
+    "TextENGNew": "I just know that's how it'll end.",
+    "significantChanges": false
+  },
+  {
+    "index": 596,
+    "MessageID": 3403,
+    "TextENGNew": "``I will conduct research here in Hinamizawa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 597,
+    "MessageID": 3404,
+    "TextENGNew": "I'm going to accomplish that with my absolute will.",
+    "significantChanges": false
+  },
+  {
+    "index": 598,
+    "MessageID": 3405,
+    "TextENGNew": "That's why, even if God rolls a one on the die and says that he's going to submerge Hinamizawa, I will not be afraid.",
+    "significantChanges": false
+  },
+  {
+    "index": 599,
+    "MessageID": 3406,
+    "TextENGNew": "I won't entrust my die to God.",
+    "significantChanges": false
+  },
+  {
+    "index": 600,
+    "MessageID": 3407,
+    "TextENGNew": "I'm the one who's going to pick up the die, and I'm going to roll a six.",
+    "significantChanges": false
+  },
+  {
+    "index": 601,
+    "MessageID": 3408,
+    "TextENGNew": "I didn't come to this shrine to declare war on the god of this place.",
+    "significantChanges": false
+  },
+  {
+    "index": 602,
+    "MessageID": 3409,
+    "TextENGNew": "I came because I know that you can get a great view from up here.",
+    "significantChanges": false
+  },
+  {
+    "index": 603,
+    "MessageID": 3410,
+    "TextENGNew": "I walked by the shrine and headed to the spot I found last time I visited.",
+    "significantChanges": false
+  },
+  {
+    "index": 604,
+    "MessageID": 3411,
+    "TextENGNew": "It's the perfect spot for overlooking the entire village.",
+    "significantChanges": false
+  },
+  {
+    "index": 605,
+    "MessageID": 3412,
+    "TextENGNew": "The strong wind reminds me that I'm only at the starting line@k and that there will be a headwind before I reach my goal.",
+    "significantChanges": false
+  },
+  {
+    "index": 606,
+    "MessageID": 3413,
+    "TextENGNew": "I looked over the village without faltering in the wind.",
+    "significantChanges": false
+  },
+  {
+    "index": 607,
+    "MessageID": 3414,
+    "TextENGNew": "Grandfather approached the syndrome from a medical point of view, but he also approached it from a folkloric one as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 608,
+    "MessageID": 3415,
+    "TextENGNew": "The strange belief system in this village is proof that the existence of Hinamizawa Syndrome was already known of even in ancient times.",
+    "significantChanges": false
+  },
+  {
+    "index": 609,
+    "MessageID": 3416,
+    "TextENGNew": "So it'll be extremely useful to research their history too.",
+    "significantChanges": false
+  },
+  {
+    "index": 610,
+    "MessageID": 3417,
+    "TextENGNew": "My grandfather hadn't been doing research for hundreds of years, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 611,
+    "MessageID": 3418,
+    "TextENGNew": "But this place has been here for hundreds of years, and they've been living with Hinamizawa Syndrome for that long.",
+    "significantChanges": false
+  },
+  {
+    "index": 612,
+    "MessageID": 3419,
+    "TextENGNew": "Therefore, the beliefs created in this place and the legend itself can be considered the foremost researchers.",
+    "significantChanges": false
+  },
+  {
+    "index": 613,
+    "MessageID": 3420,
+    "TextENGNew": "It's simply stupid to just call them old folktales or nonsense.",
+    "significantChanges": false
+  },
+  {
+    "index": 614,
+    "MessageID": 3421,
+    "TextENGNew": "I've been researching them slowly... but they are indeed very interesting. No wonder Grandfather was intrigued by them.",
+    "significantChanges": false
+  },
+  {
+    "index": 615,
+    "MessageID": 3422,
+    "TextENGNew": "Hinamizawa Syndrome has many fascinating sides to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 616,
+    "MessageID": 3423,
+    "TextENGNew": "It's just a like a kaleidoscope, showing infinite light with ever a slight change in angle.",
+    "significantChanges": false
+  },
+  {
+    "index": 617,
+    "MessageID": 3424,
+    "TextENGNew": "It's so much fun to trace Grandfather's research.",
+    "significantChanges": false
+  },
+  {
+    "index": 618,
+    "MessageID": 3425,
+    "TextENGNew": "Finding the same results as my Grandfather reminds me that I am indeed following in his footsteps, which makes me very happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 619,
+    "MessageID": 3426,
+    "TextENGNew": "This shrine is dedicated to Oyashiro-sama, the guardian deity of the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 620,
+    "MessageID": 3427,
+    "TextENGNew": "But this god the villagers worship is simply a delusion that was created by the parasites.",
+    "significantChanges": false
+  },
+  {
+    "index": 621,
+    "MessageID": 3428,
+    "TextENGNew": "When I solve their secret and announce it to the world,",
+    "significantChanges": false
+  },
+  {
+    "index": 622,
+    "MessageID": 3429,
+    "TextENGNew": "the god of this place will be no more.",
+    "significantChanges": false
+  },
+  {
+    "index": 623,
+    "MessageID": 3430,
+    "TextENGNew": "That's the moment I will take revenge on the one who put me through misery and tested my fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 624,
+    "MessageID": 3431,
+    "TextENGNew": "That's it, isn't it? This isn't just about making my grandfather's dreams come true.",
+    "significantChanges": false
+  },
+  {
+    "index": 625,
+    "MessageID": 3432,
+    "TextENGNew": "It's also about getting revenge for my miserable life.",
+    "significantChanges": false
+  },
+  {
+    "index": 626,
+    "MessageID": 3433,
+    "TextENGNew": "I went back to the front of the shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 627,
+    "MessageID": 3434,
+    "TextENGNew": "There's an offertory box there, and I'm tempted to throw in some coins.",
+    "significantChanges": false
+  },
+  {
+    "index": 628,
+    "MessageID": 3435,
+    "TextENGNew": "But you normally offer coins to ask for mercy.",
+    "significantChanges": false
+  },
+  {
+    "index": 629,
+    "MessageID": 3436,
+    "TextENGNew": "I don't entrust my fate to God, so I don't need to give an offering.",
+    "significantChanges": false
+  },
+  {
+    "index": 630,
+    "MessageID": 3437,
+    "TextENGNew": "I'm going to unmask him.",
+    "significantChanges": false
+  },
+  {
+    "index": 631,
+    "MessageID": 3438,
+    "TextENGNew": "But until then, Oyashiro-sama is a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 632,
+    "MessageID": 3439,
+    "TextENGNew": "Okay, in that case, I'll show respect for now.",
+    "significantChanges": false
+  },
+  {
+    "index": 633,
+    "MessageID": 3440,
+    "TextENGNew": "Hee hee hee.",
+    "significantChanges": false
+  },
+  {
+    "index": 634,
+    "MessageID": 3441,
+    "TextENGNew": "As a declaration of war, I pulled out a ten yen coin from my wallet.",
+    "significantChanges": false
+  },
+  {
+    "index": 635,
+    "MessageID": 3442,
+    "TextENGNew": "The ten yen coin I found in the telephone booth changed my life.",
+    "significantChanges": false
+  },
+  {
+    "index": 636,
+    "MessageID": 3443,
+    "TextENGNew": "If it hadn't been there, my life would have ended then.",
+    "significantChanges": false
+  },
+  {
+    "index": 637,
+    "MessageID": 3444,
+    "TextENGNew": "``I'm grateful at least for that ten yen coin.``",
+    "significantChanges": false
+  },
+  {
+    "index": 638,
+    "MessageID": 3445,
+    "TextENGNew": "I'm not grateful to the god of this shrine, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 639,
+    "MessageID": 3446,
+    "TextENGNew": "``But...@k@vS13/09/550500187. I haven't forgiven you yet.@k@vS13/09/550500188. I never expected anything from you, and I am here because of my own hard work.",
+    "significantChanges": false
+  },
+  {
+    "index": 640,
+    "MessageID": 3447,
+    "TextENGNew": "Even if you keep playing tricks of fate, or keep rolling a one on the die...@k@vS13/09/550500190. That won't bother me.@k@vS13/09/550500191. With my certain will, I'm going to get what I want.``",
+    "significantChanges": false
+  },
+  {
+    "index": 641,
+    "MessageID": 3448,
+    "TextENGNew": "My grandfather will be praised... and become a god because of the research I'll do in this place.",
+    "significantChanges": false
+  },
+  {
+    "index": 642,
+    "MessageID": 3449,
+    "TextENGNew": "I will defeat the god of this village, and become an existence above even gods.",
+    "significantChanges": false
+  },
+  {
+    "index": 643,
+    "MessageID": 3450,
+    "TextENGNew": "``...Since when did I care about God, huh?@k@vS13/09/550500193. Maybe because my grandfather often talked about him?@k@vS13/09/550500194. ......Hee hee hee hee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 644,
+    "MessageID": 3451,
+    "TextENGNew": "Here, this is the ten yen coin you gave me before.",
+    "significantChanges": false
+  },
+  {
+    "index": 645,
+    "MessageID": 3452,
+    "TextENGNew": "...My debt's paid off now.",
+    "significantChanges": false
+  },
+  {
+    "index": 646,
+    "MessageID": 3453,
+    "TextENGNew": "You just keep clinging to your throne and tormenting people with your trials.",
+    "significantChanges": false
+  },
+  {
+    "index": 647,
+    "MessageID": 3454,
+    "TextENGNew": "While I fight my battles to knock you down from there.",
+    "significantChanges": false
+  },
+  {
+    "index": 648,
+    "MessageID": 3455,
+    "TextENGNew": "And so, I chucked the ten yen I once borrowed from God into the offertory box...",
+    "significantChanges": false
+  },
+  {
+    "index": 649,
+    "MessageID": 3456,
+    "TextENGNew": "``...............Eh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 650,
+    "MessageID": 3457,
+    "TextENGNew": "For a moment, I couldn't understand what happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 651,
+    "MessageID": 3458,
+    "TextENGNew": "The ten yen coin was supposed to fall into the offering box.",
+    "significantChanges": false
+  },
+  {
+    "index": 652,
+    "MessageID": 3459,
+    "TextENGNew": "But... how can I explain this, that's not what happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 653,
+    "MessageID": 3460,
+    "TextENGNew": "I aimed correctly, for certain.",
+    "significantChanges": false
+  },
+  {
+    "index": 654,
+    "MessageID": 3461,
+    "TextENGNew": "Who could miss an offertory box anyway?",
+    "significantChanges": false
+  },
+  {
+    "index": 655,
+    "MessageID": 3462,
+    "TextENGNew": "That's not it.",
+    "significantChanges": false
+  },
+  {
+    "index": 656,
+    "MessageID": 3463,
+    "TextENGNew": "Because the ten yen coin stopped in mid air as if it got stuck in a spider web.",
+    "significantChanges": false
+  },
+  {
+    "index": 657,
+    "MessageID": 3464,
+    "TextENGNew": "Then it bounced back to me and fell by my feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 658,
+    "MessageID": 3465,
+    "TextENGNew": "It was as though the offertory box had refused the coin.",
+    "significantChanges": false
+  },
+  {
+    "index": 659,
+    "MessageID": 3466,
+    "TextENGNew": "...Of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 660,
+    "MessageID": 3467,
+    "TextENGNew": "An offertory box is to respect God.",
+    "significantChanges": false
+  },
+  {
+    "index": 661,
+    "MessageID": 3468,
+    "TextENGNew": "But what I did",
+    "significantChanges": false
+  },
+  {
+    "index": 662,
+    "MessageID": 3469,
+    "TextENGNew": "was challenge him.",
+    "significantChanges": false
+  },
+  {
+    "index": 663,
+    "MessageID": 3470,
+    "TextENGNew": "That means... this is...",
+    "significantChanges": false
+  },
+  {
+    "index": 664,
+    "MessageID": 3471,
+    "TextENGNew": "I jumped.",
+    "significantChanges": false
+  },
+  {
+    "index": 665,
+    "MessageID": 3472,
+    "TextENGNew": "Because I thought I was the only one here.",
+    "significantChanges": false
+  },
+  {
+    "index": 666,
+    "MessageID": 3473,
+    "TextENGNew": "Anyone would jump when finding there's someone else standing there unexpectedly.",
+    "significantChanges": false
+  },
+  {
+    "index": 667,
+    "MessageID": 3474,
+    "TextENGNew": "How long has she been there?",
+    "significantChanges": false
+  },
+  {
+    "index": 668,
+    "MessageID": 3475,
+    "TextENGNew": "It's like she came out from the shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 669,
+    "MessageID": 3476,
+    "TextENGNew": "A mysterious girl is standing on the other side of the offering box.",
+    "significantChanges": false
+  },
+  {
+    "index": 670,
+    "MessageID": 3477,
+    "TextENGNew": "She's wearing a shrine maiden uniform, so she must be one of the caretakers here.",
+    "significantChanges": false
+  },
+  {
+    "index": 671,
+    "MessageID": 3478,
+    "TextENGNew": "That's what I thought, too...",
+    "significantChanges": false
+  },
+  {
+    "index": 672,
+    "MessageID": 3479,
+    "TextENGNew": "...But there's something else about her.",
+    "significantChanges": false
+  },
+  {
+    "index": 673,
+    "MessageID": 3480,
+    "TextENGNew": "She's not just one of the shrine caretakers. She is the shrine itself...",
+    "significantChanges": false
+  },
+  {
+    "index": 674,
+    "MessageID": 3481,
+    "TextENGNew": "Because the girl is staring into my eyes... no, she's glaring.",
+    "significantChanges": false
+  },
+  {
+    "index": 675,
+    "MessageID": 3482,
+    "TextENGNew": "I smiled back fearlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 676,
+    "MessageID": 3483,
+    "TextENGNew": "I think she heard my words of challenge to God.",
+    "significantChanges": false
+  },
+  {
+    "index": 677,
+    "MessageID": 3484,
+    "TextENGNew": "She's wearing that expression on her face because of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 678,
+    "MessageID": 3485,
+    "TextENGNew": "The words came out naturally.",
+    "significantChanges": false
+  },
+  {
+    "index": 679,
+    "MessageID": 3486,
+    "TextENGNew": "``You are...@k@vS13/09/550500197. the god of this place, aren't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 680,
+    "MessageID": 3487,
+    "TextENGNew": "The girl didn't nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 681,
+    "MessageID": 3488,
+    "TextENGNew": "But I took that as a yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 682,
+    "MessageID": 3489,
+    "TextENGNew": "What a contradictory feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 683,
+    "MessageID": 3490,
+    "TextENGNew": "...I'm rejecting the god of this land, denying its very existence...@k Yet I don't doubt this girl is that god.",
+    "significantChanges": false
+  },
+  {
+    "index": 684,
+    "MessageID": 3491,
+    "TextENGNew": "The girl opened her mouth to speak.",
+    "significantChanges": false
+  },
+  {
+    "index": 685,
+    "MessageID": 3492,
+    "TextENGNew": "``...A strong will reinforces fate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 686,
+    "MessageID": 3493,
+    "TextENGNew": "``.........That's right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 687,
+    "MessageID": 3494,
+    "TextENGNew": "That's what I say to myself often.",
+    "significantChanges": false
+  },
+  {
+    "index": 688,
+    "MessageID": 3495,
+    "TextENGNew": "I've never said that to anyone or quoted it from anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 689,
+    "MessageID": 3496,
+    "TextENGNew": "So, under normal circumstances, I should be surprised to hear this girl say that.",
+    "significantChanges": false
+  },
+  {
+    "index": 690,
+    "MessageID": 3497,
+    "TextENGNew": "But this girl isn't human, so I'm not surprised.",
+    "significantChanges": false
+  },
+  {
+    "index": 691,
+    "MessageID": 3498,
+    "TextENGNew": "I replied to her.",
+    "significantChanges": false
+  },
+  {
+    "index": 692,
+    "MessageID": 3499,
+    "TextENGNew": "``God throws the die of fate and has fun with people, depending on what he gets.@k@vS13/09/550500200. But people have willpower.@k@vS13/09/550500201. The stronger the willpower, the less chance of being bound by the result of the die.@k@vS13/09/550500202. You see?",
+    "significantChanges": false
+  },
+  {
+    "index": 693,
+    "MessageID": 3500,
+    "TextENGNew": "People can gain a power that's strong enough to fight fate, by working to their limits.``",
+    "significantChanges": false
+  },
+  {
+    "index": 694,
+    "MessageID": 3501,
+    "TextENGNew": "``Yes. I understand that very well.@k@vS13/12/550600004. An unshakable conviction defeats the die of fate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 695,
+    "MessageID": 3502,
+    "TextENGNew": "``That's right.@k@vS13/09/550500205. That is mankind's revenge against the gods who toy with them by dice roll.@k@vS13/09/550500206. ...The hymn of those who would slough the gods' interference and forge their own destiny.@k@vS13/09/550500207. Know my divinity, and that I earned this day through effort after enduring all misfortune.``",
+    "significantChanges": false
+  },
+  {
+    "index": 696,
+    "MessageID": 3503,
+    "TextENGNew": "Hee hee hee hee...!",
+    "significantChanges": false
+  },
+  {
+    "index": 697,
+    "MessageID": 3504,
+    "TextENGNew": "Spiteful laughter flowed out of my mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 698,
+    "MessageID": 3505,
+    "TextENGNew": "But the girl's face displayed a strong will of her own. Her expression didn't even change a bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 699,
+    "MessageID": 3506,
+    "TextENGNew": "``......I understand very well.@k@vS13/12/550600006. No matter how many times we repeat, our fate doesn't change...@k@vS13/12/550600007. That was all because of your strong willpower.``",
+    "significantChanges": false
+  },
+  {
+    "index": 700,
+    "MessageID": 3507,
+    "TextENGNew": "``That's right.@k@vS13/09/550500209. 'A strong will reinforces fate'.@k@vS13/09/550500210. That fate, so empowered, isn't bothered by the result of a die.@k@vS13/09/550500211. That means it's a certain future.``",
+    "significantChanges": false
+  },
+  {
+    "index": 701,
+    "MessageID": 3508,
+    "TextENGNew": "``...You, a human, found that truth before us gods, who have been living for hundreds of years.@k@vS13/12/550600009. ...I admit it.@k@vS13/12/550600010. ...Your existence is close to that of a god.``",
+    "significantChanges": false
+  },
+  {
+    "index": 702,
+    "MessageID": 3509,
+    "TextENGNew": "``I'm honored. Hee hee......``",
+    "significantChanges": false
+  },
+  {
+    "index": 703,
+    "MessageID": 3510,
+    "TextENGNew": "The girl glared at me with her eyes half shut.@k No, it was more like she was proclaiming something to me, while displaying her own strong willpower.",
+    "significantChanges": false
+  },
+  {
+    "index": 704,
+    "MessageID": 3511,
+    "TextENGNew": "``......I... won't be defeated this time.",
+    "significantChanges": false
+  },
+  {
+    "index": 705,
+    "MessageID": 3512,
+    "TextENGNew": "We always thought we couldn't win against you.@k@vS13/12/550600013. That was why I surrendered.@k@vS13/12/550600014. I abandoned hope and crawled around in the wheel of life.",
+    "significantChanges": false
+  },
+  {
+    "index": 706,
+    "MessageID": 3513,
+    "TextENGNew": "But then I learned.@k@vS13/12/550600016. ...The power of belief can cause a miracle that forges your destiny.``",
+    "significantChanges": false
+  },
+  {
+    "index": 707,
+    "MessageID": 3514,
+    "TextENGNew": "``Are you saying you'll cause a miracle, using your strong will that will defeat the destiny woven by mine...?@k@vS13/09/550500214. Hee hee, that's logical enough.``",
+    "significantChanges": false
+  },
+  {
+    "index": 708,
+    "MessageID": 3515,
+    "TextENGNew": "Because that's the law of this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 709,
+    "MessageID": 3516,
+    "TextENGNew": "A strong will can make a desired future possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 710,
+    "MessageID": 3517,
+    "TextENGNew": "``We...@k@vS13/12/550600018. won't be defeated by your will.``",
+    "significantChanges": false
+  },
+  {
+    "index": 711,
+    "MessageID": 3518,
+    "TextENGNew": "``That's fine. So you insist on being an old god.@k@vS13/09/550500216. Try it and see if your willpower can defeat mine.@k@vS13/09/550500217. God tests people, yet people aren't allowed to test God.@k@vS13/09/550500218. So I'm going to test you here.",
+    "significantChanges": false
+  },
+  {
+    "index": 712,
+    "MessageID": 3519,
+    "TextENGNew": "See if your willpower can defeat mine. Come on, go ahead, try it...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 713,
+    "MessageID": 3520,
+    "TextENGNew": "That's clearly a declaration of war from me to God.",
+    "significantChanges": false
+  },
+  {
+    "index": 714,
+    "MessageID": 3521,
+    "TextENGNew": "This is the beginning of my revenge towards God, who put me through so much misery.",
+    "significantChanges": false
+  },
+  {
+    "index": 715,
+    "MessageID": 3522,
+    "TextENGNew": "And this girl, this god, is accepting my challenge directly.",
+    "significantChanges": false
+  },
+  {
+    "index": 716,
+    "MessageID": 3523,
+    "TextENGNew": "``I'm not as powerful as you are.@k@vS13/12/550600020. I can't do as many things as you can.",
+    "significantChanges": false
+  },
+  {
+    "index": 717,
+    "MessageID": 3524,
+    "TextENGNew": "Even if my willpower is as strong as yours, you're still more powerful than I am.``",
+    "significantChanges": false
+  },
+  {
+    "index": 718,
+    "MessageID": 3525,
+    "TextENGNew": "``That's right. I've gained an overwhelming power.@k@vS13/09/550500221. You have absolutely no idea what I had to go through to gain it.@k@vS13/09/550500222. You can't even touch me. Hee hee...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 719,
+    "MessageID": 3526,
+    "TextENGNew": "``I know.@k@vS13/12/550600023. I know how powerful you are.",
+    "significantChanges": false
+  },
+  {
+    "index": 720,
+    "MessageID": 3527,
+    "TextENGNew": "Compared to yours, the power my friends and I command is insignificant.@k@vS13/12/550600025. But I can choose not to give up.",
+    "significantChanges": false
+  },
+  {
+    "index": 721,
+    "MessageID": 3528,
+    "TextENGNew": "I won't admit my loss. I won't give up until the day when your die rolls one and my die rolls six.",
+    "significantChanges": false
+  },
+  {
+    "index": 722,
+    "MessageID": 3529,
+    "TextENGNew": "I'll prove the strength of my willpower by not surrendering to you for eternity.",
+    "significantChanges": false
+  },
+  {
+    "index": 723,
+    "MessageID": 3530,
+    "TextENGNew": "Stacking up stones on the riverbed will allow us to cross the river and appear before you as an equal...!",
+    "significantChanges": false
+  },
+  {
+    "index": 724,
+    "MessageID": 3531,
+    "TextENGNew": "And that's when this long battle of fate will come to an end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 725,
+    "MessageID": 3532,
+    "TextENGNew": "``Heeheeheeahahahahahaha!@k@vS13/09/550500224. Fine, come on then!!@k@vS13/09/550500225. We'll see who has the stronger will!@k@vS13/09/550500226. Whoever has the stronger conviction will create the future.@k@vS13/09/550500227. The future desired by the stronger conviction will come to pass.",
+    "significantChanges": false
+  },
+  {
+    "index": 726,
+    "MessageID": 3533,
+    "TextENGNew": "I will hold my ground!@k@vS13/09/550500229. In my future, my grandfather's great work is praised, and he becomes a god. And I take revenge on God for testing me by making me go through such misery.``",
+    "significantChanges": false
+  },
+  {
+    "index": 727,
+    "MessageID": 3534,
+    "TextENGNew": "Hee hee hee, ahhhahahahahahahaha ha ha ha!!",
+    "significantChanges": false
+  },
+  {
+    "index": 728,
+    "MessageID": 3535,
+    "TextENGNew": "Stupid little god!",
+    "significantChanges": false
+  },
+  {
+    "index": 729,
+    "MessageID": 3536,
+    "TextENGNew": "I'll show you!",
+    "significantChanges": false
+  },
+  {
+    "index": 730,
+    "MessageID": 3537,
+    "TextENGNew": "``I'll drag you down from your pedestal!!@k@|@y@vS13/09/550500231. Bring it on!!``",
+    "significantChanges": false
+  }
+]

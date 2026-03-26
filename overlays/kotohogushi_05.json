@@ -1,0 +1,3784 @@
+[
+  {
+    "index": 1,
+    "MessageID": 146865,
+    "TextENGNew": "Month X, Day X",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 146866,
+    "TextENGNew": "The village assembly ran long today, and I returned home late.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 146867,
+    "TextENGNew": "Surely Hanyuu must be hungry by now. Hurrying home with that thought,@k@vS16/46/DS43020244. I stepped through the door only to find myself... doubting my own eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 146868,
+    "TextENGNew": "``Ah... w-welcome home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 146869,
+    "TextENGNew": "For there was Hanyuu, having prepared a meal, waiting for my return...",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 146870,
+    "TextENGNew": "``Y-you were so late... so I tried to make something, copying how you do it.@k@vS16/45/DS43070533. ...Please do not expect much of the taste.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 146871,
+    "TextENGNew": "With those words and a bashful expression, she handed me a bowl of vegetable stew... or rather, what appeared to be an attempt at one.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 146872,
+    "TextENGNew": "For a moment I thought I must be dreaming... but the warmth seeping through the bowl told me this was unmistakably real.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 146873,
+    "TextENGNew": "Ah -- I had not a single regret in my entire life.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 146874,
+    "TextENGNew": "``...H-how is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 146875,
+    "TextENGNew": "``Huh? Oh, right.@k@vS16/46/DS43020250. ...It's delicious.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 146876,
+    "TextENGNew": "``...R-really?@k@vS16/45/DS43070536. Do you really mean it?@k@vS16/45/DS43070537. You're not lying to me, are you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 146877,
+    "TextENGNew": "Hanyuu kept checking again and again, so lacking in confidence.",
+    "significantChanges": true,
+    "changeReason": "Changed 'kept asking' to 'kept checking'; 確認 means to confirm/verify/check, not to ask.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 146878,
+    "TextENGNew": "...She would surely be furious if I told her, but I genuinely found those anxious little gestures of hers to be utterly endearing.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 146879,
+    "TextENGNew": "It was true that the vegetables were barely half-cooked, still raw at their centers.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 146880,
+    "TextENGNew": "The flavor was cloyingly sweet, and the broth was slick with grease from having failed to skim the scum.",
+    "significantChanges": true,
+    "changeReason": "Changed 'resin' to 'grease'; 脂 means fat/grease/oil, not resin. The new translation correctly describes greasy broth.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 146881,
+    "TextENGNew": "...And when I discovered flower bulbs among the ingredients -- which she had evidently mistaken for vegetables -- it took every ounce of my self-control not to burst out laughing.",
+    "significantChanges": true,
+    "changeReason": "Changed 'not spitting them out' to 'not burst out laughing'; 吹き出す means to burst out laughing/to crack up, not to spit food out.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 146882,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 146883,
+    "TextENGNew": "But I suppose I truly am the 'strange one,' as Hanyuu would say.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 146884,
+    "TextENGNew": "No matter what anyone said, I truly felt from the bottom of my heart... that it was very <i>delicious</i>.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 146885,
+    "TextENGNew": "And the smile Hanyuu wore when I told her so was truly beautiful -- truly lovely.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 146886,
+    "TextENGNew": "I felt the urge to hug her... but she'd definitely fling me away if I did that. With all her might.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 146887,
+    "TextENGNew": "So reluctantly, I settled for stealing glances at her face while making casual conversation with her, savoring that joy...",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 146888,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 146889,
+    "TextENGNew": "Hanyuu helped me clean the yard today.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 146890,
+    "TextENGNew": "At first, it was more like destruction than cleaning... No, that's going too far, but she did end up making the process longer than it needed to be.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 146891,
+    "TextENGNew": "Even so, she appears to have finally gotten the hang of it, and now I can trust her to do a good job without constantly advising or supervising her.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 146892,
+    "TextENGNew": "And... from time to time, I catch her smiling while humming some indecipherable tune likely from her home country, even looking like she's having fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 146893,
+    "TextENGNew": "Hanyuu has started smiling a lot these days.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 146894,
+    "TextENGNew": "...Though she gets angry even more than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 146895,
+    "TextENGNew": "Still, her expression has softened considerably compared to before, and the stiffness has all but vanished from her newly acquired feminine manner of speaking.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 146896,
+    "TextENGNew": "Just the other day, when I found her dozing off on a garden stone by a tree, I couldn't help but laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 146897,
+    "TextENGNew": "And the way she noticed my presence and woke up, then blushed with embarrassment at having been witnessed sleeping... was truly lovely and beautiful. She truly is a wonderful woman.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 146898,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 146899,
+    "TextENGNew": "However, I would appreciate it if she would stop punching me to hide her embarrassment.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 146900,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 146901,
+    "TextENGNew": "The time has finally come to execute my plan.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 146902,
+    "TextENGNew": "First, in order to pique her interest, I'll casually leave a miko outfit (one where the length of the pants is slightly above the knees just right) in her room.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 146903,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 146904,
+    "TextENGNew": "I found that outfit torn beyond recognition in my room.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 146905,
+    "TextENGNew": "A letter written in red ink had been placed beside it... but it seemed to be in the script of her homeland, and I could not read a word.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 146906,
+    "TextENGNew": "...I wonder what it means? I'll try asking her next time.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 146907,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 146908,
+    "TextENGNew": "The next day, Hanyuu was the same as always.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 146909,
+    "TextENGNew": "She sat across from me, ate, and made casual conversation with me while helping me around the shrine afterwards.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 146910,
+    "TextENGNew": "Because of that, I couldn't ask her about what that letter yesterday meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 146911,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 146912,
+    "TextENGNew": "Was that Hanyuu's work in the end?",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 146913,
+    "TextENGNew": "I thought about that as I checked my miko outfit closet...",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 146914,
+    "TextENGNew": "``...Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 146915,
+    "TextENGNew": "The vast collection of miko outfits that should have been stored inside had vanished without a trace.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 146916,
+    "TextENGNew": "Just when I was at my wit's end trying to think where they could have gone... I smelled something burning in the yard.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 146917,
+    "TextENGNew": "I looked out from the veranda to find Hanyuu in the middle of burning some fallen leaves she'd gathered.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 146918,
+    "TextENGNew": "``Umm... Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 146919,
+    "TextENGNew": "``Yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 146920,
+    "TextENGNew": "She smiled brightly at me while tilting her head in a cute manner.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 146921,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 146922,
+    "TextENGNew": "I caught a glimpse of what appeared to be red and white cloth in between the gaps of the burning mountain of leaves... It couldn't be...",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 146923,
+    "TextENGNew": "``Umm... Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 146924,
+    "TextENGNew": "``Yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 146925,
+    "TextENGNew": "Hanyuu beamed at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 146926,
+    "TextENGNew": "However...",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 146927,
+    "TextENGNew": "There was no trace of a smile in her eyes at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 146928,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 146929,
+    "TextENGNew": "Realizing that I'd have to ask her properly in order to get my intentions across to her, I returned to the drawing board.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 146930,
+    "TextENGNew": "And so I personally handed Hanyuu a different miko outfit from last time (this one was made of thin fabric that made it partially transparent) that I'd kept in the storeroom under the house, trying to be as sincere as possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 146931,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 146932,
+    "TextENGNew": "She tugged on my cheeks for so long I feared she'd tear them right off.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 146933,
+    "TextENGNew": "``I got rid of so many of them, yet you still have <i>more</i>...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 146934,
+    "TextENGNew": "...I felt somewhat embarrassed to receive such praise from her.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 146935,
+    "TextENGNew": "Month X, Day X",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 146936,
+    "TextENGNew": "I presented Hanyuu with another miko outfit (one with no sleeves) that I'd been keeping in a completely different storeroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 146937,
+    "TextENGNew": "...When I came to, I found the upper half of my body buried in the garden's thicket.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 146938,
+    "TextENGNew": "I managed to escape, and looked up to discover a sky full of stars.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 146939,
+    "TextENGNew": "Odd, I thought I talked to Hanyuu before noon... Huh? My memories are a blank.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 146940,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 146941,
+    "TextENGNew": "I presented Hanyuu with a miko outfit (explanation redacted) that I'd been keeping in the main shrine's holy statue.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 146942,
+    "TextENGNew": "...She demonstrated a killer locking technique that paralyzed my whole body.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 146943,
+    "TextENGNew": "I can't get off the floor thanks to that, so I'm writing this the day after. Owwwww.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 146944,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 146945,
+    "TextENGNew": "I presented a miko outfit (and so on and so forth)",
+    "significantChanges": true,
+    "changeReason": "Changed '(redacted)' to '(and so on and so forth)'; 以下略 means 'the rest is omitted/abbreviated,' not redacted, which implies censorship.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 146946,
+    "TextENGNew": "Month: X  Day: X",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 146947,
+    "TextENGNew": "I presented a miko outfit...",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 146948,
+    "TextENGNew": "``Will you cut it out alreadyyyyyyy?!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 146949,
+    "TextENGNew": "``Bwagha?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 146950,
+    "TextENGNew": "``I swear, you're so, so, so persistent!!@k@vS16/45/DS43070543. How many times do I have to tell you I'll never wear clothes like that before it gets through to you?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 146951,
+    "TextENGNew": "``Ah, well~.@k@vS16/46/DS43020313. If I keep encouraging you, then maybe one day you'll wear a miko outfit on a fancy?@k@vS16/46/DS43020314. That was my thought process, at least...``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 146952,
+    "TextENGNew": "``Did you just say ``fancy``?@k@vS16/45/DS43070545. You said ``on a fancy``, didn't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 146953,
+    "TextENGNew": "``So that means you know all the outfits you've recommended to me are far removed from the plane of common sense, yeah?!@k@vS16/45/DS43070547. Yet you're trying to get me to wear them anyway?! Are you trying to harass me instead?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 146954,
+    "TextENGNew": "``Not at all, never!@k@vS16/46/DS43020316. Me displeasing you is as impossible as it is for the sun to rise in the west.``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 146955,
+    "TextENGNew": "``You're doing it right now!@k@vS16/45/DS43070549. Right here, at this very moment!``",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 146956,
+    "TextENGNew": "``You've got it wrong, Hanyuu.@k@vS16/46/DS43020318. Everyone mistakes the pain, anxiety, and bewilderment of cultural differences as repugnance at first.``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 146957,
+    "TextENGNew": "``But it's all right. Once you overcome that, you'll surely feel better.@k@vS16/46/DS43020320. I guarantee it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 146958,
+    "TextENGNew": "``Like hell I can trust youuuuuuuuu!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 146959,
+    "TextENGNew": "I looked down at Riku, soaking wet while rolling across the ground, as I shook my raised fist.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 146960,
+    "TextENGNew": "I had just been in the middle of plant watering, so I splashed him with water from the bucket... but maybe it would have been better to punch him until he passed out for half a day like always.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 146961,
+    "TextENGNew": "``Agh, for all that is holy, how far down the road of deviancy are you trying to reach?!@k@vS16/45/DS43070552. I'm so dumbfounded I can't even speak!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 146962,
+    "TextENGNew": "``...But you just spoke.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 146963,
+    "TextENGNew": "``Shut up!@k@vS16/45/DS43070554. Besides, your attitude towards me is too much of a 180 compared to how you handle the other villagers!!@k@vS16/45/DS43070555. So much that I sometimes wonder if you're really the same person!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 146964,
+    "TextENGNew": "``Aah, please rest assured.@k@vS16/46/DS43020323. They are both genuinely me, make no mistake about it.@k@vS16/46/DS43020324. I treat others as kindly and sincerely as possible.@k@vS16/46/DS43020325. I strive to treat every encounter with courtesy as if it were once-in-a-lifetime.@k@vS16/46/DS43020326. ...That is me, Riku Furude.``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 146965,
+    "TextENGNew": "``Which means I'm one of those rare exceptions, doesn't it?@k@vS16/45/DS43070557. ...I'm so touched I could weep.``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 146966,
+    "TextENGNew": "``Aww, I didn't think you'd be so happy about it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 146967,
+    "TextENGNew": "``That was sarcasm!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 146968,
+    "TextENGNew": "I angrily raised my voice and turned my face in a huff, as if to tell him I was done with this, then turned to the overlook of the village below.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 146969,
+    "TextENGNew": "You can see the entire village from a bird's eye view at this elevated hill on the Furude Shrine grounds.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 146970,
+    "TextENGNew": "The breeze blowing from the bottom of the steep cliff was warm and pleasant, gently caressing my slightly sweaty cheeks.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 146971,
+    "TextENGNew": "(Sheesh...)",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 146972,
+    "TextENGNew": "I dropped my shoulders and sighed heavily.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 146973,
+    "TextENGNew": "...Even though it ticked me off, Riku was still resorting to whatever means necessary to recommend me miko outfits, and trying to get me to wear them.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 146974,
+    "TextENGNew": "His tenacity was strong... way too strong... that I even wanted to suspect he was either sick or possessed by some kind of spirit.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 146975,
+    "TextENGNew": "I had no particular desire to meddle in his personal tastes and hobbies, but I did wish he would stop assuming everyone shared them and forcing them upon others...",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 146976,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 146977,
+    "TextENGNew": "But on the other hand... by no means did I dislike these sorts of exchanges we had.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 146978,
+    "TextENGNew": "If anything, I was having so much fun whenever I yelled at him and got so worked up.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 146979,
+    "TextENGNew": "When I asked Ryuun-Ohc why that was, she responded simply as if it were the easiest question there was.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 146980,
+    "TextENGNew": "``That's because it's child's play, is it not?``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 146981,
+    "TextENGNew": "``Child's play...?@k@vS16/45/DS43070562. What's that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 146982,
+    "TextENGNew": "``Joking with each other, teasing each other...@k@vS16/00/DS43050154. I guess it's more accurate to say you're playing around.``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 146983,
+    "TextENGNew": "...I reflected on my past when I heard that.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 146984,
+    "TextENGNew": "In hindsight, I don't think I ever <i>played</i> with anyone since I was a child.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 146985,
+    "TextENGNew": "Teasing one another, making a commotion together.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 146986,
+    "TextENGNew": "...Getting desperate over stupid things, getting mad, laughing... I'd done none of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 146987,
+    "TextENGNew": "Part of that was because of my background as a Jedha who'd been ordered to fulfill her duty, but I also don't think there were many other Ryuun around my age, physically or mentally.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 146988,
+    "TextENGNew": "So if I ever had free time, I would practice my sword skills and techniques against Putus older than me.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 146989,
+    "TextENGNew": "That was everything I could do... And when I did that, I did indeed feel a sense of accomplishment and the joy of being praised.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 146990,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 146991,
+    "TextENGNew": "But those were truly my tools for survival. My <i>duty</i> as my reason for living.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 146992,
+    "TextENGNew": "Thus I delved deep into it... and never had the time to enjoy myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 146993,
+    "TextENGNew": "(But... it's different now.)",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 146994,
+    "TextENGNew": "<i>Playing</i> like this with Riku, who's honest to a fault and doesn't fear me as either a demon or a god... is fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 146995,
+    "TextENGNew": "Truly, from the very depths of my heart, I was enjoying myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 146996,
+    "TextENGNew": "``Furthermore... it is merely my own personal prediction, but I believe there is likely more to it than that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 146997,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 146998,
+    "TextENGNew": "``I'm sure that deep down, you have feelings for this Riku...``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 146999,
+    "TextENGNew": "``...How ridiculous.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 147000,
+    "TextENGNew": "I shook my head to drive out the words Ryuun-Ohc had told me just a little while ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 147001,
+    "TextENGNew": "That's right, it was ridiculous. It couldn't be true.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 147002,
+    "TextENGNew": "There's no way... I could have... such feelings for Riku...",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 147003,
+    "TextENGNew": "``It's a nice view, isn't it?@k@vS16/46/DS43020329. It's this shrine's pride and joy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 147004,
+    "TextENGNew": "``...Indeed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 147005,
+    "TextENGNew": "Brushing aside the stray strands of hair that had caught on my ear, I replied to Riku, who had at some point fallen into step beside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 147006,
+    "TextENGNew": "(He sure has guts after raising all that hell.)",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 147007,
+    "TextENGNew": "Though I was already completely used to it by now... I let out a resigned sigh in my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 147008,
+    "TextENGNew": "The troubling thing... and amusing thing about young Riku Furude was how he assumed without a doubt that people must like the same things he did.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 147009,
+    "TextENGNew": "So no matter how much I hated it, his mind interpreted that as <i>hiding embarrassment</i>, a trait which by this point I had already gone beyond exasperation and turned into admiration.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 147010,
+    "TextENGNew": "He could be called selfish in a sense. Plus, that tendency of his to not listen to others ticked me off from time to time.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 147011,
+    "TextENGNew": "...But there was no malice or ill will behind it.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 147012,
+    "TextENGNew": "He truly was pure, honest... and almost childlike in his amity.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 147013,
+    "TextENGNew": "Which was why I had come to somewhat <i>play along</i> with him like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 147014,
+    "TextENGNew": "It was somewhat humorous... and so I naturally broke out into a laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 147015,
+    "TextENGNew": "``...Heehee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 147016,
+    "TextENGNew": "``?@k@vS16/46/DS43020331. Is something the matter, Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 147017,
+    "TextENGNew": "``No, it's nothing.@k@vS16/45/DS43070570. Nothing... at all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 147018,
+    "TextENGNew": "I gazed down at the scenery again.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 147019,
+    "TextENGNew": "Come to think of it, I'd never once looked down at the village feeling as tranquil as this.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 147020,
+    "TextENGNew": "The people looked like tiny grains of rice as they tilled their fields and walked down the road between said fields.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 147021,
+    "TextENGNew": "Perhaps because it was nearly lunch, faint trails of cooking smoke were rising from houses all over.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 147022,
+    "TextENGNew": "I could indeed clearly sense people living their own lives... each in their own separate flow of time.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 147023,
+    "TextENGNew": "``...I have stayed at this shrine for quite a long time already.``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 147024,
+    "TextENGNew": "``Really?@k@vS16/46/DS43020333. It's gone by in a flash for me... It feels like it was only yesterday that we met.``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 147025,
+    "TextENGNew": "``...Does three months not feel like a long time to you humans?``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 147026,
+    "TextENGNew": "``Ahahaha, you've got a point there...@k@vS16/46/DS43020335. But maybe everything felt so fast because each day's been so much fun from start to finish.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 147027,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 147028,
+    "TextENGNew": "I deliberately kept my silence, but in truth... I felt the exact same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 147029,
+    "TextENGNew": "I'd spent every day messing around with Riku, yelling at him, smiling, sulking, getting embarrassed...",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 147030,
+    "TextENGNew": "Whenever I tried eating alone nowadays, the idea of eating by myself had even begun to feel unnatural.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 147031,
+    "TextENGNew": "These days were unbelievably bright and fun when I thought back on the me who'd wholly suppressed her emotions and hunted down Grifys.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 147032,
+    "TextENGNew": "...I'd considered leaving this place a number of times by now.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 147033,
+    "TextENGNew": "Going around from place to place to check if any Grifys were causing problems was my original mission. I didn't need to wait for a report from Ryuun-Ohc.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 147034,
+    "TextENGNew": "And Onigafuchi Village was like a rest stop to me... Simply a place to rest my weary bones for a short time.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 147035,
+    "TextENGNew": "All the more so given that I -- a being not even human -- staying here so long would surely cause Riku not merely trouble in caring for me, but needless hardship and inconvenience as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 147036,
+    "TextENGNew": "It was with that thought I'd try to sneak out at night... but every time, I couldn't help but want to stay here just a little longer and my resolve would waver, so I'd go back... This had happened too many times to even count.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 147037,
+    "TextENGNew": "That was how comfortable this place was... It felt so good that I'd grown reluctant to leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 147038,
+    "TextENGNew": "And so at some point... my desire to blindly search for Grifys faded... and now I was fully immersing myself in the comfort of sloth.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 147039,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 147040,
+    "TextENGNew": "So... was this God's punishment?",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 147041,
+    "TextENGNew": "The <i>news</i> I'd heard from Ryuun-Ohc last night had brought tension and a sense of duty to my heart for the first time in a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 147042,
+    "TextENGNew": "...And along with those... a <i>melancholy</i> I'd never once felt before.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 147043,
+    "TextENGNew": "``It's green all over right now since it's summer,@k@vS16/46/DS43020337. but once autumn comes the fields turn gold and the mountains turn red.@k@vS16/46/DS43020338. It's such a beautiful sight when you see it from here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 147044,
+    "TextENGNew": "``Is that so?``",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 147045,
+    "TextENGNew": "``Yes.@k@vS16/46/DS43020340. It's a little different from when we watched the cherry blossoms previously... more graceful than showy.@k@vS16/46/DS43020341. I think the villagers will gather here again and hold a lively party.``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 147046,
+    "TextENGNew": "...That's right, I remember now.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 147047,
+    "TextENGNew": "Since I was holed up in the estate, I could only see it through the gaps in the paper doors, but... many villagers gathered on the grounds and garden, watching the cherry blossoms from under the blooming trees.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 147048,
+    "TextENGNew": "They cheered joyfully all the way through the night... to the point where it was hard to get some sleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 147049,
+    "TextENGNew": "However, once everyone had gone, Riku secretly brought me some steamed buns that had been present at the party...",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 147050,
+    "TextENGNew": "I savored that sweet flavor I hadn't had in so long as we watched the cherry blossoms together, and made lively conversation all the way until dawn was near...",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 147051,
+    "TextENGNew": "``Oh, right.@k@vS16/46/DS43020343. Why don't you join in next time?``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 147052,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 147053,
+    "TextENGNew": "``Ah, it will be all right.@k@vS16/46/DS43020345. I'll make sure to talk to everyone first.@k@vS16/46/DS43020346. I think it would be a great opportunity to introduce you to the villagers.``",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 147054,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 147055,
+    "TextENGNew": "I knew there were rumors about my existence amongst the villagers. Though that said, it would have probably been more unusual if no one had noticed at all after I'd stayed in this estate for three months.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 147056,
+    "TextENGNew": "...It seemed Riku had explained to them that I was a Shugendou nun who'd been injured in the mountains.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 147057,
+    "TextENGNew": "The villagers appeared to have accepted that story to a certain extent based on Riku's established character and demeanor, but as expected, it was easy for undue suspicion to bloom since I never showed my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 147058,
+    "TextENGNew": "So Riku had been talking to me for a while about introducing me to the villagers...",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 147059,
+    "TextENGNew": "``I don't need to...@k@vS16/45/DS43070579. Besides, I'll just cause you trouble...``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 147060,
+    "TextENGNew": "``Trouble? Don't be ridiculous.``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 147061,
+    "TextENGNew": "``I want to tell everyone what a kind and wonderful woman you are.@k@vS16/46/DS43020349. That's all there is to it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 147062,
+    "TextENGNew": "``Riku...``",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 147063,
+    "TextENGNew": "``Besides, the villagers are all good people, so I'm sure they will accept you.@k@vS16/46/DS43020351. Shino-san in particular is around my age and is a friendly and gentle woman, so I think the two of you would hit it off.``",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 147064,
+    "TextENGNew": "``Do you... really think so?``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 147065,
+    "TextENGNew": "...I'd heard about this Shino lady over dinner before. She was the only daughter of the Kimiyoshi family, who served as the mayors of the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 147066,
+    "TextENGNew": "And sometimes I'd spot her visiting the shrine and making friendly chat with Riku.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 147067,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 147068,
+    "TextENGNew": "Speaking of which, come to think of it...",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 147069,
+    "TextENGNew": "Whenever I saw her talking to Riku... my chest would tighten and ache for some reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 147070,
+    "TextENGNew": "Then I'd get irritated for no reason... and act rather curt towards Riku afterwards.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 147071,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 147072,
+    "TextENGNew": "Could it be that this emotion was what they called jealousy...?",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 147073,
+    "TextENGNew": "``What do you think, Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 147074,
+    "TextENGNew": "``Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 147075,
+    "TextENGNew": "That warm, gentle, ever-smiling face of Riku's.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 147076,
+    "TextENGNew": "I was happy that he was always being considerate of me. Really, I was.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 147077,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 147078,
+    "TextENGNew": "But, I...",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 147079,
+    "TextENGNew": "``I'm very happy to know you feel that way.@k@vS16/45/DS43070584. ...But I can't promise that right now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 147080,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 147081,
+    "TextENGNew": "``Last night, Ryuun-Ohc...@k@vS16/45/DS43070586. Oh, that's my partner's name... she contacted me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 147082,
+    "TextENGNew": "...That's right.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 147083,
+    "TextENGNew": "She told me that a Grifys signal was detected in a region near Onigafuchi Village.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 147084,
+    "TextENGNew": "``...I'm sorry, Jedha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 147085,
+    "TextENGNew": "When Ryuun-Ohc summoned me and delivered the report, there was an uncharacteristic note of apology in her voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 147086,
+    "TextENGNew": "``Sorry for what?@k@vS16/45/DS43070588. It's your duty to keep an eye on Grifys actions and report any abnormalities to me, right?@k@vS16/45/DS43070589. You called me here and shared the information in accordance with that.@k@vS16/45/DS43070590. ...So I just need to fulfill my own duty.``",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 147087,
+    "TextENGNew": "``You are right, yes.@k@vS16/00/DS43050159. But...``",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 147088,
+    "TextENGNew": "``Don't worry.@k@vS16/45/DS43070592. Thanks to you, I managed to get three months of truly worthwhile rest.@k@vS16/45/DS43070593. My outlook might've gotten a bit narrow in the past, but it's okay now.@k@vS16/45/DS43070594. ...I'm fine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 147089,
+    "TextENGNew": "``...Jedha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 147090,
+    "TextENGNew": "``...@k@vS16/45/DS43070596. That's right.@k@vS16/45/DS43070597. It's pointless to hide anything from you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 147091,
+    "TextENGNew": "So long as I allowed my consciousness to sync with her, she knew every little thing I was feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 147092,
+    "TextENGNew": "That's probably why she was worried... and apologetic.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 147093,
+    "TextENGNew": "``Are you sure about this?@k@vS16/00/DS43050162. Even if you leave this land.``",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 147094,
+    "TextENGNew": "``It's not permanent, I'll be back.@k@vS16/45/DS43070599. It won't be long enough to be considered our final farewell or anything, yeah?``",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 147095,
+    "TextENGNew": "``True, it will not be long.@k@vS16/00/DS43050164. ...However, it seems you will need to be prepared for the possibility you may die this time.@k@vS16/00/DS43050165. From what I can tell from the Grifys' signal, this mission is too much for you on your own.``",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 147096,
+    "TextENGNew": "``...Yeah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 147097,
+    "TextENGNew": "A close look at the assembled information... revealed this was expected to be the largest mission I'd been involved in.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 147098,
+    "TextENGNew": "Several large settlements had been destroyed by ``demons``, and many residents had been killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 147099,
+    "TextENGNew": "In response, some feudal lord with military power dispatched an armed force in an attempt to suppress them... but nearly all of them were cruelly wiped out, with only a select few returning to the castle alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 147100,
+    "TextENGNew": "(Are they seriously planning to create their own country or something...?)",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 147101,
+    "TextENGNew": "Either way, what was with this show of force that seemed aimed at targeting the wretched state of the Putus?",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 147102,
+    "TextENGNew": "Could this possibly be another situation caused by a Putus or something...?",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 147103,
+    "TextENGNew": "``...Jedha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 147104,
+    "TextENGNew": "``Yeah?``",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 147105,
+    "TextENGNew": "``Perhaps you'll tell me that I'm contradicting my duties again when I say this.@k@vS16/00/DS43050168. But this mission is far too dangerous.@k@vS16/00/DS43050169. I'm well aware this is presumptuous of me, but I'd like to suggest you avoid it and keep a watchful eye over the proceedings.``",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 147106,
+    "TextENGNew": "``...@k@vS16/45/DS43070604. You're right, that was presumptuous.@k@vS16/45/DS43070605. Are you telling me to abandon my duty?``",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 147107,
+    "TextENGNew": "``My apologies.@k@vS16/00/DS43050171. Even so, I believe it would be foolish and ill-advised to lose your life on a mission with no chance of victory.``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 147108,
+    "TextENGNew": "``This case is too harsh to call your responsibility.@k@vS16/00/DS43050173. So I don't believe anyone would blame you for overlooking it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 147109,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 147110,
+    "TextENGNew": "``The ``demonification`` of Grifys is indeed a threat to the humans of this world.@k@vS16/00/DS43050175. But I believe this is finally a good time for the humans to seek their own ways to resist them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 147111,
+    "TextENGNew": "``In fact, through the knowledge inherited from your Ryuun brethren, humans have learned the means to manufacture gunpowder, and are discovering how to refine steel.``",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 147112,
+    "TextENGNew": "``Making free use of wisdom to repel a powerful enemy...@k@vS16/00/DS43050178. Do you not believe that will ultimately contribute to the development of this world?``",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 147113,
+    "TextENGNew": "``Military development fosters civilizations, huh?@k@vS16/45/DS43070608. ...But the blood of unnecessary sacrifices is spilled until then.``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 147114,
+    "TextENGNew": "``Don't go saying the same things as the elders, Ryuun-Ohc.@k@vS16/45/DS43070610. Besides, weren't you the one who taught me that mindset led to the ruin of the Ryuun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 147115,
+    "TextENGNew": "``But Jedha.@k@vS16/00/DS43050180. It is also true that you're reaching your limit for handling this with your power alone.@k@vS16/00/DS43050181. And you yourself have realized this as well, haven't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 147116,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 147117,
+    "TextENGNew": "Even I couldn't say anything to that.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 147118,
+    "TextENGNew": "...Ryuun-Ohc argued with me in an uncharacteristically strong tone.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 147119,
+    "TextENGNew": "``It bears repeating, but lately the Grifys have been growing more violent and crafty.@k@vS16/00/DS43050183. In terms of individual strength, there is likely no one who rivals you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 147120,
+    "TextENGNew": "``...But if you go against a faction with an established leadership, not even you will emerge unscathed.``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 147121,
+    "TextENGNew": "``...You have to consider the worst-case scenario as well.@k@vS16/00/DS43050186. Like the battles on the mainland.``",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 147122,
+    "TextENGNew": "``Yes... perhaps.@k@vS16/45/DS43070613. But...``",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 147123,
+    "TextENGNew": "I took my fully repaired sword and sheathed it as I carefully emphasized every single word.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 147124,
+    "TextENGNew": "``This is my duty.@k@vS16/45/DS43070615. To slay all the Grifys who bring harm to the humans of this world and threaten the peace of my brethren.@k@vS16/45/DS43070616. ...That is why the Jedha exist. That is why I exist.``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 147125,
+    "TextENGNew": "``...Is that really true, Jedha?@k@vS16/00/DS43050188. Is that really possible?@k@vS16/00/DS43050189. Do you yourself believe that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 147126,
+    "TextENGNew": "``...Stop.``",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 147127,
+    "TextENGNew": "``...I know you are lying.@k@vS16/00/DS43050191. Deep down, what you truly want is for Riku Furude t...``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 147128,
+    "TextENGNew": "``I said stop!!@k@vS16/45/DS43070619. ...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 147129,
+    "TextENGNew": "I let out a shout of anger that felt like it sent my blood surging... and I ended up the one surprised instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 147130,
+    "TextENGNew": "I then took many deep breaths in an attempt to quell my disordered emotions.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 147131,
+    "TextENGNew": "``Jedha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 147132,
+    "TextENGNew": "``...Sorry.@k@vS16/45/DS43070621. I don't know what got into me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 147133,
+    "TextENGNew": "``No, I should be apologizing.@k@vS16/00/DS43050194. ...I couldn't help but say that even knowing it was rude and would infuriate you.@k@vS16/00/DS43050195. So that you yourself would understand your own true feelings...``",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 147134,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 147135,
+    "TextENGNew": "That was right.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 147136,
+    "TextENGNew": "Ryuun-Ohc is like another me.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 147137,
+    "TextENGNew": "That's why she sensed I was trying to cover up my hesitation, then pointed it out and tried to correct it.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 147138,
+    "TextENGNew": "...Right now, I'm both annoyed... and grateful for that.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 147139,
+    "TextENGNew": "``It's as you say.@k@vS16/45/DS43070624. I think it's a problem that I won't be able to avoid forever.@k@vS16/45/DS43070625. ...I know that.@k@vS16/45/DS43070626. ...Once this is over, I'll seriously consider it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 147140,
+    "TextENGNew": "``...Jedha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 147141,
+    "TextENGNew": "``Oh come on, I'll be back.@k@vS16/45/DS43070628. ...I'll never be killed so easily.``",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 147142,
+    "TextENGNew": "``...Understood.@k@vS16/00/DS43050198. In that case, I suggest transferring my personality element into your sword's charged crystal for this mission.@k@vS16/00/DS43050199. ...I ask for your permission.``",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 147143,
+    "TextENGNew": "``You're saying you'll come with me?@k@vS16/45/DS43070630. You're making a pretty big deal out of this, don't you think?``",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 147144,
+    "TextENGNew": "I was a bit surprised by her unexpected request. This really was the first time she'd said anything like this in the long time we'd known each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 147145,
+    "TextENGNew": "...But Ryuun-Ohc was serious. And that spoke volumes to how grave this mission was.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 147146,
+    "TextENGNew": "``There are too many uncertain factors in this case.@k@vS16/00/DS43050201. You should use everything at your disposal.@k@vS16/00/DS43050202. And besides...``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 147147,
+    "TextENGNew": "``...Besides, what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 147148,
+    "TextENGNew": "``I do not want you to die as you are now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 147149,
+    "TextENGNew": "``Then you're...``",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 147150,
+    "TextENGNew": "``I will be departing tomorrow morning for the location where the problem has occurred.@k@vS16/45/DS43070633. That is my duty.``",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 147151,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 147152,
+    "TextENGNew": "Riku's eyes widened at the sudden news, his voice failing him until...",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 147153,
+    "TextENGNew": "``...It will be lonely.``",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 147154,
+    "TextENGNew": "Perhaps that was all he could bring himself to say, as his gaze fell to the ground and he grew silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 147155,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 147156,
+    "TextENGNew": "...Strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 147157,
+    "TextENGNew": "I felt lonely too... but hearing that from Riku made me somewhat <i>happy</i> as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 147158,
+    "TextENGNew": "Was that because I could interpret that as proof that he'd miss me if I were gone...?",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 147159,
+    "TextENGNew": "``Will you... never come back?``",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 147160,
+    "TextENGNew": "``Ahaha, I'll be back... once I've accomplished my mission.@k@vS16/45/DS43070636. There are still repairs on my equipment to be done, but more importantly, it doesn't change the fact that this place is still an important surveillance zone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 147161,
+    "TextENGNew": "That's right... We still hadn't figured out the truth behind that Putus.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 147162,
+    "TextENGNew": "If he had comrades and they came back here in some form... then it'd undoubtedly be a repeat of 20 years ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 147163,
+    "TextENGNew": "What's more, I'd planted a sclerotium marker in the water source. If it reacted, that would be undeniable proof that <i>he</i> or his group would show themselves to me again.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 147164,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 147165,
+    "TextENGNew": "However, was the fact that I was praying that such a turn of events would never come about a sign of sloth? Or...?",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 147166,
+    "TextENGNew": "``Please don't push yourself, all right?@k@vS16/46/DS43020359. Please make it back safely, as unharmed as possible.``",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 147167,
+    "TextENGNew": "``Heehee... granting that wish is what would be pushing it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 147168,
+    "TextENGNew": "Though the Grifys were weaker than me individually, it was a different story when they had numbers on their side.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 147169,
+    "TextENGNew": "What's more, I wasn't familiar with the land and had no idea what sort of ambush they'd be planning, so I was at a clear disadvantage.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 147170,
+    "TextENGNew": "Even if it wasn't as large-scale as that fierce battle on the mainland, I couldn't let my guard down.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 147171,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 147172,
+    "TextENGNew": "I focused on the overlook of the village below me, staying silent to sort through my feelings.",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 147173,
+    "TextENGNew": "...Riku might have felt I was treating him coldly.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 147174,
+    "TextENGNew": "But... I couldn't think of anything sensible to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 147175,
+    "TextENGNew": "And the part of me that felt such hesitation... bewildered me.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 147176,
+    "TextENGNew": "How I conduct my mission shouldn't even have anything to do with Riku to begin with.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 147177,
+    "TextENGNew": "Yet why did I need to be so considerate?",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 147178,
+    "TextENGNew": "Why was I speaking so incredibly openly with Riku?",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 147179,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 147180,
+    "TextENGNew": "Was it just as Ryuun-Ohc said after all?",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 147181,
+    "TextENGNew": "I'm sure that to me... Riku is special.",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 147182,
+    "TextENGNew": "That's why my heart aches so much for him...",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 147183,
+    "TextENGNew": "``...By the way, Hanyuu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 147184,
+    "TextENGNew": "``Yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 147185,
+    "TextENGNew": "As if to sweep away the heavy atmosphere, Riku deliberately adopted a bright tone and turned to face me.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 147186,
+    "TextENGNew": "...I smiled bitterly on the inside for his lack of subtlety, and turned to him as naturally as I could.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 147187,
+    "TextENGNew": "``I've been thinking about asking this for a while now...@k@vS16/46/DS43020362. Hanyuu, you said you come from a different world...@k@vS16/46/DS43020363. or rather, a different dimension from ours, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 147188,
+    "TextENGNew": "``Yes, that is right.@k@vS16/45/DS43070641. I traveled across the so-called 5th dimensional wall to come to this world.``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 147189,
+    "TextENGNew": "When Riku previously asked me where I'd come from, I was honest with him even though I felt I'd have a hard time giving an authentic explanation.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 147190,
+    "TextENGNew": "Perhaps I should have told him that I was a retainer of a star far beyond the sky that existed in a place called <i>space</i>, but I felt kinda reluctant to do so.",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 147191,
+    "TextENGNew": "As for why, it's because strictly, I'm also a <i>person</i> of this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 147192,
+    "TextENGNew": "It was true that the process which we'd come here, our abilities, knowledge... and above all else, our appearances were abnormal, but I could definitely be called a person.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 147193,
+    "TextENGNew": "``...I don't really understand.@k@vS16/46/DS43020365. What exactly is the 5th dimension?``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 147194,
+    "TextENGNew": "``How do I put it...@k@vS16/45/DS43070643. For example, let's say this pebble is a world.``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 147195,
+    "TextENGNew": "With those words, I picked up a tiny pebble at my feet and flicked it with a casual snap of my wrist.",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 147196,
+    "TextENGNew": "The pebble landed a short distance away and rolled until it turned to the left, hit a tree, and stopped.",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 147197,
+    "TextENGNew": "``That pebble moving from my hand to over there is what we call a 4th dimensional concept.@k@vS16/45/DS43070645. The past when it was in my hand, the present where it's lying on the ground...@k@vS16/45/DS43070646. And the future where I'll pick it up again...``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 147198,
+    "TextENGNew": "``I see.``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 147199,
+    "TextENGNew": "``However, while that pebble just rolled to the left, there may have also been cases where certain factors would have caused it to roll to the right.@k@vS16/45/DS43070648. Or maybe cases where it would have rolled straight, too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 147200,
+    "TextENGNew": "``Furthermore, while the chances are slim, it also could have kept rolling until it went past the boundaries of the shrine.@k@vS16/45/DS43070650. That's what we call a <i>possibility</i>.@k@vS16/45/DS43070651. A 5th dimensional concept.``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 147201,
+    "TextENGNew": "The 3rd dimension, defined by the compositions which make up all objects... in other words, solid bodies.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 147202,
+    "TextENGNew": "The 4th dimension, defined by time which demonstrates the changes in those objects themselves.",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 147203,
+    "TextENGNew": "And the 5th dimension, defined by possibilities... the states in which objects can exist...",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 147204,
+    "TextENGNew": "The things divided by that dimension are what are known as parallel worlds.",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 147205,
+    "TextENGNew": "``...So what you are saying is that you were a person of possibility?``",
+    "significantChanges": true,
+    "changeReason": "Changed 'possible person' to 'person of possibility'; the new phrasing more accurately conveys the Japanese 可能性の人, meaning someone embodying or representing possibility.",
+    "changeScore": 3
+  },
+  {
+    "index": 342,
+    "MessageID": 147206,
+    "TextENGNew": "``It's just as you deduced.@k@vS16/45/DS43070653. We are humans who reached a branch along the same process of evolution the humans of this world traveled down,@k@vS16/45/DS43070654. and turned right at the branch while you humans turned left.``",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 147207,
+    "TextENGNew": "...For example, humans evolved from monkeys, and lost their tails in that process.",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 147208,
+    "TextENGNew": "Furthermore, they lost their fur, and went from being quadrupeds to bipeds.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 147209,
+    "TextENGNew": "However, those very monkeys which served as their base may have lost horns they'd originally had through evolution.",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 147210,
+    "TextENGNew": "Our ancestors didn't lose those horns.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 147211,
+    "TextENGNew": "And through our race's physical and mental capabilities evolving beyond the humans of this world, our civilization developed, prospered... and declined faster than theirs.",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 147212,
+    "TextENGNew": "``...Sounds difficult.@k@vS16/46/DS43020369. Since your kind possessed advanced capabilities and culture, normally I would think that your kind would have prospered more than us humans and be living happily...@k@vS16/46/DS43020370. But reality isn't fair, is it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 147213,
+    "TextENGNew": "``You're right about that...@k@vS16/45/DS43070656. But though we had advanced capabilities, perhaps we were lacking something that could control them.@k@vS16/45/DS43070657. That's why we weren't able to use them to their fullest, and only drove ourselves to ruin instead.``",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 147214,
+    "TextENGNew": "Thinking that made me want to wonder... how wealth and superiority were ultimately defined.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 147215,
+    "TextENGNew": "But perhaps that was simply the nature of evolution and growth.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 147216,
+    "TextENGNew": "``...In that case, can I ask you something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 147217,
+    "TextENGNew": "``What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 147218,
+    "TextENGNew": "``Are you...@k@vS16/46/DS43020373. currently happy in this world?``",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 147219,
+    "TextENGNew": "I couldn't answer that question immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 147220,
+    "TextENGNew": "I'd been burdened with my mission for as long as I could remember, and had lived a life of constant battle and wandering.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 147221,
+    "TextENGNew": "It's true that was fulfilling, but if I were asked if I was happy... honestly, I'd probably say no.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 147222,
+    "TextENGNew": "However, this time I spent with Riku... could indeed possibly be called happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 147223,
+    "TextENGNew": "Then, am I happy right now...?",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 147224,
+    "TextENGNew": "``...Ah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 147225,
+    "TextENGNew": "Just then.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 147226,
+    "TextENGNew": "We spotted someone headed our way from the direction of the shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 147227,
+    "TextENGNew": "I squinted to discover it was a borderline elderly man who wore the same pants and silk garments as Riku.",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 147228,
+    "TextENGNew": "``Father...``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 147229,
+    "TextENGNew": "``Fa... ther?``",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 147230,
+    "TextENGNew": "I immediately understood the meaning of that word.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 147231,
+    "TextENGNew": "So this was Riku's father?",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 147232,
+    "TextENGNew": "From what I remembered, the local feudal lord had requested he move to the castle town by himself to work as a teacher...",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 147233,
+    "TextENGNew": "``Long time no see, Riku. I trust you are in good health?``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 147234,
+    "TextENGNew": "``Yes, of course.@k@vS16/46/DS43020377. Much appreciation to you as well for your long service.``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 147235,
+    "TextENGNew": "``Oh come now, it was nothing. And what's more, I still have to return to the castle anyway... Hmm?``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 147236,
+    "TextENGNew": "Riku's father looked over his son's shoulder and turned to me. He must have finally noticed.",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 147237,
+    "TextENGNew": "When I saw his appearance... I gasped in recognition.",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 147238,
+    "TextENGNew": "``You are...``",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 147239,
+    "TextENGNew": "``? Impossible, you're... no, you are...``",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 147240,
+    "TextENGNew": "Riku's father gasped in shock when he saw my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 147241,
+    "TextENGNew": "When Riku saw that major reaction, he looked back and forth between the two of us in confusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 147242,
+    "TextENGNew": "``Huh?@k@vS16/46/DS43020379. Hanyuu, do you know my father?@k@vS16/46/DS43020380. And is it the same for you, Father?``",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 147243,
+    "TextENGNew": "``...Yes, we met a while ago.``",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 147244,
+    "TextENGNew": "``Y-Yes... Hmm? Hanyuu...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 147245,
+    "TextENGNew": "With a bitter smile and a shrug of my shoulders, I answered.",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 147246,
+    "TextENGNew": "But when Riku's father saw that, his eyes widened in bewilderment.",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 147247,
+    "TextENGNew": "``Yes.@k@vS16/46/DS43020382. I came up with it because it was difficult to say her name.@k@vS16/46/DS43020383. Isn't that right, Hanyuu?``",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 147248,
+    "TextENGNew": "``Not that I remember ever giving you permission in the end, though...``",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 147249,
+    "TextENGNew": "``R-Riku...! Do you have any idea who this is?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 147250,
+    "TextENGNew": "``Oh, it's fine.@k@vS16/45/DS43070664. Not worth scolding him over...@k@vS16/45/DS43070665. I mean, <i>please do not scold him for this</i>.``",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 147251,
+    "TextENGNew": "``...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 147252,
+    "TextENGNew": "I revised my speech when I realized I'd carelessly reverted to my old way of talking... Perhaps that was just as surprising to Riku's father, as he was clearly taken aback and speechless.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 147253,
+    "TextENGNew": "``Anyway, Riku.@k@vS16/45/DS43070667. I find myself finally growing hungry.@k@vS16/45/DS43070668. I will take care of the cleaning here, so please make lunch.``",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 147254,
+    "TextENGNew": "``Ah, yes.@k@vS16/46/DS43020385. Understood.``",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 147255,
+    "TextENGNew": "With those words, Riku hurried off toward the estate.",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 147256,
+    "TextENGNew": "...His father saw him off as though he'd encountered some terrifying monstrosity.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 147257,
+    "TextENGNew": "Once I was sure I could no longer see Riku, I sat down on a nearby garden stone and turned to his father... the chief priest of Furude Shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 147258,
+    "TextENGNew": "``...It has been a long time since I gave you that command.@k@vS16/45/DS43070670. I never would've thought you were Priest Furude.``",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 147259,
+    "TextENGNew": "``Everyone who carried out the rituals perished in that incident 20 years ago, so I was entrusted with this shrine at the behest of the surviving villagers.``",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 147260,
+    "TextENGNew": "``I see.@k@vS16/45/DS43070672. ...But I must say, you're somewhat thinner than I remember you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 147261,
+    "TextENGNew": "``Hahaha, age comes to all of us. I have lived to this day believing that this life you saved and the teachings you entrusted to me are more precious and valuable than diamonds.``",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 147262,
+    "TextENGNew": "``Hmm, such noble dedication.@k@vS16/45/DS43070674. It would seem my assessment of you was correct.``",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 147263,
+    "TextENGNew": "I said that and chuckled. Though he was still a little nervous, Riku's father smiled back at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 147264,
+    "TextENGNew": "...The reason I appointed him as my oracle 20 years ago was because he seemed so sincere that it was almost embarrassing to watch.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 147265,
+    "TextENGNew": "Amidst the panicking villagers, he had strayed from the mountain path to rescue an old woman who had tumbled into a ravine, and in doing so had nearly been killed by remnants of the Grifys -- until I intervened.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 147266,
+    "TextENGNew": "``I was originally dispatched to this land by the feudal lord to teach agriculture techniques. So I handed my position over to Riku when he came of age, and have now returned to my original duties.``",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 147267,
+    "TextENGNew": "``And when you were sent there, you came across damage caused by ``demons``, huh?@k@vS16/45/DS43070676. You and your son seem to have the worst of luck.``",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 147268,
+    "TextENGNew": "``Ha, hahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 147269,
+    "TextENGNew": "Even so, it should have been no easy feat for him to spread my message to the villagers and restore the destroyed shrine to this extent.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 147270,
+    "TextENGNew": "He had more wrinkles and seemed a bit smaller than he did back then... but it appeared the kindly personality that exuded from his gentle face hadn't changed at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 147271,
+    "TextENGNew": "It was because of him that many of the villagers decided to stay in the village instead of leaving after such a tragedy, by relieving their fears and making them believe they were safe in the name of God...",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 147272,
+    "TextENGNew": "``Um... Oyashiro-sama?``",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 147273,
+    "TextENGNew": "``Hmm?@k@vS16/45/DS43070678. ...Ah, you mean me.@k@vS16/45/DS43070679. Yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 147274,
+    "TextENGNew": "``My sincerest apologies for the rude question, but... what is your relation to my son?``",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 147275,
+    "TextENGNew": "``...No, I am merely a freeloader.@k@vS16/45/DS43070681. He took me in out of gratitude for saving his life, nothing more.``",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 147276,
+    "TextENGNew": "...Funny.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 147277,
+    "TextENGNew": "Even though I myself said it, the word <i>freeloader</i> made my heart throb with agony.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 147278,
+    "TextENGNew": "What even am I to Riku to begin with?",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 147279,
+    "TextENGNew": "A guest?",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 147280,
+    "TextENGNew": "A housemate?",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 147281,
+    "TextENGNew": "Or... family...?",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 147282,
+    "TextENGNew": "(...As if.)",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 147283,
+    "TextENGNew": "How audacious and absurd it would be to consider me family when we share no blood, much less the same race.",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 147284,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 147285,
+    "TextENGNew": "But audacious toward whom, I wondered...?",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 147286,
+    "TextENGNew": "``Oh, come to think of it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 147287,
+    "TextENGNew": "I could tell this line of thought wasn't headed in a happy direction, so I scrambled for another topic when I suddenly remembered something.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 147288,
+    "TextENGNew": "I gave this man another important task on that day 20 years ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 147289,
+    "TextENGNew": "``...I know this is an abrupt question, but tell me if you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 147290,
+    "TextENGNew": "``Yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 147291,
+    "TextENGNew": "``About that baby I entrusted to you...@k@vS16/45/DS43070686. are they well?``",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 147292,
+    "TextENGNew": "Back when Onigafuchi Village was attacked by the ``demons``...",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 147293,
+    "TextENGNew": "I saved a baby from a burning house on the verge of collapse.",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 147294,
+    "TextENGNew": "After that, I entrusted the child to this man I'd happened to come across and save afterwards.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 147295,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 147296,
+    "TextENGNew": "``What's wrong?``",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 147297,
+    "TextENGNew": "That reaction made me nervous.",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 147298,
+    "TextENGNew": "Don't tell me the child passed away...?",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 147299,
+    "TextENGNew": "``Oh, nothing. He gets colds sometimes, but he seems healthy for now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 147300,
+    "TextENGNew": "``I see.@k@vS16/45/DS43070689. If possible, I'd like to check up on him and see how he's doing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 147301,
+    "TextENGNew": "I breathed a sigh of relief and smiled.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 147302,
+    "TextENGNew": "Since the child was a baby at the time, he would be about 20 years old now. He's probably grown into a fine young man...",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 147303,
+    "TextENGNew": "``...Um, Oyashiro-sama?``",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 147304,
+    "TextENGNew": "``You need not call me that.@k@vS16/45/DS43070691. I am...``",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 147305,
+    "TextENGNew": "``Do you truly not know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 147306,
+    "TextENGNew": "``Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 147307,
+    "TextENGNew": "``...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 147308,
+    "TextENGNew": "Once I heard that...",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 147309,
+    "TextENGNew": "I finally realized how thickheaded I'd been... and gasped.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 147310,
+    "TextENGNew": "No way.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 147311,
+    "TextENGNew": "Could it really be...?",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 147312,
+    "TextENGNew": "``Yes, precisely. The child you entrusted to me is my son... Riku.``",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 147313,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 147314,
+    "TextENGNew": "``...Raaaaaagh!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 147315,
+    "TextENGNew": "I cut down one of the Grifys blocking my path after exchanging several blows, collapsing one corner of their encirclement.",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 147316,
+    "TextENGNew": "They flinched for several beats at that force, giving me a chance to throw myself into the shadow of a collapsed house, move quickly under their noses... and finally catch my breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 147317,
+    "TextENGNew": "``Haah, haah, haah...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 147318,
+    "TextENGNew": "I wiped my clammy forehead with my palm.",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 147319,
+    "TextENGNew": "I felt a slimy sensation and a sharp pain running through my temple... It seemed I'd suffered a minor wound to my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 147320,
+    "TextENGNew": "``To think my skills would have dulled so far that I didn't even notice I was cut.@k@vS16/45/DS43070698. ...Kh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 147321,
+    "TextENGNew": "I took out some ointment from the medicine bag at my waist, rubbed it over the wound that pierced my left thigh, and wrapped a cloth around it.",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 147322,
+    "TextENGNew": "My clothes were already stained dark with blood and mud, and my shoulder was burning with a profound numbness.",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 147323,
+    "TextENGNew": "The cloak that was supposed to protect me from enemy attacks was now torn to shreds beyond recognition, its function greatly diminished.",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 147324,
+    "TextENGNew": "The sight was more gruesome than I'd predicted... no, far beyond what I'd expected.",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 147325,
+    "TextENGNew": "The target of this hunt was unquestionably not human. This had been a trap, meticulously prepared to destroy me -- the Jedha, the Putus.",
+    "significantChanges": true,
+    "changeReason": "Changed plural 'targets were inhuman' to singular 'target was not human'; the Japanese 対象は refers to a singular target, and 人間ではない means 'is not human' (referring to the speaker), not 'inhuman.'",
+    "changeScore": 3
+  },
+  {
+    "index": 462,
+    "MessageID": 147326,
+    "TextENGNew": "First of all, they hadn't killed all the residents of this village, unlike anything before.",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 147327,
+    "TextENGNew": "Instead, they'd put the brutally maimed corpses on display in public, stirring up fear and confusion among the survivors.",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 147328,
+    "TextENGNew": "As a result, they fled in a panic, so I had to keep running around to protect them.",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 147329,
+    "TextENGNew": "(They've really done it now...!)",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 147330,
+    "TextENGNew": "I gritted my teeth as I observed the Grifys' actions from the shadows.",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 147331,
+    "TextENGNew": "In terms of numbers, they were probably on the same scale as the attack on Onigafuchi Village 20 years ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 147332,
+    "TextENGNew": "But... everything was different.",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 147333,
+    "TextENGNew": "Their individual strengths.",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 147334,
+    "TextENGNew": "Their craftiness. Their brutality.",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 147335,
+    "TextENGNew": "And there was an unmistakable intelligence directing their movements with clear purpose...!",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 147336,
+    "TextENGNew": "``Ryuun-Ohc, how many are left?``",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 147337,
+    "TextENGNew": "``Over 20... no, 30!@k@vS16/00/DS43050205. They're approaching from the northeast, southwest, and southeast! They're trying to surround you again!``",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 147338,
+    "TextENGNew": "``Kh...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 147339,
+    "TextENGNew": "I know it's too late to regret it, but it seems this really was too much for me to resolve on my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 147340,
+    "TextENGNew": "At least back during the Onigafuchi incident, I had Shezhen Jedha to secure the survivors' evacuation route and guide them, allowing me to focus all my effort on exterminating the Grifys.",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 147341,
+    "TextENGNew": "How reckless and rash it was for me to think I could handle both roles on my own.",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 147342,
+    "TextENGNew": "``You need to retreat now, Jedha!@k@vS16/00/DS43050207. You will be in serious danger if you keep this up!``",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 147343,
+    "TextENGNew": "``Hah... don't be ridiculous!@k@vS16/45/DS43070703. Not all the survivors have made it across the suspension bridge to the neighboring village.@k@vS16/45/DS43070704. If I withdraw now, the Grifys will attack them en masse!``",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 147344,
+    "TextENGNew": "``B-but...``",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 147345,
+    "TextENGNew": "``Not being able to transform into my astral body is a significant disadvantage, though...``",
+    "significantChanges": true,
+    "changeReason": "Changed 'taking its toll' to 'a significant disadvantage'; 痛い here means painful/a serious drawback, describing a tactical limitation rather than gradual wearing down.",
+    "changeScore": 3
+  },
+  {
+    "index": 482,
+    "MessageID": 147346,
+    "TextENGNew": "Now that I was so badly injured, it would be impossible for me to turn into my astral body, rush the enemy's stronghold, and slaughter them all in one fell swoop.",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 147347,
+    "TextENGNew": "In that case... all I could do was keep crushing them individually and flee before they encircled me, no matter how inefficient and dangerous it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 147348,
+    "TextENGNew": "``Ryuun-Ohc, which of those three are the weakest in terms of numbers and strength?``",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 147349,
+    "TextENGNew": "``The southeast.@k@vS16/00/DS43050210. ...Jedha, don't tell me...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 147350,
+    "TextENGNew": "``Yeah, I'm gonna do exactly what you're thinking...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 147351,
+    "TextENGNew": "``Monitor the perimeter and let me know right away if the situation changes.@k@vS16/45/DS43070709. I'm gonna charge on the count of ten.@k@vS16/45/DS43070710. ...Let's go!``",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 147352,
+    "TextENGNew": "``...Understood.@k@vS16/00/DS43050212. Good luck to you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 147353,
+    "TextENGNew": "``Yeah... Also, Ryuun-Ohc?``",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 147354,
+    "TextENGNew": "``Yes?``",
+    "significantChanges": false
+  },
+  {
+    "index": 491,
+    "MessageID": 147355,
+    "TextENGNew": "``Do not call me Jedha any longer.@k@vS16/45/DS43070713. My name is Hanyuu!@k@vS16/45/DS43070714. --I will answer to nothing else!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 147356,
+    "TextENGNew": "``Oooooooooooahhhhhhhhhhh!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 493,
+    "MessageID": 147357,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 147358,
+    "TextENGNew": "I kept telling Riku ever since he was a child:",
+    "significantChanges": false
+  },
+  {
+    "index": 495,
+    "MessageID": 147359,
+    "TextENGNew": "``The one who saved your life was the goddess Oyashiro-sama.``",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 147360,
+    "TextENGNew": "``Oyashiro-sama has horns, so you may mistake her for a demon at a glance.``",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 147361,
+    "TextENGNew": "``But she's actually a compassionate and noble woman full of godlike affection...``",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 147362,
+    "TextENGNew": "...Thinking about it now, I believe that he has wished to meet you for a long time.",
+    "significantChanges": false
+  },
+  {
+    "index": 499,
+    "MessageID": 147363,
+    "TextENGNew": "Rather than piety... I would say his feelings were motivated by something more akin to yearning.",
+    "significantChanges": false
+  },
+  {
+    "index": 500,
+    "MessageID": 147364,
+    "TextENGNew": "And he constantly envisions you as his ideal woman...",
+    "significantChanges": false
+  },
+  {
+    "index": 501,
+    "MessageID": 147365,
+    "TextENGNew": "............",
+    "significantChanges": false
+  },
+  {
+    "index": 502,
+    "MessageID": 147366,
+    "TextENGNew": "Yes, even if it wasn't perfectly, I did raise him... so I can tell.",
+    "significantChanges": false
+  },
+  {
+    "index": 503,
+    "MessageID": 147367,
+    "TextENGNew": "That he surely loves you...",
+    "significantChanges": false
+  },
+  {
+    "index": 504,
+    "MessageID": 147368,
+    "TextENGNew": "``?!@k@vS16/00/DS43050215. Hanyuu, your sword is already at its limit!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 505,
+    "MessageID": 147369,
+    "TextENGNew": "``Kh...!@k@vS16/45/DS43070717. Ryuun-Ohc, I'll completely unleash the ``claw blades`` and finish them off all at once!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 506,
+    "MessageID": 147370,
+    "TextENGNew": "``Th-that's too dangerous!@k@vS16/00/DS43050217. If you completely unleash them, your mind and sense of self will break down...``",
+    "significantChanges": false
+  },
+  {
+    "index": 507,
+    "MessageID": 147371,
+    "TextENGNew": "``...I'll only unleash them for a brief time, and seal them again afterwards.@k@vS16/45/DS43070719. ...As long as I'm alive after this, that isssssss!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 508,
+    "MessageID": 147372,
+    "TextENGNew": "That's right...",
+    "significantChanges": false
+  },
+  {
+    "index": 509,
+    "MessageID": 147373,
+    "TextENGNew": "Up until now, I kept fighting Grifys simply to prove my existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 510,
+    "MessageID": 147374,
+    "TextENGNew": "Defeating the Grifys was the duty entrusted to the Ryuun... and the Jedha.",
+    "significantChanges": false
+  },
+  {
+    "index": 511,
+    "MessageID": 147375,
+    "TextENGNew": "And so, through battle, I had sought something like definitive proof of my identity as a Ryuun.",
+    "significantChanges": false
+  },
+  {
+    "index": 512,
+    "MessageID": 147376,
+    "TextENGNew": "I didn't fight out of pity for the humans who were native to this land.",
+    "significantChanges": false
+  },
+  {
+    "index": 513,
+    "MessageID": 147377,
+    "TextENGNew": "Furthermore, I barely had any affection for my brethren who immigrated to this land.",
+    "significantChanges": false
+  },
+  {
+    "index": 514,
+    "MessageID": 147378,
+    "TextENGNew": "There was nothing to it... At the core, I was the same as the Grifys who caused atrocities to sate their own desires.",
+    "significantChanges": false
+  },
+  {
+    "index": 515,
+    "MessageID": 147379,
+    "TextENGNew": "I just kept swinging my sword, never having something apart from myself that I held dear... something I wanted to protect.",
+    "significantChanges": false
+  },
+  {
+    "index": 516,
+    "MessageID": 147380,
+    "TextENGNew": "``Ghhhhhhhh...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 517,
+    "MessageID": 147381,
+    "TextENGNew": "``Don't underestimate me, scuuuuuuuuum!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 518,
+    "MessageID": 147382,
+    "TextENGNew": "That's why... I wouldn't have cared if I died in battle fulfilling my duty.",
+    "significantChanges": false
+  },
+  {
+    "index": 519,
+    "MessageID": 147383,
+    "TextENGNew": "I believed that if my death could prove my existence, then I could die satisfied.",
+    "significantChanges": false
+  },
+  {
+    "index": 520,
+    "MessageID": 147384,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 521,
+    "MessageID": 147385,
+    "TextENGNew": "But now, I was certain, things were different.",
+    "significantChanges": false
+  },
+  {
+    "index": 522,
+    "MessageID": 147386,
+    "TextENGNew": "Just a little longer...",
+    "significantChanges": false
+  },
+  {
+    "index": 523,
+    "MessageID": 147387,
+    "TextENGNew": "I wanted to live... just a little longer.",
+    "significantChanges": false
+  },
+  {
+    "index": 524,
+    "MessageID": 147388,
+    "TextENGNew": "At least... until...",
+    "significantChanges": false
+  },
+  {
+    "index": 525,
+    "MessageID": 147389,
+    "TextENGNew": "When I arrived at Furude Shrine, it was pitch black in the dead of night.",
+    "significantChanges": false
+  },
+  {
+    "index": 526,
+    "MessageID": 147390,
+    "TextENGNew": "``...Kh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 527,
+    "MessageID": 147391,
+    "TextENGNew": "I dragged my aching body and made my way up the stone stairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 528,
+    "MessageID": 147392,
+    "TextENGNew": "...Each step felt unsteady, and I nearly tripped many times.",
+    "significantChanges": false
+  },
+  {
+    "index": 529,
+    "MessageID": 147393,
+    "TextENGNew": "(Were these stairs always this long...?)",
+    "significantChanges": false
+  },
+  {
+    "index": 530,
+    "MessageID": 147394,
+    "TextENGNew": "I smiled bitterly as I wiped my bloody mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 531,
+    "MessageID": 147395,
+    "TextENGNew": "A scorching, acrid smell rose from deep within my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 532,
+    "MessageID": 147396,
+    "TextENGNew": "I took one step a time, rousing myself to keep my fading consciousness tethered.",
+    "significantChanges": false
+  },
+  {
+    "index": 533,
+    "MessageID": 147397,
+    "TextENGNew": "``Jedha... No, Hanyuu.@k@vS16/00/DS43050219. Though it is not fatal, you are severely injured.@k@vS16/00/DS43050220. It is not too late to return to Onigafuchi for treatment...``",
+    "significantChanges": false
+  },
+  {
+    "index": 534,
+    "MessageID": 147398,
+    "TextENGNew": "``Yeah, I know.@k@vS16/45/DS43070727. ...Just a peek.@k@vS16/45/DS43070728. I'll just take a peek at his sleeping face...``",
+    "significantChanges": false
+  },
+  {
+    "index": 535,
+    "MessageID": 147399,
+    "TextENGNew": "I brushed aside Ryuun-Ohc's concerns with a smile, and continued walking.",
+    "significantChanges": false
+  },
+  {
+    "index": 536,
+    "MessageID": 147400,
+    "TextENGNew": "...I knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 537,
+    "MessageID": 147401,
+    "TextENGNew": "I was fully aware this was a pointless action being done solely for my own self-satisfaction.",
+    "significantChanges": false
+  },
+  {
+    "index": 538,
+    "MessageID": 147402,
+    "TextENGNew": "It wouldn't be too late if I waited until dawn.",
+    "significantChanges": false
+  },
+  {
+    "index": 539,
+    "MessageID": 147403,
+    "TextENGNew": "If I went to him after I'd treated my wounds and cleaned myself off, I could achieve the same result without causing him unnecessary worry.",
+    "significantChanges": false
+  },
+  {
+    "index": 540,
+    "MessageID": 147404,
+    "TextENGNew": "...I knew that.",
+    "significantChanges": false
+  },
+  {
+    "index": 541,
+    "MessageID": 147405,
+    "TextENGNew": "But...",
+    "significantChanges": false
+  },
+  {
+    "index": 542,
+    "MessageID": 147406,
+    "TextENGNew": "Even so, I...",
+    "significantChanges": false
+  },
+  {
+    "index": 543,
+    "MessageID": 147407,
+    "TextENGNew": "I wanted to see Riku...",
+    "significantChanges": false
+  },
+  {
+    "index": 544,
+    "MessageID": 147408,
+    "TextENGNew": "As soon as possible...",
+    "significantChanges": false
+  },
+  {
+    "index": 545,
+    "MessageID": 147409,
+    "TextENGNew": "Those feelings allowed me to forego rest,",
+    "significantChanges": false
+  },
+  {
+    "index": 546,
+    "MessageID": 147410,
+    "TextENGNew": "and drag my feet forward, with no other thought in mind...",
+    "significantChanges": false
+  },
+  {
+    "index": 547,
+    "MessageID": 147411,
+    "TextENGNew": "``...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 548,
+    "MessageID": 147412,
+    "TextENGNew": "I carelessly tripped on a crack in the stone hidden by darkness, and instinctively pushed my hands out.",
+    "significantChanges": false
+  },
+  {
+    "index": 549,
+    "MessageID": 147413,
+    "TextENGNew": "Sweat endlessly poured down my cheeks and dripped from my jaw.",
+    "significantChanges": false
+  },
+  {
+    "index": 550,
+    "MessageID": 147414,
+    "TextENGNew": "Those sweat drops splashed onto the dry stone stairs.",
+    "significantChanges": false
+  },
+  {
+    "index": 551,
+    "MessageID": 147415,
+    "TextENGNew": "...The clouds parted, and moonlight flooded the surroundings.",
+    "significantChanges": false
+  },
+  {
+    "index": 552,
+    "MessageID": 147416,
+    "TextENGNew": "``...Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 553,
+    "MessageID": 147417,
+    "TextENGNew": "And thanks to that light... I finally realized that what I'd thought was sweat was, in fact, blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 554,
+    "MessageID": 147418,
+    "TextENGNew": "It seems my wound had re-opened again...",
+    "significantChanges": false
+  },
+  {
+    "index": 555,
+    "MessageID": 147419,
+    "TextENGNew": "``Hanyuu...``",
+    "significantChanges": false
+  },
+  {
+    "index": 556,
+    "MessageID": 147420,
+    "TextENGNew": "``Heh, heheh...@k@vS16/45/DS43070732. I really am such an idiot, aren't I...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 557,
+    "MessageID": 147421,
+    "TextENGNew": "It was a battle to the death, fierce enough to make all my other missions up to this point seem like mere child's play.",
+    "significantChanges": false
+  },
+  {
+    "index": 558,
+    "MessageID": 147422,
+    "TextENGNew": "I was covered in wounds all over, and the styptic wasn't working perfectly.",
+    "significantChanges": false
+  },
+  {
+    "index": 559,
+    "MessageID": 147423,
+    "TextENGNew": "I couldn't fill my limbs with strength, like they were paralyzed... It was a wonder I was even still conscious.",
+    "significantChanges": false
+  },
+  {
+    "index": 560,
+    "MessageID": 147424,
+    "TextENGNew": "It was to the point where I'd nearly fallen off my horse a number of times on my way back.",
+    "significantChanges": false
+  },
+  {
+    "index": 561,
+    "MessageID": 147425,
+    "TextENGNew": "``Has this been enough... to eliminate most of the Grifys nesting in this island nation...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 562,
+    "MessageID": 147426,
+    "TextENGNew": "``...Most likely.@k@vS16/00/DS43050223. No, I'm sure of it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 563,
+    "MessageID": 147427,
+    "TextENGNew": "``Heheh... as if.@k@vS16/45/DS43070735. Learning how to lie... you've become totally human too, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 564,
+    "MessageID": 147428,
+    "TextENGNew": "I teased her as I turned my body halfway around and sat on the stairs to get a little rest.",
+    "significantChanges": false
+  },
+  {
+    "index": 565,
+    "MessageID": 147429,
+    "TextENGNew": "No... it would be more accurate to say I laid down on the steps.",
+    "significantChanges": false
+  },
+  {
+    "index": 566,
+    "MessageID": 147430,
+    "TextENGNew": "Then I bent my jaw slightly and looked up... to find a giant moon right in front of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 567,
+    "MessageID": 147431,
+    "TextENGNew": "A life of eternal battle and a bloodstained fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 568,
+    "MessageID": 147432,
+    "TextENGNew": "I had desperately struggled to escape from those shackles and agony... but the moon in the sky was the same as ever.",
+    "significantChanges": false
+  },
+  {
+    "index": 569,
+    "MessageID": 147433,
+    "TextENGNew": "When I thought about that, even my eagerness to protect the livelihood and lives of the humans of this world seemed truly meaningless...",
+    "significantChanges": false
+  },
+  {
+    "index": 570,
+    "MessageID": 147434,
+    "TextENGNew": "``It's beautiful...@k@vS16/45/DS43070737. Isn't it, Ryuun-Ohc?``",
+    "significantChanges": false
+  },
+  {
+    "index": 571,
+    "MessageID": 147435,
+    "TextENGNew": "``...Yes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 572,
+    "MessageID": 147436,
+    "TextENGNew": "``I wonder why.@k@vS16/45/DS43070739. I know it's just the reflection of a star's light...@k@vS16/45/DS43070740. yet when I look it, it brings my heart such peace...``",
+    "significantChanges": false
+  },
+  {
+    "index": 573,
+    "MessageID": 147437,
+    "TextENGNew": "I didn't need to hear the answer... it was obvious.",
+    "significantChanges": false
+  },
+  {
+    "index": 574,
+    "MessageID": 147438,
+    "TextENGNew": "When I looked at this moon... I remembered Riku for some reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 575,
+    "MessageID": 147439,
+    "TextENGNew": "It wasn't as strong as the sun.",
+    "significantChanges": false
+  },
+  {
+    "index": 576,
+    "MessageID": 147440,
+    "TextENGNew": "It didn't shine and sparkle by itself either.",
+    "significantChanges": false
+  },
+  {
+    "index": 577,
+    "MessageID": 147441,
+    "TextENGNew": "It was simply like a mirror that shined when receiving others' light.",
+    "significantChanges": false
+  },
+  {
+    "index": 578,
+    "MessageID": 147442,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 579,
+    "MessageID": 147443,
+    "TextENGNew": "But... to me, that was...",
+    "significantChanges": false
+  },
+  {
+    "index": 580,
+    "MessageID": 147444,
+    "TextENGNew": "``...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 581,
+    "MessageID": 147445,
+    "TextENGNew": "And then, without warning--",
+    "significantChanges": false
+  },
+  {
+    "index": 582,
+    "MessageID": 147446,
+    "TextENGNew": "I heard faint footsteps and sensed a person's presence... from near the top of the staircase.",
+    "significantChanges": false
+  },
+  {
+    "index": 583,
+    "MessageID": 147447,
+    "TextENGNew": "...Huh?",
+    "significantChanges": false
+  },
+  {
+    "index": 584,
+    "MessageID": 147448,
+    "TextENGNew": "Could this be...?",
+    "significantChanges": false
+  },
+  {
+    "index": 585,
+    "MessageID": 147449,
+    "TextENGNew": "``H-Hanyuu?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 586,
+    "MessageID": 147450,
+    "TextENGNew": "``...Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 587,
+    "MessageID": 147451,
+    "TextENGNew": "Ah...",
+    "significantChanges": false
+  },
+  {
+    "index": 588,
+    "MessageID": 147452,
+    "TextENGNew": "This voice, this sound... it was just as I'd thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 589,
+    "MessageID": 147453,
+    "TextENGNew": "I didn't even need to turn around... but I did so anyway in a flood of emotion.",
+    "significantChanges": false
+  },
+  {
+    "index": 590,
+    "MessageID": 147454,
+    "TextENGNew": "Though it was still dark out, for some reason... I could see Riku running down the staircase with a pale face.",
+    "significantChanges": false
+  },
+  {
+    "index": 591,
+    "MessageID": 147455,
+    "TextENGNew": "``Riku...?@k@vS16/45/DS43070744. Why are you here...``",
+    "significantChanges": false
+  },
+  {
+    "index": 592,
+    "MessageID": 147456,
+    "TextENGNew": "``Ah, uh, well... I thought I heard your voice...@k@vS16/46/DS43020388. More importantly, are you all right?!@k@vS16/46/DS43020389. ...What terrible wounds...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 593,
+    "MessageID": 147457,
+    "TextENGNew": "``Yeah... I'm okay.@k@vS16/45/DS43070746. Ryuun-Ohc's treatment will take care of it no problem.@k@vS16/45/DS43070747. ...Anyway...``",
+    "significantChanges": false
+  },
+  {
+    "index": 594,
+    "MessageID": 147458,
+    "TextENGNew": "``Huh...?@k@vS16/46/DS43020391. Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 595,
+    "MessageID": 147459,
+    "TextENGNew": "I gently bent forward... and buried my face into Riku's chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 596,
+    "MessageID": 147460,
+    "TextENGNew": "...So warm.",
+    "significantChanges": false
+  },
+  {
+    "index": 597,
+    "MessageID": 147461,
+    "TextENGNew": "His smell was so familiar.",
+    "significantChanges": false
+  },
+  {
+    "index": 598,
+    "MessageID": 147462,
+    "TextENGNew": "The moment I sensed all of that... all the pain and suffering I'd borne up until this point abated.",
+    "significantChanges": false
+  },
+  {
+    "index": 599,
+    "MessageID": 147463,
+    "TextENGNew": "I naturally smiled and relaxed... as though I were satisfied with everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 600,
+    "MessageID": 147464,
+    "TextENGNew": "``Hanyuu?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 601,
+    "MessageID": 147465,
+    "TextENGNew": "``I am fine, truly.@k@vS16/45/DS43070749. ...So let me stay like this for just a little while longer.``",
+    "significantChanges": false
+  },
+  {
+    "index": 602,
+    "MessageID": 147466,
+    "TextENGNew": "``...All right.``",
+    "significantChanges": false
+  },
+  {
+    "index": 603,
+    "MessageID": 147467,
+    "TextENGNew": "It seemed Riku was still worried about my wounds... yet he still did as I said and remained rooted in place, gently wrapping his arms around my shoulders.",
+    "significantChanges": false
+  },
+  {
+    "index": 604,
+    "MessageID": 147468,
+    "TextENGNew": "Aah... my heart was at peace.",
+    "significantChanges": false
+  },
+  {
+    "index": 605,
+    "MessageID": 147469,
+    "TextENGNew": "I had survived to return to this warmth... When I thought that, this brutal mission that had seemed so futile up until now gained value...",
+    "significantChanges": false
+  },
+  {
+    "index": 606,
+    "MessageID": 147470,
+    "TextENGNew": "``Long time no see.@k@vS16/45/DS43070751. ...Though that said, it's only been two weeks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 607,
+    "MessageID": 147471,
+    "TextENGNew": "``...It was quite the long time.@k@vS16/46/DS43020395. For us humans, at least...``",
+    "significantChanges": false
+  },
+  {
+    "index": 608,
+    "MessageID": 147472,
+    "TextENGNew": "``Heheh... three months is short, while two weeks is long?@k@vS16/45/DS43070753. ...You're not making any sense.``",
+    "significantChanges": false
+  },
+  {
+    "index": 609,
+    "MessageID": 147473,
+    "TextENGNew": "``...Allow me to rephrase that.@k@vS16/46/DS43020397. It was long... for me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 610,
+    "MessageID": 147474,
+    "TextENGNew": "``Ah... Makes sense now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 611,
+    "MessageID": 147475,
+    "TextENGNew": "Because I felt the same way.",
+    "significantChanges": false
+  },
+  {
+    "index": 612,
+    "MessageID": 147476,
+    "TextENGNew": "To think going without seeing Riku's face could feel this long... I truly had gotten soft...",
+    "significantChanges": false
+  },
+  {
+    "index": 613,
+    "MessageID": 147477,
+    "TextENGNew": "``Ahahaha...@k@vS16/46/DS43020399. Ah, Hanyuu.@k@vS16/46/DS43020400. You've gone back to talking the way you used to.``",
+    "significantChanges": false
+  },
+  {
+    "index": 614,
+    "MessageID": 147478,
+    "TextENGNew": "``Whoops, slipped my mind...@k@vS16/45/DS43070756. I mean, <i>oh, I forgot</i>.@k@vS16/45/DS43070757. ...Was that good?``",
+    "significantChanges": false
+  },
+  {
+    "index": 615,
+    "MessageID": 147479,
+    "TextENGNew": "``Yes, perfect.@k@vS16/46/DS43020402. ...I'm so relieved.``",
+    "significantChanges": false
+  },
+  {
+    "index": 616,
+    "MessageID": 147480,
+    "TextENGNew": "``Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 617,
+    "MessageID": 147481,
+    "TextENGNew": "Riku embraced me even tighter.",
+    "significantChanges": false
+  },
+  {
+    "index": 618,
+    "MessageID": 147482,
+    "TextENGNew": "His bangs touched my cheeks and tickled me a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 619,
+    "MessageID": 147483,
+    "TextENGNew": "It was embarrassing.",
+    "significantChanges": false
+  },
+  {
+    "index": 620,
+    "MessageID": 147484,
+    "TextENGNew": "But also heartwarming.",
+    "significantChanges": false
+  },
+  {
+    "index": 621,
+    "MessageID": 147485,
+    "TextENGNew": "And once again, I... savored this feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 622,
+    "MessageID": 147486,
+    "TextENGNew": "That I truly did love Riku.",
+    "significantChanges": false
+  },
+  {
+    "index": 623,
+    "MessageID": 147487,
+    "TextENGNew": "``I... will be staying with you again, Riku...``",
+    "significantChanges": false
+  },
+  {
+    "index": 624,
+    "MessageID": 147488,
+    "TextENGNew": "``Yes, please stay.@k@vS16/46/DS43020404. For as long as you'd like... be it days or years...``",
+    "significantChanges": false
+  },
+  {
+    "index": 625,
+    "MessageID": 147489,
+    "TextENGNew": "Regardless of what he may have thought of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 626,
+    "MessageID": 147490,
+    "TextENGNew": "Regardless of whether these feelings were even permissible.",
+    "significantChanges": false
+  },
+  {
+    "index": 627,
+    "MessageID": 147491,
+    "TextENGNew": "...I wanted to stay by Riku's side.",
+    "significantChanges": false
+  },
+  {
+    "index": 628,
+    "MessageID": 147492,
+    "TextENGNew": "I was certain I would never be able to convey these feelings, but at the very least, until the day he lived out his natural span...",
+    "significantChanges": false
+  }
+]

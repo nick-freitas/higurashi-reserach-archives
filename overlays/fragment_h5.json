@@ -1,0 +1,750 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8136,
+    "TextENGNew": "My mother asked me to go shopping, and on my way to the grocery store I ran into Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 8137,
+    "TextENGNew": "She told me she'd been asked to do the same kind of errand,",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 8138,
+    "TextENGNew": "so we decided to go together.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 8139,
+    "TextENGNew": "We compared shopping lists and had fun guessing what the other family was having for dinner.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 8140,
+    "TextENGNew": "Satoko's family seemed to be having fish and simmered vegetables.",
+    "significantChanges": true,
+    "changeReason": "'grilled fish and cooked vegetables' changed to 'fish and simmered vegetables'; JPN 煮物 specifically means simmered/stewed dishes, not generically 'cooked'.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 8141,
+    "TextENGNew": "Ours, apparently, was hamburger steak.",
+    "significantChanges": true,
+    "changeReason": "'Salisbury steak' changed to 'hamburger steak'; JPN ハンバーグ refers to Japanese hamburger steak, a different dish from Salisbury steak.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 8142,
+    "TextENGNew": "``My, hamburger steak—how envious!@k@|@y@vS20/04/VTK2_satoko2002. The fish is fine, but the simmered vegetables worry me a bit.@k@vS20/04/VTK2_satoko2003. I'm quite certain there's still plenty of pumpkin left from the other day.``",
+    "significantChanges": true,
+    "changeReason": "Multiple changes: 'that sounds so very good' vs 'hamburger steak—how envious'; 'grilled fish' vs just 'fish'; 'vegetables I'm less fond of' vs 'simmered vegetables worry me a bit.' The correction from Salisbury to hamburger steak and from cooked to simmered better matches JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 8143,
+    "TextENGNew": "``...Then tonight will surely be a pumpkin extravaganza.@k@vS20/05/VTK2_rika2066. Poor, poor Satoko~☆``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I bet you'll be getting a lot tonight'; new: 'tonight will surely be a pumpkin extravaganza.' JPN カボチャの煮物三昧 means 'a feast/extravaganza of pumpkin simmered dishes'—more specific and vivid.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 8144,
+    "TextENGNew": "``It's rather depressing to know in advance that pumpkin is coming.@k@vS20/04/VTK2_satoko2005. Haah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8145,
+    "TextENGNew": "``...Mii~☆@k@vS20/05/VTK2_rika2068. What a spoiled Satoko—complaining no matter how the pumpkin arrives.``",
+    "significantChanges": true,
+    "changeReason": "New adds 'What a spoiled Satoko' matching JPN 贅沢な沙都子 (extravagant/spoiled Satoko), which old omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 8146,
+    "TextENGNew": "``R-Rika, surely even you have foods you dislike?!@k@vS20/04/VTK2_satoko2007. That's right—don't you hate sweet things like daifuku and cream puffs?!``",
+    "significantChanges": true,
+    "changeReason": "Old omits the category 'sweet things' (JPN 甘い物が嫌い); new correctly includes it, changing the meaning from disliking specific items to disliking the whole category.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 8147,
+    "TextENGNew": "``...I don't dislike them.@k@vS20/05/VTK2_rika2070. I simply choose not to eat them, out of spite.@k@vS20/05/VTK2_rika2071. If I felt like it, I could eat any number of them.@k@vS20/05/VTK2_rika2072. I could even enjoy a nice pumpkin pie. Nipah~☆``",
+    "significantChanges": true,
+    "changeReason": "New adds 'out of spite' matching JPN 意地悪で (out of stubbornness/spite), which old omitted entirely.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 8148,
+    "TextENGNew": "``Oooh, it's not fair that you aren't a picky eater at all!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 8149,
+    "TextENGNew": "Conversations like that were pure fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 8150,
+    "TextENGNew": "Satoko was my very best friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 8151,
+    "TextENGNew": "The grocery shopping I usually found so tedious was instantly transformed into a pleasant evening stroll, just by having Satoko at my side.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 8152,
+    "TextENGNew": "Near the supermarket, other shops like a prepared-foods vendor lined the street, forming a small shopping district.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 8153,
+    "TextENGNew": "This was the busiest time of day for dinner shopping.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 8154,
+    "TextENGNew": "Hinamizawa's housewives gathered here to do their shopping in a lively bustle.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 8155,
+    "TextENGNew": "Since Satoko and I needed different things, we split up to buy our items separately.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 8156,
+    "TextENGNew": "``Welcome, welcome!!@k@vS20/00/VTK2_souzai2002. Oh, Rika-chama!@k@vS20/00/VTK2_souzai2003. Doing the shopping?@k@vS20/00/VTK2_souzai2004. What a good girl!``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 8157,
+    "TextENGNew": "``...Nipah~☆@k@vS20/05/VTK2_rika2074. I'm a good girl who does the shopping all by herself.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 8158,
+    "TextENGNew": "``That you are—so here's a little reward for being such a good girl!@k@vS20/00/VTK2_souzai2006. Here, take this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 8159,
+    "TextENGNew": "Hanging from the eaves was a sieve full of change for making transactions, along with several candies the shopkeeper kept on hand for his occasional cough.",
+    "significantChanges": true,
+    "changeReason": "Old: 'candies for the owner's occasional asthma attack'; new: 'candies the shopkeeper kept on hand for his occasional cough.' JPN 咳き込む means coughing, not asthma—different medical condition.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 8160,
+    "TextENGNew": "He plucked one out and tossed it to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 8161,
+    "TextENGNew": "It was strawberry milk flavored—my absolute favorite.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 8162,
+    "TextENGNew": "I tucked it into my pocket instead of eating it right away, so I could show off to Satoko later that I alone had received it.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 8163,
+    "TextENGNew": "For me, teasing Satoko and making her envious was one of life's great pleasures.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 8164,
+    "TextENGNew": "Satoko always responded with the most exaggerated reactions,",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 8165,
+    "TextENGNew": "making her the finest companion imaginable—I was never bored in her company.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 8166,
+    "TextENGNew": "``Oh, Rika-chama, what's for dinner tonight?@k@vS20/00/VTK2_nikuya2002. Ground pork... hmm...``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 8167,
+    "TextENGNew": "``...Hamburger steak.@k@vS20/05/VTK2_rika2076. We're going to put flower-shaped fried eggs on top and draw pictures with ketchup.``",
+    "significantChanges": true,
+    "changeReason": "'Salisbury steak' changed to 'Hamburger steak' matching JPN ハンバーグ.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 8168,
+    "TextENGNew": "``Oh ho ho ho! That sounds wonderful!``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 8169,
+    "TextENGNew": "Enjoying these pleasant exchanges, I gradually filled my shopping bag.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 8170,
+    "TextENGNew": "...Then, the whispered conversation of some housewives drifted into my ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 8171,
+    "TextENGNew": "It was... slightly cruel in content.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 8172,
+    "TextENGNew": "...They were talking about Satoko, who had come here to shop.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 8173,
+    "TextENGNew": "'How long do those traitors who tried to sell the village out to the government plan on staying here?'",
+    "significantChanges": true,
+    "changeReason": "Old: 'How long do those village traitors plan to stay here?'; new adds 'who tried to sell the village out to the government' matching JPN 村を国に売る裏切り者.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 8174,
+    "TextENGNew": "'They should just leave already.'",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 8175,
+    "TextENGNew": "'And they don't even have the nerve to come shopping themselves—they send their daughter instead.'",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 8176,
+    "TextENGNew": "...On and on they went...",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 8177,
+    "TextENGNew": "...Ever since the Houjou family and the Sonozaki main house clashed so explosively at the dam project's explanatory meeting,",
+    "significantChanges": true,
+    "changeReason": "'Sonozaki family' changed to 'Sonozaki main house' matching JPN 園崎本家.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 8178,
+    "TextENGNew": "the Houjou family had sunk deeper and deeper into isolation within the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 8179,
+    "TextENGNew": "At first, there had been no small number of families who sided with the Houjous in favoring relocation.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 8180,
+    "TextENGNew": "But as the Sonozaki main house spearheaded a thorough campaign to align the village's stance, hardening it into a monolithic position, the pro-relocation voices gradually fell silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 8181,
+    "TextENGNew": "The overt harassment led by the Sonozaki and Kimiyoshi families—two of the Three Families with enormous influence in the village—had also played a significant role.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 8182,
+    "TextENGNew": "The Sonozaki family apparently used the Houjou family as a cautionary example to deter any would-be sympathizers from siding with the pro-relocation faction.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 8183,
+    "TextENGNew": "For villagers whose ancestors had lived here for generations, and who themselves expected to be buried in this same soil, such harassment exerted crushing pressure.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 8184,
+    "TextENGNew": "One had to wonder what became of those who had so boldly rallied behind the Houjous at the meeting, shouting fiery support as leaders of the pro-relocation faction...",
+    "significantChanges": true,
+    "changeReason": "Old asks 'Who was it that agreed'; new asks 'what became of those who had so boldly rallied'—different question entirely. JPN asks what happened to those boisterous supporters.",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 8185,
+    "TextENGNew": "They had all gone quiet, and in a kind of loyalty test, they joined in the harassment of the Houjou family themselves...",
+    "significantChanges": true,
+    "changeReason": "New adds 'in a kind of loyalty test' matching JPN 踏み絵的に (like a litmus test/loyalty test).",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 8186,
+    "TextENGNew": "The persecution of the Houjou family had now become pressure exerted by the entire village.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 8187,
+    "TextENGNew": "The Houjou family's reactions, inevitably shaped by the stifling atmosphere, became extreme in turn.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 8188,
+    "TextENGNew": "Before long, as if rising to the provocation, the family withdrew from the community council entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 8189,
+    "TextENGNew": "I heard the trigger was something trivial... but it only worsened the Houjou family's standing further.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 8190,
+    "TextENGNew": "And after that upheaval, a campaign of insidious, village-wide harassment was heaped upon the Houjou family in every conceivable way.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 8191,
+    "TextENGNew": "The horror of what they endured spread through the village,@k intimidating people into believing they would suffer the same fate if they sympathized with the Houjous,@k ...driving the family ever deeper into isolation.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 8192,
+    "TextENGNew": "...The adults didn't discuss these behind-the-scenes machinations with the children, so at least Satoko was spared from torment at school.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 8193,
+    "TextENGNew": "...But it wasn't hard to imagine she lived every day in a suffocating tension that threatened to crush her...",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 8194,
+    "TextENGNew": "Even now, the housewives who were muttering behind her back weren't saying any of it directly to Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 8195,
+    "TextENGNew": "...But that didn't mean she failed to notice the snippets that reached her ears, or the cold eyes trained upon her.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 8196,
+    "TextENGNew": "...When had this village become so cold toward Satoko?",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 8197,
+    "TextENGNew": "...As her best friend, it broke my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 8198,
+    "TextENGNew": "Looking at it this way, Satoko's shopping experience was nothing like my warm, friendly one.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 8199,
+    "TextENGNew": "When I greeted shopkeepers or made purchases, I received bonuses and special treatment. But Satoko got none of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 8200,
+    "TextENGNew": "No—it was worse. She was deliberately served last, deliberately ignored,@k and I could feel the air thick with people wanting nothing to do with her.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 8201,
+    "TextENGNew": "...Satoko had been weaving through the crowd of housewives, trying to tell the fishmonger what she wanted, but she was ignored to the very last.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 8202,
+    "TextENGNew": "...Satoko kept up a brave smile, pretending it didn't bother her... but I knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 8203,
+    "TextENGNew": "It was a painfully thin mask of endurance...",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 8204,
+    "TextENGNew": "At that moment, Satoko dropped her coins all over the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 8205,
+    "TextENGNew": "Perhaps her fingers slipped while she was trying to put the change back into her wallet.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 8206,
+    "TextENGNew": "I was some distance away, so I started weaving through the housewives to help her pick them up.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 8207,
+    "TextENGNew": "...And then I froze.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 8208,
+    "TextENGNew": "...Satoko had scattered coins everywhere, scrambling left and right to gather them—yet not a single person was helping her.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 8209,
+    "TextENGNew": "No, it wasn't just that no one helped. They were behaving as though Satoko simply wasn't there.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 8210,
+    "TextENGNew": "...Since she'd dropped them herself, Satoko wasn't exactly expecting anyone to help.",
+    "significantChanges": true,
+    "changeReason": "Old says 'they're acting like they don't even see her' while JPN says 'since she dropped them herself, Satoko wasn't expecting anyone to help.' Different content.",
+    "changeScore": 4
+  },
+  {
+    "index": 76,
+    "MessageID": 8211,
+    "TextENGNew": "...But even so... even so...",
+    "significantChanges": true,
+    "changeReason": "Misaligned: JPN says '...But even so... even so...' but old contains previous entry's content about Satoko not expecting help.",
+    "changeScore": 4
+  },
+  {
+    "index": 77,
+    "MessageID": 8212,
+    "TextENGNew": "...With all these people coming and going, not one of them was making the slightest effort to help...",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 8213,
+    "TextENGNew": "``...Satoko, I'll help you pick them up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 8214,
+    "TextENGNew": "``Ah... ah... I-I'm fine, Rika...``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 8215,
+    "TextENGNew": "That small reaction alone told me everything about the wound in her heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 8216,
+    "TextENGNew": "And then—the moment I began picking up Satoko's coins, the other housewives started helping too.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 8217,
+    "TextENGNew": "As if it were the most natural thing in the world.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 8218,
+    "TextENGNew": "...So they'll help as long as a shrine maiden of the Furude family takes the initiative.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 8219,
+    "TextENGNew": "They would have pretended not to see until the very end if I hadn't stepped in...",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 8220,
+    "TextENGNew": "And the fact that everyone only helped because 'I' did must have wounded Satoko even more deeply...",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 8221,
+    "TextENGNew": "I snatched the coins from the housewives' hands without a word of thanks.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 8222,
+    "TextENGNew": "...Thanking them was the last thing on my mind. I wanted to spit at them.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 8223,
+    "TextENGNew": "``Th... Thank you so much.@k@vS20/04/VTK2_satoko2011. Rika.@k@vS20/04/VTK2_satoko2012. Everyone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 8224,
+    "TextENGNew": "...If she failed to express gratitude, it would only give people more ammunition to say the Houjou daughter had no manners.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 8225,
+    "TextENGNew": "Satoko forced the words of thanks past her lips, bitter as they tasted.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 8226,
+    "TextENGNew": "The housewives looking down at her wore blank, indifferent expressions... and I simply could not bear it.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 8227,
+    "TextENGNew": "...I could not bear the pain Satoko was carrying right now...",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 8228,
+    "TextENGNew": "``...Once we're done shopping, let's go, Satoko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 8229,
+    "TextENGNew": "``S-Sure...``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 8230,
+    "TextENGNew": "I grabbed Satoko's arm and pulled her away from that place.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 8231,
+    "TextENGNew": "...I was frustrated,@k heartbroken,@k and aching.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 8232,
+    "TextENGNew": "What sin has Satoko committed...?",
+    "significantChanges": true,
+    "changeReason": "Old: 'What has Satoko done?'; new: 'What sin has Satoko committed...?' JPN 罪 means sin/crime—stronger word than 'done'.",
+    "changeScore": 3
+  },
+  {
+    "index": 98,
+    "MessageID": 8233,
+    "TextENGNew": "The cold cruelty of that reality was devastating.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 8234,
+    "TextENGNew": "I was treated like a mascot, adored by everyone.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Everyone loves me'; new: 'I was treated like a mascot, adored by everyone.' JPN マスコット (mascot) is omitted from old, changing the characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 8235,
+    "TextENGNew": "But I couldn't share any of that warmth with Satoko...",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 8236,
+    "TextENGNew": "...Right now, Satoko must be wondering why she—a girl the same age as me—receives such utterly different treatment...",
+    "significantChanges": true,
+    "changeReason": "New adds 'a girl the same age as me' from JPN 同い年, an important detail for understanding the unfairness.",
+    "changeScore": 2
+  },
+  {
+    "index": 102,
+    "MessageID": 8237,
+    "TextENGNew": "...If being together only caused Satoko this kind of pain, perhaps I shouldn't have come shopping with her...@k No, that's wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 8238,
+    "TextENGNew": "I should have done her shopping for her...",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 8239,
+    "TextENGNew": "``...Satoko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 8240,
+    "TextENGNew": "``...Wh... What is it, Rika?``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 8241,
+    "TextENGNew": "``...Dropping all those coins was terrible luck.@k@vS20/05/VTK2_rika2081. ...So here—a consolation prize.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'something that'll make you happy'; new: 'a consolation prize.' JPN 残念賞 literally means consolation prize/booby prize—different connotation.",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 8242,
+    "TextENGNew": "I wanted to soothe Satoko's wounded heart, even if only slightly... so I pulled out the strawberry milk candy I had just received.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 8243,
+    "TextENGNew": "But... Satoko wouldn't take it.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 8244,
+    "TextENGNew": "``...That candy was given to you, wasn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 8245,
+    "TextENGNew": "My hand froze...",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 8246,
+    "TextENGNew": "...Satoko had seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 8247,
+    "TextENGNew": "She had seen me receive this candy...",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 8248,
+    "TextENGNew": "``...The person who gave it to you wanted you to eat it.@k@vS20/04/VTK2_satoko2017. ...So if I ate it, that would be rude...``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 8249,
+    "TextENGNew": "...Satoko turned her back to me, and walked that way in silence until we reached the fork where our paths diverged...",
+    "significantChanges": true,
+    "changeReason": "New captures JPN とぼとぼ (trudging/plodding dejectedly) while old simply says 'continued on'.",
+    "changeScore": 2
+  },
+  {
+    "index": 115,
+    "MessageID": 8250,
+    "TextENGNew": "Without so much as a goodbye, Satoko trudged away with her shopping bags in hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 8251,
+    "TextENGNew": "...I had only wanted to ease Satoko's pain... yet at the very end, I had rubbed salt into her wound...",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 8252,
+    "TextENGNew": "How dare I call myself her best friend?",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 8253,
+    "TextENGNew": "If I had the strength in my grip, I would have crushed that candy in my fist right then and there...",
+    "significantChanges": false
+  }
+]

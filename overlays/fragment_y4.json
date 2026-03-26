@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11330,
+    "TextENGNew": "...Welcome to Hint IV.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11331,
+    "TextENGNew": "I'll tell you the conditions for unlocking B1 The C103 Administration Experiment in the World of 1980.",
+    "significantChanges": true,
+    "changeReason": "\"Dose Experiment\" changed to \"Administration Experiment\" — 投与 specifically means medical administration/dosing, and \"administration\" more accurately conveys it as a deliberate clinical procedure rather than a simple dosage test.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 11332,
+    "TextENGNew": "C1 Research Proceeding Smoothly in the World of the Furude Family\nB5 The Second 'Specimen' in the World of 1980\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "\"Sample\" changed to \"Specimen\" — 検体 (kentai) means specimen, not sample; these are different scientific terms with distinct implications about what is being studied.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11333,
+    "TextENGNew": "And—\nB2 H170 in the World of 1980\nB6 The Shirakawa Park Fall Accident in the World of 1980\n...These fragments are also connected to its appearance.",
+    "significantChanges": true,
+    "changeReason": "\"An Accident at the Shirakawa Park\" changed to \"The Shirakawa Park Fall Accident\" — the addition of \"Fall\" (転落) specifies the type of accident, which is meaningful context about the nature of the event.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11334,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

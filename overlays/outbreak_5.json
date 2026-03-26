@@ -1,0 +1,264 @@
+[
+  {
+    "index": 1,
+    "MessageID": 153693,
+    "TextENGNew": "Amid the thickening, nauseating atmosphere directed at outsiders like the Maebaras, yet another development came to stoke the villagers' fear.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 153694,
+    "TextENGNew": "The Self-Defense Force—which, despite everything, had been providing at least some material and emotional support—vanished from the village without warning.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 153695,
+    "TextENGNew": "The elderly villagers who hated standing in long lines had already formed queues early in the morning. ...But no matter how long they waited, the supply trucks never came.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 153696,
+    "TextENGNew": "At first, most people were patient enough to assume something had simply delayed them.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 153697,
+    "TextENGNew": "But the fact that the SDF's deliveries had been perfectly punctual every single day until now worked against them—the contrast only amplified the anxiety.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 153698,
+    "TextENGNew": "When they still hadn't appeared long past the scheduled time, the morning lines grew longer and longer... and the anger at the absent water trucks slowly curdled into dread, and then into something worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 153699,
+    "TextENGNew": "The situation had deteriorated rapidly, and the village had finally been abandoned even by the SDF—that was the rumor that began to spread.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 153700,
+    "TextENGNew": "Anyone would be shaken to hear it.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 153701,
+    "TextENGNew": "The SDF's presence had been the last bulwark holding the village's sanity together. With it suddenly gone, it was understandable to feel as though Hinamizawa had been cut loose from Japan entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 153702,
+    "TextENGNew": "Still, there were a few villagers who read the SDF's disappearance optimistically—perhaps the quarantine was being lifted.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 153703,
+    "TextENGNew": "Those people even tried to leave the village. But something was wrong at the barricades.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 153704,
+    "TextENGNew": "Instead of the personnel in white hazmat-style raincoats who had been manning the checkpoints, there were now soldiers blocking the road—clad in far more intimidating camouflage gear that looked more like space suits. Behind them sat an armored vehicle.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 153705,
+    "TextENGNew": "Why did villagers call them \"soldiers\" rather than \"servicemembers\"? ...Because the weapons they carried were genuinely threatening. At the very least, the SDF members handling disaster relief had never carried guns.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 153706,
+    "TextENGNew": "And it wasn't only the soldiers' personal weapons—the armored vehicle's upper hatch mounted a heavy machine gun, its barrel aimed at the crowd without hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 153707,
+    "TextENGNew": "Then the warning came.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 153708,
+    "TextENGNew": "\"This is the Japan Ground Self-Defense Force. You are not permitted to leave the quarantine zone. Return to your homes immediately.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 153709,
+    "TextENGNew": "Seeing and hearing that made everything clear.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 153710,
+    "TextENGNew": "Circumstances had changed. The outbreak had progressed beyond the SDF's capacity to contain, and they had abandoned aid to the village—now they were simply sealing it off...!",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 153711,
+    "TextENGNew": "What arose in the people wasn't so much anger at the nation that had forsaken them as terror at the depths to which the situation had deteriorated.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly conveys that terror outweighed anger (恐怖の方がずっと強かった), while old implies both emotions were present equally or that anger preceded fear.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 153712,
+    "TextENGNew": "Some villagers surged forward demanding an explanation...",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 153713,
+    "TextENGNew": "They fired live rounds without hesitation as a warning, and announced that the next shots would target legs if the crowd did not disperse immediately. The villagers had no choice but to scatter back to the village like baby spiders.",
+    "significantChanges": true,
+    "changeReason": "New translation includes the sentence about villagers scattering back to the village (from JPN 村人たちは蜘蛛の子を散らすように村に逃げ帰るしかなかった), which the old translation had misplaced into the next entry.",
+    "changeScore": 5
+  },
+  {
+    "index": 22,
+    "MessageID": 153714,
+    "TextENGNew": "Afterward, the rumors grew exaggerated, with some claiming that villagers had actually been shot and injured, or even killed, plunging everything into further chaos.",
+    "significantChanges": true,
+    "changeReason": "Old translation incorrectly includes content about villagers scattering (which belongs to the previous entry), displacing the focus. New correctly begins with the rumor embellishment matching the JPN.",
+    "changeScore": 5
+  },
+  {
+    "index": 23,
+    "MessageID": 153715,
+    "TextENGNew": "...In truth, even the part about warning shots might have been fabricated—but there was no way to verify it anymore, and no reason to try. It had been allowed to stand unchallenged, and so it had been promoted to fact.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 153716,
+    "TextENGNew": "And then, to compound matters, some kind of jamming signal suddenly rendered all radio communication within the village useless. ...With word of mouth now the only means of contact, the chaos only deepened further...",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 153717,
+    "TextENGNew": "That day, the first gunshot rang out within the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 153718,
+    "TextENGNew": "No one could know whether it had been fired by the troops sealing the perimeter at a villager, as the rumors claimed, or whether a villager had fired a hunting rifle...",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 153719,
+    "TextENGNew": "But as that shot thundered through the village, it announced to everyone that Hinamizawa had slipped out from under the law and order of civilized Japan...",
+    "significantChanges": true,
+    "changeReason": "Old states the population fell away from order, while new (matching JPN 知らしめた) correctly frames the gunshot as an announcement that the village itself had slipped beyond civilization's reach.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 153720,
+    "TextENGNew": "A message passed through the town council network: there had been an organizational failure on the SDF's side, and it would take time before relief operations could resume. They asked residents to support each other in the meantime.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 153721,
+    "TextENGNew": "If that message had gone out before the anxiety spread so deeply through the village, it might have improved matters somewhat. But it was far too late now.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 153722,
+    "TextENGNew": "Even if SDF food and water delivery had stopped, every household still had some supplies on hand. But no one knew how long the delay would last. ...The acrid, powder-charged air permeating the village was steadily robbing people of their reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 153723,
+    "TextENGNew": "Fearing mobs might descend looking for food, the merchants in the shopping district banded together, arming themselves and forming a neighborhood watch.",
+    "significantChanges": true,
+    "changeReason": "Old translates 暴徒 (mobs/rioters, plural) as \"some insurgent\" (singular), while new correctly uses \"mobs,\" changing the perceived scale of the threat.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 153724,
+    "TextENGNew": "Barricades hauled from the dam construction site were stacked across the entrance to the shopping district. A sign was posted: \"Closed indefinitely. Entry prohibited to those without business here. Those with genuine needs, please inquire individually.\" The shopkeepers stood watch in shifts, hunting rifles in hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 153725,
+    "TextENGNew": "Beside it, an additional notice had been posted.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 153726,
+    "TextENGNew": "\"Residents of Takatsudo: please stay away.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 153727,
+    "TextENGNew": "This was based on the rumor that infected individuals had been found in Takatsudo. ...And that sign would not be the last. As each new rumor about infection in a different area took hold, another sign would join it...",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 153728,
+    "TextENGNew": "For a brief moment it seemed that, with the SDF no longer enforcing separation by council zone, we might have more freedom to move around. But the youth groups of each council section quickly stepped in to maintain the divisions themselves.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 153729,
+    "TextENGNew": "Everyone believed their own zone was still uninfected, and that keeping outside people away was the only thing standing between them and the virus.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 153730,
+    "TextENGNew": "Hinamizawa was fundamentally a farming village, but there were families who had made their living through hunting going back generations. The number of households with hunting rifles was not small.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 153731,
+    "TextENGNew": "Those who owned them volunteered readily to serve as guards. The more armed volunteers a council zone had, the stronger it was. ...Or perhaps: the greater its power to blur the line between paranoid fantasy and reality.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 153732,
+    "TextENGNew": "Yes. It was July 7th. The day of Tanabata.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 153733,
+    "TextENGNew": "On television, sweet images played of kindergarteners stretching on their tiptoes to hang their wish cards on bamboo stalks.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 153734,
+    "TextENGNew": "Here in Hinamizawa, our Tanabata was this: sinister barricades plastered with signs barring the infected, men stationed with hunting rifles, eyes hard and suspicious. ...It was impossible to believe this was still the same Japan......",
+    "significantChanges": false
+  }
+]

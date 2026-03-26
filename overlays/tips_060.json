@@ -1,0 +1,153 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Request for Inquiry",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Inquiry Request\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14223,
+    "TextENGNew": "Okinomiya Police Station — Command Center Transmission Log",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14224,
+    "TextENGNew": "June 20, 20:08",
+    "significantChanges": true,
+    "changeReason": "Old uses '8:08 PM' (12-hour format); new uses '20:08' (24-hour/military format). The JPN uses ２０時 (20-hour notation). For a police command center log, 24-hour format is more appropriate and matches the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 14225,
+    "TextENGNew": "\"Okinomiya PS here, reading you loud and clear.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14226,
+    "TextENGNew": "\"Ah, could you run a plate check for us? Shishibone, Ha 43-44.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 車両ナンバー照会 as 'look up a license plate'; new says 'run a plate check.' Additionally, old includes markup tags '@bHa.@<は@>' while new uses plain 'Ha' — the new version removes the in-line formatting tags from the translated text.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 14227,
+    "TextENGNew": "\"Confirmed: Shishibone, Ha 43-44. Could you hold a moment while we look it up?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14228,
+    "TextENGNew": "\"Please.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates お願いします as 'Thank you'; new says 'Please.' The JPN literally means 'please (do it)' — a request, not an expression of thanks.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 14229,
+    "TextENGNew": "Plate Search Results",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14230,
+    "TextENGNew": "Shishibone, Ha 43-44",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14231,
+    "TextENGNew": "Owner Code: 6034344",
+    "significantChanges": true,
+    "changeReason": "Old redacts the owner code; new provides the actual data matching the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 10,
+    "MessageID": 14232,
+    "TextENGNew": "<Ordinary citizen, resident of Hinamizawa Village, Shishibone City. No prior record.>",
+    "significantChanges": true,
+    "changeReason": "Old translates as an address with redactions; new provides the actual content: 'Ordinary citizen, no prior record.'",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 14233,
+    "TextENGNew": "Vehicle Type: Station wagon",
+    "significantChanges": true,
+    "changeReason": "Old redacts vehicle type; new provides 'Station wagon' matching the Japanese.",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 14234,
+    "TextENGNew": "Theft Report: None",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14235,
+    "TextENGNew": "Special Notes: Nothing of note",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14236,
+    "TextENGNew": "``Okinomiya PS to Ooishi. We have the plate results from earlier. ...Ooishi, do you read? ...Ooishi car, please respond.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Okinomiya Security Police'; new says 'Okinomiya PS.' The JPN 興宮ＰＳ uses the abbreviation PS (Police Station). 'Security Police' is a mistranslation of ＰＳ in this context.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 14237,
+    "TextENGNew": "\"...Hmm? ...Bad signal, maybe... Ooishi car, please resp—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14238,
+    "TextENGNew": "\"No answer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14239,
+    "TextENGNew": "\"Ooishi-san ran a plate check? Whose car was it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14240,
+    "TextENGNew": "\"Belongs to a villager. ...Utterly unremarkable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14241,
+    "TextENGNew": "``...So who is it? If Ooishi-san was asking, there must be something to it, right?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'it can't be anyone good, right?'; new says 'there must be something to it, right?' The JPN 只者じゃないんだろ means 'they're no ordinary person, right?' — implying the person is notable/suspicious, not necessarily 'not good.'",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 14242,
+    "TextENGNew": "\"The notes column is completely empty. No S-group flag either. Not even any demerit points.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14243,
+    "TextENGNew": "``...Ha ha ha. Maybe someone flashed their lights at him and he took offence? That man's the type to hold a grudge forever, you know.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Maybe it passed him on the road and he got mad'; new says 'Maybe someone flashed their lights at him and he took offence.' The JPN パッシング refers to flashing headlights (from English 'passing'), not being overtaken on the road.",
+    "changeScore": 3
+  }
+]

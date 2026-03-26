@@ -1,0 +1,311 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Gears, Fire, and the Taste of Honey",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Gears and Fire and the Taste of Honey\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14336,
+    "TextENGNew": "Human life is built upon the connections between people.",
+    "significantChanges": true,
+    "changeReason": "New accurately captures that human life is \"built upon/sustained by\" connections (営まれている), while old says the world is \"filled with people blessed with relationships\" which is a different concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 14337,
+    "TextENGNew": "But that doesn't mean everyone is connected to everyone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14338,
+    "TextENGNew": "Everyone understands intuitively that some stranger on the other side of the globe crying or laughing has no bearing on their own life.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14339,
+    "TextENGNew": "Yet within the extremely limited confines of a neighborhood, the idea that people's lives are intertwined makes perfect sense.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14340,
+    "TextENGNew": "It's entirely possible that one memorable act within a small community could have profound consequences for everyone in it.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14341,
+    "TextENGNew": "Scale that up far enough, and... well, perhaps a heroic speech by a nameless stranger on the other side of the world could influence my life.",
+    "significantChanges": true,
+    "changeReason": "New correctly includes \"heroic speech\" (英雄的演説) while old replaces it with \"legend,\" losing the specific reference to a speech.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 14342,
+    "TextENGNew": "Well, it's not always that way.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14343,
+    "TextENGNew": "As I said at the start, the connections between people are, fundamentally, not as significant as the world likes to claim.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14344,
+    "TextENGNew": "Whether the family across the street is having hamburger steak or croquettes for dinner has absolutely no effect on me.",
+    "significantChanges": true,
+    "changeReason": "New correctly translates ハンバーグ as \"hamburger steak\" (not \"steak\") and お向かい as \"the family across the street\" (not \"some household nearby\").",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 14345,
+    "TextENGNew": "When I put on my shoes, it doesn't matter to anybody whether I put the right one on first or the left.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14346,
+    "TextENGNew": "...This much the average person can understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14347,
+    "TextENGNew": "But here is the actual, genuine truth of the matter.@kThe connections between people are far more black and white than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14348,
+    "TextENGNew": "It's not just a matter of distance, of being far or near.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14349,
+    "TextENGNew": "For example, let's say that Person A's actions have some effect on me.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14350,
+    "TextENGNew": "Even then, Person B's actions could have absolutely no consequence on my life.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14351,
+    "TextENGNew": "The reverse also holds true. Just because my actions affect Person A, that doesn't always mean that they affect Person B as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14352,
+    "TextENGNew": "Let's put it bluntly.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14353,
+    "TextENGNew": "If the bonds between people and their fates can be likened to gears...",
+    "significantChanges": true,
+    "changeReason": "New includes \"fates\" (運命) which was omitted from the original translation, changing the scope of the metaphor.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 14354,
+    "TextENGNew": "Then some gears mesh with the one that represents me, and others do not.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14355,
+    "TextENGNew": "There are some who would try arguing against this.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14356,
+    "TextENGNew": "Those people would bring up the example of gears in a clock.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14357,
+    "TextENGNew": "Each gear indeed only directly meshes with one or two others...",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14358,
+    "TextENGNew": "But if you turn one gear, it moves the next, which moves the next, and so on -- and in the end, every gear is turning.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14359,
+    "TextENGNew": "...There is a logic behind this, more than enough to convince the average person.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14360,
+    "TextENGNew": "Why is the argument convincing?",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 14361,
+    "TextENGNew": "...The answer is simple.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 14362,
+    "TextENGNew": "The relationships between people are ambiguous, and can only be described conceptually.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 14363,
+    "TextENGNew": "Nobody can concretely explain which gears are connected to which, how they interlock, how they relate -- so they have no choice but to obfuscate the matter with that kind of reasoning.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 煙に巻く (obfuscate) as 'throws a wet blanket' (dampen enthusiasm) -- different concept.",
+    "changeScore": 4
+  },
+  {
+    "index": 29,
+    "MessageID": 14364,
+    "TextENGNew": "So for the people who like that explanation, I'll use the example of a clock again to refute it.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 14365,
+    "TextENGNew": "The fundamental error lies in treating this world as a single clock.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14366,
+    "TextENGNew": "That is, there isn't only one clock.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14367,
+    "TextENGNew": "There exist many clocks in this world, each counting their own time.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14368,
+    "TextENGNew": "Think about it -- the sheer arrogance of assuming this world contains only one clock.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 14369,
+    "TextENGNew": "Even if you use the analogy of gears to explain human relationships,@k then you should be able to explain it using an analogy of multiple clocks unrelated to a single gear.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 14370,
+    "TextENGNew": "Neighbors A and B.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 14371,
+    "TextENGNew": "A is a gear in the same clock as me, so it's best to remain civil.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 14372,
+    "TextENGNew": "B is a gear in a different clock, so he doesn't really matter to me at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 14373,
+    "TextENGNew": "That's the kind of clear distinction I'm talking about.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 14374,
+    "TextENGNew": "You want to say I'm being fallacious?",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 14375,
+    "TextENGNew": "Then let me translate it into something closer to everyday life so you can understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 14376,
+    "TextENGNew": "You've surely heard the expression \"a fire on the far shore,\" haven't you?",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 14377,
+    "TextENGNew": "For example, if your neighbor's house was on fire, you'd probably try and help to put it out, wouldn't you?@k It'd be awful if the fire spread and burned down your own house, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 14378,
+    "TextENGNew": "But what if that fire was in a town on the opposite side of a river?",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 14379,
+    "TextENGNew": "Would you really go out of your way to help?@kYou wouldn't, would you?@kThere's no chance whatsoever the fire could spread to your house.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 間違っても (not even by chance) as a moral judgment; new correctly conveys impossibility.",
+    "changeScore": 4
+  },
+  {
+    "index": 45,
+    "MessageID": 14380,
+    "TextENGNew": "Even if it turned into a huge conflagration, there's no relation between the houses that will spread fire to yours and those that won't.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 14381,
+    "TextENGNew": "With this basic example, you should be able to see the difference between gears that are or aren't related to your own.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 14382,
+    "TextENGNew": "...Things like that exist all around us, even without a river to separate them.",
+    "significantChanges": true,
+    "changeReason": "New correctly translates that such situations \"exist all around us\" (たくさんある), while old says \"a lot to think about\" which misrepresents the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 14383,
+    "TextENGNew": "It's not a question of distance -- not about being neighbors or being across a river, you see?",
+    "significantChanges": false
+  }
+]

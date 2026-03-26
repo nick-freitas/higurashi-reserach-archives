@@ -1,0 +1,189 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Family Time with Oyashiro-sama",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Good Times and Oyashiro-sama\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15784,
+    "TextENGNew": "After dinner, Satoko, Hanyuu, and I were watching television together.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15785,
+    "TextENGNew": "A comedian on a variety show had the audience roaring with laughter.@k We were laughing right along with them.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15786,
+    "TextENGNew": "``Oh ho ho ho! Serves you right!!``",
+    "significantChanges": true,
+    "changeReason": "\"Look at you now\" vs \"Serves you right\" convey different meanings; the JPN ざまぁない means 'serves you right,' which the new translation captures more accurately.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 15787,
+    "TextENGNew": "``Au au au, but that looks so painful...``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15788,
+    "TextENGNew": "``...Mii. Nipah~☆``",
+    "significantChanges": true,
+    "changeReason": "\"Meep\" is changed to \"Mii\"; the JPN みー is a characteristic vocalization better transliterated as \"Mii\" rather than \"Meep,\" altering the character's signature catchphrase.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 15789,
+    "TextENGNew": "From my perspective, this was an after-dinner gathering of three, but in reality, only Satoko and I were here.",
+    "significantChanges": true,
+    "changeReason": "The original omits the JPN nuance of 私の目から見ると (from my perspective) and 食後の団欒 (after-dinner gathering); the new translation adds the explicit perspective framing and specifies this is an after-dinner scene of three people.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 15790,
+    "TextENGNew": "I am the only one who can see Hanyuu.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15791,
+    "TextENGNew": "Satoko, of course, cannot see her at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15792,
+    "TextENGNew": "Every time Satoko says something, Hanyuu chimes in with a response.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15793,
+    "TextENGNew": "It is not as though Satoko can hear those responses, but Hanyuu always joins in like that when she is in good spirits.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15794,
+    "TextENGNew": "It is, if one had to describe it, like answering questions posed by someone on television--a one-sided, pseudo-communication that is never truly reciprocal.",
+    "significantChanges": true,
+    "changeReason": "The original truncates the full Japanese meaning; the new translation adds the key descriptor 'one-sided, pseudo-communication that is never truly reciprocal' (決して双方向でない擬似的コミュニケーション) that was entirely omitted from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 15795,
+    "TextENGNew": "...One might call it playing make-believe at conversation.",
+    "significantChanges": true,
+    "changeReason": "\"Playing house\" vs \"playing make-believe at conversation\" differ meaningfully; the JPN コミュニケーションのままごと specifically means 'pretend/make-believe communication,' not 'playing house' in general.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 15796,
+    "TextENGNew": "It was inevitable that Hanyuu, unable to communicate with anyone besides me, would develop this kind of pastime.",
+    "significantChanges": true,
+    "changeReason": "The original says she 'started playing this game with other people' which is inaccurate; the JPN says it was 'inevitable' (必然) that Hanyuu developed this 'pastime' (遊び), conveying a different causal framing about Hanyuu's isolation.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 15797,
+    "TextENGNew": "That is why she always accompanies us to club activities too, laughing and getting excited right alongside everyone.",
+    "significantChanges": true,
+    "changeReason": "The original omits that Hanyuu laughs and gets nervous/excited (笑ったりハラハラしたり) alongside everyone; the new translation includes these specific emotional details from the JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 15798,
+    "TextENGNew": "...If Hanyuu could communicate normally, would she have been welcomed as one of our dear friends?",
+    "significantChanges": true,
+    "changeReason": "The original states as fact 'she would've been a good match' while the JPN uses a question form (迎え入れられてるだろうか - 'would she have been welcomed?'), and the new translation correctly renders it as a question, shifting from certainty to uncertainty.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 15799,
+    "TextENGNew": "...I avoided imagining that, as it would only hurt Hanyuu.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15800,
+    "TextENGNew": "According to the ancient scriptures passed down through the Furude family, if the tales of miracles are all true and they refer to Hanyuu,@k then in ages past, she interacted with many people and demonstrated her power.",
+    "significantChanges": true,
+    "changeReason": "The original omits 'passed down through the Furude family' (古手家に伝わる) and 'interacted with many people' (少なくない人々と交流し); the new translation adds these significant details about the Furude family lineage and Hanyuu's past interactions.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 15801,
+    "TextENGNew": "...But now she has lost not even a trace of those divine abilities. I am the only one who can even perceive her existence.",
+    "significantChanges": true,
+    "changeReason": "The original says 'doesn't have any spiritual power' while the new translation specifies 'not even a trace of those divine abilities' and 'perceive her existence' vs just 'see her,' matching the JPN 神通力のジの字どころか (not even the first character of divine power) and 存在を感じ取って (perceive existence).",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 15802,
+    "TextENGNew": "Hanyuu has never spoken of how she lost those powers.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 15803,
+    "TextENGNew": "I could only accept that as the times advanced and modernity progressed, leaving less and less room for the gods, Hanyuu's power and presence simply faded away.",
+    "significantChanges": true,
+    "changeReason": "The original merely says 'spiritual power diminished over time' while the new translation includes the full JPN reasoning: advancing modernity (近代化), diminishing room for gods (神々の居場所がなくなる), and her fading existence--significantly more detailed.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 15804,
+    "TextENGNew": "There is a legend in the Furude family that says if seven consecutive generations of daughters are born, Oyashiro-sama will be reborn.",
+    "significantChanges": true,
+    "changeReason": "The original says 'a girl is born to the family seven generations in a row' while the JPN 女子が七代続けば means 'seven consecutive generations of daughters'; the new translation clarifies this is about consecutive daughters, not a single girl being born.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 15805,
+    "TextENGNew": "...Indeed, with my generation, Hanyuu was finally able to communicate with a human for the first time in an eternity.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15806,
+    "TextENGNew": "...From a human perspective, does that mean Oyashiro-sama has returned?",
+    "significantChanges": true,
+    "changeReason": "The original omits '人間側の見地からだと' (from a human perspective/standpoint); the new translation adds this qualifying perspective that frames the question differently.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 15807,
+    "TextENGNew": "The entity the villagers revere as Oyashiro-sama and the being who claims to be that entity--Hanyuu--do not always align.",
+    "significantChanges": true,
+    "changeReason": "The original simplifies to 'image doesn't match up' while the new translation specifies 'the entity the villagers revere' vs 'the being who claims to be that entity,' capturing the JPN distinction between the villagers' concept of Oyashiro-sama and Hanyuu's claim to that identity.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 15808,
+    "TextENGNew": "Especially when I see her lying on her belly alongside Satoko, propping up her chin with her hands, happily watching television.",
+    "significantChanges": true,
+    "changeReason": "The original omits details present in the JPN: 並んでうつ伏せになって (lying side by side on belly), 頬杖をつきながら (propping chin on hands); the new translation includes these specific physical posture details.",
+    "changeScore": 2
+  }
+]

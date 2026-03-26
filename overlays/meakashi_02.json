@@ -1,0 +1,1544 @@
+[
+  {
+    "index": 1,
+    "MessageID": 64138,
+    "TextENGNew": "While I waited, I kept watch over the school grounds, but nothing seemed out of the ordinary.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 64139,
+    "TextENGNew": "Gazing at the elegantly illuminated Western-style architecture, it became harder and harder to believe this place was actually a school.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 64140,
+    "TextENGNew": "...If it's going to function as a detention facility, it should at least look the part -- electrified wire, searchlights, Dobermans and all.",
+    "significantChanges": true,
+    "changeReason": "New correctly identifies 収容施設 as \"detention facility\" (not \"prison\") and specifies \"Dobermans\" matching the Japanese ドーベルマン, whereas old used generic \"guard dogs.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 64141,
+    "TextENGNew": "I'd expected that a moment like this would bring a rush of school memories flashing before my eyes,@k but nothing of the sort happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 64142,
+    "TextENGNew": "That kind of nostalgic montage only works when you actually have fond memories to recall.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 64143,
+    "TextENGNew": "I hadn't had a single pleasant experience at this academy, so there was simply nothing for the reel to play.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 64144,
+    "TextENGNew": "...If I absolutely had to compile a highlight reel of good memories, it would probably be nothing but the lavish dinners.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 64145,
+    "TextENGNew": "In that case, my life-flashing-before-my-eyes would consist entirely of Japanese cuisine, Western dishes, Chinese food, and French gastronomy parading past.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 64146,
+    "TextENGNew": "...What kind of farewell montage is that?",
+    "significantChanges": true,
+    "changeReason": "Old translates as a generic exclamation (\"What the hell?\") while new ties it to the preceding montage discussion, better matching the contextual meaning of なんだそりゃ.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 64147,
+    "TextENGNew": "The image was so absurd it caught me off guard.@k I burst out laughing.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 64148,
+    "TextENGNew": "...Just then, I heard the sound of a car approaching.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 64149,
+    "TextENGNew": "I crouched back into the darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 64150,
+    "TextENGNew": "The license plate matched the one I'd been told to expect.@k ...No mistake.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 64151,
+    "TextENGNew": "I sprang from my hiding spot, dashed to the passenger side of the slowly moving car, wrenched the door open, and threw myself inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 64152,
+    "TextENGNew": "``Well done on your escape, ma'am.@k@vS06/06/150600004. Shion-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 64153,
+    "TextENGNew": "Behind the wheel sat a man of early old age.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 64154,
+    "TextENGNew": "...He'd take offense if he heard me say that, though.@k He still fancies himself middle-aged.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 64155,
+    "TextENGNew": "Seeing that I was safe and reading the triumph on my face, he broke into a grin.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 64156,
+    "TextENGNew": "``Ahh, fresh air at last~!@k@vS06/06/150600004. Right now, I'd kill for a bowl of plain white rice!``",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly translates 銀シャリ (polished white rice) as \"burger\"; new correctly renders it as \"plain white rice.\"",
+    "changeScore": 4
+  },
+  {
+    "index": 20,
+    "MessageID": 64157,
+    "TextENGNew": "``Ahahahaha!@k@vS06/15/151500004. ...I'd heard the cuisine at that academy was rather exquisite.@k@vS06/15/151500005. Were they serving you nothing but prison gruel, Shion-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 64158,
+    "TextENGNew": "``Don't be stupid, of course not!@k@vS06/06/150600006. Obviously I was kidding.@k@vS06/06/150600007. Come on, if you've got time to laugh, step on the gas!``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 64159,
+    "TextENGNew": "``Yes, yes. As you command...``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 64160,
+    "TextENGNew": "Kasai didn't bother hiding his amusement, laughing heartily. After reminding me to buckle my seatbelt, he floored the accelerator.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 64161,
+    "TextENGNew": "The academy, elegant as a European cathedral, vanished from the rearview mirror in an instant.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 64162,
+    "TextENGNew": "It disappeared so unceremoniously that I never got the chance to watch my montage of exquisite international dinners flash before my eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 64163,
+    "TextENGNew": "Farewell, my beloved school days!",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 64164,
+    "TextENGNew": "Just you watch -- starting today, I'm going to fill this refined stomach of mine with the trashiest junk food I can find.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 64165,
+    "TextENGNew": "I'll lead a life forever free of the table manners you drilled into me!@k Ahahaha!@k Serves you right!",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 64166,
+    "TextENGNew": "The chic atmosphere -- so convincing you could almost mistake it for a corner of Europe --@k soon gave way to vast farmland and dreary streetlights as we drove.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 64167,
+    "TextENGNew": "At last, I could remember that this was just the backwaters of Japan.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 64168,
+    "TextENGNew": "``Are you hungry?@k@vS06/15/151500008. Shall we stop somewhere to eat?``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 64169,
+    "TextENGNew": "``I'm fine -- I already ate.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 64170,
+    "TextENGNew": "That was a small lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 64171,
+    "TextENGNew": "The truth was, I was a bit hungry.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 64172,
+    "TextENGNew": "I'd barely touched my dinner, not wanting a full stomach to slow me down during the escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 64173,
+    "TextENGNew": "Kasai's offer was tempting, but I couldn't bring myself to sit and leisurely enjoy a meal while still this close to enemy territory.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 64174,
+    "TextENGNew": "``At this hour, if we get on the highway, the service areas will only have vending machines...@k@vS06/15/151500010. ...Though I suppose there are hamburger vending machines these days.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 64175,
+    "TextENGNew": "``Oh, and speaking of which -- I've heard they even have oden vending machines now.``",
+    "significantChanges": true,
+    "changeReason": "Old fragment \"and oden vending machines nowadays\" was split from previous entry; new correctly makes this a standalone remark about oden vending machines, matching the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 64176,
+    "TextENGNew": "``Huh?!@k@vS06/06/150600010. What the hell?@k@vS06/06/150600011. Does a cup pop out and then the ingredients just plop down into it, like a coffee vending machine...?@k@vS06/06/150600012. That's disgusting~~~``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 64177,
+    "TextENGNew": "``Ahaha, apparently it's not like that.@k@vS06/15/151500013. It comes in a can, I hear -- the whole thing just rolls out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 64178,
+    "TextENGNew": "``...Ah, sorry.@k@vS06/06/150600014. I'll pass on anything canned.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 64179,
+    "TextENGNew": "``Still can't do canned food...?@k@vS06/15/151500015. I'd have thought you'd outgrown that by now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 64180,
+    "TextENGNew": "``...What I hate, I hate.@k@vS06/06/150600016. Oh, shut up.@k@vS06/06/150600017. What are you laughing at?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 64181,
+    "TextENGNew": "Kasai chuckled softly to himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 64182,
+    "TextENGNew": "He was probably chattering on like this to help me unwind, I thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 64183,
+    "TextENGNew": "...Kasai wasn't normally this talkative.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 64184,
+    "TextENGNew": "``I'm wiped out.@k@vS06/06/150600019. Let me get some sleep.@k@vS06/06/150600020. ...How do I recline this seat?``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 64185,
+    "TextENGNew": "``Try feeling around the base on your left side.@k@vS06/15/151500017. Is there a lever there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 64186,
+    "TextENGNew": "``Mm, found it, found it.@k@vS06/06/150600022. ...Hup we go.``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 64187,
+    "TextENGNew": "Kasai laughed cheerfully again.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 64188,
+    "TextENGNew": "``Did I do something funny?``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 64189,
+    "TextENGNew": "``No, no.@k@vS06/15/151500019. ...It's just that 'hup we go' -- that old-lady phrasing reminded me of Mion-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 64190,
+    "TextENGNew": "...Well, naturally.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 64191,
+    "TextENGNew": "Mion and I are identical twins.@k We're perfect copies of each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 64192,
+    "TextENGNew": "If I react to something a certain way, Mion would react the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 64193,
+    "TextENGNew": "If Mion reacted to something in a given situation, put me in the same spot and I'd do the exact same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 64194,
+    "TextENGNew": "``How's Sis doing?``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 64195,
+    "TextENGNew": "``She seemed well, last I checked.@k@vS06/15/151500021. I only catch a glimpse of her when I bring your father to the family councils.``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 64196,
+    "TextENGNew": "``Right, Sis doesn't live at home anymore.@k@vS06/06/150600026. She's at Granny's place in Hinamizawa now, isn't she?``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 64197,
+    "TextENGNew": "``She moved into the Sonozaki main house around the same time you enrolled at the academy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 64198,
+    "TextENGNew": "...I'd asked the question myself, yet I responded with a disinterested 'hmm.'",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 64199,
+    "TextENGNew": "The 'Sonozaki main house' is, to put it simply, the residence of Sonozaki Oryou -- the current head of the Sonozaki family.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 64200,
+    "TextENGNew": "In other words, our grandmother's house.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 64201,
+    "TextENGNew": "...That said, when people use the phrase 'the main house,' it usually carries meaning far beyond a mere dwelling.",
+    "significantChanges": true,
+    "changeReason": "Old adds \"who I call a hag\" not present in the Japanese (つまり祖母の実家のことを指す simply means \"our grandmother's house\"); new is a more accurate translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 64202,
+    "TextENGNew": "And the way Kasai used it just now was no exception.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 64203,
+    "TextENGNew": "``...Has she changed at all?``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 64204,
+    "TextENGNew": "``You mean Mion-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 64205,
+    "TextENGNew": "``Yeah.@k@vS06/06/150600029. ...Living under the same roof as that old hag morning to night -- she must've changed at least a little.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 64206,
+    "TextENGNew": "Kasai let out another suppressed laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 64207,
+    "TextENGNew": "He knows perfectly well how I feel about our grandmother.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 64208,
+    "TextENGNew": "``As far as I can tell, she hasn't changed.@k@vS06/15/151500025. ...She's the same Mion-san you've always known.``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 64209,
+    "TextENGNew": "``What about me?@k@vS06/06/150600031. ...Have I changed?``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 64210,
+    "TextENGNew": "``No.@k@vS06/15/151500027. Not in the slightest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 64211,
+    "TextENGNew": "Kasai answered instantly, a mischievous smile playing on his lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 64212,
+    "TextENGNew": "...We hadn't seen each other in ages, and yet he answered without a moment's hesitation. Somehow that annoyed me.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 64213,
+    "TextENGNew": "When he noticed me glaring at him with a sulky pout, Kasai could no longer contain himself and erupted into laughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 64214,
+    "TextENGNew": "``Ahahahaha!@k@vS06/15/151500029. You haven't changed one bit.@k@vS06/15/151500030. Considering you spent all that time in such a prestigious academy, it's genuinely impressive how utterly unchanged you are.@k@vS06/15/151500031. Heh heh heh heh...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 64215,
+    "TextENGNew": "``Hmph~~.@k@vS06/06/150600033. Laugh all you want!@k@vS06/06/150600034. I'm going to sleep -- I mean it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 64216,
+    "TextENGNew": "``There's a blanket in the backseat.@k@vS06/15/151500033. Please use it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 64217,
+    "TextENGNew": "``Mm, thanks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 64218,
+    "TextENGNew": "I snatched the blanket and wrapped myself up in it.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 64219,
+    "TextENGNew": "Despite how exhausted I'd felt, the moment I actually settled into a sleeping position, drowsiness stubbornly refused to come. Strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 64220,
+    "TextENGNew": "No, not really.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 64221,
+    "TextENGNew": "My body and mind must both be wrung out from the unfamiliar ordeal of the escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 64222,
+    "TextENGNew": "If I couldn't feel the fatigue, it was only because the tension hadn't faded yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 64223,
+    "TextENGNew": "So I said it aloud one more time, commanding myself to sleep while I still could.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 64224,
+    "TextENGNew": "``I'm sleeping!@k@vS06/06/150600037. I'm seriously going to sleep now!``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 64225,
+    "TextENGNew": "``Yes, yes -- that's the third time you've announced it.@k@vS06/15/151500035. Do you need my permission before you can nod off?``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 64226,
+    "TextENGNew": "``You're way too chatty tonight!@k@vS06/06/150600039. I can't get drowsy if you don't pipe down for a minute!``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 64227,
+    "TextENGNew": "``My sincerest apologies, my lady.@k@vS06/15/151500037. I shall hold my tongue for a while.@k@vS06/15/151500038. ...Heh heh heh...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 64228,
+    "TextENGNew": "This idle banter with Kasai took me back to the days when I'd still been living an ordinary life in Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 64229,
+    "TextENGNew": "Though 'ordinary' might not be the right word for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 64230,
+    "TextENGNew": "We'd been in the thick of the Dam War back then, with chaos from morning till night.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 64231,
+    "TextENGNew": "Everyone banded together, and looking back now, we pulled off some seriously dangerous stunts.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 64232,
+    "TextENGNew": "If any of it were dug up piece by piece, I'd be looking at juvenile hall for sure.@k ...Actually, half the population of Hinamizawa would probably end up behind bars.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 64233,
+    "TextENGNew": "But we never thought of what we did as crimes.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 64234,
+    "TextENGNew": "It was a war.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 64235,
+    "TextENGNew": "It had the trappings of war, but at the same time, it may also have been a kind of festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 64236,
+    "TextENGNew": "A festival where every person with ties to Hinamizawa stood united against a common enemy.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 64237,
+    "TextENGNew": "It was a fierce struggle, but looking back on it now, it was exhilarating in its own way.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 64238,
+    "TextENGNew": "Pelting the riot police with stones alongside everyone else -- that was probably going too far, I'll admit.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 64239,
+    "TextENGNew": "We'd bolt from the pursuing officers and duck into someone's house for shelter.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 64240,
+    "TextENGNew": "We'd swarm the police station, demanding the release of arrested comrades.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 64241,
+    "TextENGNew": "Sneaking into the construction site to carry out various acts of sabotage felt less like actual warfare and more like playing at war.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 64242,
+    "TextENGNew": "My heart pounded. My blood raced.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 64243,
+    "TextENGNew": "...The sense of solidarity with fellow fighters whose faces I didn't even know -- even now, remembering it warms my chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 64244,
+    "TextENGNew": "Yes, that feeling was... like everyone hauling a festival palanquin through the village together, drenched in sweat and utterly spent.@k ...And at the end, we'd all collapse flat on the ground, strangers splashing barley tea on one another in giddy celebration.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 64245,
+    "TextENGNew": "I was still just a brat back then.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 64246,
+    "TextENGNew": "I look back fondly on all the trouble I got into, tagging along with the young guys who came and went from my father's place.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 64247,
+    "TextENGNew": "I got picked up by the police more than a few times, too.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 64248,
+    "TextENGNew": "But honestly, it didn't feel much different from being called to the teachers' office for forgetting my homework.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 64249,
+    "TextENGNew": "...The grown-ups were murderous with rage over their homes being drowned under a reservoir,@k but for us kids, looking back, those were actually pretty fun times.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 64250,
+    "TextENGNew": "That lively Dam War came to an abrupt end a few years ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 64251,
+    "TextENGNew": "It wasn't just the surface-level, festival-like activism that brought the dam project to a halt.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 64252,
+    "TextENGNew": "Behind the scenes, the Sonozaki main house and my father's people had been working in the shadows, pulling strings.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 64253,
+    "TextENGNew": "...This is a closely guarded Sonozaki family secret, but...@k rumor has it they may or may not have kidnapped the grandson of the Minister of Construction and used him as leverage.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 64254,
+    "TextENGNew": "The grandson turned up a few days after the abduction.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 64255,
+    "TextENGNew": "...He was found deep in the mountains near Yagouchi.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 64256,
+    "TextENGNew": "He didn't just vanish into thin air -- he wasn't spirited away.@k He was 'discovered.'@k Which means...@k some kind of deal was struck behind closed doors.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 64257,
+    "TextENGNew": "The following year, the dam project declared an indefinite freeze on construction and was effectively dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 64258,
+    "TextENGNew": "Based on the grandson's testimony, the police suspected several Hinamizawa residents were directly involved and investigated relentlessly -- but it was futile.@k They couldn't turn up a single lead.",
+    "significantChanges": true,
+    "changeReason": "Old omits that police specifically suspected \"several Hinamizawa residents of direct involvement\" (住民数人が直接的に関与) and their persistent investigation (しつこく), condensing significant detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 64259,
+    "TextENGNew": "The comrades of the festival would never betray one of their own.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 64260,
+    "TextENGNew": "To protect their people, they'd do anything -- tell any lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 64261,
+    "TextENGNew": "...Alibis, circumstantial evidence -- all fabricated with practiced ease.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 64262,
+    "TextENGNew": "...As if the police could ever uncover the truth.@k ...Ha!",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 64263,
+    "TextENGNew": "The car lurched sharply, probably from rough pavement, and I snapped back to reality.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 64264,
+    "TextENGNew": "...And I noticed that I'd been wearing an absurdly cheerful expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 64265,
+    "TextENGNew": "...Oh.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 64266,
+    "TextENGNew": "I'm actually looking forward to going home.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 64267,
+    "TextENGNew": "``Shion-san.@k@vS06/15/151500040. ...Are you still awake?``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 64268,
+    "TextENGNew": "``......What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 64269,
+    "TextENGNew": "``About where to take you... you'd like to go to Okinomiya, correct?``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 64270,
+    "TextENGNew": "``Where else would I go?``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 64271,
+    "TextENGNew": "I shot back irritably, as if he'd asked whether one plus one equals two.",
+    "significantChanges": true,
+    "changeReason": "Old omits the 1+1=2 analogy (当り前なことを聞くな = \"don't ask such obvious things\") present in the Japanese, simply saying \"answered straightforwardly with a frown.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 135,
+    "MessageID": 64272,
+    "TextENGNew": "And Kasai, in turn, responded just as matter-of-factly.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 64273,
+    "TextENGNew": "``The decision to enroll you at that boarding academy was made by the head of the Sonozaki family.@k@vS06/15/151500044. ...You've now fled from that academy.@k@vS06/15/151500045. ...You understand what that means, I trust.``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 64274,
+    "TextENGNew": "``The school Granny picked just didn't suit me. That's all there is to it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 64275,
+    "TextENGNew": "``...Shion-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 64276,
+    "TextENGNew": "``...I know, I know.@k@vS06/06/150600043. Give it a rest.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 64277,
+    "TextENGNew": "Our grandmother's decisions, as head of the Sonozaki family, are absolute.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 64278,
+    "TextENGNew": "...Not like some frivolous rule about food being safe to eat if you pick it up within three seconds of dropping it.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 64279,
+    "TextENGNew": "What's more, the decision to confine me to a school far from the Sonozaki family... had been made from the very moment I was born.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 64280,
+    "TextENGNew": "The name I was given was 'Shion.'",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 64281,
+    "TextENGNew": "My sister's name, 'Mion,' contains the character for 'oni' -- demon.@k It signifies the one who inherits the legacy of demons.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 64282,
+    "TextENGNew": "Meaning she would be the heir to the Sonozaki family and its demonic bloodline.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 64283,
+    "TextENGNew": "And my name, 'Shion,' contains the character for 'temple.'",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 64284,
+    "TextENGNew": "The implication being that I would eventually be cloistered away in a temple and forgotten. That's what the name meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 64285,
+    "TextENGNew": "When I think about it that way, the name 'Shion' makes my stomach turn.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 64286,
+    "TextENGNew": "In the first place, the very existence of 'Shion' is an abomination to the Sonozaki family.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 64287,
+    "TextENGNew": "Two potential heirs to the main house.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 64288,
+    "TextENGNew": "...I don't need to cite historical precedents to see how that could sow the seeds of future conflict.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 64289,
+    "TextENGNew": "According to the traditions passed down through generations of the main house,@k if the heir bore twins, one was to be strangled before its first bath.@k Quite the charming custom.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 64290,
+    "TextENGNew": "Which means--",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 64291,
+    "TextENGNew": "...I should be grateful just to be alive and breathing each day.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 64292,
+    "TextENGNew": "Apparently, our grandmother actually wrapped her hands around my throat right after I was born, before I'd even been bathed.",
+    "significantChanges": true,
+    "changeReason": "New includes the detail \"before I'd even been bathed\" (産湯に浸かる前に) present in the Japanese but omitted in the old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 156,
+    "MessageID": 64293,
+    "TextENGNew": "...I don't know what exchange took place in that room.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 64294,
+    "TextENGNew": "Perhaps some fearless relative stepped forward and persuaded her to stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 64295,
+    "TextENGNew": "Or perhaps the old woman simply happened to be in an uncommonly good mood that day.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 64296,
+    "TextENGNew": "(Then why did you put your hands around my neck in the first place?! Terrifying!)",
+    "significantChanges": true,
+    "changeReason": "Old renders as a simple imperative (\"don't try to strangle me\") while new captures the Japanese rhetorical tone (なら手を掛けるなよな) as \"why did you put your hands around my neck in the first place?!\" — a notably different speech act.",
+    "changeScore": 3
+  },
+  {
+    "index": 160,
+    "MessageID": 64297,
+    "TextENGNew": "We're twins.@k There's not a single difference between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 64298,
+    "TextENGNew": "But the one who emerged from our mother's womb first was named 'Mion,' and the one who came in second -- dead last -- was named 'Shion.'",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 64299,
+    "TextENGNew": "Everyone around us was desperate to tell 'Mion' and 'Shion' apart, but to us sisters, the whole effort was hilariously absurd.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 64300,
+    "TextENGNew": "We were exactly the same -- there was nothing to differentiate.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 64301,
+    "TextENGNew": "A simple swap of hats was enough to fool everyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 64302,
+    "TextENGNew": "Why do all the grown-ups keep trying so hard to tell us apart? -- we wondered.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 64303,
+    "TextENGNew": "Well, our little twin games couldn't go on forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 64304,
+    "TextENGNew": "One day, a line was drawn -- absolute and unmistakable -- separating Mion and Shion for good.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 64305,
+    "TextENGNew": "Mion would move to the Sonozaki main house to live with our grandmother and train as the heir.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 64306,
+    "TextENGNew": "And I would be confined at that academy.",
+    "significantChanges": true,
+    "changeReason": "Old introduces the specific name \"St. Lucia's\" not present in the Japanese (例の学園 = \"that academy\"); new correctly leaves it unnamed.",
+    "changeScore": 2
+  },
+  {
+    "index": 170,
+    "MessageID": 64307,
+    "TextENGNew": "...I have no objections, at this point, to Sis inheriting the family headship.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 64308,
+    "TextENGNew": "Sure, there was a time when I felt some resentment about it.@k But now I actually pity Mion, shackled to all those tiresome customs and traditions.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 64309,
+    "TextENGNew": "So even with me back in Okinomiya, I pose no threat to the Sonozaki main house.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 64310,
+    "TextENGNew": "But... that old hag apparently doesn't see it that way.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 64311,
+    "TextENGNew": "She treats me like some kind of ill omen -- a black cat, a crow, a cracked teacup.",
+    "significantChanges": true,
+    "changeReason": "Old omits the specific ill-omen imagery (黒猫/black cat, カラス/crow, ぱっかり割れるお茶碗/cracked teacup) from the Japanese, summarizing as just \"evil omen.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 175,
+    "MessageID": 64312,
+    "TextENGNew": "...That's why she wants to keep me as far away from her as possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 64313,
+    "TextENGNew": "Fine by me.@k ...I don't want to see her wrinkled face either.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 64314,
+    "TextENGNew": "If she declares Hinamizawa off-limits to me, I can live with that.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 64315,
+    "TextENGNew": "She can fine me ten thousand yen for every step I take inside the village for all I care.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 64316,
+    "TextENGNew": "But I want her to at least overlook Okinomiya -- the town where I grew up.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 64317,
+    "TextENGNew": "I spent my earliest years in Hinamizawa, but I'm not especially attached to it.@k My memories of the place are faint.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 64318,
+    "TextENGNew": "Okinomiya, where I spent all of elementary school, means far more to me.@k It's an unremarkable little town, but I'm rather fond of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 64319,
+    "TextENGNew": "``If you return to Okinomiya, sooner or later you'll cross paths with a family member.@k@vS06/15/151500048. Word will inevitably reach the main house.``",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 64320,
+    "TextENGNew": "``You're worried about what happens when it reaches Granny's ears?@k@vS06/06/150600045. ......Ahaha, yeah... that could get ugly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 64321,
+    "TextENGNew": "``......As long as you truly understand.``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 64322,
+    "TextENGNew": "``......What is it, Kasai?@k@vS06/06/150600047. ...Are you telling me I should turn around and go back to that place?``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 64323,
+    "TextENGNew": "``Hardly.@k@vS06/15/151500051. I'd never suggest that.@k@vS06/15/151500052. ...What I'm trying to say is--``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 64324,
+    "TextENGNew": "``...That I'd better be prepared for the consequences, right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 64325,
+    "TextENGNew": "``As long as you genuinely understand, and you're not just paying it lip service.``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 64326,
+    "TextENGNew": "``Well, yeah, I get it.@k@vS06/06/150600050. If things go south, you'll be held accountable too for helping me escape.@k@vS06/06/150600051. Better give that pinky finger of yours plenty of kisses while you still can, Kasai.@k@vS06/06/150600052. ...Heh heh heh heh!``",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 64327,
+    "TextENGNew": "``In that case, I'd ask you to prepare yourself as well -- for being bound up in a straw mat and hurled into the Onigafuchi Swamp.@k@vS06/15/151500055. Ah, or perhaps they'll send you to the secret room in the main house's detached wing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 64328,
+    "TextENGNew": "I've never actually seen it myself,@k but there's supposedly a large secret chamber in the Sonozaki main house.",
+    "significantChanges": true,
+    "changeReason": "Old translates 秘密部屋 (secret room/chamber) as \"torture room,\" adding content not in the Japanese; new correctly renders it as \"secret chamber.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 192,
+    "MessageID": 64329,
+    "TextENGNew": "They say people who crossed the village were tortured to death there and disposed of without a trace...",
+    "significantChanges": true,
+    "changeReason": "New adds \"disposed of without a trace\" matching 闇から闇に葬った in the Japanese, which the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 193,
+    "MessageID": 64330,
+    "TextENGNew": "...Truly terrifying.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 64331,
+    "TextENGNew": "I'd rather not end up verifying those rumors firsthand.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 64332,
+    "TextENGNew": "``Yeah, yeah.@k@vS06/06/150600054. It'll work out somehow.@k@vS06/06/150600055. Ahahahaha~``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 64333,
+    "TextENGNew": "``You really are the spitting image of your mother.@k@vS06/15/151500057. That wing-it-and-hope-for-the-best attitude, especially.``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 64334,
+    "TextENGNew": "``Of course I'd take after her -- she's my actual mom.@k@vS06/06/150600057. Ahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 64335,
+    "TextENGNew": "When my parents find out I've run away from school... Mom and Dad are both going to be absolutely livid...",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 64336,
+    "TextENGNew": "Honestly, I'm more afraid of them than of Granny.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 64337,
+    "TextENGNew": "I'd rather not get into the details, but my father belongs to the yakuza.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 64338,
+    "TextENGNew": "He heads a sizable organization whose territory covers the greater Shishibone area, and he's also a senior executive in a larger syndicate.",
+    "significantChanges": true,
+    "changeReason": "Old omits 私の忠臣 (\"my loyal retainer\") from the Japanese, reducing the sentence to just \"So is Kasai here.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 202,
+    "MessageID": 64339,
+    "TextENGNew": "Kasai here, my ever-faithful retainer, is one of his men as well.",
+    "significantChanges": true,
+    "changeReason": "Old omits the temporal detail \"since before my parents were even married\" (結婚してなかった頃から) and the emphasis on trust being \"especially deep\" (一際厚い) from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 203,
+    "MessageID": 64340,
+    "TextENGNew": "He's been friends with my father since before my parents were even married, and enjoys an especially deep level of trust.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 64341,
+    "TextENGNew": "I can't vouch for the truth of it, but apparently the gentle Kasai of today was quite the fearsome brawler in his youth.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 64342,
+    "TextENGNew": "I've never seen them, but his body is said to bear a fair number of alarming scars.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 64343,
+    "TextENGNew": "He'd managed several territories as my father's right-hand man, but after sustaining serious injuries in a turf war, he stepped back from the front lines. Now he serves as my father's advisor -- which is really just a fancy way of saying drinking buddy.",
+    "significantChanges": true,
+    "changeReason": "Old omits 親父の片腕 (\"father's right-hand man\") from the Japanese, losing the characterization of Kasai's closeness to the father.",
+    "changeScore": 3
+  },
+  {
+    "index": 207,
+    "MessageID": 64344,
+    "TextENGNew": "At some point he became my minder, and before I knew it, he'd evolved into something like my personal butler.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 64345,
+    "TextENGNew": "At first, I assumed he was secretly watching me on my father's orders, and I resented his presence.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 64346,
+    "TextENGNew": "But over time, I came to believe that this man was genuinely on my side.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 64347,
+    "TextENGNew": "...Call it a woman's intuition.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 64348,
+    "TextENGNew": "...I suspect Kasai was once in love with my mother.",
+    "significantChanges": true,
+    "changeReason": "Old reduces the Japanese meaning (仮定を持って見てみると/viewing through that hypothesis) to vague \"from the way he acts,\" losing the investigative framing of the narrator's reasoning.",
+    "changeScore": 3
+  },
+  {
+    "index": 212,
+    "MessageID": 64349,
+    "TextENGNew": "I think there was a bit of a love triangle between him and my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 64350,
+    "TextENGNew": "In the end, my father beat him to the punch.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 64351,
+    "TextENGNew": "But Kasai couldn't bring himself to leave my mother's orbit entirely, so he stayed on as a lifelong friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 64352,
+    "TextENGNew": "Viewing Kasai through that lens,@k quite a few things suddenly clicked into place.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 64353,
+    "TextENGNew": "Through me, he's seeing the shadow of my mother as she was in her youth... that's how it felt.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 64354,
+    "TextENGNew": "The way he'd say, at every opportunity, how much I resembled her -- that especially gave off that impression.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 64355,
+    "TextENGNew": "I did find him a bit unsettling at first, but Kasai bears me no ill will.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 64356,
+    "TextENGNew": "...Once I let my guard down, I discovered he was actually a fun, witty man.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 64357,
+    "TextENGNew": "So when it came to finding someone who'd help me escape from a confinement ordered by the Sonozaki main house, Kasai was the only possible choice.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 64358,
+    "TextENGNew": "Early on in my planning, I'd gotten in touch with Kasai and coordinated the escape with him.@k He's my co-conspirator in this escapade -- accomplice, co-star, call him what you will.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 64359,
+    "TextENGNew": "...Knowing all that, it was only natural for Kasai to worry about what would happen after my return to Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 64360,
+    "TextENGNew": "Given the tangled web of obligations to my father and the main house... in the worst case, having a finger taken wasn't beyond the realm of possibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 64361,
+    "TextENGNew": "Ahaha -- and the bit about me being rolled up in a mat and thrown into the swamp might not be so far-fetched either.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 64362,
+    "TextENGNew": "Even so, there was only one place I was going back to.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 64363,
+    "TextENGNew": "Nowhere but Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 64364,
+    "TextENGNew": "Because that was my home.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 64365,
+    "TextENGNew": "...You could call this attachment a kind of homesickness -- a simple, honest yearning for home.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 64366,
+    "TextENGNew": "I had no interest in trying to dress it up as anything else.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 64367,
+    "TextENGNew": "``Realistically, what's your plan?@k@vS06/15/151500059. The Sonozaki family has eyes and ears everywhere.``",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 64368,
+    "TextENGNew": "``Well, I'll keep a low profile at first.@k@vS06/06/150600059. And if someone spots me, I can always insist I'm Mion.@k@vS06/06/150600060. Ahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 64369,
+    "TextENGNew": "``And after that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 64370,
+    "TextENGNew": "``Once things cool down a bit, I'll gradually come clean to the relatives closest to me.@k@vS06/06/150600062. I do have a decent number of people who'd take my side, you know.``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 64371,
+    "TextENGNew": "``...Back when I had that huge blowup with Dad, I bounced around from place to place with different people sheltering me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 64372,
+    "TextENGNew": "``I see.@k@vS06/15/151500062. So the plan is to build up a base of allies and establish facts on the ground, and ultimately coax the main house into turning a blind eye.@k@vS06/15/151500063. ...Whether that'll actually work is another matter.``",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 64373,
+    "TextENGNew": "``It'll work!@k@vS06/06/150600065. Plenty of people opposed sending me to that school in the first place.@k@vS06/06/150600066. That decision was born from nothing but the old hag's paranoid distrust of me.@k@vS06/06/150600067. ...Don't you think so, Kasai?``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 64374,
+    "TextENGNew": "``...Yes, well.@k@vS06/15/151500065. ...I did think that decision went too far.``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 64375,
+    "TextENGNew": "``Granny overthinks everything until she can't think straight anymore!@k@vS06/06/150600069. She's been wound tight since the Dam War, and I bet she still hasn't come down from that high. Honestly!``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 64376,
+    "TextENGNew": "Kasai couldn't quite bring himself to nod along, but his rueful smile said enough.",
+    "significantChanges": true,
+    "changeReason": "Old omits the characterization of the narrator's sulky pout (むぅ…っと) and Kasai holding back laughter (堪えきれなくなった) from the Japanese, simplifying the scene.",
+    "changeScore": 3
+  },
+  {
+    "index": 240,
+    "MessageID": 64377,
+    "TextENGNew": "In the end, I stayed wrapped in my blanket and never did fall asleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 64378,
+    "TextENGNew": "Despite telling him to be quiet, I'd been chatting with Kasai the entire time.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 64379,
+    "TextENGNew": "...Eventually, talked out and weary, I was just beginning to appreciate the lulling monotony of the highway's rhythm when Kasai spoke up unexpectedly.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 64380,
+    "TextENGNew": "``Shion-san.@k@vS06/15/151500067. ...Look.``",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 64381,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 64382,
+    "TextENGNew": "I was too drowsy by that point and decided to ignore him.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 64383,
+    "TextENGNew": "...I was mildly curious about what he wanted me to see, but not enough to open my eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 64384,
+    "TextENGNew": "Still, I cracked my eyelids open just slightly, and a sign hurtled into my field of vision at tremendous speed before vanishing behind us.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 64385,
+    "TextENGNew": "That must have been what Kasai wanted to show me.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 64386,
+    "TextENGNew": "On the sign, alongside an illustration of azaleas -- the city's flower -- were the words:",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 64387,
+    "TextENGNew": "'Welcome to Shishibone City.'",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 64388,
+    "TextENGNew": "Home was just around the corner.",
+    "significantChanges": false
+  }
+]

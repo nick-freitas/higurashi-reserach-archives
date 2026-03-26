@@ -1,0 +1,3096 @@
+[
+  {
+    "index": 1,
+    "MessageID": 47493,
+    "TextENGNew": "The uphill road to the clinic--one I'd never paid any mind before--now seemed to spitefully wear me down.",
+    "significantChanges": true,
+    "changeReason": "New translation corrects 'hilly road' to 'uphill road' matching 坂道, and changes 'torturous' to 'spitefully wear me down' capturing the personification in 小意地悪く",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 47494,
+    "TextENGNew": "Large beads of sweat formed on my brow, and at some point my breathing had become ragged.",
+    "significantChanges": true,
+    "changeReason": "Corrects 'breath had grown faint' to 'breathing had become ragged' matching 息も絶え絶え (gasping for breath)",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 47495,
+    "TextENGNew": "The hatchet tucked into my belt was heavy and cumbersome, making it hard to walk.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 47496,
+    "TextENGNew": "...I considered abandoning it... but since the uncle was still alive, I couldn't part with it yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 47497,
+    "TextENGNew": "The signboard for the Irie Clinic came into view.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 47498,
+    "TextENGNew": "...But I immediately noticed something was different and stopped in my tracks.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 47499,
+    "TextENGNew": "Several red revolving lights were flashing at the clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 47500,
+    "TextENGNew": "...About three patrol cars were parked in the lot, their lights spinning.",
+    "significantChanges": true,
+    "changeReason": "Adds 'about' qualifier matching くらいの (approximately) in the Japanese, and uses 'patrol cars' for パトカー",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 47501,
+    "TextENGNew": "...It was unmistakably a sign that something abnormal had occurred.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 47502,
+    "TextENGNew": "...I hadn't wanted to see Coach, so my plan had been to leave Satoko in the waiting room, ask the receptionist to pass along a message, and slip away.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 47503,
+    "TextENGNew": "...But with Ooishi's police here, I couldn't just waltz in.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 47504,
+    "TextENGNew": "\"...........What's going on...@k@vS03/04/140400200. ...All those... patrol cars...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 47505,
+    "TextENGNew": "I gently laid Satoko down in the shade of some bushes.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 47506,
+    "TextENGNew": "\"I don't know.@k@vS03/01/140100948. ...I'll go check, so wait here for a bit.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 47507,
+    "TextENGNew": "\"...Leaving a lady... in nothing but a bath towel in a place like this... how ungentlemanly...\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'Simply unforgivable' to 'how ungentlemanly' which better matches なってませんわね (improper/ungentlemanly)",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 47508,
+    "TextENGNew": "\"If you can still throw insults like that, you'll be fine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 47509,
+    "TextENGNew": "I added that I'd be right back, and stood up.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 47510,
+    "TextENGNew": "I cautiously surveyed my surroundings, hid behind a car, and crept closer to the police clustered at the clinic entrance...",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 47511,
+    "TextENGNew": "I overheard the officer in charge--a man in a necktie--talking with a doctor in a white coat.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 47512,
+    "TextENGNew": "The doctor... didn't seem to be Coach.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 47513,
+    "TextENGNew": "...It was one of the staff Coach had asked to make tea yesterday.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 47514,
+    "TextENGNew": "\"So you were the first to find him, since you had the morning shift.@k@vS03/00/komi04002. What did you see?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 47515,
+    "TextENGNew": "\"He was sitting on the sofa at the director's desk. It looked like he'd fallen asleep.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'sofa in the head office' to 'sofa at the director's desk' matching 所長席 (director's seat/desk)",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 47516,
+    "TextENGNew": "\"And there was a water pitcher and an empty bottle of sleeping pills on the desk, so you immediately assumed he'd attempted suicide with the pills?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 47517,
+    "TextENGNew": "\"His high temperature and dilated pupils indicated severe impairment of consciousness.@k@vS03/00/docA04010. It was a clear case of sleeping pill overdose.\"",
+    "significantChanges": true,
+    "changeReason": "New translation drops part of the dialogue about immediately beginning treatment, and changes uncertainty ('seemed like') to certainty ('was a clear case')",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 47518,
+    "TextENGNew": "\"Without calling the police or an ambulance?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 47519,
+    "TextENGNew": "\"This is a hospital and I'm a doctor!@k@vS03/00/docA04012. If a patient's life is in danger, my first priority is to save them!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 47520,
+    "TextENGNew": "\"...Yes, yes, fine, fine... And then what?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 47521,
+    "TextENGNew": "\"His breathing was irregular, so I administered artificial respiration.@k@vS03/00/docA04015. When that proved ineffective, I used a respirator and performed gastric lavage.\"",
+    "significantChanges": true,
+    "changeReason": "Corrects 'put him on a respirator' to 'administered artificial respiration'; 人工呼吸 means manual resuscitation, not a breathing machine",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 47522,
+    "TextENGNew": "\"Right, right.@k@vS03/00/komi04008. So in the end, you did everything you could, but he didn't make it?\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits Komiyama's follow-up questions about confirming the outcome and timing of the report, present in the Japanese",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 47523,
+    "TextENGNew": "\"Yes.@k@vS03/00/docA04017. ...I was unable to save him... I'm deeply sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 47524,
+    "TextENGNew": "Just then, a radio in one of the patrol cars crackled to life, and a tinny voice came through.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 47525,
+    "TextENGNew": "\"This is HQ. This is HQ.@k@vS03/00/honbu04002. Komiyama-san, do you read? Over.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 47526,
+    "TextENGNew": "\"Hello!@k@vS03/00/komi04012. This is Komiyama.@k@vS03/00/komi04013. Go ahead.\"",
+    "significantChanges": true,
+    "changeReason": "New translation omits most of Komiyama's radio report including the suicide details and lack of suicide note present in the Japanese text",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 47527,
+    "TextENGNew": "...Suicide...?@kWhat... were they talking about...?",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 47528,
+    "TextENGNew": "Someone had committed suicide at the clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 47529,
+    "TextENGNew": "...But who?@k............",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 47530,
+    "TextENGNew": "When I'd wished Takano-san dead, she died the next day.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 47531,
+    "TextENGNew": "...And yesterday, I'd wished Coach dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 47532,
+    "TextENGNew": "...Then......... could it be...?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 47533,
+    "TextENGNew": "\"Did he regularly use sleeping medication?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 47534,
+    "TextENGNew": "\"...I don't really know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 47535,
+    "TextENGNew": "\"Did he ever complain about being tired, or say he wanted to die--anything like that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 47536,
+    "TextENGNew": "\"Well, Irie-sensei was always so... upbeat.@k@vS03/00/docA04020. ...I can't imagine... he would ever...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 47537,
+    "TextENGNew": "...So it was true.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 47538,
+    "TextENGNew": "...Irie-sensei... they were talking about Coach.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 47539,
+    "TextENGNew": "Coach had committed suicide.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 47540,
+    "TextENGNew": "...Why would he do such a thing?",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 47541,
+    "TextENGNew": "...I couldn't think of any reason he'd want to die.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 47542,
+    "TextENGNew": "...The only reason that came to mind was that I had cursed him to death.",
+    "significantChanges": true,
+    "changeReason": "Changes 'I wanted him dead' to 'I had cursed him to death' matching 呪った (cursed), which is thematically important",
+    "changeScore": 2
+  },
+  {
+    "index": 51,
+    "MessageID": 47543,
+    "TextENGNew": "...This world... was insane.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 47544,
+    "TextENGNew": "...If I wished someone dead... they died. That was the kind of world this was...",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 47545,
+    "TextENGNew": "...Then... what about Ooishi?",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 47546,
+    "TextENGNew": "What had happened to him...?",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 47547,
+    "TextENGNew": "If people truly died because I willed it... then something must have happened to him too...",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 47548,
+    "TextENGNew": "\"Backup is en route.@k@vS03/00/honbu04004. The section chief wants you to leave the scene to backup and join the search for Ooishi's vehicle. Over.\"",
+    "significantChanges": true,
+    "changeReason": "Corrects 'chief' to 'section chief' matching 課長, and changes 'get back to searching' to 'join the search' with 'Over' added for radio protocol authenticity",
+    "changeScore": 2
+  },
+  {
+    "index": 57,
+    "MessageID": 47549,
+    "TextENGNew": "``Copy that!@k@vS03/00/komi04019. ...Excuse me.@k@vS03/00/komi04020. Backup's arriving here now, so please leave the scene as it is.@k@vS03/00/komi04021. ...Hey, let's go!``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 47550,
+    "TextENGNew": "The officers nodded and split into the patrol cars.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 47551,
+    "TextENGNew": "Did they just say... search for Ooishi's vehicle?",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 47552,
+    "TextENGNew": "Searching for his car meant...@k...he was... missing...!",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 47553,
+    "TextENGNew": "Takano-san.@kCoach.@kOoishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 47554,
+    "TextENGNew": "...When I wished for it... by the very next day... they vanished.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 47555,
+    "TextENGNew": "No matter how furiously you wished for someone's death, it normally wouldn't come true.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 47556,
+    "TextENGNew": "...Everyone knew wishing wouldn't actually kill anyone. That's why people could casually throw around curses.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 47557,
+    "TextENGNew": "...But the curses that left my lips... were being fulfilled.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 47558,
+    "TextENGNew": "...At that moment... even though I hadn't been walking--",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 47559,
+    "TextENGNew": "...Tap.@k...I heard a footstep.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 47560,
+    "TextENGNew": "...And it wasn't just one... Tap... tap... They were approaching from behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 47561,
+    "TextENGNew": "And then... they stopped right behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 47562,
+    "TextENGNew": "...Reaching... a hand... toward my shoulder...",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 47563,
+    "TextENGNew": "\"...Would you mind... telling me what's going on...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 47564,
+    "TextENGNew": "\"WAAAHH!! ............Sa... Satoko?@k@vS03/01/140100951. Don't scare me like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 47565,
+    "TextENGNew": "\"...I'm the one who was scared.@k@vS03/04/140400204. Please don't suddenly shout like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 47566,
+    "TextENGNew": "It was Satoko.@k...Her eyes still looked unfocused, but she'd recovered enough to stand and walk on her own.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 47567,
+    "TextENGNew": "...She looked far better compared to how limp she'd been earlier.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 47568,
+    "TextENGNew": "\"How are you feeling?@k@vS03/01/140100953. ...Are you okay now?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 47569,
+    "TextENGNew": "\"...My head still hurts, but...@k@vS03/04/140400206. I can't stay out here looking like this forever...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 47570,
+    "TextENGNew": "She flashed a brave smile, but her legs still looked unsteady.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 47571,
+    "TextENGNew": "\"...Anyway... what on earth... is going on?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 47572,
+    "TextENGNew": "\"...From... what I just heard the police talking about...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 47573,
+    "TextENGNew": "\"...Coach... apparently committed suicide.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 47574,
+    "TextENGNew": "\".........Eh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 47575,
+    "TextENGNew": "Satoko was at a loss for words.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 47576,
+    "TextENGNew": "...Her face grew paler and paler... and I could tell she was doubting her own ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 47577,
+    "TextENGNew": "\"...Ke... Keiichi-san... that...!@k@vS03/04/140400211. Is that true?!@k@vS03/04/140400212. I didn't mishear you?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 47578,
+    "TextENGNew": "\"Th...that's what I heard...!@k@vS03/01/140100956. They said Irie-sensei killed himself with sleeping pills...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 47579,
+    "TextENGNew": "...Satoko went down on her knees... and broke out in tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 47580,
+    "TextENGNew": "\"...It... it can't be...@k@vS03/04/140400214. ...Coach... he... would never... never ever... kill himself...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 47581,
+    "TextENGNew": "As I watched Satoko crying and clawing at the grass... I felt myself trapped by guilt and remorse...",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 47582,
+    "TextENGNew": "I got so angry that Coach was treating me like a madman yesterday,@k that he'd betrayed me,@k that I'd thought...@k he'd be better off dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 47583,
+    "TextENGNew": "...But... even Coach, who, to me, deserved to die... still must have had people who loved and respected him.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 47584,
+    "TextENGNew": "......Like Satoko here.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 47585,
+    "TextENGNew": "In... my selfish, egotistical anger, I wished for his death, and it was granted...@k and now Satoko was crying hysterically as a result.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 47586,
+    "TextENGNew": "......The guilt... tore at my heart...",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 47587,
+    "TextENGNew": "...I worked myself up to murder for Satoko's sake.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 47588,
+    "TextENGNew": "...I decided I wanted Satoko to be happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 47589,
+    "TextENGNew": "...But... was that really all it took?",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 47590,
+    "TextENGNew": "Murder meant taking someone's life.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 47591,
+    "TextENGNew": "...It meant making everyone attached to that person sad.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 47592,
+    "TextENGNew": "......In Satoko's uncle's case, of course, nobody would be sad.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 47593,
+    "TextENGNew": "So I didn't feel a sense of guilt at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 47594,
+    "TextENGNew": "...But... Coach's death was different.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 47595,
+    "TextENGNew": "...I... had wanted to make Satoko happy......@k and that had resulted in me inflicting a deep sadness upon her, hadn't it...",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 47596,
+    "TextENGNew": "...But... Coach killed himself...@k It wasn't... my.........",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 47597,
+    "TextENGNew": "\"............Hic...... sob...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 47598,
+    "TextENGNew": "Satoko still hadn't stopped crying... but she seemed to be a little calmer now.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 47599,
+    "TextENGNew": "Wiping her tears, she stood up.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 47600,
+    "TextENGNew": "\"......I'm sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 47601,
+    "TextENGNew": "...And the only thing I could think of to say to her... was an apology.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 47602,
+    "TextENGNew": "\"Why............ are you apologizing?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 47603,
+    "TextENGNew": "\"...I, well...@k@vS03/01/140100959. Yesterday, I, um... got into a...... a fight... with Coach.@k@vS03/01/140100960. ......And I thought...@k@vS03/01/140100961. that I wanted him to die.@k@vS03/01/140100962. I wanted it, so... so he really...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 47604,
+    "TextENGNew": "Satoko looked at me dubiously for a few moments.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 47605,
+    "TextENGNew": "...Eventually, her expression softened, as she interpreted my words in her own way.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 47606,
+    "TextENGNew": "\"...It isn't your fault, Keiichi-san.@k@vS03/04/140400218. ...Coach... was an adult too.@k@vS03/04/140400219. ...He felt like there was something he had to give his life for... and chose to do so after a lot of worrying and suffering.@k@vS03/04/140400220. ...It's not anyone's fault.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 47607,
+    "TextENGNew": "She smiled a little, trying to comfort me.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 47608,
+    "TextENGNew": "\".........I do not want to be like this forever.@k@vS03/04/140400222. ...I want... some clothes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 47609,
+    "TextENGNew": "\"Are you okay?!@k@vS03/01/140100964. Shouldn't you get someone at the clinic to...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 47610,
+    "TextENGNew": "\"...I won't die from putting on clothes before going...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 47611,
+    "TextENGNew": "Satoko readjusted her bath towel and started back along the path.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 47612,
+    "TextENGNew": "...Her stride was wobbly... and it didn't look like she'd recovered as much as she let on.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 47613,
+    "TextENGNew": "At first, Satoko tried to go back home, but it was the time of the morning when people were going to school and to work, so after seeing people walking around, she thought better of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 47614,
+    "TextENGNew": "...She must have been pretty embarrassed wearing only the towel.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 47615,
+    "TextENGNew": "\"......I'm going to Rika's house.@k@vS03/04/140400225. ...My clothes should be there.@k@vS03/04/140400226. .........What's wrong?@k@vS03/04/140400227. Keiichi-san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 47616,
+    "TextENGNew": "Satoko noticed how I was hanging my head and spoke to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 47617,
+    "TextENGNew": "\"...Despite how he might have come off, Coach was an adult, all right?@k@vS03/04/140400229. He would certainly not have killed himself after a petty fight with you, Keiichi-san.@k@vS03/04/140400230. ...Please, stop blaming yourself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 47618,
+    "TextENGNew": "At first I thought it was a coincidence... but with three people now... I couldn't discard the possibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 47619,
+    "TextENGNew": "...There was no such thing as \"impossible\" in this world...",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 47620,
+    "TextENGNew": "\".........These past few days... haven't made any sense.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 47621,
+    "TextENGNew": "\"...What hasn't...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 47622,
+    "TextENGNew": "Satoko seemed to be having trouble breathing... but she still tried to listen to what I had to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 47623,
+    "TextENGNew": "\"...At the Watanagashi Festival the day before last... you went home on the way there, right?@k@vS03/01/140100967. ...And... I went there and had a lot of fun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 47624,
+    "TextENGNew": "\"......So it would seem.@k@vS03/04/140400234. ...I do apologize for getting so upset with you about it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 47625,
+    "TextENGNew": "Satoko remembered how she blew up at me in the classroom yesterday, and bowed to me a little...",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 47626,
+    "TextENGNew": "\"...If I said...... I actually didn't go to the festival at all... would you believe me...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 47627,
+    "TextENGNew": "Satoko looked at me, confused.@k ...She couldn't help it, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 47628,
+    "TextENGNew": "\"...Of course I wouldn't believe you.@k@vS03/04/140400236. ...What are you on about...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 47629,
+    "TextENGNew": "\"...You wouldn't, right?@k@vS03/01/140100970. I don't believe it either.@k@vS03/01/140100971. ...I mean... I didn't go to the festival... but everyone's saying I hung out with them there.@k@vS03/01/140100972. ...Nobody would believe it, right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 47630,
+    "TextENGNew": "\"...............Are you... being serious...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 47631,
+    "TextENGNew": "\"...Yeah...@k@vS03/01/140100974. ...Ever... ever since the night of Watanagashi... everything's been messed up.@k@vS03/01/140100975. ...These weird footsteps suddenly started following me everywhere...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 47632,
+    "TextENGNew": "The blood drained from Satoko's expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 47633,
+    "TextENGNew": "\".........Footsteps... following you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 47634,
+    "TextENGNew": "\"...Yeah.@k@vS03/01/140100977. ...I thought it was just my imagination at first... but they stayed with me.@k@vS03/01/140100978. ...They're probably still there.@k@vS03/01/140100979. ...I can't tell them apart now because of your footsteps, though.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 47635,
+    "TextENGNew": "Satoko took a long and hard look at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 47636,
+    "TextENGNew": "......Maybe... she was doubting my sanity.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 47637,
+    "TextENGNew": "...Coach did the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 47638,
+    "TextENGNew": "...I mean, why wouldn't he, after telling him this?",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 47639,
+    "TextENGNew": "...The more I thought about it... the more I was unable to endure the feeling that my hatred for Coach had been meaningless...",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 47640,
+    "TextENGNew": "\"...On the day of Watanagashi...@k@vS03/01/140100981. I didn't go... I was doing something else.@k@vS03/01/140100982. ...The whole time.@k@vS03/01/140100983. I wasn't sleeping or unconscious or anything.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 47641,
+    "TextENGNew": "\"So it's not possible... that I walked to the festival half asleep and forgot about it afterwards.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 47642,
+    "TextENGNew": "\"...That is quite strange.@k@vS03/04/140400240. ...Then how were you at the festival...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 47643,
+    "TextENGNew": "\"That's what I mean!@k@vS03/01/140100986. I didn't go to the festival!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 47644,
+    "TextENGNew": "No!@k ...I can't let myself get emotional!",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 47645,
+    "TextENGNew": "...If I get agitated now, that'd be like proving that there's something wrong with my head...",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 47646,
+    "TextENGNew": "\"......Ah... sorry.@k@vS03/01/140100988. ...Well, nobody believes me, so... yeah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 47647,
+    "TextENGNew": "\".........If that is what you say, Keiichi-san... then I will believe you.@k@vS03/04/140400242. ...Then what?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 47648,
+    "TextENGNew": "\"...That night... I saw Takano-san.@k@vS03/01/140100990. ......And it... felt like she was looking down on me...@k@vS03/01/140100991. so I made a wish.@k@vS03/01/140100992. ...A wish that she would die...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 47649,
+    "TextENGNew": "\"...Takano-san does have that sort of air about her, doesn't she?@k@vS03/04/140400244. ...I cannot say... that I don't understand how you feel...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 47650,
+    "TextENGNew": "\"Did you know that Takano-san died?@k@vS03/01/140100994. It happened yesterday.@k@vS03/01/140100995. Apparently she was burned alive somewhere.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 47651,
+    "TextENGNew": "\"...Is that... true?!@k@vS03/04/140400246. ...She died...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 47652,
+    "TextENGNew": "\"...I... wished for her to die... and the next day... she was dead.@k@vS03/01/140100997. ...And Ooishi from the police, too!@k@vS03/01/140100998. Do you know him?@k@vS03/01/140100999. That annoying and fat detective guy...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 47653,
+    "TextENGNew": "Satoko nodded a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 47654,
+    "TextENGNew": "\"...I heard from the police earlier... but apparently he went missing.@k@vS03/01/140101001. ......And yesterday, actually...... I, well... wished... that he would die.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 47655,
+    "TextENGNew": "\".........Is... is all this true...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 47656,
+    "TextENGNew": "\"I'm not lying.@k@vS03/01/140101003. ...I don't want to believe it either... but it's true!@k@vS03/01/140101004. ...Takano-san, Coach, and Ooishi... I wanted them dead... and then they really died!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 47657,
+    "TextENGNew": "...For a little while, Satoko was at a loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 47658,
+    "TextENGNew": "...A long silence ensued.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 47659,
+    "TextENGNew": "\"......Hoho... ho ho ho ho ho...!@k@vS03/04/140400249. ...What a scary story...@k@vS03/04/140400250. ...I should be sure not to get on your bad side, Keiichi-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 47660,
+    "TextENGNew": "\"...And that's not all.@k@vS03/01/140101006. ......There's something... even stranger.@k@vS03/01/140101007. ...It's... about your... your uncle.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 47661,
+    "TextENGNew": "\"......I would rather... you not talk about my uncle...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 47662,
+    "TextENGNew": "\"...He was... there yesterday, right?@k@vS03/01/140101009. At your house.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 47663,
+    "TextENGNew": "\"...Could we please stop talking about him?!@k@vS03/04/140400253. I don't want to!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 47664,
+    "TextENGNew": "\"It's impossible.@k@vS03/01/140101011. He... he couldn't have been there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 47665,
+    "TextENGNew": "\"I said, stop talking about him!!@k@vS03/04/140400255. No!@k@vS03/04/140400256. Nooo!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 47666,
+    "TextENGNew": "\"That man couldn't have been there after the night of Watanagashi...!@k@vS03/01/140101013. Because, because I...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 47667,
+    "TextENGNew": "\"Nooooooooooooo!!@k@vS03/04/140400258. No more, please, no more about that man!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 47668,
+    "TextENGNew": "\"I killed him!!!@k@vS03/01/140101015. With my own hands!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 47669,
+    "TextENGNew": "...Even the cicadas... stopped crying.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 47670,
+    "TextENGNew": "Her face was streaked with tears... and it stiffened even more... as she looked at me in disbelief.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 47671,
+    "TextENGNew": "\"...On the night of the Watanagashi Festival... I killed your uncle.@k@vS03/01/140101017. ...So... it's impossible that he could have gone back home.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 47672,
+    "TextENGNew": "But still!!@k He went back!!",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 47673,
+    "TextENGNew": "...That... couldn't possibly have happened!!",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 47674,
+    "TextENGNew": "\"...So I... I wanted to make sure I'd actually killed him... so yesterday, I went to dig up the corpse I buried.@k@vS03/01/140101019. ...But the body wasn't there.@k@vS03/01/140101020. ...Is that even possible?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 47675,
+    "TextENGNew": "\"I killed him for sure, but there was no body!@k@vS03/01/140101022. And... he went home like nothing happened... home to you, and...!!@k@vS03/01/140101023. That... that wasn't supposed to happen, was it?!?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 47676,
+    "TextENGNew": "Satoko's entire body stiffened.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 47677,
+    "TextENGNew": "...She was shrinking away... like there was someone in front of her, about to hurt her...",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 47678,
+    "TextENGNew": "\".......................You probably...@k@vS03/01/140101025. think... I've gone... a little crazy, don't you?@k@vS03/01/140101026. ...I don't blame you.@k@vS03/01/140101027. ...I can't... believe it myself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 47679,
+    "TextENGNew": "\"......Ke-Keiichi-san, I think... you are very confused after all the people you wished were dead coincidentally died...@k@vS03/04/140400260. ...You're just in shock at Coach's suicide, and you're really upset...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 47680,
+    "TextENGNew": "\"...I think... you should stay home from school today and rest...@k@vS03/04/140400262. ...I'll be fine... so please, take care of yourself...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 47681,
+    "TextENGNew": "...Satoko spoke like she understood me... but she also told me to go home.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 47682,
+    "TextENGNew": "...I could see the revulsion in her face... and knew that she didn't want to be around me anymore...",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 47683,
+    "TextENGNew": "\"...Once I show you to the clinic, I'll go home.@k@vS03/01/140101029. ...Your legs are still shaking, aren't they?@k@vS03/01/140101030. It would be terrible if you collapsed halfway there...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 47684,
+    "TextENGNew": "\"Really, I am fine now...!@k@vS03/04/140400264. I do not want to keep exposing myself to a man any more than this...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 47685,
+    "TextENGNew": "\"...Hah... guh... hah... hah...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 47686,
+    "TextENGNew": "She wobbled up the shrine steps, looking like she was about to fall.@k@|@y ...I immediately ran up to her and helped her stay on her feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 47687,
+    "TextENGNew": "...But then Satoko promptly jumped away from me.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 47688,
+    "TextENGNew": "...That outright rejection... hurt a lot...",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 47689,
+    "TextENGNew": "Once she got to the top of the stairs, her breathing was ragged... and she wasn't even looking at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 47690,
+    "TextENGNew": "...At this point, I was being ignored...",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 47691,
+    "TextENGNew": "Well, it was more like... she didn't want to have anything to do with me... It really was a feeling of rejection.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 47692,
+    "TextENGNew": "......And that hurt my heart more than any blade could have.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 47693,
+    "TextENGNew": "...This was the path I chose for her sake.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 47694,
+    "TextENGNew": "To be treated like this at the end of it all... was just so saddening...",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 47695,
+    "TextENGNew": "...Don't be naive, Keiichi Maebara.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 47696,
+    "TextENGNew": "...You never wanted to be repaid in the first place...",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 47697,
+    "TextENGNew": "...You didn't do it so that Satoko would thank you.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 47698,
+    "TextENGNew": "...You did it so Satoko would be happy.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 47699,
+    "TextENGNew": "...And that... was what led to this ending.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 47700,
+    "TextENGNew": "Rika-chan's house was a disaster prevention storehouse used by the town council.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 47701,
+    "TextENGNew": "If you went past it, a little further through the shrine grounds, you'd apparently reach the back of the assembly hall.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 47702,
+    "TextENGNew": "Satoko was heading there, walking quickly, the gravel under her feat crunching as she went.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 47703,
+    "TextENGNew": "...Did she want to get there as soon as possible... or did she want to run away? I couldn't tell...",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 47704,
+    "TextENGNew": "...And then... I heard the vigorous sound of wings flapping.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 47705,
+    "TextENGNew": "I turned around... and saw a crow.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 47706,
+    "TextENGNew": "I hadn't seen many crows since coming to Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 47707,
+    "TextENGNew": "I saw them a lot in my old town, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 47708,
+    "TextENGNew": "...On garbage day, they'd flock to trash collection points, peck through the bags with their beaks, drag out the contents, and have a feast.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 47709,
+    "TextENGNew": "...As I was remembering that...@k I saw a few crows flocking around the shrine's donation box...",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 47710,
+    "TextENGNew": "And I thought... how terrible it was for someone to leave a garbage bag in a place like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 47711,
+    "TextENGNew": "............The cicadas... quieted.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 47712,
+    "TextENGNew": "...Breathing stopped.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 47713,
+    "TextENGNew": "...Thoughts ceased.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 47714,
+    "TextENGNew": "...Even time... came to a halt.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 47715,
+    "TextENGNew": "I ran... over to where the crows were flocking.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 47716,
+    "TextENGNew": "...I ran there... in order to drive a horrible idea... out of my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 47717,
+    "TextENGNew": "...I... definitely hadn't wanted this...",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 47718,
+    "TextENGNew": "...There's no way... I would ever... wish for this even by mistake...!@k This was not... this was not...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 47719,
+    "TextENGNew": "When they noticed my vicious approach, the crows all flapped upwards, fleeing into the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 47720,
+    "TextENGNew": "...When the crows' big, black bodies flew away...... they exposed the \"garbage bag.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 47721,
+    "TextENGNew": "\"Urgh... waaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh... ahhh... ah... ahh.........!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 47722,
+    "TextENGNew": "What had I seen there?",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 47723,
+    "TextENGNew": "...The scream had escaped from my throat before I understood what I was looking at.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 47724,
+    "TextENGNew": "......Wha... what...... was...... was this?!?",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 47725,
+    "TextENGNew": "Satoko came over as well, realizing something had happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 47726,
+    "TextENGNew": "...And she looked... over my shoulder...... then she screamed as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 47727,
+    "TextENGNew": "......This......... this wasn't.........!!",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 47728,
+    "TextENGNew": "The garbage bag... was crimson... dyed in fresh blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 47729,
+    "TextENGNew": "...Argh, enough of this stupid, roundabout way of saying it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 47730,
+    "TextENGNew": "That's right... yes!@k Yes!!@k It was... Ri...Rika-chan!",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 47731,
+    "TextENGNew": "Our friend, Satoko's best friend!@k Always easygoing, clever as a cat, but so cute you couldn't hate her, our friend... Rika-chan... she... she was...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 47732,
+    "TextENGNew": "......Rika-chan... was stark naked.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 47733,
+    "TextENGNew": "...She was face-up, limbs sprawled.@k Her eyes were like glass... just staring... staring up into the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 47734,
+    "TextENGNew": "...And... and...... ...aaahhhhhhhhhhhhhhh...",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 47735,
+    "TextENGNew": "\"Rika!!@k@vS03/04/140400267. Rika!@k@vS03/04/140400268. Rikaaaaaaaaaaa!!@k@vS03/04/140400269. Waaaaaahhhhhhhhhh!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 47736,
+    "TextENGNew": "Satoko broke down crying on the spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 47737,
+    "TextENGNew": "...And yet... she still couldn't approach... her friend's remains.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 47738,
+    "TextENGNew": "......The crows had gotten through the garbage bag....",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 47739,
+    "TextENGNew": "...No... no. ...Crows... they couldn't do this... Ugh... agh...",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 47740,
+    "TextENGNew": "\"Wooehhhhhhhhhhhh...!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 47741,
+    "TextENGNew": "On the spot... I started vomiting.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 47742,
+    "TextENGNew": "...Rika-chan... ......she... ...... ......",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 47743,
+    "TextENGNew": "...she......",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 47744,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 47745,
+    "TextENGNew": "......she... her... her st-stomach...",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 47746,
+    "TextENGNew": "...Was cut... wide open, vertically... completely open!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 47747,
+    "TextENGNew": "\"Rikaaaaaaaaaaaa!!@k@vS03/04/140400271. Uwaaaaaaahhhhhhhhhhhh!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 47748,
+    "TextENGNew": "Crows... crows couldn't have done this!!",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 47749,
+    "TextENGNew": "That unbelievable sight... induced oxygen deprivation in my brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 47750,
+    "TextENGNew": "...Color left my vision... a pounding headache... dizzy...... and... I wanted to vomit...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 47751,
+    "TextENGNew": "It was like... the nightmarish remains... of a ceremonial killing...",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 47752,
+    "TextENGNew": "...Someone, somewhere, had killed Rika-chan... brought her here...@k laid her here with her limbs sprawled out... and then... cut open her st-stomach...",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 47753,
+    "TextENGNew": "...The entire ground... was covered in an ocean of red and black...@k A few of the crows had hopped around inside that ocean.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 47754,
+    "TextENGNew": "They walked through the sea of blood, leaving bloody footprints... and those footprints... there were several, several still left on Rika-chan's body.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 47755,
+    "TextENGNew": "...Those sinister prints... made it seem even more like a bizarre ritual killing...",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 47756,
+    "TextENGNew": "...I may have... wished for Takano-san, and Coach, and Ooishi to die.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 47757,
+    "TextENGNew": "...But... I didn't remember ever... wishing for Rika-chan's death...",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 47758,
+    "TextENGNew": "\"...Yeah... It wasn't me... it wasn't me...@k@vS03/01/140101034. It wasn't... me...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 47759,
+    "TextENGNew": "I stumbled backwards, then stepped on a newspaper.@k ...A newspaper? In a place like this...?",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 47760,
+    "TextENGNew": "...The newspaper... was what was covering my hatchet.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 47761,
+    "TextENGNew": "I had kept it wrapped up and on my belt in order to carry Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 47762,
+    "TextENGNew": "...And that newspaper... had fallen off.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 47763,
+    "TextENGNew": "...Sheesh... don't scare me like that...",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 47764,
+    "TextENGNew": "...I bent down to pick it up... and then Satoko... looked at me with such disbelief as I'd never seen... and froze.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 47765,
+    "TextENGNew": "......She was looking straight at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 47766,
+    "TextENGNew": "\".........Ee.........k............\"",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 47767,
+    "TextENGNew": "\"...C............ Calm down, Satoko.@k@vS03/01/140101036. ...This... this isn't what it looks like.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 47768,
+    "TextENGNew": "Satoko... trembling madly... backed away...",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 47769,
+    "TextENGNew": "\"......It wasn't me...@k@vS03/01/140101038. ...It wasn't me...@k@vS03/01/140101039. ...It wasn't...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 47770,
+    "TextENGNew": "\"...er...... Mur...derer.........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 47771,
+    "TextENGNew": "She didn't care at all that she was exposing herself through the towel.",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 47772,
+    "TextENGNew": "...She just trembled... and tried to step back... from the demon in front of her...",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 47773,
+    "TextENGNew": "\"...Satoko... please, calm down.@k@vS03/01/140101041. ...Please, relax...@k@vS03/01/140101042. Satoko—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 47774,
+    "TextENGNew": "\"No... noooooooooooo...oooo...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 47775,
+    "TextENGNew": "Screaming weakly... Satoko began to run, unsteadily.@k ...Run... away, that is.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 47776,
+    "TextENGNew": "\"Wait... Please wait, Satoko...!!@k@vS03/01/140101044. You're wrong!@k@vS03/01/140101045. That's not it!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 47777,
+    "TextENGNew": "The way she ran away, it was so weak, so slow.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 47778,
+    "TextENGNew": "...So if I wanted to go after her, I could have caught up.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 47779,
+    "TextENGNew": "...But... if I tried to grab Satoko's shoulder or something right now... she might actually go crazy...",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 47780,
+    "TextENGNew": "...So I... had to follow her... and try and clear this up.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 47781,
+    "TextENGNew": "\"...You killed Takano-san...@k@vS03/04/140400276. and Coach...@k@vS03/04/140400277. and Ooishi-san, didn't you?!@k@vS03/04/140400278. ...You killed my uncle... and then... you killed Rika!!@k@vS03/04/140400279. You murdereeeerrrrr!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 47782,
+    "TextENGNew": "\"No!!@k@vS03/01/140101047. It wasn't me!!@k@vS03/01/140101048. I didn't kill her!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 47783,
+    "TextENGNew": "\"What are you saying?!@k@vS03/04/140400281. You just said it yourself, did you not?!@k@vS03/04/140400282. You wanted them to die!!@k@vS03/04/140400283. And then everyone died, didn't they?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 47784,
+    "TextENGNew": "\"I... well... no!@k@vS03/01/140101050. Just wishing that they were dead... that couldn't...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 47785,
+    "TextENGNew": "\"You don't even remember what you did, do you?!@k@vS03/04/140400285. How can I trust a person like you?!@k@vS03/04/140400286. Didn't your memory of killing them... just slip your mind?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 47786,
+    "TextENGNew": "\"No...... maybe you're only pretending not to remember!!@k@vS03/04/140400288. Besides... what is that hatchet for?!@k@vS03/04/140400289. Try explaining that!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 47787,
+    "TextENGNew": "\"......Urgh... It's for......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 47788,
+    "TextENGNew": "\"See? See?!@k@vS03/04/140400291. Keiichi-san... you are a killer, aren't you?!@k@vS03/04/140400292. Why did you do it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 47789,
+    "TextENGNew": "\"You were a little mean... but you were fun... and kind... and once, I even thought you might be my real Nii-nii...@k@vS03/04/140400294. Why did you turn into this?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 47790,
+    "TextENGNew": "......I might have been able to slowly answer each one of Satoko's questions at a time.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 47791,
+    "TextENGNew": "...But... in this situation... explaining my innocence in such a short period of time... was impossible...",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 47792,
+    "TextENGNew": "I mean... I didn't even know if I was really innocent anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 47793,
+    "TextENGNew": "At the very least... I \"killed\" Satoko's uncle!",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 47794,
+    "TextENGNew": "...There was no body, but I killed him!!@k Without a doubt!",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 47795,
+    "TextENGNew": "At that point, I was far from \"innocent.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 47796,
+    "TextENGNew": "...And... I wished Takano-san, Coach, and Ooishi were dead...@k and that... curse of mine... was granted.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 47797,
+    "TextENGNew": "......When I wished for Takano-san to die... I didn't think of it as anything more than a normal thing you'd say to someone you didn't like.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 47798,
+    "TextENGNew": "...But then she actually did die... and I realized that if I wanted people to die, they would.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 47799,
+    "TextENGNew": "...And... hoping it would happen again... I cursed Coach and Ooishi to the same fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 47800,
+    "TextENGNew": "...So... even ignoring Takano-san's death... Coach's and Ooishi's were... completely premeditated crimes!",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 47801,
+    "TextENGNew": "Was I... a killer, just like Satoko said?",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 47802,
+    "TextENGNew": "...Was I unable to distinguish between illusion and reality... and turned into a demon without remembering it... becoming a killer who carried out Oyashiro-sama's curse...?",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 47803,
+    "TextENGNew": "No... that couldn't be.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 47804,
+    "TextENGNew": "\"It was impossible.\" ...Ah, damn it!!",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 47805,
+    "TextENGNew": "The very word \"impossible\" was impossible in Hinamizawa right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 47806,
+    "TextENGNew": "How many freaking times have I said that word these past three days?!",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 47807,
+    "TextENGNew": "Satoko... had started crying again... and was walking unsteadily.",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 47808,
+    "TextENGNew": "...At first it felt like she was still running, but now, it was like she was walking away crying from someone bullying her...",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 47809,
+    "TextENGNew": "\"...Why......@k@vS03/04/140400296. ...Why... did things turn out this way...@k@vS03/04/140400297. ...Why... why...?! Mgh...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 47810,
+    "TextENGNew": "...If there was an answer to that... then I wanted to know it, too.@k ...Why.@k ...Why had it turned out like this...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 47811,
+    "TextENGNew": "\"...After Nii-nii went away... I was lonely for a long time...@k@vS03/04/140400299. But then Keiichi-san transferred to our school... and everyone... was happy again...@k@vS03/04/140400300. ...It was fun again... every day...... was beautiful...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 47812,
+    "TextENGNew": "...Yeah.@k ...She was right...",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 47813,
+    "TextENGNew": "...Those days... were bright and beautiful.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 47814,
+    "TextENGNew": "...And yet... and yet...",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 47815,
+    "TextENGNew": "...After that, Satoko and I shouted the exact same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 47816,
+    "TextENGNew": "\"\"...How... did it turn out like this...?!\"\"",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 47817,
+    "TextENGNew": "The cicadas were sneering at the spectacle—our strange game of tag.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 47818,
+    "TextENGNew": "...Ah... shut up shut up shut up...",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 47819,
+    "TextENGNew": "Eventually I heard the murmuring of a stream.",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 47820,
+    "TextENGNew": "...The forest parted... and a suspension bridge appeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 47821,
+    "TextENGNew": "Satoko was... crossing dangerously... wobbling as though she might fall at any moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 47822,
+    "TextENGNew": "...And when I stepped onto the bridge, it swayed a lot, causing Satoko to stagger and fall on the spot...",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 47823,
+    "TextENGNew": "\"...Satoko... Are you okay...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 47824,
+    "TextENGNew": "\"Don't... don't come near meeeee...!!@k@vS03/04/140400303. You... you murdereeeerrrrr!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 47825,
+    "TextENGNew": "Satoko shouted... her hatred made very clear.",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 47826,
+    "TextENGNew": "...It was sad.@k ...If words could cut... then this warmth flowing from my eyes... would have been blood for sure.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 47827,
+    "TextENGNew": "\"......Why... did you turn out this way...?@k@vS03/04/140400305. Keiichi-san, I... hic... I really... really liked you...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 47828,
+    "TextENGNew": "...I wanted... to go up to her and give her a hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 47829,
+    "TextENGNew": "...But... the distance between us... was uncrossable.",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 47830,
+    "TextENGNew": "...If I got any closer... Satoko would start shouting again.",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 47831,
+    "TextENGNew": "...And... say things... that would hurt me deeply again...",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 47832,
+    "TextENGNew": "So... I couldn't approach any closer than this.",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 47833,
+    "TextENGNew": "\".........Satoko...@k@vS03/01/140101055. I don't... I don't know how... things turned out like this either...@k@vS03/01/140101056. ...But... I can say this.@k@vS03/01/140101057. ...I wasn't the one who killed Rika-chan.@k@vS03/01/140101058. At least that... is true...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 47834,
+    "TextENGNew": "\"...Please stop being so absurd!!@k@vS03/04/140400307. How do you expect me to believe... anything someone who can't even rely on his own memories... has to say?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 47835,
+    "TextENGNew": "......I tightened my hands into fists.",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 47836,
+    "TextENGNew": "...This was mortifying...",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 47837,
+    "TextENGNew": "...I wasn't crazy.",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 47838,
+    "TextENGNew": "...Hinamizawa was crazy... ever since I wandered into it, lost, on that one night.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 47839,
+    "TextENGNew": "...This insane world... where I was at the festival when I wasn't, and the uncle I killed was alive...@k where death would come just by wishing for it... it was this world's fault!!",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 47840,
+    "TextENGNew": "...Mion and Rena started acting strangely, like they were possessed by something, too... ...And Coach... wouldn't believe anything I had to say...",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 47841,
+    "TextENGNew": "...And even Satoko, who I should have protected... was yelling at me like this...",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 47842,
+    "TextENGNew": "...Was the price for killing a man... supposed to be this high...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 47843,
+    "TextENGNew": "Was I... really going to be forced to stay in such a bitter world?!",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 47844,
+    "TextENGNew": "I did the right thing!!",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 47845,
+    "TextENGNew": "At least, I wanted to!!",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 47846,
+    "TextENGNew": "So then... ...why...?!?",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 47847,
+    "TextENGNew": "I hated it... every time I asked why... the days Satoko and I enjoyed in peace... went so wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 47848,
+    "TextENGNew": "\"......Satoko... Please believe me.@k@vS03/01/140101060. ...I'm... not a... a murderer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 47849,
+    "TextENGNew": "\"Then what is that hatchet for?@k@vS03/04/140400309. ...Can you give a convincing explanation for that...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 47850,
+    "TextENGNew": "\"...Is... is this hatchet scaring you...?@k@vS03/01/140101062. ...Okay... I'll throw it away.@k@vS03/01/140101063. ...That's what you want, right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 47851,
+    "TextENGNew": "Satoko didn't nod, but she seemed to be in agreement with that proposition...",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 47852,
+    "TextENGNew": "I clumsily took the hatchet out of my belt... then dropped it over the side of the bridge into the stream below.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 47853,
+    "TextENGNew": "\"......There, it's gone.@k@vS03/01/140101065. ...Now... you'll listen to me, right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 47854,
+    "TextENGNew": "\"...You think I'll let my guard down... just because you got rid of your weapon...?@k@vS03/04/140400311. Keiichi-san, you're strong... It would be easy for you to strangle me with your bare hands...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 47855,
+    "TextENGNew": "...Like hell I would... ever want to kill Satoko...@k ...You... you idiot...",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 47856,
+    "TextENGNew": "\"...Then what should I do?@k@vS03/01/140101067. ...Should I put my hands on my head...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 47857,
+    "TextENGNew": "\"...Yes, why don't you?@k@vS03/04/140400313. ...Please, put your hands on your head and face the other way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 47858,
+    "TextENGNew": "...It was a cunning plan, much like the ones she used during club activities.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 47859,
+    "TextENGNew": "...Putting my hands on my head and turning away would mean I couldn't attack Satoko very easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 47860,
+    "TextENGNew": "...I immediately acquiesced to her request, since it would make her feel better.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 47861,
+    "TextENGNew": "\"...Is this all right?@k@vS03/01/140101069. ...Please listen to what I have to say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 47862,
+    "TextENGNew": "\"..................\"",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 47863,
+    "TextENGNew": "Satoko stood up, then carefully approached me from behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 47864,
+    "TextENGNew": "And then... she actually... came right up behind me.",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 47865,
+    "TextENGNew": "...She was so close... and yet I was so sad... that I wasn't allowed to turn around...",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 47866,
+    "TextENGNew": "\"......I sort of... think I understand... that it isn't your fault, Keiichi-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 47867,
+    "TextENGNew": "\"...Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 47868,
+    "TextENGNew": "\"......I think... probably... you have just been possessed by something evil...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 47869,
+    "TextENGNew": "\"...............\"",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 47870,
+    "TextENGNew": "\"...Until before, I thought Keiichi-san was a killer... but now I know.@k@vS03/04/140400318. ...After looking at your eyes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 47871,
+    "TextENGNew": "I could hear... that Satoko was still crying... but her voice was gentle just the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 47872,
+    "TextENGNew": "\"Keiichi-san... could never kill anyone.@k@vS03/04/140400320. ...Something simply possessed his body... and made him do evil things.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 47873,
+    "TextENGNew": "...Was she speaking literally right now?",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 47874,
+    "TextENGNew": "...Or was she trying to admonish me...? I couldn't tell.",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 47875,
+    "TextENGNew": "\"......Come to think of it......... maybe...@k@vS03/04/140400322. ...Maybe they... were possessed, just like Keiichi-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 47876,
+    "TextENGNew": "\"......At the time... I was only thinking I would be killed... so I didn't think about it...@k@vS03/04/140400324. But now I understand.@k@vS03/04/140400325. ...That was... the work of something evil... that possessed you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 47877,
+    "TextENGNew": "\".........Satoko...?@k@vS03/01/140101073. ...What... are you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 47878,
+    "TextENGNew": "It was less like she was talking to me...@k and more like she was talking to herself, like she was confessing at my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 47879,
+    "TextENGNew": "\"......I understand... you know.@k@vS03/04/140400327. ...It isn't like... I haven't experienced it myself...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 47880,
+    "TextENGNew": "Satoko's voice... started to become mixed with sobs.",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 47881,
+    "TextENGNew": "...Her pained voice... tore at my heart...",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 47882,
+    "TextENGNew": "But... I didn't know what Satoko was... talking about.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 47883,
+    "TextENGNew": "\"...I climbed... to the top of the ritual storehouse once.@k@vS03/04/140400329. ...It was a few years ago.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 47884,
+    "TextENGNew": "Once... when Satoko was playing hide-and-seek at the shrine grounds... she climbed onto the roof of the storehouse for ritual implements, which everyone said not to go near... and hid.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 47885,
+    "TextENGNew": "Then, Satoko... saw that she could get in... through a window meant for ventilation..",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 47886,
+    "TextENGNew": "For Satoko... the word \"curse\" was plenty scary... but she was more curious about what was inside the unknown storehouse.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 47887,
+    "TextENGNew": "She removed the grating on the window, which was already hanging off... slid her small body into it... and climbed down inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 47888,
+    "TextENGNew": "It was too dark to see much, but after descending, she realized just how high up she'd been.",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 47889,
+    "TextENGNew": "...Despite the darkness, she could see a few things around her thanks to the faint light coming in from the air window.",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 47890,
+    "TextENGNew": "...And to her disappointment, it was just a regular old storehouse.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 47891,
+    "TextENGNew": "She tried to leave... but the door was locked up tight from the outside, and it was made to not open from within.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 47892,
+    "TextENGNew": "...She would have to go back out through the ventilation window she'd come in from.",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 47893,
+    "TextENGNew": "But... the window... was high on the wall... and there was no way... she would be able to climb back up.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 47894,
+    "TextENGNew": "Satoko desperately tried not to cry... and racked her brain thinking of a way to get up there.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 47895,
+    "TextENGNew": "...There were a lot of bird cage-looking things hanging by chains from the ceiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 47896,
+    "TextENGNew": "...She took the hanging chains and strung them along the wall.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 47897,
+    "TextENGNew": "...If she climbed up the bundle of chains... she might be able to manage to climb up to the ventilation window.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 47898,
+    "TextENGNew": "There was nothing else she could do... so she had to try.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 47899,
+    "TextENGNew": "...And try she did.",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 47900,
+    "TextENGNew": "...It was dark and creepy, and she didn't want to stay there forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 47901,
+    "TextENGNew": "The more she thought about that, the more she panicked.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 47902,
+    "TextENGNew": "She climbed the bundle of chains.",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 47903,
+    "TextENGNew": "...Satoko could hear the clinks and clangs of everything creaking under her weight.",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 47904,
+    "TextENGNew": "...And then... just as her hand... reached the window—@k one of the metal fixtures she'd used to stick the chains on the wall flew off, and the chains all began to pull loudly and furiously every which way.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 47905,
+    "TextENGNew": "Spurred on by the sounds behind her... she managed to get back onto the roof from the window.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 47906,
+    "TextENGNew": "...Because of the weight of the flailing bundle of chains, the other fixtures broke...@k And then one of the big bird cages hanging from the ceiling... fell to the floor with a huge noise.",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 47907,
+    "TextENGNew": "...Under it... was an image of Oyashiro-sama, his vessel, and the cage took off one of the arms... then trapped some other implements beneath it.",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 47908,
+    "TextENGNew": "...It didn't take very long... for her to grow scared of what she'd done.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 47909,
+    "TextENGNew": "The deafening noise could be heard from the rest of the shrine grounds.",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 47910,
+    "TextENGNew": "...A few other children heard it and gathered around.@k And, of course... Rika was one of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 47911,
+    "TextENGNew": "Then... Rika's father... the shrine's priest, with an angry look, ran over.",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 47912,
+    "TextENGNew": "...And then............ as for what happened next... it was painful to remember...",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 47913,
+    "TextENGNew": "The only one who knew where Rika's parents kept the key to the ritual storehouse... was Rika.",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 47914,
+    "TextENGNew": "...So... he scolded her, saying that this happened because Rika pulled a prank and hid me in there.",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 47915,
+    "TextENGNew": "...He was very angry and menacing.",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 47916,
+    "TextENGNew": "...Just looking at him... was enough to frighten anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 47917,
+    "TextENGNew": "...He exposed Rika's back, took a strangely-shaped ritual cane or something, and struck her with it several times.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 47918,
+    "TextENGNew": "Rika's words... at the time... It wasn't me... It wasn't me... I'm sorry... I'm sorry... that pitiful voice... I still can't get it out of my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 47919,
+    "TextENGNew": "I should... have said it was me.",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 47920,
+    "TextENGNew": "...I should have said so... to save my best friend from that false accusation... without being afraid of Rika's father's terrible temper.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 47921,
+    "TextENGNew": "Rika gritted her teeth and cried... at the crime she didn't remember doing...",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 47922,
+    "TextENGNew": "Ever since then...@k the \"world\" had been strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 47923,
+    "TextENGNew": "\"...I know, I understand.@k@vS03/04/140400331. ...This is... Oyashiro-sama's... curse.@k@vS03/04/140400332. ...His judgment... for messing up the ritual storehouse... and forsaking my best friend.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 47924,
+    "TextENGNew": "\"......Oyashiro-sama's... curse...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 47925,
+    "TextENGNew": "\"...My father and mother, too... they vanished in that muddy stream.@k@vS03/04/140400334. ...My mean aunt died too... but then Nii-nii... who loved me more than anyone... ran away from home.@k@vS03/04/140400335. ...And then...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 47926,
+    "TextENGNew": "\"......And then!! ...Keiichi-san transferred in... and I thought I'd finally gotten my fun life back... but this time... Keiichi-san was possessed...@k@vS03/04/140400337. and even Rika... got killed...",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 47927,
+    "TextENGNew": "\"...mmmmmmmgh!! ......There's something I heard once!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 47928,
+    "TextENGNew": "\"Oyashiro-sama... when he really curses someone... he doesn't kill them right away!!@k@vS03/04/140400340. He goes in order of your closest friends... and after killing them all... he kills that person last!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 47929,
+    "TextENGNew": "\"So... Keiichi-san... the curse got you too... mmmmmghhh!!!@k@vS03/04/140400342. I'm sure... that Rena-san and Mion-san will be cursed next!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 47930,
+    "TextENGNew": "\"And then... they'll kill... and be killed...!@k@vS03/04/140400344. No... no more!@k@vS03/04/140400345. Noooooooooooooooooo!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 47931,
+    "TextENGNew": "\"...Calm down, Satoko!!@k@vS03/01/140101076. There is no curse!@k@vS03/01/140101077. Nobody is trying to torment you!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 47932,
+    "TextENGNew": "When I turned around... I was thrust away with amazing force.",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 47933,
+    "TextENGNew": "Given my hands were awkwardly placed on my head... I couldn't take the fall and lost my balance.",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 47934,
+    "TextENGNew": "And I'd been pushed not into the bridge... but to the side.",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 47935,
+    "TextENGNew": "...Towards the stream.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 47936,
+    "TextENGNew": "No... This can't be happening...... uwahhhhhhhhhhhh...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 47937,
+    "TextENGNew": "......As one last miracle, I was allowed to grab a cord hanging from the bridge.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 47938,
+    "TextENGNew": "Far below me... was the stream.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 47939,
+    "TextENGNew": "...We were pretty high up... and below were rocks of all sizes.",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 47940,
+    "TextENGNew": "...If I fell, it clearly wouldn't be pretty.",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 47941,
+    "TextENGNew": "The entire bridge was tilting under my body weight.",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 47942,
+    "TextENGNew": "My frail little grip probably wouldn't last another minute before my fingers had to let go...",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 47943,
+    "TextENGNew": "\"......Satoko...!!@k@vS03/01/140101079. ...Satokooo...!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 47944,
+    "TextENGNew": "...I didn't understand myself... what I meant by shouting her name then.",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 47945,
+    "TextENGNew": "...Was I asking her to save me...@k Or was I asking her why she did this...?",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 47946,
+    "TextENGNew": "...Finally, everything came back into focus... and I saw Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 47947,
+    "TextENGNew": "...And I was surprised... at what an odd expression she had.",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 47948,
+    "TextENGNew": "It was... the first time I'd seen it.",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 47949,
+    "TextENGNew": "...It was an expression of righteous anger meant only for those who needed to die.",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 47950,
+    "TextENGNew": "\"Die, you murdereeeeerrrrr!!@k@vS03/04/140400347. Give him back!@k@vS03/04/140400348. Give back my Nii-nii!!@k@vS03/04/140400349. Give back Rika and Mommy... and Keiichi-san!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 47951,
+    "TextENGNew": "\"Waaaaaaaahhhhh!!@k@vS03/04/140400351. Uwahhhhhhhhhhhhhhh!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 47952,
+    "TextENGNew": "As she screamed, she jerked the bridge to and fro.",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 47953,
+    "TextENGNew": "...She didn't... have to do that... I was going... to fall anyway...",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 47954,
+    "TextENGNew": "\"I won't... I won't lose to the likes of you...!!@k@vS03/04/140400353. I won't lose... to some stupid curse!!@k@vS03/04/140400354. I will never, ever lose to you!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 47955,
+    "TextENGNew": "\"You took everyone... I will never lose to you, not ever!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 47956,
+    "TextENGNew": "\".........Satoko.@k@vS03/01/140101081. ...Please... just let me say one thing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 47957,
+    "TextENGNew": "...I don't know what my face looked like at the time.",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 47958,
+    "TextENGNew": "...But... it seemed like it was enough to quell Satoko's agitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 47959,
+    "TextENGNew": "\"......I know that... what I did... isn't exactly praiseworthy.@k@vS03/01/140101083. ...No... in fact, maybe I should never have done it at all.@k@vS03/01/140101084. ...But...... I did it... because I wanted you to be happy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 47960,
+    "TextENGNew": "\"...Please... just believe that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 47961,
+    "TextENGNew": "\"...Y...You...!@k@vS03/04/140400357. At the very... very end... you're still pretending... to be Keiichi-san...!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 47962,
+    "TextENGNew": "Satoko didn't seem to have any more desire... to listen to what I had to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 47963,
+    "TextENGNew": "And for that to happen at the very end like this... was tragic.",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 47964,
+    "TextENGNew": "\"......I didn't do any of it so you would praise me.@k@vS03/01/140101087. ...If it made you happy, that was all that mattered.@k@vS03/01/140101088. ...We were nothing.@k@vS03/01/140101089. ...Without your smile... we were nothing...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 47965,
+    "TextENGNew": "\"...So... after I disappear... please, smile. @k@vS03/01/140101091. ...If you can get on with your new life... by my dying... then please... just smile.@k@vS03/01/140101092. ......Can't you... at least promise me that...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 47966,
+    "TextENGNew": "\"Stop speaking!!@k@vS03/04/140400359. Don't use Keiichi-san's mouth like that!!@k@vS03/04/140400360. Fall down!!@k@vS03/04/140400361. Diiiiiiiieeeeeeeeeeeeeeeeeee...!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 47967,
+    "TextENGNew": "...And those... were the last words Satoko ever said to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 47968,
+    "TextENGNew": "...Those sad, tragic... and altogether unrewarding words.",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 47969,
+    "TextENGNew": "What... on earth was I?",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 47970,
+    "TextENGNew": "...My desire to make Satoko happy... ended up like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 47971,
+    "TextENGNew": "Where did I first go wrong?",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 47972,
+    "TextENGNew": "...And what was the mistake I made?",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 47973,
+    "TextENGNew": "When did I make it?",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 47974,
+    "TextENGNew": "Was I the crazy one, or was it Hinamizawa?",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 47975,
+    "TextENGNew": "Even after all of this...@k I thought I wasn't crazy at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 47976,
+    "TextENGNew": "It was this eerie world that was crazy... this world I'd accidentally wandered into that one night.",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 47977,
+    "TextENGNew": "Because... that fun world, where I never doubted all the crazy times we had as a club would go on forever...@k It couldn't possibly... have transformed into such an abnormal world.",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 47978,
+    "TextENGNew": "That fun world... wouldn't have ever ended with this... with Satoko pushing me to my death.",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 47979,
+    "TextENGNew": "...In the end... I was going to be swallowed up by this crazy world...@k and disappear.",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 47980,
+    "TextENGNew": "No... I'd probably already disappeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 47981,
+    "TextENGNew": "...Yes... probably.@k On the night of Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 47982,
+    "TextENGNew": "...I'm sure... that in the world I really belonged to... I had vanished that night, and everyone was worried.",
+    "significantChanges": false
+  },
+  {
+    "index": 491,
+    "MessageID": 47983,
+    "TextENGNew": "...It was laughable... that I had taken this long to figure out I wasn't around anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 47984,
+    "TextENGNew": "Oyashiro-sama's curse on the fifth year... was Satoko's uncle dying and me disappearing.",
+    "significantChanges": false
+  },
+  {
+    "index": 493,
+    "MessageID": 47985,
+    "TextENGNew": "In the real world... Satoko had already been freed.",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 47986,
+    "TextENGNew": "Maybe my friends were all lamenting my disappearance... and valiantly trying to get back on their feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 495,
+    "MessageID": 47987,
+    "TextENGNew": "...And... even though they were down to four people... the club would re-open... and they would have a good time without me.",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 47988,
+    "TextENGNew": "...Waiting... for the day when I would come back.",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 47989,
+    "TextENGNew": "I'm sorry, everyone.@k ............I... couldn't come back home.",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 47990,
+    "TextENGNew": "...But... this is what I wished for.",
+    "significantChanges": false
+  },
+  {
+    "index": 499,
+    "MessageID": 47991,
+    "TextENGNew": "It was my wish for Satoko's smile—and my duty as her Nii-nii.",
+    "significantChanges": false
+  },
+  {
+    "index": 500,
+    "MessageID": 47992,
+    "TextENGNew": "At this point... there will be nobody left to torture you.",
+    "significantChanges": false
+  },
+  {
+    "index": 501,
+    "MessageID": 47993,
+    "TextENGNew": "...Because Satoshi and I... it took two years, but we succeeded.",
+    "significantChanges": false
+  },
+  {
+    "index": 502,
+    "MessageID": 47994,
+    "TextENGNew": "That annoying, toothy smile of yours...@k We wanted to see it... one more time.",
+    "significantChanges": false
+  },
+  {
+    "index": 503,
+    "MessageID": 47995,
+    "TextENGNew": "My pain... wasn't gentle, or merciful.",
+    "significantChanges": false
+  },
+  {
+    "index": 504,
+    "MessageID": 47996,
+    "TextENGNew": "...It was a sharp pain... violent, powerful, and ruthless.",
+    "significantChanges": false
+  },
+  {
+    "index": 505,
+    "MessageID": 47997,
+    "TextENGNew": "...What little compassion I had... receded in the span of a moment......",
+    "significantChanges": false
+  },
+  {
+    "index": 506,
+    "MessageID": 47998,
+    "TextENGNew": "And now... I could die.",
+    "significantChanges": false
+  },
+  {
+    "index": 507,
+    "MessageID": 47999,
+    "TextENGNew": "...I could say good-bye to this insane world.",
+    "significantChanges": false
+  },
+  {
+    "index": 508,
+    "MessageID": 48000,
+    "TextENGNew": "Farewell, crazed Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 509,
+    "MessageID": 48001,
+    "TextENGNew": "...Thanks for giving me the psychic power to kill people whenever I wanted.",
+    "significantChanges": false
+  },
+  {
+    "index": 510,
+    "MessageID": 48002,
+    "TextENGNew": "...If you'll still allow it, I'll wish for one last thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 511,
+    "MessageID": 48003,
+    "TextENGNew": "...The death of this very world, of this crazed Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 512,
+    "MessageID": 48004,
+    "TextENGNew": "...So that nobody... would ever again have to find themselves lost here again...",
+    "significantChanges": false
+  }
+]

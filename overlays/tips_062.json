@@ -1,0 +1,141 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Research Notes II",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Research Notes Ⅱ\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14262,
+    "TextENGNew": "<On Oyashiro-sama>",
+    "significantChanges": true,
+    "changeReason": "Old translation omits 'について' (about/on), rendering it as just a name label rather than a topic heading; new correctly indicates the section is 'about' Oyashiro-sama.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 14263,
+    "TextENGNew": "As for Oyashiro-sama, few people actually know how the name is written.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14264,
+    "TextENGNew": "This is because across different eras, various honorifics have been appended and the name has subtly shifted, with different characters used to write it,@kmaking it extremely difficult to determine the original, correct name.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'he' to gender Oyashiro-sama (not in JPN) and simplifies to 'nobody knows the real one'; new avoids gendering and more accurately conveys the difficulty of determining the original name.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 14265,
+    "TextENGNew": "The only constant across all periods is that the four syllables \"O-ya-shi-ro\" always appear in the reading.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14266,
+    "TextENGNew": "There is a theory that the shrine -- or@byashiro.@< \"社\" @>-- dedicated to Oyashiro-sama itself became an object of worship,@kand that people came to call it@bo-yashiro.@< \"御社,\" @>or \"the honorable shrine\" -- but this lacks any real insight.",
+    "significantChanges": true,
+    "changeReason": "Old renders 'センスの欠片もない' as 'doesn't make a bit of sense' (implying logical incoherence), while new uses 'lacks any real insight' (implying intellectual shallowness), which better matches the JPN critique of the theory's lack of imagination.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 14267,
+    "TextENGNew": "I do not know whether this is related, but it is said that the Furude family -- the most exalted bloodline tasked with worshiping Oyashiro-sama -- actually carries his blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14268,
+    "TextENGNew": "And according to a legend passed down through the Furude family, if for eight consecutive generations the firstborn child is a girl, that eighth daughter will be the reincarnation of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14269,
+    "TextENGNew": "If we follow this legend, the correct characters for Oyashiro-sama's name would be \"御八代さま\" -- \"御\" for \"honorable,\" \"八\" for \"eight,\" and \"代\" for \"generation.\"@k(These character assignments are purely my own conjecture; there is no way to verify them.)",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14270,
+    "TextENGNew": "If this is so, then the name Oyashiro-sama was coined on the premise that he would one day return.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14271,
+    "TextENGNew": "The second coming of a deity is found in several religions and is not particularly unusual.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14272,
+    "TextENGNew": "However, it should not be forgotten that in some of those religions, the deity's return is called the \"Day of Judgment\" and signifies the end of the world.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14273,
+    "TextENGNew": "Rika Furude -- a girl so adored by the village elders that they would do anything for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14274,
+    "TextENGNew": "...Rumors say she is that eighth generation -- Oyashiro-sama incarnate.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14275,
+    "TextENGNew": "I do not know the Furude family tree, but I can confirm that for at least the past two generations, the firstborn child has been a girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14276,
+    "TextENGNew": "Rika Furude, who watches over Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14277,
+    "TextENGNew": "If the village were to lose her protection, what would happen?",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14278,
+    "TextENGNew": "Would the harmony between humans and demons be shattered?",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14279,
+    "TextENGNew": "Would there once again arise a hell where man-eating demons run rampant?",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14280,
+    "TextENGNew": "A gruesome feast -- demons who have remembered how delicious those frail humans were, humans who can only weep, scream, and flee in terror.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14281,
+    "TextENGNew": "...What would such a sight look like?",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14282,
+    "TextENGNew": "Just imagining it... makes my heart race.",
+    "significantChanges": false
+  }
+]

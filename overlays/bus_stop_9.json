@@ -1,0 +1,920 @@
+[
+  {
+    "index": 1,
+    "MessageID": 156577,
+    "TextENGNew": "\"Huh...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 156578,
+    "TextENGNew": "\"...When I'm nearby...your head doesn't hurt, does it? ...You don't see strange things, or hear them, either...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 156579,
+    "TextENGNew": "\"...What...? ...Um...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 156580,
+    "TextENGNew": "\"...But imagine this! ...What if something were to happen to Rika-san, and the queen were to die? ...What do you think would happen?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'what do you believe would happen?' but new says 'What do you think would happen?'; also 'if something were to happen' vs 'What if something were to happen'—old frames as conditional, new as hypothetical.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 156581,
+    "TextENGNew": "\"...Every one of the tens of thousands of people in Hinamizawa who are hosts to this bug would develop symptoms simultaneously. ...Every person in the village, all at once...! ...It would be an unimaginable catastrophe.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'all develop symptoms at once...all at once...an unfathomable tragedy' but new says 'develop symptoms simultaneously...an unimaginable catastrophe'; 'tragedy' vs 'catastrophe' and 'unfathomable' vs 'unimaginable'.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 156582,
+    "TextENGNew": "\"The entire village would start killing one another...a scene like something out of hell.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'people of this city' but JPN 町中の人間 in Hinamizawa context means 'the entire village' — 'city' vs 'village' is a setting inaccuracy but the core meaning (everyone killing each other) is preserved.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 156583,
+    "TextENGNew": "\"...That is why we take the utmost care to ensure Rika-san's safety. ...If anything were to happen to Rika-san, the consequences would be catastrophic.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'greatest of cautions' but new says 'utmost care'; also 'it would be terrible' vs 'the consequences would be catastrophic'; stronger in new.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 156584,
+    "TextENGNew": "\"...Wow...huh... ...Rika-san's...incredible, isn't she... ...Wow...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 156585,
+    "TextENGNew": "\"Two unfortunate complications have now arisen. ...One, as you may know, is the Hinamizawa Dam Project.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'here come along two unfortunate problems' but new says 'Two unfortunate complications have now arisen'; also old asks about knowing the dam project while new states it.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 156586,
+    "TextENGNew": "\"The queen can only survive within the very specific environment of Hinamizawa.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'limited environment' but JPN 極めて限られた means 'extremely/very limited'; new correctly uses 'very specific'.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 156587,
+    "TextENGNew": "\"...If Hinamizawa is submerged by the dam, it will destroy the only environment where the queen can survive!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 156588,
+    "TextENGNew": "\"Our superiors are handling that problem. The Dam Project should be withdrawn in the near future.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Our upper brass' but new says 'Our superiors'; also old says 'probably be rescinded in a few days' but new says 'should be withdrawn in the near future'; different timeframe specificity.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 156589,
+    "TextENGNew": "\"The second problem is more pressing. ...Rika-san was born with a fragile constitution, and her body cannot bear hosting the queen.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Then there's the other problem' but new says 'The second problem is more pressing'; new adds 'more pressing' evaluation not in old.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 156590,
+    "TextENGNew": "\"...If left as things are, Rika-san will grow weaker and die within just a few years. ...That would be catastrophic, as I've described.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 156591,
+    "TextENGNew": "\"The queen needs to be transplanted into a healthier body. Fortunately, the surgery itself is straightforward. ...However, finding a host the queen can adapt to is the difficult part.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the surgery for that is quite simple' but new says 'the surgery itself is straightforward'; also 'finding a suitable host' vs 'finding a host the queen can adapt to'—new specifies adaptation.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 156592,
+    "TextENGNew": "\"...We have to find that one compatible person out of tens of thousands.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'one person who may or not exist within the tens of thousands' but new says 'that one compatible person out of tens of thousands'; clearer in new.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 156593,
+    "TextENGNew": "\"...Um...could it be...that you're saying...that I'm...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 156594,
+    "TextENGNew": "\"...It's you, Sonozaki-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 156595,
+    "TextENGNew": "\"We only confirmed that you were a compatible host very recently. ...But you've already...begun showing symptoms.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We only recently identified that you were a suitable host' but new says 'We only confirmed that you were a compatible host very recently'; 'identified' vs 'confirmed' and 'suitable' vs 'compatible'.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 156596,
+    "TextENGNew": "\"Symptoms?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 156597,
+    "TextENGNew": "\"...You went to Tokyo, didn't you?! ...And you were unlucky enough to develop symptoms while you were there!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You left to go have fun, right? In Tokyo...!' but new says 'You went to Tokyo, didn't you?!'; old adds 'to go have fun' context.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 156598,
+    "TextENGNew": "\"Your head pounds constantly, doesn't it? ...You can't sleep at night, can you? ...When Rika-san isn't nearby...you go through strange, disturbing experiences, don't you?\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'constantly' for head pounding and 'strange, disturbing' vs just 'bizarre'; more emphasis.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 156599,
+    "TextENGNew": "\"...You're already in the terminal stage. ...Proof of that—just now! ...You tried to scratch your own throat!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You were trying to scratch out your own throat' but new says 'You tried to scratch your own throat'; 'scratch out' vs 'scratch'—old implies more violent action.",
+    "changeScore": 2
+  },
+  {
+    "index": 24,
+    "MessageID": 156600,
+    "TextENGNew": "\"...Strange experiences... So then...what Yoshimura did to me was...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'the man Yoshimura assaulted' but new says 'what Yoshimura did to me was'; old frames it as assault, new is more ambiguous matching the revelation that follows.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 156601,
+    "TextENGNew": "\"...You only hallucinated that Yoshimura was acting strangely. ...Yoshimura didn't do anything. ...You lost control all on your own.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 156602,
+    "TextENGNew": "\"...No...?! ...Then I'm the one...who's losing her mind?! ...Rika-san?!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm the one who's crazy?! ...Rika-san?!' with question to Rika but new says 'I'm the one who's losing her mind?! ...Rika-san?!'; 'crazy' vs 'losing her mind'.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 156603,
+    "TextENGNew": "\"...That's why... ...I told you not to go to Tokyo...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 156604,
+    "TextENGNew": "\"...Am I...going to go mad...and die? ...No...no, this can't be...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Am I going to go crazy and die too?' but new says 'Am I going to go mad and die?'; 'crazy' vs 'mad' and 'too' is removed.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 156605,
+    "TextENGNew": "\"You're okay. As long as you stay with me, you'll be fine! ...I'll be by your side always. So you'll be all right!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 156606,
+    "TextENGNew": "\"You can't exactly go to the bathroom together, or share a bathtub, now can you? ...It's impossible for the two of you to spend every moment of your lives together.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 156607,
+    "TextENGNew": "\"Am I going to die?! ...Am I going to die?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 156608,
+    "TextENGNew": "\"At this rate, yes! ...But if you receive the queen transplant, we can save you!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 156609,
+    "TextENGNew": "\"...Once the queen is extracted from Rika-san, she'll no longer suffer from the deterioration either.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Rika-san won't grow increasingly debilitated anymore either once we extract the queen' but new says 'Once the queen is extracted from Rika-san, she'll no longer suffer from the deterioration either'; structure inverted but meaning similar. Minor.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 156610,
+    "TextENGNew": "\"If we transplant the queen from Rika-san to you... both of you will be saved.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 156611,
+    "TextENGNew": "\"...You can really save me...just by doing that...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 156612,
+    "TextENGNew": "\"We can.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We can save you' but new says 'We can'; JPN 助かります simply means 'can be saved' which is shorter—new matches better.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 156613,
+    "TextENGNew": "\"...Rika-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 156614,
+    "TextENGNew": "\"...Don't let them talk you into it. ...These people never had any intention of treating you like a human being.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'These people were never planning to treat you like a human being' while new says 'These people never had any intention of treating you like a human being'; then old says 'hoodwink' vs new 'talk you into it' for 言いくるめられちゃ.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 156615,
+    "TextENGNew": "\"That is not true. Without your cooperation, tens of thousands of lives in Hinamizawa will be lost. Why would we mistreat someone so precious to us?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Without your cooperation, tens of thousands of people in Hinamizawa will fall victim to this bug' but new says 'tens of thousands of lives in Hinamizawa will be lost'; 'fall victim to this bug' vs 'will be lost'.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 156616,
+    "TextENGNew": "\"Don't listen to them. ...Think carefully. ...You skipped school with me today to go out, right? ...Did you tell anyone you were doing that?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Think back' but new says 'Think carefully'; JPN よく思い出して means 'think carefully/recall well'; 'think back' and 'think carefully' differ.",
+    "changeScore": 2
+  },
+  {
+    "index": 41,
+    "MessageID": 156617,
+    "TextENGNew": "\"...Why would I ever announce publicly that I was cutting class?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Why would I ever make a point of publicly declaring that I was skipping school?' but new says 'Why would I ever announce publicly that I was cutting class?'; 'skipping school' vs 'cutting class'—minor register difference.",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 156618,
+    "TextENGNew": "\"...Which means...nobody knows what you've been up to today, does it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 156619,
+    "TextENGNew": "\"...Well, that's right. ...Since I didn't tell anyone.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 156620,
+    "TextENGNew": "\"...The outfit you're wearing today. ...I was the one who asked you to wear it, wasn't I?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 156621,
+    "TextENGNew": "\"...You told me I looked cutest in this one, so I specifically wore it to see you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 156622,
+    "TextENGNew": "\"...Which means...what you'd be wearing today was known in advance, wasn't it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 156623,
+    "TextENGNew": "\"...Well, yes. ...You asked me to wear it, after all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 156624,
+    "TextENGNew": "\"...You're always talking at school about how badly you want to get out of here and move to Tokyo, aren't you? ...How many people have you told that to?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'When you're at school, you're always, always talking about wanting to escape from here and move to Tokyo' but new says 'You're always talking at school about how badly you want to get out of here'; 'escape' has stronger connotation than 'get out'.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 156625,
+    "TextENGNew": "\"...I couldn't keep track even if I tried. I say it to everyone I run into.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 156626,
+    "TextENGNew": "\"...Which means...it's common knowledge that you dream of Tokyo. Everyone knows.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'it's a known fact that everyone knew you held an excessive admiration for Tokyo' but new says 'it's common knowledge that you dream of Tokyo'; 'excessive admiration' vs 'dream of'.",
+    "changeScore": 2
+  },
+  {
+    "index": 51,
+    "MessageID": 156627,
+    "TextENGNew": "\"Rika-san...what are you getting at? What does any of this have to do with—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 156628,
+    "TextENGNew": "\"...At nine o'clock this morning, the entire balance of your bank account was withdrawn. ...By a girl dressed exactly like you, using a counterfeit card.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 156629,
+    "TextENGNew": "\"What?! ...What are you saying?! ...But my PIN—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 156630,
+    "TextENGNew": "\"...You told me, didn't you. ...That you use your birthday as your PIN.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 156631,
+    "TextENGNew": "\"Who was it?! Who stole my money?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 156632,
+    "TextENGNew": "\"...You did. ...Someone looking just like you is on the post office security footage.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 156633,
+    "TextENGNew": "Mion, utterly lost, staggers away from Rika toward the center of the stage. The headache begins again.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she totters away from Rika toward the center of the stage. Then her head begins to ache once more' but new says 'staggers away from Rika toward the center of the stage. The headache begins again'; 'totters' vs 'staggers'.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 156634,
+    "TextENGNew": "\"Ow...ow... ...My head... ...it hurts...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 156635,
+    "TextENGNew": "\"On the bullet train to Tokyo...a girl who looked exactly like you caused a scene, claiming she'd lost her ticket.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 156636,
+    "TextENGNew": "\"...In the end, the ticket turned up...but she'd made such an impression on the conductor.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 156637,
+    "TextENGNew": "\"...In Tokyo, a girl who looked exactly like you showed up at several police boxes across the city. ...Making a commotion about losing her wallet.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 156638,
+    "TextENGNew": "\"...But each time they tried to ask her name and address, she ran.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'she ran away when they tried to ask for her address' but new says 'they tried to ask her name and address, she ran'; new adds 'name and' matching JPN 住所氏名.",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 156639,
+    "TextENGNew": "\"...The officers all suspected she was a runaway. ...As we speak, a fax with your description is circulating through every police box in the area.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 156640,
+    "TextENGNew": "\"...Why...would any of that be happening...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 156641,
+    "TextENGNew": "\"...Instead of going to school, Mion Sonozaki withdrew her savings, boarded the bullet train, and vanished into Tokyo.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 156642,
+    "TextENGNew": "\"...That's the story that's been set up. ...And you do have a record of being picked up for running away back in middle school...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You have a previous record of running away from home in middle school too, after all...' but new says 'you do have a record of being picked up for running away back in middle school'; 'being picked up' (補導歴 = police intervention record) is added.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 156643,
+    "TextENGNew": "\"...Please don't say such ridiculous things... ...I'm not in Tokyo...I'm right here. ...Nngh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 156644,
+    "TextENGNew": "\"...Wake up to what's happening. ...This is a trap! ...A carefully laid trap to kidnap you!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Piece it together. This is a trap!' but new says 'Wake up to what's happening. This is a trap!'; 'Piece it together' vs 'Wake up'.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 156645,
+    "TextENGNew": "\"...These people never had any intention of treating you like a human being! ...They only care about what's inside your brain! You'd be nothing...but a research subject to them!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'They're only interested in your brain! You'll... only be used as their guinea pig!' but new says 'They only care about what's inside your brain! You'd be nothing...but a research subject!'; 'guinea pig' vs 'research subject'.",
+    "changeScore": 2
+  },
+  {
+    "index": 70,
+    "MessageID": 156646,
+    "TextENGNew": "\"...No...lies...! ...Nngh...lies...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 156647,
+    "TextENGNew": "\"...These people call themselves the Ministry of Health, but that's not really who they're with. ...They're government—\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'These people claim they're from the Ministry of Health, but they're actually with a different organization! These people are from the National P-' but new says 'These people call themselves the Ministry of Health, but that's not really who they're with. They're government—'; 'National P-' vs 'government—' different cutoff.",
+    "changeScore": 2
+  },
+  {
+    "index": 72,
+    "MessageID": 156648,
+    "TextENGNew": "\"Enough! We understand your position, Rika-san. We'll have to adjust ours accordingly.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'We understand your attitude on this' but new says 'We understand your position'; also 'change our attitude' vs 'adjust ours'.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 156649,
+    "TextENGNew": "\"...Sonozaki-san. Everything Rika-san said is true. We're only interested in your brain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 156650,
+    "TextENGNew": "\"...S-stay back! ...Aaah...gaaah...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 156651,
+    "TextENGNew": "\"...It hurts, doesn't it? The surgery will make it stop. ...Come on! ...Come with us!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'It hurts, doesn't it? If you have the surgery, it'll stop' but new says 'It hurts, doesn't it? The surgery will make it stop'; also 'Come with us!' vs the same.",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 156652,
+    "TextENGNew": "\"...Noooo...! I won't be a research subject...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I don't want to be a guinea pig' but new says 'I won't be a research subject'; 'guinea pig' vs 'research subject'.",
+    "changeScore": 2
+  },
+  {
+    "index": 77,
+    "MessageID": 156653,
+    "TextENGNew": "\"...Mion! Stay close to me! ...Your symptoms will get worse if you don't!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'your symptoms will advance even further' but new says 'Your symptoms will get worse if you don't'; new adds conditional.",
+    "changeScore": 2
+  },
+  {
+    "index": 78,
+    "MessageID": 156654,
+    "TextENGNew": "\"Don't forget, Rika-san willingly played a critical role in this abduction, Rika-san!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Don't you forget, Rika-san here also voluntarily played an important role in this abduction plan!' but new says 'Don't forget, Rika-san willingly played a critical role in this abduction, Rika-san!'; 'important' vs 'critical'.",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 156655,
+    "TextENGNew": "\"In fact, she was the one who proposed this whole plan!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 156656,
+    "TextENGNew": "\"...Rika-san did...?! ...You're...lying...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 156657,
+    "TextENGNew": "\"Rika-san could no longer bear the burden of hosting the queen. ...So she was the one who suggested transplanting it into someone else.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'she's the one who proposed trying to transplant it into someone else' while new says 'she was the one who suggested transplanting it into someone else'; 'proposed trying' vs 'suggested'—minor.",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 156658,
+    "TextENGNew": "\"...And after our investigation, we determined that you were a compatible host.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 156659,
+    "TextENGNew": "\"However, as a preliminary step to the abduction, it was necessary that Rika-san build a friendship with you...so that the two of you being together wouldn't seem suspicious.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'to first set up this abduction, Rika-san needed to build a friendship' but new says 'as a preliminary step to the abduction, it was necessary that Rika-san build a friendship'; minor structural difference.",
+    "changeScore": 2
+  },
+  {
+    "index": 84,
+    "MessageID": 156660,
+    "TextENGNew": "\"But it turned out there was no need for that effort. Because you were the one who approached Rika-san first.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 156661,
+    "TextENGNew": "\"...Y-you people...! ...What are you even saying...?! ...Nnngh...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 156662,
+    "TextENGNew": "\"It was no coincidence that you and Rika-san became friends. It was deliberate.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'It was intentional' but new says 'It was deliberate'; 'intentional' vs 'deliberate'—slightly different connotation.",
+    "changeScore": 1
+  },
+  {
+    "index": 87,
+    "MessageID": 156663,
+    "TextENGNew": "\"That's not true!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 156664,
+    "TextENGNew": "\"...Maybe our meeting wasn't a coincidence...! ...But I really did grow to care for you, Mion!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 156665,
+    "TextENGNew": "\"...Just seeing your face light up when you smile...you have no idea how much that saved me...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Just seeing your smile... it saved me' but new says 'Just seeing your face light up when you smile...you have no idea how much that saved me'; new adds 'face light up' and 'you have no idea'.",
+    "changeScore": 2
+  },
+  {
+    "index": 90,
+    "MessageID": 156666,
+    "TextENGNew": "\"There's no need to listen to Rika-san's ramblings!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 156667,
+    "TextENGNew": "\"...If you don't want to die, you'll do what we say. And as long as you cooperate, we promise to treat you well!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 156668,
+    "TextENGNew": "\"Don't go with them! ...Mion!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 156669,
+    "TextENGNew": "\"...Aaaaaah...! ...Would you just shut up...? My head is pounding...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 156670,
+    "TextENGNew": "\"Come now, Sonozaki-san! ...Both you and Rika-san can be saved. What reason could you possibly have to hesitate?!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'What reason is there to hesitate?!' but new says 'What reason could you possibly have to hesitate?!'; new is more emphatic.",
+    "changeScore": 2
+  },
+  {
+    "index": 95,
+    "MessageID": 156671,
+    "TextENGNew": "\"...Aaahh...! ...It hurts...! ...It hurts! ...Help me...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 156672,
+    "TextENGNew": "\"...Terminal stage! ...Secure her now!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'She's in terminal condition!' but new says 'Terminal stage!'; 'condition' vs 'stage'.",
+    "changeScore": 2
+  },
+  {
+    "index": 97,
+    "MessageID": 156673,
+    "TextENGNew": "\"...Mion!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 156674,
+    "TextENGNew": "The instant the men spring forward to seize Mion, Rika grabs hold of her and presses a blade she's produced from somewhere against Mion's throat.\nAt that moment, the men all draw their guns simultaneously.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The moment the men spring forth to capture Mion, Rika grabs hold of Mion and puts a knife she drew from somewhere against Mion's throat. moment she does, the men simultaneously draw their guns.' but new has cleaner grammar and uses 'blade' for 刃物.",
+    "changeScore": 2
+  },
+  {
+    "index": 99,
+    "MessageID": 156675,
+    "TextENGNew": "\"...Rika...san...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 156676,
+    "TextENGNew": "\"Let us go! ...Or I'll kill Mion!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Let us go! If you don't, then I'll kill Mion!' but new says 'Let us go! Or I'll kill Mion!'; streamlined.",
+    "changeScore": 2
+  },
+  {
+    "index": 101,
+    "MessageID": 156677,
+    "TextENGNew": "\"S-Stop this foolishness!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'D-Don't do anything foolish!' but new says 'S-Stop this foolishness!'; different phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 102,
+    "MessageID": 156678,
+    "TextENGNew": "\"Yes. ...I was a fool.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 156679,
+    "TextENGNew": "\"...Night after night, I was tormented by terrible dreams...I felt myself wasting away. ...With no privacy...I was toyed with as nothing but a research specimen.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Every night I was haunted by bad dreams... feeling myself grow more and more debilitated' but new says 'Night after night, I was tormented by terrible dreams...I felt myself wasting away'; 'bad dreams' vs 'terrible dreams', 'debilitated' vs 'wasting away'.",
+    "changeScore": 2
+  },
+  {
+    "index": 104,
+    "MessageID": 156680,
+    "TextENGNew": "\"...I hated it. ...I wanted to escape.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I wanted out' but new says 'I wanted to escape'; JPN 抜け出したかった means 'wanted to escape/get out'.",
+    "changeScore": 2
+  },
+  {
+    "index": 105,
+    "MessageID": 156681,
+    "TextENGNew": "\"...When they found a compatible host...I thought I could finally be free from all this suffering. ...That was when I agreed to offer you up as their sacrifice.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I agreed to hand you over as a sacrifice' but new says 'I agreed to offer you up as their sacrifice'; 'hand over' vs 'offer up'.",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 156682,
+    "TextENGNew": "\"...But I was wrong...! ...You aren't just a compatible host! You're not a sacrifice! ...You're my one and only...my very best friend...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 156683,
+    "TextENGNew": "\"...Rika-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 156684,
+    "TextENGNew": "\"...I had no right to call you my best friend...from the very moment we met! ...I'm sorry! ...I'm so sorry!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 156685,
+    "TextENGNew": "\"...That's not...true... ...You really are...my best friend, Rika-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 156686,
+    "TextENGNew": "\"Mion...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 156687,
+    "TextENGNew": "\"Sonozaki-san! Think about this clearly! If you and Rika-san take each other's lives, you'll be dragging tens of thousands of people in Hinamizawa down with you!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'if you and Rika-san commit suicide together' but new says 'if you and Rika-san take each other's lives'; 'commit suicide together' vs 'take each other's lives' is a meaningful difference in the described action.",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 156688,
+    "TextENGNew": "\"...Accept the surgery! ...It won't just save the two of you! ...It will save tens of thousands of lives!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You have to have the surgery!' but new says 'Accept the surgery!'; 'have to have' vs 'accept'.",
+    "changeScore": 2
+  },
+  {
+    "index": 113,
+    "MessageID": 156689,
+    "TextENGNew": "\"...The surgery doesn't sound so bad... ...It'll save Rika-san too, won't it...?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'll have the surgery... then' but new says 'The surgery doesn't sound so bad... then'; 'I'll have it' vs 'doesn't sound so bad'—different level of acceptance.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 156690,
+    "TextENGNew": "\"...Mion. Don't let them deceive you. ...Think about it carefully. ...Why aren't any of them hosts to Oyashiro-sama?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Why aren't they hosts to Oyashiro-sama?' but new says 'Why aren't any of them hosts to Oyashiro-sama?'; new emphasizes 'any of them'.",
+    "changeScore": 2
+  },
+  {
+    "index": 115,
+    "MessageID": 156691,
+    "TextENGNew": "\"...Because they've long since...developed a treatment. ...So why do you think they still want to conduct their research?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'they've already developed a cure' but new says 'developed a treatment'; 'cure' vs 'treatment' is meaningfully different.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 156692,
+    "TextENGNew": "\"...Those people...they're doing research for a purpose that goes far beyond treatment...!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'they're conducting their research to develop more than just a cure' but new says 'they're doing research for a purpose that goes far beyond treatment'; different framing of their goals.",
+    "changeScore": 2
+  },
+  {
+    "index": 117,
+    "MessageID": 156693,
+    "TextENGNew": "\"...Let's not say anything reckless.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Could you not speak such slander?' but new says 'Let's not say anything reckless'; JPN 滅多な事は言わないでもらいましょう means 'let's not say anything reckless/careless'; 'slander' is too specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 156694,
+    "TextENGNew": "\"...The kind of research you're alluding to is prohibited under international law.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 156695,
+    "TextENGNew": "\"...Our nation is a state governed by law and a member of the United Nations. ...We would never do such a thing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 156696,
+    "TextENGNew": "\"...I'll keep hosting the queen! ...If you use the two or three years I have left, you should be able to cure everyone who's been infected!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 156697,
+    "TextENGNew": "\"...As we've told you, there is no cure.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 156698,
+    "TextENGNew": "\"Cure Mion! ...I know you can do it! ...If you won't cure her, I'll kill her!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 156699,
+    "TextENGNew": "\"Gaaaaaah! ...Aaaaaah! ...It hurts! ...It hurts!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 156700,
+    "TextENGNew": "\"You'll be all right! ...I'll save you! Hold on!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Don't worry!' but new says 'You'll be all right!'; different reassurance.",
+    "changeScore": 2
+  },
+  {
+    "index": 125,
+    "MessageID": 156701,
+    "TextENGNew": "\"Surgery is the only way to cure her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 156702,
+    "TextENGNew": "\"Sa...save me...Rika...san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 156703,
+    "TextENGNew": "\"Give her the medicine! Cure Mion! ...Please!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Give me the cure!' but new says 'Give her the medicine!'; 'cure' (abstract) vs 'medicine' (concrete), and 'me' vs 'her'.",
+    "changeScore": 2
+  },
+  {
+    "index": 128,
+    "MessageID": 156704,
+    "TextENGNew": "\"...Sonozaki-san won't last much longer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 156705,
+    "TextENGNew": "\"...Oda. ...Don't miss.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Oda-kun' but new says 'Oda' dropping the -kun honorific.",
+    "changeScore": 1
+  },
+  {
+    "index": 130,
+    "MessageID": 156706,
+    "TextENGNew": "\"...You're going to shoot me?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 156707,
+    "TextENGNew": "\"Hmph. We've already confirmed that the ants survive in a corpse's brain for twelve hours postmortem.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'Hmph' (ふん) at start which old omits; also 'ants can survive in the brain of a corpse' vs 'ants survive in a corpse's brain'.",
+    "changeScore": 2
+  },
+  {
+    "index": 132,
+    "MessageID": 156708,
+    "TextENGNew": "\"Either way, once the queen is extracted from you, you're simply someone who knows too much.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'just a girl who knows too much' but new says 'simply someone who knows too much'; 'girl' vs 'someone'—gender-neutral in new.",
+    "changeScore": 2
+  },
+  {
+    "index": 133,
+    "MessageID": 156709,
+    "TextENGNew": "\"You monster!\"",
+    "significantChanges": false
+  }
+]

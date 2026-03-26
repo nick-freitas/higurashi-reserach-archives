@@ -1,0 +1,303 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "My Favorite Drink",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 15356,
+    "TextENGNew": "Satoko went off to join the children playing in the schoolyard.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15357,
+    "TextENGNew": "I was not in that sort of mood, so I saw Satoko off and decided to stay behind.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'saw Satoko off' (沙都子を見送り) which was omitted from the original, providing the detail that the narrator specifically saw Satoko leave.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 15358,
+    "TextENGNew": "...She probably wouldn't be home until evening.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15359,
+    "TextENGNew": "When Satoko isn't around... I have ways of spending the time befitting her absence.",
+    "significantChanges": true,
+    "changeReason": "New translation shifts from past tense to present tense matching the Japanese, and 'befitting her absence' (いないなりの) conveys a more deliberate, specific way of spending time than the original's generic 'without her.'",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 15360,
+    "TextENGNew": "Besides, I was in that sort of mood.",
+    "significantChanges": true,
+    "changeReason": "Original adds an interpretation ('what I wanted to do') not in the Japanese; the new translation accurately conveys そういう気分だった ('was in that sort of mood'), which is vaguer and more atmospheric.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 15361,
+    "TextENGNew": "I thrust my hand deep into the pile of winter futons at the back of the closet and pulled it out.",
+    "significantChanges": true,
+    "changeReason": "Original says 'pulled one out' (implying a futon), but the Japanese それを ('it') refers to a hidden object behind the futons; the new translation's 'pulled it out' correctly identifies a specific concealed item.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 15362,
+    "TextENGNew": "Then I packed a rather elegant glass full of ice made in the freezer.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'made in the freezer' (製氷室で作った) which was omitted from the original, and this detail is important as the freezer ice is a key plot point discussed in the next lines.",
+    "changeScore": 1
+  },
+  {
+    "index": 8,
+    "MessageID": 15363,
+    "TextENGNew": "But ice from the freezer smells of chlorine and tastes unpleasant.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 15364,
+    "TextENGNew": "Cracked ice would be best, but Satoko pesters me asking what I need it for, so lately I haven't been able to buy any.",
+    "significantChanges": true,
+    "changeReason": "かち割り氷 means 'cracked/crushed ice,' not 'store-bought ice'; the new translation corrects this specific term.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 15365,
+    "TextENGNew": "...If coming up with a convincing excuse would let me be rid of this chlorine stench for all eternity, well, that does seem worth some deliberation.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 15366,
+    "TextENGNew": "I filled it with orange juice... then poured in a measured amount of the other liquid.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mineral water' but Japanese says オレンジジュース (orange juice) -- wrong drink.",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 15367,
+    "TextENGNew": "Watching the orange liquid mingle with the red and gradually deepen to a reddish-black — it was a quietly elegant sight.",
+    "significantChanges": true,
+    "changeReason": "Old reduces vivid color description (orange, vermillion, reddish-black) to 'transparent water.'",
+    "changeScore": 4
+  },
+  {
+    "index": 13,
+    "MessageID": 15368,
+    "TextENGNew": "Apparently the two ingredients cancel each other's best qualities, but this is exactly the taste I like, and I don't want to hear complaints about it.",
+    "significantChanges": true,
+    "changeReason": "Original vaguely says 'this wasn't the right way to drink it,' while the Japanese specifically states お互いの素材のよさを潰しあっている (the ingredients cancel each other's good qualities), which the new translation accurately conveys.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 15369,
+    "TextENGNew": "The two fruits together have just the right sweetness and fragrance, bringing on a pleasant tipsy sensation (?) much like genuine fruit wine.",
+    "significantChanges": true,
+    "changeReason": "Old bears no resemblance to the Japanese about two fruits creating a tipsy feeling like fruit wine.",
+    "changeScore": 5
+  },
+  {
+    "index": 15,
+    "MessageID": 15370,
+    "TextENGNew": "With no alcohol in it at all, calling it a buzz may be a bit presumptuous.",
+    "significantChanges": true,
+    "changeReason": "Old is entirely unrelated to the Japanese about it being presumptuous to call non-alcoholic drinking 'intoxication.'",
+    "changeScore": 5
+  },
+  {
+    "index": 16,
+    "MessageID": 15371,
+    "TextENGNew": "Thanks to that, it lets me enjoy a small sense of transgression — which isn't bad at all, when you think of it that way.",
+    "significantChanges": true,
+    "changeReason": "Old invents 'enjoy a single bottle for a long time'; Japanese says 背徳感を楽しめる (enjoy a sense of transgression).",
+    "changeScore": 4
+  },
+  {
+    "index": 17,
+    "MessageID": 15372,
+    "TextENGNew": "I spread a cushion at my favorite spot by the window... and with the glass in hand, savored the familiar view and the wind stroking my hair as accompaniment.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15373,
+    "TextENGNew": "A faint, sweet, well-ripened fragrance tickled my nose.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 15374,
+    "TextENGNew": "...Just as I was about to settle into this tranquil moment and enjoy it, I sensed the noisy one returning.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 15375,
+    "TextENGNew": "It seems this habit of mine is something she simply cannot abide, and every time I tilt the glass to my lips she starts complaining.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 15376,
+    "TextENGNew": "Sure enough, she began making a loud, scolding fuss.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 15377,
+    "TextENGNew": "\"...Oh, be quiet. Learn some tolerance. What I drink or eat is my own business.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15378,
+    "TextENGNew": "\"B-But you can't...! That drink is still too early for you...!\"",
+    "significantChanges": true,
+    "changeReason": "Old explicitly mentions 'alcohol' not in the Japanese, which deliberately keeps the drink's nature ambiguous.",
+    "changeScore": 4
+  },
+  {
+    "index": 24,
+    "MessageID": 15379,
+    "TextENGNew": "I tried to simply ignore her, but she started making a racket as if bent on ruining the atmosphere entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15380,
+    "TextENGNew": "...There's no way I can enjoy the feeling at all like this. When will she ever notice this isn't actually alcohol?",
+    "significantChanges": true,
+    "changeReason": "Old omits critical second sentence about when she'll realize the drink isn't actually alcohol.",
+    "changeScore": 4
+  },
+  {
+    "index": 26,
+    "MessageID": 15381,
+    "TextENGNew": "Stifling an inward laugh while wearing an irritated expression, I hurled the contents of the glass out the window.",
+    "significantChanges": true,
+    "changeReason": "Original omits 内心苦笑しながら (while inwardly laughing), which reveals the narrator's true amused reaction beneath the irritated facade—an important characterization detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 15382,
+    "TextENGNew": "\"...Want to know why I'm feeling gloomy? ...It's because the manner of my death has been decided.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 15383,
+    "TextENGNew": "It seemed that at last even she understood why I had wanted to lose myself in this particular mood.",
+    "significantChanges": true,
+    "changeReason": "Old says 'drown myself in alcohol' but Japanese describes immersing in a mood; the drink is non-alcoholic.",
+    "changeScore": 4
+  },
+  {
+    "index": 29,
+    "MessageID": 15384,
+    "TextENGNew": "\"You don't need to look so despondent. Death will be fairly instantaneous, so it won't be all that frightening.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 15385,
+    "TextENGNew": "My corpse will be charred and dismembered, but the moment of dying itself will be instantaneous, so it falls somewhere in the acceptable range.",
+    "significantChanges": true,
+    "changeReason": "Original omits まぁまぁの部類だ ('falls in the acceptable range'), which reveals Rika's desensitized attitude toward her own death—an important characterization detail for the time-loop narrative.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 15386,
+    "TextENGNew": "``...But... again... it won't work out.``",
+    "significantChanges": true,
+    "changeReason": "Original translates as 'not yet,' but the Japanese また、駄目 means 'again, it's no good/it won't work out,' implying repeated failures (time loops). 'Not yet' suggests future possibility, while 'again it won't work out' conveys resigned repetition.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 15387,
+    "TextENGNew": "``I know. ...Again it won't work. ...So when is my day of death this time?``",
+    "significantChanges": true,
+    "changeReason": "Original translates また駄目 as 'not yet' (same issue as previous line), and 命日はいつだっけ as 'when am I going to die again' rather than 'when is my day of death this time'—the new translation better conveys Rika's clinical, resigned inquiry about a predetermined death date.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 15388,
+    "TextENGNew": "\"...I believe it is the night of the twenty-fifth of June.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 15389,
+    "TextENGNew": "\"About a week after Watanagashi ends. ...Well, that's about what I'd expect.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 15390,
+    "TextENGNew": "\"Is it... after all... my fault?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 15391,
+    "TextENGNew": "\"Obviously. Have you no self-awareness?\"",
+    "significantChanges": true,
+    "changeReason": "Original translates 自覚ないの as 'Are you serious?' but the Japanese specifically asks about self-awareness (自覚); the new translation preserves this pointed accusation about lacking self-awareness of one's own culpability.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 15392,
+    "TextENGNew": "\"...Au, au, au...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 15393,
+    "TextENGNew": "She was the one who brought it up, yet when I confirm it she goes teary-eyed. ...Honestly, what a smothering creature.",
+    "significantChanges": true,
+    "changeReason": "Original translates 暑っ苦しいやつ as 'annoying,' but the Japanese literally means 'suffocating/smothering person'; the new translation's 'smothering creature' better captures Rika's exasperated but not entirely hostile characterization.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 15394,
+    "TextENGNew": "\"Let's do our best. ...Surely in the next round of the game, sixes will come up one after another.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 15395,
+    "TextENGNew": "June 25th.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 15396,
+    "TextENGNew": "...There are still more than ten days. I'll spend them at my own leisurely pace.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 15397,
+    "TextENGNew": "Will she ever notice, before then, that this imitation wine isn't actually wine at all...?",
+    "significantChanges": true,
+    "changeReason": "Old misses the punchline: Japanese asks whether she'll realize the fake-alcohol isn't alcohol.",
+    "changeScore": 5
+  }
+]

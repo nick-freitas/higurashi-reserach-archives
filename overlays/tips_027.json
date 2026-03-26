@@ -1,0 +1,69 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook II",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"From The Scrapbook II\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13436,
+    "TextENGNew": "<Regarding the Sacrificial Ritual>",
+    "significantChanges": true,
+    "changeReason": "The original adds 'Human' not present in the Japanese 生贄の儀式 (sacrificial ritual), and omits について (regarding/about), changing the framing from a topical heading to a definitive title.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 13437,
+    "TextENGNew": "The ritual was carried out by submerging the sacrifice in the sacred Onigafuchi Swamp.",
+    "significantChanges": true,
+    "changeReason": "The original adds 'a simple drowning' which trivializes the ritual and is not in the source text; the Japanese neutrally describes the act of submerging. The original also uses plural 'sacrifices' where the Japanese uses singular.",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 13438,
+    "TextENGNew": "What made Onigafuchi Village's ritual distinctive was that the sacrifice was lowered slowly over the course of three full days and nights.",
+    "significantChanges": true,
+    "changeReason": "The original says 'Of the rituals...this one was unique' implying comparison among multiple rituals, whereas the Japanese describes what was distinctive about the village's single ritual. Also 'sink' (passive/natural) vs 'lowered' (deliberate action) changes the agency involved.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 13439,
+    "TextENGNew": "It appears that greater emphasis was placed on the act of \"submerging\" (which also carries the meaning of \"pacifying\") the sacrifice,@krather than on the act of killing it.",
+    "significantChanges": true,
+    "changeReason": "The original fabricates a reference to 'Oyashiro-sama's anger' not present in the source. The Japanese wordplay 沈める/鎮める (submerge/pacify) is about the dual meaning of these homophonous words, not about pacifying a deity's anger specifically.",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 13440,
+    "TextENGNew": "To that end, considerable ingenuity must have been devoted to finding ways to slow the sinking of a sacrifice that would otherwise plunge to the bottom almost instantly.",
+    "significantChanges": true,
+    "changeReason": "The new version includes the detail from あっという間に沈んでしまう that the sacrifice would sink almost instantly if left alone, which the original omits. This context is important for understanding why elaborate methods were needed.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 13441,
+    "TextENGNew": "Regrettably, those methods are not described in any of the sources I have been able to locate.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13442,
+    "TextENGNew": "I speculate that logs or similar materials were lashed together to form a large raft,@kupon which an execution platform was erected. The sacrifice would then be suspended by ropes and lowered inch by inch into the swamp at measured intervals.",
+    "significantChanges": true,
+    "changeReason": "The original translates 処刑台 as 'scaffold' and omits 巨大な (large); 'execution platform' more accurately conveys the purpose. Also 'let them sink' (passive) vs 'lowered at measured intervals' (時の刻みに合わせて) changes from accidental sinking to deliberate timed action.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 13443,
+    "TextENGNew": "If that were the case, it would not be unusual for the \"ritual implements\" used in the ceremony to have been revered as sacred objects and enshrined somewhere.",
+    "significantChanges": false
+  }
+]

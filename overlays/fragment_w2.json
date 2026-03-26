@@ -1,0 +1,402 @@
+[
+  {
+    "index": 1,
+    "MessageID": 10764,
+    "TextENGNew": "1. Incident Overview",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 10765,
+    "TextENGNew": "What is the Lowell Scandal?",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 10766,
+    "TextENGNew": "It refers to a series of medical incidents from the late 1960s through the 1970s in which numerous patients -- specifically those with mild to moderate psychiatric conditions who had been prescribed the drug 'Placil Alpha' -- began exhibiting abnormal behavior after taking it.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 10767,
+    "TextENGNew": "The term also encompasses the global corruption scandal surrounding the negligence of the drug's review process and the substantial bribes reportedly accepted by certain officials responsible for its approval.",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'negligence of the drug's review process' (杜撰さ = sloppiness/negligence) which the old translation omits, adding an important aspect of the scandal.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 10768,
+    "TextENGNew": "'Placil Alpha' was independently developed by a foreign pharmaceutical company called 'Lowell Pharmaceutical,' and was designed to treat mental illness -- specifically, to alleviate the depressive episodes and anxiety experienced by patients suffering from depression.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 10769,
+    "TextENGNew": "It briefly attracted attention as a potential wonder drug for depression, which had long been considered an intractable condition. However, numerous cases of adverse side effects were discovered in patients who took it, and it was regarded as dangerous from the outset.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 10770,
+    "TextENGNew": "In Western nations, particularly in Northern Europe, it was never classified merely as a potent drug requiring special handling -- it simply never received approval as an authorized medication at all.",
+    "significantChanges": true,
+    "changeReason": "Old says the drug 'wasn't classified as a dangerous drug' (misinterpreting the Japanese negation); new correctly conveys that it never even received authorization, let alone a lesser classification.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 10771,
+    "TextENGNew": "Nevertheless, in Japan it was approved as an authorized drug in 1962 and adopted primarily by medical institutions as a breakthrough treatment for 'mental illness,' which had become a pressing social concern at the time.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 10772,
+    "TextENGNew": "...But in 1970.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 10773,
+    "TextENGNew": "The side effects of 'Placil Alpha' and the resulting lawsuits were taken up as an agenda item in a certain country's parliament.",
+    "significantChanges": true,
+    "changeReason": "Japanese 議会 specifically means 'parliament/legislature'; old uses 'government' (broader), new correctly uses 'parliament.'",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 10774,
+    "TextENGNew": "In response, an investigation was conducted in Japan to determine whether similar cases existed domestically... and to everyone's astonishment, a substantial number of incidents came to light.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 10775,
+    "TextENGNew": "The confirmed cases alone numbered over one thousand.",
+    "significantChanges": true,
+    "changeReason": "Japanese 千件以上 means 'over one thousand cases'; old's 'even in the thousands' (plural) overstates the number, while new's 'over one thousand' is more precise.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 10776,
+    "TextENGNew": "...Given that the patient population for psychiatric conditions is far smaller compared to other illnesses, this was nothing short of extraordinary.",
+    "significantChanges": true,
+    "changeReason": "Japanese 治療者数 refers to the number of patients (being treated), not doctors; old mistranslates as 'number of doctors,' fundamentally changing the meaning. New correctly says 'patient population.'",
+    "changeScore": 4
+  },
+  {
+    "index": 14,
+    "MessageID": 10777,
+    "TextENGNew": "The government urgently ordered the Ministry of Health and Welfare to revoke the approval of 'Placil Alpha,' and commanded Lowell Pharmaceutical's domestic distributors to cease all sales and issue a recall.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 10778,
+    "TextENGNew": "Furthermore, an advisory committee of experts was convened to investigate why the drug had been approved despite foreknowledge of its risks, and why reports of side effects had been consistently ignored.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 10779,
+    "TextENGNew": "...In the course of this inquiry, the government uncovered the existence of bribes paid to several medical experts who held significant influence over the drug approval process, as well as to bureaucrats within the Ministry of Health and Welfare itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 10780,
+    "TextENGNew": "2. Why Did the Incident Occur? (Pre-Approval)",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 10781,
+    "TextENGNew": "...In Japan, all drugs handled by medical institutions -- including pharmacies and hospitals -- must obtain approval from the Ministry of Health and Welfare to be classified as 'sanctioned medication.'",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 10782,
+    "TextENGNew": "The body responsible for evaluating their safety and efficacy is the 'Central Pharmaceutical Affairs Council,' an advisory organ under the Minister of Health and Welfare.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 10783,
+    "TextENGNew": "The council's membership comprises Ministry of Health and Welfare officials and medical experts (such as pharmaceutical university professors and healthcare professionals), and no drug may be sold domestically without their approval.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 10784,
+    "TextENGNew": "Obtaining sanctioned medication classification for a new drug requires considerable time and expense.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 10785,
+    "TextENGNew": "Are there side effects?",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 10786,
+    "TextENGNew": "Does efficacy vary between individuals?",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 10787,
+    "TextENGNew": "To answer such questions, pharmaceutical manufacturers conduct clinical trials with the cooperation of various medical institutions and with the 'informed consent of patients'... easily collecting over a thousand samples.",
+    "significantChanges": true,
+    "changeReason": "Japanese 軽く千件を超す means 'easily exceeding a thousand'; old says 'at least thousands' which overstates the quantity.",
+    "changeScore": 2
+  },
+  {
+    "index": 25,
+    "MessageID": 10788,
+    "TextENGNew": "They then compile this data -- gathered over several years at a cost of hundreds of millions of yen -- and submit their application to the Ministry of Health and Welfare.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 10789,
+    "TextENGNew": "Council members analyze the submitted materials over the course of more than a year, screening for potential issues and risks.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 10790,
+    "TextENGNew": "If, at the conclusion of this process, all members unanimously judge the drug to be free of concerns, it is formally granted 'sanctioned medication' classification... though it is exceedingly rare for a drug to clear review on its first submission.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 10791,
+    "TextENGNew": "A drug's efficacy varies depending on the patient's environment, constitution, and age.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 10792,
+    "TextENGNew": "Naturally, these are appropriate measures in the interest of safety.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 10793,
+    "TextENGNew": "However, the additional costs run into the hundreds of millions, and the additional time required can span several more years... placing pharmaceutical companies under considerable strain.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 10794,
+    "TextENGNew": "Consequently, pharmaceutical companies seek the cooperation of doctors and experts who are authorities in the relevant field, gathering more detailed data to shorten the investigation period and bolster the credibility of their findings.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 10795,
+    "TextENGNew": "In other words, the more renowned the physician conducting the clinical trials, the shorter the review period required for approval -- and the lower the costs.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 10796,
+    "TextENGNew": "...The problem, however, lies in the enormous 'cooperation fees' provided to these physicians.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 10797,
+    "TextENGNew": "There is no standard market rate for such commissions, and since every pharmaceutical company competes for the cooperation of the most reputable doctors, compensation in most cases has no ceiling whatsoever.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 10798,
+    "TextENGNew": "Even so, since these payments ostensibly constitute outsourcing fees for data collection, they could still be considered legitimate compensation.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 10799,
+    "TextENGNew": "...The real problem arose when what pharmaceutical companies demanded of physicians was not an honest investigation of whether the drug had issues, but simply a rubber stamp declaring 'no problems found.'",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 10800,
+    "TextENGNew": "In the latter case, the commissioned physician would certify the drug's safety without actually confirming it, fabricating clinical data as needed.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 10801,
+    "TextENGNew": "...Needless to say, this is an act that violates medical ethics.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 10802,
+    "TextENGNew": "In fact, it was later revealed that Lowell Pharmaceutical had commissioned clinical trials from university hospitals that were recognized authorities in psychiatric treatment, and had paid them enormous sums of unaccounted-for funds in the process.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 10803,
+    "TextENGNew": "Shockingly, some of these university hospitals had conducted no clinical trials whatsoever.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 10804,
+    "TextENGNew": "In other words, they had simply sold their 'name' to Lowell Pharmaceutical.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 10805,
+    "TextENGNew": "Furthermore, subsequent investigation in Japan revealed that several members of the council responsible for granting approval had been accepting bribes.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 10806,
+    "TextENGNew": "In hindsight, the time required for 'Placil Alpha' to receive approval had been suspiciously short.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 10807,
+    "TextENGNew": "Many experts had felt uneasy about this, and one could say the warning signs had been present from the very beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 10808,
+    "TextENGNew": "3. Why Did the Incident Occur? (Post-Approval)",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 10809,
+    "TextENGNew": "A drug's exclusivity period expires after six years, after which other manufacturers are free to produce and sell it.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 10810,
+    "TextENGNew": "Naturally, competition drives market prices down, so the company that developed the new drug scrambles to maximize sales within that window.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 10811,
+    "TextENGNew": "For this reason, even after 'Placil Alpha' received approval, Lowell Pharmaceutical continued funneling so-called 'unaccounted funds' to hospital directors and department chiefs at various medical institutions.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 10812,
+    "TextENGNew": "This proved more efficient, more reliable, and ultimately less expensive in the long run than trying to market the drug on the merits of its efficacy compared to existing alternatives.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 10813,
+    "TextENGNew": "Because 'Placil Alpha' was a new drug, the official price set by the Ministry of Health and Welfare was quite steep. Nevertheless, hospital administrators prioritized the large sums flowing into their own pockets and adopted it one after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 10814,
+    "TextENGNew": "Moreover, even at that high price, eighty percent of the drug's cost was covered by the Ministry of Health and Welfare, so the financial burden on medical institutions was minimal.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 10815,
+    "TextENGNew": "In fact, since Lowell Pharmaceutical was secretly selling it below the official price, hospitals could pocket the difference as additional profit.",
+    "significantChanges": true,
+    "changeReason": "Old says hospitals 'save money'; new says they 'pocket the difference as additional profit.' The Japanese 儲け (profit) indicates active profit-making, not mere savings.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 10816,
+    "TextENGNew": "As a result, the number of hospitals adopting 'Placil Alpha' grew steadily. Other hospitals, interpreting widespread adoption as a sign of reliability, followed suit in switching from older drugs to 'Placil Alpha.'",
+    "significantChanges": true,
+    "changeReason": "Old misattributes 'highly credible' as a quality of the hospitals; new correctly conveys that other hospitals interpreted the adoption itself as a sign of reliability, matching the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 10817,
+    "TextENGNew": "...It was a vicious cycle.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 10818,
+    "TextENGNew": "4. Outcome",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 10819,
+    "TextENGNew": "As the government advisory committee's investigation progressed, the problems enumerated above came to light one after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 10820,
+    "TextENGNew": "In response, many council members resigned from their positions, and the physicians most deeply implicated were arrested and imprisoned on charges of violating the Pharmaceutical Affairs Law.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 10821,
+    "TextENGNew": "Additionally, the doctors who had accepted bribes from Lowell Pharmaceutical were, at minimum, demoted or transferred -- and in the worst cases, had their medical licenses revoked.",
+    "significantChanges": true,
+    "changeReason": "Japanese lists both 降格 (demotion) and 左遷 (transfer) as minimum penalties; old omits 'transfer,' while new includes both.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 10822,
+    "TextENGNew": "...And then, several years later.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 10823,
+    "TextENGNew": "Thanks to a whistleblower's testimony, Shigeru Ounuma -- who had held the position of Deputy Director of the Ministry's Pharmaceutical Affairs Bureau at the time -- was arrested.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 10824,
+    "TextENGNew": "However, before any investigation could determine the extent of his involvement -- or indeed, whether he had truly been involved at all -- Ounuma died under suspicious circumstances in prison.",
+    "significantChanges": true,
+    "changeReason": "Japanese 変死 specifically means 'suspicious/unnatural death'; old simply says 'died' without conveying the suspicious nature, while new correctly includes 'under suspicious circumstances.'",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 10825,
+    "TextENGNew": "The official cause of death was listed as acute exacerbation of a liver condition he had been suffering from for several years.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 10826,
+    "TextENGNew": "(...At present, both the possibility of suicide and the possibility of assassination have been raised.)",
+    "significantChanges": true,
+    "changeReason": "Japanese 謀殺説 specifically means 'assassination theory'; old uses vague 'conspiracy theories' while new correctly specifies 'assassination.'",
+    "changeScore": 3
+  }
+]

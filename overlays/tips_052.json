@@ -1,0 +1,167 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Case No. 31",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Case 31\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14081,
+    "TextENGNew": "December 1, 1981",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14082,
+    "TextENGNew": "Shishibone City Welfare Department Document",
+    "significantChanges": true,
+    "changeReason": "Old uses blank placeholder and wrong terms ('Prefecture', 'Juvenile Welfare Division'); new correctly renders 鹿骨市役所福祉部 as 'Shishibone City Welfare Department.'",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 14083,
+    "TextENGNew": "(Not for inspection. Not for reproduction.)",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14084,
+    "TextENGNew": "Case 31 (November 20)",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14085,
+    "TextENGNew": "  Satoko Houjou",
+    "significantChanges": true,
+    "changeReason": "Old adds placeholder '(_ years old)' not present in the Japanese source text.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 14086,
+    "TextENGNew": "  Resident of Hinamizawa Village, Shishibone City",
+    "significantChanges": true,
+    "changeReason": "Old translation uses a blank placeholder '___' and omits 'City'; the new correctly translates the full location from the JPN 鹿骨市雛見沢村在住.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 14087,
+    "TextENGNew": "(1) How the Consultation Came About",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14088,
+    "TextENGNew": "  An anonymous telephone consultation was received at the Okinomiya Life Consultation Center in Shishibone City.",
+    "significantChanges": true,
+    "changeReason": "Old says 'SOS of child abuse' adding 'child abuse' not in the Japanese; new correctly translates the phone consultation details.",
+    "changeScore": 4
+  },
+  {
+    "index": 9,
+    "MessageID": 14089,
+    "TextENGNew": "(2) Situation",
+    "significantChanges": true,
+    "changeReason": "Old translation adds 'Abuse' to the heading which is not in the JPN 状況 (Situation).",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 14090,
+    "TextENGNew": "  A report alleging that a female child is experiencing difficulties in her home life with her legal guardians, the adoptive parents.",
+    "significantChanges": true,
+    "changeReason": "Old says 'suffering physical abuse' but Japanese 生活上の問題 means 'problems in home life' -- a significantly different characterization.",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 14091,
+    "TextENGNew": "(3) Family Composition",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14092,
+    "TextENGNew": "  Adoptive father, adoptive mother, older brother, the child in question",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14093,
+    "TextENGNew": "※ In June 1980, the child's parents died in an accident, and she was taken in by her paternal uncle (her father's younger brother).",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14094,
+    "TextENGNew": "(4) Response by the Okinomiya Life Consultation Center",
+    "significantChanges": true,
+    "changeReason": "Old uses generic 'Child consultation center' while the JPN 興宮生活相談所 names the specific 'Okinomiya Life Consultation Center.'",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 14095,
+    "TextENGNew": "  Upon receiving the anonymous telephone consultation, the center telephoned the child's school that same day and inquired into her circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14096,
+    "TextENGNew": "  The following day, the assigned caseworker visited the child's home and conducted an interview.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14097,
+    "TextENGNew": "  Both adoptive parents agreed to accept guidance from the consultation center.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14098,
+    "TextENGNew": "  The city's Family Guidance Division was notified.",
+    "significantChanges": true,
+    "changeReason": "Old translates 生活指導部 as 'anti-abuse network' while the JPN specifies the city's 'Family Guidance Division,' a different type of organization.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 14099,
+    "TextENGNew": "  The case was classified as advisory guidance, with the local assigned caseworker thereafter conducting regular follow-up visits.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14100,
+    "TextENGNew": "(The following hastily scrawled memo is stapled to the report.)",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14101,
+    "TextENGNew": "  Related information available from Mr. Wada, the previous caseworker.",
+    "significantChanges": true,
+    "changeReason": "Old abbreviates the name to 'Mr. W.' while the JPN clearly says 和田氏 (Mr. Wada); the full name and correct role 'previous caseworker' provide important document context.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 14102,
+    "TextENGNew": "  See document E2-3 No. 44 from 1977.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14103,
+    "TextENGNew": "  Chief Counselor Tanaka at the Shishibone City Education Consultation Center is well-informed on this matter; seek his advice.",
+    "significantChanges": true,
+    "changeReason": "Old uses wrong name 'Chief Investigator F' while Japanese says 田中主査 (Chief Counselor Tanaka).",
+    "changeScore": 4
+  }
+]

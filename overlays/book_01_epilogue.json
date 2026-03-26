@@ -1,0 +1,516 @@
+[
+  {
+    "index": 2,
+    "MessageID": 1156,
+    "TextENGNew": "...When I finished reading the last file and closed the cover, I found myself turning idly toward the window. The eastern sky had gone fully bright, and the red light of morning was filtering in through the gaps between the blinds.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 1157,
+    "TextENGNew": "\"...Good grief — stayed through till morning again, have I.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 1158,
+    "TextENGNew": "I had only meant to skim through it, but found myself reading on and on without stopping.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 1159,
+    "TextENGNew": "Occupational hazard, or just a pitiable habit? ...Either way — knowing this is the last day I'll ever be involved, perhaps some part of me simply couldn't let go.",
+    "significantChanges": true,
+    "changeReason": "Separated two distinct concepts: 職業病 ('occupational hazard') and 貧乏症 ('pitiable habit/stinginess'), which were conflated in the old translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 1160,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 1161,
+    "TextENGNew": "It's truly... a grievous thing, how many lives were lost — and even those who survived had their lives twisted beyond recognition. And I am no exception to that.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'driven mad' implying insanity, but 人生を大きく狂わされた means lives were greatly disrupted/derailed — a different register of suffering.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 1162,
+    "TextENGNew": "\"...Kuma-chan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 1163,
+    "TextENGNew": "The face of the young detective who had worked so tirelessly and eagerly under me floated up behind my eyes, and without thinking I closed them.",
+    "significantChanges": true,
+    "changeReason": "Corrected the sequence: old version has him close eyes first, but JPN 脳裏に浮かんで、思わず瞑目する has the face floating to mind first, then eyes closing involuntarily.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 1164,
+    "TextENGNew": "On the day of the great disaster, I happened to be summoned to prefectural headquarters on urgent business — so he went to Hinamizawa in my place.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 1165,
+    "TextENGNew": "\"It'll be fine, Oishi-san! Leave this one to me. You go deal with that mess waiting for you at headquarters.\"",
+    "significantChanges": true,
+    "changeReason": "Changed name romanization from 'Ooishi-san' to 'Oishi-san'; reflects a different convention for rendering 大石.",
+    "changeScore": 1
+  },
+  {
+    "index": 12,
+    "MessageID": 1166,
+    "TextENGNew": "\"You fool...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 1167,
+    "TextENGNew": "Of course, that reproach was not directed at him. It was aimed squarely at myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 1168,
+    "TextENGNew": "He had gone to Hinamizawa on my behalf, for a case I was pursuing — and it was an investigation that defied orders from above, one that could rightly be called insubordination.",
+    "significantChanges": true,
+    "changeReason": "Added 'insubordination' (独断) which the old translation omitted; the JPN explicitly characterizes the investigation as potentially insubordinate.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 1169,
+    "TextENGNew": "Being injured or killed in the line of duty is the occupational hazard that comes with this profession, and I had made my peace with that long ago. ...But his case was different.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 1170,
+    "TextENGNew": "To put it plainly... he died in my place...",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 1171,
+    "TextENGNew": "\"...... Why am I the one still alive?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 1172,
+    "TextENGNew": "I knew those words were an affront to the dead. And yet I couldn't stop myself from muttering them.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 1173,
+    "TextENGNew": "A young man with a family and a future ahead of him has departed this world, while I — who had already staked my life — stand here still, shamefully alive.",
+    "significantChanges": true,
+    "changeReason": "New version captures 死を賭した自分 ('I who had staked my life') and おめおめと生き恥をさらしている ('shamefully alive'), which the old translation condensed into a less specific phrase.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 1174,
+    "TextENGNew": "Have I survived this long through sheer luck? Or did those lurking in the shadows behind this mystery judge me not even worth killing?",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 1175,
+    "TextENGNew": "\"...You sons of bitches.\"",
+    "significantChanges": true,
+    "changeReason": "Changed from singular 'you piece of shit' to plural 'you sons of bitches'; in context, Ooishi is cursing the unknown conspirators (plural).",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 1176,
+    "TextENGNew": "The words left my lips before I could stop them — and they were as pointless as spitting at the sky. The truth is, I've learned nothing, and I'm walking away from the front line. The answers remain in the darkness.",
+    "significantChanges": true,
+    "changeReason": "Old literalizes the idiom 天に唾 (spitting at the sky = futile/self-defeating) as a physical action of looking up at the heavens; new correctly renders it as idiomatic.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 1177,
+    "TextENGNew": "...I could hear in my mind the mocking laughter of people whose faces I'd never seen, and found my clenched fist tightening of its own accord.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 1178,
+    "TextENGNew": "\"Haaah...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 1179,
+    "TextENGNew": "For now... this is a case I cannot forget — no, must not forget — but for this one day, I'll tuck it away in a corner of my heart. After all — today is my last day as a detective.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 1180,
+    "TextENGNew": "\"Well... I suppose I should shower and change clothes, at least to keep up appearances.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 1181,
+    "TextENGNew": "It would be rude to stand before my superiors and junior colleagues in a worn, disheveled state as they see me off on my final day.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 1182,
+    "TextENGNew": "With that thought, I gathered the weighty, thick stack of files and made my way back to my seat in the criminal investigation division.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 1183,
+    "TextENGNew": "Then I took the locker key from my desk drawer and turned toward the shower room.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 1184,
+    "TextENGNew": "\"...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 1185,
+    "TextENGNew": "Just then, the phone on my desk sounded an electronic tone, and the extension indicator light blinked on.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 1186,
+    "TextENGNew": "Realizing the call was for my desk, I lifted the receiver and pressed the button.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 1187,
+    "TextENGNew": "\"Aah, hello?@k Na ha ha ha, good evening — or rather, good morning.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 1188,
+    "TextENGNew": "\"Ah, Oishi-san?\"",
+    "significantChanges": true,
+    "changeReason": "Changed name romanization from 'Ooishi-san' to 'Oishi-san.'",
+    "changeScore": 1
+  },
+  {
+    "index": 35,
+    "MessageID": 1189,
+    "TextENGNew": "The voice on the other end belonged to one of the junior detectives. He should be on night duty today.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 1190,
+    "TextENGNew": "He sounded somewhat thrown off by hearing my voice — understandable, really. A veteran detective still at his desk at this hour of the morning is hardly a common sight.",
+    "significantChanges": true,
+    "changeReason": "Old says 'veteran detectives do head out pretty early' which muddles the observation. Japanese says a veteran being at his desk this early is unusual (異例) — the old phrasing is confusing but not a full reversal.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 1191,
+    "TextENGNew": "\"Yes, this is Oishi. Is something the matter?\"",
+    "significantChanges": true,
+    "changeReason": "Changed name romanization from 'Ooishi' to 'Oishi.'",
+    "changeScore": 1
+  },
+  {
+    "index": 38,
+    "MessageID": 1192,
+    "TextENGNew": "\"Ah, yes. There's a call for you on the outside line. Apparently someone named Akasaka.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 1193,
+    "TextENGNew": "\"Akasaka? ...Hmm... Oh?\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'Really...?' to 'Hmm... Oh?'; はて……、っ？ expresses gradual recollection, not surprise.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 1194,
+    "TextENGNew": "I tilted my head for a brief moment — then it came back to me at once. Wasn't this the sharp young man from Tokyo who had worked with me on a certain case some time ago?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 1195,
+    "TextENGNew": "Good grief — to not recognize someone immediately upon hearing their name... I suppose the years are catching up with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 1196,
+    "TextENGNew": "\"Aah, sorry — that person is an old acquaintance of mine. Could you put him through?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 1197,
+    "TextENGNew": "\"Understood.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 1198,
+    "TextENGNew": "And shortly after, a familiar voice came through the receiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 1199,
+    "TextENGNew": "\"Oishi-san, it's been a while.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 1200,
+    "TextENGNew": "\"Oh, Akasaka-san! How long has it been — years, I'd say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 1201,
+    "TextENGNew": "\"Five years. You were so very good to me back then.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 1202,
+    "TextENGNew": "\"Not at all — I wasn't much help to you, I'm afraid.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 1203,
+    "TextENGNew": "\"That's not true. Thanks to you, I was able to see my mission through — and I learned a great deal beyond that as well. Thank you sincerely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 1204,
+    "TextENGNew": "\"Nfu fu fu, enough of that. Keep flattering me like this and even a pig of modest ability will be convinced it can climb trees.\"",
+    "significantChanges": true,
+    "changeReason": "New version preserves the Japanese idiom おだてられた豚が木に登る ('a flattered pig climbs a tree'), which the old translation replaced with a generic statement about ability.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 1205,
+    "TextENGNew": "I deflected it with a laugh — but having spent so long in a trade surrounded by human lies and deception, his earnestness, audible even through the phone, was genuinely warming.",
+    "significantChanges": true,
+    "changeReason": "New version adds 'audible even through the phone' (言葉からも伝わる), capturing that the sincerity comes through in his words, which the old translation omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 52,
+    "MessageID": 1206,
+    "TextENGNew": "A truly fine man. If someone like him steadily climbs the ranks and takes on a position of real influence, the future of the police is bright indeed.",
+    "significantChanges": true,
+    "changeReason": "New version adds the institutional perspective (警察の前途も洋々 = 'the future of the police is bright') which the old translation omitted in favor of focusing only on the individual.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 1207,
+    "TextENGNew": "\"So then, Akasaka-san. What brings you to call today?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 1208,
+    "TextENGNew": "\"Of course — I'm calling to offer my congratulations. Thank you for your forty years of dedicated service.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 1209,
+    "TextENGNew": "\"Ah... how thoughtful, really. You're very well-informed — who did you hear it from?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 1210,
+    "TextENGNew": "\"From Honda-ya-san in your public security division. He told me during joint training last week.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 1211,
+    "TextENGNew": "\"Aah, I see, I see. That's how it happened.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 1212,
+    "TextENGNew": "\"...I heard a number of things as well. I'm sorry it took me until today to reach out.\"",
+    "significantChanges": true,
+    "changeReason": "Changed 'it came up when we were sharing stories' to 'I heard a number of things'; the JPN 色々とお話をお伺いしました is a polite 'I heard various things,' not casual chat.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 1213,
+    "TextENGNew": "\"...... I'm touched by your consideration.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 痛み入ります as 'embarrassing me' (discomfort) when it means 'I'm deeply grateful/touched' — different emotional register.",
+    "changeScore": 3
+  },
+  {
+    "index": 60,
+    "MessageID": 1214,
+    "TextENGNew": "...Honda-ya had likely told him about the Hinamizawa affair — and about my subordinate's death in the line of duty.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 1215,
+    "TextENGNew": "Of course, there was no reason for Akasaka-san to apologize, nor any cause for me to reproach him. Not in the slightest.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 1216,
+    "TextENGNew": "And yet... learning of it must have filled him with regret. If only he had known sooner — perhaps he could have joined the investigation, found some piece of information, been of use to me...",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 1217,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 1218,
+    "TextENGNew": "And I, too, carry one more regret.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 1219,
+    "TextENGNew": "In the immediate aftermath of the disaster, I had been terrified of drawing anyone else in. I could not bear to create another victim like Kumagai.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 1220,
+    "TextENGNew": "...But as a result, the investigation into Hinamizawa stalled completely, and will most likely die with my retirement.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 1221,
+    "TextENGNew": "To face such an incomprehensible, ruthless... and cunning opponent alone and still accomplish nothing — I should have gathered allies. I should have.",
+    "significantChanges": true,
+    "changeReason": "Changed 'horrible' to 'ruthless... and cunning'; 辛辣で狡猾な ('harsh and cunning') specifically describes the opponent's craftiness, which 'horrible' does not capture.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 1222,
+    "TextENGNew": "\"That is why, Oishi-san — I intend to stop by today. I apologize for the imposition, coming as an outsider.\"",
+    "significantChanges": true,
+    "changeReason": "Old renders お邪魔させていただきます as 'had to bother you today' (suggesting a call), while JPN means 'I will come visit in person' — the mode of interaction differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 1223,
+    "TextENGNew": "\"Oh, not at all... Wait — Akasaka-san, you're coming all the way from Tokyo? Please, don't trouble yourself. All this fuss just for an old man like me... na ha ha ha!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'calling me all the way out from Tokyo' implying Ooishi was summoned; JPN わざわざ東京から means Akasaka is the one traveling from Tokyo — wrong subject of the action.",
+    "changeScore": 4
+  },
+  {
+    "index": 70,
+    "MessageID": 1224,
+    "TextENGNew": "\"What are you saying? This much doesn't even begin to repay the debt I owe you. I hope you'll continue to guide and encourage me, and I ask for a long acquaintance going forward.\"",
+    "significantChanges": true,
+    "changeReason": "Old reverses the direction of ご鞭撻いただきたい: Akasaka is humbly requesting Ooishi's continued guidance, but old says Akasaka wants to encourage Ooishi.",
+    "changeScore": 4
+  },
+  {
+    "index": 71,
+    "MessageID": 1225,
+    "TextENGNew": "\"...Akasaka-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 1226,
+    "TextENGNew": "What a fine young man... no, I should stop being so condescending.",
+    "significantChanges": true,
+    "changeReason": "Clarified that Ooishi realizes calling Akasaka a 'young man' is condescending; the old translation vaguely referred to past disrespect.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 1227,
+    "TextENGNew": "And yet — to make the long journey here in the midst of such demanding work. I could think of nothing more heartening. Kindness unearned, they say — but I was truly proud to have known him.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates proverb 情けは人のためならず (kindness comes back around) as 'people like that get little sympathy' — opposite sentiment.",
+    "changeScore": 4
+  },
+  {
+    "index": 74,
+    "MessageID": 1228,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 1229,
+    "TextENGNew": "That's it.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 1230,
+    "TextENGNew": "Perhaps he... could do it, where I could not.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 1231,
+    "TextENGNew": "The truth that lies on the other side of this mystery — the one I could never reach on my own...",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 1232,
+    "TextENGNew": "\"Akasaka-san — if you don't mind, I was hoping to bend your ear on a matter this evening?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 1233,
+    "TextENGNew": "He may find it a burden. Even so, I reached out — clinging to that single thread of hope.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5480,
+    "TextENGNew": "\"............\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 5481,
+    "TextENGNew": "No words would come.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 5482,
+    "TextENGNew": "...I wanted to say something, but could not find the right words, and all I could manage was something close to a sigh...",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 5483,
+    "TextENGNew": "\"Ah, ...Ooishi-san!@k@vS20/19/VTK1_kumagai1002. I've been looking all over for you!!@k@vS20/19/VTK1_kumagai1003. The section chief asked about the wanted poster...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'section manager', new says 'section chief'; JPN 課長 is 'section chief'. Also new adds 'all over' to 'looking for you'.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 5484,
+    "TextENGNew": "\"Keep it down!@k@vS20/00/VTK1_kanshiki1002. This is no place for noise.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 5485,
+    "TextENGNew": "The old coroner snapped sharply at Kumagai as he burst noisily into the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5486,
+    "TextENGNew": "\"S... Sorry.@k@vS20/19/VTK1_kumagai1005. Um, the section chief was asking about the wanted poster for the suspect...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'section manager', new says 'section chief'; JPN 課長 is 'section chief'.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 5487,
+    "TextENGNew": "\"...Ah... could you talk to Komiyama-kun about that?@k@vS20/11/VTK1_oishi1041. I need to have a word with the old man here.@k@vS20/11/VTK1_oishi1042.Tell the chief I'll be right up.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'speak to the coroner here', new says 'have a word with the old man here'; JPN じいさま means 'old man/grandpa', an informal/affectionate term, not the professional title 'coroner'. Also old says 'tell him I'll be right over', new says 'tell the chief I'll be right up'.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 5488,
+    "TextENGNew": "\"Eh... o-okay!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 5489,
+    "TextENGNew": "Kumagai dashed out of the autopsy room with the same clamor he had entered with.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 5490,
+    "TextENGNew": "\"Lively fellow, that one.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 5491,
+    "TextENGNew": "\"The old man would have called him a racket and given him a good knock on the head.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'slapped him for making such a fuss', new says 'called him a racket and given him a good knock on the head'; JPN やかましいって言ってゲンコツ means 'say he's noisy and give him a punch', so new more accurately separates the verbal rebuke from the physical one.",
+    "changeScore": 2
+  },
+  {
+    "index": 13,
+    "MessageID": 5492,
+    "TextENGNew": "\"...You should probably head back upstairs too.@k@vS20/00/VTK1_kanshiki1005. The air in here doesn't agree with those who aren't used to it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 5493,
+    "TextENGNew": "\"You're right.@k@vS20/11/VTK1_oishi1045. If I slack off too long, I might earn myself a knock on the head, too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 5494,
+    "TextENGNew": "\"...Ha ha ha ha.@k@vS20/00/VTK1_kanshiki1007.Around Shishibone, even the local toughs crossed the street to avoid you, and yet he was the only one—past or future—who ever smacked you for playing a bad tile in mahjong...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'busting people for buying rice illegally' and 'spot checks on travelers at major train stations', while new says 'all sorts of enforcement duties' and 'arresting people who bought food and daily necessities through illegal channels'; JPN 食糧とか生活必需品を非合法な手段で means 'food and daily necessities by illegal means', broader than just rice.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 5495,
+    "TextENGNew": "\"He really was a merciless man...@k@vS20/11/VTK1_oishi1047. I think he hit me more than my own father ever did.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 5496,
+    "TextENGNew": "\"Real or not doesn't much matter.@k@vS20/00/VTK1_kanshiki1009. ...If you believed in your real father, then this man was just as real a father to you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 5497,
+    "TextENGNew": "\"............\"",
+    "significantChanges": true,
+    "changeReason": "Old starts 'I was sad, of course' then says 'I was grown up enough', while new says 'I was already a full-grown adult by then, so... of course I was sad'; the reordering changes emphasis. More importantly, JPN もうしっかりとした成人 means 'already a proper/full-grown adult', and old's 'grown up enough that I didn't cry' implies being barely old enough, while new's 'full-grown adult' is more definitive.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 5498,
+    "TextENGNew": "My real father died in Nagoya.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 5499,
+    "TextENGNew": "...It was bad luck.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 5500,
+    "TextENGNew": "If he had never been sent on that errand to the factory in Nagoya, he would never have been caught in the air raid.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 5501,
+    "TextENGNew": "...If he had just muddled through for another half year or so, the war would have been over.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 5502,
+    "TextENGNew": "I was already a full-grown adult by then, so... of course I was sad, but I did not collapse weeping like my mother did.",
+    "significantChanges": true,
+    "changeReason": "Old says 'my feelings towards him would always be the same', new says 'that was all I felt toward him'; JPN その程度のもの means 'that degree/level of thing', suggesting dismissiveness, not permanence.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 5503,
+    "TextENGNew": "But... grief is different for everyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 5504,
+    "TextENGNew": "For some, it crashes over them all at once. For others, it gnaws at them slowly, endlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 5505,
+    "TextENGNew": "...I think I was the latter.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5506,
+    "TextENGNew": "While he was alive, I thought of him as nothing more than a nagging old man. I even cursed him in my heart, wondering why he hadn't been drafted.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 5507,
+    "TextENGNew": "I assumed that was all I felt toward him.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 5508,
+    "TextENGNew": "Then the war ended.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 5509,
+    "TextENGNew": "I watched, sickened by the frequency of it, as soldiers returning from the front were reunited with their families at the train station, and... that was when I finally understood.",
+    "significantChanges": true,
+    "changeReason": "Old says 'families and friends being reunited with joy as they came home from the front', new adds 'sickened by the frequency of it' (うんざりするほど見せ付けられ) and 'at the train station' (駅で), capturing the painful repetition of witnessing other families' reunions.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 5510,
+    "TextENGNew": "Ah—I had been grieving for my father. It had hurt me. It had been unbearable.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I grieved for my father's death' (simple grief), new says 'I had been grieving... It had hurt me. It had been unbearable' (悲しかったんだな、悔しかったんだな); JPN includes 悔しかった (frustrating/bitter/unbearable), an additional emotion the old misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 5511,
+    "TextENGNew": "All across Japan, there were people in pain, people consumed by sorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 5512,
+    "TextENGNew": "I had no intention of indulging the conceit that I alone had suffered.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I knew I wasn't the only one whose life ended up that way', new says 'I had no intention of indulging the conceit that I alone had suffered'; JPN 甘えるつもりはない means 'have no intention of being self-indulgent', a more active rejection of self-pity.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 5513,
+    "TextENGNew": "...But I remember it was terribly, terribly painful.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 5514,
+    "TextENGNew": "After the war ended, the nation transformed completely, and the world surrounding me as a police officer changed with startling speed.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 5515,
+    "TextENGNew": "The only thing I could do was throw myself into my daily work and let the busyness drown out the grief.",
+    "significantChanges": true,
+    "changeReason": "New adds 'let the busyness drown out the grief' (忙しさで悲しみを忘れる), making explicit the mechanism of coping, while old just says 'devote myself to my work'.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 5516,
+    "TextENGNew": "\"...Back then, I was assigned to all sorts of enforcement duties.@k@vS20/11/VTK1_oishi1050. I spent my days arresting people who bought food and daily necessities through illegal channels.@k@vS20/11/VTK1_oishi1051.And there was no shortage of them.",
+    "significantChanges": true,
+    "changeReason": "Old says 'in charge of busting people for buying rice illegally' and 'conducted spot checks on travelers at major train stations', while new says 'assigned to all sorts of enforcement duties' and 'arresting people who bought food and daily necessities through illegal channels'; JPN mentions いろんな取り締まり (various enforcement duties) and 食糧とか生活必需品 (food and daily necessities), broader than just rice.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 5517,
+    "TextENGNew": "\"The granary regions had an abundance of goods, and apparently it was quite convenient to obtain such supplies from there.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'The granary was rich in goods, and it was quite convenient to get such products', new says 'The granary regions had an abundance of goods, and apparently it was quite convenient to obtain such supplies from there'; new adds 'apparently' matching JPN そうなんですよ (I hear/apparently), and 'regions' better captures 穀倉のあたり.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 5518,
+    "TextENGNew": "But... regardless of purpose, and regardless of whether the price was high or low, illegal was illegal.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 5519,
+    "TextENGNew": "As long as there were legitimate consumers acquiring goods through proper distribution channels, we could not afford to look the other way.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 5520,
+    "TextENGNew": "But... the balance of supply and demand at the time was clearly in a state of chaos.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 5521,
+    "TextENGNew": "In urban areas, for instance, where large numbers of people wanted to buy rice and other foodstuffs, the demand was nowhere close to being met.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 5522,
+    "TextENGNew": "Conversely, in remote, sparsely populated areas, there was a surplus to sell. And because of that gap...",
+    "significantChanges": true,
+    "changeReason": "Old says 'there is a surplus to sell, and that is why', incomplete sentence; new says 'there was a surplus to sell. And because of that gap...' completing the thought and adding 'gap' to connect to the next point.",
+    "changeScore": 2
+  },
+  {
+    "index": 44,
+    "MessageID": 5523,
+    "TextENGNew": "There were those who sold these goods at exorbitant prices, and certain black-market operators made fortunes as easily as scooping water with their hands.",
+    "significantChanges": true,
+    "changeReason": "New adds 'black-market operators' (黒幕たち) and 'made fortunes as easily as scooping water with their hands' (濡れ手に粟 idiom), while old just says 'some of them became quite wealthy'.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 5524,
+    "TextENGNew": "...It was also around this time that the Sonozaki family amassed their fortune, but I will set that aside here.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 5525,
+    "TextENGNew": "In circumstances like these, it was always the most vulnerable—the ordinary people abandoned by law and power—who bore the most unjust suffering and grief.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 5526,
+    "TextENGNew": "\"Weren't law and power originally meant to protect those very people?@k@vS20/00/VTK1_kanshiki1011. There are far too many who've lost sight of what truly matters.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 5527,
+    "TextENGNew": "\"And it's always those very people who end up rising to positions of power.@k@vS20/11/VTK1_oishi1054. ...It's maddening.@k@vS20/11/VTK1_oishi1055.Is honesty nothing but a fool's errand?",
+    "significantChanges": true,
+    "changeReason": "Old says 'I couldn't do this' (vague), new says 'It's maddening' (やりきれません/unbearable frustration); JPN やりきれませんよ means 'I can't stand it' or 'it's unbearable', significantly different from 'I couldn't do this'. Also old says 'Are you saying that honesty is a fool's errand?' while new says 'Is honesty nothing but a fool's errand?' - the JPN 正直者は馬鹿を見る is a proverb meaning 'honest people get the short end of the stick'.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 5528,
+    "TextENGNew": "\"If the law itself is out of step with reality, then the job of those in charge should be to make it fit—not treat it as a necessary evil.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'If the law itself is not in line with reality, let alone a necessary evil, then it is the job of the higher-ups to make it fit', new says 'If the law itself is out of step with reality, then the job of those in charge should be to make it fit—not treat it as a necessary evil'; the positioning of 'necessary evil' differs and new better structures the argument matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 5529,
+    "TextENGNew": "\"...All they ever do is line their own pockets, damn it...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 5530,
+    "TextENGNew": "\"...Sounds like you were made to do plenty of thankless work yourself.@k@vS20/00/VTK1_kanshiki1013. Unable to protect the people you should have protected, you were seen as a pawn of those in power—hated and resented...",
+    "significantChanges": true,
+    "changeReason": "Old says 'been forced to do something that's not worth it... you was thought of as a pawn' (grammatical error), new says 'made to do plenty of thankless work yourself... you were seen as a pawn of those in power—hated, resented'; JPN 怨まれて adds 'resented' which old omits, and new fixes grammar.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 5531,
+    "TextENGNew": "I imagine you've swallowed more than your share of frustration, haven't you?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'a lot of unanswered questions', new says 'swallowed more than your share of frustration'; JPN 釈然としない思い means 'feelings of not being convinced/frustration', not 'unanswered questions'.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 5532,
+    "TextENGNew": "\"...I rounded up the offenders one after another, brandishing the law and authority as my justification.",
+    "significantChanges": true,
+    "changeReason": "Old uses passive voice ('the violators were rounded up') while new uses first person ('I rounded up the offenders'). JPN uses first person. The narrator's personal agency is lost in the old version.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 5533,
+    "TextENGNew": "\"...The women always cried.@k@vS20/11/VTK1_oishi1060. They said they hadn't done it because they wanted to.@k@vS20/11/VTK1_oishi1061.They were only doing what they had to do to survive.",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly includes the narrator: 'We didn't do it because we wanted to' but JPN 自分たちだって refers to the women themselves saying they hadn't done it willingly.",
+    "changeScore": 4
+  },
+  {
+    "index": 55,
+    "MessageID": 5534,
+    "TextENGNew": "\"And yet the people in power turned a blind eye to these realities and wouldn't even listen to their grievances...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 5535,
+    "TextENGNew": "\"Makes sense.@k@vS20/00/VTK1_kanshiki1016. The higher-ups have never known what it's like to teeter on the edge of life and death. It's the common folk who suffer for it.\"",
+    "significantChanges": true,
+    "changeReason": "Meaning reversed: old says 'common people have never been on the brink of life and death as much as the great ones'; JPN says the opposite — the higher-ups have never known hardship, and common folk suffer for it.",
+    "changeScore": 4
+  },
+  {
+    "index": 57,
+    "MessageID": 5536,
+    "TextENGNew": "\"Even so... saying I cracked down on them reluctantly is nothing but an excuse to myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 5537,
+    "TextENGNew": "\"In the end, I just blindly followed orders from above and... never once tried to do anything about the plight of the powerless.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'didn't make any effort to do anything about the situation of the weak people', new says 'never once tried to do anything about the plight of the powerless'; JPN 唯々諾々と (blindly/obediently) appears in new as 'blindly followed orders' but was absent from old.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 5538,
+    "TextENGNew": "\"It's a pathetic story.@k@vS20/11/VTK1_oishi1066. I don't blame anyone for calling me a demon or a devil.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'shameful story', new says 'pathetic story'; JPN 情けない means 'pitiful/pathetic', which is more about self-pity than shame.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 5539,
+    "TextENGNew": "...It was somewhere in the midst of all that when I first met the old man.",
+    "significantChanges": true,
+    "changeReason": "Old says 'that was when I first met the old man' (definitive timing), new says 'it was somewhere in the midst of all that' (approximate timing); JPN そんな中でだったと思う includes と思う (I think), adding uncertainty the old misses.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 5540,
+    "TextENGNew": "\"Man... I was stunned.@k@vS20/11/VTK1_oishi1068. ...He looked just like my father.@k@vS20/11/VTK1_oishi1069. The resemblance was uncanny!@k@vS20/11/VTK1_oishi1070. I honestly thought, for a moment, that maybe my father, whom I'd believed dead, had come back.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Remember old man? He looked exactly like my father!' (addressing someone), while new removes the direct address and restructures; JPN doesn't have a 'remember old man' - it says 私の親父にね? (to my father, you see?), addressing the coroner. Both are close but old adds 'Remember old man' which is not in JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 5541,
+    "TextENGNew": "That time, too... I was chasing someone who had fled.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I was chasing a man who was running away from the inspection point', new says 'That time, too... I was chasing someone who had fled'; JPN あの時も means 'that time too', and 逃走した人間 means 'a person who had fled', not specifically 'from the inspection point'.",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 5542,
+    "TextENGNew": "Of course I felt guilty about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 5543,
+    "TextENGNew": "I knew that what they had done, illegal though it was, had been a choice born of sheer desperation to survive.",
+    "significantChanges": true,
+    "changeReason": "Old says 'He knew that this illegal act was a choice' (third person), new says 'I knew that what they had done' (first person); JPN uses no explicit subject but context implies first person narrator.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 5544,
+    "TextENGNew": "And so, even as I gave chase, I was always plagued by doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 5545,
+    "TextENGNew": "Who were the police really here for?",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 5546,
+    "TextENGNew": "I didn't want to catch him.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 5547,
+    "TextENGNew": "...Because I didn't want to hear the cries of someone pleading their desperate circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 5548,
+    "TextENGNew": "That was when the old man appeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 5549,
+    "TextENGNew": "...The spitting image of my dead father.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 5550,
+    "TextENGNew": "I was dumbstruck.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 5551,
+    "TextENGNew": "And then that man suddenly cracked me on the head with his fist.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 5552,
+    "TextENGNew": "When your father disciplines you, a child's role is to bow his head meekly.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 5553,
+    "TextENGNew": "But more than anything, the man I had believed to be dead was standing there alive, and I simply could not contain the surge of joy.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I was so happy to see my father alive that I couldn't hold my joy in', new says 'the man I had believed to be dead was standing there alive, and I simply could not contain the surge of joy'; new adds 'believed to be dead' (死んだと思っていた) from JPN, important context.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 5554,
+    "TextENGNew": "The old man spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 5555,
+    "TextENGNew": "\"Let him go.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 5556,
+    "TextENGNew": "The moment I heard his voice, I realized he was not my father. I resolved to arrest this stranger for assaulting a police officer.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 5557,
+    "TextENGNew": "But a young man barely out of boyhood was no match for someone seasoned in brawls.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a young man, like me, who'd barely grown any hairs yet', new says 'a young man barely out of boyhood'; JPN 青二才に毛が生えた程度 means 'barely more than a greenhorn', an idiom. Old's 'barely grown any hairs' is more literal but potentially confusing; new captures the idiom better.",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 5558,
+    "TextENGNew": "\"...Oh, he gave me quite the lecture.@k@vS20/11/VTK1_oishi1072. Right there in the middle of the main street, after he'd thoroughly thrashed me.@k@vS20/11/VTK1_oishi1073.Ha ha ha—normally, who would even listen after that, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 5559,
+    "TextENGNew": "\"But something was off with me that day.@k@vS20/11/VTK1_oishi1075. No matter what, he kept looking like my father to me.@k@vS20/11/VTK1_oishi1076.All I could do was sit there and listen.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 5560,
+    "TextENGNew": "\"Well, the remarkable thing about him wasn't just that he could throw a punch—he could back it up with the mettle of a real man. That's what made him so impressive.@k@vS20/00/VTK1_kanshiki1018. You don't see his kind anymore. He was a true survivor from a finer age.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'he was a ruffian, but he showed his guts, like a real man', new says 'the remarkable thing about him wasn't just that he could throw a punch—he could back it up with the mettle of a real man'; JPN 小突いただけじゃなく、男の器量もきっちりと見せられた means 'it wasn't just that he hit you, he also properly demonstrated a man's caliber/character'.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 5561,
+    "TextENGNew": "Even at my age, I still needed a father.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 5562,
+    "TextENGNew": "I still needed someone older and wiser, someone to share a drink with and teach me what it meant to be a man...",
+    "significantChanges": true,
+    "changeReason": "New adds 'someone to share a drink with' (酒を酌み交わし), a detail present in JPN but missing from old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 84,
+    "MessageID": 5563,
+    "TextENGNew": "That is why I can say it.",
+    "significantChanges": true,
+    "changeReason": "Old says 'When I think about it...', new says 'That is why I can say it.'; JPN だから言える means 'that's why I can say', completely different meaning from 'when I think about it'.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 5564,
+    "TextENGNew": "......I had two fathers.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 5565,
+    "TextENGNew": "The old man was unquestionably my father, my brother, and... my dearest friend.",
+    "significantChanges": true,
+    "changeReason": "New adds 'unquestionably' (間違いなく) from JPN, emphasizing certainty about the relationship.",
+    "changeScore": 2
+  },
+  {
+    "index": 87,
+    "MessageID": 5566,
+    "TextENGNew": "...And now here he lies, his body dismembered... and his right arm...",
+    "significantChanges": true,
+    "changeReason": "Old says 'head, body, arms, and legs all dismembered... and his right arm hasn't been found', new says 'body dismembered... and his right arm...'; old adds body parts not in JPN (JPN just says バラバラにされ/made into pieces), and old completes the thought about the arm while new trails off matching JPN ellipsis.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 5567,
+    "TextENGNew": "The right arm that had taught me honor, how to drink, how to play mahjong—the right arm that had cracked me on the head whenever I strayed from the path... it still has not been found.",
+    "significantChanges": true,
+    "changeReason": "Old says 'how to enjoy alcohol, how to play mahjong', new says 'how to drink, how to play mahjong'; but more importantly, old says 男の義理 as nothing while new translates it as 'honor' (義理 means duty/honor/obligation). Also old says 'gave me a good beating when I did something wrong' while new says 'cracked me on the head whenever I strayed from the path' matching 道を外れたら (when I strayed from the path).",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 5568,
+    "TextENGNew": "\"...Any suspects?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 5569,
+    "TextENGNew": "\"Yes, of course.@k@vS20/11/VTK1_oishi1078. ...I swear I will recover the old man's right arm, and I will settle this score.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 5570,
+    "TextENGNew": "Pulling Hinamizawa's strings from the shadows, inciting the collective violence they called the dam war... The Sonozaki family.",
+    "significantChanges": true,
+    "changeReason": "Old says 'dam protests' while new says 'dam war'; JPN ダム戦争 literally means 'dam war', and 'protests' significantly softens the term. Also old says 'collective crime' while new says 'collective violence' (集団犯罪 means 'collective crime', so old is actually more accurate here).",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 5571,
+    "TextENGNew": "I declared war within my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 5572,
+    "TextENGNew": "...My enemy was already clear.",
+    "significantChanges": false
+  }
+]

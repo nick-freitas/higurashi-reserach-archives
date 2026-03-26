@@ -1,0 +1,312 @@
+[
+  {
+    "index": 1,
+    "MessageID": 73281,
+    "TextENGNew": "``...It has grown quite dark out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 73282,
+    "TextENGNew": "``Rika, can't we pick this up tomorrow? If any of the adults in the village see us, they'll say it's dangerous for children to be out playing at this hour and send us straight home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 73283,
+    "TextENGNew": "``...Though if I'm with you, Rika, they probably won't scold us.``",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'scold me' (singular) while new says 'scold us' (plural); the Japanese is ambiguous but context involves both Satoko and Rika.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 73284,
+    "TextENGNew": "``Mii... we can't stop. I have a very bad feeling about what will happen if we don't find it soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 73285,
+    "TextENGNew": "``...Mii! I can sense the aura of the sealed treasure... It must be somewhere close. Mii, mii, mii...``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 73286,
+    "TextENGNew": "``That... aura-detector you brought, Rika? It would be more useful if it were a little more precise. It certainly looks as suspicious as its name suggests.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 73287,
+    "TextENGNew": "No matter how you looked at it, the thing was just an ordinary compass...",
+    "significantChanges": true,
+    "changeReason": "Old translates 方位磁石 as 'directional magnet' while new correctly translates it as 'compass'; a reader would picture different objects.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 73288,
+    "TextENGNew": "``We've been traipsing back and forth across the village for ages now. I'm exhausted. And poor Shion-san... *yaaawn*... Mmm, I'm starting to get sleepy...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'making Shion-san worry' while new says 'poor Shion-san'; the Japanese 気の毒なことをしてしまいました expresses regret for troubling her rather than causing worry.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 73289,
+    "TextENGNew": "``Mii... you're only so carefree because you don't know the terrible power of the Magatama of Fuwarazu. If you truly understood how frightening it is, you'd know why I'm in such a panic...``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 73290,
+    "TextENGNew": "``They're love-binding magatama, aren't they? If one of a red-and-white pair is shared with the one you love, your feelings become mutual. How wonderful.``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 73291,
+    "TextENGNew": "``...That is precisely why they're dangerous. Every young person in the village might end up in a bloody war over them. Ancient texts even record men killing one another over a single maiden.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 73292,
+    "TextENGNew": "``...If someone felt that strongly, you'd think they'd be better served by a different sort of effort. Though you're right — they shouldn't be lying about in the road.``",
+    "significantChanges": true,
+    "changeReason": "Old translation addresses 'you' (Rika) directly while new correctly refers to a hypothetical 'someone'; the Japanese discusses people who would feel that strongly, not Rika personally.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 73293,
+    "TextENGNew": "``Oh, and another thing! Since we've gone to all this trouble to retrieve them, wouldn't it be rather tempting to have a little fun with them before returning them to the heavens? Oh ho ho ho! ...Yaaawn...``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 73294,
+    "TextENGNew": "``That might be all right, but first we have to find them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 73295,
+    "TextENGNew": "``Mii? ...We're getting closer, closer...! Mii... mi-mi-mi-mi-miiiii!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 73296,
+    "TextENGNew": "Something glimmered in the dark road ahead, and Satoko turned to look.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 73297,
+    "TextENGNew": "Like luminous paint, it held its faint glow for a moment before fading...",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 73298,
+    "TextENGNew": "``Is that it?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 73299,
+    "TextENGNew": "I shone my flashlight at it and found a small open box lying on its side.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 73300,
+    "TextENGNew": "Small as it was, it had an intricate design — one could believe, hearing it described as a sacred treasure of the Furude Shrine, that it was exactly that.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 73301,
+    "TextENGNew": "But the outside didn't matter. What mattered was what was inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 73302,
+    "TextENGNew": "``Ah! ...Mii.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 73303,
+    "TextENGNew": "``...It's empty. I see — so this is where the two magatama, red and white, would have sat.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 73304,
+    "TextENGNew": "The interior was fitted like a jewellery box, with two recesses where the magatama had once rested.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 73305,
+    "TextENGNew": "``Mii, perhaps they fell nearby. Let's look a little longer.``",
+    "significantChanges": true,
+    "changeReason": "Old uses singular 'it' while new correctly uses plural 'they' to refer to the two magatama being searched for.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 73306,
+    "TextENGNew": "``Can't your aura-detector find them, Rika? There's no way we could find a fallen magatama in darkness like this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 73307,
+    "TextENGNew": "``The thing is... mii. The aura transmitter is apparently attached to the box itself, so unless they're inside the box, I can't track them... mii.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 73308,
+    "TextENGNew": "According to Rika, a more powerful detector could track down the magatama themselves.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 73309,
+    "TextENGNew": "But that one was buried deep in the back of the ritual storehouse and would have been a nuisance to retrieve, so they'd left it behind. ...Useless.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 73310,
+    "TextENGNew": "And come to think of it, weren't names like \"transmitter\" and \"detector\" a bit odd for tools meant to find an ancient sacred relic? The thing was obviously just a compass.",
+    "significantChanges": true,
+    "changeReason": "Old translates 方位磁石 as 'directional magnet' while new correctly translates it as 'compass'; also adds the nuance that these names are odd for sacred relic-finding tools.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 73311,
+    "TextENGNew": "The two of them swept their flashlights around, but with all the gravel and overgrown weeds, it seemed doubtful they'd find anything even in broad daylight.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 73312,
+    "TextENGNew": "And judging from the size of the recesses in the box, the magatama were probably no bigger than a piece of hard candy — which made things even worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 73313,
+    "TextENGNew": "``They must have tumbled out when the box fell from the sky and struck the ground.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 73314,
+    "TextENGNew": "``...And of all places, right next to the trash heap? If they rolled down this slope and got mixed in with all that... we'd never find them. Not a chance.``",
+    "significantChanges": true,
+    "changeReason": "Old uses singular 'it' while new correctly uses plural 'they/them' for the two magatama.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 73315,
+    "TextENGNew": "``...Mii.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 73316,
+    "TextENGNew": "...Just then, a thought flashed through Rika's mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 73317,
+    "TextENGNew": "Impossible for an ordinary person, perhaps... but what about Rena, sovereign of the rubbish heap?",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 73318,
+    "TextENGNew": "The red-and-white magatama might bear the name of sacred jewels, but according to the illustrations in the scroll, they looked exactly like fur seal keyrings. Frankly, Rika was fairly certain Rena's fingers would be itching to get hold of them.",
+    "significantChanges": true,
+    "changeReason": "Old says 'key rings with seals on them' misinterpreting オットセイ (fur seal, the animal) as decorative seals; new correctly translates as 'fur seal keyrings.'",
+    "changeScore": 4
+  },
+  {
+    "index": 39,
+    "MessageID": 73319,
+    "TextENGNew": "When she shared this thought with Satoko, the other girl nodded in understanding.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 73320,
+    "TextENGNew": "``Come to think of it, Rena-san mentioned stopping by the dump today. Something about a new heap having appeared, and wanting to go treasure hunting.``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 73321,
+    "TextENGNew": "``Could it be that Rena has already picked them up...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 73322,
+    "TextENGNew": "``We can't know for certain. Why don't we ask her at school tomorrow? Calling at this hour would be quite rude.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 73323,
+    "TextENGNew": "``...Mii...``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 73324,
+    "TextENGNew": "``Rika, let's turn back for today. If it gets any darker, the road home will be dangerous. And if we read through the scroll a little more carefully, perhaps we'll find a clue.``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 73325,
+    "TextENGNew": "``...It can't be helped.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 73326,
+    "TextENGNew": "Good grief. What a troublesome magic item to have found its way into Hinamizawa...",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 73327,
+    "TextENGNew": "...Then again, could a treasure with powers like that actually exist?",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 73328,
+    "TextENGNew": "Since Satoko hadn't seen it with her own eyes, she still found the whole thing rather difficult to believe — even with Rika being this earnest about it...",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 73329,
+    "TextENGNew": "``Ahh, honestly! Good grief~...``",
+    "significantChanges": false
+  }
+]

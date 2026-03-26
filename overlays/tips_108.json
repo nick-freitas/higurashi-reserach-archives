@@ -1,0 +1,41 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Lunch Delivery List 2",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Lunch Takeout List 2\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15429,
+    "TextENGNew": "As a first step toward recovery, listening attentively without outright dismissal is the most basic of basics.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 2,
+    "MessageID": 15430,
+    "TextENGNew": "Furthermore, some delusions and the problematic behavior arising from them are contagious in nature, and it is not uncommon for them to spread through an entire community.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 3,
+    "MessageID": 15431,
+    "TextENGNew": "Those who come into contact with the subject must be made to understand that her words and actions may be problematic, and they should be cautioned sufficiently not to be drawn into her delusions.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 4,
+    "MessageID": 15432,
+    "TextENGNew": "Those most susceptible to such influence include family members or intimate companions who are deeply invested in the subject's wellbeing.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  }
+]

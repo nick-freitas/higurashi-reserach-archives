@@ -1,0 +1,1272 @@
+[
+  {
+    "index": 1,
+    "MessageID": 100103,
+    "TextENGNew": "In the pitch-black darkness, just after the strange sensation of weightlessness that comes with losing all five senses.",
+    "significantChanges": true,
+    "changeReason": "The original implies losing senses was caused by the gravity loss; the new translation correctly presents them as co-occurring, matching the Japanese structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 100104,
+    "TextENGNew": "I slammed my head against the ground with a dull thud.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 100105,
+    "TextENGNew": "A burst of iridescent stars exploded behind my eyelids, and I curled into a ball, groaning as I clutched my aching head.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 100106,
+    "TextENGNew": "``A-Are you okay?!@k@vS12/03/180300002. Are you hurt?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 100107,
+    "TextENGNew": "``Riiikaaa!!@k@vS12/04/180400002. Please answer me!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 100108,
+    "TextENGNew": "I had no idea why I was in this state, but hearing Mion and the others' voices from the top of the cliff, I understood that I must have tumbled off it.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 100109,
+    "TextENGNew": "That's right.",
+    "significantChanges": true,
+    "changeReason": "The original 'Ah, I remember' implies recollection, but the Japanese そうだ means 'That's right' — an affirmation, not a memory trigger.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 100110,
+    "TextENGNew": "I had been playing with the other club members behind the shrine grounds.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 100111,
+    "TextENGNew": "I got carried away and did something reckless... then the branch snapped...",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 100112,
+    "TextENGNew": "And down I went, headfirst.",
+    "significantChanges": true,
+    "changeReason": "The new translation adds 'headfirst' which matches 真っ逆さま in the Japanese, a detail absent from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 100113,
+    "TextENGNew": "As if to confirm that, pain began spreading through my entire body after the fact.",
+    "significantChanges": true,
+    "changeReason": "The new translation captures nuances from the Japanese (それを裏付けるように, 今さら) — the pain serves as confirmation and is notably delayed, both absent in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 100114,
+    "TextENGNew": "But even with my memory returning, something felt strange.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 100115,
+    "TextENGNew": "The memories leading up to the moment before I fell from the cliff... no... the 'Rika Furude' from just before the fall -- I couldn't connect with her.",
+    "significantChanges": true,
+    "changeReason": "The original misinterprets the Japanese: it says she 'couldn't remember who Rika Furude was,' but the Japanese describes being unable to connect with the 'Rika Furude' from before the fall — a discontinuity of identity, not memory loss.",
+    "changeScore": 4
+  },
+  {
+    "index": 14,
+    "MessageID": 100116,
+    "TextENGNew": "``Au... au au au...``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 100117,
+    "TextENGNew": "I heard Hanyuu's timid, faltering voice.",
+    "significantChanges": true,
+    "changeReason": "The original translates おどおど as 'panicked,' but it means 'timid/faltering' — a meaningfully different emotional state.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 100118,
+    "TextENGNew": "Turning around, I saw a figure that matched that voice perfectly -- cowering and uncertain.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 100119,
+    "TextENGNew": "``...Hanyuu...?@k@vS12/05/180500002. ...Ow ow ow...@k@vS12/05/180500003. What on earth... happened...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 100120,
+    "TextENGNew": "``Au au... You were playing with everyone and fell off the cliff...@k@vS12/12/181100003. A-Are you all right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 100121,
+    "TextENGNew": "``Hanyuu, ...never mind that.@k@vS12/05/180500005. What day is it?@k@vS12/05/180500006. What year, what month, what day?``",
+    "significantChanges": true,
+    "changeReason": "The new translation includes 'what day' matching 何日 in the Japanese, which the original omitted, and the opening phrase is closer to the Japanese tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 100122,
+    "TextENGNew": "She should have known this is always the very first thing I ask. Yet she never remembers.",
+    "significantChanges": true,
+    "changeReason": "The original omits Rika's criticism of Hanyuu; the Japanese conveys that Hanyuu should know by now that this is always the first question, yet she never remembers.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 100123,
+    "TextENGNew": "The moment I asked, she seemed to recall that she'd been asked this before.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 100124,
+    "TextENGNew": "``Um... let me think... It's June of 1983.@k@vS12/12/181100005. The Watanagashi festival is next week, so... um...``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 100125,
+    "TextENGNew": "``...You can't be serious.@k@vS12/05/180500008. ...That's all the time I have...?``",
+    "significantChanges": true,
+    "changeReason": "The original 'Oh dear' is too mild for 何てこと, which conveys stronger dismay/disbelief; the new 'You can't be serious' better matches Rika's shock at having so little time.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 100126,
+    "TextENGNew": "``...This is the most we can manage...``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 100127,
+    "TextENGNew": "Hanyuu hung her head apologetically.",
+    "significantChanges": true,
+    "changeReason": "The original says Hanyuu 'muttered regretfully,' but the Japanese describes her hanging her head (俯く) apologetically — a physical action, not speech.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 100128,
+    "TextENGNew": "Mid-June, 1983.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 100129,
+    "TextENGNew": "If this truly was the best she could do... then there was nothing to be done about it.@k No point in complaining.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 100130,
+    "TextENGNew": "My memories came back, little by little.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 100131,
+    "TextENGNew": "``If I'm back in June 1983 again... then I see.@k@vS12/05/180500010. I was killed again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 100132,
+    "TextENGNew": "After Rena surrendered to the police, everyone in the class should have been examined at the clinic.",
+    "significantChanges": true,
+    "changeReason": "The original states the checkups as fact; the new translation preserves はずだ ('should have been'), reflecting Rika's inference rather than certainty.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 100133,
+    "TextENGNew": "I hadn't been injured, so I simply marked on the form that I had no wounds, and was allowed to go home.",
+    "significantChanges": true,
+    "changeReason": "The original implies others determined she was uninjured; the new translation correctly shows Rika herself writing on the questionnaire that she had no injuries, matching the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 100134,
+    "TextENGNew": "...From that point on, my memory dissolves into static.@k The kind of memory disruption that accompanies a violent death.",
+    "significantChanges": true,
+    "changeReason": "The Japanese uses specific terms ノイズ (noise/static) and 記憶混濁 (memory disruption/turbidity); the original's 'vague' loses these technical metaphors that are thematically important to Rika's death-memory concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 100135,
+    "TextENGNew": "When life is severed violently and abruptly, the memories immediately preceding death become riddled with noise -- distorted and torn apart.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 100136,
+    "TextENGNew": "It's like a roll of toilet paper ripped apart by force... a crass analogy, perhaps, but an apt one.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 100137,
+    "TextENGNew": "That's why the memories working backward from the moment of my death that night are drowning in noise, too blurred to make out.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 100138,
+    "TextENGNew": "...Only hazy shards of memory remain... something like a handkerchief pressed over my mouth, losing consciousness... I have that vague impression, but nothing certain.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 100139,
+    "TextENGNew": "I can only say that it was probably something like that...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 100140,
+    "TextENGNew": "In other words, all I know is that I was ambushed on my way home or after I arrived, and killed without warning.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 100141,
+    "TextENGNew": "Who killed me and how -- none of that remains in my memory.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 100142,
+    "TextENGNew": "...The one small mercy is that the unbearable agony of the moment of death never stays with me either.",
+    "significantChanges": true,
+    "changeReason": "The original refers to 'the horrific ending to my life,' but the Japanese specifically mentions 耐え難い苦痛 (unbearable agony) of the moment of death — the physical pain, not the ending itself.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 100143,
+    "TextENGNew": "Perhaps because I've experienced this firsthand so many times, I've come to understand why people who die in sudden accidents might wander as ghosts, unaware of their own deaths.",
+    "significantChanges": true,
+    "changeReason": "The new translation includes 'unaware of their own deaths' (自分の死に気付かず), a key detail the original omitted explaining why ghosts wander.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 100144,
+    "TextENGNew": "If you die at the end of a long hospitalization, the long illness is firmly etched in your memory,@k so you can accept that you must have died in the end.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 100145,
+    "TextENGNew": "But when the memory of an ordinary life is torn apart without warning, you can't make sense of anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 100146,
+    "TextENGNew": "...When I first benefited from this power, I was terribly confused -- wondering if I'd been dreaming,@k or if perhaps I'd hit my head and suffered some kind of amnesia.",
+    "significantChanges": true,
+    "changeReason": "The original says 'when I first experienced this,' but the Japanese この力の恩恵 specifies 'the benefit of this power,' establishing that the time-loop is a granted ability, not just an experience.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 100147,
+    "TextENGNew": "To calm the confusion, I decided to organize my thoughts.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 100148,
+    "TextENGNew": "My name is Rika Furude.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 100149,
+    "TextENGNew": "Many people regard me as special, but... that doesn't matter to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 100150,
+    "TextENGNew": "All I desire is a future where I can live happily with the friends I love.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 100151,
+    "TextENGNew": "...How long I've lived in pursuit of even that -- it's hard to remember anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 100152,
+    "TextENGNew": "And this girl whose verbal tic is 'au au' is named Hanyuu.",
+    "significantChanges": true,
+    "changeReason": "The original calls Hanyuu a 'panicked girl,' but the Japanese describes her as the girl whose verbal tic (口癖) is 'au au' — a character trait introduction, not an emotional state.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 100153,
+    "TextENGNew": "She's a being visible only to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 100154,
+    "TextENGNew": "Or perhaps it would be more accurate to say she's a being that lives inside my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 100155,
+    "TextENGNew": "In any case, Hanyuu is fundamentally an invisible existence that can only interact with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 100156,
+    "TextENGNew": "Explaining Hanyuu in full would take far too long, so I'll spare you the details for now.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 100157,
+    "TextENGNew": "Besides, even if I tried to explain, I can't think of the right words.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 100158,
+    "TextENGNew": "She's been with me since the day I was born -- that's how natural her presence is to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 100159,
+    "TextENGNew": "Before long, I saw everyone come running up the gravel path.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 100160,
+    "TextENGNew": "My beloved, precious friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 100161,
+    "TextENGNew": "Lively and noisy, throwing themselves wholeheartedly into the most ridiculous endeavors.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 100162,
+    "TextENGNew": "Friends I adore, whose company I could never tire of.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 100163,
+    "TextENGNew": "``Hau, Rika-chan, are you all right?!@k@vS12/02/180200002. You didn't sprain anything, did you?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 100164,
+    "TextENGNew": "``Where did you get hurt?@k@vS12/03/180300004. Let this old man take a look!``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 100165,
+    "TextENGNew": "``...Mii.@k@vS12/05/180500012. Thank you so much.@k@vS12/05/180500013. I just got a bump on my head.``",
+    "significantChanges": true,
+    "changeReason": "The original translates Rika's signature vocalization みー as 'Meep,' while the new translation uses 'Mii' which is the standard transliteration used in the fan community.",
+    "changeScore": 1
+  },
+  {
+    "index": 64,
+    "MessageID": 100166,
+    "TextENGNew": "Just a bump, I think.@k My injury wasn't nearly as serious as everyone's worried faces suggested.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 100167,
+    "TextENGNew": "``When you hit your head, you mustn't let your guard down even if you feel fine at first!``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 100168,
+    "TextENGNew": "``Sh-She's right!@k@vS12/01/180100002. Maybe we should have the Coach take a look at you, just to be safe.``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 100169,
+    "TextENGNew": "``Rena thinks so too!``",
+    "significantChanges": true,
+    "changeReason": "The original loses Rena's characteristic third-person self-reference; the Japanese has 'Rena thinks so too' (レナも), which the new translation preserves.",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 100170,
+    "TextENGNew": "``What should we do -- should I go get him?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 100171,
+    "TextENGNew": "``Yeah.@k@vS12/03/180300006. I'll borrow a phone from a nearby house and call him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 100172,
+    "TextENGNew": "``...You really don't need to go that far.@k@vS12/05/180500015. See? I'm perfectly fine.@k@vS12/05/180500016. Nipah~``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 100173,
+    "TextENGNew": "``Absolutely not, Rika!@k@vS12/04/180400005. You can never be too careful!``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 100174,
+    "TextENGNew": "Satoko -- ever the caretaker -- said sternly.",
+    "significantChanges": true,
+    "changeReason": "The original omits 世話焼きの好きな (who loves being a caretaker), a character detail about Satoko that the new translation preserves.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 100175,
+    "TextENGNew": "...It really wasn't a serious injury, but since Satoko cared enough to insist, I decided to nod and let her have her way.",
+    "significantChanges": true,
+    "changeReason": "The original says Satoko was 'trying to be generous,' but the Japanese 顔を立てて means Rika decided to respect/honor Satoko's concern by going along with it.",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 100176,
+    "TextENGNew": "Satoko wasn't saying this to act bossy.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 100177,
+    "TextENGNew": "She was speaking out of genuine concern for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 100178,
+    "TextENGNew": "...I'd already seen that across countless worlds.@k So I had no reason to doubt her heart.",
+    "significantChanges": true,
+    "changeReason": "The original says 'many different lives,' but the Japanese 数多の世界 means 'countless worlds' — a distinction important in Higurashi's narrative where Rika traverses parallel worlds, not just reliving one life.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 100179,
+    "TextENGNew": "But it wasn't only Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 100180,
+    "TextENGNew": "Mion, Rena, and Keiichi were the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 100181,
+    "TextENGNew": "All of them were truly precious and kind, worrying about me as one of their own.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 100182,
+    "TextENGNew": "Mion said she'd go find a phone and dashed off.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 100183,
+    "TextENGNew": "Rena took off too, clutching a handkerchief, saying she'd look for a water tap.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 100184,
+    "TextENGNew": "Satoko stayed close by, fussing over me anxiously.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 100185,
+    "TextENGNew": "Hanyuu just stood there, flustered and helpless.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 100186,
+    "TextENGNew": "Keiichi looked worried too, but he was probably telling himself that as the eldest one present, he couldn't afford to lose his composure.",
+    "significantChanges": true,
+    "changeReason": "The original omits Keiichi's internal reasoning; the Japanese explains he held composure because he was the eldest (年長者) present and felt responsible.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 100187,
+    "TextENGNew": "He stood beside me with a calm expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 100188,
+    "TextENGNew": "``You okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 100189,
+    "TextENGNew": "``...I'm fine.@k@vS12/05/180500018. It doesn't hurt at all anymore.``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 100190,
+    "TextENGNew": "``Well, that's a blessing in disguise, at least.@k@vS12/01/180100005. What a relief!``",
+    "significantChanges": true,
+    "changeReason": "The original adds 'I was super worried!' which isn't in the Japanese; the Japanese 不幸中の幸い (a blessing in disguise) and よかったよかった (what a relief) are about the outcome, not expressing prior worry.",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 100191,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 100192,
+    "TextENGNew": "Had this been the old me, I would have felt nothing special from Keiichi's words.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 100193,
+    "TextENGNew": "But... when Rena seized the classroom... when she turned violent against Mion...",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 100194,
+    "TextENGNew": "Keiichi stood up to it without flinching, trying everything he could to save Rena.",
+    "significantChanges": true,
+    "changeReason": "The new translation captures 毅然と立ち向かい (confronted resolutely without flinching), a characterization detail about Keiichi's courage that the original's plain 'tried his best' misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 100195,
+    "TextENGNew": "He displayed a strength and dependability I could never have imagined from his usual self.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 100196,
+    "TextENGNew": "Keiichi is usually tactless -- the kind of person who wounds people's feelings without realizing it. But that's not who he truly is.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 100197,
+    "TextENGNew": "He harbors a quiet strength -- the kind of person who would throw himself into harm's way for the sake of his friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 100198,
+    "TextENGNew": "And I had just 'witnessed' that, hadn't I?",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 100199,
+    "TextENGNew": "Knowing that was why I could truly feel the warmth behind Keiichi's concern now.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 100200,
+    "TextENGNew": "...That's right.",
+    "significantChanges": true,
+    "changeReason": "Same as earlier: the original translates そうだ as 'Now that I think about it,' but it means 'That's right' — a statement of realization, not contemplation.",
+    "changeScore": 2
+  },
+  {
+    "index": 99,
+    "MessageID": 100201,
+    "TextENGNew": "...In the previous world, Keiichi had revived a 'memory from another world.'",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 100202,
+    "TextENGNew": "Was it possible... that he still carried that memory in this world too...?",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 100203,
+    "TextENGNew": "If so...@k That would be the most reassuring thing imaginable.",
+    "significantChanges": true,
+    "changeReason": "The original's 'I have some hope' dramatically understates この上なく頼もしい ('the most reassuring thing imaginable'), losing Rika's intensity of feeling.",
+    "changeScore": 3
+  },
+  {
+    "index": 102,
+    "MessageID": 100204,
+    "TextENGNew": "Hanyuu and I are unbelievably powerless.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 100205,
+    "TextENGNew": "After all, Hanyuu is an invisible, intangible existence to everyone but me, and I myself am just a little girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 100206,
+    "TextENGNew": "There's a limit to what grand maneuvers we can pull off.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 100207,
+    "TextENGNew": "But Keiichi is different.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 100208,
+    "TextENGNew": "He magnificently shattered the fate that I had surrendered to and given up on.",
+    "significantChanges": true,
+    "changeReason": "The original's 'changed the fate' loses both 豪快に (magnificently) and 挫け諦めた (that I had broken down and given up on), significantly understating the emotional weight.",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 100209,
+    "TextENGNew": "He possesses an unknown power -- one that might smash through the very walls of this labyrinth of fate that holds me captive, and lead me toward a future I've never seen.",
+    "significantChanges": true,
+    "changeReason": "The original omits the central metaphor: 運命の迷宮を壁ごと打ち破って (smashing through the very walls of the labyrinth of fate), reducing a vivid description of Rika's imprisonment to a generic statement.",
+    "changeScore": 4
+  },
+  {
+    "index": 108,
+    "MessageID": 100210,
+    "TextENGNew": "If... Keiichi truly came to understand me...",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 100211,
+    "TextENGNew": "...there couldn't be a more reassuring ally.",
+    "significantChanges": true,
+    "changeReason": "The original translates 頼もしい味方 as 'my hero,' but the Japanese means 'a reassuring/dependable ally' — different connotation from a hero figure.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 100212,
+    "TextENGNew": "Then again, perhaps I wasn't thinking that far ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 100213,
+    "TextENGNew": "Maybe... I simply wanted someone who could understand the agony of being swallowed by this maze.",
+    "significantChanges": true,
+    "changeReason": "The original states present desire ('I just want') while the Japanese uses past tense with uncertainty (かも知れない — 'maybe I wanted'), and 'stuck in' loses the violence of 呑み込まれる ('being swallowed by').",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 100214,
+    "TextENGNew": "``...K-... Keiichi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 100215,
+    "TextENGNew": "Timidly... I called out to him.",
+    "significantChanges": true,
+    "changeReason": "The original translates 恐る恐る as 'slowly,' but it means 'timidly/fearfully' — Rika's emotional state when calling out to Keiichi is fear, not deliberateness.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 100216,
+    "TextENGNew": "For a witch who has lived through 1983 for all eternity, to feel this much trepidation about simply calling someone's name... it had been a truly long time.",
+    "significantChanges": true,
+    "changeReason": "The original omits Rika's self-reference as 魔女 (witch) and the emphasis on the mundane act of 声を掛ける (calling someone's name) being what terrifies her.",
+    "changeScore": 3
+  },
+  {
+    "index": 115,
+    "MessageID": 100217,
+    "TextENGNew": "A witch who knows the outcome before she speaks -- she already knows what's inside both the red box and the blue box without opening either.",
+    "significantChanges": true,
+    "changeReason": "The original omits the red box/blue box metaphor (赤い箱も青い箱も), which illustrates Rika's prescient knowledge as a witch who has seen all outcomes.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 100218,
+    "TextENGNew": "She already knows how trivial the contents are, and has passed beyond disappointment into resigned acceptance.",
+    "significantChanges": true,
+    "changeReason": "The original misframes the concept: it says Rika 'remains silent' about 'pitiful replies,' but the Japanese describes knowing the trivial contents (下らなさ) and having reached resigned acceptance (諦観) beyond disappointment.",
+    "changeScore": 3
+  },
+  {
+    "index": 117,
+    "MessageID": 100219,
+    "TextENGNew": "And yet... for someone like me to be this nervous...",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 100220,
+    "TextENGNew": "``Hm?@k@vS12/01/180100007. ...Did you call me, Rika-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 100221,
+    "TextENGNew": "Before I could even confirm my faint hope with Keiichi, Hanyuu's face fell into disappointment.",
+    "significantChanges": true,
+    "changeReason": "The original omits 淡い期待 (faint hope), which reveals Rika's emotional state — she was clinging to a fragile hope that Hanyuu's reaction dashed.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 100222,
+    "TextENGNew": "``...Rika...``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 100223,
+    "TextENGNew": "I didn't need Hanyuu's clouded expression to know.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 100224,
+    "TextENGNew": "...That had been an impossible 'miracle.'",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 100225,
+    "TextENGNew": "If miracles happened so cheaply and easily, they should have occurred frequently in other worlds too.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 100226,
+    "TextENGNew": "But I had only ever witnessed that one miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 100227,
+    "TextENGNew": "In other words, Keiichi's 'miracle' had a probability of occurring perhaps once -- if at all -- across the mind-numbing span of time I'd been repeating...",
+    "significantChanges": true,
+    "changeReason": "The original's 'once-in-a-lifetime miracle' underrepresents 気の遠くなるような時間 (a mind-numbingly vast span of time), obscuring the staggering number of loops Rika has endured.",
+    "changeScore": 3
+  },
+  {
+    "index": 126,
+    "MessageID": 100228,
+    "TextENGNew": "But it would be a true miracle precisely because something so improbable happened twice in a row...",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 100229,
+    "TextENGNew": "A world I can't escape just because a die lands on six once.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 100230,
+    "TextENGNew": "Unless I achieve a miracle on the order of rolling six on ten dice simultaneously... I can never escape this labyrinth...",
+    "significantChanges": true,
+    "changeReason": "The original says 'six on the die ten times in a row' (sequential), but the Japanese describes rolling ten dice simultaneously and all showing six — a different probability concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 129,
+    "MessageID": 100231,
+    "TextENGNew": "I gripped ten dice in my hand, praying that all of them would land on six... and released them from my palm.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 100232,
+    "TextENGNew": "``...Keiichi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 100233,
+    "TextENGNew": "``What's wrong?@k@vS12/01/180100009. Does something hurt...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 100234,
+    "TextENGNew": "Because I'd called his name twice, Keiichi looked at me with worry.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 100235,
+    "TextENGNew": "``...Keiichi, do... you remember...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 100236,
+    "TextENGNew": "I knew how abrupt my question was.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 100237,
+    "TextENGNew": "...And, exactly as I expected, Keiichi wore a blank, puzzled expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 100238,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 100239,
+    "TextENGNew": "``Remember what? ...What are you talking about?``",
+    "significantChanges": true,
+    "changeReason": "The new translation adds 'Remember what?' (覚えてるって from the Japanese), which the original omitted, and properly formats the dialogue.",
+    "changeScore": 2
+  },
+  {
+    "index": 138,
+    "MessageID": 100240,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 100241,
+    "TextENGNew": "I peered into the depths of Keiichi's eyes -- searching for the true Keiichi that lay within.",
+    "significantChanges": true,
+    "changeReason": "The original says Rika searched for Keiichi's 'true feelings,' but the Japanese 本当の圭一 means she was looking for 'the true Keiichi' — the version of him who experienced the miracle.",
+    "changeScore": 3
+  },
+  {
+    "index": 140,
+    "MessageID": 100242,
+    "TextENGNew": "He should remember... he should know...",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 100243,
+    "TextENGNew": "Even if he couldn't consciously perceive it, even if the memory wouldn't surface... Keiichi had experienced it...",
+    "significantChanges": true,
+    "changeReason": "The original collapses two distinct conditions (知覚できなくても — can't perceive, 記憶できなくても — can't remember) into just 'doesn't have the memory,' losing the nuance of unconscious perception.",
+    "changeScore": 3
+  },
+  {
+    "index": 142,
+    "MessageID": 100244,
+    "TextENGNew": "``...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 100245,
+    "TextENGNew": "``What's this about, Keiichi-san?@k@vS12/04/180400007. You didn't do something terrible to Rika, did you?@k@vS12/04/180400008. Search your conscience right this instant!``",
+    "significantChanges": true,
+    "changeReason": "The original translates 自分の胸によく聞いてごらんなさい as 'You had better speak up!' but it means 'Search your own conscience!' — Satoko is telling Keiichi to examine his own guilt, not confess.",
+    "changeScore": 4
+  },
+  {
+    "index": 144,
+    "MessageID": 100246,
+    "TextENGNew": "...",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 100247,
+    "TextENGNew": "``...Keiichi... do you remember... climbing onto the school roof...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 100248,
+    "TextENGNew": "``The school roof?@k@vS12/04/180400010. Keiichi-san, you climbed up there?``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 100249,
+    "TextENGNew": "``...Be quiet, Satoko.@k@vS12/05/180500027. Do you remember, Keiichi...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 100250,
+    "TextENGNew": "``Me?@k@vS12/01/180100013. On the roof?@k@vS12/01/180100014. When?``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 100251,
+    "TextENGNew": "``...``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 100252,
+    "TextENGNew": "``...No, Rika-chan, you must be confusing me with someone else.@k@vS12/01/180100016. I've never climbed on the roof, and I wouldn't even know how.``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 100253,
+    "TextENGNew": "...I know perfectly well that the Keiichi of this world has no such experience!",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 100254,
+    "TextENGNew": "But Keiichi, please, remember...!",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 100255,
+    "TextENGNew": "Of course you've never actually climbed onto the roof -- but you should remember having done it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 100256,
+    "TextENGNew": "It's a memory you shouldn't be able to recall... yet you did recall it once before.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 100257,
+    "TextENGNew": "So you should be able to recall it again...!",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 100258,
+    "TextENGNew": "``Maybe you went up there to fetch a ball or something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 100259,
+    "TextENGNew": "``No, I've never done anything like that.@k@vS12/01/180100018. Have you, Satoko?``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 100260,
+    "TextENGNew": "``Certainly not!@k@vS12/04/180400013. The teacher would scold me terribly if I ever did such a thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 100261,
+    "TextENGNew": "``Still, I bet it'd feel amazing to take a nap up there!@k@vS12/01/180100020. Ahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 100262,
+    "TextENGNew": "...",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 100263,
+    "TextENGNew": "``...There's no way... he would remember...``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 100264,
+    "TextENGNew": "Guh...",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 100265,
+    "TextENGNew": "``If miracles happened that easily... neither you nor I... would be suffering like this...``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 100266,
+    "TextENGNew": "...Be quiet...",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 100267,
+    "TextENGNew": "...I knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 100268,
+    "TextENGNew": "I knew it was probably futile...",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 100269,
+    "TextENGNew": "``Our fate is set... We're like summer cicadas, doomed to vanish when the festival ends...``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 100270,
+    "TextENGNew": "``...Shut up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 100271,
+    "TextENGNew": "``Au...``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 100272,
+    "TextENGNew": "When I turned my fierce glare on her, Hanyuu realized she'd gone too far and shrank back.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 100273,
+    "TextENGNew": "It might all be futile.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 100274,
+    "TextENGNew": "What imprisons us may not be a labyrinth that at least might have an exit -- but a simple ring with no exit to begin with.",
+    "significantChanges": true,
+    "changeReason": "The original loses the contrast between a labyrinth (which might have an exit) and a simple ring (輪っか, which has no exit by nature); the new translation preserves this key metaphorical distinction.",
+    "changeScore": 3
+  },
+  {
+    "index": 173,
+    "MessageID": 100275,
+    "TextENGNew": "That's right -- we are buried alive by fate...",
+    "significantChanges": true,
+    "changeReason": "The original says 'trapped in this fate,' but the Japanese 生き埋め means 'buried alive' — a far more violent and desperate image.",
+    "changeScore": 3
+  },
+  {
+    "index": 174,
+    "MessageID": 100276,
+    "TextENGNew": "...That Keiichi... might have been able to pull me free.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 100277,
+    "TextENGNew": "But... that Keiichi was... truly a miraculous, fleeting spark.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 100278,
+    "TextENGNew": "...The Keiichi of this world was not graced with that miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 100279,
+    "TextENGNew": "...But even so... I refuse to give up.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 100280,
+    "TextENGNew": "Last time, too... I had given up, resigned to failure.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 100281,
+    "TextENGNew": "When I saw that Rena was beyond saving, I said my goodbyes and abandoned that world entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 100282,
+    "TextENGNew": "But Keiichi fought -- and shattered the cycle of fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 100283,
+    "TextENGNew": "With that miraculous Keiichi at my side, couldn't I have fought so much harder?",
+    "significantChanges": true,
+    "changeReason": "The original states regret ('I should've worked harder'), but the Japanese is a rhetorical question (のではないか) wondering if more was possible, and includes 奇跡の圭一 ('that miraculous Keiichi') which the original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 182,
+    "MessageID": 100284,
+    "TextENGNew": "If I had... couldn't we have shattered so much more of this fate?",
+    "significantChanges": true,
+    "changeReason": "The original says 'broken this endless cycle' (implying total victory), but the Japanese asks 'couldn't we have shattered so much more of this fate?' — a rhetorical question about incremental progress, not complete escape.",
+    "changeScore": 3
+  },
+  {
+    "index": 183,
+    "MessageID": 100285,
+    "TextENGNew": "Am I going to keep repeating this eternal world, hoping for that miracle to happen in Keiichi again...?",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 100286,
+    "TextENGNew": "No... I can't do that anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 100287,
+    "TextENGNew": "I no longer want to keep repeating worlds.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 100288,
+    "TextENGNew": "I'm sick of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 100289,
+    "TextENGNew": "Sick of the world, sick of myself, sick of fate -- sick of everything.@k ...I'm going to drown in destiny...!",
+    "significantChanges": true,
+    "changeReason": "The original omits 自分にも ('of myself too'); the new translation includes Rika being sick of herself alongside the world and fate, reflecting her self-directed despair.",
+    "changeScore": 3
+  },
+  {
+    "index": 188,
+    "MessageID": 100290,
+    "TextENGNew": "Keiichi had wrought a miracle.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 100291,
+    "TextENGNew": "Then... I should be able to do the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 100292,
+    "TextENGNew": "I will fight.@k I will wring out every last drop of my remaining strength and fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 100293,
+    "TextENGNew": "I've always fought.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 100294,
+    "TextENGNew": "I fought even when I had far more power than I do now.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 100295,
+    "TextENGNew": "...And I still failed. So what chance do I have now?",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 100296,
+    "TextENGNew": "But still -- I will fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 100297,
+    "TextENGNew": "Keiichi taught me that fate can be broken.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 100298,
+    "TextENGNew": "So once more -- I will fight.",
+    "significantChanges": false
+  }
+]

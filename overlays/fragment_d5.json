@@ -1,0 +1,786 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5681,
+    "TextENGNew": "Being half-asleep, it seems, means being utterly indifferent to a phone ringing loudly right beside you.",
+    "significantChanges": true,
+    "changeReason": "Old: 'I was half asleep, so I didn't even hear the phone'; new reframes as a philosophical observation about what being half-asleep means. Different narrative voice and perspective.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 5682,
+    "TextENGNew": "After drifting in a haze for a while, I finally recognized the sound as a telephone—and grasped that someone urgently needed to reach me at this hour.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 5683,
+    "TextENGNew": "A glance at the clock showed two in the morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 5684,
+    "TextENGNew": "What could possibly warrant a call at this hour?",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 5685,
+    "TextENGNew": "\"......Hello, this is Irie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 5686,
+    "TextENGNew": "\"I'm terribly sorry to disturb your rest, Director Irie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5687,
+    "TextENGNew": "It was Takano-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 5688,
+    "TextENGNew": "...She had never once called me for a personal reason.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 5689,
+    "TextENGNew": "...Moreover, within the Irie Institute, she held the rank just below mine, and in practice, she was the one who ran the organization's day-to-day operations.",
+    "significantChanges": true,
+    "changeReason": "New adds 'in practice, she was the one who ran the organization's day-to-day operations' matching JPN 事実上、機関運営を完全に任されている—old only says 'basically responsible for running it'.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 5690,
+    "TextENGNew": "......For her to call at this hour meant it was surely something highly alarming, and on top of that, extremely urgent.",
+    "significantChanges": true,
+    "changeReason": "Old: 'it must be an emergency'; new distinguishes between 'highly alarming' and 'extremely urgent' as separate qualities, matching JPN 不穏 (alarming) and 緊急性の高い (urgent).",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 5691,
+    "TextENGNew": "\"...Sorry for the delay.@k@vS20/10/VTK1_irie1282. Is it true that we have a terminal patient?\"",
+    "significantChanges": true,
+    "changeReason": "Old adds 'another' (another terminal patient) not present in JPN; new correctly says just 'a terminal patient'.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 5692,
+    "TextENGNew": "\"Yes.@k@vS20/09/VTK1_takano1227. I had been hoping to obtain a living specimen, and fortune has truly smiled upon us.@k@vS20/09/VTK1_takano1228. Hee hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 5693,
+    "TextENGNew": "My first thought was that she had forcibly abducted some poor victim.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 5694,
+    "TextENGNew": "The man had already been moved to the research wing beneath the clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 5695,
+    "TextENGNew": "Strapped to the restraining table, he thrashed and struggled—but his movements looked less like resistance and more like the flailing of a deranged mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 5696,
+    "TextENGNew": "His words were incoherent—he sounded at once furious, remorseful, and like a child throwing a tantrum.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 5697,
+    "TextENGNew": "......One glance made it abundantly clear that he was in no normal state of mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 5698,
+    "TextENGNew": "\"...In any case, let us sedate him.@k@vS20/10/VTK1_irie1284. Left like this, he could swallow his own tongue and suffocate.\"",
+    "significantChanges": true,
+    "changeReason": "Old generalizes to 'He might kill himself' while JPN specifies 'could swallow his own tongue and suffocate.' Both express danger to the patient but old loses the specific medical concern.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 5699,
+    "TextENGNew": "\"I had wanted to observe his condition a while longer, but I suppose there's no choice.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 5700,
+    "TextENGNew": "A staff member in a white coat immediately began preparing the anesthesia.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 5701,
+    "TextENGNew": "Even a person in full possession of their faculties would struggle if dragged to a suspicious place like this and strapped to a restraining table.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 5702,
+    "TextENGNew": "But even accounting for that, this man's behavior was on an abnormal level...",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 5703,
+    "TextENGNew": "...It must have been Okonogi-san and his Mountain Dogs who captured him. I could only marvel at how they had managed to subdue someone in this state...",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 5704,
+    "TextENGNew": "According to Takano, she had encountered the terminal patient by pure chance on her way home from the clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 5705,
+    "TextENGNew": "She brought him back and ran a preliminary test, which she judged to be almost certainly positive.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 5706,
+    "TextENGNew": "...Of course, I had no intention of taking such a conveniently tidy story at face value.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5707,
+    "TextENGNew": "...But there was no question that this man was in the terminal stage, and he was also the very thing we had been desperately craving for our research into Hinamizawa Syndrome—a living specimen...",
+    "significantChanges": true,
+    "changeReason": "Old: 'exactly what we need'; new: 'the very thing we had been desperately craving.' JPN 渇望して止まない means unceasing desperate craving—much stronger than 'exactly what we need'.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 5708,
+    "TextENGNew": "\"Who on earth is this man...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 5709,
+    "TextENGNew": "\"Hee hee.@k@vS20/09/VTK1_takano1231. He was carrying something wrapped in newspaper.@k@vS20/09/VTK1_takano1232. ...What do you suppose was inside?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 5710,
+    "TextENGNew": "\"......Ugh... what is this...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 5711,
+    "TextENGNew": "On a stainless-steel tray sat a newspaper bundle soaked in blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 5712,
+    "TextENGNew": "The blood seeping through the wrapping made it easy to imagine something gruesome inside, even before opening it.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 5713,
+    "TextENGNew": "And yet Takano-san wore the expression of someone about to surprise me with a delightful secret...",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 5714,
+    "TextENGNew": "\"Oh...... this is... awful...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 5715,
+    "TextENGNew": "Inside was... a bloody... right arm...",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 5716,
+    "TextENGNew": "The man on the restraining table still had both of his arms.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 5717,
+    "TextENGNew": "...Which meant this arm did not belong to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 5718,
+    "TextENGNew": "...Then whose was it...?",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 5719,
+    "TextENGNew": "As a physician, I had grown somewhat accustomed to seeing distressing sights like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 5720,
+    "TextENGNew": "......And yet, there were still some things that made me want to look away.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 5721,
+    "TextENGNew": "...What lay before me was precisely that.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates content about medical methods; JPN simply says 'what lay before me was precisely that.'",
+    "changeScore": 5
+  },
+  {
+    "index": 42,
+    "MessageID": 5722,
+    "TextENGNew": "How this arm had come to be in its current state—the circumstances and reasons behind it—I did not even want to imagine.",
+    "significantChanges": true,
+    "changeReason": "Old inserts 'obviously done out of cruelty' as a definitive judgment while JPN says the narrator did not even want to imagine the circumstances.",
+    "changeScore": 4
+  },
+  {
+    "index": 43,
+    "MessageID": 5723,
+    "TextENGNew": "\"Judging from the situation, it's safe to assume this man is the one who severed it.@k@vS20/09/VTK1_takano1234. Hee hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 5724,
+    "TextENGNew": "\"...In other words, he is the perpetrator of some incident in the area.\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'the culprit behind the body dumping'; new: 'the perpetrator of some incident.' JPN 何らかの事件 means 'some kind of incident'—old is overly specific about body dumping.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 5725,
+    "TextENGNew": "At that point, there was no way to determine whose arm this was.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 5726,
+    "TextENGNew": "But the following morning, the dismemberment murder of the dam construction site manager came to light,@k and when word reached us that his right arm was still missing, we learned who the arm belonged to...",
+    "significantChanges": true,
+    "changeReason": "Old has typo 'damn construction site' (should be 'dam'); also 'director' changed to 'manager' for JPN 現場監督 (site foreman/supervisor).",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 5727,
+    "TextENGNew": "\"This man apparently has a criminal record, and what's more, he's currently on probation.@k@vS20/09/VTK1_takano1236. ...And yet here he is, committing yet another crime.@k@vS20/09/VTK1_takano1237.I suppose the fear of discovery drove him to try to hide the body by dismembering it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 5728,
+    "TextENGNew": "\"...The circumstances would factor in, of course, but it seems unlikely he'd get off with just a few years.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 5729,
+    "TextENGNew": "\"Hee hee.@k@vS20/09/VTK1_takano1239. Surely you won't hesitate to dissect a scrap of humanity like this, will you, Director?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 5730,
+    "TextENGNew": "\"......Who can say. Perhaps he was already a scoundrel before the syndrome made him violent.@k@vS20/10/VTK1_irie1289b.Or perhaps he was an ordinary citizen who had reformed after his past mistakes, only to be driven to violence by Hinamizawa Syndrome.",
+    "significantChanges": true,
+    "changeReason": "Old: 'maybe he had gone straight'; new: 'perhaps he was an ordinary citizen.' JPN 善良な小市民 means 'decent ordinary citizen'—'gone straight' implies prior criminal reform, while 'ordinary citizen' better matches the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 5731,
+    "TextENGNew": "\"The former would be one thing, but... if it is the latter, then he bears no guilt at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 5732,
+    "TextENGNew": "That was the terrifying nature of Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 5733,
+    "TextENGNew": "...Whether a crime stemmed from a fundamental flaw in human character, or was an unfortunate accident caused by the syndrome—the distinction was not easily made.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 5734,
+    "TextENGNew": "......Or rather, what was the root cause of that flaw in human character in the first place?",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 5735,
+    "TextENGNew": "That was precisely the question Irie sought to answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 5736,
+    "TextENGNew": "Hate the sin, not the sinner.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Hate the crime, not the criminal'; new: 'Hate the sin, not the sinner.' Both translate the same proverb but 'sin/sinner' has different religious/moral connotations than 'crime/criminal'.",
+    "changeScore": 2
+  },
+  {
+    "index": 57,
+    "MessageID": 5737,
+    "TextENGNew": "...Can criminals only be corrected through the punishment of imprisonment?",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 5738,
+    "TextENGNew": "...If a disease of the brain unconsciously drove someone to crime, then treating that disease could correct them.",
+    "significantChanges": true,
+    "changeReason": "Old: 'mental disorder'; new: 'disease of the brain.' JPN 脳の疾患 literally means brain disease/pathology, which is distinct from the broader 'mental disorder'.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 5739,
+    "TextENGNew": "In other words... perhaps there are no such things as crimes in this world—only unfortunate patients awaiting treatment, understood by no one.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 5740,
+    "TextENGNew": "In the Middle Ages, patients diagnosed as terminally ill were confined or executed to prevent the spread of their disease.",
+    "significantChanges": true,
+    "changeReason": "Old says 'patients with mental disorders possessed by demons' while JPN describes terminally ill patients confined or executed to prevent disease spread. Completely different medical/historical context.",
+    "changeScore": 5
+  },
+  {
+    "index": 61,
+    "MessageID": 5741,
+    "TextENGNew": "...Centuries later, they are now recognized as patients deserving of treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 5742,
+    "TextENGNew": "......Perception can change with the times.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 5743,
+    "TextENGNew": "Those who are now condemned and arrested as criminals may, centuries hence, be recognized as patients entitled to proper treatment and human rights.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 5744,
+    "TextENGNew": "Explaining crime through illness rather than malice.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 5745,
+    "TextENGNew": "...This was Irie's life's work.",
+    "significantChanges": true,
+    "changeReason": "Old: 'That's my life's work' (first person); new: 'This was Irie's life's work' (third person). JPN uses 入江の (Irie's), so third person is correct for this passage's narrative voice.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 5746,
+    "TextENGNew": "Hinamizawa Syndrome was a disease that illustrated this principle with remarkable clarity.",
+    "significantChanges": true,
+    "changeReason": "Old: 'a strange disease that can support my theory'; new: 'a disease that illustrated this principle with remarkable clarity.' JPN doesn't mention a 'theory' or call it 'strange'.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 5747,
+    "TextENGNew": "...Unraveling its mysteries held immense significance for Irie...",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 5748,
+    "TextENGNew": "To unravel those mysteries...... required a medical sacrifice.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 5749,
+    "TextENGNew": "It was a deeply sinful undertaking...... but he understood that without that resolve, no breakthrough was possible.",
+    "significantChanges": true,
+    "changeReason": "Old: 'there's no way to unravel this without it'; new: 'without that resolve, no breakthrough was possible.' JPN その覚悟なくして references resolve/determination specifically.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 5750,
+    "TextENGNew": "...The Irie Institute had been founded upon that very premise.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 5751,
+    "TextENGNew": "When I was asked to accept the position of director, I was questioned repeatedly about whether I possessed that resolve.",
+    "significantChanges": true,
+    "changeReason": "Old: 'I was asked about it so many times'; new: 'I was questioned repeatedly about whether I possessed that resolve.' New specifies what was being asked, matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 5752,
+    "TextENGNew": "And now... the opportunity had finally arrived.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 5753,
+    "TextENGNew": "...This would be an extraordinarily important first step in our research...",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 5754,
+    "TextENGNew": "And yet...... even now, I could not rid myself of hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 5755,
+    "TextENGNew": "It was true that I had opened up human bodies in countless surgeries.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 5756,
+    "TextENGNew": "...What I would perform on this man was an infinitely similar act.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 5757,
+    "TextENGNew": "......But it was fundamentally different.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 5758,
+    "TextENGNew": "What I had done until now was treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 5759,
+    "TextENGNew": "I did it to save lives.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 5760,
+    "TextENGNew": "I did it for the patients, so they could have better futures.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 5761,
+    "TextENGNew": "But what I was about to do was not treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 5762,
+    "TextENGNew": "...He would die in the end.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 5763,
+    "TextENGNew": "Moreover, his death would be far removed from any humanitarian standard.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 5764,
+    "TextENGNew": "...In a sense, he would be treated as a research subject in ways that departed entirely from medical practice.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates specific graphic actions ('open up his living brain') not in JPN, which says he would be treated as a research subject in ways departing from medical practice.",
+    "changeScore": 5
+  },
+  {
+    "index": 85,
+    "MessageID": 5765,
+    "TextENGNew": "\"Director Irie?@k@vS20/09/VTK1_takano1243. Are you listening?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 5766,
+    "TextENGNew": "\"...Oh, ah, sorry.@k@vS20/10/VTK1_irie1292. Could you say that again?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 5767,
+    "TextENGNew": "\"I believe we should submit a dissection plan and request support from 'Tokyo.'@k@vS20/09/VTK1_takano1245. After all, this specimen is not merely alive—he is exhibiting terminal symptoms, making him extraordinarily valuable.@k@vS20/09/VTK1_takano1246.The dissection must be conducted with the utmost care.\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'submit the dissection proposal to Tokyo'; new: 'submit a dissection plan and request support from Tokyo' with quotes around 'Tokyo' indicating it's a code name, matching JPN 『東京』.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 5768,
+    "TextENGNew": "\"...You're right.@k@vS20/10/VTK1_irie1294. Absolutely.@k@vS20/10/VTK1_irie1295.Let us proceed as you suggest.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 5769,
+    "TextENGNew": "\"I expect we'll have a few days before the dissection.@k@vS20/09/VTK1_takano1248. In the meantime, I'd like to bring him off the anesthetic and run some behavioral response tests.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 5770,
+    "TextENGNew": "\"...Is that safe?@k@vS20/10/VTK1_irie1297. Even if we keep him restrained, there's no telling what might happen.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 5771,
+    "TextENGNew": "\"This is the specimen we've finally obtained.@k@vS20/09/VTK1_takano1250. It would be a waste to only examine his brain.@k@vS20/09/VTK1_takano1251.Hee hee hee hee...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 5772,
+    "TextENGNew": "Takano-san's strange elation was deeply unsettling...",
+    "significantChanges": true,
+    "changeReason": "Old: 'made me feel odd'; new: 'was deeply unsettling.' JPN 気持ち悪い means creepy/unsettling, much stronger than 'odd'.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 5773,
+    "TextENGNew": "...But on reflection, perhaps her reaction was the correct one, and it was my own lukewarm response that was abnormal.",
+    "significantChanges": true,
+    "changeReason": "New adds JPN 温度差のある (temperature gap/lukewarm) as 'my own lukewarm response'—a specific self-assessment the old omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 94,
+    "MessageID": 5774,
+    "TextENGNew": "We were here for research and nothing else.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 5775,
+    "TextENGNew": "...If that was so, then feeling a thrill at the prospect of our first dissection should have been the natural response.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 5776,
+    "TextENGNew": "......And yet, my hesitation would not fully recede.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 5777,
+    "TextENGNew": "Was this truly the limit of my researcher's spirit?",
+    "significantChanges": true,
+    "changeReason": "Old: 'How can I call myself a researcher?'; new: 'Was this truly the limit of my researcher's spirit?' JPN 研究者魂はこの程度 means 'is my researcher's spirit only this much'—different self-doubt.",
+    "changeScore": 2
+  },
+  {
+    "index": 98,
+    "MessageID": 5778,
+    "TextENGNew": "The pioneers who had broken new ground in medicine accomplished their great achievements precisely by demonstrating courage that far exceeded the ethical standards of their time.",
+    "significantChanges": true,
+    "changeReason": "New adds reference to JPN 倫理観 (ethical standards of their time) which old omitted entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 99,
+    "MessageID": 5779,
+    "TextENGNew": "...I had seen many brains.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 5780,
+    "TextENGNew": "I had operated on them.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 5781,
+    "TextENGNew": "...There were times when I had caused a patient's death.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 5782,
+    "TextENGNew": "But I had never agonized over it, because I knew I had done the right thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 5783,
+    "TextENGNew": "......Even when my work was later questioned and denied.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 5784,
+    "TextENGNew": "If the thought pained me, then all the more reason to press forward in the pursuit of medicine, so that the sacrifices of those who had died would not be in vain.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 5785,
+    "TextENGNew": "...That was what it meant to be one who blazes a trail through the unknown.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 5786,
+    "TextENGNew": "And yet... simply by changing the word from \"treatment\" to \"dissection,\" my heart was wracked with such torment.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 5787,
+    "TextENGNew": "...Did it mean I was merely a vessel capable of following paths already carved by great minds of the past, without the strength to carve new ones myself?",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 5788,
+    "TextENGNew": "\"...Oh.@k@vS20/09/VTK1_takano1253. Is something the matter, Director?@k@vS20/09/VTK1_takano1254.Perhaps you're feeling unwell after being roused from sleep...?\"",
+    "significantChanges": true,
+    "changeReason": "New adds detail about being woken from sleep matching JPN お休みのところを無理に起こして, which old omitted.",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 5789,
+    "TextENGNew": "She spoke with an air of concern...... but she knew.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 5790,
+    "TextENGNew": "...She could see the wavering in my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 5791,
+    "TextENGNew": "...And she was silently mocking me for it, telling me it was shameful for one who stood at the forefront of research into an unknown endemic disease...",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 5792,
+    "TextENGNew": "............I shook my head lightly, banishing the last traces of drowsiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 5793,
+    "TextENGNew": "Remember the resolve with which you came to stand where you stand today.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 5794,
+    "TextENGNew": "...My hands are already stained with blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 5795,
+    "TextENGNew": "But if I stop now, that blood will have been shed for nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 5796,
+    "TextENGNew": "...Only by making it the foundation of great research can the people who shed that blood finally find peace...",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 5797,
+    "TextENGNew": "...I shook my head once more and roused the spirit of the researcher within me.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 5798,
+    "TextENGNew": "\"No.@k@vS20/10/VTK1_irie1299. I was merely lost in thought.@k@vS20/10/VTK1_irie1300. ...Takano-san, please handle the coordination with 'Tokyo.'@k@vS20/10/VTK1_irie1301.Let me know once the schedule is set.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 5799,
+    "TextENGNew": "\"Understood.@k@vS20/09/VTK1_takano1256. ...Hee hee hee!@k@vS20/09/VTK1_takano1257. This is quite the excitement—it chases away any thought of sleep.\"",
+    "significantChanges": true,
+    "changeReason": "Old: 'This is really exciting'; new adds 'it chases away any thought of sleep' matching JPN 眠気も吹っ飛んでしまいますわね.",
+    "changeScore": 2
+  },
+  {
+    "index": 120,
+    "MessageID": 5800,
+    "TextENGNew": "The least I could do was ensure his sacrifice was not in vain by performing the finest work possible.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 5801,
+    "TextENGNew": "...If blood must be spilled... then not a single drop must go to waste.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 5802,
+    "TextENGNew": "I admonished the staff members who were excitedly discussing the dissection for their indiscretion, and returned to my office...",
+    "significantChanges": false
+  }
+]

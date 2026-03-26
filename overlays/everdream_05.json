@@ -1,0 +1,1218 @@
+[
+  {
+    "index": 1,
+    "MessageID": 2127,
+    "TextENGNew": "\"Allow me to introduce you. This is Major Takano.\n...Major, this is Dr. Kyousuke Irie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 2128,
+    "TextENGNew": "\"P-Pleased to meet you. My name is Irie.\"",
+    "significantChanges": true,
+    "changeReason": "Old uses casual 'Hello, I'm Irie' while new uses formal 'Pleased to meet you. My name is Irie,' better reflecting the formal Japanese self-introduction (申します).",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 2129,
+    "TextENGNew": "Irie, meeting me for the first time, was visibly nervous.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 2130,
+    "TextENGNew": "He had probably decided I was the puppet master of some shady organization.",
+    "significantChanges": true,
+    "changeReason": "New translates 黒幕 as 'puppet master' (more accurate) vs old's 'in charge,' conveying a more sinister and secretive connotation matching the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 2131,
+    "TextENGNew": "\"Hee hee. There's no need to be so tense.\nPlease—call me Takano.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 2132,
+    "TextENGNew": "\"I'm flattered.\nThank you sincerely for this opportunity.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 恐縮です as 'Thank you' while new correctly renders it as 'I'm flattered,' capturing the humility and deference of the Japanese expression.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 2133,
+    "TextENGNew": "\"Please, have a seat.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 2134,
+    "TextENGNew": "If one were to describe the air about Kyousuke Irie, 'archetypal ordinary citizen' would fit perfectly.",
+    "significantChanges": true,
+    "changeReason": "Old translates 小市民 as 'lower middle class citizen' (specific socioeconomic class) while new uses 'ordinary citizen,' which better matches the Japanese term's meaning of an unremarkable, everyday person.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 2135,
+    "TextENGNew": "One might also say he was exactly the type to be ground down by seniority at the hands of seasoned old men and conveniently discarded when no longer useful.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 2136,
+    "TextENGNew": "In that particular cunning he seemed considerably inferior to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 2137,
+    "TextENGNew": "...That is not to say he lacked ambition.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 2138,
+    "TextENGNew": "Like any young person, he harbored the dream of leaving behind some accomplishment—of carving his name into the future.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'Like me' (not in original Japanese) while new correctly translates ひとりの若者として as 'Like any young person,' removing an inaccurate self-comparison.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 2139,
+    "TextENGNew": "And while he presented this meek face in public, his academic papers were actually rather progressive and aggressive—the gap between the two was striking.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 2140,
+    "TextENGNew": "\"...I have read the materials on Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 2141,
+    "TextENGNew": "\"And what did you make of them?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 2142,
+    "TextENGNew": "\"Well,\n...I found them quite astonishing at every turn.\n...True, the content treads into dark territory in the landscape of contemporary medicine, but it's a mystery that no one in the world has yet unraveled—and I cannot suppress my intellectual excitement.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 2143,
+    "TextENGNew": "Takano gave a quiet smile.",
+    "significantChanges": true,
+    "changeReason": "Old uses first person 'made me chuckle' while new correctly uses third person 'Takano gave a quiet smile,' matching the Japanese narration perspective; also 微笑む means 'smile' not 'chuckle.'",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 2144,
+    "TextENGNew": "His words alone made it abundantly clear that Irie had a profound interest in Hinamizawa Syndrome.",
+    "significantChanges": true,
+    "changeReason": "Old's 'good enough for me' adds a dismissive tone absent from the Japanese, which simply states that his interest was clearly conveyed by his words alone.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 2145,
+    "TextENGNew": "She had been tested and shaped by a great many people over the years.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 2146,
+    "TextENGNew": "And from that, an instinct had been honed.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 2147,
+    "TextENGNew": "...She could tell she would be able to work well with this man.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 2148,
+    "TextENGNew": "If not quite useful, at least never a poison.",
+    "significantChanges": true,
+    "changeReason": "New preserves the Japanese medicine/poison metaphor (薬にならなくとも毒にはならない) while old flattens it to literal 'useful/problems,' losing the literary quality.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 2149,
+    "TextENGNew": "...He was surely the ideal personnel to satisfy both herself and her sponsors.",
+    "significantChanges": true,
+    "changeReason": "Perspective shift from first person ('me and my sponsor', singular) to third person ('herself and her sponsors', plural), and JPN 双方 refers to both parties' interests being satisfied.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 2150,
+    "TextENGNew": "\"I am the one who is surprised.\nThat a man of such learning and experience as yourself, Irie-sensei, should have no position of responsibility to speak of and be left to languish in a corner of a medical department...\nI can only call it a profound loss for the field of medicine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 2151,
+    "TextENGNew": "\"...Ha ha ha.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 2152,
+    "TextENGNew": "Irie laughed vaguely, deflecting.",
+    "significantChanges": true,
+    "changeReason": "Old omits 曖昧に (vaguely) and はぐらかす (deflecting), losing the nuance that Irie was deliberately evading the topic with a noncommittal laugh.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 2153,
+    "TextENGNew": "He probably assumed I didn't know—but I had obtained detailed documents on him,\nand knew full well why someone of rare talent and achievement had been expelled from the public stage.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 2154,
+    "TextENGNew": "He had, it seems, displayed extraordinary talent under a leading authority in neurosurgery, and was expected to have a brilliant future.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 2155,
+    "TextENGNew": "...But he was defeated in an ethical dispute and driven out of the center.",
+    "significantChanges": true,
+    "changeReason": "New captures 論争に破れ as 'defeated in a dispute' (implying he lost the argument), while old merely says 'kicked out due to a controversy,' missing the implication of intellectual defeat.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 2156,
+    "TextENGNew": "Irie's pet theory was that much of humanity's antisocial behavior could be explained as brain disorders.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 2157,
+    "TextENGNew": "He believed there were no innately evil people in this world—only pitiable patients in need of treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 2158,
+    "TextENGNew": "He proposed that people were normal at birth, but through their development—due to psychogenic or exogenous causes, or other such reasons—\nbrain disorders arose, and it was those that made a person wicked.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 2159,
+    "TextENGNew": "In other words, what the wicked needed was not punishment but treatment—and if the disorder that made them wicked could be cured, they could be returned to goodness.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 2160,
+    "TextENGNew": "It was a mode of thinking consistent with the Confucian doctrine of innate human goodness.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 2161,
+    "TextENGNew": "According to that framework, humans are born already possessing a spirit of mutual aid toward their own kind—and only later, through experience, acquire malice.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 2162,
+    "TextENGNew": "...Irie had classified this acquired component as a disorder.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 2163,
+    "TextENGNew": "Thought is generated by the brain.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 2164,
+    "TextENGNew": "And so, when the mind is ill, it is the brain that is ill—and therefore, if the brain is treated, the person can return to goodness.",
+    "significantChanges": true,
+    "changeReason": "Old translates 善人に戻る as 'recover emotionally' while new correctly renders it as 'return to goodness,' preserving the moral dimension of Irie's theory about evil being curable.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 2165,
+    "TextENGNew": "Humans think. And it is because they think that they 'become ill.'",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 2166,
+    "TextENGNew": "It is common knowledge that those who think too much are most susceptible to illness of the mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 2167,
+    "TextENGNew": "When the part responsible for thinking and agonizing grows sick, it manifests as deviance from social behavior.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 2168,
+    "TextENGNew": "Throughout history, humanity has generated countless religions and incantations to heal the wounds of the mind.",
+    "significantChanges": true,
+    "changeReason": "Old translates まじない as 'magic tricks' (suggesting deception) while new correctly renders it as 'incantations,' which matches the Japanese meaning of charms/spiritual practices.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 2169,
+    "TextENGNew": "It should not need explaining how revolutionary, and how tremendously useful, it would be if such things could be resolved by surgical means.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 2170,
+    "TextENGNew": "And yet, as a matter of course, physical intervention in the brain had not infrequently caused irreversible, profound changes in the patient.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 2171,
+    "TextENGNew": "A baseless sense of happiness born of ceasing to agonize.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 2172,
+    "TextENGNew": "A change in personality.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 2173,
+    "TextENGNew": "A loss of interest in all things.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 2174,
+    "TextENGNew": "Emotional regulation breaking down entirely, producing mood swings so extreme as to be incomprehensible to those around them.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 2175,
+    "TextENGNew": "Sometimes, even the loss of a portion of memory.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 2176,
+    "TextENGNew": "...And of course, death was far from rare.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 2177,
+    "TextENGNew": "Yet a faction of advocates had continued performing the surgery, gathering clinical data.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 2178,
+    "TextENGNew": "They had persisted in activities meant to make the world recognize its efficacy again.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 2179,
+    "TextENGNew": "Irie belonged to this faction—its young vanguard.",
+    "significantChanges": true,
+    "changeReason": "Old inaccurately describes Irie as 'the leading person in the field of psychosurgery' while new correctly translates that he 'belonged to this faction—its young vanguard' (その一派に属し、若き急先鋒), a more specific and accurate characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 2180,
+    "TextENGNew": "He had continued to advocate the effectiveness and achievements of brain surgery.",
+    "significantChanges": true,
+    "changeReason": "Old omits 脳手術 (brain surgery), making it unclear what he was advocating, while new explicitly names 'brain surgery' as the subject.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 2181,
+    "TextENGNew": "...For this, he was held accountable as the perpetrator of inhumane acts, and driven from the public stage.",
+    "significantChanges": true,
+    "changeReason": "Old says 'war criminal' but Japanese 非人道的行為の当事者 means 'perpetrator of inhumane acts'; new is more accurate though the overall meaning is similar.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 2182,
+    "TextENGNew": "But being driven out did not mean his convictions could simply be reversed.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 2183,
+    "TextENGNew": "To Irie, the root of humanity's wrongdoing lay in the brain—and the secret that needed treatment was hidden there—this belief had not changed in the slightest.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 2184,
+    "TextENGNew": "And for Irie, the existence of Hinamizawa Syndrome—parasites within the brain that interfered with it and controlled emotion—was something that vindicated his own theory...",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 2185,
+    "TextENGNew": "\"If someone like me would suffice,\n...I would very much like to accept this offer.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 2186,
+    "TextENGNew": "Of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 2187,
+    "TextENGNew": "Given Irie's history, there was no reason he would refuse.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 2188,
+    "TextENGNew": "Beneath the mild-mannered exterior he presented to the world, he harbored an ambition befitting his youth.",
+    "significantChanges": true,
+    "changeReason": "Old says 'mighty ambition' while new correctly captures 若さ相応の (befitting his youth), specifying the ambition was age-appropriate rather than extraordinary in scale.",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 2189,
+    "TextENGNew": "There was no way he had never burned with the desire to conduct some grand research that would prove himself to the academic world that had expelled him.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 2190,
+    "TextENGNew": "And now that opportunity had been placed in his hands, with treatment beyond what could be expected...",
+    "significantChanges": true,
+    "changeReason": "Old uses the idiom 'silver platter' (not in Japanese) and first person, while new accurately conveys 破格の待遇で ('with treatment beyond expectation') and uses third person matching the narrative voice.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 2191,
+    "TextENGNew": "\"Thank you very much.\nI was confident you would respond favorably, Irie-sensei.\nFor our part, having an expert such as yourself on board is an enormous blessing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 2192,
+    "TextENGNew": "\"B-But is it really all right for someone like me to be Director...?\nSurely that position should be yours, Takano-san.\nI am merely a physician. Being placed over others...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 2193,
+    "TextENGNew": "\"Please don't worry.\nI will provide you my full support in every respect.\nOur sponsors also prefer the head to be a civilian rather than military.\nBesides—does the title 'Director Irie' not suit you?\nHee hee.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Our sponsor wanted to pick a civilian' while new captures the uniform-vs-suit metaphor (制服ではなく背広) as 'civilian rather than military,' explicitly conveying the contrast present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 2194,
+    "TextENGNew": "\"W-Well, no...!\nBut... ahahahaha...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 2195,
+    "TextENGNew": "Irie laughed to hide his embarrassment—in a way that suggested he was, in truth, not entirely opposed to the idea.",
+    "significantChanges": true,
+    "changeReason": "New includes the nuance from まんざらでもない ('not entirely opposed/displeased') that old completely omits, losing the key detail that Irie secretly liked the title.",
+    "changeScore": 2
+  },
+  {
+    "index": 70,
+    "MessageID": 2196,
+    "TextENGNew": "\"A research facility is currently under construction in Hinamizawa.\nPublicly, it will be presented as a clinic.\nSince Director Irie has graciously consented, we shall name it the Irie Clinic.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 2197,
+    "TextENGNew": "\"L-Lord of my own castle...\nTh-That's more than I deserve.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 2198,
+    "TextENGNew": "\"Also, your status will be held under the SDF, so you will be registered as a medical officer.\nAs you will be my superior, the rank will be Lieutenant Colonel.\nHow does 'Lieutenant Colonel Irie' sound to you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 2199,
+    "TextENGNew": "\"A-Ahahahaha!\nI'm not a military man.\nI'd really rather decline being called Lieutenant Colonel...\nEven Director is more than I deserve.\nGoodness gracious... ahahaha...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 恐れ多い as 'frightening' while new correctly renders it as 'more than I deserve,' capturing the Japanese meaning of feeling unworthy rather than scared.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 2200,
+    "TextENGNew": "The chance to research an unknown brain parasite—and as cover, the position of Director of a newly established clinic.",
+    "significantChanges": true,
+    "changeReason": "New includes 未知の ('unknown') and uses singular 'parasite' matching the Japanese, while old omits the 'unknown' qualifier and uses plural 'parasites.'",
+    "changeScore": 2
+  },
+  {
+    "index": 75,
+    "MessageID": 2201,
+    "TextENGNew": "Along with staff and a budget to match.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 2202,
+    "TextENGNew": "Backed by the Defense Agency and the Ministry of Health and Welfare, provided with a research facility equipped with the latest instruments.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 2203,
+    "TextENGNew": "...That Irie's voice had gone up with excitement was no more than one could expect.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 2204,
+    "TextENGNew": "Of course, there were risks as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 2205,
+    "TextENGNew": "Being involved in this secret research, Irie would be bound by numerous confidentiality obligations.",
+    "significantChanges": true,
+    "changeReason": "Old says singular 'an obligation' while new correctly translates 数々の守秘義務 as 'numerous confidentiality obligations,' reflecting the multiple layers of secrecy required.",
+    "changeScore": 2
+  },
+  {
+    "index": 80,
+    "MessageID": 2206,
+    "TextENGNew": "And he would be setting foot in a place afflicted with an unknown infectious disease.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'mysterious and bizarre' while new accurately translates 未知の伝染病 as 'unknown infectious disease,' avoiding embellishment not present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 2207,
+    "TextENGNew": "There was absolutely no guarantee that he himself would not contract it.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 2208,
+    "TextENGNew": "But Irie was still too young to hesitate over such things.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 2209,
+    "TextENGNew": "Fully aware of all those risks, Irie signed the oath with the ambition to make his life bloom once more.",
+    "significantChanges": true,
+    "changeReason": "Old says 'contract' while new correctly translates 宣誓書 as 'oath'; also new captures the 花を咲かせよう metaphor ('make his life bloom') vs old's 'have people recognize his talent.'",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 2210,
+    "TextENGNew": "Takano watched him do it, and felt the tension finally dissolving from her body.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 2211,
+    "TextENGNew": "I had believed Irie would almost certainly accept—but I had also allowed for perhaps a ten percent chance of refusal.",
+    "significantChanges": true,
+    "changeReason": "New includes the specific '10 percent chance' (１割くらいの確率) from the Japanese that old omits, replacing it with the vague 'afraid of the chance.'",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 2212,
+    "TextENGNew": "The selection of a Director had proved more difficult than expected, and Irie was the only candidate who suited Takano's needs.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 2213,
+    "TextENGNew": "...So if Irie had declined the directorship, honestly, my situation would have become considerably worse.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 2214,
+    "TextENGNew": "With Irie's acceptance of the position, the research into Hinamizawa Syndrome was at last about to begin.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 2215,
+    "TextENGNew": "The facility—cum-clinic—would be completed the following spring.",
+    "significantChanges": true,
+    "changeReason": "Old's 'research center--or rather, the clinic' implies a correction, while new's 'facility—cum-clinic' correctly translates 兼 (doubling as), showing it serves both purposes simultaneously.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 2216,
+    "TextENGNew": "The finest equipment and personnel from both the Ministry of Health and Welfare and the Defense Agency would be provided, along with a generous budget.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 2217,
+    "TextENGNew": "And at last, proper research would begin in earnest.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 2218,
+    "TextENGNew": "Everything was proceeding smoothly.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 2219,
+    "TextENGNew": "No—smooth was only to be expected.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 2220,
+    "TextENGNew": "How much effort had I poured into ensuring that things would proceed smoothly, right up to this day...",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 2221,
+    "TextENGNew": "\"That's everything.\nCongratulations on your appointment, Director Irie.\nMajor, the oath has been signed.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 宣誓書 as 'contract' while new correctly uses 'oath,' consistent with the formal military context of the signing ceremony.",
+    "changeScore": 2
+  },
+  {
+    "index": 96,
+    "MessageID": 2222,
+    "TextENGNew": "\"Thank you.\nI look forward to working with you going forward,\nDirector Irie.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 2223,
+    "TextENGNew": "\"Likewise, Takano-san.\nLet's get along well.\nI'll give everything I have to this!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 2224,
+    "TextENGNew": "\"Likewise.\nLet us both do our very best.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 2225,
+    "TextENGNew": "The Director position was now filled, and every remaining obstacle had been cleared.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 2226,
+    "TextENGNew": "\"Wa ha ha ha ha!\nWonderful, just wonderful!\nCongratulations, Takano-san—\nOr rather, Major Takano?\nWa ha ha ha ha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 2227,
+    "TextENGNew": "\"All of this was possible only thanks to the support you have all provided.\nTakano Miyo thanks each and every one of you, from the bottom of her heart.\"",
+    "significantChanges": true,
+    "changeReason": "New includes Takano's full name '鷹野三四' and 'from the bottom of her heart' (心より) both present in the Japanese but omitted in the old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 102,
+    "MessageID": 2228,
+    "TextENGNew": "\"Oh, now!\nThe real congratulations for Takano-san will come when the research is concluded successfully.\nYou have only just arrived at the entrance, after all.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates まぁまぁ as 'don't mention it' while new correctly renders it as 'Oh, now!' (an interjection); also 入口 is correctly 'entrance' rather than old's 'starting line.'",
+    "changeScore": 2
+  },
+  {
+    "index": 103,
+    "MessageID": 2229,
+    "TextENGNew": "\"Quite right.\nI am resolved to throw myself into research without even sleeping.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 2230,
+    "TextENGNew": "\"We all look forward to seeing you go beyond what Dr. Takano was unable to accomplish!\nWa ha ha ha!\"",
+    "significantChanges": true,
+    "changeReason": "New captures さらにその先へ ('go beyond') while old only says 'what Dr. Takano couldn't finish,' missing the important element of surpassing the grandfather's work.",
+    "changeScore": 2
+  },
+  {
+    "index": 105,
+    "MessageID": 2231,
+    "TextENGNew": "\"Now, now, Sensei!\nLet us set aside formality for today!\nLet us have a toast to celebrate Takano-san's future and the founding of the Irie Institute!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 2232,
+    "TextENGNew": "\"Allow me to offer a few words before the toast.\nI am Nagata from the Ministry of Health and Welfare.\nI look forward to working with you.\"",
+    "significantChanges": true,
+    "changeReason": "Old reorders the speech, saying 'Hello, everyone...I would like to say a few things before the toast' while new follows the Japanese order where Nagata first announces he'll speak before the toast, then introduces himself.",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 2233,
+    "TextENGNew": "\"Ah, Takano-san—please make full use of him!\nHis institute will be providing backup support to the Irie Institute.\nIf you encounter any technical difficulties, call on him at any time.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 2234,
+    "TextENGNew": "\"Make full use of him—no, no, I must thank you for your support.\nI am Takano.\nPlease do take care of me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 2235,
+    "TextENGNew": "\"Takano-san, allow me to introduce you to these others.\nTomitake-kun and Okonogi-kun, seconded from the SDF.\nThey will provide support from the SDF side.\nPlease exchange greetings.\"",
+    "significantChanges": true,
+    "changeReason": "New correctly translates 出向 as 'seconded' (temporary assignment) while old just says 'from the SDF,' losing the important detail that they are on loan from their original organization.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 2236,
+    "TextENGNew": "\"How do you do. My name is Tomitake.\nI have been entrusted with the role of auditor for this project.\nI look forward to working with you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 2237,
+    "TextENGNew": "The research budget was being drawn from the SDF.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 2238,
+    "TextENGNew": "It was natural that the SDF would attach an overseer to verify that proper research was being conducted.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 2239,
+    "TextENGNew": "...Ordinarily, however, someone in the auditor's position would be my opponent.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 2240,
+    "TextENGNew": "...What did it mean that a person in such a position had been invited to this private gathering?",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 2241,
+    "TextENGNew": "In other words—this auditor was also on my side.",
+    "significantChanges": true,
+    "changeReason": "Old frames it as a question ('Does that mean...?') while new correctly renders it as a declarative realization ('In other words—this auditor was also on my side'), matching the Japanese assertive tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 2242,
+    "TextENGNew": "The thoroughness of the groundwork, wherever I looked, filled me with a fresh appreciation for the strength of having a powerful backer.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 2243,
+    "TextENGNew": "\"I won't be stationed in Hinamizawa directly—\nbut I'll visit periodically to monitor the progress of research and so on.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 2244,
+    "TextENGNew": "\"Oh, that is a shame.\nHinamizawa is a place of wonderful air and beautiful nature.\nPlease come visit us whenever you like—even outside of work.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 2245,
+    "TextENGNew": "\"Ahahahaha...\nThank you.\nI'll take you up on that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 2246,
+    "TextENGNew": "Given that he held the title of auditor, it was advantageous to stay on good terms with this man, Tomitake.",
+    "significantChanges": true,
+    "changeReason": "Old says 'If he really is an auditor' (expressing doubt) while new correctly translates 肩書きがある以上 as 'Given that he held the title' (stating it as fact).",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 2247,
+    "TextENGNew": "For the future, so long as we continued drawing our budget from the SDF, all adjustments to that amount would rest entirely in this man's judgment.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 2248,
+    "TextENGNew": "\"...Okonogi. Pleased to meet you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 2249,
+    "TextENGNew": "\"He is the commanding officer of the Mountain Dogs—one of the unconventional warfare units.\nHe will be stationed in Hinamizawa and provide you direct support, Major.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 2250,
+    "TextENGNew": "\"Am I to think of them as something like bodyguards...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 2251,
+    "TextENGNew": "\"VIP protection and maintaining secrecy are their principal duties.\nThink of them as your own hands and feet—please use them freely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 2252,
+    "TextENGNew": "\"...At your service.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates よろしくお願いします as 'Thank you' while new renders it as 'At your service,' better fitting the military subordinate context of Okonogi's character.",
+    "changeScore": 2
+  },
+  {
+    "index": 127,
+    "MessageID": 2253,
+    "TextENGNew": "If Tomitake struck me as a man without hidden sides for a military man, this Okonogi seemed the exact opposite.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 2254,
+    "TextENGNew": "His stated principal duty was maintaining secrecy—so counterintelligence and information manipulation, espionage-type work, must be his specialty.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 2255,
+    "TextENGNew": "That explained his air perfectly.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 2256,
+    "TextENGNew": "With the SDF funding research into Hinamizawa Syndrome, the military coloring was inevitably dense.",
+    "significantChanges": true,
+    "changeReason": "Old says 'this is considered a military operation' while new correctly translates 軍事色は色濃い as 'military coloring was dense,' conveying a heavy military influence rather than outright classification as military.",
+    "changeScore": 3
+  },
+  {
+    "index": 131,
+    "MessageID": 2257,
+    "TextENGNew": "Which meant this research had to be conducted entirely out of sight, unknown to anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 2258,
+    "TextENGNew": "It was natural that a unit like this would be necessary.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 2259,
+    "TextENGNew": "And having subordinates capable of handling rough work was reassuring regardless.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 2260,
+    "TextENGNew": "This too was a man it would only be to my advantage to get along with.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 2261,
+    "TextENGNew": "\"Now, now, now! Enough introductions—let us move on to the toast!\nCome on, Tomitake-kun, stretch your legs!\nToday, in honor of the Irie Institute's future, let's set rank aside and enjoy ourselves!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 2262,
+    "TextENGNew": "It was rather comical that at a celebration for the founding of the Irie Institute, Irie himself was nowhere to be seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 2263,
+    "TextENGNew": "But that was the role expected of him.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 2264,
+    "TextENGNew": "A scarecrow Director, put in place to satisfy the sponsor's conditions.",
+    "significantChanges": true,
+    "changeReason": "Old translates カカシ as 'puppet' while new correctly renders it as 'scarecrow,' matching the Japanese word and its implication of a figurehead merely standing in place.",
+    "changeScore": 3
+  },
+  {
+    "index": 139,
+    "MessageID": 2265,
+    "TextENGNew": "Of course, I was counting on him to cooperate somewhat as a specialist—but he was ultimately an outsider.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 2266,
+    "TextENGNew": "Today's gathering was meant to be my expression of gratitude to those who had worked so hard for the Institute's founding—\nbut before I knew it, it had transformed into an occasion to honor Takano herself as the greatest contributor.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 2267,
+    "TextENGNew": "Ordinarily I was the one doing the pouring—but today the roles were reversed, and people came one after another to fill my cup.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 2268,
+    "TextENGNew": "The newly introduced parties made deferential overtures to curry my favor,\nwhile those who usually accepted my most respectful bows now spoke to me casually—and praised the steady, patient effort I had accumulated over these years.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 2269,
+    "TextENGNew": "My research had been recognized by every institution concerned, and I was on the verge of spreading my wings wide.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 2270,
+    "TextENGNew": "...Those hoping for returns once the research bore fruit were, of course, taking this opportunity to press their obligations upon me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'curry favor with me' while new correctly translates 恩を着せてくる as 'press their obligations upon me'—meaning they impose debts of gratitude on her, not that they are seeking her approval.",
+    "changeScore": 3
+  },
+  {
+    "index": 145,
+    "MessageID": 2271,
+    "TextENGNew": "Whatever their motives—right now, for me, it was something I was purely grateful for.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 2272,
+    "TextENGNew": "\"Then—I would like to move to a toast wishing for the founding of the Irie Institute and the further prosperity of Takano Miyo-kun.\nSensei! If you would lead us!\"",
+    "significantChanges": true,
+    "changeReason": "Old adds the name 'Arai-sensei' not present in the Japanese (which only says 先生), potentially attributing the toast-leading to a specific character not identified in the source.",
+    "changeScore": 3
+  },
+  {
+    "index": 147,
+    "MessageID": 2273,
+    "TextENGNew": "It felt like a dream.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 2274,
+    "TextENGNew": "I know.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 2275,
+    "TextENGNew": "All that had been accomplished was the completion of the stage on which the dream would be pursued—I must not rest content at this stage.",
+    "significantChanges": true,
+    "changeReason": "New preserves the 舞台作り (stage-building) metaphor and the 'only just completed' nuance from the Japanese, while old reduces it to the generic 'This is just the beginning.'",
+    "changeScore": 2
+  },
+  {
+    "index": 150,
+    "MessageID": 2276,
+    "TextENGNew": "But for today, this one day, it was all right to rejoice, to let myself be submerged in the sake of celebration.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 2277,
+    "TextENGNew": "Takano had never been particularly able to hold her drink.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 2278,
+    "TextENGNew": "But tonight's sake had a richness she had never tasted before, and the more she drank the more buoyant she became—it was a feast unlike any other...",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 2279,
+    "TextENGNew": "Being addressed as 'Major' by Tomitake and the others was pleasant as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 2280,
+    "TextENGNew": "That rank was the equivalent of Major in wartime terms—the same rank as Grandfather.",
+    "significantChanges": true,
+    "changeReason": "New explicitly identifies the wartime rank as 'Major' (少佐) while old only says 'the rank my grandfather had,' losing the specific rank information present in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 155,
+    "MessageID": 2281,
+    "TextENGNew": "...In other words, proof that I had finally climbed to the same place as Grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 2282,
+    "TextENGNew": "From here is where it truly begins.",
+    "significantChanges": true,
+    "changeReason": "JPN 正念場 means 'crucial moment/critical juncture,' implying the hardest part lies ahead; old's 'only the beginning' is weaker than new's 'where it truly begins,' though neither fully captures the gravity of 正念場.",
+    "changeScore": 2
+  },
+  {
+    "index": 157,
+    "MessageID": 2283,
+    "TextENGNew": "From here, I would at last set out for what Grandfather could not reach.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 2284,
+    "TextENGNew": "For Takano, this was the best night of her life...",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 2285,
+    "TextENGNew": "Saying she would step away to freshen her makeup, Takano left her seat.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 2286,
+    "TextENGNew": "My heart was full to overflowing with happiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 2287,
+    "TextENGNew": "Unless I took in a little night air and settled myself,\nI felt as though this happiness might make my chest burst.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 2288,
+    "TextENGNew": "The gathering was being held in a detached building away from the main structure.",
+    "significantChanges": true,
+    "changeReason": "New correctly identifies 離れ as 'a detached building,' a specific Japanese architectural term, while old vaguely says 'a little distance away from the main building.'",
+    "changeScore": 3
+  },
+  {
+    "index": 163,
+    "MessageID": 2289,
+    "TextENGNew": "The powder room was in the main building, so I needed to pass through the covered corridor.",
+    "significantChanges": true,
+    "changeReason": "New correctly translates 渡り廊下 as 'covered corridor' (a connecting walkway between buildings) while old uses 'hallway,' losing the architectural specificity.",
+    "changeScore": 3
+  },
+  {
+    "index": 164,
+    "MessageID": 2290,
+    "TextENGNew": "From the corridor, a beautifully maintained Japanese garden delighted the eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 2291,
+    "TextENGNew": "I had entirely forgotten—today was a rainy day.",
+    "significantChanges": true,
+    "changeReason": "Old omits すっかり忘れていたが ('I had entirely forgotten'), reducing the line to just 'It's raining' and losing the narrative detail of Takano being so caught up in joy she forgot about the weather.",
+    "changeScore": 2
+  },
+  {
+    "index": 166,
+    "MessageID": 2292,
+    "TextENGNew": "Ordinarily rain would make me sigh—but tonight, even that seemed like a blessing bestowed for my sake.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 2293,
+    "TextENGNew": "The cool air, faintly touched by rain, was pleasant against my flushed skin...",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 2294,
+    "TextENGNew": "Walking, I became aware that my steps were less steady than I had assumed.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 2295,
+    "TextENGNew": "...I had grown too pleased with myself and drunk too fast.",
+    "significantChanges": true,
+    "changeReason": "Old says 'drank too much' while new correctly translates 飲み急ぎすぎた as 'drunk too fast,' and captures いい気になって ('grown too pleased with myself') which old omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 170,
+    "MessageID": 2296,
+    "TextENGNew": "Forgetting my own limit was not like me.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 2297,
+    "TextENGNew": "Much as this was a celebration, it would be shameful to make a spectacle of myself—so I decided to stand here, gazing at the rain-soaked garden, until the sake had settled.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 2298,
+    "TextENGNew": "I found a refined chair draped in scarlet cloth nearby and sat down.",
+    "significantChanges": true,
+    "changeReason": "Old translates 緋毛氈 as 'red carpet' (suggesting floor covering) while new correctly renders it as 'scarlet cloth' draped on the chair, a traditional Japanese decorative felt.",
+    "changeScore": 3
+  },
+  {
+    "index": 173,
+    "MessageID": 2299,
+    "TextENGNew": "Until just now, surrounded by the other guests, I had been constantly braced against showing anything unbecoming—\nbut alone like this, that tension dissolved, and I felt as though I could truly relax for the first time.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 2300,
+    "TextENGNew": "Looking up at the sky—the rain was still coming down hard, but somewhere in the distance the sky was somehow brighter.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 2301,
+    "TextENGNew": "...This rain, it seemed, would not go on falling forever.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 2302,
+    "TextENGNew": "...Yes.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'that's normal' not present in the Japanese (…そう simply means '...Yes' or '...Right'), altering the contemplative, understated tone of the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 177,
+    "MessageID": 2303,
+    "TextENGNew": "There is no rain that does not stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 2304,
+    "TextENGNew": "No matter how cold, no matter how fiercely the wind and rain hammer you.",
+    "significantChanges": true,
+    "changeReason": "New includes 風 ('wind') from 風雨 and the violent imagery of 叩き続ける ('keep hammering'), while old reduces it to 'how hard it's raining,' omitting wind and the forceful action.",
+    "changeScore": 2
+  },
+  {
+    "index": 179,
+    "MessageID": 2305,
+    "TextENGNew": "There is no rain in this world that does not stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 2306,
+    "TextENGNew": "Glancing over, I noticed a pair of sandals and an umbrella left nearby.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 2307,
+    "TextENGNew": "...As if inviting me.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 2308,
+    "TextENGNew": "Takano stepped out into the garden.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 2309,
+    "TextENGNew": "The somewhat unseemly laughter drifting from the gathering seemed to recede a little.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 2310,
+    "TextENGNew": "I tilted the umbrella slightly and looked up at the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 2311,
+    "TextENGNew": "Raindrops struck my face without mercy.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 2312,
+    "TextENGNew": "And for a while, Takano kept her face turned upward toward the sky—forgetting all about getting her hair wet...",
+    "significantChanges": false
+  }
+]

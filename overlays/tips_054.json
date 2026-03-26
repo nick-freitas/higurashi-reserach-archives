@@ -1,0 +1,143 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Lunch Delivery List 3",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Lunch Takeout List 3\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15433,
+    "TextENGNew": "The danger inherent in learned delusions lies in the short-circuit misinterpretation of facts.",
+    "significantChanges": true,
+    "changeReason": "Old uses incorrect clinical terminology ('culture-bound syndrome', 'delusional misidentification syndrome'); new correctly translates 学習型の妄想 as 'learned delusions.'",
+    "changeScore": 4
+  },
+  {
+    "index": 2,
+    "MessageID": 15434,
+    "TextENGNew": "In the present case, that is to say, every time the patient observes something trivial, she attempts to interpret it as a manifestation of the \"curse.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15435,
+    "TextENGNew": "Furthermore, the subject exhibits a slight but observable tendency to favor self-righteous words and actions.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 4,
+    "MessageID": 15436,
+    "TextENGNew": "Needless to say, this is at an extremely mild level and poses no impediment to ordinary daily life.",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly introduces 'personality disorder'; new correctly translates that the condition is extremely mild.",
+    "changeScore": 5
+  },
+  {
+    "index": 5,
+    "MessageID": 15437,
+    "TextENGNew": "Even healthy individuals frequently engage in fantasy (delusional thinking) in the course of daily life.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 6,
+    "MessageID": 15438,
+    "TextENGNew": "However, because the content is unrealistic, the individual themselves cannot make sense of it, and it is normally disregarded automatically.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 7,
+    "MessageID": 15439,
+    "TextENGNew": "However, there are cases in which such thoughts accumulate despite being incomprehensible.",
+    "significantChanges": true,
+    "changeReason": "Old says thoughts are ignored (opposite meaning); new correctly translates that thoughts accumulate despite being incomprehensible.",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 15440,
+    "TextENGNew": "This is thought to be largely determined by personality, and the subject appears to have a relatively strong tendency toward this pattern of thinking.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 9,
+    "MessageID": 15441,
+    "TextENGNew": "In the subject's case, it appears that these incomprehensible delusions accumulated and, through an interpretive framework developed via lifelong exposure to local lore and learning, became comprehensible by being interpreted as the \"curse.\"",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 10,
+    "MessageID": 15442,
+    "TextENGNew": "A comprehensible delusional system is perceived as comprehensible \"fact,\" causing the individual's convictions to grow ever more entrenched over time.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 11,
+    "MessageID": 15443,
+    "TextENGNew": "The individual themselves is unaware that their behavior is problematic, and since they have made sense of the delusional system through their own interpretation, it is not uncommon for them to be highly fortified with elaborate reasoning, making it extremely difficult for a third party to point out that it is a delusion.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 12,
+    "MessageID": 15444,
+    "TextENGNew": "Furthermore, depending on the nature of the delusion, when harmed, the individual may engage in negative anticipation and speculation, ultimately fabricating imaginary enemies and proceeding to antisocial acts.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 13,
+    "MessageID": 15445,
+    "TextENGNew": "Fortunately, the present subject has not reached such a severe state.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 14,
+    "MessageID": 15446,
+    "TextENGNew": "With appropriate treatment, she should be able to reintegrate into society without great difficulty.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 15,
+    "MessageID": 15447,
+    "TextENGNew": "For the above reasons, if a return to her home village is planned, I would strongly urge that she continue to receive guidance from a specialized medical institution thereafter.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 16,
+    "MessageID": 15448,
+    "TextENGNew": "My sincerest apologies for the considerable length of this letter.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  },
+  {
+    "index": 17,
+    "MessageID": 15449,
+    "TextENGNew": "Thank you for reading to the end.",
+    "significantChanges": true,
+    "changeReason": "Old is a misaligned translation from a different paragraph; new correctly matches the Japanese source text.",
+    "changeScore": 5
+  }
+]

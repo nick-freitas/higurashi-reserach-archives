@@ -1,0 +1,914 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6950,
+    "TextENGNew": "\"...I'm so sorry!@k@vS20/28/VTK1_tomoe1049. I truly apologize for all the trouble!\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Thank you so much for your patience!' but new says 'I truly apologize for all the trouble!'; different sentiment—thanking patience vs apologizing for trouble.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 6951,
+    "TextENGNew": "Beside me, my sister was bowing over and over—so deeply I worried her back might snap in two.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 6952,
+    "TextENGNew": "...It was a scene I'd witnessed dozens of times before.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 6953,
+    "TextENGNew": "Seeing her like that, I reluctantly followed suit and mumbled \"I'm sorry\" with a sullen expression.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I'm terribly sorry' but new says 'I'm sorry'; also old says 'sulky' while new says 'sullen'. Minor wording.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 6954,
+    "TextENGNew": "\"I swear, this will never happen again!@k@vS20/28/VTK1_tomoe1051. Please... please be lenient this time!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 6955,
+    "TextENGNew": "\"Never again, you say...? This is already the third time for your little sister.@k@vS20/00/VTK1_keisho1002. Even a Buddha only turns the other cheek three times.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Even a saint has only so much patience' but JPN 仏の顔も3度まで means 'even a Buddha only turns the other cheek three times'; new correctly references Buddha.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 6956,
+    "TextENGNew": "\"I'm so sorry... I am truly, truly sorry!@k@vS20/28/VTK1_tomoe1053. It's entirely my fault for failing to supervise her properly!@k@vS20/28/VTK1_tomoe1054. This time... this time, I will personally make sure she reflects on her actions, so please... please!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 6957,
+    "TextENGNew": "Undeterred by the spiteful words of the middle-aged police officer, my sister continued to apologize through her tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 6958,
+    "TextENGNew": "Even so, the officer leaned back with a pompous, greasy-faced scowl, glancing between his paperwork, me, and my sister.",
+    "significantChanges": true,
+    "changeReason": "New adds detail about the officer 'glancing between his paperwork, me, and my sister' (調書と私、そして姉 = report, me, and sister) which old omits the paperwork.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 6959,
+    "TextENGNew": "He was probably enjoying himself, bullying a woman who couldn't talk back.",
+    "significantChanges": true,
+    "changeReason": "Old says 'he was enjoying that my sister couldn't say a word back to him' but new says 'bullying a woman who couldn't talk back'; 'my sister' vs 'a woman'—different framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 6960,
+    "TextENGNew": "...The lowest kind of man.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The worst kind of asshole' but new says 'The lowest kind of man'; different register.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 6961,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 6962,
+    "TextENGNew": "Of course... I didn't need anyone to tell me who the real worst person in the room was.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 6963,
+    "TextENGNew": "So I kept my head down, struggling to contain my boiling fury, doing everything I could to maintain a meek facade.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I struggled to keep the resentment from showing on my face' but new says 'I kept my head down, struggling to contain my boiling fury'; new adds 'head down' and 'boiling fury' which are more vivid but old captures 'resentment' more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 6964,
+    "TextENGNew": "(Still... all I did was ride on the back of a motorcycle.@k@vS20/29/VTK1_madoka1003. Why do they have to make such a huge deal out of it?)",
+    "significantChanges": true,
+    "changeReason": "Old says 'Another lecture?' but new says 'Why do they have to make such a huge deal out of it?'; completely different second sentence.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 6965,
+    "TextENGNew": "I'd skipped out of school because the classes were mind-numbingly boring, and on my way home I ran into some older friends—who happened to be in a motorcycle gang now—and they gave me a ride. That was all.",
+    "significantChanges": true,
+    "changeReason": "New adds 'mind-numbingly' before boring for つまらなくて, and specifies 'who happened to be in a motorcycle gang now' with explanatory parenthetical.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 6966,
+    "TextENGNew": "I wasn't planning to go joyriding with them or hit the town. Being treated like a delinquent for that was completely out of line.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 6967,
+    "TextENGNew": "(All they care about is writing up citations and padding their numbers.@k@vS20/29/VTK1_madoka1005. Is picking on people who can't fight back really that fun?)",
+    "significantChanges": true,
+    "changeReason": "Old says 'They're only thinking about earning points by giving out tickets' but new says 'All they care about is writing up citations and padding their numbers'; similar meaning but 'padding their numbers' is more idiomatic.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 6968,
+    "TextENGNew": "\"Also... where are your parents?@k@vS20/00/VTK1_keisho1004. Letting your kid run around like this—talk about irresponsible... what a fine upbringing.@k@vS20/00/VTK1_keisho1005. Have you contacted them?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'It's so irresponsible of them to let you play around like this... True paragons of morality, they are' but new says 'Letting your kid run around like this—talk about irresponsible... what a fine upbringing'; 'paragons of morality' vs 'fine upbringing' is sarcasm but different target.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 6969,
+    "TextENGNew": "\"Actually... at home it's just me and our grandmother...\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'we live with just our grandmother' but new says 'at home it's just me and our grandmother'; old implies both sisters live with grandma, new emphasizes just 'me' which could suggest different living arrangements.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 6970,
+    "TextENGNew": "\"Huh? Neither parent is around?@k@vS20/00/VTK1_keisho1007. No parents to speak of, so the kids get to run wild.@k@vS20/00/VTK1_keisho1008. ...What a disgraceful family.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Children without parents are more likely to turn to delinquency' but new says 'No parents to speak of, so the kids get to run wild'; different phrasing of the prejudice.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 6971,
+    "TextENGNew": "\"...What did you just say?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 6972,
+    "TextENGNew": "\"Now, now... I think that's enough.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 6973,
+    "TextENGNew": "Incensed by his outrageous words, I was about to lunge forward when... a female officer nearby walked over and whispered something in the middle-aged man's ear.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I leaned forward to say something' but new says 'I was about to lunge forward'; 'leaned forward to say something' vs 'lunge forward'—physical action differs.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 6974,
+    "TextENGNew": "His face openly soured when he heard it... but after she whispered a second time, his expression shifted to something closer to surprise.",
+    "significantChanges": true,
+    "changeReason": "Old says 'faintly dissatisfied look floated to his face' but new says 'His face openly soured'; 'faintly' vs 'openly'—JPN あからさまに means 'openly/blatantly'.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 6975,
+    "TextENGNew": "\"...Is that true?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 6976,
+    "TextENGNew": "\"Yes, absolutely.@k@vS20/00/VTK1_keikaC1003. I checked with the personnel affairs department just now.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'just now' for さっき, clarifying the timing of the inquiry.",
+    "changeScore": 1
+  },
+  {
+    "index": 28,
+    "MessageID": 6977,
+    "TextENGNew": "\"...@k@vS20/00/VTK1_keisho1011.Anyway, watch yourselves.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 6978,
+    "TextENGNew": "The officer spat out a curt parting shot with an indescribable expression, then walked away.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 6979,
+    "TextENGNew": "The female officer who took over was far more understanding... and prefacing it with \"just this once,\" she tore up the half-written report.",
+    "significantChanges": true,
+    "changeReason": "Old says 'someone who understood the situation...tearing up the incident report and tossing it away' but new says 'far more understanding...tore up the half-written report'; new adds 'half-written' (書きかけていた) detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 31,
+    "MessageID": 6980,
+    "TextENGNew": "\"...Delinquency or not, it doesn't seem like you were actually involved with any gang.@k@vS20/00/VTK1_keikaC1005. We won't notify the school about today. Let's keep this between us.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 6981,
+    "TextENGNew": "\"Oh, thank you so much!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 6982,
+    "TextENGNew": "My sister bowed deeply and expressed her gratitude, her face bright with relief.",
+    "significantChanges": true,
+    "changeReason": "New adds 'her face bright with relief' not explicitly in old.",
+    "changeScore": 2
+  },
+  {
+    "index": 34,
+    "MessageID": 6983,
+    "TextENGNew": "But... I, on the other hand, couldn't feel grateful for the kindness at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 6984,
+    "TextENGNew": "(It doesn't matter to me... even if the school found out.)",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 6985,
+    "TextENGNew": "During compulsory education, you can't be expelled no matter how badly you behave.",
+    "significantChanges": true,
+    "changeReason": "Old says 'they won't throw you out of school' but new says 'you can't be expelled'; JPN 放逐する = expel, passive vs active framing.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 6986,
+    "TextENGNew": "And unless you're trying for a public high school, your school record doesn't make much difference.",
+    "significantChanges": true,
+    "changeReason": "Old says 'public university' but JPN 公立進学 means 'public high school.' Wrong educational level in context of school records discussion.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 6987,
+    "TextENGNew": "So I really didn't care what teachers or classmates thought of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 6988,
+    "TextENGNew": "(Classmates... right.)",
+    "significantChanges": true,
+    "changeReason": "Old says 'Classmates... huh?' while new says 'Classmates... right.'; 'huh' vs 'right'—different tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 40,
+    "MessageID": 6989,
+    "TextENGNew": "I scoffed inwardly, keeping it hidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 6990,
+    "TextENGNew": "I had missed an entire year of school, so all my classmates were a year younger.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 6991,
+    "TextENGNew": "Because of that, nobody in my class knew how to deal with me, and they rarely ever spoke to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 6992,
+    "TextENGNew": "On top of that, my behavior had become a topic of gossip.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 6993,
+    "TextENGNew": "In their eyes, I probably looked like the stereotypical delinquent girl from a manga or TV drama.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 6994,
+    "TextENGNew": "My homeroom teacher also seemed more concerned with keeping class harmony, and ignored me entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 6995,
+    "TextENGNew": "...What was there to enjoy about that kind of school life?",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6996,
+    "TextENGNew": "(...@k@vS20/29/VTK1_madoka1010.Even so.)",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 6997,
+    "TextENGNew": "If there was just one person... yes, only one person I felt sorry for... it was my sister.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 6998,
+    "TextENGNew": "Ever since I left the hospital and went back to school, she had been apologizing to people on my behalf, endlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 6999,
+    "TextENGNew": "Doctors.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 7000,
+    "TextENGNew": "Nurses.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 7001,
+    "TextENGNew": "School teachers, parents of other students.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 7002,
+    "TextENGNew": "And, like today, even the police...",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 7003,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 7004,
+    "TextENGNew": "She always blamed herself for being a burden of a younger sister.",
+    "significantChanges": true,
+    "changeReason": "Old says 'blamed herself for her little sister's struggles' (she caused sister's problems) while JPN 苦労ばかりかける妹 means she blamed herself for being the burdensome sister. Direction of burden is reversed.",
+    "changeScore": 4
+  },
+  {
+    "index": 56,
+    "MessageID": 7005,
+    "TextENGNew": "I knew full well that I should study properly and stop causing trouble for others.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 7006,
+    "TextENGNew": "But... I couldn't.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 7007,
+    "TextENGNew": "It was impossible.",
+    "significantChanges": true,
+    "changeReason": "Old says 'that's impossible' while new says 'I couldn't'; JPN 無理だ could mean either but new is more personal.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 7008,
+    "TextENGNew": "If I stayed still too long... if I didn't keep my mind busy, strange memories would surface and terrible thoughts would overwhelm me.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 7009,
+    "TextENGNew": "Classmates whispering behind my back... with contempt and pity.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 7010,
+    "TextENGNew": "Teachers comparing me unfavorably to my sister at every turn... with disappointment and resignation.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 7011,
+    "TextENGNew": "In reality, maybe none of that was true.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 7012,
+    "TextENGNew": "It might all be the product of my paranoia and self-hatred. Maybe the situation wasn't as dire as I imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 7013,
+    "TextENGNew": "But... I could hear it.",
+    "significantChanges": true,
+    "changeReason": "Old uses present tense 'I can hear it' but new uses past tense 'I could hear it'; tense shift throughout this passage.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 7014,
+    "TextENGNew": "I could feel it.",
+    "significantChanges": true,
+    "changeReason": "Old 'I feel it' vs new 'I could feel it'; same tense shift.",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 7015,
+    "TextENGNew": "The older kid who can't keep up with her studies. A hopeless case.",
+    "significantChanges": true,
+    "changeReason": "Old says 'A no-good person who can't study, even though she's older' but new says 'The older kid who can't keep up with her studies. A hopeless case.'; 'no-good person' vs 'hopeless case'.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 7016,
+    "TextENGNew": "Unlike the brilliant, well-liked elder sister, the younger one is nothing but trouble.",
+    "significantChanges": true,
+    "changeReason": "New adds 'well-liked' (人望もある = popular/has people's trust) which was missing from old translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 68,
+    "MessageID": 7017,
+    "TextENGNew": "I could hear those voices.",
+    "significantChanges": true,
+    "changeReason": "Same tense shift: 'I can hear' vs 'I could hear'.",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 7018,
+    "TextENGNew": "I could feel those stares.",
+    "significantChanges": true,
+    "changeReason": "Same tense shift: 'I can feel' vs 'I could feel'.",
+    "changeScore": 2
+  },
+  {
+    "index": 70,
+    "MessageID": 7019,
+    "TextENGNew": "So... I ended up like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 7020,
+    "TextENGNew": "No matter how much I knew it was wrong, I couldn't stop myself from going astray...",
+    "significantChanges": true,
+    "changeReason": "Old says 'No matter how much I think I'm the problem, I end up losing my way' but new says 'No matter how much I knew it was wrong, I couldn't stop myself from going astray'; more self-aware in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 7021,
+    "TextENGNew": "\"All right, be careful going home today.@k@vS20/00/VTK1_keikaC1007. It's dangerous to be out too late.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 7022,
+    "TextENGNew": "\"Yes... thank you!@k@vS20/28/VTK1_tomoe1058. ...Come on, Madoka.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 7023,
+    "TextENGNew": "\"...Thanks.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 7024,
+    "TextENGNew": "At my sister's urging, I bowed my head deeply as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 7025,
+    "TextENGNew": "And in that awkward silence, we left the police station.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 7026,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 7027,
+    "TextENGNew": "\"...@k@vS20/00/VTK1_keikaC1009.So those were Detective Minai's daughters.@k@vS20/00/VTK1_keikaC1010. Must be tough for them...\"",
+    "significantChanges": true,
+    "changeReason": "Old is just dialogue but new adds a pause before 'So those were Detective Minai's daughters' and the comment, better matching the JPN structure.",
+    "changeScore": 2
+  },
+  {
+    "index": 79,
+    "MessageID": 7028,
+    "TextENGNew": "It was already late at night.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 7029,
+    "TextENGNew": "The streets were filled with salarymen heading home and young couples.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Office workers on their way home and young couples were crossing the road' but new says 'The streets were filled with salarymen heading home and young couples'; 'crossing the road' vs 'filled the streets'.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 7030,
+    "TextENGNew": "...There was hardly another student in uniform to be seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 7031,
+    "TextENGNew": "\"Hey, Madoka...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 7032,
+    "TextENGNew": "\"...What?@k@vS20/29/VTK1_madoka1014. Another lecture?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 7033,
+    "TextENGNew": "I turned my face away and picked up my pace.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 7034,
+    "TextENGNew": "Still, my sister caught up to me in no time and leaned in, trying to get me to listen.",
+    "significantChanges": true,
+    "changeReason": "Old says 'looked at me like she wanted to say something' but new says 'leaned in, trying to get me to listen'; JPN 言って聞かせるように覗き込んできた means 'peered in as if trying to talk sense into me'; new is closer.",
+    "changeScore": 3
+  },
+  {
+    "index": 86,
+    "MessageID": 7035,
+    "TextENGNew": "...This was probably the difference between an athlete and a bookworm.",
+    "significantChanges": true,
+    "changeReason": "Old says 'our athletic and cultural differences' but JPN 体育会系と文化系 means 'athlete-type vs culture-type (bookworm)'; new correctly says 'an athlete and a bookworm'.",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 7036,
+    "TextENGNew": "Even if I tried to run, there was no way I could outpace my sister.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 7037,
+    "TextENGNew": "And if it came to an actual fight, I'd probably lose.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 7038,
+    "TextENGNew": "...That inferiority complex only made me feel more wretched... and kept me from being honest with her.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I started to feel an extraordinary inferiority complex' but new says 'That inferiority complex only made me feel more wretched'; JPN その劣等感が余計に情けなくて suggests the complex made her feel pathetic, new is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 7039,
+    "TextENGNew": "\"...Is school not working out for you?@k@vS20/28/VTK1_tomoe1061. If so, would you like to transfer somewhere else?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 7040,
+    "TextENGNew": "\"Forget it.@k@vS20/29/VTK1_madoka1016. ...We don't have the money to move.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 7041,
+    "TextENGNew": "\"You wouldn't have to move. There are options just a little farther away.@k@vS20/28/VTK1_tomoe1063. Nobody there would gossip about you, and besides...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 7042,
+    "TextENGNew": "\"I'm not interested in wasting time on a longer commute.@k@vS20/29/VTK1_madoka1018. And it's none of your business.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 7043,
+    "TextENGNew": "I fired back in a deliberately hostile tone, not meeting my sister's eyes as she walked beside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 7044,
+    "TextENGNew": "...If I transferred somewhere farther away, the only option would be a private school.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 7045,
+    "TextENGNew": "Tuition would be an even bigger burden than it already was.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 7046,
+    "TextENGNew": "My sister would never say it, but I knew our household finances were stretched painfully thin.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 7047,
+    "TextENGNew": "...The excuse about the commute was just a convenient cover.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 7048,
+    "TextENGNew": "\"What on earth happened to you?@k@vS20/28/VTK1_tomoe1065. You used to be a much better student than me—you always got better grades.@k@vS20/28/VTK1_tomoe1066. You can do this, so have some confidence—\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'You always used to get way better grades than me' but new says 'You used to be a much better student than me—you always got better grades'; new separates 'better student' from 'better grades' with more nuance.",
+    "changeScore": 2
+  },
+  {
+    "index": 100,
+    "MessageID": 7049,
+    "TextENGNew": "\"...Sorry to disappoint you, but this is just who I am.@k@vS20/29/VTK1_madoka1020. I hate studying, and I absolutely hate school.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 7050,
+    "TextENGNew": "\"...So just leave me alone.@k@|@y@vS20/29/VTK1_madoka1022. Honestly, it's suffocating having everyone pile their expectations on me.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'it's annoying to have these weird expectations thrown at me' but new says 'it's suffocating having everyone pile their expectations on me'; 'annoying' vs 'suffocating' is stronger emotion in new.",
+    "changeScore": 3
+  },
+  {
+    "index": 102,
+    "MessageID": 7051,
+    "TextENGNew": "\"Madoka...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 7052,
+    "TextENGNew": "...Stop it.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 7053,
+    "TextENGNew": "Don't look at me with those sad eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 7054,
+    "TextENGNew": "I know.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 7055,
+    "TextENGNew": "I know how much you care about me, and how much kindness and effort you pour into looking after me...",
+    "significantChanges": true,
+    "changeReason": "Old says 'how much you care about me and how kind you've been to me' but new says 'how much you care about me, and how much kindness and effort you pour into looking after me'; new adds 精いっぱい (with all one's might/effort).",
+    "changeScore": 2
+  },
+  {
+    "index": 107,
+    "MessageID": 7056,
+    "TextENGNew": "But...",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 7057,
+    "TextENGNew": "It's already... too painful.",
+    "significantChanges": true,
+    "changeReason": "Old says 'it's already... painful' but new says 'It's already... too painful'; new adds 'too'.",
+    "changeScore": 2
+  },
+  {
+    "index": 109,
+    "MessageID": 7058,
+    "TextENGNew": "It's agonizing.",
+    "significantChanges": true,
+    "changeReason": "Old says 'It's strenuous' but new says 'It's agonizing'; JPN 苦しい means 'painful/agonizing', not 'strenuous'.",
+    "changeScore": 3
+  },
+  {
+    "index": 110,
+    "MessageID": 7059,
+    "TextENGNew": "The kinder you are, the more worthless and hopeless I feel by comparison.@k It's mortifying. It's humiliating...",
+    "significantChanges": true,
+    "changeReason": "Old says 'the more I feel like an awful, annoying piece of shit. It's mortifying. It's shameful' but new says 'the more worthless and hopeless I feel by comparison. It's mortifying. It's humiliating'; 'piece of shit' vs 'worthless and hopeless'—different register.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 7060,
+    "TextENGNew": "(Why did I have to get this disease...?!)",
+    "significantChanges": true,
+    "changeReason": "Old says 'Why am I this sick?' but new says 'Why did I have to get this disease?'; 'sick' vs 'disease' and question structure differs.",
+    "changeScore": 2
+  },
+  {
+    "index": 112,
+    "MessageID": 7061,
+    "TextENGNew": "Frustration and guilt swelled up inside me, and I nearly burst into tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 7062,
+    "TextENGNew": "I had been suffering from psychological trauma ever since the fire at our home.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I've been traumatized ever since the fire at my house' but new says 'I had been suffering from psychological trauma'; 'traumatized' vs 'psychological trauma'—more clinical in new.",
+    "changeScore": 2
+  },
+  {
+    "index": 114,
+    "MessageID": 7063,
+    "TextENGNew": "After a year of hospitalization, I was finally discharged... but I was still far from fully recovered.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Even after a year in the hospital... I'm still far from completely cured' but new says 'After a year of hospitalization, I was finally discharged... but I was still far from fully recovered'; new adds discharge detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 115,
+    "MessageID": 7064,
+    "TextENGNew": "Because of me, my sister had quit her beloved track team... to take care of me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'my sister quit her beloved track team... to spend more time taking care of me' but new says 'my sister had quit her beloved track team... to take care of me'; old adds 'spend more time' not in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 116,
+    "MessageID": 7065,
+    "TextENGNew": "I heard she even turned down a college athletic scholarship.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 7066,
+    "TextENGNew": "If she had wanted to, she could have been living in a beautiful dormitory, free from worries about tuition or food—even receiving pocket money under the guise of athletic development funds.",
+    "significantChanges": true,
+    "changeReason": "Old says 'it would even get her some pocket money to cover other expenses' but new says 'even receiving pocket money under the guise of athletic development funds'; JPN 強化費の名目で = 'under the name of development funds'.",
+    "changeScore": 2
+  },
+  {
+    "index": 118,
+    "MessageID": 7067,
+    "TextENGNew": "That happy future... my sister had turned it down.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 7068,
+    "TextENGNew": "And rather than taking her frustration out on me, she acted as if it simply \"never happened.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 7069,
+    "TextENGNew": "It was... infuriating, agonizing, and overwhelmingly guilt-inducing...",
+    "significantChanges": true,
+    "changeReason": "Old says 'exasperating, unpleasant, and regrettable' but new says 'infuriating, agonizing, and overwhelmingly guilt-inducing'; JPN 腹立たしくて、不愉快で、申し訳なくて—new captures 申し訳なく as 'guilt-inducing' rather than 'regrettable'.",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 7070,
+    "TextENGNew": "And worst of all, I couldn't help but hate myself for harboring these toxic feelings toward a sister who had been nothing but kind to me...",
+    "significantChanges": true,
+    "changeReason": "Old says 'nasty feelings toward my kindhearted older sister' but new says 'toxic feelings toward a sister who had been nothing but kind'; 'nasty' vs 'toxic'.",
+    "changeScore": 2
+  },
+  {
+    "index": 122,
+    "MessageID": 7071,
+    "TextENGNew": "What should I do?",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 7072,
+    "TextENGNew": "What on earth can I do for her...?",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 7073,
+    "TextENGNew": "\"...@k@|@y@vS20/29/VTK1_madoka1025.Ah...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 7074,
+    "TextENGNew": "Then, when I happened to look up at the sky,",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 7075,
+    "TextENGNew": "...with the twinkle of the stars, I remembered the postcard that had arrived the other day.",
+    "significantChanges": true,
+    "changeReason": "Old says 'With the blink of a star' but new says 'with the twinkle of the stars'; JPN 星の瞬き = 'twinkling of stars'—'blink' vs 'twinkle'.",
+    "changeScore": 1
+  },
+  {
+    "index": 127,
+    "MessageID": 7076,
+    "TextENGNew": "It was from... an older ex-boyfriend I'd once dated.",
+    "significantChanges": true,
+    "changeReason": "Old says 'an older ex-boyfriend' but new says 'an older ex-boyfriend I'd once dated'; new adds the dating detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 128,
+    "MessageID": 7077,
+    "TextENGNew": "He had led a pop music band in the school's light music club and moved to Tokyo after graduation. Now he was living and working at a bar called \"Star.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'leading a pop music band, and he moved to Tokyo after graduation, working at a bar called Star near where he lived' but new says 'He had led a pop music band in the school's light music club and moved to Tokyo after graduation. Now he was living and working at a bar called Star'; new adds 'school's light music club' (軽音楽部).",
+    "changeScore": 2
+  },
+  {
+    "index": 129,
+    "MessageID": 7078,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 7079,
+    "TextENGNew": "That's right. There was still that option.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 7080,
+    "TextENGNew": "My sister would be terribly angry and heartbroken... but in the long run, I believed it would make her happier.",
+    "significantChanges": true,
+    "changeReason": "Old says 'my sister will be very sad and upset' but new says 'terribly angry and heartbroken'; JPN ひどく怒って悲しむ = 'terribly angry and sad'—new is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 132,
+    "MessageID": 7081,
+    "TextENGNew": "So... I made up my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 7082,
+    "TextENGNew": "I would leave this town.",
+    "significantChanges": true,
+    "changeReason": "Old uses present tense 'I'm going to leave' but new uses past 'I would leave'; tense shift.",
+    "changeScore": 2
+  },
+  {
+    "index": 134,
+    "MessageID": 7083,
+    "TextENGNew": "I would disappear from my sister's life—",
+    "significantChanges": true,
+    "changeReason": "Old says 'And disappear from my sister's life...' but new says 'I would disappear from my sister's life—'; tense and punctuation differ.",
+    "changeScore": 2
+  }
+]

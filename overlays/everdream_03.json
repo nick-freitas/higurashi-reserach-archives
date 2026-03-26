@@ -1,0 +1,962 @@
+[
+  {
+    "index": 1,
+    "MessageID": 1816,
+    "TextENGNew": "Seen vaguely, it might have looked like a vast golf course and its guest house.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the conditional/hypothetical framing ('seen vaguely') from Japanese 漠然と見たなら, which the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 1817,
+    "TextENGNew": "There were no golfers moving among the greens—but the impression would have been impossible to dismiss.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 1818,
+    "TextENGNew": "It would have been wrong, however.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 1819,
+    "TextENGNew": "Because this was not a golf course. It was an immense lawn garden.",
+    "significantChanges": true,
+    "changeReason": "Original says 'back yard' while new translation says 'lawn garden' (芝生の庭), a more specific and different descriptor.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 1820,
+    "TextENGNew": "And what appeared to be a guest house was, in truth, a most elegant mansion.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 1821,
+    "TextENGNew": "Any ordinary citizen who realized this was a private residence would have been unable to conceal their astonishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 1822,
+    "TextENGNew": "Of course the interior did not fall short of the exterior.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 1823,
+    "TextENGNew": "Sumptuous carpeting.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 1824,
+    "TextENGNew": "The walls adorned with taxidermied animals of many kinds; the shelves arrayed with fine spirits whose prices one would not care to ask.",
+    "significantChanges": true,
+    "changeReason": "Old translates 動物の剥製 (taxidermied animals) as generic 'expensive-looking decorations' — loses specific detail that characterizes the room's atmosphere.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 1825,
+    "TextENGNew": "...It was in such a reception room that Takano found herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 1826,
+    "TextENGNew": "There was a knock, and an elderly man in a wheelchair entered—pushed by a young woman.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 1827,
+    "TextENGNew": "As Takano rose to bow in greeting, the old man forestalled her with a raised right hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 1828,
+    "TextENGNew": "\"No, no, you needn't stand.\nLong time no see~.\nI keep telling you to come visit anytime.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 1829,
+    "TextENGNew": "\"The very invitation is an honor, Koizumi-sensei.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 1830,
+    "TextENGNew": "The old man called Koizumi took his seat on the sofa with the aid of a cane and the young woman's arm.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the cane detail (杖) and names Koizumi, both present in the Japanese but absent from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 1831,
+    "TextENGNew": "Deep lines carved his face; he had aged to the point where he could not sit down unassisted.",
+    "significantChanges": true,
+    "changeReason": "Original generalizes to 'could hardly do anything on his own' while new translation specifies inability to sit, matching the Japanese 腰掛けることもできない.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 1832,
+    "TextENGNew": "...And yet, for all that age, he continued to wield extraordinary influence.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 1833,
+    "TextENGNew": "\"Still lively as ever, I see.\nThere's lipstick on your neck, Sensei. Hee hee...\"",
+    "significantChanges": true,
+    "changeReason": "Original says 'you haven't changed a bit' while new says 'still lively as ever,' reflecting different nuance of お盛ん (sexually vigorous/lively).",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 1834,
+    "TextENGNew": "\"Oh?\nIs that so? Ha ha ha ha.\nGood gracious, how embarrassing~~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 1835,
+    "TextENGNew": "There was no lipstick on the old man's neck.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 1836,
+    "TextENGNew": "The woman who had pushed his wheelchair was rather too beautiful to be a mere caretaker, and her manner was strangely alluring—so Takano had made a bluff.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 1837,
+    "TextENGNew": "And apparently, her guess had been right.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 1838,
+    "TextENGNew": "A man who might well receive death's summons any day now, and yet his taste for amorous pursuits remained quite active.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 1839,
+    "TextENGNew": "At this rate, even the Reaper might throw up his hands and decide not to come for quite some time yet.",
+    "significantChanges": true,
+    "changeReason": "Original says the reaper 'would think that's absurd' while new says the reaper 'might not come for some time,' a different consequence matching もうしばらくは迎えに来そうもなかった.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 1840,
+    "TextENGNew": "\"My, Miyo-chan, when did you grow into such a beauty~?\nI always thought you'd be small forever, and then all of a sudden~~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 1841,
+    "TextENGNew": "\"Oh, you flatter me.\nIf you truly thought so, you wouldn't have tried to pat my backside.\"",
+    "significantChanges": true,
+    "changeReason": "Original has 'Oh, stop' while new has 'Oh, you flatter me' (ご冗談を), carrying a different social register and meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 27,
+    "MessageID": 1842,
+    "TextENGNew": "\"Ha ha ha ha ha!\nLetting an old man with little time left have a little touch doesn't cost you anything, does it~~?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 1843,
+    "TextENGNew": "\"When you've been patting far softer backsides than mine all day, Sensei.\nHee hee hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 1844,
+    "TextENGNew": "Takano and the old man passed a cheerful while in somewhat unrefined conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 1845,
+    "TextENGNew": "It was clear from their manner that theirs was a long acquaintance—one of easy familiarity...",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 1846,
+    "TextENGNew": "After a time, the woman returned to prepare tea.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 1847,
+    "TextENGNew": "When she had finished and withdrawn, and the sound of her footsteps had faded, the old man spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 1848,
+    "TextENGNew": "\"...But really.\nYou have grown into a remarkable young woman, Miyo-chan~.\n...Takano-kun must be very proud of you in the next world~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 1849,
+    "TextENGNew": "\"I hope so.\n...But I cannot hope to stand at the foot of my grandfather's achievements.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 1850,
+    "TextENGNew": "\"Takano-kun was unlucky in so many ways.\nThe era he was born into was not kind to him...\nIf only he had done his research in a different age,\nI'm sure he would have finished it himself, without needing to pass it on to you~...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 1851,
+    "TextENGNew": "\"But it was precisely because of that era that—ironically—my grandfather was able to discover the existence of Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 1852,
+    "TextENGNew": "Takano and the old man spent a while exchanging their respective views on the circumstances of the times in which her grandfather had lived.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 1853,
+    "TextENGNew": "The chime of a cuckoo clock reminded them how far they had wandered from the subject, and the two laughed and turned back to the matter at hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 1854,
+    "TextENGNew": "The old man pointed toward the attaché case resting on the desk—placed there before Takano had been shown into the room.",
+    "significantChanges": true,
+    "changeReason": "Original places the case 'next to Takano' while new translation correctly says 'on the desk' (机上), with added context about timing.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 1855,
+    "TextENGNew": "Takano gave a small nod, opened it, and revealed its contents.",
+    "significantChanges": true,
+    "changeReason": "Original says she 'removed the contents' while new says she 'revealed its contents' (晒した means to expose/reveal, not remove).",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 1856,
+    "TextENGNew": "...Inside was a dense packing of crisp ten-thousand-yen notes.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'ten-thousand-yen notes' (壱万円札) where original just says 'brand new bills.'",
+    "changeScore": 2
+  },
+  {
+    "index": 42,
+    "MessageID": 1857,
+    "TextENGNew": "Just how much money would it take to fill a case this large to the brim?",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 1858,
+    "TextENGNew": "A million-yen bundle of new bills measures exactly one centimeter in thickness—\nif one followed the logic, the sum might well exceed eight figures.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 1859,
+    "TextENGNew": "And the very same case, Takano now saw, had two companions placed alongside it.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 1860,
+    "TextENGNew": "Yet neither Takano nor the old man showed any particular surprise at the staggering contents.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 1861,
+    "TextENGNew": "Takano closed the case and bowed her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 1862,
+    "TextENGNew": "\"Thank you, Sensei.\nI will never forget this kindness.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 1863,
+    "TextENGNew": "``Ha ha ha ha.@k@vS13/00/550300019. Money should be in the hands of young people with long lives ahead of them.@k@vS13/00/550300020. An old man has no business taking it to the next world.@k@vS13/00/550300021. Money speaks for itself, but hard cash speaks louder.@k@vS13/00/550300022. Use it wisely.``",
+    "significantChanges": true,
+    "changeReason": "Original's third line 'I just hope this will be of assistance' loses the Japanese proverb about cash speaking louder (現金はさらに物を言う); new translation preserves this distinct meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 49,
+    "MessageID": 1864,
+    "TextENGNew": "\"Of course.\nI will spend it for one purpose only—to bring my grandfather's dream to life.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 1865,
+    "TextENGNew": "\"I envy Takano-kun.\nWhat a fine grandchild he has.\nI'm sure he's boasting about you up there~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 1866,
+    "TextENGNew": "\"I have done nothing to be boasted of yet.\nI believe I will first deserve my grandfather's praise when I have completed his research.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 1867,
+    "TextENGNew": "\"...I truly am envious.\nMy own sons are hopeless.\nAll they ever think about is making money.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 1868,
+    "TextENGNew": "\"...The real question is what you do with money after you've made it.\nWhat you can contribute to the nation with what you've earned—that is what matters.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 1869,
+    "TextENGNew": "\"That is how one repays one's debt to the country that raised them, you see...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 1870,
+    "TextENGNew": "\"Oh? And is lavishing all those 'companions' of yours so generously—is that also repaying the country?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 1871,
+    "TextENGNew": "\"Of course it is.\nThey spend it when they shop, and the money flows back to the country.\nMoney circulates, you see.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 1872,
+    "TextENGNew": "Though those generously treated companions would in all likelihood spend their largesse on foreign luxury brands.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 1873,
+    "TextENGNew": "...Whether it went quite as the old man imagined was doubtful.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 1874,
+    "TextENGNew": "Takano chuckled—that included.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 1875,
+    "TextENGNew": "\"But the money I scatter among those women and the money I entrust to you are something else entirely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 1876,
+    "TextENGNew": "\"Yes. I know that very well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 1877,
+    "TextENGNew": "\"You have worked hard to get here.\nYou have been courteous and secured the trust and support of many.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 1878,
+    "TextENGNew": "\"Now I can tell you—Haruyama-kun and Mochizuki-kun were both skeptical of you at first on account of your age. Ha ha ha ha.\nBut that is precisely why I am acknowledging your effort, and why I am entrusting this to you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 1879,
+    "TextENGNew": "\"Yes.\"",
+    "significantChanges": true,
+    "changeReason": "Original translates はい as 'I understand' while new uses literal 'Yes' — different implied level of commitment.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 1880,
+    "TextENGNew": "\"...And furthermore.\nFor me to entrust you with this money—\nmeans that I formally recognize you as the rightful successor to Takano-kun's research.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 1881,
+    "TextENGNew": "\"Thank you deeply.\nThat you would place such trust in someone as inexperienced as myself—I am profoundly grateful.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 1882,
+    "TextENGNew": "\"Not at all! This research belongs to Takano-kun—and to you.\nHe would not have wanted anyone else to carry it on~\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 1883,
+    "TextENGNew": "\"And so, thanks to your having risen this far, I found it all the easier to persuade the other old men.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 1884,
+    "TextENGNew": "\"...Completing the research my grandfather could not finish is the one and only way I can repay him.\nFor that, no effort demanded of me is too great.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 1885,
+    "TextENGNew": "Takano smiled—just faintly self-deprecating—as though recalling all the hardships she had piled up along the way.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 1886,
+    "TextENGNew": "It went without saying: in the eyes of these old men before her, Takano was a grandchild's generation—perhaps younger still.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 1887,
+    "TextENGNew": "How much difficulty had Takano faced in earning the trust of people separated from her by so many decades?",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 1888,
+    "TextENGNew": "It would be difficult to explain to anyone who could not even imagine it...",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 1889,
+    "TextENGNew": "And Takano had won.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 1890,
+    "TextENGNew": "She had gathered allies, repelled enemies, built support, and forced recognition of her existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 1891,
+    "TextENGNew": "Over long years she had constructed her credibility, and risen to the standing where these elders would welcome her company.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 1892,
+    "TextENGNew": "And for that very reason, today's meeting was the culmination of all those years of unsparing effort.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 1893,
+    "TextENGNew": "She had now formally obtained the backing of a powerful faction, and was on the verge of spreading her wings—to bring to completion the research her grandfather had left unfinished...",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 1894,
+    "TextENGNew": "\"Well then. ...Now that the matter of formally succeeding Takano-kun's research is settled.\n...There is something I must tell you, Miyo-chan.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 1895,
+    "TextENGNew": "\"Of course. Please go on.\"",
+    "significantChanges": true,
+    "changeReason": "Original 'What is it? I'm listening' vs new 'Of course. Please go on' — different social register and implied attitude.",
+    "changeScore": 2
+  },
+  {
+    "index": 81,
+    "MessageID": 1896,
+    "TextENGNew": "The old man paused, drew an expensive cigarette from the box on the table.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 1897,
+    "TextENGNew": "Takano lit it for him with practiced ease.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 1898,
+    "TextENGNew": "She had no taste for smoking herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 1899,
+    "TextENGNew": "...But knowing the old man indulged, she always kept a lighter about her person.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 1900,
+    "TextENGNew": "Such small gestures, accumulated one upon another, had built the trust she held today...",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 1901,
+    "TextENGNew": "\"At the time, Takano-kun had been dispatched overseas as a medical officer in the military, and was conducting research at a local disease prevention laboratory on preventive measures for various infectious diseases.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 1902,
+    "TextENGNew": "\"In the midst of this, he happened to learn that several incidents of derangement had all been caused by soldiers from the same hometown.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 1903,
+    "TextENGNew": "\"Takano-kun hypothesized that these were symptoms peculiar to those from Hinamizawa and began researching it privately.\n...He arranged for soldiers originally from Hinamizawa to be assigned to his laboratory, and conducted various investigations.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 1904,
+    "TextENGNew": "\"There he learned of Hinamizawa's singular faith in Oyashiro-sama, and became convinced of the existence of an unknown disease with extraordinary properties.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 1905,
+    "TextENGNew": "\"Yes. My grandfather believed his research would be of value to the military,\nand requested a budget—only to be laughed off, or so I've heard.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 1906,
+    "TextENGNew": "As a researcher, her grandfather had been passionate and brilliantly capable—but in his entire life, he possessed absolutely no political acumen for advocating his work or making others understand it.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 1907,
+    "TextENGNew": "Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 1908,
+    "TextENGNew": "...Or rather: the possible existence of something that could infiltrate the human brain and manipulate its emotions.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 1909,
+    "TextENGNew": "...Despite the remarkable achievement of being the first to perceive a mystery that no one had ever unraveled,",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 1910,
+    "TextENGNew": "her grandfather ultimately failed to make anyone else believe in that achievement, and died in solitude—without ever finding a patron, without ever receiving the recognition his work deserved...",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 1911,
+    "TextENGNew": "Individual research has its limits.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 1912,
+    "TextENGNew": "Personnel. Funding. Support.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 1913,
+    "TextENGNew": "Only when all of these are in place can something truly be accomplished.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 1914,
+    "TextENGNew": "I had seen that as where my grandfather had failed, and that is why I had spent all these years taking care not to neglect those very things...",
+    "significantChanges": true,
+    "changeReason": "Original uses third person 'Takano had noticed' while new uses first person 'I had seen' — different narrative perspective matching Japanese 私は.",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 1915,
+    "TextENGNew": "\"...The upper echelons at the time were expecting a treatment of immediate efficacy and broad applicability.@k@vS13/00/550300054. While Takano-kun's research was exceedingly interesting,@k@vS13/00/550300055. it was not what the military of that day was looking for...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 治療薬 (treatment/medicine) as 'weapon' — reverses the meaning in a plot-critical context about what the military expected from the research.",
+    "changeScore": 4
+  },
+  {
+    "index": 101,
+    "MessageID": 1916,
+    "TextENGNew": "\"But I've heard that you were the one person who showed understanding toward my grandfather's work, Sensei.\nIn his writings, my grandfather spoke of you as his dearest friend.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 1917,
+    "TextENGNew": "\"Takano-kun and I came from the same region.\nTo encounter a man who knew the same soba shops, on a distant battlefield—it was nothing short of miraculous~\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'soba shops' detail (同じ蕎麦屋を知る) from the Japanese that was omitted in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 103,
+    "MessageID": 1918,
+    "TextENGNew": "\"There was a difference in our ages, but we were bound by a firm friendship.\nSo he confided in me often.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 1919,
+    "TextENGNew": "\"He told me many times that it would prove an epoch-making study, and consulted me again and again about laying the groundwork so funding might be secured for proper research.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 1920,
+    "TextENGNew": "\"My grandfather's writings mention that you went to great lengths to approach various parties on his behalf.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 1921,
+    "TextENGNew": "\"...In the end, his research was never recognized—\nbut I believe that having you as his sole supporter must have been a great comfort to him in his lifetime.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 1922,
+    "TextENGNew": "\"But in the end, I was never able to be of any real help to him.\n...That is why I want to offer you the support I failed to give Takano-kun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 1923,
+    "TextENGNew": "\"Supporting you, Miyo-chan, is my penance toward him...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 1924,
+    "TextENGNew": "\"...Thank you.\nMy grandfather was blessed with a very good friend.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 1925,
+    "TextENGNew": "\"...If only there had been even a few others in the military hierarchy who showed the understanding you showed, Sensei.\nWhen I think how different my grandfather's life might have been—I cannot help but feel bitter...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 1926,
+    "TextENGNew": "At that, the old man closed his eyes and seemed to fall briefly into thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 1927,
+    "TextENGNew": "...Then, with a gaze turned slightly toward some distant point, he spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 1928,
+    "TextENGNew": "\"...The truth of the matter is different.\nThe upper echelons were not indifferent to Takano-kun's discovery at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 1929,
+    "TextENGNew": "\"...What? I had no idea.\nThen why didn't they approve his research...?\"",
+    "significantChanges": true,
+    "changeReason": "Original says 'Then why didn't they support his research?' while new says 'Then why didn't they approve his research?' — support vs approve is a different implication.",
+    "changeScore": 2
+  },
+  {
+    "index": 115,
+    "MessageID": 1930,
+    "TextENGNew": "\"Something arose that made it inconvenient for them to have Takano-kun pursue the Hinamizawa Syndrome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 1931,
+    "TextENGNew": "\"Only a handful of senior officers and myself knew the reason.\nNow that all but myself have passed on—...I feel I should tell you, as the one who carries on his work.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 1932,
+    "TextENGNew": "\"...What was it. ...What arose?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 1933,
+    "TextENGNew": "Until today, Takano had believed that no one had ever taken any interest in her grandfather's research—that it had been ignored because everyone considered it foolish.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 1934,
+    "TextENGNew": "Her grandfather, wanting to uncover the secret of Hinamizawa Syndrome during the war, had applied to his organization—the military—for a research budget.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 1935,
+    "TextENGNew": "But, as the old man had just said, the military had been expecting treatments with immediate effect—and so had shown no interest in her grandfather's research. That was what she had believed.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 1936,
+    "TextENGNew": "That the military had in fact shown interest—this was news she had never once heard before.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 1937,
+    "TextENGNew": "What followed was the very reason she had heard from her grandfather long ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 1938,
+    "TextENGNew": "To acknowledge the existence of a life-form that could infiltrate the human body and dominate its thoughts and actions—",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 1939,
+    "TextENGNew": "even if the need for treatment were understood, the social ramifications were far too grave—so the higher-ups had determined.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 1940,
+    "TextENGNew": "\"...And out of concern for the danger of stepping into a humanitarian grey zone, Takano-kun's research was rejected...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 1941,
+    "TextENGNew": "\"...And so even in this era, my grandfather's research was still never revisited...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 1942,
+    "TextENGNew": "``That's right.@k@vS13/00/550300071. Even if Takano-kun had no such intention himself—if research into Hinamizawa Syndrome became public, the social impact would be enormous, potentially sowing needless confusion and suspicion among the general public.``",
+    "significantChanges": true,
+    "changeReason": "Original mentions 'quarrels over the long-ended war' while new says 'needless confusion and suspicion among the general public' — different social consequences described; new matches Japanese 不要の混乱と疑念.",
+    "changeScore": 3
+  },
+  {
+    "index": 128,
+    "MessageID": 1943,
+    "TextENGNew": "\"...The heavyweights who feared this worked behind the scenes to ensure Takano-kun's research would be suppressed, right up to this day.\nAnd I myself was long warned to give him no assistance...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 1944,
+    "TextENGNew": "\"...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 1945,
+    "TextENGNew": "Takano maintained the appearance of composure—but she could not quite conceal the bitter twist at the corner of her mouth.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 1946,
+    "TextENGNew": "The reason no one had ever given interest to her grandfather's research was the covert maneuvering of those who had wanted it suppressed.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 1947,
+    "TextENGNew": "...That they had feared it so greatly—ironically—meant they had recognized the importance of his research.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 1948,
+    "TextENGNew": "...The loneliness of her grandfather's life filled her with a sorrow and bitterness she could not contain.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 1949,
+    "TextENGNew": "\"But those people have all passed.\nI am the last one alive who knows of this.\nIf Takano-kun were still alive today, I had intended to apologize to him and offer my unconditional support.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 1950,
+    "TextENGNew": "\"But he is no longer with us.\nAnd so I intend to apologize to you, Miyo-chan, and offer you the support I should have given him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 1951,
+    "TextENGNew": "\"...Is that all right?\nWould my researching Hinamizawa Syndrome not reopen those old wounds...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 1952,
+    "TextENGNew": "\"The times are different now.\nAnd besides—the research into Hinamizawa Syndrome contains something that cannot be confined to a mere regional endemic disease.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 1953,
+    "TextENGNew": "\"Depending on how the research develops, it may produce a discovery momentous enough to overturn every academic society that bears the name of medicine.\"",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'trump card that makes Japan a world power'; JPN says the discovery could overturn every academic society in medicine — completely different scope and meaning.",
+    "changeScore": 4
+  },
+  {
+    "index": 139,
+    "MessageID": 1954,
+    "TextENGNew": "\"The wind has shifted from those days—that is what you're saying.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 1955,
+    "TextENGNew": "\"That's right.\nUnfortunately, Takano-kun did not live long enough to see the wind change.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 1956,
+    "TextENGNew": "\"...But fortunately, he had you, Miyo-chan, to entrust his research to.\nAnd so I intend to support your work to the utmost, for as long as this life remains to me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 1957,
+    "TextENGNew": "\"I made a promise to help Takano-kun, but entangled in various obligations, I was of no use to him—and I let him down.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 1958,
+    "TextENGNew": "\"I intend to make amends for that, for as long as I live.\nThat is, I believe, the last task left for me in this world—the task owed to the man who called me his dearest friend...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 1959,
+    "TextENGNew": "\"Sensei...\nThank you, truly...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 1960,
+    "TextENGNew": "\"No, no—enough.\nI'm glad to have gotten it all off my chest before I die.\nAt any rate, as long as these eyes are still open, I will ensure your research wants for nothing!\"",
+    "significantChanges": true,
+    "changeReason": "Original says 'I'll make sure you get everything you need' while new says 'I will ensure your research wants for nothing' — plus new adds 'as long as these eyes are still open' (目が黒い内は), a Japanese idiom absent from original.",
+    "changeScore": 2
+  },
+  {
+    "index": 146,
+    "MessageID": 1961,
+    "TextENGNew": "\"If anything arises, come to me at any time.\nMy help is yours, without reserve~!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 1962,
+    "TextENGNew": "What bond had existed between her grandfather and this old man—once his superior and his closest friend—Takano could only imagine.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 1963,
+    "TextENGNew": "...But whatever it was, thanks to it, Takano had gained a powerful patron—of that there was no doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 1964,
+    "TextENGNew": "Eyes glistening with a thin veil of tears, expression tender with feeling—while inwardly, Takano felt like leaping for joy at the promise of the old man's full support.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 1965,
+    "TextENGNew": "For a time, the old man and Takano continued exchanging bows, each deflecting the other's gratitude.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 1966,
+    "TextENGNew": "When at last that exchange ran its natural course, the old man's expression grew just slightly more serious—\nand he spoke the words he had truly meant to say, at the end of all that long preamble.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 1967,
+    "TextENGNew": "\"So that is the gist of it.\nWhat I mean to say is—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 1968,
+    "TextENGNew": "\"...Hinamizawa Syndrome harbors a power that could make—or remake—history itself.\nIt could twist the very course of Japan's fate.\n...Bear that in mind, and conduct your research with great care.\"",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,948 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9649,
+    "TextENGNew": "...How I got here, I no longer remember.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 9650,
+    "TextENGNew": "Before I knew it, the asphalt beneath my feet had given way to earth, and all around me stood the green of trees.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9651,
+    "TextENGNew": "``...@k@vS20/09/VTK2_takano2048.This is... a park?``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue quote marks and voice tags, new strips them. The JPN has quotes 「」 and voice tags, but the new version removes both the quotes and the @vS tag reference, changing the presentation format.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 9652,
+    "TextENGNew": "I lift my head, heavy with the haze of drink, and look around.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 9653,
+    "TextENGNew": "There are few people, and none of them spare me a glance.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 9654,
+    "TextENGNew": "``...Hmph.@k@vS20/09/VTK2_takano2050. I don't really care...``",
+    "significantChanges": true,
+    "changeReason": "Same as above — old preserves dialogue format with quotes and voice tags, new strips both. Also old says 'I don't really care' vs new says 'Doesn't matter' — more terse.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 9655,
+    "TextENGNew": "I find a suitable patch of grass and sit down, then let myself fall back to lie flat, gazing up at the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 9656,
+    "TextENGNew": "Blue sky. White clouds.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9657,
+    "TextENGNew": "A tranquil, refreshing scene — though to me, right now, it seems nothing but spiteful and mocking, an infuriating thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 9658,
+    "TextENGNew": "``...Damn it...!@k@|@y@vS20/09/VTK2_takano2052. Piece of shit...!!``",
+    "significantChanges": true,
+    "changeReason": "Old preserves quotes and voice tags, new strips them. Also old says 'Piece of shit' vs new says 'Damn it all'; JPN くそったれ can mean either but they're different intensities.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 9659,
+    "TextENGNew": "Spitting the curses from my lips, I rip out a fistful of weeds without thinking.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 9660,
+    "TextENGNew": "...It was perfect.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 9661,
+    "TextENGNew": "A plan with no room for doubt, success as certain as if it were ordained.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 9662,
+    "TextENGNew": "Offer the target as a sacrifice, and carry out the 'Festival' according to the manual that had been gradually infiltrating the upper echelons for years.",
+    "significantChanges": true,
+    "changeReason": "Old says 'upper management supported sacrificing the target' vs new says 'Offer the target as a sacrifice, and carry out the Festival according to the manual that had been gradually infiltrating the upper echelons'. The new translation is significantly more accurate to the JPN which describes infiltrating the manual into upper management, not that management supported the plan.",
+    "changeScore": 4
+  },
+  {
+    "index": 15,
+    "MessageID": 9663,
+    "TextENGNew": "The preparations were complete. Personnel were in position. Every surrounding movement had been investigated down to the last detail.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 9664,
+    "TextENGNew": "And then the night of the Watanagashi came — the opening ritual proceeded as planned, and the final celebration was to be opened smoothly and grandly the moment the target was secured—",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 9665,
+    "TextENGNew": "And yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 9666,
+    "TextENGNew": "A single irregularity shattered all of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 9667,
+    "TextENGNew": "More than that — it destroyed the one and only thing I had left to hold onto.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Everything that had been supporting me... was ruined' vs new says 'it destroyed the one and only thing I had left to hold onto'. JPN ただ一つよりどころ means 'the one and only thing to rely on', which the new captures more precisely.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 9668,
+    "TextENGNew": "...A fabrication, you say...? Grandfather's research was all just... raving?!",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 9669,
+    "TextENGNew": "Every time I remember it... something blazes up inside my skull and chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 9670,
+    "TextENGNew": "...I should have struck him.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I should have struck harder' vs new says 'I should have struck him'. JPN 殴ってやればよかった means 'I should have hit/punched (him)', with no mention of doing it harder. The old implies she already hit someone and should have done it harder; the new implies she didn't hit at all.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 9671,
+    "TextENGNew": "I shouldn't have retreated in silence, only to sob afterward. I should have taken every last ounce of this feeling and let it loose on him.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 9672,
+    "TextENGNew": "That regret is infuriating — and still, even now, the sadness won't stop making me weep.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 9673,
+    "TextENGNew": "...Several days after the night of the Watanagashi.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 9674,
+    "TextENGNew": "The body of the missing Rika Furude was found... at the bottom of an old well in the basement of the Sonozaki estate.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 9675,
+    "TextENGNew": "A decomposed body, clearly dead well over 48 hours, long after the murder had been committed.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 9676,
+    "TextENGNew": "There was no need to wait for the precise forensics report.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 9677,
+    "TextENGNew": "Without question, she had been killed the day after the Watanagashi and thrown into the well.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 9678,
+    "TextENGNew": "As a result... the village fell into chaos through an act of violence entirely unlike what we had planned.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 9679,
+    "TextENGNew": "'A Small Village's Female Student — Savagery in the Height of Summer'",
+    "significantChanges": true,
+    "changeReason": "Old uses generic quotation style, new uses single-quote headline formatting. Also old says 'Smalltown schoolgirl's midsummer murder' vs new says 'A Small Village's Female Student — Savagery in the Height of Summer'; JPN 小村の女子学生、真夏の凶行 — the new is more literal.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 9680,
+    "TextENGNew": "'Oyashiro-sama's Curse Returns'",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 9681,
+    "TextENGNew": "The media leapt on these incidents with gleeful sensationalism, and Hinamizawa was subjected to constant media coverage day after day.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 9682,
+    "TextENGNew": "Moreover, with all the heads of the three founding families dead, the village rapidly lost its cohesion — and the plans for dissolving the village, supposedly frozen years ago, had apparently been revived in the capital.",
+    "significantChanges": true,
+    "changeReason": "Old says 'the plan to abandon the village...was re-entering the center stage' vs new says 'had apparently been revived in the capital'. JPN 中央 means 'the center/capital (central government)', which the new captures more accurately.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 9683,
+    "TextENGNew": "Even so, we continued to scramble desperately to improve the situation — but under circumstances that had drawn the eyes of the police and the public so thoroughly, what could be done was already limited.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 9684,
+    "TextENGNew": "...There was nothing more to be done.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 9685,
+    "TextENGNew": "And on top of that — on top of that—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 9686,
+    "TextENGNew": "'When the queen carrier dies, all villagers will exhibit abnormal behavior within 48 hours. Therefore, in order to prevent the aftereffects from spreading to surrounding areas—'",
+    "significantChanges": true,
+    "changeReason": "Old preserves full quote with voice tags showing a formal meeting dialogue; new strips voice tags and truncates. Also the meaning is preserved but presentation changes.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 9687,
+    "TextENGNew": "'That is what the emergency manual stated, was it not?'",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 9688,
+    "TextENGNew": "'Y-yes...! That's right! Grandfather — Professor Takano certainly posited that hypothesis!'",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 9689,
+    "TextENGNew": "'The basis for it was consistent with similar overseas cases, and everyone agreed it was highly convincing, did they not?!'",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 9690,
+    "TextENGNew": "'But... reality, as you can see, proves otherwise. If the death of the queen carrier was truly affecting them... the villagers should have—'",
+    "significantChanges": true,
+    "changeReason": "Old preserves the full multi-sentence response; new truncates with an em dash. The JPN continues with more text, so the new version omits content.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 9691,
+    "TextENGNew": "'Yet not a single villager has shown any abnormality since the queen carrier's death. The village is entirely at peace.'",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 9692,
+    "TextENGNew": "'Certainly, they are all shaken by the overwhelming tragedy, but that is within the bounds of normal human response. ...We came very close to—'",
+    "significantChanges": true,
+    "changeReason": "Old says 'That was a close call' vs new says 'We came very close to—' (truncated). The old completes the thought while the new leaves it ominously unfinished.",
+    "changeScore": 3
+  },
+  {
+    "index": 45,
+    "MessageID": 9693,
+    "TextENGNew": "'If we had been swept up in this delusion and administered \"treatment\" to the villagers, we would have stained our hands with an unthinkable mass slaughter...!'",
+    "significantChanges": true,
+    "changeReason": "Old says 'exterminated' (in quotes) vs new says 'administered treatment' (in quotes); JPN 処置 means 'treatment/measures', not 'extermination'. The new is more accurate to the euphemistic language used.",
+    "changeScore": 4
+  },
+  {
+    "index": 46,
+    "MessageID": 9694,
+    "TextENGNew": "He clicked his tongue as he said it, and slammed the folder in his hand to the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 9695,
+    "TextENGNew": "All the others present wore the same expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 9696,
+    "TextENGNew": "Contempt.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 9697,
+    "TextENGNew": "Pity.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 9698,
+    "TextENGNew": "And toward the one who had deceived them — hatred, and fury...!",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 9699,
+    "TextENGNew": "'W-wait! The abnormal behavior will occur... it will happen, sooner or later!'",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 9700,
+    "TextENGNew": "'There's just a time lag before it manifests!@k@vS20/09/VTK2_takano2061. Professor Takano's research records contain no errors!@k@vS20/09/VTK2_takano2062. Please... believe me, please believe me!!'",
+    "significantChanges": true,
+    "changeReason": "Minor: 'research is not mistaken' vs 'research records contain no errors'. JPN 研究調書 means records, so new is more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 9701,
+    "TextENGNew": "'In any case... the Irie Organization will be required to submit a report on this matter. And as for the project, we will be seeking a thorough review—'",
+    "significantChanges": true,
+    "changeReason": "Old preserves full multi-sentence dialogue; new truncates, omitting the final sentence about the project review being a natural course of action.",
+    "changeScore": 3
+  },
+  {
+    "index": 54,
+    "MessageID": 9702,
+    "TextENGNew": "'Such — such—!! Aahhhhhhhh—!!!'",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 9703,
+    "TextENGNew": "'...—!!'",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 9704,
+    "TextENGNew": "Yes... it was all over.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 9705,
+    "TextENGNew": "The research to which Grandfather and I had devoted our lives — everything accumulated over so many decades, gritting our teeth through it all — had been utterly denied.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 9706,
+    "TextENGNew": "What I am now is... yes — just a husk, drained of passion and soul.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 9707,
+    "TextENGNew": "There is no one left to lament to, no one to cling to.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 9708,
+    "TextENGNew": "Because I drove that person away.",
+    "significantChanges": true,
+    "changeReason": "Ambiguous referent: 'thrown it all away' vs 'drove that person away.' Context-dependent interpretation of それ.",
+    "changeScore": 3
+  },
+  {
+    "index": 61,
+    "MessageID": 9709,
+    "TextENGNew": "With these very hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 9710,
+    "TextENGNew": "...Hm...?",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 9711,
+    "TextENGNew": "Just then.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 9712,
+    "TextENGNew": "A faint conversation reached my ears — something familiar in it — and I turned my face in that direction.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 9713,
+    "TextENGNew": "On the other side of the underbrush and saplings, there was a girl and a boy.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 9714,
+    "TextENGNew": "...Those two.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 9715,
+    "TextENGNew": "The sister of Shion Sonozaki, who had set all of this in motion — Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 9716,
+    "TextENGNew": "And her friend, Keiichi Maebara.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 9717,
+    "TextENGNew": "``...Phew~!@k@vS06/01/330100435. We sure had one hell of a time, huh?``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue quotes and voice tags; new strips them. This changes the presentation format.",
+    "changeScore": 3
+  },
+  {
+    "index": 70,
+    "MessageID": 9718,
+    "TextENGNew": "Ahahahaha, that was so fun! It's been such a long time since I played that many games!",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 9719,
+    "TextENGNew": "The two of them are talking in loud, cheerful voices, beaming with wide smiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 9720,
+    "TextENGNew": "The kind of scene you'd see between two people their age, awkward in the way that's not quite a couple yet — but filled to the brim with happiness.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 9721,
+    "TextENGNew": "...Back in Hinamizawa, I had seen them like this more than a few times.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 9722,
+    "TextENGNew": "Every time I did, it made me smile, just a little — and...",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 9723,
+    "TextENGNew": "Hey, you said it was all your first time, but is that actually true? Putting your name on the high score for two machines on your very first try is incredible.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 9724,
+    "TextENGNew": "``Tsk tsk tsk. That was actually four, Kei-chan!@k@vS06/03/330300215. These games are all about sense, intuition and having great eyesight!@k@vS06/03/330300216. It's all thanks to never neglecting my everyday discipline!``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue quotes and voice tags; new strips them and truncates multi-sentence dialogue. Missing content about 'never neglecting everyday discipline'.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 9725,
+    "TextENGNew": "``More importantly, Kei-chan, shouldn't you be feeling ashamed of having your advantage used against you?``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue format; new strips it. Also old says 'having your advantage used against you' vs new says 'to have lost your advantage like that' — slightly different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 9726,
+    "TextENGNew": "``Hey, woah, hold it right there!@k@vS06/01/330100441. Remember how you distracted me by randomly pointing somewhere during air hockey and saying, 'Look, what's that?'. That's against the rules!@k@vS06/01/330100442. You're goddamn brutal!``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue format with voice tags and includes 'You're goddamn brutal!' at the end; new strips format and omits the final exclamation. The JPN has まったく、容赦のないやつだぜ！ which means 'What a merciless person you are!'",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 9727,
+    "TextENGNew": "Ahahahahaha! To the victor go the spoils!",
+    "significantChanges": true,
+    "changeReason": "Old says 'Winner takes all, losers gotta fall' vs new says 'To the victor go the spoils'; different English proverbs used. JPN 勝てば官軍、負ければ賊軍 literally means 'win and you're the imperial army, lose and you're rebels'. Both are acceptable localizations.",
+    "changeScore": 2
+  },
+  {
+    "index": 80,
+    "MessageID": 9728,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 9729,
+    "TextENGNew": "...Infuriating.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 9730,
+    "TextENGNew": "For no reason I can name, irritation and resentment well up inside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 9731,
+    "TextENGNew": "...Why.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 9732,
+    "TextENGNew": "How are these two able to laugh like this, after everything that happened?",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 9733,
+    "TextENGNew": "Even knowing of so much unhappiness and tragedy — how can they sing the praises of their springtime like this?",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 9734,
+    "TextENGNew": "Without making any effort, without thinking deeply about anything — just drifting along with the current, carried by the tide.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 9735,
+    "TextENGNew": "Cowering at the notion of a curse, dancing around absurdly like puppets...!",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 9736,
+    "TextENGNew": "...—!",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 9737,
+    "TextENGNew": "...Ah. Yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 9738,
+    "TextENGNew": "Come to think of it.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Come to think if it, that's true' vs new says 'Come to think of it.' — old has a typo ('if' instead of 'of'). The new also removes 'that's true' which was part of そういえば、そうだ.",
+    "changeScore": 2
+  },
+  {
+    "index": 91,
+    "MessageID": 9739,
+    "TextENGNew": "The reason Shion Sonozaki ran so out of control — at root, it was the Sonozaki family's strange posturing that caused it.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 9740,
+    "TextENGNew": "Playing the part of the shadowy masterminds when they had done nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 9741,
+    "TextENGNew": "Ruling over those around them with bluffs and threats, despite having no real power.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 9742,
+    "TextENGNew": "...That's why Shion Sonozaki harbored such excessive fear of breaking the clan's rules.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 9743,
+    "TextENGNew": "And believing she'd be killed sooner or later, she slaughtered the ones playing mastermind — killed and killed until none were left.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she killed, killed, and killed some more' vs new says 'she slaughtered the ones playing mastermind — killed and killed until none were left'. New adds 'until none were left' which isn't explicitly in JPN 殺しつくした (killed thoroughly/completely), though 尽くした does imply exhaustiveness.",
+    "changeScore": 2
+  },
+  {
+    "index": 96,
+    "MessageID": 9744,
+    "TextENGNew": "The result was... this.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 9745,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 9746,
+    "TextENGNew": "...It's all because of these two.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 9747,
+    "TextENGNew": "If they hadn't driven that girl to such a point.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 9748,
+    "TextENGNew": "...If they had at least held back her senseless actions, everything could have been resolved cleanly.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 9749,
+    "TextENGNew": "And yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 9750,
+    "TextENGNew": "And yet these two stand here without knowing their guilt, without feeling it — only they—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 9751,
+    "TextENGNew": "...Heh... hehehe... eheheheheh...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 9752,
+    "TextENGNew": "...My throat itches.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 9753,
+    "TextENGNew": "No matter how much I scratch, the sensation won't subside.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 9754,
+    "TextENGNew": "What's more... an impulse, as if something is welling up from inside my body.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 9755,
+    "TextENGNew": "...My vision flickers.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 9756,
+    "TextENGNew": "This sensation — yes — yes, it's that symptom.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 9757,
+    "TextENGNew": "After all... it happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 9758,
+    "TextENGNew": "It happened, didn't it.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 9759,
+    "TextENGNew": "Now, look... you foolish, shallow lot.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 9760,
+    "TextENGNew": "Grandfather's research was right after all... it was right all along...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 9761,
+    "TextENGNew": "...Ah, what time is it?",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 9762,
+    "TextENGNew": "Umm... around five, I think.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 9763,
+    "TextENGNew": "Ah, then not much time before dinner. Should we eat somewhere before going home?",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 9764,
+    "TextENGNew": "Yeah. What about fast food — hamburgers?",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 9765,
+    "TextENGNew": "Ooh, sounds good! ...Ah, one moment, if you'll excuse me.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 9766,
+    "TextENGNew": ".........",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 9767,
+    "TextENGNew": "Now — I'll prove it...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 9768,
+    "TextENGNew": "I, here — with my own hands—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 9769,
+    "TextENGNew": "...Phew.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 9770,
+    "TextENGNew": "Good afternoon.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Why hello there' vs new says 'Good afternoon'. JPN こんにちは means 'hello/good afternoon'. The old adds a sinister 'Why' that isn't in the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 123,
+    "MessageID": 9771,
+    "TextENGNew": "Hm? Oh, good after — ...noon... —",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 9772,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 9773,
+    "TextENGNew": "``...My my, Kei-chan, don't tell me you fell asleep?@k@vS06/03/330300232. Wow, this is pathetic.@k@vS06/03/330300233. It's not very gentlemanly to doze off on a date with a girl, you know~.``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue quotes and voice tags; new strips them. Also truncates content.",
+    "changeScore": 3
+  },
+  {
+    "index": 126,
+    "MessageID": 9774,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 9775,
+    "TextENGNew": "``Kei-chan?@k@vS06/03/330300235. ...Seriously, how long are you going to be out?@k@vS06/03/330300236. Come on, wake up!``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue format; new strips it. Truncates content.",
+    "changeScore": 3
+  },
+  {
+    "index": 128,
+    "MessageID": 9776,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 9777,
+    "TextENGNew": "``...Kei-chan?@k@vS06/03/330300238. Eh... Ah-?!``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue format; new strips it. Also truncates.",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 9778,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 9779,
+    "TextENGNew": "...Noooooo—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 9780,
+    "TextENGNew": "``...Hehe.@k@vS20/09/VTK2_takano2074. Ehehehehehehehe, ahahahahahahaha.@k@vS20/09/VTK2_takano2075. Aaahahahahahahahahah!!``",
+    "significantChanges": true,
+    "changeReason": "Old preserves dialogue format with voice tags; new strips both. Also truncates the laugh.",
+    "changeScore": 3
+  },
+  {
+    "index": 133,
+    "MessageID": 9781,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 9782,
+    "TextENGNew": "Ah, excuse me.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 9783,
+    "TextENGNew": "...What. Is something the matter?",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 9784,
+    "TextENGNew": "No, no — I've been looking for you.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 9785,
+    "TextENGNew": "Apparently you haven't been coming in to the clinic for a while now.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 9786,
+    "TextENGNew": "You hadn't been returning to your residence either...",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 9787,
+    "TextENGNew": "``...Whatever.@k@vS20/09/VTK2_takano2079. It doesn't matter.@k@vS20/09/VTK2_takano2080. I'll submit the report by the promised deadline.@k@vS20/09/VTK2_takano2081. That's all you need, isn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 9788,
+    "TextENGNew": "Actually, it does matter.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 9789,
+    "TextENGNew": "...Hm? —",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 9790,
+    "TextENGNew": "Orders from above — to take the best possible measures.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 9791,
+    "TextENGNew": "Well, the harbor is near from here... I'd say it's a fitting place for concealment, wouldn't you?",
+    "significantChanges": true,
+    "changeReason": "Old says 'don't you think that would be a good place to never be found?' vs new says 'I'd say it's a fitting place for concealment, wouldn't you?' — different euphemisms for the same sinister meaning.",
+    "changeScore": 2
+  },
+  {
+    "index": 144,
+    "MessageID": 9792,
+    "TextENGNew": "Wha — what are you talking about...? H-hey, where are you — !?",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 9793,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 9794,
+    "TextENGNew": "So, you see.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 9795,
+    "TextENGNew": "Hinamizawa Syndrome never existed in the first place.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Hinamizawa Syndrome never existed to begin with' vs new says 'never existed in the first place'; essentially the same meaning.",
+    "changeScore": 1
+  },
+  {
+    "index": 148,
+    "MessageID": 9796,
+    "TextENGNew": "Please don't let it be dug up again.",
+    "significantChanges": false
+  }
+]

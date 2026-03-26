@@ -1,0 +1,1328 @@
+[
+  {
+    "index": 1,
+    "MessageID": 116982,
+    "TextENGNew": "Preparations for tomorrow's festival were well underway at the Furude Shrine grounds.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 116983,
+    "TextENGNew": "Vans and light trucks arrived one after another with tent materials, and the men of the village youth association—'youth' being something of a generous term for their ages—were unloading them.",
+    "significantChanges": true,
+    "changeReason": "OLD mistranslates 軽トラック as 'pickup trucks' (should be 'light trucks'), simplifies 'tent materials' to 'tents and equipment', and misses the humorous aside about the youth association members' ages.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 116984,
+    "TextENGNew": "I hear Rika-chama has been quite ill. I do hope she'll be all right.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 116985,
+    "TextENGNew": "I heard she missed school again today. I hope it doesn't drag on too long...",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 116986,
+    "TextENGNew": "Ah, Irie-sensei! How is Rika-chama doing...?",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 116987,
+    "TextENGNew": "Yes. It seems she had a rather nasty cold, but I believe she's over the worst of it. Still, the recovery stage is the most critical.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 116988,
+    "TextENGNew": "I've just gone to see them and reminded them both to stay in bed today—not to leap up celebrating their recovery just yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 116989,
+    "TextENGNew": "Ah, I see, I see! Satoko-chan caught the cold at the same time, did she? Well, if they're both stuck home sick together, I bet they can't help but play around—ha ha ha!",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 116990,
+    "TextENGNew": "Getting sick at the same time—Rika-chama and Satoko-chan really are inseparable, aren't they.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 116991,
+    "TextENGNew": "Ah, perfect timing! Dr. Irie just told us that Rika-chama and her friend are over the worst of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 116992,
+    "TextENGNew": "``Oh, I see!@k@vS13/00/VT4A_elderC1002. That's good.@k@vS13/00/VT4A_elderC1003. By the way, about tomorrow's performance... you don't think she'll be able to do it, do you?``",
+    "significantChanges": true,
+    "changeReason": "NEW correctly translates 奉納演舞 as 'sacred dance offering' rather than just 'performance,' preserving the ritual/religious significance.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 116993,
+    "TextENGNew": "Hmm... she says she wants to do it and won't be talked out of it. If everyone asked her to perform, she'd probably be thrilled to oblige.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 116994,
+    "TextENGNew": "However, from a physician's standpoint, even if her fever has broken today, I'd rather spare her the exertion of such an important role tomorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 116995,
+    "TextENGNew": "Hmmmm, that is a problem. Ah! Oh! Oryou-san—Rika-chama is getting better, but the doctor says she still needs to rest.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 116996,
+    "TextENGNew": "...Well, that can't be helped. If we push her and she collapses during the ceremony, people will start saying it's Oyashiro-sama's curse again.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 116997,
+    "TextENGNew": "Well... the whole village is worried. They're saying there might be a curse again this fifth year. ...And it's Satoko Houjou-chan and Rika-chama, you know...? Some people have been imagining some fairly frightening things.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 116998,
+    "TextENGNew": "Utter nonsense! Rika-chama is the reincarnation of Oyashiro-sama herself. If she were cursed, the whole village would perish. Don't you dare say such inauspicious things!",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 116999,
+    "TextENGNew": "No, no—you're absolutely right about that...",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 117000,
+    "TextENGNew": "Dr. Irie. Would it be possible for me to visit them?",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 117001,
+    "TextENGNew": "Please let them rest a while longer. They're at the age where they want nothing more than to play, and they're still recovering. Having visitors would excite them and they'd be out of bed in no time.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 117002,
+    "TextENGNew": "Ha ha ha ha, I see, I see—I suppose that can't be helped then. Doctor, please take good care of the two of them. Not just Rika-chama—Satoko-chan too.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 117003,
+    "TextENGNew": "I blinked in surprise.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 117004,
+    "TextENGNew": "Oryou-san was the sort of person who, when Rika-chan and Satoko-chan were both present, acted as though Satoko-chan simply did not exist.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 117005,
+    "TextENGNew": "Yet she had just called Satoko-chan by name and asked me to look after her.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 117006,
+    "TextENGNew": "...Yes, of course! I will make both Rika-san and Satoko-chan well again, I promise. You can count on me.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 117007,
+    "TextENGNew": "......If anything goes wrong, people will start saying it's Oyashiro-sama's curse again.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 117008,
+    "TextENGNew": "...Dr. Irie. Don't you think it's rather foolish to still be talking about curses here in the Showa fifties, in an age when mankind has walked on the moon?",
+    "significantChanges": true,
+    "changeReason": "OLD incorrectly translates 昭和50年 as 'the 1980s'; the Showa 50s correspond to 1975-1984. NEW preserves the original Japanese era dating.",
+    "changeScore": 4
+  },
+  {
+    "index": 28,
+    "MessageID": 117009,
+    "TextENGNew": "I do, yes.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 117010,
+    "TextENGNew": "...During the dam conflict, we certainly stirred up those stories and made use of them. ...But that's all long over. ...As long as we keep invoking the curse, the dam conflict will never truly end.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 117011,
+    "TextENGNew": "You're saying—if Satoko-chan were to die, people would call it the curse of the dam conflict?",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 117012,
+    "TextENGNew": "............The dam conflict is over. ...If a village child catches a cold, it's just an old person's job to worry. Nothing more than that.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 117013,
+    "TextENGNew": "I already understood what Oryou-san wanted to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 117014,
+    "TextENGNew": "Part of me wanted to draw it out of her in so many words—but pressing her would likely invite her wrath.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 117015,
+    "TextENGNew": "...What she had said was more than enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 117016,
+    "TextENGNew": "The dam conflict Oryou-san spoke of referred to more than just the war fought to stop the dam construction itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 117017,
+    "TextENGNew": "She was also referring to the mistreatment the Houjou family had been subjected to in the years since.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 117018,
+    "TextENGNew": "With all of that meaning folded into her words, she was telling me that the dam conflict was over—and entrusting Satoko-chan to my care.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 117019,
+    "TextENGNew": "...I believe Satoko-chan will feel the warmth behind your concern.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 117020,
+    "TextENGNew": "Ha ha ha ha! That little rascal wouldn't understand an old woman's feelings at all, ha ha ha ha!",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 117021,
+    "TextENGNew": "Oryou-san walked away, her high, bright laughter ringing behind her.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 117022,
+    "TextENGNew": "Watching her go was not only I, but also Kimiyoshi-san and the other elders who had been standing nearby.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 117023,
+    "TextENGNew": "And every one of them understood what Oryou-san had meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 117024,
+    "TextENGNew": "The dam conflict was over.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 117025,
+    "TextENGNew": "...Even the spirited Satoko-chan has come down with a fever—it must be a particularly nasty cold. Dr. Irie, please take good care of them both.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 117026,
+    "TextENGNew": "Since we're not allowed to visit, please tell them both that all the old folk are worried and want them well soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 117027,
+    "TextENGNew": "Of course. I'm sure they'll be glad to hear it.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 117028,
+    "TextENGNew": "I made a vow to myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 117029,
+    "TextENGNew": "Takano-san was surely plotting to stage some kind of curse-related incident tomorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 117030,
+    "TextENGNew": "...That I could not allow.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 117031,
+    "TextENGNew": "The curse of Oyashiro-sama ends in the fifth year. I would see to it.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 117032,
+    "TextENGNew": "Absolutely.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 117033,
+    "TextENGNew": "Carrying out the forty-eight-hour operation they had proposed was beyond Ooishi's power alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 117034,
+    "TextENGNew": "He needed at least a few people willing to cooperate.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 117035,
+    "TextENGNew": "Ooishi had summoned the old forensics man and Kumagai, and told them everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 117036,
+    "TextENGNew": "I'll say it again—this is a dangerous bridge we're crossing. A formal reprimand might cost us our severance; a full disciplinary action and our retirement pensions go straight out the window.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 117037,
+    "TextENGNew": "Ka-ka-ka-ka! Come now, Ooishi. I hear you always gather your subordinates at the mahjong parlor next door before a risky operation and give them the same speech.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 117038,
+    "TextENGNew": "That's exactly right, Ooishi-san! Why not say it with your usual gusto: 'Anyone who values their retirement, you have ten counts to walk out the door!'—come on, do it properly or it just doesn't feel right!",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 117039,
+    "TextENGNew": "...No, this really is a serious situation, Kuma-chan. Are you genuinely prepared for the consequences?",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 117040,
+    "TextENGNew": "Then let's count to ten and find out! In fact, I'll count today! If you value your pension, please leave before I reach ten—one, two, THREE!!",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 117041,
+    "TextENGNew": "Alright, alright, I understand! Your resolve is perfectly clear, Kuma-chan! But still—you're absolutely certain?",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 117042,
+    "TextENGNew": "Yes! Listening to Akasaka-san's exploits the other day got my blood pumping!",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 117043,
+    "TextENGNew": "I became a detective to fight the great evils of this world! And someday I want to have my own exploits to be proud of, just like Akasaka-san!!",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 117044,
+    "TextENGNew": "A dangerous bridge? Sounds perfect! Besides, your plans have never failed before, Ooishi-san. So if you think this operation can succeed, I have no fear!",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 117045,
+    "TextENGNew": "Ka-ka-ka-ka! How wonderful it is to be young! He's been quite taken with Akasaka-kun since that day, you know. Goes on about wanting to be involved in secret investigations.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 117046,
+    "TextENGNew": "...Ha... hahh... well, nahahaha... it is nice to be young, I suppose... And what about you, old man?",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 117047,
+    "TextENGNew": "Ha! Count me in! For that matter, whether we can collar these villains may well hinge on what the forensics autopsy turns up. I haven't exactly been kind to my health over the years.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 117048,
+    "TextENGNew": "This old wreck won't be around much longer as it is. If I'm going to be a man until the end, I want to go out with one great blaze of glory!",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 117049,
+    "TextENGNew": "...My, my... you two are absolutely fearless... That must be why you declare Riichi even with three flipped Doras on the table.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 117050,
+    "TextENGNew": "What are you saying, Ooishi-san! 'There are times a man can't fold—if you're going to discard, discard the middle tile!' That's your catchphrase!",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 117051,
+    "TextENGNew": "Mm-hmm, quite right, quite right!",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 117052,
+    "TextENGNew": "Understood. I'll hold myself responsible for both your necks!",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 117053,
+    "TextENGNew": "...With that settled, I'll need to make some preparations of my own. And, Ooishi—when all this is over, you owe me a very fine meal!",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 117054,
+    "TextENGNew": "After all, this was the theatrical performance of the century, and it could begin as early as tomorrow morning. The old forensics man would be run ragged making contact with his colleagues and the coroner.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 117055,
+    "TextENGNew": "Yes, yes!! Leave that to me. But please be extremely careful about who you confide in...? They tell me there are spies inside the station.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 117056,
+    "TextENGNew": "I know. I haven't spent all these years reading people for nothing! Leave it to me!",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 117057,
+    "TextENGNew": "All right, I'm fired up!! The spirit of a true detective—this is what I live for!!",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 117058,
+    "TextENGNew": "...Ooishi had taken an entire sleepless night to reach his decision, yet his senior and junior had decided in an instant. He couldn't help wondering, just a little, whether that said something unflattering about himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 117059,
+    "TextENGNew": "Well then, I have some errands to see to, so I'll be heading out. Kuma-chan, please see the old man home. Thank you for coming on your day off.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 117060,
+    "TextENGNew": "Not at all! The blood's been stirring in these old veins for the first time in years. A grand stage like this one, at my age, for the very first time—I'm not afraid. I intend to enjoy every minute!",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 117061,
+    "TextENGNew": "...Thank you, old man. And you too, Kuma-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 117062,
+    "TextENGNew": "Ooishi watched their cars pull away and murmured his gratitude to the empty air.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 117063,
+    "TextENGNew": "From there, Ooishi stopped at a nearby flower shop.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 117064,
+    "TextENGNew": "He bought a bouquet of bellflowers.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 117065,
+    "TextENGNew": "The purple-blue variety is the most famous.",
+    "significantChanges": true,
+    "changeReason": "NEW more accurately translates 青紫色 as 'purple-blue' rather than just 'purple,' preserving the specific color description.",
+    "changeScore": 2
+  },
+  {
+    "index": 85,
+    "MessageID": 117066,
+    "TextENGNew": "That cool, elegant color was one Ooishi favored himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 117067,
+    "TextENGNew": "Yet on this one day each year, he never chose purple-blue.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 117068,
+    "TextENGNew": "He asked instead for the uncommon white bellflower.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 117069,
+    "TextENGNew": "Clutching that pure white bouquet, Ooishi entered the cemetery behind the temple across from the flower shop.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 117070,
+    "TextENGNew": "Today was the eighteenth of June.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 117071,
+    "TextENGNew": "The true anniversary was tomorrow, but every year Watanagashi duty kept him occupied all day, and so he had taken to visiting the grave one day early.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 117072,
+    "TextENGNew": "...It was the eve of the anniversary of the old man's death—the one Ooishi had revered as a best friend, an elder brother, and a father all at once.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 117073,
+    "TextENGNew": "...Every year, every single year. I swear I'll find your right arm this year, and every year I still come back empty-handed.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 117074,
+    "TextENGNew": "Ooishi murmured to the headstone.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 117075,
+    "TextENGNew": "He laid the white bellflowers he had just bought before it.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 117076,
+    "TextENGNew": "But...... at last I've found an opportunity to approach the truth of your death. ...You know? ...It's almost funny. ...Turns out the Sonozaki family had nothing to do with it.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 117077,
+    "TextENGNew": "...I've been promising all these years I'd bring old Oryou-san here and make her prostrate herself before your grave in apology... and it seems I was utterly, completely wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 117078,
+    "TextENGNew": "......Ta-ha-ha-ha, I'm at quite a loss for words, I confess.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 117079,
+    "TextENGNew": "...You'd probably give me a good thump on the head. ...I assumed I knew the winning tile, kept folding out of false caution, and ended up taking a devastating hit.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 117080,
+    "TextENGNew": "...If I hadn't jumped to conclusions and simply played my hand properly, I might have built something impressive. ...I haven't improved one bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 117081,
+    "TextENGNew": "Same story with mahjong. ...Someone who gets an idea into his head and can never let it go—that sort of stubborn fool is probably just called an idiot. Ta-ha-ha-ha...",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 117082,
+    "TextENGNew": "Ooishi had sensed it vaguely—a premonition.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 117083,
+    "TextENGNew": "...Something in the way Irie had phrased things, restrained and careful, had let him piece it together.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 117084,
+    "TextENGNew": "There was nothing behind the old man's dismemberment murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 117085,
+    "TextENGNew": "The incidents that followed were separate affairs, each with their own circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 117086,
+    "TextENGNew": "...That particular case stood alone, with no connection to anything else.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 117087,
+    "TextENGNew": "Since the main culprit had never been caught, Ooishi had needed someone to direct his hatred toward—and the Sonozaki family, with their suspicious behavior, had served his purposes all too conveniently.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 117088,
+    "TextENGNew": "...In all likelihood, the revenge drama Ooishi had convinced himself was real had never existed at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 117089,
+    "TextENGNew": "...........I am about to cross a very dangerous bridge. The reward is meager for the risk. ...At most... I may be given the truth—the truth that will finally free this stubborn fool from his delusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 117090,
+    "TextENGNew": "...But somehow...... I feel that at last I might be able to forgive myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 117091,
+    "TextENGNew": "Ooishi bowed deeply before the headstone and offered his wordless respects.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 117092,
+    "TextENGNew": "Then he heard footsteps approaching.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 117093,
+    "TextENGNew": "...Someone connected to the old man, no doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 117094,
+    "TextENGNew": "It seemed this person also found the day of Watanagashi inconvenient every year, and came to pay their respects the day before, just as Ooishi did.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 117095,
+    "TextENGNew": "They always left blue hydrangeas.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 117096,
+    "TextENGNew": "...That blue alongside the purple-blue of bellflowers made for a rather clashing combination.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 117097,
+    "TextENGNew": "That was why Ooishi had gone to the trouble of choosing white ones.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 117098,
+    "TextENGNew": "Ordinarily the hydrangeas would already be there by the time he arrived—but this year, after his early-morning conference with Kumagai and the others, he had come straight here, and so arrived first.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 117099,
+    "TextENGNew": "Visiting a grave is not a race.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 117100,
+    "TextENGNew": "It is a matter of the heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 117101,
+    "TextENGNew": "...Even so—he had long wondered who it was that brought flowers to the grave every anniversary without fail, and he looked up.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 117102,
+    "TextENGNew": "...........Well... well now. ...Are you here to visit someone's grave too?",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 117103,
+    "TextENGNew": "Ooishi heard himself say something rather obvious.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 117104,
+    "TextENGNew": "But... a single glance told him everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 117105,
+    "TextENGNew": "The bouquet of hydrangeas in her arms told him everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 117106,
+    "TextENGNew": "My, my. Aren't you supposed to be on duty? You're a wicked man, you are.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 117107,
+    "TextENGNew": "Akane Sonozaki laughed her scornful laugh and passed the hydrangea bouquet to her daughter, Shion.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 117108,
+    "TextENGNew": "Shion stood between her mother and Ooishi, uncertain what to do, clearly measuring the distance between them.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 117109,
+    "TextENGNew": "...Oh, stop loitering in front of the grave. Move aside.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 117110,
+    "TextENGNew": "Ooishi stepped aside as instructed, and spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 117111,
+    "TextENGNew": "......Was it really you—leaving hydrangeas for the old man every year?",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 117112,
+    "TextENGNew": "Lovely, aren't they? They're from my own garden. June calls for hydrangeas. Your bellflowers are rather unusual, though. White ones—imagine that. They have a lovely, cool elegance.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 117113,
+    "TextENGNew": "Ah, Mr. Ooishi, excuse me. I'll just put the flowers down, if I may.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 117114,
+    "TextENGNew": "Shion knelt before the grave and, with practiced ease, unwrapped the bouquet and arranged the hydrangeas alongside the bellflowers already in the vase.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 117115,
+    "TextENGNew": "White bellflowers and blue hydrangeas together made a striking display, their colors evoking the fresh, cool arrival of early summer.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 117116,
+    "TextENGNew": "What a happy coincidence. They suit each other beautifully—white and blue, each bringing out the other.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 117117,
+    "TextENGNew": "...Every year when I came, the hydrangeas were already here. I thought blue flowers would clash with purple ones.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 117118,
+    "TextENGNew": "Well then—it seems we're perfectly compatible after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 117119,
+    "TextENGNew": "......I suppose we are. Na-ha-ha-ha.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 117120,
+    "TextENGNew": "What's gotten into you, Mr. Ooishi? Did something strange turn up on your X-ray? You seem unusually solemn today—it's rather unsettling.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 117121,
+    "TextENGNew": "Oh, did the doctor tell you you've got an incurable disease? If that's it, since you've always been good to us, I'll make sure to leave hydrangeas at your grave as well—so don't worry!",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 117122,
+    "TextENGNew": "By the way, you still have a tab open at one of our establishments, don't you. I'll bring along the bill to lay at your graveside.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 117123,
+    "TextENGNew": "Na-ha-ha-ha-ha... Oh my, what a pair you are—mother and daughter, both with tongues that never rest. As it happens, the end doesn't seem imminent just yet. We're in the final sprint before retirement, but I intend to keep going—do you hear me?",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 117124,
+    "TextENGNew": "Well, good! As a citizen of Okinomiya, it's reassuring to hear such steadfast words from a public servant. Ha ha ha ha!",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 117125,
+    "TextENGNew": "Their exchange should have been nothing more than the usual social courtesies—yet something about it felt just slightly different.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 117126,
+    "TextENGNew": "......One thing, if you'd tell me. The Guardians and the old site manager—they were at daggers drawn, weren't they? ...So why would you bring him flowers?",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 117127,
+    "TextENGNew": "Oh, we were at absolute daggers drawn! We were enemies, pure and simple!",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 117128,
+    "TextENGNew": "Yes, we were! That old geezer was an infuriating bastard! I bit him, I elbowed him in the stomach, and I even keyed his car!",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 117129,
+    "TextENGNew": "After saying that, Shion stuck out her tongue and hid behind her mother, looking embarrassed.",
+    "significantChanges": true,
+    "changeReason": "OLD has completely wrong text (dialogue about statute of limitations) that doesn't match the JPN narration about Shion sticking out her tongue and hiding behind her mother. Texts appear to have been swapped between adjacent entries.",
+    "changeScore": 5
+  },
+  {
+    "index": 149,
+    "MessageID": 117130,
+    "TextENGNew": "...Come to think of it, the statute of limitations on that might not be up yet. I'll pretend I didn't hear that.",
+    "significantChanges": true,
+    "changeReason": "OLD has completely wrong text (narration about Shion hiding behind mother) that doesn't match the JPN about considering the statute of limitations. Texts appear to have been swapped between adjacent entries.",
+    "changeScore": 5
+  },
+  {
+    "index": 150,
+    "MessageID": 117131,
+    "TextENGNew": "...If you hated him that much—even you, Shion-san—what brought you here?",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 117132,
+    "TextENGNew": "Well, the dam conflict is over. ...Besides, enemy or not, there were things we did to him that weren't exactly jokes...",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 117133,
+    "TextENGNew": "...........",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 117134,
+    "TextENGNew": "What? You don't understand? The war is over. In rugby, once the final whistle blows, there are no more sides. That's all.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 117135,
+    "TextENGNew": "Akane said it as though it were the most natural thing in the world, but Ooishi simply could not grasp it.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 117136,
+    "TextENGNew": "They had been bitterly opposed, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 117137,
+    "TextENGNew": "Bitter enemies, people who despised each other—how could they find it in themselves to bring flowers to the man's grave?",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 117138,
+    "TextENGNew": "Yet Akane said it was natural.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 117139,
+    "TextENGNew": "......Their values were simply not the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 117140,
+    "TextENGNew": "Frankly, you're the one I can't understand. As far as I'm concerned the dam conflict is done, but in your head it's still going on, isn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 117141,
+    "TextENGNew": "Nfu-fu! Oh no. It's over for me, entirely. I can't imagine listening to all that noise again—you must be joking.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 117142,
+    "TextENGNew": "Then there's nothing strange about the Sonozaki family visiting his grave. Come now, move over. I brought an offering too.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 117143,
+    "TextENGNew": "As she spoke, Akane reached into her drawstring pouch, withdrew a small wrapped package, and set it before the grave.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 117144,
+    "TextENGNew": "...I've noticed that package every year. What's in it?",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 117145,
+    "TextENGNew": "Ohagi, specially made by the old gorgon. Since drinkers aren't generally fond of sweets, they're made without sugar, apparently.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 117146,
+    "TextENGNew": "...You're saying Oryou-san made ohagi for the dam supervisor's anniversary?",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 117147,
+    "TextENGNew": "She makes them every year. You just said yourself that you see it here every time you come.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 117148,
+    "TextENGNew": "Ooishi was, for a moment, stunned speechless.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 117149,
+    "TextENGNew": "...Oryou-san was the ultimate hardliner of the ultimate hardliners in the Onigafuchi Guardians.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 117150,
+    "TextENGNew": "...And he had believed for all these years that she was the true mastermind behind the old man's murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 117151,
+    "TextENGNew": "That she had been making ohagi for his anniversary every year—he simply could not believe it.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 117152,
+    "TextENGNew": "Don't give me that look. ...Let's just be done with all that, shall we?",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 117153,
+    "TextENGNew": "...Done with all what, precisely?",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 117154,
+    "TextENGNew": "Pretending the Sonozaki family has no right to bring flowers to the dam supervisor's grave. Done with all that.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 117155,
+    "TextENGNew": "...........",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 117156,
+    "TextENGNew": "Before long it'll be the Showa sixties. In a few years the era name may change altogether. Are you really going to keep dragging this ended war behind you all the way into that age?",
+    "significantChanges": true,
+    "changeReason": "Multiple factual errors: old incorrectly translates 昭和60年 as '1990' (should be 1985) and renders 元号も変わるかもしれない ('the era name may change') as 'the Emperor might be dead' -- crudely inserting content not in the Japanese.",
+    "changeScore": 5
+  },
+  {
+    "index": 176,
+    "MessageID": 117157,
+    "TextENGNew": "...Please. I want nothing more to do with that conflict. There is nothing finer than peace.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 117158,
+    "TextENGNew": "The government had its faults. There's room for reflection there.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 117159,
+    "TextENGNew": "But we had our faults too. So we reflect. And once we've done that and drawn a line—there's no use wallowing in it endlessly, is there?",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 117160,
+    "TextENGNew": "It falls to the young to clear away the old era and build a new one. ...An unfortunate incident occurred, and this man died. ...If he were still alive, I'd want to share a drink with him and let it all go.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 117161,
+    "TextENGNew": "...But he's gone. So we can no longer make our peace with him. ............That, to me, is a very sad thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 117162,
+    "TextENGNew": "......... That is what parting through death means, after all...",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 117163,
+    "TextENGNew": "......But you are still alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 117164,
+    "TextENGNew": "So I am. And so are you.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 117165,
+    "TextENGNew": "......Then perhaps a day will come when you and I might actually get along.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 117166,
+    "TextENGNew": "Na-ha-ha-ha... I really couldn't say...",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 117167,
+    "TextENGNew": "Take this to the abbot. Then pull the car around to the front.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 117168,
+    "TextENGNew": "...Sure.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 117169,
+    "TextENGNew": "Akane took an envelope from inside her jacket and handed it to Shion—a gratuity for the temple priest, most likely.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 117170,
+    "TextENGNew": "Shion accepted it, gave Ooishi a small bow, and ran off.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 117171,
+    "TextENGNew": "......During the dam conflict, I thought she was a rather presumptuous young woman. ...She has grown remarkably without my noticing.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 117172,
+    "TextENGNew": "How many years do you think it's been since then? Keeping yourself perpetually at war wears down both mind and body. That's how much time has passed.",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 117173,
+    "TextENGNew": "...Yes, a great deal of time has passed. ...Time is rich and dense for the young, and thin and sparse for the old.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 117174,
+    "TextENGNew": "Only the old ones stay the same. ...But young people keep growing. ...And while we aren't looking, they slip past us. ...So we step aside and watch over them. Rather fine, isn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 117175,
+    "TextENGNew": "Rather fine indeed. ...To think that Akane Sonozaki—the Demon Princess of Shishibone—should be the one lecturing me, of all things.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 117176,
+    "TextENGNew": "Oh, I don't like that, must you remember that name? These days I'm known as the Lady of Shishibone, I'll have you know. I'd be grateful if you'd keep that old title to yourself.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 117177,
+    "TextENGNew": "Heh-heh-heh-heh! ...Well yes—since the dam conflict is over and all.",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 117178,
+    "TextENGNew": "That's right. It's all over now.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 117179,
+    "TextENGNew": "The two of them watched as Shion and the priest exchanged words before the main hall of the temple.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 117180,
+    "TextENGNew": "Neither spoke, yet the silence between them was somehow comfortable.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 117181,
+    "TextENGNew": "No wind stirred, but a cabbage white butterfly drifted among them, lending a quiet coolness to the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 117182,
+    "TextENGNew": "...You are on duty, I know. But how about it—care to step out for a cup of chilled sake?",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 117183,
+    "TextENGNew": "Not today, I think. I have my car, and so do you, I presume?",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 117184,
+    "TextENGNew": "Heh-heh-heh-heh. What a shame. Another time, then?",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 117185,
+    "TextENGNew": "Indeed. Another time.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 117186,
+    "TextENGNew": "Something that had long been lodged inside Ooishi began, quietly, to dissolve.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 117187,
+    "TextENGNew": "Something knotted and set had begun to melt away.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 117188,
+    "TextENGNew": "I ought to be getting back now. Your daughter is waiting too, I imagine.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 117189,
+    "TextENGNew": "You're right. Let's call it here. ...We've had quite a history, you and I. ...I'd like to put it all behind us and start fresh.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 117190,
+    "TextENGNew": "We'll have a proper gathering to settle accounts one of these days. We will, eventually.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 117191,
+    "TextENGNew": "Akane turned with a smile as bright as the sunset and nodded in reply.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 117192,
+    "TextENGNew": "But in an instant, that expression shifted to something slyly wheedling.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 117193,
+    "TextENGNew": "Well, Officer Ooishi! ...Now that all the tension between us has melted away so nicely...",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 117194,
+    "TextENGNew": "Ehh-heh-heh-heh! I got a traffic citation yesterday and I was so furious I tore it up on the spot! ...Do you think you might be able to make that disappear?",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 117195,
+    "TextENGNew": "...For that, I suggest your nearest police station. If you drop my name, I might be able to get you moved to the front of the queue. Nfu-fu-fu...!",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 117196,
+    "TextENGNew": "``Tch. What are friends even for, huh?",
+    "significantChanges": true,
+    "changeReason": "OLD adds the concept of 'friends' not present in the JPN サービスの悪い人だよ, which simply complains about poor service.",
+    "changeScore": 3
+  },
+  {
+    "index": 216,
+    "MessageID": 117197,
+    "TextENGNew": "Heh-heh-heh-heh.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 117198,
+    "TextENGNew": "Na-ha-ha-ha-ha-ha...!",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 117199,
+    "TextENGNew": "Under the evening sky, their two bright laughs echoed together...",
+    "significantChanges": true,
+    "changeReason": "OLD mistranslates 夕焼け空 (sunset/evening sky) as 'blue sky.'",
+    "changeScore": 4
+  }
+]

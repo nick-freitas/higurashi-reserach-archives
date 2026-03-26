@@ -1,0 +1,1848 @@
+[
+  {
+    "index": 1,
+    "MessageID": 86332,
+    "TextENGNew": "\"I'm sorry, Rena. ...Somewhere inside, I doubted you. I truly am sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 86333,
+    "TextENGNew": "\"No, it's all right, Keiichi-kun. ...If anything, it meant we got through the ambush safely.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 86334,
+    "TextENGNew": "\"Who are those people?! ...Are they agents of that fanatical group — the ones trying to resurrect the worship of Oyashiro-sama?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 86335,
+    "TextENGNew": "\"...I don't think they're aware of that themselves. The masterminds pulling their strings — they're the believers. ...They're probably the same people who've been working in the shadows on various schemes since the dam conflict.\"",
+    "significantChanges": true,
+    "changeReason": "New adds that the masterminds ARE the believers, a detail from JPN; old only says masterminds are 'using them as pawns.'",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 86336,
+    "TextENGNew": "\"...I have heard a little about the Sonozaki family pulling strings behind the scenes during the dam conflict itself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 86337,
+    "TextENGNew": "\"Yes. It's well known. ...This is something Ooishi-san told me —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 86338,
+    "TextENGNew": "\"During the dam conflict, there was a kidnapping. The case was never made public... but apparently someone kidnapped the grandson of the Minister of Construction and used that to strong-arm an under-the-table promise to halt the dam.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 86339,
+    "TextENGNew": "\"The Minister's grandson was kidnapped?! I've never heard anything about that!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 86340,
+    "TextENGNew": "\"The Minister agreed to their terms and a deal was struck in secret. That's why the incident was never made public. Ooishi-san knows about it only because he was personally involved in that case.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 86341,
+    "TextENGNew": "\"...I see... And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 86342,
+    "TextENGNew": "\"According to Ooishi-san, both the kidnapping of the grandson and the blackmail of the Minister were executed with a frightening level of sophistication. The police know the Sonozaki family gave the orders — but the case remains unsolved.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 86343,
+    "TextENGNew": "\"...At the time, Sonozaki Oryou — the head of the Sonozaki family — had announced a policy of armed resistance, and among her yakuza subordinates she organized a special strike force.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 86344,
+    "TextENGNew": "\"She was apparently quite serious about storming the Ministry of Construction and seizing it by force if she couldn't get the dam plan cancelled.\"",
+    "significantChanges": true,
+    "changeReason": "Old 'breaking the law' vs new 'something close to actual warfare'; JPN 狼藉行為 means violent/riotous conduct closer to warfare.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 86345,
+    "TextENGNew": "It's common knowledge that during the dam conflict, the Sonozaki family resisted with something close to actual warfare.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 86346,
+    "TextENGNew": "So it was hardly surprising that a dangerous plan like that had been in the making.",
+    "significantChanges": true,
+    "changeReason": "Old attributes the plan to Mion directly; new correctly says only a 'Mion-like sensibility,' matching JPN どことなく魅音っぽいセンス.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 86347,
+    "TextENGNew": "In fact, I could feel a certain Mion-like sensibility behind the whole scheme.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 86348,
+    "TextENGNew": "\"In the end, the plan never went beyond planning — but the strike force did actually undergo training, and at a very high level, apparently.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 86349,
+    "TextENGNew": "It was information Ooishi had obtained right after the dam conflict ended.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 86350,
+    "TextENGNew": "At the time, Oryou had even declared that if the village were to be submerged, all members of the Onigafuchi Guardians Alliance would choose to remain in their homes and sink with it — calling it the Onigafuchi Guardians Alliance Mass Suicide.",
+    "significantChanges": true,
+    "changeReason": "New adds the specific term 'total mass suicide of the Onigafuchi Guardians Alliance' from JPN 鬼ヶ淵死守同盟総自決, absent from old.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 86351,
+    "TextENGNew": "An armed assault on the Ministry of Construction was not something one could simply laugh off when it came from someone like Oryou.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 86352,
+    "TextENGNew": "According to the information Ooishi had gathered, this plan was conceived as a final suicide operation — a last resort should their resistance fail — developed in parallel with the escalation of the dam conflict.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 86353,
+    "TextENGNew": "And she had apparently gone as far as procuring actual weapons and training personnel to carry it out.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 86354,
+    "TextENGNew": "The strike force, selected from yakuza associates, received an enormous sum of money from Oryou and traveled to the United States.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 86355,
+    "TextENGNew": "In the deserts of the American South, they received intensive military training from retired soldiers.",
+    "significantChanges": true,
+    "changeReason": "Old calls them a 'death squad'; new corrects to 'assassination unit' and adds detail about kidnapping success from JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 86356,
+    "TextENGNew": "Though the plan itself was never carried out, the strike force returned to Japan and became an assassination unit under the direct command of Sonozaki Oryou, involved in numerous unsolved acts of intimidation — and successfully completing the kidnapping of the Minister's grandson.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 86357,
+    "TextENGNew": "\"...It sounds like something out of a movie...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 86358,
+    "TextENGNew": "\"You know how Mii-chan sometimes says she can do anything from flying helicopters to operating radios? That's actually true. It seems Mii-chan joined the training.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 86359,
+    "TextENGNew": "\"So she... she really...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 86360,
+    "TextENGNew": "\"...Well, setting Mii-chan aside for now. The point is that there exists in Hinamizawa an assassination unit capable of kidnapping even a government minister's grandson. You have to accept that much.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 86361,
+    "TextENGNew": "...I hadn't gotten a good look at the four men in the white van today — but thinking back on it, they did have a kind of professional air about them.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 86362,
+    "TextENGNew": "They were pretending to be merely taking a break, but there was a persistent, underlying tension to them.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 86363,
+    "TextENGNew": "\"So... are they actually trying to kill you?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 86364,
+    "TextENGNew": "\"...I don't think so. If they just wanted to kill me, I'd already be dead.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 86365,
+    "TextENGNew": "\"Then their goal is... could it be... Takano-san's scrapbooks...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 86366,
+    "TextENGNew": "\"Just as you saw yourself — they're quite cautious, and it seems they won't resort to force unless they find an opening. ...Because if they were willing to use force outright, they could have attacked me in my own bed at night.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 86367,
+    "TextENGNew": "\"The fact that they haven't done that means they're being careful about something.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 86368,
+    "TextENGNew": "\"It's probably because they aren't certain I have the scrapbooks. They killed Miyo-san and tried to dispose of all the ones she had — but then they found that the most important ones were missing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 86369,
+    "TextENGNew": "\"They figured she must have entrusted them to someone when she realized she was being targeted. I'm apparently their leading candidate. ...But without certainty, they can't act.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 86370,
+    "TextENGNew": "\"...Rena... you're walking a very dangerous line here...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 86371,
+    "TextENGNew": "\"I am. ...It's a little frightening, honestly. But they won't be able to get rid of me so easily. I'm working with Ooishi-san — keeping in constant contact with him in case something happens.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 86372,
+    "TextENGNew": "\"What does Ooishi-san say about all this?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 86373,
+    "TextENGNew": "\"He said he's keeping watch to see if the Sonozaki family is doing anything suspicious.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 86374,
+    "TextENGNew": "\"...Did you tell him about Takano-san's scrapbooks?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 86375,
+    "TextENGNew": "\"No. ...I didn't tell him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 86376,
+    "TextENGNew": "\"You should talk to the police about it... They could really help you!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 86377,
+    "TextENGNew": "\"...Keiichi-kun. I'm not even confident you would believe what the scrapbooks contain, even after I just told you. ...There's no way Ooishi-san would believe me if I told him.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 86378,
+    "TextENGNew": "\"Hey, Rena. No more dancing around it. Just tell me. What is it? What's written in those scrapbooks? What's so important in them that Takano-san was killed for it?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 86379,
+    "TextENGNew": "\"Simply put... if what's written in those scrapbooks is true — it would be the ruination of the god they worship.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 86380,
+    "TextENGNew": "\"Ruining... their god...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 86381,
+    "TextENGNew": "\"Yes. The sanctity of Oyashiro-sama would be lost. That's why those who want to resurrect the worship of Oyashiro-sama will stop at nothing to keep it buried.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 86382,
+    "TextENGNew": "\"Sorry, Rena — say that a little more plainly for me. What exactly does that mean?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 86383,
+    "TextENGNew": "\"In plain terms — Oyashiro-sama is not a god.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 86384,
+    "TextENGNew": "\"...Not... a god?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 86385,
+    "TextENGNew": "I had no idea what evidence led her to that conclusion — but whatever the content, for anyone who believed in Oyashiro-sama with fanatical devotion, it could only be the most profound blasphemy.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 86386,
+    "TextENGNew": "\"The teachings of Oyashiro-sama are numerous, but their original source is just one principle. That principle is: 'do not leave the village' and 'do not allow outsiders in.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 86387,
+    "TextENGNew": "\"One could even say that all the other teachings were developed in order to uphold those two fundamentals. The aspects that came later — 'love thy neighbor,' being a god of domestic peace, of matchmaking — those are genuinely retrofitted additions.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 86388,
+    "TextENGNew": "In other words, Oyashiro-sama existed solely for the purpose of keeping the villagers from going outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 86389,
+    "TextENGNew": "There is no blessing, no gift of abundance, no protection from disaster.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 86390,
+    "TextENGNew": "All of that is ornamentation added by later generations — nothing more.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 86391,
+    "TextENGNew": "So why did Oyashiro-sama descend to this place in the first place?",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 86392,
+    "TextENGNew": "Because demons welled up from Onigafuchi Swamp and attacked the people.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 86393,
+    "TextENGNew": "\"Actually... the interpretation was wrong from the very start. Demons didn't emerge from the swamp and attack. What emerged infested people — and those people became the demons who attacked the others.\"",
+    "significantChanges": true,
+    "changeReason": "New adds the causal chain from JPN more clearly: what emerged 'infested people' who then 'became the demons,' not just 'possessed people.'",
+    "changeScore": 3
+  },
+  {
+    "index": 63,
+    "MessageID": 86394,
+    "TextENGNew": "\"...What emerged...? What do you mean, Rena...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 86395,
+    "TextENGNew": "What emerged possessed people, entered their blood, seized control of them, and transformed them into demons.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 86396,
+    "TextENGNew": "Unable to resist, people fell one after another — becoming demons, attacking their fellow villagers, passing on the transformation, multiplying.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 86397,
+    "TextENGNew": "Yes. ...It was a strange, terrible disease that arose from the swamp.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 86398,
+    "TextENGNew": "A mass outbreak of some bizarre parasite that sent its hosts into violent frenzy.",
+    "significantChanges": true,
+    "changeReason": "Old just says 'made infected people go out of control'; new explicitly names 'bizarre parasite' per Japanese 寄生虫.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 86399,
+    "TextENGNew": "The villagers looked upon that catastrophe and interpreted it thus:",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 86400,
+    "TextENGNew": "That evil demons had welled up from the swamp's depths, possessed people, and turned them into demons as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 86401,
+    "TextENGNew": "That is the truth behind the legend of the demons that rose from Onigafuchi.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 86402,
+    "TextENGNew": "\"...It does... actually explain the legend rather well. ...So then, could it be that Oyashiro-sama was... a physician? Someone who came from abroad?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 86403,
+    "TextENGNew": "\"Yes — not precisely, but something in that direction. A figure that could be called a physician arrived here, and treated the epidemic. But it was not a cure — only palliative treatment.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 86404,
+    "TextENGNew": "Palliative treatment refers to treatment that addresses symptoms without curing the underlying cause.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 86405,
+    "TextENGNew": "...In other words, the villagers could suppress the symptoms — but could not drive out the parasites that had taken root within them.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 86406,
+    "TextENGNew": "Over time, the village divided into two.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 86407,
+    "TextENGNew": "Those already infected, and those not yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 86408,
+    "TextENGNew": "With no complete cure and only symptomatic suppression available, prejudice against the infected was severe.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 86409,
+    "TextENGNew": "There were voices calling for all of them to be driven into the swamp and drowned.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 86410,
+    "TextENGNew": "But killing all the infected would not solve the fundamental problem.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 86411,
+    "TextENGNew": "The parasite, the pathogen, welled up from water sources — the swamp foremost among them.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 86412,
+    "TextENGNew": "They couldn't fill them all in, and filling in the water sources would destroy the foundations of village life.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 86413,
+    "TextENGNew": "And abandoning this land, where the graves of their ancestors lay, was a choice too bitter to contemplate.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 86414,
+    "TextENGNew": "Under the power of \"Oyashiro-sama,\" the infected could live without their symptoms erupting.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 86415,
+    "TextENGNew": "And so the people chose to go on living together — infected and uninfected alike, without distinction — accepting a life of coexistence with the parasite.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 86416,
+    "TextENGNew": "\"Oyashiro-sama\" was moved by their resolve, and decided to remain in this place, continuing to treat them...",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 86417,
+    "TextENGNew": "\"...So that is the truth behind Oyashiro-sama watching over the life of humans and demons alike — staying in this land...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 86418,
+    "TextENGNew": "\"That's right. And Oyashiro-sama established rules so that the infected villagers would not show symptoms. The greatest and the only truly fundamental one was: never leave the village, and never let outsiders in.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 86419,
+    "TextENGNew": "\"The rule about not letting outsiders in I understand — it was to prevent further spread of the infection. But why couldn't people leave?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 86420,
+    "TextENGNew": "\"It seems the parasites can only survive in Hinamizawa because of the climate and the particular conditions here. So when a host — an infected person — tries to leave, they force a sudden surge of symptoms to obstruct them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 86421,
+    "TextENGNew": "\"...That obstruction is the true nature of 'the curse of Oyashiro-sama.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 86422,
+    "TextENGNew": "The defining features of the disease were delirium and violent aggression.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 86423,
+    "TextENGNew": "Those infected behaved precisely as 'demons' — and the impact of witnessing them in the grip of the disease was powerful enough to describe them as such.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 86424,
+    "TextENGNew": "This is why an unwitting traveler who strayed into the village and became infected could not simply be allowed to leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 86425,
+    "TextENGNew": "Should such a person reach a distant land, they would eventually fall into delirium — transforming into a violent demon and causing catastrophe.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 86426,
+    "TextENGNew": "So infected people were never allowed to leave the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 86427,
+    "TextENGNew": "If they did leave, they were brought back by any means necessary.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 86428,
+    "TextENGNew": "That — is the true meaning of being 'spirited away.'",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 86429,
+    "TextENGNew": "\"Hold on, Rena. ...If that's the case, then doesn't it mean you and I, and everyone in the village, are infected? But nothing happens to us when we leave Hinamizawa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 86430,
+    "TextENGNew": "\"In fact, plenty of villagers move far away when they get married or whatever. I've never heard of anyone from Hinamizawa going mad and turning into a demon after they left.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 86431,
+    "TextENGNew": "\"That's exactly right. It's because things proceeded exactly as Oyashiro-sama planned. Do you understand what I mean? The village was kept isolated for a long time in order to weaken the virulence of the parasite.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 86432,
+    "TextENGNew": "The parasite depends deeply on its host — should something happen to the host, whatever lives within shares the same fate.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 86433,
+    "TextENGNew": "In other words, if a host went mad and attacked people, that person would eventually be captured and killed — and the parasites within them would die along with the host.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 86434,
+    "TextENGNew": "\"...I see — natural selection...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 86435,
+    "TextENGNew": "\"Exactly, Keiichi-kun. ...Yes. As a result of living under those strict rules in this place for so long — those humans who were hypersensitive to the parasite went mad and were ultimately killed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 86436,
+    "TextENGNew": "\"Similarly, parasites that were too strong — those that drove their hosts into frenzy — were killed along with those frenzied hosts. The result was that only the strains of parasite that coexisted well with humans survived.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 86437,
+    "TextENGNew": "\"...And that is the truth behind what the legend of Oyashiro-sama describes as 'the mingling of human and demon blood.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 86438,
+    "TextENGNew": "\"So then... the parasite is essentially harmless now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 86439,
+    "TextENGNew": "\"Yes. According to Miyo-san's scrapbooks, cases of infection by a now-harmless parasite are actually quite common.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 86440,
+    "TextENGNew": "\"It depends on the food culture — in countries where raw meat is a dietary staple, up to about eighty percent of the population may be infected. But because it coexists harmlessly with the human body, no one notices, no one treats it, and so it's never eradicated.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 86441,
+    "TextENGNew": "\"...I... I see...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 86442,
+    "TextENGNew": "According to Rena, the Watanagashi of ancient times was written with characters meaning 'gut-flowing' — a grim ceremony involving the offering of the organs of infected sacrifices.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 86443,
+    "TextENGNew": "\"But even that had a reason. It was something they had to do.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 86444,
+    "TextENGNew": "\"...Don't tell me... a vaccine?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 86445,
+    "TextENGNew": "\"Ahaha, you really are clever, Keiichi-kun. Yes — that's how Miyo-san interpreted it as well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 86446,
+    "TextENGNew": "\"In practice it wasn't anything as crude as it sounds — it was handled in a far more medical manner, apparently.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 86447,
+    "TextENGNew": "...In other words, from infected sacrifices they extracted, in a primitive way, what we would call a vaccine — and used it to build up the villagers' own resistance.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 86448,
+    "TextENGNew": "It's the same principle as how, in ancient times, people with tetanus would take blue mold orally to produce penicillin naturally within their bodies.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 86449,
+    "TextENGNew": "\"...Who was Oyashiro-sama, really? ...Medical knowledge... A medically advanced country would be... Germany? Could his true identity be... a foreign physician who washed ashore from a shipwreck?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 86450,
+    "TextENGNew": "\"I think that's probably the most common-sense answer. ...He wasn't German, but being some kind of medical figure is correct.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 86451,
+    "TextENGNew": "\"It's kind of fascinating — watching the mysteries of an ancient legend get unraveled one by one. ...Heh heh.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 86452,
+    "TextENGNew": "By now I no longer thought Rena's story was outlandish.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 86453,
+    "TextENGNew": "It was undeniably a wild tale — but I had never encountered any hypothesis that explained so many of this village's legends as coherently as this one.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 86454,
+    "TextENGNew": "\"...I'm probably infected too, aren't I...? I'm starting to feel itchy all over...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 86455,
+    "TextENGNew": "\"A person is like a universe. There are countless bacteria living inside the human body. Among them are no small number that are essential to our daily lives.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 86456,
+    "TextENGNew": "\"Right, like the kind they advertise in yogurt commercials. ...That's true.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 86457,
+    "TextENGNew": "\"This is also from Miyo-san's notes, but — you know termites? The ones that eat through wood. It turns out termites actually can't digest wood on their own.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 86458,
+    "TextENGNew": "\"The special bacteria living inside them break down the cellulose in the wood, and that's how termites absorb what they eat. That's one example of coexisting with a parasite.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 86459,
+    "TextENGNew": "I hadn't known that.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 86460,
+    "TextENGNew": "...The word 'parasite' instinctively evokes revulsion — but they aren't all harmful by nature.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 86461,
+    "TextENGNew": "\"So — the terrifying epidemic that suddenly arose from Onigafuchi Swamp in the ancient past has now, essentially, become harmless. ...No, 'harmless' is more accurate than 'eradicated.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 86462,
+    "TextENGNew": "\"I thought it was an absurd story at first — but now that the puzzle pieces have been explained one by one, it feels almost scientific. It's actually rather fascinating.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 86463,
+    "TextENGNew": "\"It is, for us. ...But for those who worship Oyashiro-sama as a god — this theory is profoundly unwelcome.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 86464,
+    "TextENGNew": "Naturally.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 86465,
+    "TextENGNew": "...If Takano-san's theory was correct, then Oyashiro-sama was no god at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 86466,
+    "TextENGNew": "And 'the curse of Oyashiro-sama,' which people had feared as divine punishment, would turn out to be nothing more than the outbreak of a disease.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 86467,
+    "TextENGNew": "I see... that's what Rena meant at the very beginning by 'the ruination of their god.'",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 86468,
+    "TextENGNew": "\"...Which would mean that if the pathogen of this epidemic were identified and announced to the world — the whole faith would collapse.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 86469,
+    "TextENGNew": "\"Exactly. That's what they fear above all else. And Miyo-san was apparently on the verge of identifying that pathogen. ...The fact that she was eliminated means...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 86470,
+    "TextENGNew": "\"...She identified it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 86471,
+    "TextENGNew": "\"Perhaps. ...But she's gone now, and it isn't stated in her scrapbooks that she succeeded. It's just that I can't think of any other reason she would have been eliminated.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 86472,
+    "TextENGNew": "\"But... it's nearly the end of the twentieth century. The villagers must have undergone all kinds of medical examinations by now. And yet there's been no report of any suspicious parasite being found — has there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 86473,
+    "TextENGNew": "\"That's true. The pathogen itself has not yet been discovered. But there is confirmation that some kind of parasitic infection is present.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 86474,
+    "TextENGNew": "\"Wh-What?! Really?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 86475,
+    "TextENGNew": "When a parasite enters the human body, immune cells — eosinophils and macrophages — mobilize to expel it.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 86476,
+    "TextENGNew": "For this purpose, the body secretes an antibody called Immunoglobulin E — IgE for short.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 86477,
+    "TextENGNew": "Looking at the levels of this antibody secretion is the standard method for determining whether someone is hosting a pathogen.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 86478,
+    "TextENGNew": "According to Takano's research, people of Hinamizawa origin consistently show IgE levels in their blood that exceed the average.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 86479,
+    "TextENGNew": "And that's not all.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 86480,
+    "TextENGNew": "People from Hinamizawa don't merely have elevated IgE — there is further, more unmistakable evidence of parasitic infection.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 86481,
+    "TextENGNew": "That evidence is the absence of allergic reactions.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 86482,
+    "TextENGNew": "IgE is known to stimulate mast cells, which then secrete histamine and serotonin — chemicals that trigger allergic responses.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 86483,
+    "TextENGNew": "These reactions are unpleasant for the human body, but they are unavoidable — they are the body's necessary mechanism for expelling pathogens.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 86484,
+    "TextENGNew": "However, parasites, in order to avoid being destroyed by this process, secrete substances that neutralize IgE.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 86485,
+    "TextENGNew": "As a result, the neutralized IgE no longer stimulates the IgE receptors of mast cells, and no stimulant chemicals are secreted.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 86486,
+    "TextENGNew": "Consequently, the antigen-antibody reaction — the allergic response — does not occur.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 86487,
+    "TextENGNew": "In other words, a human body hosting a parasite secretes abundant IgE but does not display allergic reactions.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 86488,
+    "TextENGNew": "As a footnote — because of this, a body hosting a parasite is also immune to hay fever.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 86489,
+    "TextENGNew": "Hay fever works because the body mistakes pollen for a parasitic invasion and secretes large quantities of IgE.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 86490,
+    "TextENGNew": "This causes histamine and other stimulants to be released in great volumes — but there is no actual parasite present to target.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 86491,
+    "TextENGNew": "And so the body continues secreting IgE indefinitely.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 86492,
+    "TextENGNew": "And so the stimulants continue triggering allergic responses, indefinitely. That is how hay fever works.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 86493,
+    "TextENGNew": "But if a parasite is present, it neutralizes the IgE and suppresses the secretion of stimulants.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 86494,
+    "TextENGNew": "As a result, no allergic reaction occurs.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 86495,
+    "TextENGNew": "In other words — by this logic, there is no hay fever in Hinamizawa, and anyone suffering from hay fever could cure it by moving here.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 86496,
+    "TextENGNew": "\"...So while the pathogen can't yet be specifically identified, its existence is beyond doubt.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 86497,
+    "TextENGNew": "\"Yes. That's right.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 86498,
+    "TextENGNew": "\"In that case... the scrapbooks are quite dangerous to those believers, even without identifying the pathogen. Proving the existence of the parasite alone is dangerous enough, I'd think.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 86499,
+    "TextENGNew": "\"You're right. ...Even without hard proof, I believe they judged it worth killing Miyo-san over.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 86500,
+    "TextENGNew": "\"This really is... a frightening secret. Explained step by step, I can follow it — but if you'd told me only the conclusion out of nowhere, it would have been too unbelievable to take seriously.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 86501,
+    "TextENGNew": "\"See?! I couldn't believe it at first myself. So I was sure you wouldn't either.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 86502,
+    "TextENGNew": "\"...And the important thing, when all is said and done, is that there are dangerous people working in the shadows to suppress this truth.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 86503,
+    "TextENGNew": "\"Yes. That is the critical thing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 86504,
+    "TextENGNew": "For the believers in Oyashiro-sama, the restoration of their god's sanctity is the absolute premise of everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 86505,
+    "TextENGNew": "Restoring the majesty of their god means restoring the power of that god.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 86506,
+    "TextENGNew": "And the power of their god is... the epidemic.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 86507,
+    "TextENGNew": "...Not that it spreads without limit across the country, as with other diseases.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 86508,
+    "TextENGNew": "Let me change the terminology to 'endemic disease' from here on.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 86509,
+    "TextENGNew": "It's geographically limited to this area, and that term is more fitting.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 86510,
+    "TextENGNew": "Now, the endemic disease of present-day Hinamizawa differs from its ancient form.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 86511,
+    "TextENGNew": "After the long process of natural selection, it has been almost entirely subdued and rendered harmless.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 86512,
+    "TextENGNew": "Harmless means it causes no harm to the human body.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 86513,
+    "TextENGNew": "What was once called 'the curse' was precisely that harm.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 86514,
+    "TextENGNew": "Since 'the curse' is 'the power of the god,' one can say that with the disease now harmless, the god's majesty has fallen to the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 86515,
+    "TextENGNew": "Which means — reclaiming 'the curse' is the path to reclaiming 'the god's majesty.'",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 86516,
+    "TextENGNew": "And that means: resurrecting the ancient form of the endemic disease — the version of the parasite that was violently harmful.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 86517,
+    "TextENGNew": "\"Wait a moment! The fanatics want to deny the fact that their god was actually a parasite — but you're saying they're researching the parasite. Isn't that contradictory?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 86518,
+    "TextENGNew": "\"It is contradictory. That's why I think this research is known only to the highest tier of the believers — it's a secret held at the very top.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 86519,
+    "TextENGNew": "\"On the surface they appear to be devotees of their faith — but behind the scenes they understand the true nature of that faith with cold clarity, and they're trying to resurrect its divine power with their own hands.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 86520,
+    "TextENGNew": "\"...I see... My god, this story keeps getting more and more outrageous...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 86521,
+    "TextENGNew": "\"Miyo-san's scrapbooks don't say so directly, but... I suspect the clinic. The coach's clinic.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 86522,
+    "TextENGNew": "\"The Irie Clinic? ...Why?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 86523,
+    "TextENGNew": "\"The facilities are far too elaborate for a village the size of Hinamizawa. And Miyo-san worked there. The coach might actually be a bacteriologist the Sonozaki family recruited...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 86524,
+    "TextENGNew": "\"...The coach...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 86525,
+    "TextENGNew": "\"I think Miyo-san was eliminated because she came to know too much. The reason the coach hasn't been eliminated is because he's a contractor in the service of the believers.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 86526,
+    "TextENGNew": "\"And... he's researching the ancient harmful form of the endemic disease...? ...The coach we know, doing something like that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 86527,
+    "TextENGNew": "\"...I'm sorry. He might have nothing to do with it. That was speculation on my part. But there's no doubt someone is conducting the research somewhere. And that research took five years and has now, apparently, reached completion.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 86528,
+    "TextENGNew": "The first incident was the murder committed by the dam construction workers.",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 86529,
+    "TextENGNew": "What began as a quarrel and escalated into killing — could that have been the manifestation of the ancient parasite's symptoms: delirium and violent aggression?",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 86530,
+    "TextENGNew": "The second year's incident: Satoko's parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 86531,
+    "TextENGNew": "With no witnesses, it remains shrouded in mystery — but given the sturdiness of the observation platform railing they fell from, there's a theory that someone pushed them over.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 86532,
+    "TextENGNew": "What if one of them had been infected by the ancient parasite, driven to violence, and pushed the other off?",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 86533,
+    "TextENGNew": "The third year: the shrine priest's death from illness, and his wife's drowning suicide.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 86534,
+    "TextENGNew": "The priest may have died from an acute hypersensitive reaction to the infection.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 86535,
+    "TextENGNew": "His wife's drowning could be explained by the other symptom — not violence, but delirium.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 86536,
+    "TextENGNew": "The fourth year: in all likelihood, Houjou Satoshi's murder of his aunt.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 86537,
+    "TextENGNew": "Anyone who knew Satoshi-kun from back then remembers how drastically he changed.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 86538,
+    "TextENGNew": "He exhibited traits of both symptoms — delirium and violent aggression.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 86539,
+    "TextENGNew": "And the fifth year.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 86540,
+    "TextENGNew": "For the first time in five years, the victim reproduced the phenomenon described in the ancient scrolls kept secret by the Furude Shrine.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 86541,
+    "TextENGNew": "The reason remains unclear, but the ancient, more virulent strain of the parasite may have carried the power to induce in its hosts a delusion that something was crawling out from beneath the skin.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 86542,
+    "TextENGNew": "In other words, after five years, they had finally succeeded in reproducing the ancient symptom documented in those scrolls — 'the curse of Oyashiro-sama.'",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 86543,
+    "TextENGNew": "Tomitake-san was the victim of that fifth year. His manner of death was profoundly abnormal — and I am the only one who truly understands it, having experienced the same thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 86544,
+    "TextENGNew": "He kept clawing at the wound, trying to dig out whatever he felt crawling inside him — and died as a result.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 86545,
+    "TextENGNew": "With all this explained, I could also account for every aspect of that terrible sensation I experienced in Ibaraki.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 86546,
+    "TextENGNew": "I had gone far from Hinamizawa, and the parasites within me — though rendered nearly harmless — were made uncomfortable.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 86547,
+    "TextENGNew": "They mounted a faint resistance, and must have been instilling in me a gentle, persistent homesickness.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 86548,
+    "TextENGNew": "But my mother's divorce struck me with a profound emotional shock, and my mental defenses collapsed entirely for a time.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 86549,
+    "TextENGNew": "And so the parasites — normally weakened to the point of harmlessness — were able to trigger violently acute symptoms in me.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 86550,
+    "TextENGNew": "The result: my delirium and violent outburst.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 86551,
+    "TextENGNew": "...The vision of Oyashiro-sama descending to me in that bathroom was probably the terminal phase of that delirium.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 86552,
+    "TextENGNew": "I created the image of Oyashiro-sama — a supernatural presence imprinted on me since childhood — and through that delusion convinced myself to return to Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 86553,
+    "TextENGNew": "Surely there must have been those among the ancient sages of Onigafuchi who experienced something similar.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 86554,
+    "TextENGNew": "They must have passed those mystical experiences down as the miracles of a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 86555,
+    "TextENGNew": "I seem to recall watching a television documentary about indigenous people in South America who ingested natural hallucinogenic compounds to induce an altered state — and called it a ritual of communion with their gods...",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 86556,
+    "TextENGNew": "\"So... the fanatics' goal is to release that ancient parasite across all of Hinamizawa!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 86557,
+    "TextENGNew": "\"I believe that is their ultimate objective. But I don't think they'll do it in secret. Religions require ceremony. And so if they ever succeed in producing what they're after and the day comes to release it —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 86558,
+    "TextENGNew": "\"...They'll probably name it something like 'the Day of Oyashiro-sama's Revival' and stage it as a grand religious demonstration. Some kind of special ritual — something tremendous that proclaims and celebrates the resurrection of Oyashiro-sama.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 86559,
+    "TextENGNew": "\"...Hey, that's... a bad thing, right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 86560,
+    "TextENGNew": "\"Yes, I'd say releasing an extremely dangerous pathogen probably falls into the category of bad things.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 86561,
+    "TextENGNew": "\"That's bioterrorism, isn't it?! ...This is incredibly serious!! There's nothing the two of us can do about this on our own! We have to involve the police!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 86562,
+    "TextENGNew": "\"Do you think they'll believe us?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 86563,
+    "TextENGNew": "\"Whether they believe us or not is for them to decide! The point is we have to tell them!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 86564,
+    "TextENGNew": "\"Keiichi-kun. If I tell Ooishi-san all of this... it's the same as confessing to him that I have the scrapbooks.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 86565,
+    "TextENGNew": "\"...Is that a problem?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 86566,
+    "TextENGNew": "\"Ooishi-san first made contact with me after Miyo-san was killed. The enemy knew that the scrapbooks went missing when she died, and they also know that she and I met at the library a few days before that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 86567,
+    "TextENGNew": "\"...That's... wait —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 86568,
+    "TextENGNew": "\"Yes. Ooishi-san himself might be an agent of the enemy. He may have concluded that I'm likely to have the scrapbooks and is probing to confirm it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 86569,
+    "TextENGNew": "\"...Impossible. ...You mean...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 86570,
+    "TextENGNew": "\"Yes. He's quite evasive and never seems to show his full hand. He feeds me things to make me suspicious of the Sonozaki family while presenting himself as my ally — but he could just as easily be their agent.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 86571,
+    "TextENGNew": "\"B-But if we start doubting the police we're completely stuck...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 86572,
+    "TextENGNew": "\"Keiichi-kun, you know about the fourth-year murder, don't you? Satoko-chan's aunt. The most logical conclusion is that Satoshi-kun did it — and yet the police settled on a drug addict as the perpetrator. What do you make of that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 86573,
+    "TextENGNew": "...Yes — another suspect had materialized as if to argue that Satoshi was not the killer, and died before the truth could be confirmed.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 86574,
+    "TextENGNew": "\"...Someone within the police is working for the fanatics... and they manufactured a false perpetrator...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 86575,
+    "TextENGNew": "\"The same goes for the autopsy of the shrine priest who allegedly died of illness in the third year, and the inspection of the site where the Houjou couple died in the second year. ...If the police are in their pocket, any number of perfect crimes become possible.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 86576,
+    "TextENGNew": "\"The Three Families have been maintaining pressure on the police continuously from the dam conflict right up to today.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 86577,
+    "TextENGNew": "\"...And Mii-chan has mentioned that various branches of the family have extended their reach into influential positions all over Okinomiya, hasn't she?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 86578,
+    "TextENGNew": "\"Y-Yes, she has. And it wasn't only Mion who told me that — I heard it from multiple people. Just how extensive the Sonozaki family's influence is across the entire city...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 86579,
+    "TextENGNew": "\"...Exactly. Here in this place, the police cannot necessarily be trusted.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 86580,
+    "TextENGNew": "\"Rena, I need to ask — I'm sorry, but I have to know clearly before anything else: Is the Sonozaki family the mastermind?! Does that mean Mion is involved?! Please, just answer that first!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 86581,
+    "TextENGNew": "\"...I don't know whether Mii-chan or Rika-chan are directly involved. What I can say with certainty is that the fanatical faction has taken root in the central authority of the Three Families — including, most critically, the Sonozaki family as the most powerful of the three.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 86582,
+    "TextENGNew": "\"...I can't tell whether the fanatics infiltrated the Three Families, or whether the inner core of the Three Families is itself fanatical.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 86583,
+    "TextENGNew": "\"Since we can't rule out their involvement... caution is the only approach?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 86584,
+    "TextENGNew": "\"Yes. ...I'm not saying I distrust Mii-chan herself. Ordinarily she's someone I could rely on — for any other trouble, I'd confide in her and ask for her help.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 86585,
+    "TextENGNew": "\"But this situation is different in kind. ...I don't know if you've seen it, but — Mii-chan jokes around with us all the time, but when she conducts herself as the future head of the Sonozaki family, she becomes a completely different, utterly cold person.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 86586,
+    "TextENGNew": "\"...And even if she had nothing to do with it — telling her might draw her into danger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 86587,
+    "TextENGNew": "\"If Mion were on our side it would be enormously reassuring...! I think she's worth telling...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 86588,
+    "TextENGNew": "\"No — we shouldn't! Not until we can confirm she's not on their side. Yes, it would be incredibly reassuring to have her with us — but what if she weren't?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 86589,
+    "TextENGNew": "\"So then... just the two of us — how do we fight this?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 86590,
+    "TextENGNew": "\"Well. This is a battle we had no hope of winning from the very beginning. ...That's why I didn't want to involve you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 86591,
+    "TextENGNew": "\"...Damn it! ...Takano-san left us one hell of a parting gift...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 86592,
+    "TextENGNew": "\"But because of it, we know about the conspiracy. I believe this is Miyo-san's will — what she left behind.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 86593,
+    "TextENGNew": "\"Two kids against the shadowy power controlling their own village... This is the hardest thing I've ever faced. There's no easy way through this.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 86594,
+    "TextENGNew": "\"...But I'm so glad to have you on my side, Keiichi-kun. With two of us, we can talk it through. We can plan together.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 86595,
+    "TextENGNew": "\"Of course. I've been your ally from the very beginning!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 86596,
+    "TextENGNew": "\"...Yes. ...Thank you. Having you makes all the difference.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 86597,
+    "TextENGNew": "\"Better to put two heads together than to struggle alone!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 86598,
+    "TextENGNew": "\"Exactly. Let's take our time and figure out how to fight this together. I stayed home today to re-read the scrapbooks, but from tomorrow I'll go back to my normal routine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 86599,
+    "TextENGNew": "\"Acting strangely might tip them off. You should do the same, Keiichi-kun — live normally, without looking guarded. Mii-chan is sharp sometimes, so be especially careful around her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 86600,
+    "TextENGNew": "\"Understood. I'll act as if I know nothing. ...God, though, I'm scared...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 86601,
+    "TextENGNew": "\"An enormous conspiracy is closing in, and the countdown may already have started. ...And knowing that, I'm supposed to just live normally. It's not easy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 86602,
+    "TextENGNew": "\"I don't think it'll happen very soon. Like I said before — the more devout they are, the more they need a proper religious ceremony.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 86603,
+    "TextENGNew": "\"Something like that would involve the whole village. And there's no event in present-day Hinamizawa bigger than the Watanagashi.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 86604,
+    "TextENGNew": "\"...So at minimum, we have until next year's Watanagashi?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 86605,
+    "TextENGNew": "\"That's a guess without a real basis. ...I just can't think of anything bigger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 86606,
+    "TextENGNew": "...I thought we probably had at least a year.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 86607,
+    "TextENGNew": "But... the urgency with which Miyo-san had been killed made it impossible not to feel some pressing danger.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 86608,
+    "TextENGNew": "Maybe there was a 'religious event' of far greater magnitude than the Watanagashi — one I simply didn't know about yet...?",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 86609,
+    "TextENGNew": "Maybe there was almost no time left at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 86610,
+    "TextENGNew": "Maybe the day they would scatter that terrible parasite — 'the Day of Oyashiro-sama's Revival' — was already nearly upon us...",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 86611,
+    "TextENGNew": "\"...Reina. Still on the phone? Wrap it up soon.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 86612,
+    "TextENGNew": "Her father stuck his head out from the living room, reminding her it was getting late and she should hang up.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 86613,
+    "TextENGNew": "I'd thought many times about confiding in Father.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 86614,
+    "TextENGNew": "It was natural to feel that family would be the closest ally of all.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 86615,
+    "TextENGNew": "But... I also knew his weaknesses too well. I couldn't find the courage.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 86616,
+    "TextENGNew": "I didn't think he'd believe me anyway — and even if he did, in the end all he'd be able to suggest would be going to the police.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 86617,
+    "TextENGNew": "It was better not to tell him.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 86618,
+    "TextENGNew": "To deceive the enemy, begin with your allies, as the saying goes.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 86619,
+    "TextENGNew": "If Father had never known about the scrapbooks from the start, there would be nothing the enemy could wring from him, no matter how they worked on him.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 86620,
+    "TextENGNew": "\"Sorry, Keiichi-kun. I have to hang up — it's getting late. I'll see you at school tomorrow.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 86621,
+    "TextENGNew": "\"Right. See you tomorrow.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 86622,
+    "TextENGNew": "\"...Take care of yourself, all right? You're not an outsider anymore.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 86623,
+    "TextENGNew": "\"...Y-Yeah. I'll be careful.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 86624,
+    "TextENGNew": "I remembered the men in the white van, and felt a chill run up my spine again.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 86625,
+    "TextENGNew": "They'd looked like villagers at first glance — but they weren't.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 86626,
+    "TextENGNew": "...They'd spoken with the local accent — but they'd only been performing it.",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 86627,
+    "TextENGNew": "The more I remembered them, the more unsettling they became, and the more I understood that neither Rena nor I was in any safe place.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 86628,
+    "TextENGNew": "If Rena was right, they only suspected her — they didn't have solid confirmation. ...But that was no comfort at all. It was still deeply unnerving.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 86629,
+    "TextENGNew": "Rena had probably endured this same creeping unease from the white van over and over again — sensing the danger around her more vividly than I could.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 86630,
+    "TextENGNew": "But... the fact that they weren't attacking — that they were only watching, monitoring — that was in its own way more disturbing.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 86631,
+    "TextENGNew": "If they had attacked, there would have been options — going to the police, for one thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 86632,
+    "TextENGNew": "But when all they were doing was staying close and observing, there was nothing she could do, and no one she could tell.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 86633,
+    "TextENGNew": "Rena must have wanted to stay locked in her house, never going out. ...But if she behaved noticeably differently, they might take it as proof that she had the scrapbooks.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 86634,
+    "TextENGNew": "Rena surely didn't want to go to school—she'd rather stay shut up at home.@k...But if she acted noticeably different from normal, it might tip people off that she had the scrapbooks.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 86635,
+    "TextENGNew": "We have to think about how to fight against them... without making it obvious.",
+    "significantChanges": true,
+    "changeReason": "Old and new translations cover different content; old discusses 'how to fight' while new describes 'placing the receiver down.'",
+    "changeScore": 3
+  },
+  {
+    "index": 305,
+    "MessageID": 86636,
+    "TextENGNew": "Telling myself there was no turning back now, I set the receiver down on a line that had long since gone dead.",
+    "significantChanges": false
+  }
+]

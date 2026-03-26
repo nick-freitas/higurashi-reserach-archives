@@ -1,0 +1,574 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8048,
+    "TextENGNew": "My name is Satoko Houjou.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 8049,
+    "TextENGNew": "But 'Houjou' is my current father's family name.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 8050,
+    "TextENGNew": "When I had different fathers, I was Satoko Hatake, Satoko Yoshizawa, and Satoko Matsuura.",
+    "significantChanges": true,
+    "changeReason": "New adds causal context from the Japanese: 'When I had different fathers' explicitly explains WHY the names changed, which the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 8051,
+    "TextENGNew": "So when someone calls me 'Houjou-san,' it still doesn't feel like it belongs to me.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'it still doesn't feel like it belongs to me' from the Japanese しっくり来ません, conveying a sense of alienation beyond mere unfamiliarity.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 8052,
+    "TextENGNew": "If they call me Satoko, I can tell right away they mean me.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8053,
+    "TextENGNew": "Because Satoko is the only name I've been called since the day I was born.",
+    "significantChanges": true,
+    "changeReason": "New adds 'only' (matching Japanese 唯一 'sole/only'), emphasizing uniqueness that the original missed.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 8054,
+    "TextENGNew": "I don't understand why my mother keeps getting divorced and remarried.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 8055,
+    "TextENGNew": "If she's going to get divorced, why get married?",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8056,
+    "TextENGNew": "If she's going to get married, why get divorced?",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8057,
+    "TextENGNew": "I've asked her about it several times, but her answers changed depending on the circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 8058,
+    "TextENGNew": "When I asked while she was married, she got angry.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 8059,
+    "TextENGNew": "When I asked after a divorce, she cried.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 8060,
+    "TextENGNew": "I don't understand what marriage means.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 8061,
+    "TextENGNew": "So I have no interest in the brides and wedding dresses the other girls my age draw with their crayons.",
+    "significantChanges": true,
+    "changeReason": "Original implies Satoko herself would draw; new correctly says she has no interest in what OTHER girls her age draw with crayons, matching the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 8062,
+    "TextENGNew": "I don't think I'll ever get married.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 8063,
+    "TextENGNew": "I don't want to keep changing my child's last name and confusing them, so I don't want to get married.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the full reasoning from the Japanese: 'confusing them' and the conclusion 'so I don't want to get married', which the original truncated.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 8064,
+    "TextENGNew": "A teacher once asked me if I liked my mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 8065,
+    "TextENGNew": "I think it was during kindergarten in Okinomiya.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 8066,
+    "TextENGNew": "That was a very difficult question.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 8067,
+    "TextENGNew": "Because sometimes I loved her dearly and sometimes I hated her intensely—I couldn't say which it was.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 8068,
+    "TextENGNew": "When my mother was kind, she was always smiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 8069,
+    "TextENGNew": "She made our family fun and lively.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'our family fun and lively' matching the Japanese 家族を楽しく盛り上げて (made family fun and lively), while original just says 'She made us happy'.",
+    "changeScore": 2
+  },
+  {
+    "index": 23,
+    "MessageID": 8070,
+    "TextENGNew": "She told me, 'Thank you for being born.'",
+    "significantChanges": true,
+    "changeReason": "Original 'thanked me for being her daughter' differs from the Japanese 生まれてきてありがとう meaning 'thank you for being born'; the new translation correctly captures this.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 8071,
+    "TextENGNew": "When my mother wasn't kind, she was always irritable.",
+    "significantChanges": true,
+    "changeReason": "Original says 'frowned all the time' but the Japanese says イライラ (irritable/frustrated); new correctly translates this emotional state.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 8072,
+    "TextENGNew": "She was cruel—so cruel—to my brother and me.",
+    "significantChanges": true,
+    "changeReason": "New captures the Japanese repetition 辛く辛く (cruel, so cruel) with emphatic repetition that the original's 'very poorly' misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 8073,
+    "TextENGNew": "She told me, 'I wish I'd never had you.'",
+    "significantChanges": true,
+    "changeReason": "Old says 'I should have never been born' (Satoko internalizing); new says 'I wish I'd never had you' (quoting the mother). Both convey birth regret but differ in attribution/voice.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 8074,
+    "TextENGNew": "The teacher also asked me if I liked my father.",
+    "significantChanges": true,
+    "changeReason": "New adds 'also' matching the Japanese とも, indicating this question followed the previous one; the original omits this connection.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 8075,
+    "TextENGNew": "That was a very easy question.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 8076,
+    "TextENGNew": "Because my father was only ever someone I hated intensely. No matter which father it was.",
+    "significantChanges": true,
+    "changeReason": "New clarifies 'No matter which father it was' matching the Japanese 大嫌いな時と大嫌いな時しかなくて (only times of intense hatred), while original's 'No matter who he was' is vaguer.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 8077,
+    "TextENGNew": "A newly married father was always smiling.",
+    "significantChanges": true,
+    "changeReason": "Original uses plural 'fathers' generalizing across multiple stepfathers; new uses singular 'father' matching the Japanese singular perspective of each individual new father.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 8078,
+    "TextENGNew": "He would dote on me as though I were his real daughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 8079,
+    "TextENGNew": "He would tell me, 'You can think of me as your real father.'",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 8080,
+    "TextENGNew": "But he could never be my real father.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 8081,
+    "TextENGNew": "In the first place, I didn't even know my real father's face.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 8082,
+    "TextENGNew": "When a stranger like that asks me to call him 'Father,' I can't do it.",
+    "significantChanges": true,
+    "changeReason": "New adds 'a stranger like that' matching the Japanese そんな人 (such a person/stranger), providing context the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 8083,
+    "TextENGNew": "It's just revolting.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 8084,
+    "TextENGNew": "Right before a divorce, my father was always irritable.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 8085,
+    "TextENGNew": "He treated me like a cockroach.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 8086,
+    "TextENGNew": "He said horrible things to me and flew into a rage over the slightest displeasure.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates specific actions ('no money for food, threw things, locked on veranda') not in JPN, which says 'said horrible things and flew into a rage over the slightest displeasure.'",
+    "changeScore": 4
+  },
+  {
+    "index": 40,
+    "MessageID": 8087,
+    "TextENGNew": "A teacher told me I could forget about all that because it was in the past.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 8088,
+    "TextENGNew": "I think it was a different teacher at a different school.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 8089,
+    "TextENGNew": "Maybe she was right.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 8090,
+    "TextENGNew": "Because ever since Houjou became my father, my mother has been smiling.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 8091,
+    "TextENGNew": "The kind of bitter fighting that always preceded a divorce hasn't happened.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 8092,
+    "TextENGNew": "...They do quarrel sometimes, but for some reason it never leads to divorce—they always make up.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 8093,
+    "TextENGNew": "But I'm sure the topic of divorce will come up sooner or later.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 8094,
+    "TextENGNew": "Then it'll be the same as always—money, where to live next... those conversations will start right away.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'family court, divorce settlements, a night flight, and child support' not in JPN, which simply says 'money, where to live next.'",
+    "changeScore": 4
+  },
+  {
+    "index": 48,
+    "MessageID": 8095,
+    "TextENGNew": "So I don't know how long this Houjou father will last, and I have no desire to call him Father.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 8096,
+    "TextENGNew": "At first, this father also treated me well.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 8097,
+    "TextENGNew": "But no matter how many times he asked me to call him Father, I wouldn't, and he grew more and more irritated.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 8098,
+    "TextENGNew": "Divorce will come soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 8099,
+    "TextENGNew": "When a father starts acting this way, divorce is on the horizon.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 8100,
+    "TextENGNew": "After the divorce, it will be my mother's turn to be irritable.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 8101,
+    "TextENGNew": "And then she'll tell me she should never have had me, or that she can't be happy because of me.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 8102,
+    "TextENGNew": "Why does my very existence cause problems for my mother?",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 8103,
+    "TextENGNew": "I asked my brother, and he explained it to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 8104,
+    "TextENGNew": "Apparently, having children makes it harder to remarry.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 8105,
+    "TextENGNew": "Since remarrying is such important work for my mother, I can understand how having children around would be difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 8106,
+    "TextENGNew": "I think I finally understand, just a little, why I'm a nuisance to her.",
+    "significantChanges": true,
+    "changeReason": "New adds 'just a little' from the Japanese 少しだけ, conveying Satoko's partial understanding that the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 8107,
+    "TextENGNew": "So I asked my brother something else.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 8108,
+    "TextENGNew": "Why are children hated by new fathers?",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 8109,
+    "TextENGNew": "That was simple too.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 8110,
+    "TextENGNew": "It's because family members have different roles.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 8111,
+    "TextENGNew": "A mother's role is to love her children.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 8112,
+    "TextENGNew": "A father's role is to love the mother.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 8113,
+    "TextENGNew": "Which means I am a nuisance to both my mother and my father.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 8114,
+    "TextENGNew": "My brother is much more mature than I am, so they don't treat him like as much of a bother.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 8115,
+    "TextENGNew": "But me—I am certainly, definitely, probably, no... absolutely a nuisance.",
+    "significantChanges": true,
+    "changeReason": "New captures the Japanese's deliberate escalation きっと絶対、多分それでも、いや必ず (certainly, definitely, probably even so, no, absolutely), while original simplifies to just two stages.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 8116,
+    "TextENGNew": "So now I understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 8117,
+    "TextENGNew": "Both my mother and my father wish I were dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 8118,
+    "TextENGNew": "But if they killed me, the police would catch them.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 8119,
+    "TextENGNew": "That doesn't mean they'd never try.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 8120,
+    "TextENGNew": "If I happened to be peering over the edge of a cliff,",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 8121,
+    "TextENGNew": "and no one was watching,",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 8122,
+    "TextENGNew": "my mother and father would surely push me off.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 8123,
+    "TextENGNew": "My father has become strangely, disgustingly nice to me lately.",
+    "significantChanges": true,
+    "changeReason": "New adds 'disgustingly' matching the Japanese 気持ち悪いくらいに (to the point of being creepy/disgusting), which 'abnormally' doesn't capture.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 8124,
+    "TextENGNew": "He started acting that way right after I made that fake phone call.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 8125,
+    "TextENGNew": "It must be a strategy to lower my guard so he can kill me.",
+    "significantChanges": true,
+    "changeReason": "New adds 'to lower my guard' from the Japanese 油断させよう (make me let my guard down), specifying the strategy that the original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 8126,
+    "TextENGNew": "So I'm going to make sure I'm never fooled.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 8127,
+    "TextENGNew": "...I'm sorry,@|@y I'm sorry,@|@y I'm sorry,@|@y I'm sorry...",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 8128,
+    "TextENGNew": "Lately, if I listen very carefully, I can hear a voice that keeps apologizing.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 8129,
+    "TextENGNew": "Whoever it is must be just like me—told by their mother that they shouldn't have been born.",
+    "significantChanges": true,
+    "changeReason": "Original adds 'The voice sounds similar to mine' which is not in the Japanese; new correctly translates 'must be just like me' without the invented detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 8130,
+    "TextENGNew": "...I'm sorry,@|@y I'm sorry,@|@y I'm sorry,@|@y I'm sorry...",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 8131,
+    "TextENGNew": "But I won't apologize like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 8132,
+    "TextENGNew": "I will survive.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 8133,
+    "TextENGNew": "I will fight back and win.",
+    "significantChanges": true,
+    "changeReason": "New adds 'and win' from the Japanese 返り討ちにしてやっつける (fight back and defeat them), while original only says 'strike back'.",
+    "changeScore": 2
+  },
+  {
+    "index": 87,
+    "MessageID": 8134,
+    "TextENGNew": "I will kill before I am killed.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 8135,
+    "TextENGNew": "...I'm sorry,@|@y I'm sorry,@|@y I'm sorry,@|@y I'm sorry...",
+    "significantChanges": false
+  }
+]

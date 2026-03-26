@@ -1,0 +1,165 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "East Round Three",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 14022,
+    "TextENGNew": "\"Nfu-fu-fu-fu! There it is -- ron.@k@vS20/11/440700208_01.Chun with three dora. That's mangan.\"",
+    "significantChanges": true,
+    "changeReason": "Old translation incorrectly says 'Three chun, three dora'; new correctly parses 中ドラ３ as 'Chun with three dora' (chun is the yaku, three dora are bonus tiles).",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 14023,
+    "TextENGNew": "\"What...! How does that happen...@k@vS20/19/443100042.How did you end up with three dora?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14024,
+    "TextENGNew": "\"You fool. You knew Ooishi was in tenpai and you still flipped over another kan dora!@k@vS20/00/443200046.You brought that on yourself.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14025,
+    "TextENGNew": "\"After I'd already revealed the chun, stacking dora was the only play left. You can't discard on the dora side after a yakuhai is exposed.@k@vS20/11/440700210.Nfu-fu-fu!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14026,
+    "TextENGNew": "Ooishi grinned smugly as his grumbling companions broke down the tile wall and began stacking it anew.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14027,
+    "TextENGNew": "``...By the way, Ooishi-san. Identified her yet?``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14028,
+    "TextENGNew": "``What? ...Oh, the mutilated body in the drainage channel.@k@vS20/00/443200048. Any new leads come up?``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14029,
+    "TextENGNew": "``Yes, well. You'll have to find proof yourself, though.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14030,
+    "TextENGNew": "\"Impressive as always. So who was the deceased?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14031,
+    "TextENGNew": "``Rina Mamiya. Actual name Ritsuko.``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14032,
+    "TextENGNew": "``Apparently she worked for the Blue Mermaid, a hostess bar on Shishibone Flower Road.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14033,
+    "TextENGNew": "\"That's a shady joint. One of the Sonozaki young bosses runs it, doesn't he?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14034,
+    "TextENGNew": "\"...Sonozaki -- whoops! So it's tied to the S-group.@k@vS20/00/442500017....This case is going to be an uphill battle.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14035,
+    "TextENGNew": "\"Word is the deceased had been skimming from the Sonozaki family's tribute money. And not a trivial amount, from what I hear.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 上納金 as 'protection money' (extorted from outsiders); new uses 'tribute money,' which correctly reflects internal payments up the yakuza hierarchy.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 14036,
+    "TextENGNew": "\"A woman dipping into tribute money... There's got to be a man behind it.@k@vS20/00/443200051.Women rarely pull off that sort of thing alone.\"",
+    "significantChanges": true,
+    "changeReason": "Same correction as above: 上納金 is changed from 'protection money' to 'tribute money,' accurately reflecting payments within the yakuza hierarchy.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 14037,
+    "TextENGNew": "\"Nfu-fu! He's probably already dead.@k@vS20/11/440700214.The body just hasn't turned up yet.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14038,
+    "TextENGNew": "``About that... Ooishi-san. Her cohabitant's apparently alive.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14039,
+    "TextENGNew": "\"He's alive? Then he'll probably be dead soon enough.@k@vS20/11/440700216.Vermin exterminating other vermin -- now there's a lovely self-cleaning mechanism.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14040,
+    "TextENGNew": "``Anyway, her man...",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14041,
+    "TextENGNew": "\"It's, well... Teppei Houjou.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14042,
+    "TextENGNew": "``...Houjou? Who's that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14043,
+    "TextENGNew": "\"...Teppei Houjou. The husband of the housewife beaten to death in Hinamizawa last year.@k@vS20/11/440700218....I'd heard he vanished after the incident.@k@vS20/11/440700219....So he'd been shacking up at that woman's place, had he?\"",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'his lover's place,' implying a romantic relationship; new uses 'that woman's place' (その女の所), which is the neutral/dismissive phrasing actually used in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 14044,
+    "TextENGNew": "\"......The Sonozaki stench just keeps getting stronger.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14045,
+    "TextENGNew": "``Where is he now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14046,
+    "TextENGNew": "\"He was living at the woman's apartment. Apparently he thinks she ran out on him, because he's been making the rounds of bars and hangouts looking for her.\"",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Barley Tea, Black Tea, and a Stone Mill",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Barley Tea and Black Tea and a Millstone\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14494,
+    "TextENGNew": "\"Your blood pressure has improved quite nicely. To recover this well at your age... I must say, I'm impressed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14495,
+    "TextENGNew": "\"At this rate, you could easily live to a hundred or two hundred, Oryou-san.\"",
+    "significantChanges": true,
+    "changeReason": "Old exaggerates with 'a couple hundred more years' while new literally translates 百でも二百でも as 'a hundred or two hundred' (age), changing the scale of the compliment.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 14496,
+    "TextENGNew": "The young doctor smiled as he said this, peeling the blood pressure cuff from the arm of the old woman tucked into her futon.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14497,
+    "TextENGNew": "\"You do flatter me, Dr. Irie... A stubborn old thing like me should hurry up and die before I get in the young folk's way...@k@vS20/17/442300002....Ho ho ho ho...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14498,
+    "TextENGNew": "The old woman -- Oryou -- flashed a sly grin and let out a thin, raspy laugh.",
+    "significantChanges": true,
+    "changeReason": "Old describes a 'broad smile' and 'faint laugh' while new captures ニヤリと as 'sly grin' and adds 'raspy', better conveying the cunning quality of Oryou's expression.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 14499,
+    "TextENGNew": "Then, turning towards the sliding door, she called out in a strong voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14500,
+    "TextENGNew": "\"Is Shimiko-san or Taeko-san about? Get Dr. Irie some barley tea!\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 麦茶 as generic 'tea' while new correctly specifies 'barley tea', which is significant in context since the tip's title references barley tea and black tea as distinct drinks.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 14501,
+    "TextENGNew": "The sound of rushed footsteps from the hallway drew closer, until finally the door slid smoothly open.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14502,
+    "TextENGNew": "There stood a young girl.@k...She appeared to be the old woman's granddaughter.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14503,
+    "TextENGNew": "``Shimiko-san already left for the day. ...Do you need something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14504,
+    "TextENGNew": "``Mion, make some barley tea for Dr. Irie.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14505,
+    "TextENGNew": "``Okay, got it. Did you want some too, Granny?@k@vS20/26/440300107. Or would black tea be better?@k@vS20/26/440300108. Want lots of milk and sugar?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14506,
+    "TextENGNew": "``I'll measure it out myself, so you don't have to put any in. Just bring the sugar jar and some milk when you bring the tea.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14507,
+    "TextENGNew": "``Kay kay.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14508,
+    "TextENGNew": "The girl called Mion tossed a casual reply at her demanding grandmother and disappeared back down the hallway.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14509,
+    "TextENGNew": "``Pour the doctor's tea in the cups for the guests!! And make sure you bring a coaster too!@k@vS20/17/442300007. Also make sure to dry the outside of the glass, okay!?``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14510,
+    "TextENGNew": "``Yeah, yeah. You're such a fussypants.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14511,
+    "TextENGNew": "An unfazed voice drifted back from down the corridor.",
+    "significantChanges": true,
+    "changeReason": "Old translates へこたれない声 as 'tired voice' which is the opposite of the Japanese meaning ('unfazed/undaunted voice'); new correctly uses 'unfazed voice'.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 14512,
+    "TextENGNew": "The lack of earnestness was nothing new.@kThe old woman muttered something about the girl being hopeless and smiled wryly.",
+    "significantChanges": true,
+    "changeReason": "Old says the old lady 'chided the girl' while new says she 'muttered something about the girl being hopeless and smiled wryly', which matches the Japanese 仕方ないヤツと漏らし苦笑; the old inaccurately implies active scolding.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 14513,
+    "TextENGNew": "``Geez, that girl just won't learn. Nothing I ever scold her about sticks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14514,
+    "TextENGNew": "``Now now, Oryou-san... you don't have to say that. Mion-chan is doing her best in her own way, even though she's so young.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14515,
+    "TextENGNew": "``Her mother was the same way... couldn't teach her anything. The apple doesn't fall far from the tree!``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14516,
+    "TextENGNew": "``Aha ha ha ha. So her mother's mother must be exactly the same, no?``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14517,
+    "TextENGNew": "``Kha ha ha ha......!``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14518,
+    "TextENGNew": "The old woman snorted, then burst into a hearty, full-throated laugh.@kShe didn't seem to mind the joke at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 14519,
+    "TextENGNew": "``Dr. Irie. I'm sorry, but could you open the doors for me?@k@vS20/17/442300011. It seems there's a nice cool breeze outside.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 14520,
+    "TextENGNew": "Before they knew it, the cool song of the evening cicadas had begun seeping through the gaps in the sliding door.",
+    "significantChanges": true,
+    "changeReason": "Old preserves the series-specific term 'higurashi' while new replaces it with the generic 'evening cicadas'; for a series titled 'Higurashi', maintaining the Japanese term carries thematic weight.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 14521,
+    "TextENGNew": "Irie stood up, and opened the door a bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 14522,
+    "TextENGNew": "...A refreshing breeze swept through, chasing the stale air from the room.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 14523,
+    "TextENGNew": "``It's gotten fairly hot during the day, but the evenings are still rather cool, aren't they. It was almost downright chilly last night.``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14524,
+    "TextENGNew": "``Yeah. ...Those types of mornings and evenings are another one of Hinamizawa's fine points.``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14525,
+    "TextENGNew": "Irie replied with a smile as he returned to sit on the cushion beside the old lady.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14526,
+    "TextENGNew": "And the two of them, for a little while, immersed themselves in the cries of the higurashi...",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 14527,
+    "TextENGNew": "\"I intend to live to a hundred, you know. ...Until the dam business is well and truly settled, the lid on my coffin won't stay shut.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 14528,
+    "TextENGNew": "``...To get the government to withdraw a decision they've already made is a fairly difficult thing to do...``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 14529,
+    "TextENGNew": "\"The way the government works is like turning a millstone. And a fearfully heavy one at that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 14530,
+    "TextENGNew": "``...A millstone?``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 14531,
+    "TextENGNew": "``Don'tcha know?? A millstone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 14532,
+    "TextENGNew": "Irie quickly affirmed that of course he knew what the old lady was talking about.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 14533,
+    "TextENGNew": "For he knew full well that Oryou didn't like having her stories interrupted.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 14534,
+    "TextENGNew": "\"This millstone of the government's, see... it grinds everything to dust. Quite a thing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 14535,
+    "TextENGNew": "\"But it don't turn easy, because it's a terrible heavy millstone.@k@vS20/17/442300018.Takes a great many folk all heavin' together just to get it creaking along. That's the kind of millstone it is.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 14536,
+    "TextENGNew": "Irie pursed his lips, listening quietly to what she was saying.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 14537,
+    "TextENGNew": "Eventually Mion returned with some tea laid out on a tray.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 14538,
+    "TextENGNew": "Seeing that Oryou was talking and in a good mood, she quietly knelt down and laid out the sets for the barley and black tea, careful not to interrupt.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 14539,
+    "TextENGNew": "\"That's why once it gets going, it ain't easily stopped. ...Getting it moving in the first place takes the most effort.@k@vS20/17/442300020.Nobody wants to go through that again, so everyone keeps pushing without rest.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 14540,
+    "TextENGNew": "``You're talking about friction, right? I get what you're saying.``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 14541,
+    "TextENGNew": "\"In other words. If by some mishap the millstone suddenly stops... getting it turning again takes a tremendous amount of force.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 14542,
+    "TextENGNew": "``...Certainly, to get a project that's been suspended going again takes quite a lot of work.``",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 14543,
+    "TextENGNew": "\"It ain't a millstone that stops easy. ...But once it does stop, it'll never turn again.@k@vS20/17/442300023.That's the kind of millstone it is.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 14544,
+    "TextENGNew": "``It'd be nice if there was some way to get that millstone to stop, wouldn't it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 14545,
+    "TextENGNew": "When Irie responded with that, Mion and the old lady suddenly sunk into silence...",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 14546,
+    "TextENGNew": "Irie, instinctively thinking he had said something rude, searched in a small panic for the words to correct himself.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 14547,
+    "TextENGNew": "But it was not a silence born of offense.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 14548,
+    "TextENGNew": "...For what had crept across both Oryou's and Mion's faces were cold, knowing smiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 14549,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 14550,
+    "TextENGNew": "The atmosphere surrounding Irie suddenly froze, leaving him flabbergasted.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 14551,
+    "TextENGNew": "...Thinking that the scornful smiles creeping across both of their faces was the result of some mistake of his, he could only grow afraid.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 14552,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 14553,
+    "TextENGNew": "``...Haha, hahahahahahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 14554,
+    "TextENGNew": "It hadn't been that long at all since he was enveloped by silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 14555,
+    "TextENGNew": "...But Irie could not endure the silence, and could only laugh vaguely to cover his unease.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 14556,
+    "TextENGNew": "...Irie's awkward laughter eventually spread to the old woman and Mion, and the room filled with a laughter whose cause nobody could quite name -- a laughter that left a faint chill on the skin.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 14557,
+    "TextENGNew": "...Only the higurashi refused to join in, continuing their simple, unchanging chorus...",
+    "significantChanges": false
+  }
+]

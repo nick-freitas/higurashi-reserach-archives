@@ -1,0 +1,1392 @@
+[
+  {
+    "index": 2,
+    "MessageID": 55484,
+    "TextENGNew": "In the darkness ahead, a cluster of red lights pulsed in steady, rhythmic intervals.",
+    "significantChanges": true,
+    "changeReason": "JPN 規則的な間隔で (at regular intervals) describes steady rhythmic pulsing; OLD's 'flashing intermittently' implies irregular/unpredictable pattern, which contradicts the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 55485,
+    "TextENGNew": "\"...It really is pitch black out here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 55486,
+    "TextENGNew": "It was a forest road deep in the mountains, far from any human settlement. There were no streetlights, of course — only the car's headlights pulling the ground faintly forward out of the dark.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 55487,
+    "TextENGNew": "The road was paved, after a fashion, but the serpentine mountain curves made it difficult to judge when to accelerate and when to brake.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 55488,
+    "TextENGNew": "Let her attention slip for even a moment and the white guardrail would loom directly before her, sending a chill down her spine — it had happened any number of times on the way here.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 55489,
+    "TextENGNew": "\"Time is... a bit behind schedule. That took longer than I expected.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 55490,
+    "TextENGNew": "She glanced at the clock sitting on the dashboard and tapped lightly at the steering wheel with her fingers.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 55491,
+    "TextENGNew": "Still, arriving only ten minutes late, without any directions, ought to count as proof of her driving skill and an unerring sense of direction — she wouldn't have minded hearing someone say so.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 55492,
+    "TextENGNew": "— But of course if she actually said that aloud, she'd only get laughed at. She chalked it up to good luck and left it at that.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 55493,
+    "TextENGNew": "In the small clearing at the end of the forest road, two fire trucks and two police vehicles from the Mobile Investigation Team had already arrived, their red warning lights slashing through the dark.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 55494,
+    "TextENGNew": "Admiring how quickly they'd gotten here, the detective — recently promoted to inspector — Tomoe Minai stepped out of the driver's seat, pulled a pair of white gloves from her inner pocket, and worked them onto both hands with practiced ease.",
+    "significantChanges": true,
+    "changeReason": "JPN 警部に昇進 means promoted to inspector (keibu); OLD just says 'recently promoted detective' omitting the specific rank of inspector.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 55495,
+    "TextENGNew": "The moment the outside air touched her... she caught a faint trace of the acrid smell wood gives off when it burns. It was swelteringly humid for the middle of the night. She was surrounded by trees, yet there was nothing fresh in the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 55496,
+    "TextENGNew": "``...Ah!@k@vS04/00/VT1B_kisouA1002. Inspector Minai, thank you for coming out!``",
+    "significantChanges": true,
+    "changeReason": "Old translates 警部 (Inspector) as 'Chief Inspector' which is a higher rank (警視); matters for police hierarchy accuracy.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 55497,
+    "TextENGNew": "\"Thank you as well. Where is the scene?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 55498,
+    "TextENGNew": "\"Right this way. Hayami-san's team arrived first — they've already joined the inspection.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 55499,
+    "TextENGNew": "\"Understood. ...Oh, wait.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 55500,
+    "TextENGNew": "She had just started forward when Tomoe glanced back. Her subordinate, who had ridden along with her, was only now clambering out of the passenger seat, still sluggishly rubbing the sleep from his eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 55501,
+    "TextENGNew": "\"Come on, let's go, Fujita-kun. How long are you going to keep sleeping? Shape up.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 55502,
+    "TextENGNew": "\"B-but, Minai-sa~n. I haven't slept since yesterday because of the stakeout, and you woke me up right when I was finally about to get some rest. ...Aah, haaa...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 55503,
+    "TextENGNew": "\"...And so your solution is to make your superior drive while you doze in the passenger seat? You've got nerve.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 55504,
+    "TextENGNew": "And besides, Tomoe muttered to herself, glancing at her subordinate mid-yawn. ...We've both been up all night.",
+    "significantChanges": true,
+    "changeReason": "OLD renders the inner monologue as quoted speech; JPN uses narration (内心で呟く = muttered internally) indicating this is thought, not spoken dialogue.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 55505,
+    "TextENGNew": "\"S-so I really am sorry about that. ...But still, aren't you tired, Minai-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 55506,
+    "TextENGNew": "\"It's a matter of will. What good is a detective with a foggy head? Besides, tomorrow is your day off — you can sleep as much as you like once we get back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 55507,
+    "TextENGNew": "\"I mean, you're tough, I'll give you that... I couldn't keep up with you. Hard to believe we're the same age...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 55508,
+    "TextENGNew": "\"...Oh ho~? Bringing up a woman's age, are we? Bold of you, Sergeant Fujita.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 55509,
+    "TextENGNew": "\"Eep — ?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 55510,
+    "TextENGNew": "A dangerous gleam lit in Tomoe's eyes as she fixed him with a glare.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 55511,
+    "TextENGNew": "It had all the mythological menace of Medusa's gaze, and it was delivered from mere centimetres away — the detective called Fujita felt the hair rise on the back of his neck, every other thought forgotten.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 55512,
+    "TextENGNew": "``I-I, that is, the undersigned, didn't mean anything by — ?``",
+    "significantChanges": true,
+    "changeReason": "Old loses the comedic moment of Fujita switching to formal police self-reference 本官 in a panic; new captures this characterization detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 55513,
+    "TextENGNew": "\"When we get back to the station, are you going to write that formal apology? You know — the shoplifting arrest, when you slammed the perp so hard you broke three custom glass panes? The store owner filed a complaint about excessive force...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 55514,
+    "TextENGNew": "\"...Wha — ?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 55515,
+    "TextENGNew": "\"I looked the other way at the time, but... ah! And that reimbursement application to cover the glass — I'm going to have to reject that after all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 55516,
+    "TextENGNew": "\"All three panes were custom-ordered, apparently, so they came to quite a bit. Well, you'll manage somehow. Skip lunches and pachinko for a month and you should just about cover it, don't you think?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 55517,
+    "TextENGNew": "\"I-I'm sorry, Inspector! I-I'm wide awake, I swear!!\"",
+    "significantChanges": true,
+    "changeReason": "Same rank correction as entry 14: JPN 警部 = inspector, not 'Chief' as OLD states.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 55518,
+    "TextENGNew": "\"Good. Let's go, Fujita-kun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 55519,
+    "TextENGNew": "\"Y-you're a demon...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 55520,
+    "TextENGNew": "\"Ah, ahaha... Well then, I'll show you to the scene.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 55521,
+    "TextENGNew": "The detective who had come out to meet them shrugged with a rueful smile and led them on. ...The ferocity of this female inspector, more than a match for any man on the force, had become something of a legend at the prefectural police headquarters.",
+    "significantChanges": true,
+    "changeReason": "JPN 男顔負け means 'putting men to shame/more than a match for any man'; OLD omits this characterization which is central to describing Tomoe's reputation.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 55522,
+    "TextENGNew": "And whatever anyone might think from looking at her, the First Investigation Division's clearance rate had become one of the finest in the prefecture since she'd joined it.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 55523,
+    "TextENGNew": "Yellow tape stamped \"NO TRESPASSING\" had already been strung thickly around the entrance to the mountain trail.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 55524,
+    "TextENGNew": "She stepped over it without ceremony — then immediately winced as the sopping ground squelched underfoot, the wet cold seeping up to her ankles.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 55525,
+    "TextENGNew": "\"Oh, please be careful. The ground around there is quite wet and very slippery.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 55526,
+    "TextENGNew": "\"...So I see.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 55527,
+    "TextENGNew": "She wished he had mentioned that sooner, but it wasn't worth making a fuss over — she kept her expression neutral and pulled her foot free of the mud.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 55528,
+    "TextENGNew": "When she raised her eyes, the gently sloping mountain trail stretched ahead entirely submerged, the black soil sodden and gleaming with mire.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 55529,
+    "TextENGNew": "\"...I heard it was a small, suspicious fire. They certainly used a great deal of water to put it out.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 55530,
+    "TextENGNew": "\"The fire brigade said the initial blaze was tremendous. There are many trees around here, and when they arrived it had already begun to spread, so I believe they continued as a precaution.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 55531,
+    "TextENGNew": "\"The report came in from the Kakiuchi service area, right? ...It must have been quite a fire to be visible from that distance.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 55532,
+    "TextENGNew": "\"Right. Even in the middle of the night with no lights nearby, that's not a distance from which you'd ordinarily see a fire.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 55533,
+    "TextENGNew": "Tomoe nodded, glancing in the direction where the Kakiuchi service area should lie, and then her nose twitched at something wrong in the air.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 55534,
+    "TextENGNew": "Not just wood, but oil — and beneath it, the specific smell of burned kerosene.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 55535,
+    "TextENGNew": "And as they drew closer to the scene, that particular smell — the one she knew on recognition — thickened around them. It announced plainly what lay ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 55536,
+    "TextENGNew": "A little further on, a hollow opened in the woods, and several men had gathered there with flashlights.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 55537,
+    "TextENGNew": "A gentle grassy clearing, the kind hikers used as a rest stop. But from tomorrow onward, it would surely be spoken of in entirely different terms.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 55538,
+    "TextENGNew": "\"Hayami-san! Chief Inspector Minai of Kakiuchi Station has arrived!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 55539,
+    "TextENGNew": "\"Oh, welcome! You made surprisingly good time. Didn't get lost on the way?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 55540,
+    "TextENGNew": "\"We didn't. It was essentially one road straight through, so we managed.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 55541,
+    "TextENGNew": "\"...Fujita-kun, weren't you asleep the entire way? That aside — what's the situation?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 55542,
+    "TextENGNew": "\"Well... as you heard over the radio. Nicely done, you might say.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 55543,
+    "TextENGNew": "The elder detective called Hayami said this and shrugged.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 55544,
+    "TextENGNew": "Almost in the same moment, a young detective slipped past them, one hand pressed to his mouth, hurrying down the slope at a near-run.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 55545,
+    "TextENGNew": "\"Ah well, I told him not to look. Poor kid won't be eating meat for a while...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 55546,
+    "TextENGNew": "\"...Is the scene further up?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 55547,
+    "TextENGNew": "\"Yes. ...Oh! Inspector, you don't have to look — we can handle the rest ourselves —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 55548,
+    "TextENGNew": "Even though she was his superior, Hayami, considering her relative inexperience, her youth, and the fact that she was a woman, tried gently to hold her back — even while knowing it was rude of him.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 55549,
+    "TextENGNew": "But Tomoe raised one hand to stop him, her expression perfectly composed, no stiffness in her bearing at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 55550,
+    "TextENGNew": "\"I'm quite all right. I'm used to it. ...To burned corpses, I mean.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 55551,
+    "TextENGNew": "...Near the center of the hollow, a steel drum barrel was lit up by a work lamp. As they approached it, the air seemed to grow heavy all at once.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 55552,
+    "TextENGNew": "\"......?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 55553,
+    "TextENGNew": "Tomoe stepped forward and felt a sudden sense of wrongness. But before she had time to name it, a shape inside the barrel caught her eye, and she moved closer to get a better look.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 55554,
+    "TextENGNew": "She accepted a flashlight and shone it inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 55555,
+    "TextENGNew": "...What she saw wrung her chest not so much with horror as with grief. Silently, she pressed her palms together and closed her eyes, offering a brief prayer for the dead.",
+    "significantChanges": true,
+    "changeReason": "JPN explicitly contrasts おぞましさ (horror) with 痛ましさ (grief/pathos); OLD loses this contrast, just saying 'tightened in pain.'",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 55556,
+    "TextENGNew": "\"...Terrible. Burned black from head to foot.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 55557,
+    "TextENGNew": "\"Indeed. ...Even the presence of clothing is all but impossible to determine.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 55558,
+    "TextENGNew": "\"Based on the body shape, our best guess is female. Age, as you can see, is unknown. We won't know much more until after the autopsy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 55559,
+    "TextENGNew": "\"No signs of a struggle. ...And at a glance, no notable external wounds.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 55560,
+    "TextENGNew": "After she had prayed and then turned to examining the body without a trace of hesitation, Hayami let out a quiet breath of admiration.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 55561,
+    "TextENGNew": "...No wonder she'd made inspector so young — she had real composure. In contrast, the subordinate standing just behind her had his face turned well away, plainly unable to look.",
+    "significantChanges": true,
+    "changeReason": "Same rank issue: JPN 警部 = inspector; OLD uses 'Chief Inspector' which is incorrect rank. Also NEW captures 若いながらも (despite being young) better.",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 55562,
+    "TextENGNew": "\"M-Minai-san... how are you so calm about this? Just being here is making me queasy...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 55563,
+    "TextENGNew": "\"If you're going to be sick, do it somewhere else. I'll kick you if you contaminate the scene.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 55564,
+    "TextENGNew": "\"O-okay...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 55565,
+    "TextENGNew": "\"By the way, Hayami-san, could you give me the fire department's full report?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 55566,
+    "TextENGNew": "\"Ah, of course. Let me see...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 55567,
+    "TextENGNew": "Hayami flipped through the black notebook he'd drawn from his breast pocket, and read aloud the statements he'd gathered just a short while before.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 55568,
+    "TextENGNew": "\"At 23:08, following a fire report from a public telephone at the Kakiuchi service area, the third fire brigade and two fire trucks from the G-block station arrived on scene.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 55569,
+    "TextENGNew": "\"At 23:11, water discharge and firefighting operations began. Due to risk of the fire spreading to surrounding trees, discharge continued after the fire was extinguished. At 23:19, discharge ceased.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 55570,
+    "TextENGNew": "\"At around 23:30... what appeared to be a burned human body was discovered inside the drum barrel believed to be the fire's origin, and the police were notified via the fire truck's radio.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 55571,
+    "TextENGNew": "\"Several minutes later, the Kakiuchi Station Mobile Investigation Team rushed to the scene. At 23:41, an on-duty detective team led by Hayami began the inspection —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 55572,
+    "TextENGNew": "\"...The foregoing is a summary of the statements gathered from several members of the fire brigade.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 55573,
+    "TextENGNew": "\"I see. And have any items been found in the surrounding area?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 55574,
+    "TextENGNew": "\"Unfortunately, no. We searched as far as we could from the forest road terminus to here, but found nothing resembling a weapon, nor any of the victim's personal effects. ...That said, it's not possible to be certain until we search again in daylight.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 55575,
+    "TextENGNew": "\"I understand. ...Oh, and speaking of — what about vehicles?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 55576,
+    "TextENGNew": "The question had just occurred to her, and she put it to Hayami.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 55577,
+    "TextENGNew": "This place was remote, far from any settlement. Reaching it on foot would take considerable time.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 55578,
+    "TextENGNew": "Having just driven here herself, she could attest that even by car, this forest road without any streetlights was treacherous enough — she couldn't imagine anyone making their way here without one.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 55579,
+    "TextENGNew": "If the victim had followed that same logic and come by car, then some trace of it might well still be here.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 55580,
+    "TextENGNew": "But Hayami shook his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 55581,
+    "TextENGNew": "\"No — we thought of that too. ...Unfortunately, when we arrived there were no vehicles anywhere to be found. I checked with the fire brigade as well, and between all of them, they hadn't spotted a single suspicious car nearby.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 55582,
+    "TextENGNew": "\"Not a single one...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 55583,
+    "TextENGNew": "\"Correct. We searched for other modes of transport as well, but found nothing — not even a bicycle.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 55584,
+    "TextENGNew": "\"...Which means the victim either came as someone else's passenger, or was carried here. Isn't that the more natural interpretation...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 55585,
+    "TextENGNew": "\"Yes. In that sense, suicide is definitively off the table.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 55586,
+    "TextENGNew": "Tomoe nodded in agreement. Without even consulting past records, it could be stated with near certainty that a person planning to take their own life would not do so in the company of another — murder-suicide notwithstanding.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 55587,
+    "TextENGNew": "And... for the same reason, the possibility of an accident was slim. If this had been accidental, the companion whose existence was now strongly implied would have reported it to the proper authorities.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 55588,
+    "TextENGNew": "\"Which means... in the end, we're calling this a murder?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 55589,
+    "TextENGNew": "\"Most likely. Moreover, judging from the state of the body, the victim showed no signs of resistance. ...Which suggests this was less a burning-to-death than a killing followed by burning.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 55590,
+    "TextENGNew": "\"Even so... why go to the trouble of burning the body at all?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 55591,
+    "TextENGNew": "\"...Fujita-kun, did you know — burning the body is said to be the method that most directly reflects the perpetrator's emotional state. Hatred. A message to others. ...That kind of thing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 55592,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 55593,
+    "TextENGNew": "Fujita had nothing to say to that. Hayami, who knew something of her past, exhaled quietly and let the words pass by. Tomoe noticed the reaction and covered the awkwardness with a small, deliberate cough.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 55594,
+    "TextENGNew": "\"Either way, with visibility like this, speculating too far ahead won't help. Please keep the scene secured until we can assess the surroundings in daylight.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 55595,
+    "TextENGNew": "\"Yes... and beyond that, we're waiting on the details from forensics.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 55596,
+    "TextENGNew": "\"...? Is something bothering you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 55597,
+    "TextENGNew": "Tomoe tilted her head at the uncharacteristic vagueness in Hayami's words... and then, glancing around the area, turned back to him.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 55598,
+    "TextENGNew": "\"Come to think of it — where is forensics? Haven't they arrived yet?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 55599,
+    "TextENGNew": "That was it. The wrongness she'd been feeling since earlier — there was no forensics examiner in sight.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 55600,
+    "TextENGNew": "When the Mobile Investigation Team was dispatched from the prefectural headquarters, a few forensics examiners almost always accompanied them. Even if they'd been sent elsewhere, it was rare for there to be no one available from the duty shift.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 55601,
+    "TextENGNew": "\"Are they lost? Fujita-kun, head back to the car and try reaching them on the radio.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 55602,
+    "TextENGNew": "\"—Oh! No, no — they did come with us. ...We, uh, already sent them back.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 55603,
+    "TextENGNew": "\"Huh? ...Why?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 55604,
+    "TextENGNew": "\"I'm sorry. I only just realized it myself, and... well.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 55605,
+    "TextENGNew": "Hayami scratched at his head, looking reluctant to say it.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 55606,
+    "TextENGNew": "\"The fire brigade's report came through to the Kakiuchi area, so I wasn't thinking. ...This site is actually under the jurisdiction of our neighbors.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 55607,
+    "TextENGNew": "\"E—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 55608,
+    "TextENGNew": "\"N-not again?! Oh, come on—!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 55609,
+    "TextENGNew": "Fujita's pained wail rose before Tomoe could even react, his eyes cast heavenward.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 55610,
+    "TextENGNew": "\"Fujita-kun. What is that reaction? Pull yourself together.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 55611,
+    "TextENGNew": "\"I can't help it! You haven't forgotten last month's incident either, have you, Minai-sa... Inspector?\"",
+    "significantChanges": true,
+    "changeReason": "JPN 叫びたくもなりますよ means 'you'd want to scream too'; OLD's 'What for?!' is a question not present in JPN; NEW's 'I can't help it!' better captures the exasperation.",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 55612,
+    "TextENGNew": "\"...That's past.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 55613,
+    "TextENGNew": "Tomoe met it with a bland expression and let it wash over her. Fujita, however, stamped at the ground, scratching furiously at his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 55614,
+    "TextENGNew": "\"Hey, don't disturb the scene. ...You're splashing mud everywhere.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 55615,
+    "TextENGNew": "\"O-oh, sorry...! But surely I'm allowed to be angry?! I'm the one who paid the price for the whole thing last time!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 55616,
+    "TextENGNew": "\"Come to think of it... you were Chief Inspector Minai's partner that time too, weren't you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 55617,
+    "TextENGNew": "\"Exactly! It was completely out of our hands — we only crossed the expressway because the fleeing suspect forced us to! And then we get slapped with a jurisdictional violation?!\"",
+    "significantChanges": true,
+    "changeReason": "JPN 高速道路 specifically means 'expressway/freeway'; OLD's 'highway' is less precise. Also NEW better captures the JPN nuance of 不可抗力 (force majeure/unavoidable circumstances).",
+    "changeScore": 3
+  },
+  {
+    "index": 136,
+    "MessageID": 55618,
+    "TextENGNew": "\"I'd have caught him if he'd just driven normally. ...I didn't account for him ramming a civilian car and blocking the road.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 55619,
+    "TextENGNew": "...The truth was, Tomoe's prefectural police and the neighboring prefecture's had yet to conclude any agreement on wide-area investigations.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 55620,
+    "TextENGNew": "As a result, whether a suspect fled across the prefectural border or an investigation crossed it as it had today, the unspoken rule was to notify each other rather than infringe on the other's territory.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 55621,
+    "TextENGNew": "Tomoe had understood — if not fully accepted — that crossing the border was strictly forbidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 55622,
+    "TextENGNew": "But looking back on it now, she could admit that in that particular case, losing her head over a suspect who'd endangered civilians had been a mistake.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 55623,
+    "TextENGNew": "She only realized she'd crossed into the neighboring prefecture after she'd forced the suspect's car to the shoulder, hauled the man out of the driver's seat, and snapped the handcuffs onto his wrists—.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 55624,
+    "TextENGNew": "\"But — why was Minai-san the one disciplined?! I was the one driving, so shouldn't the responsibility be mine?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 55625,
+    "TextENGNew": "\"...If it had been you, it would have meant a pay cut. You just got married. You want to make your wife cry? Understand — the Inspector covered for you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 55626,
+    "TextENGNew": "\"Oh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 55627,
+    "TextENGNew": "\"I-it wasn't entirely for that reason...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 55628,
+    "TextENGNew": "Tomoe cut in hurriedly, suppressing a silent sigh. ...So they did think she'd been covering for him after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 55629,
+    "TextENGNew": "That had been part of it, yes. ...But more than that, she couldn't forgive her own carelessness — or the fact that it had put her in debt to the station chief, who was something of a natural enemy.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 55630,
+    "TextENGNew": "The man had no ill intentions. If anything, he showed her genuine consideration, watching out for her in his own way. But given certain awkward circumstances, Tomoe couldn't afford to accept his goodwill. A thoroughly contrary disposition, she thought, clicking her tongue at herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 55631,
+    "TextENGNew": "\"To begin with, if I had anticipated the border-crossing and reached out to the neighboring department to request cooperation, none of this would have happened. I failed to do that, so the fault lies with me. ...Officially, at least.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 55632,
+    "TextENGNew": "\"And regardless of the reason, the fact is a civilian vehicle was involved, which caused trouble for Sawaguchi Station's traffic control. ...That's why I took it as a matter of my supervisory responsibility.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 55633,
+    "TextENGNew": "\"B-but...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 55634,
+    "TextENGNew": "\"More to the point, Hayami-san — have you contacted the neighboring prefectural headquarters and Sawaguchi Station regarding this incident?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 55635,
+    "TextENGNew": "Grateful for Fujita's indignation even as she cut him off, Tomoe steered the conversation forward. ...The more immediate matter had to come first.",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 55636,
+    "TextENGNew": "Sooner or later, news of this incident would reach the neighboring prefectural headquarters and the jurisdiction holder, Sawaguchi Station, with whom they were on such poor terms.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 55637,
+    "TextENGNew": "If so, it would be far better — for everyone's mood — to inform them now, at the earliest stage, and broach the subject of a handover.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 55638,
+    "TextENGNew": "And sure enough, Hayami — with twice her years of experience — had understood exactly what she meant.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 55639,
+    "TextENGNew": "\"Yes. I made sure of that without fail, in fact — I took care of everything just before you arrived. That's precisely why I moved the forensics team out so promptly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 55640,
+    "TextENGNew": "\"If they'd still been here when the Sawaguchi people arrived, we'd have gotten an earful about conducting a scene inspection without any notification.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 55641,
+    "TextENGNew": "\"...Wise decision.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 55642,
+    "TextENGNew": "Having made his way up through the ranks from the street, Hayami had made exactly the right call.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 55643,
+    "TextENGNew": "With forensics gone and only the Mobile Investigation Team holding the scene, they could claim: we rushed here in response to the report, but upon determining it fell outside our jurisdiction, we opted to maintain the scene as found — and that story would hold.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 55644,
+    "TextENGNew": "\"Which is to say... it would be better for you to pull out soon as well, Inspector.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 55645,
+    "TextENGNew": "\"The neighbors should be arriving before long, and if they see you here, they'll only find another excuse to raise objections. Besides — this isn't exactly a pleasant place to linger, is it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 55646,
+    "TextENGNew": "\"True enough. Ready to go, Fujita-kun?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 55647,
+    "TextENGNew": "\"Yeah, yeah, fine. ...Ah, but if that's the case — why call us out here at all?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 55648,
+    "TextENGNew": "The question had struck Fujita as an afterthought. They'd had radio contact, after all — they could have been told to turn back as soon as the border issue was identified.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 55649,
+    "TextENGNew": "At that, Hayami grinned.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 55650,
+    "TextENGNew": "\"Wouldn't seem right, would it? The entrance to the forest road falls under Kakiuchi Station's territory — and if the culprit might be lurking here, we couldn't have you turn back without even seeing the scene. ...From our side too, calling out a jurisdiction officer in the middle of the night and sending her home empty-handed would be a poor way to do business.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 55651,
+    "TextENGNew": "\"Hayami-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 55652,
+    "TextENGNew": "\"I moved the forensics team a bit quickly, so I apologize for the quality, but I had them take photos of the scene and the body first. I've put in a word, so if a related case comes up, feel free to draw on them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 55653,
+    "TextENGNew": "\"...You went out of your way. Thank you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 55654,
+    "TextENGNew": "\"Not at all. Here at the Mobile Investigation Team, we're fans of yours, Princess. Ha ha ha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 55655,
+    "TextENGNew": "Hayami's hearty laughter rang out, breaking the quiet, as if to chase off the weight that had begun to settle. Tomoe had never been fond of that nickname... but just now, somehow, it felt a little warm.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 55656,
+    "TextENGNew": "\"Well then, Hayami-san. Thank you for your continued hard work — I'm counting on you to manage the handover to Sawaguchi Station.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 55657,
+    "TextENGNew": "\"Understood, Inspector Minai.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 55658,
+    "TextENGNew": "With that and a brief nod, Tomoe turned and descended the mountain trail. Fujita followed after her, his expression still unconvinced.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 55659,
+    "TextENGNew": "On the drive back, Fujita — who had taken over behind the wheel — was still quietly fuming.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 55660,
+    "TextENGNew": "\"...Fujita-kun, don't you think it's time to let this go?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 55661,
+    "TextENGNew": "\"But this is infuriating, Minai-san!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 55662,
+    "TextENGNew": "\"...It's in the past now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 55663,
+    "TextENGNew": "With those words, Tomoe turned to look at the landscape flowing past the window.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 55664,
+    "TextENGNew": "Yes... it was in the past.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 55665,
+    "TextENGNew": "But.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 55666,
+    "TextENGNew": "Just as Detective Fujita had said, she had by no means forgotten.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 55667,
+    "TextENGNew": "She still remembered it now — the condescending tone of the inspector from neighboring Sawaguchi Station, as insufferable as a man who's caught a great prize, relentlessly peppering her with sarcasm. The bloated, sneering arrogance of his manner. ...She remembered it even now.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 55668,
+    "TextENGNew": "Later, she'd heard that he had repeatedly failed the inspector's promotion exam, and for exactly that reason had come to resent Tomoe, who had made inspector before thirty as a quasi-career officer.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 55669,
+    "TextENGNew": "Being a woman in management, she was no stranger to prejudice and prurient curiosity.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 55670,
+    "TextENGNew": "She thought she'd grown used to it... but that had been the first time anyone had directed such naked, unrestrained malice at her.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 55671,
+    "TextENGNew": "That night, consequently, she'd drunk herself into a stupor — and had somehow ended up, in the middle of the night, at the door of her younger sister Madoka, who lived separately... or so she was told.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 55672,
+    "TextENGNew": "— The following morning, Madoka asked nothing about the night before, and said nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 55673,
+    "TextENGNew": "She only said \"good morning,\" and set out a breakfast that was better than her cooking used to be, and Tomoe's favorite coffee...",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 55674,
+    "TextENGNew": "\"Even so...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 55675,
+    "TextENGNew": "\"...Yes?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 55676,
+    "TextENGNew": "Staring absently at the flowing scenery outside the window, Tomoe murmured.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 55677,
+    "TextENGNew": "Fujita's question had just occurred to him out of nowhere.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 55678,
+    "TextENGNew": "\"...As I said before, we're still in negotiations with the neighboring prefectural police on that agreement. And the chief of our headquarters and the chief over there have apparently always been at each other's throats... so it's unlikely to be resolved any time soon.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 55679,
+    "TextENGNew": "\"That's... odd.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 55680,
+    "TextENGNew": "\"Yes, completely. ...It would make a mockery of both detective's honor and the badge.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 55681,
+    "TextENGNew": "And on the subject of wide-area investigations, Fujita didn't need to be the one to tell her — she had already petitioned for it herself, any number of times.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 55682,
+    "TextENGNew": "Yet it remained unapproved, which meant her own anger and frustration over it far exceeded his.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 55683,
+    "TextENGNew": "...Even the police had different values, different temperatures, from region to region. And because of their rigid territorial hierarchy, their conduct became selfish, inefficient, and stovepiped. The border between the two prefectures in Kakiuchi Station's territory was a perfect emblem of that.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 55684,
+    "TextENGNew": "\"My old prefecture was considerably better. ...Why did I even end up coming here...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 55685,
+    "TextENGNew": "\"Minai-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 55686,
+    "TextENGNew": "...It was disheartening. She had aspired to become a police officer in her father's footsteps, had been put on the fast track as a headquarters recommendation — and yet with every advancement she ran into some new friction, some new unreasonableness...... She felt pathetic.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 55687,
+    "TextENGNew": "A profession she had idolized as the embodiment of justice, a proud calling that kept the image of her father alive — and yet, little by little, steadily, she had come not to be able to stop herself from wondering whether it was all nothing but an empty dream...",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 55688,
+    "TextENGNew": "\"— Ugh, honestly! I was just getting myself to accept it, and now thanks to you it's all come flooding back!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 55689,
+    "TextENGNew": "\"Huh? I-is this my fault?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 55690,
+    "TextENGNew": "\"It is! Right, that settles it — I'm eating my feelings. There.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 55691,
+    "TextENGNew": "Just as she said it, Tomoe spotted a hamburger shop sign at the side of the road. On it, in large letters: \"1 km ahead, open 24 hours.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 55692,
+    "TextENGNew": "\"Fujita-kun, there's a drive-through up ahead! There's a toll booth coming up, so could you get off and stop there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 55693,
+    "TextENGNew": "\"R-right now?! It's almost 2 AM!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 55694,
+    "TextENGNew": "\"A little indulgence never hurt. They're open 24 hours, and it's not like we'd be bothering anyone — no problem at all.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 55695,
+    "TextENGNew": "\"...I mean, Minai-san, you really want to eat meat right now? I'm genuinely in awe of your constitution. ...You'll gain weight, though?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 55696,
+    "TextENGNew": "\"— The nerve. All right, that's settled. I'm buying a hamburger for Fujita-kun too. This is an order — you will finish it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 55697,
+    "TextENGNew": "\"W-wait a second?! That's cruel! Unlike you, I don't have the stomach for it right now!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 55698,
+    "TextENGNew": "\"Denied. And if you don't finish it, you'll be writing that apology. Good lu~ck.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 55699,
+    "TextENGNew": "\"Ah, you... you really are a demon...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 55700,
+    "TextENGNew": "\"...Even so.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 55701,
+    "TextENGNew": "\"W-what?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 55702,
+    "TextENGNew": "Staring absently at the scenery flowing outside the window, Tomoe murmured softly.",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 55703,
+    "TextENGNew": "\"If that really was a murder... what was the killer's intention?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 55704,
+    "TextENGNew": "Burning the victim alive in the mountains, or burning the body there. ...At first glance the situation seemed plausible enough, but there was actually a major contradiction at its heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 55705,
+    "TextENGNew": "The great advantage of committing a crime in a remote mountain location was the time lag before discovery.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 55706,
+    "TextENGNew": "The longer it took for the crime to be discovered, the more time the culprit gained to flee — and the more difficult the police investigation became.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 55707,
+    "TextENGNew": "Yet in this case... the criminal had essentially announced the crime to the police themselves, via the suspicious fire. If that was true, then why bother with the trouble of committing the murder and leaving the body in such a remote location?",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 55708,
+    "TextENGNew": "\"...Fujita-kun, what do you make of it? This case...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 55709,
+    "TextENGNew": "\"If anything, that's what I want to know. ...What's your read, Minai-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 55710,
+    "TextENGNew": "Tomoe had no answer, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 55711,
+    "TextENGNew": "Only the unsettling thought that someone had gone to such lengths in such an inconvenient place for what amounted to a murder — and left behind such a strange puzzle — kept nagging at her like a splinter lodged deep in her chest.",
+    "significantChanges": false
+  }
+]

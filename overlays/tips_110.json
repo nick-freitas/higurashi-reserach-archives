@@ -1,0 +1,251 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "\"Them\"",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"\\\"Them\\\"\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15450,
+    "TextENGNew": "The moment I finished my call with Ooishi and stepped out of the phone booth.",
+    "significantChanges": true,
+    "changeReason": "The original adds 'soon' and structures it as a completed sequence, while the Japanese emphasizes this was the exact moment (瞬間) of exiting, setting up the immediate realization.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 15451,
+    "TextENGNew": "...I noticed it as though only now realizing, and a chill ran through me.",
+    "significantChanges": true,
+    "changeReason": "The original omits '今さらのように' (as if only now/belatedly), which conveys Rena's shock at her own delayed realization.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 15452,
+    "TextENGNew": "I had been inside a phone booth — so conspicuous in this darkness.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 15453,
+    "TextENGNew": "There was no way I hadn't been seen.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 15454,
+    "TextENGNew": "No — it wasn't just that there was no way I hadn't been seen. I Was Being Watched.",
+    "significantChanges": true,
+    "changeReason": "The original loses the self-correction structure and the katakana emphasis on '見ラレテイタ' (Was Being Watched); the new preserves both through capitalization.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 15455,
+    "TextENGNew": "Glowing eyes, peering steadily at me from the darkness...",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 15456,
+    "TextENGNew": "...That could not possibly be human.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 15457,
+    "TextENGNew": "A hallucination? No. I already know what they are.",
+    "significantChanges": true,
+    "changeReason": "The original uses past tense and 'who' while the Japanese uses present tense and '正体' (true nature); 'what they are' better maintains the present-tense paranoid narration.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 15458,
+    "TextENGNew": "...They are the ones who truly control the Three Families that rule Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 15459,
+    "TextENGNew": "The position of its eyes was low... and the faintly visible outline was meager.",
+    "significantChanges": true,
+    "changeReason": "The original adds 'for it to be human' (not in the Japanese) and translates '貧弱' (meager/frail) as 'vague,' changing a description of physical weakness to visual indistinctness.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 15460,
+    "TextENGNew": "...Yes — that they are physically frail is already clear from the historical records.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15461,
+    "TextENGNew": "That silhouette, proclaiming its non-human nature, was unrealistic to a degree that defied belief.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15462,
+    "TextENGNew": "...The silhouette of the head in particular was abnormal — something like protrusions jutting from it, clearly not anything belonging to a person.",
+    "significantChanges": true,
+    "changeReason": "Old drastically abbreviates, omitting that the silhouette was abnormal and clearly not human.",
+    "changeScore": 4
+  },
+  {
+    "index": 14,
+    "MessageID": 15463,
+    "TextENGNew": "...As for their appearance, the other scrapbook I received from Miyo-san goes into greater detail.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15464,
+    "TextENGNew": "...Their eyeballs are deep red like blood... their bodies carry the smell of ammonia... and despite there having been cases of capture around the world in the past, every one of them melts or vanishes, leaving no trace.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 15465,
+    "TextENGNew": "...What remains are only the marks proving that they truly \"descended\"...",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 15466,
+    "TextENGNew": "At that moment, the impossible, surreal silhouette took one step closer... and produced a very real sound — the crunch of gravel.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 15467,
+    "TextENGNew": "That sound, with its almost cruelly vivid reality, wrenched me back.",
+    "significantChanges": true,
+    "changeReason": "The original omits 'あまりに残酷なくらいの現実感' (almost cruelly vivid reality), which conveys the jarring contrast between the surreal scene and the brutally real sound.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 15468,
+    "TextENGNew": "\"D-Don't come near me, you monster!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 15469,
+    "TextENGNew": "Crunch — crash — scrape!!",
+    "significantChanges": true,
+    "changeReason": "The original replaces Japanese onomatopoeia (じゃりり、ガッ、ジャララララ) with an interpretive action description; the new preserves the raw sound effects.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 15470,
+    "TextENGNew": "The gravel on the road burst and scattered, making a strange noise.",
+    "significantChanges": true,
+    "changeReason": "The original interprets gravel as being kicked while the Japanese describes it bursting and scattering on its own (爆ぜたり飛び散ったり), and the new preserves '奇怪な音' (strange noise).",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 15471,
+    "TextENGNew": "And it was drawing closer to me, step by step.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15472,
+    "TextENGNew": "...Driven by terror, I said the same words again.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 15473,
+    "TextENGNew": "This time, the glass door of the phone booth I had just been using began to tremble and rattle...",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 15474,
+    "TextENGNew": "Bang! Bang!",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 15475,
+    "TextENGNew": "It began to emit strange, hammering sounds.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 15476,
+    "TextENGNew": "I let out a scream like tearing silk and bolted.",
+    "significantChanges": true,
+    "changeReason": "The original omits the vivid simile '絹を裂くような' (like tearing silk), a specific literary image in Japanese for a piercing scream.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 15477,
+    "TextENGNew": "I ran until my lungs felt ready to burst, then looked back — and understood that the strange presence was no longer there.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 15478,
+    "TextENGNew": "...Was it my imagination...?",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 15479,
+    "TextENGNew": "My imagination — don't be absurd. I clearly heard the sound of gravel scattering, the eerie noise rattling the phone booth!!",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 15480,
+    "TextENGNew": "But calm down, Ryuugu Rena...!",
+    "significantChanges": true,
+    "changeReason": "The original omits Rena addressing herself by full name ('竜宮レナ'), a notable character moment showing her self-talk pattern.",
+    "changeScore": 2
+  },
+  {
+    "index": 32,
+    "MessageID": 15481,
+    "TextENGNew": "...Even if I decide to call it my imagination, I need to calm my heart down right now.",
+    "significantChanges": true,
+    "changeReason": "The original omits the conditional '気のせいということにしてもいいから' (even if I accept it was my imagination), showing Rena's pragmatic coping mechanism.",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 15482,
+    "TextENGNew": "...They're enemies I'll have to fight someday anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 15483,
+    "TextENGNew": "...Next time they appear, I'll fight back... I'll drive a thick cleaver into their skull...!",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 15484,
+    "TextENGNew": "I will protect Hinamizawa — that is my mission. I won't let them have their way...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 15485,
+    "TextENGNew": "Tingle, tingle, tingle... tingle, tingle, tingle.",
+    "significantChanges": true,
+    "changeReason": "Old reinterprets onomatopoeia チリチリ (tingling sensation) as 'lights flickering in my head.'",
+    "changeScore": 4
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Mother's Diary II",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Mother's Diary Ⅱ\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14781,
+    "TextENGNew": "During the family council, the child tried to burrow into Oryou-san's futon again.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she buried herself under' the futon; new says 'the child tried to burrow into' the futon — 'buried herself' (completed action) vs 'tried to burrow' (attempted action); the Japanese 潜り込もうとする uses the volitional+とする form meaning 'tried to,' matching the new translation.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 14782,
+    "TextENGNew": "...Oryou-san dotes on that child as though she were the most precious thing in the world.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14783,
+    "TextENGNew": "No matter whatever insolence my child commits, she doesn't mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14784,
+    "TextENGNew": "As if the child were a kitten or some such creature.@k...Quite literally, the way one might pamper a kitten.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14785,
+    "TextENGNew": "As her mother, I chided her for doing that.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14786,
+    "TextENGNew": "Until Oryou-san had said three times that it was fine, I chided her as a formality.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14787,
+    "TextENGNew": "Of course she never lends an ear to any of my chidings.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14788,
+    "TextENGNew": "...Knowing that Oryou-san's standing was far above mine, she behaves like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14789,
+    "TextENGNew": "That sort of cunning, so unbefitting her age, I also find unsettling.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I don't like' the cunning; new says 'I also find unsettling' — 'don't like' vs 'find unsettling' conveys a different emotional response: simple dislike vs being disturbed.",
+    "changeScore": 1
+  },
+  {
+    "index": 10,
+    "MessageID": 14790,
+    "TextENGNew": "In any case, not only Oryou-san, but the rest of the old folk in the village spoil her too much.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14791,
+    "TextENGNew": "One day, I was surprised.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14792,
+    "TextENGNew": "By chance, on the way back from some shopping, I saw her by herself just outside a candy shop.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14793,
+    "TextENGNew": "My own child suddenly grabbed a snack, opened the package right there and then started eating it.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14794,
+    "TextENGNew": "She didn't make any attempt to pay for it, and she didn't even think of looking around.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14795,
+    "TextENGNew": "It wasn't even shoplifting, exactly... she ate the sweets as nonchalantly as if they'd been served to her with tea.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14796,
+    "TextENGNew": "When I began to admonish my child, the elderly shop owner appeared and covered for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 14797,
+    "TextENGNew": "The owner gave the ridiculous excuse that he had said it was okay for that child to eat any of the snacks out by the entrance, so it was fine.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14798,
+    "TextENGNew": "When I tried to pay for the snacks that my child had eaten, the owner refused my money.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14799,
+    "TextENGNew": "While we went back and forth, a crowd of elderly villagers had gathered, and somehow I was being made out to be the one in the wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14800,
+    "TextENGNew": "The elders pressed their hands together reverently before my child, murmuring words of prayer and gratitude over and over.",
+    "significantChanges": true,
+    "changeReason": "Old says they 'repeatedly voiced their respects'; new says they were 'murmuring words of prayer and gratitude over and over' — 'respects' vs 'prayer and gratitude' and the Japanese ありがたやありがたや is closer to 'how grateful, how grateful' — prayer/gratitude is more specific and accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 14801,
+    "TextENGNew": "...I was born into the Furude family. I know perfectly well why this child receives such special treatment.",
+    "significantChanges": true,
+    "changeReason": "Old uses double negative 'it wasn't like I didn't know'; new says 'I know perfectly well' — the new version is more assertive and direct, and the Japanese 知らないわけではない (it's not that I don't know) is a litotes that both capture, but the new version conveys stronger certainty.",
+    "changeScore": 1
+  },
+  {
+    "index": 22,
+    "MessageID": 14802,
+    "TextENGNew": "When I was still young.@k It was something I heard often from my grandmother.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14803,
+    "TextENGNew": "If by chance the child that I gave birth to was a girl...",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14804,
+    "TextENGNew": "That child would be the living incarnation of Oyashiro-sama.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 14805,
+    "TextENGNew": "The old folk believe that child to be the reincarnation of Oyashiro-sama, and spoil her accordingly.",
+    "significantChanges": true,
+    "changeReason": "Old says 'living incarnation'; new says 'reincarnation' — 生まれ変わり means 'reincarnation' (rebirth), which is different from 'living incarnation' (a living embodiment). Also 'spoil her rotten' vs 'spoil her accordingly' — different degree of spoiling implied.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 14806,
+    "TextENGNew": "And they go beyond mere spoiling... they fill her head with tales of being Oyashiro-sama's reincarnation,@kof possessing divine powers, and all manner of dubious folklore besides.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 14807,
+    "TextENGNew": "So she may have begun to believe herself that she was a special existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 14808,
+    "TextENGNew": "I have told everyone around me to stop filling her head with such nonsense, as it is harmful to her upbringing... but superstitions rooted this deeply in the elderly cannot be uprooted.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 14809,
+    "TextENGNew": "I have told the child herself not to listen to them, but the one whose words she ignores is mine.",
+    "significantChanges": true,
+    "changeReason": "Old says 'she stopped listening to me'; new says 'the one whose words she ignores is mine' — old implies she used to listen and stopped; new implies she currently ignores the mother's words specifically, which is closer to the Japanese 耳を貸さないのはむしろ私に対してだ (the one she doesn't listen to is rather me).",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 14810,
+    "TextENGNew": "Between the village elders who shower her with affection and a mother who does nothing but scold -- it was obvious which one she would listen to.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14811,
+    "TextENGNew": "...That child became this way because of the elderly villagers. Of that I have no doubt.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14812,
+    "TextENGNew": "There was no doubt that they had shoved her full of strange folk tales and superstitions since she was young.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14813,
+    "TextENGNew": "If not for that, she would surely have been a perfectly normal, lovable girl!",
+    "significantChanges": false
+  }
+]

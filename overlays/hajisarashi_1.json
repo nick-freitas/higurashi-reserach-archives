@@ -1,0 +1,38 @@
+[
+  {
+    "index": 2,
+    "MessageID": 152747,
+    "TextENGNew": "Ahem, this story is a work of fiction. Undeniably fiction.\nAny resemblance to actual people, places, or organizations is entirely coincidental.\n...And children, please don't try any of this at home.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 152748,
+    "TextENGNew": "\"Coming from you, Mion, that's not exactly convincing, is it—\nGwuh?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 152749,
+    "TextENGNew": "\"As this is a special chapter, it may not line up perfectly with the events of the main story,\nbut please look upon these peaceful days with warmth in your hearts. *bow*\"",
+    "significantChanges": true,
+    "changeReason": "The degree of certainty differs: original says 'doesn't fit in well' (definite statement) while new says 'may not line up perfectly' (hedged possibility). The JP 微妙にかみ合っていなかったりもします uses hedging language (たりもします), making the new version more accurate to the original's tentative tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 152750,
+    "TextENGNew": "\"In short, as long as we're having fun, anything goes.\"",
+    "significantChanges": true,
+    "changeReason": "The opening phrase differs: 'Really though' vs 'In short' — the JP よーするに means 'in short/basically,' a summarizing expression that the original mistranslates as a conversational filler.",
+    "changeScore": 2
+  },
+  {
+    "index": 6,
+    "MessageID": 152751,
+    "TextENGNew": "\"Well, that's a bit blunt, Satoko-chan...\nAnd without further ado — the Hajisarashi Arc begins~!\"",
+    "significantChanges": true,
+    "changeReason": "The original adds 'Higurashi When They Cry's' before the arc name, which is not in the JP text. Also 'really blunt' vs 'a bit blunt' changes the degree — the JP 身も蓋もない is a strong expression closer to 'really blunt.'",
+    "changeScore": 3
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "index": 1,
+    "MessageID": 102241,
+    "TextENGNew": "When Irie finished his projector presentation, he turned on the room lights.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Irie turned the light on as soon as he finished his presentation'; new says 'When Irie finished his projector presentation, he turned on the room lights,' adding 'projector' (プロジェクター) and 'room lights' (部屋の明かり) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 102242,
+    "TextENGNew": "About eight men in white coats, Irie included, sat at tables arranged in a U-shape within the meeting room.",
+    "significantChanges": true,
+    "changeReason": "Old says 'There were about eight men wearing lab coats inside the meeting room'; new says 'About eight men in white coats, Irie included, sat at tables arranged in a U-shape within the meeting room,' adding 'Irie included' (入江も含めて) and the U-shaped table arrangement (ロの字形) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 102243,
+    "TextENGNew": "But the man seated at the very head of the arrangement was the only one not wearing a lab coat.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The man sitting at the far end was the only person without one'; new says 'the man seated at the very head of the arrangement was the only one not wearing a lab coat,' where 'head of the arrangement' (一番正面) is more specific than 'far end.'",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 102244,
+    "TextENGNew": "He clapped his hands lightly, several times.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Upon seeing Irie finish his speech, he clapped his hands several times'; new says 'He clapped his hands lightly, several times,' where old adds 'Upon seeing Irie finish his speech' which is not in this Japanese line (it's the previous entry's context), and new adds 'lightly' (軽く) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 102245,
+    "TextENGNew": "When the others realized it was applause, they joined in.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 102246,
+    "TextENGNew": "``Excellent.@k@vS12/08/180800045. Truly excellent.@k@vS12/08/180800046. I am personally very satisfied with these results. Well done.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Very, very excellent. I'm quite satisfied with your progress'; new says 'Truly excellent. I am personally very satisfied with these results. Well done,' where 'personally' (個人的にも) and 'these results' (この度の成果) are more precise than the old translation's 'your progress.'",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 102247,
+    "TextENGNew": "``It's a testament to Dr. Irie's tireless dedication.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Your hard work has paid off, Dr. Irie'; new says 'It's a testament to Dr. Irie's tireless dedication,' where 'tireless dedication' better captures the Japanese praise and shifts the emphasis from results to effort.",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 102248,
+    "TextENGNew": "``Not at all -- it's thanks to the outstanding cooperation of my staff.@k@vS12/10/181000085. I'm grateful to every one of them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 102249,
+    "TextENGNew": "``With this, I think we can say that a complete cure is within sight.@k@vS12/08/180800048. A few remaining details need to be worked out, but those are simply matters of time and budget.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'We really are getting close to finding a perfect cure'; new says 'I think we can say that a complete cure is within sight,' more closely matching the Japanese (完全治療の目処が立った) which is about establishing a clear path to cure, not just getting close.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 102250,
+    "TextENGNew": "``We'll be counting on your support in that regard.@k@vS12/10/181000087. With the proper personnel and budget, I believe three years at most.@k@vS12/10/181000088. Possibly even two.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'With sufficient funding and labor, I estimate we'll be done within three years. By 1986 we should be able to establish a complete treatment'; new says 'With the proper personnel and budget, I believe three years at most. Possibly even two,' omitting the specific 1986 date. The Japanese says '61年度' (fiscal year '61 i.e. Showa 61 = 1986) which the old translation converts to a year while the new omits it.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 102251,
+    "TextENGNew": "``Going forward, our challenges are establishing a packaged treatment protocol that can be administered by medical facilities without specialized knowledge, and developing a cheaper, simpler testing method.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'From here on out, our challenges are establishing a treatment package that other, unspecialized medical facilities can easily administer'; new adds the framing as a quote from Irie with opening quotation marks, and changes 'developing an easier, cheaper test' to 'developing a cheaper, simpler testing method,' matching the Japanese order (安価で簡易).",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 102252,
+    "TextENGNew": "``Regarding testing methods, Dr. Irie is currently researching techniques to identify latent patients through blood sampling.@k@vS12/09/180900147. Once established, this could be incorporated into standard health examinations for easy detection.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'we believe that will drive costs down significantly'; new says 'this could be incorporated into standard health examinations for easy detection,' where the old focuses on cost reduction while the new focuses on integration with standard exams (一般的な健康診断と併用), matching the Japanese more closely.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 102253,
+    "TextENGNew": "``That's wonderful to hear.@k@vS12/08/180800050. The current tests are pretty involved and expensive, after all.@k@vS12/08/180800051. ...Sorry, I'm truly grateful to hear you're considering the costs too.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 102254,
+    "TextENGNew": "Healthy citizens are supposed to be our nation's assets, so it really is shameful to bring up the budget, but...@k@vS12/08/180800053. But from our position, we'd like to shave every yen we can off the costs.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 102255,
+    "TextENGNew": "``Of course. We understand.@k@vS12/10/181000091. If we established a treatment that was impossible due to the cost, it'd just be a pie in the sky.@k@vS12/10/181000092. It's our job to develop a practical treatment, not a theoretical one.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 102256,
+    "TextENGNew": "When Tomitake applauded this time, the others joined in without hesitation.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Tomitake started clapping again, and everyone followed him'; new says 'When Tomitake applauded this time, the others joined in without hesitation,' adding 'without hesitation' (遅れずに) from the Japanese, contrasting with the earlier hesitant applause.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 102257,
+    "TextENGNew": "``You're truly a respectable man, as well as a talented doctor.@k@vS12/08/180800055. I'm honored to have met you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 102258,
+    "TextENGNew": "``No, I can't sincerely accept your applause until every person has been treated, and this so-called 'curse of Oyashiro-sama' has been exterminated.@k@vS12/10/181000094. We hope for your continued cooperation until that time.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 102259,
+    "TextENGNew": "``Likewise!@k@vS12/08/180800057. I'll do everything I can to make sure you receive almost every yen in the budget you've outlined.@k@vS12/08/180800058. Please keep up the good work!``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 102260,
+    "TextENGNew": "Tomitake extended his hand for a handshake, and Irie clasped it warmly.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Tomitake and Irie shook hands'; new says 'Tomitake extended his hand for a handshake, and Irie clasped it warmly,' more precisely matching the Japanese which describes Tomitake initiating (手を伸ばす) and Irie responding (それに応える).",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 102261,
+    "TextENGNew": "Once again, applause filled the meeting room.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 102262,
+    "TextENGNew": "``That's it for tonight's meeting.@k@vS12/09/180900149. Tomorrow's the main event we're all waiting for... the budget hearing.@k@vS12/09/180900150. Let's all push hard.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 102263,
+    "TextENGNew": "Sarcasm, of course.@k The lab-coated staff all wore wry smiles.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Takano was being sarcastic, of course'; new says 'Sarcasm, of course,' removing the attribution to Takano which is not in the Japanese line (the Japanese just says これは嫌味だ without naming who).",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 102264,
+    "TextENGNew": "``...Ahahahaha.@k@vS12/08/180800060. Well, I'll give my greatest efforts for the budget you all need too.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 102265,
+    "TextENGNew": "To be honest, I want to be on your side myself...@k@vS12/08/180800062. But I'm the one who has to explain things to the brass, and the one they come down on directly...",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 102266,
+    "TextENGNew": "You have my deepest apologies, but regretfully, I'll be rigorously examining the budget.@k@vS12/08/180800064. Please continue lending me your cooperation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 102267,
+    "TextENGNew": "``Ha ha ha. That's your job, so we can't blame you.@k@vS12/10/181000096. We'll see you tomorrow.@k@vS12/10/181000097. In any case, that's it for today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 102268,
+    "TextENGNew": "Once Irie declared the meeting adjourned, the white-coated staff gathered their materials, glanced at the clock, and filed out.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 102269,
+    "TextENGNew": "...The clock was approaching midnight.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 102270,
+    "TextENGNew": "Those with the next day off might be fine, but anyone scheduled for duty would need to sleep immediately or suffer for it tomorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 102271,
+    "TextENGNew": "Takano gathered up the cigarette butts from the ashtrays and collected the empty coffee cans.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 102272,
+    "TextENGNew": "``My, some people didn't drink their coffee.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 102273,
+    "TextENGNew": "We managed to get a coffee budget for meetings approved, but I wonder if they'll cut that budget if people don't drink it.@k@vS12/09/180900153. Hee hee...``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 102274,
+    "TextENGNew": "``Ahahaha... Don't be so mean.@k@vS12/08/180800066. I'm not doing this because I enjoy it, you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 102275,
+    "TextENGNew": "``Oh, Takano-san...@k@vS12/10/181000099. I'll take that leftover coffee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 102276,
+    "TextENGNew": "``I'll take one too.@k@vS12/08/180800068. That way the budget won't go to waste.``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 102277,
+    "TextENGNew": "````Ha ha ha ha ha!````",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 102278,
+    "TextENGNew": "With the rest of the staff gone, the atmosphere finally loosened.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The two of them seemed more relaxed with the other staff members gone'; new says 'With the rest of the staff gone, the atmosphere finally loosened,' where old specifies 'the two of them' while new says 'the atmosphere' (弛緩したムード), matching the Japanese which describes the mood/atmosphere relaxing, not specific people.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 102279,
+    "TextENGNew": "Both Tomitake and Irie loosened their collars, visibly relaxing.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 102280,
+    "TextENGNew": "``How are Rika-chan and Satoko-chan? Are they doing fine?",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 102281,
+    "TextENGNew": "I heard last week that Satoko-chan's test results weren't that good recently...``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 102282,
+    "TextENGNew": "``No, but it actually wasn't that big of a deal.@k@vS12/10/181000102. She was a bit out of sorts because of the heat wave.@k@vS12/10/181000103. Her new results came out very stable.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 102283,
+    "TextENGNew": "``Hee hee, Dr. Irie is very passionate about Satoko-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 102284,
+    "TextENGNew": "``Th-Th-That's not true.@k@vS12/10/181000105. As a physician, I treat all of my patients equally, to the best of my ability!",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 102285,
+    "TextENGNew": "But if she feels grateful and decides to become my maid, that would be wonderful!@k@vS12/10/181000107. ...Though that's proving quite difficult.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 102286,
+    "TextENGNew": "``It would be wonderful if there was a way to completely cure Satoko-chan.@k@vS12/08/180800073. ...But I guess that's what's difficult?``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 102287,
+    "TextENGNew": "...At this, the smile faded from Irie's face. He bit his lip, converting his anguish into a sigh.@k The difficulty of fully curing Satoko -- who had once deteriorated to the terminal stage -- was plain to see without being spoken aloud.",
+    "significantChanges": true,
+    "changeReason": "Old says 'the smile disappeared from Irie's face and he bit his lips, replacing the sinking feeling with a sigh'; new says 'the smile faded from Irie's face. He bit his lip, converting his anguish into a sigh,' where 'anguish' (沈痛な思い) is more accurate than 'sinking feeling.' Also old says 'The difficulty of making Satoko fully recover once she had fallen into a terminal state'; new says 'The difficulty of fully curing Satoko -- who had once deteriorated to the terminal stage' with slightly different framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 102288,
+    "TextENGNew": "``Those technically aren't caused by the disease, but by the normal defense mechanisms cultivated in the brain.@k@vS12/10/181000110. Like the idiom, 'a scalded dog fears cold water' suggests, the brain naturally uses past experiences proactively for our survival.``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 102289,
+    "TextENGNew": "Still, it's no different than anything else that interferes with your daily life.@k And since memory and experience are so closely related, it requires much more sensitive counseling and long-term medication than most treatments.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 102290,
+    "TextENGNew": "Moreover, even though she was fully recovered, that was only an objective judgment from the point of view of others.@k Or there is no chance that it will potentially remain and recur for the rest of my life.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 102291,
+    "TextENGNew": "``Considering how far Satoko-chan's condition had progressed, the recovery so far is nothing short of miraculous...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Even if she's just one more to the mix, that's still a miraculous recovery considering the state she used to be in'; new says 'Considering how far Satoko-chan's condition had progressed, the recovery so far is nothing short of miraculous,' where the old translation is garbled ('one more to the mix' doesn't match the Japanese) while the new clearly conveys the Japanese meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 102292,
+    "TextENGNew": "Takano added this as a consolation, but... to whom were those words truly directed?@k Despite their different words and mannerisms, Tomitake could feel the weight of both their struggles all too keenly.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Takano follows up by saying that... but to whom are those words directed?'; new says 'Takano added this as a consolation, but... to whom were those words truly directed?' Also old says 'Tomitake was able to painfully understand the anguish each of them was going through'; new says 'Tomitake could feel the weight of both their struggles all too keenly,' where 'both their struggles' (二人が見せるそれぞれの苦悩) is more specific.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 102293,
+    "TextENGNew": "``She still needs three shots a day...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 102294,
+    "TextENGNew": "``No, she's recovered quite a bit, so she's down to twice a day now.@k@vS12/10/181000114. I think that puts a lot less strain on her too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 102295,
+    "TextENGNew": "``She was so afraid in the beginning...@k@vS12/09/180900161. But Rika-chan talked her into it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 102296,
+    "TextENGNew": "``Into getting the shots, you mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 102297,
+    "TextENGNew": "``Satoko-chan was told that she's receiving financial support from us by supporting our research.``",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 102298,
+    "TextENGNew": "``So she thinks that she's getting two shots a day not because she's sick...@k@vS12/08/180800078. but as a test subject for your research?``",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 102299,
+    "TextENGNew": "``Jirou-san.@k@vS12/09/180900163. ......It would be a horrible thing for us to explain to her what kind of illness she's suffering from...@k@vS12/09/180900164. Didn't I tell you this before?``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 102300,
+    "TextENGNew": "``...Ah, well.@k@vS12/08/180800080. I remember.@k@vS12/08/180800081. Sorry for being insensitive...``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 102301,
+    "TextENGNew": "``...If you happen to see Satoko-chan somewhere, please be kind to her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 102302,
+    "TextENGNew": "``All right.@k@vS12/08/180800083. ...I will.``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 102303,
+    "TextENGNew": "``Rika-chan is such a strong girl...",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 102304,
+    "TextENGNew": "Her background is similar to Satoko-chan's, yet she's leading such a steady life.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 102305,
+    "TextENGNew": "``We have Rika-chan and her deceased parents to thank for all of this.@k@vS12/08/180800085. Without their understanding and support, we would've never discovered even a hint at a cure so soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 102306,
+    "TextENGNew": "``......She even endured our inhumane experiments very well.@k@vS12/10/181000120. We wouldn't have the results we do today without her support after overcoming her parents' death.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 102307,
+    "TextENGNew": "...I'd like to repay the debt we owe her somehow.``",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 102308,
+    "TextENGNew": "``I agree.@k@vS12/08/180800087. Tokyo also recognizes that Rika-chan and Satoko-chan have rendered us a distinguished service.@k@vS12/08/180800088. They will be compensated for their work someday.``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 102309,
+    "TextENGNew": "``Hey, you guys don't even want to pay for our coffee filters!@k@vS12/09/180900166. Hee hee.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 102310,
+    "TextENGNew": "``Again, don't be mean.@k@vS12/08/180800090. You keep bringing that story up...``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 102311,
+    "TextENGNew": "````Ha ha ha ha ha.````",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 102312,
+    "TextENGNew": "``But even though all we can do is to compensate them with money...@k@vS12/09/180900169. I wish there was a way to pay them back from our hearts...``",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 102313,
+    "TextENGNew": "Takano murmured it as though speaking to herself, but in the silence of the room, it carried the weight of an appeal to the other two.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Takano muttered like she's talking to herself, but it almost sounded as if she was talking to them'; new says 'Takano murmured it as though speaking to herself, but in the silence of the room, it carried the weight of an appeal to the other two,' adding 'in the silence of the room' (静かな室内で) and 'appeal to the other two' (他の二人に訴えかけている) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 102314,
+    "TextENGNew": "``...I'm sure there are many ways for us to show our appreciation.@k@vS12/10/181000124. There are many ways we can pay them back.``",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 102315,
+    "TextENGNew": "``Dr. Irie... I mean, Coach. I guess you're already doing that for them all the time.@k@vS12/09/180900171. I suppose I should be nice to those girls too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 102316,
+    "TextENGNew": "``Indeed. Plus, Rika-chan was very nice to you today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 102317,
+    "TextENGNew": "``Aaah, I nearly forgot!@k@vS12/09/180900173. I have to take that film to get developed first thing in the morning!@k@vS12/09/180900174. It was such a wonderful experience...@k@vS12/09/180900175. History, culture, the smell of it... Everything about it was wonderful!``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 102318,
+    "TextENGNew": "Irie wondered what kind of experience could have Takano this enraptured.@k Tomitake, who knew exactly what it was, could only deflect with an awkward smile.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Irie wondered what she could have experienced during the day'; new says 'Irie wondered what kind of experience could have Takano this enraptured,' adding 'enraptured' (うっとりする) from the Japanese. Also old says 'Tomitake could only smile and act like he didn't know anything'; new says 'Tomitake, who knew exactly what it was, could only deflect with an awkward smile,' adding 'who knew exactly what it was' (それがどんな経験なのかよく知る) and 'awkward' (複雑そうに).",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 102319,
+    "TextENGNew": "``By the way... Takano-san...@k@vS12/08/180800093. What do you think of what Rika-chan told us near the end today...? What are your thoughts?``",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 102320,
+    "TextENGNew": "``......I want to believe that it's only paranoia.@k@vS12/09/180900177. ...She did say that there's no absolute proof, either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 102321,
+    "TextENGNew": "``What's going on?@k@vS12/10/181000126. From what you've said, it sounds like Rika-chan is showing some bad symptoms?``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 102322,
+    "TextENGNew": "``Her test results from last week...@k@vS12/09/180900179. I thought they came out pretty good, but did you see anything different, Dr. Irie...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 102323,
+    "TextENGNew": "``No...@k@vS12/10/181000128. They were as stable as always.@k@vS12/10/181000129. If Satoko-chan's results are a wave during high tide, Rika-chan's are the quiet surface of a lake.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 102324,
+    "TextENGNew": "Ha ha ha, just like their personalities.``",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 102325,
+    "TextENGNew": "``......What's the possibility of a sudden outbreak?``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 102326,
+    "TextENGNew": "``What are you talking about?@k@vS12/10/181000132. Don't tell me Rika-chan is showing symptoms of the disease progressing?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 102327,
+    "TextENGNew": "``...Rika-chan asked us for something today.@k@vS12/09/180900181. ......She wanted our protection, because she feels like someone is going to murder her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 102328,
+    "TextENGNew": "``No way.@k@vS12/10/181000134. ...Hahaha, who would try to kill her?@k@vS12/10/181000135. That's impossible.``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 102329,
+    "TextENGNew": "``Rika-chan is a beloved mascot here in the village, and I don't think she has any enemies.@k@vS12/08/180800096. ...I think it was just her imagination, too.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 102330,
+    "TextENGNew": "``Why does she think that someone is trying to kill her?@k@vS12/10/181000137. If she's experiencing paranoia, she may be in the early L5 stage...``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 102331,
+    "TextENGNew": "``...She said she saw it in a dream.@k@vS12/09/180900183. She says she's been plagued by such nightmares and is deeply frightened, and would like personal security until she feels safe again.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'She said she saw it in her dreams...She wants us to reinforce security around her, because she feels threatened'; new says 'She said she saw it in a dream...She says she's been plagued by such nightmares and is deeply frightened, and would like personal security until she feels safe again,' where new adds 'plagued by nightmares' (悪夢にうなされて), 'deeply frightened' (怖い思いをした), and 'until she feels safe again' (落ち着くまで) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 92,
+    "MessageID": 102332,
+    "TextENGNew": "``For a young girl like that, it's not uncommon to get scared after having a nightmare.@k@vS12/08/180800098. But we need to determine if it was really just a dream, or if she's showing early symptoms of the disease...``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 102333,
+    "TextENGNew": "``Okay.@k@vS12/10/181000139. Let's give her an urgent checkup tomorrow.@k@vS12/10/181000140. I really hope nothing is wrong.@k@vS12/10/181000141. She's the most valuable person in this village.``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 102334,
+    "TextENGNew": "``I hope she's okay.@k@vS12/08/180800100. ...But what should we do if she is?``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 102335,
+    "TextENGNew": "``...Jirou-san.@k@vS12/09/180900185. After everything Rika-chan showed us today, if that modest request is all she asks in return, I think it's a remarkably small thing.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'If that's what she wants in return for what she showed us today, it's not even a big deal'; new says 'After everything Rika-chan showed us today, if that modest request is all she asks in return, I think it's a remarkably small thing,' where 'modest request' (あのお願い) and 'remarkably small' (とてもささやか) more closely match the Japanese tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 102336,
+    "TextENGNew": "``She came to us because she felt unsafe, and I believe answering that trust is the foundation of our relationship.@k@vS12/09/180900187. ...This could be how we repay her -- not with money, but with our hearts.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'If she's worried about her safety and wants to rely on us, I think we should support her. That's what paying her back with our hearts is all about'; new says 'She came to us because she felt unsafe, and I believe answering that trust is the foundation of our relationship. This could be how we repay her -- not with money, but with our hearts,' where new adds the trust/relationship framing (信頼関係) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 97,
+    "MessageID": 102337,
+    "TextENGNew": "``You're right.@k@vS12/10/181000143. Even if she was just dreaming, we'll lose her trust if we don't support her.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 102338,
+    "TextENGNew": "This is our chance.@k@vS12/10/181000145. We've found a way to show her our appreciation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 102339,
+    "TextENGNew": "``...Yeah, I agree.@k@vS12/08/180800102. Besides, she has a right to seek that support from us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 102340,
+    "TextENGNew": "``Yes. We have to make sure to protect her at all times.``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 102341,
+    "TextENGNew": "``That's true.@k@vS12/10/181000147. ...Though that's your job, not mine.@k@vS12/10/181000148. So please, give her your best.``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 102342,
+    "TextENGNew": "``Understood.@k@vS12/08/180800104. Takano-san, please do what you can to keep her safe.@k@vS12/08/180800105. It's probably not so serious that we need to bring in the Bloodhounds from Tokyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 102343,
+    "TextENGNew": "``Hee hee... True, you can't ask them to come over just because Rika Furude had a nightmare.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 102344,
+    "TextENGNew": "All right.@k@vS12/09/180900191. I'll order at least four members of the Mountain Dogs to watch her 24 hours a day.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 102345,
+    "TextENGNew": "``...That's impressive.@k@vS12/10/181000150. That's tighter security than when I went to Tokyo.``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 102346,
+    "TextENGNew": "``Hee hee hee...@k@vS12/09/180900193. She deserves special treatment.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 102347,
+    "TextENGNew": "``I'll assign her the most thorough security detail imaginable!!@k@vS12/09/180900195. Anyone who plots to assassinate Rika-chan will be stopped dead in their tracks!!@k@vS12/09/180900196. I'll assign the Yamainu's finest as her guard -- you might be able to shoot a president, but don't you dare think you can get to Rika-chan!!``",
+    "significantChanges": true,
+    "changeReason": "New actually ADDS the Yamainu/president comparison from JPN that old omitted; old was the less accurate one. But the core meaning (maximum security for Rika) is the same.",
+    "changeScore": 3
+  },
+  {
+    "index": 108,
+    "MessageID": 102348,
+    "TextENGNew": "``Even if her would-be assassin were a world-class sniper, we'd protect her!!@k@vS12/09/180900198. Meow meow!@k@vS12/09/180900199. Meow meow meow meow!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Not even a super spy could lay a finger on her!! Meow meow! Onigafuchi banzai!'; new says 'Even if her would-be assassin were a world-class sniper, we'd protect her!! Meow meow! Meow meow meow meow!' Old translates 鬼ヶ淵村の神秘万歳 as 'Onigafuchi banzai' while new replaces it with 'Meow meow meow meow,' omitting the Onigafuchi village reference entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 109,
+    "MessageID": 102349,
+    "TextENGNew": "``............Takano-san, did something good happen...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 102350,
+    "TextENGNew": "``Well, I mean...@k@vS12/08/180800107. Ahahahahaha......``",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11237,
+    "TextENGNew": "[Incident Report 5: The Hinamizawa Serial Disappearances — Addendum]",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11238,
+    "TextENGNew": "1. Case Details\nShowa 58 (1983), June [date redacted]",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Showa 58' dating system from Japanese source and replaces terse 'X' with explicit '[date redacted]' notation.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 11239,
+    "TextENGNew": "2. Location\nHinamizawa District, Shishibone City (commonly known as Hinamizawa Village) — the basement of the Sonozaki estate",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 11240,
+    "TextENGNew": "3. Summary\nA string of consecutive disappearances occurred in Hinamizawa Village, Shishibone City.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 11241,
+    "TextENGNew": "The suspect is Shion Sonozaki.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 11242,
+    "TextENGNew": "The suspect is believed to have abducted, confined, and murdered five residents of Hinamizawa Village (Oryou Sonozaki, Kiichirou Kimiyoshi, Rika Furude, Satoko Houjou, and Mion Sonozaki) between June 19th and 21st.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 11243,
+    "TextENGNew": "Initial investigation was hampered by a lack of information, but the case was resolved by a sudden and fortuitous turn of events.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 11244,
+    "TextENGNew": "On the morning of the 22nd, a patrol car passing in front of the Sonozaki estate heard screams from within the property and entered as an emergency measure.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 11245,
+    "TextENGNew": "Two classmates found in contact with the suspect inside the building — Rena Ryuugu and Keiichi Maebara — were taken into protective custody.",
+    "significantChanges": true,
+    "changeReason": "Changes the character's name from 'Reina' (legal name) to 'Rena' (nickname), and changes 'rescued' to 'taken into protective custody,' which alters the nature of police action described.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 11246,
+    "TextENGNew": "It appears that Keiichi Maebara, who had been attempting to talk the suspect down inside the residence, was stabbed when she resisted. He was transported to an emergency hospital and subsequently diagnosed with minor injuries.",
+    "significantChanges": true,
+    "changeReason": "Old translation is ambiguous about who was 'resisting'; new translation correctly clarifies that the suspect resisted, matching the Japanese 容疑者の抵抗を受けて.",
+    "changeScore": 2
+  },
+  {
+    "index": 11,
+    "MessageID": 11247,
+    "TextENGNew": "Initially, however, investigators were deceived by the suspect's claim that she was \"one of the victims abducted and confined by Mion Sonozaki,\" and she was therefore placed under protection as a victim.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 11248,
+    "TextENGNew": "Investigators then entered the secret room located deep in the basement of the Sonozaki estate's outbuilding.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'outbuilding' (離れ) and 'deep,' which were present in the Japanese but omitted in the original, specifying a different location within the estate.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 11249,
+    "TextENGNew": "There, they found hair, skin fragments, blood, and other remains belonging to four of the missing persons (Oryou Sonozaki, Kiichirou Kimiyoshi, Rika Furude, and Satoko Houjou).",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 11250,
+    "TextENGNew": "It was determined that the suspect had assaulted the missing persons inside that secret room.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 11251,
+    "TextENGNew": "The bodies of the missing persons were then located at the bottom of an old well, based on testimony from the suspect who was still posing as a victim.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 11252,
+    "TextENGNew": "The suspect insisted that \"the culprit is Mion Sonozaki\" and claimed that Mion Sonozaki had escaped through a secret passage, which threw the investigation into confusion — and temporarily led to the suspect being excluded as a person of interest.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 11253,
+    "TextENGNew": "※ This fact should be treated with the utmost gravity as material for future reflection.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 11254,
+    "TextENGNew": "However, ongoing investigation found no evidence that Mion Sonozaki had escaped via the old well cave designated as the supposed escape route, and information provided by individuals close to the suspect indicated that her conduct had been unnatural. On this basis, the police decided to request that she accompany them voluntarily as a key person of interest.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'voluntarily' (任意) and specifies 'old well cave,' both present in the Japanese, and uses 'person of interest' instead of 'reference person' which more accurately conveys the investigative status.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 11255,
+    "TextENGNew": "......",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 11256,
+    "TextENGNew": "Whether she sensed this development in advance is unclear, but the suspect appears to have attempted to flee from the apartment where she was staying.",
+    "significantChanges": true,
+    "changeReason": "Old translation assumes the suspect sensed the police's plans; new translation preserves the uncertainty expressed in the Japanese (事前に察知したのか), which frames it as a question rather than an assertion.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 11257,
+    "TextENGNew": "In the course of doing so, however, she accidentally fell from the balcony... and died of hemorrhagic shock.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 11258,
+    "TextENGNew": "4. Motive\nThe suspect had long harbored deep dissatisfaction and suspicion regarding the customs of the village and the family she was born into.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'and the family she was born into' (生家), present in the Japanese but omitted from the original, broadening the scope of the suspect's dissatisfaction.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 11259,
+    "TextENGNew": "Beyond that, she is said to have resented the fact that a close friend was subjected to persecution by villagers, forced into a life of hardship, and held a profound grudge against those responsible.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 11260,
+    "TextENGNew": "It is believed that the accumulation of these feelings exploded upon that friend's disappearance, causing her to lose all restraint.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 11261,
+    "TextENGNew": "...It should be noted that these inferences are based on handwritten documents the suspect sent to police personnel prior to her death, and the truth of the matter remains unknown.",
+    "significantChanges": true,
+    "changeReason": "Old translation says police 'found' the documents; new correctly states the suspect 'sent' them to police personnel (送付した), changing the agency and circumstances of how the documents were obtained.",
+    "changeScore": 3
+  }
+]

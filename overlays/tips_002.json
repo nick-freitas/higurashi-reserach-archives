@@ -1,0 +1,243 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "We Can Wear Whatever We Want?",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"We Don't Have a Uniform?\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12626,
+    "TextENGNew": "It was still only June... and yet it was already sweltering.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12627,
+    "TextENGNew": "Cicadas cried mii-mii outside, and at night the mosquitoes came out.@k ...This was summer in every sense but the calendar.",
+    "significantChanges": true,
+    "changeReason": "Old incorrectly identifies the insects as \"higurashi\" but the Japanese says セミ (generic cicadas) making ミンミン sounds, characteristic of minmin-zemi, not higurashi.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 12628,
+    "TextENGNew": "...At least the mornings were still cool. That was the one saving grace.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 12629,
+    "TextENGNew": "``It is dreadfully hot, I must say!``",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases as \"Summer, I do declare!\" but the Japanese specifically says 暑い (hot); new correctly translates the complaint about heat.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 12630,
+    "TextENGNew": "Satoko was fanning herself with her skirt in a listless sort of way.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12631,
+    "TextENGNew": "...That's not very ladylike, I have to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 12632,
+    "TextENGNew": "...Brat or not, she's still a girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12633,
+    "TextENGNew": "``Keiichi-san looks so cool in just a shirt... I envy you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12634,
+    "TextENGNew": "``From where I stand, your skirt looks like the cooler option. You couldn't possibly understand how stifling trousers are at this time of year!``",
+    "significantChanges": true,
+    "changeReason": "\"Jeans\" changed to \"trousers\" -- Japanese says ズボン (generic trousers/pants), not jeans specifically.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 12635,
+    "TextENGNew": "``...Oh... hot... hau...``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 12636,
+    "TextENGNew": "This girl's imagination has gone somewhere strange again...",
+    "significantChanges": true,
+    "changeReason": "\"Indecent\" changed to \"strange\" -- 妙な means strange/peculiar, not necessarily indecent; the old translation adds a connotation not in the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 12637,
+    "TextENGNew": "``Rena's summer clothes have such a nice, cool color. Just looking at them makes me feel a bit cooler.``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12638,
+    "TextENGNew": "``Ahahaha. Thank you!@k They really are quite cool.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12639,
+    "TextENGNew": "``I do wish I had cool summer clothes like Rena-san's.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12640,
+    "TextENGNew": "``But Satoko-chan's summer dress is incredibly cute! Rena would love to try wearing it☆.``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12641,
+    "TextENGNew": "``This is actually quite muggy, you know? I'm sure yours is the cooler option, Rena-san.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 12642,
+    "TextENGNew": "``But cute clothes make everything more fun, I'm sure of it... Hau!``",
+    "significantChanges": true,
+    "changeReason": "\"Hao\" corrected to \"Hau\" (Japanese はぅ); also \"kyute\" normalized to \"cute\" losing the deliberate misspelling that conveyed Rena's cutesy pronunciation of かぁいい.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 12643,
+    "TextENGNew": "...I had the sense that Rena and Satoko operated on fundamentally different values.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12644,
+    "TextENGNew": "``Come to think of it... this school doesn't have a designated uniform, does it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12645,
+    "TextENGNew": "``Right. It doesn't.@k As long as what you wear is appropriate, regular clothes are perfectly fine.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 12646,
+    "TextENGNew": "Sure enough, many students wore their own clothes. Those in uniforms all wore the same design—plain and unremarkable.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12647,
+    "TextENGNew": "``...What's the uniform the others are wearing, though? They're all identical.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12648,
+    "TextENGNew": "``That's the uniform from the school in town. There's no rule about it, but everyone wears it just the same.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12649,
+    "TextENGNew": "``In contrast, all our friends are wearing different uniforms. Did you actually go out of your way to get them from somewhere?``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 12650,
+    "TextENGNew": "``Indeed. Mion-san procures them for us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 12651,
+    "TextENGNew": "``Mii-chan has a relative who runs a secondhand clothing shop. Apparently they stock school uniforms from all over the country at very low prices.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 12652,
+    "TextENGNew": "``And so you put in a request to those relatives for a variety of distinctive uniforms.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 12653,
+    "TextENGNew": "...That Mion, she absolutely loves dressing her friends up like paper dolls.",
+    "significantChanges": true,
+    "changeReason": "\"Dress-up dolls\" changed to \"paper dolls\" -- 着せ替え人形 specifically means dress-up dolls (fashion dolls whose clothes can be changed), not paper dolls; the new translation is less accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 12654,
+    "TextENGNew": "...What a peculiar secondhand shop, though.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 12655,
+    "TextENGNew": "I could understand secondhand clothing in general—but school uniforms from all over the country?",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 12656,
+    "TextENGNew": "...A very strange shop indeed.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 12657,
+    "TextENGNew": "Uniforms from distant schools nobody's ever heard of—what use could those possibly be??",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 12658,
+    "TextENGNew": "``...Yeah, Rena thinks so too. They also carry secondhand gym clothes and school swimsuits.@k ...Used ones are a bit off-putting, honestly.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 12659,
+    "TextENGNew": "``Doesn't sound like much of a money-maker... Mion probably pitches in to help them scrape together a bit of profit.``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 12660,
+    "TextENGNew": "``...But Mion-san always says with complete confidence—'One day it'll be a massive hit and a wonderful business!!'``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 12661,
+    "TextENGNew": "...A secondhand shop specializing in school uniforms becoming a massive hit?",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 12662,
+    "TextENGNew": "...I don't see it.",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5885,
+    "TextENGNew": "\"...I see.@k@vS20/10/VTK1_irie1303. No, no, you don't need to file anything.@k@vS20/10/VTK1_irie1304.Satoshi-kun, you're a valued member of the Hinamizawa Fighters.@k@vS20/10/VTK1_irie1305.Your spot will be waiting for you.@k@vS20/10/VTK1_irie1306.You can come back whenever you're ready, okay?\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Satoshi-kun' address and 'file anything' (closer to JPN 届け/filing a form), and changes 'promising' to 'valued'; old omitted Satoshi's name and the filing context.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 5886,
+    "TextENGNew": "\"I'm not sure about that...@k@vS20/07/VTK1_satoshi1033. I don't think I'll be able to come back for a while, so I thought it would be better to formally withdraw...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 5887,
+    "TextENGNew": "Satoshi-kun had come to tell me he wanted to leave the Hinamizawa Fighters.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 5888,
+    "TextENGNew": "I was well aware of the circumstances surrounding Satoshi-kun and Satoko-chan,@k so I had considered the possibility that he might say something like this...",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 5889,
+    "TextENGNew": "The rift between Satoko-chan and her aunt had apparently become fatal—so severe that reconciliation was impossible.",
+    "significantChanges": true,
+    "changeReason": "Old says 'to the point that it can be considered abuse' while new says 'so severe that reconciliation was impossible'; JPN 修復不可能なほどに酷い means 'so bad it's beyond repair' -- the old incorrectly introduces 'abuse' not in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 5890,
+    "TextENGNew": "Recently, someone from the child consultation center had come to intervene, and the aunt briefly behaved herself during that visit.@k ...But immediately after, the harassment resumed in an even more insidious form.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5891,
+    "TextENGNew": "Satoko-chan's weekly checkup numbers had been gradually deteriorating,@k and we were barely keeping her stable by increasing her medication.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 5892,
+    "TextENGNew": "......Unless her relationship with her aunt improved, she would eventually relapse into L5 symptoms and sink into madness.",
+    "significantChanges": true,
+    "changeReason": "Old says 'go terminal' generically; new specifies 'relapse into L5 symptoms' matching the Japanese Ｌ５の症状をぶり返し, preserving the specific medical terminology.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 5893,
+    "TextENGNew": "...Though, if I recall correctly, her terminal symptoms were not the deranged type.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 5894,
+    "TextENGNew": "...She was the type to harbor the madness within, keeping it hidden beneath a composed exterior.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 5895,
+    "TextENGNew": "...Just as she had pushed her parents off the cliff two years ago... there was a chance Satoko-chan might kill her aunt.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 5896,
+    "TextENGNew": "Thanks to the Mountain Dogs' intervention, the fall had been ruled an accident and Ooishi had backed off, though he himself remained suspicious.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 5897,
+    "TextENGNew": "...If another incident like that occurred around Satoko-chan... he would surely investigate her without mercy.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 5898,
+    "TextENGNew": "...The deterioration of Satoko-chan's environment had already reached a point beyond anything I could do.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 5899,
+    "TextENGNew": "So it was not surprising that Satoshi-kun, who cared so deeply for his sister, would want to quit baseball to be constantly at her side...",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 5900,
+    "TextENGNew": "\"Actually, I'm starting a part-time job.@k@vS20/07/VTK1_satoshi1035. So I won't be able to make it to practice...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 5901,
+    "TextENGNew": "\"...A part-time job?@k@vS20/10/VTK1_irie1308. Is there something you want to buy?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 5902,
+    "TextENGNew": "\"...Yes.@k@vS20/07/VTK1_satoshi1037. Satoko's birthday is coming up soon.@k@vS20/07/VTK1_satoshi1038.There's a stuffed animal she's been wanting, and I'd like to get it for her.\"",
+    "significantChanges": true,
+    "changeReason": "Old translates ぬいぐるみ as 'teddy bear' while new correctly uses 'stuffed animal'; ぬいぐるみ is a general term for any stuffed toy, not specifically a teddy bear.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 5903,
+    "TextENGNew": "Now that he mentioned it, that was right.",
+    "significantChanges": true,
+    "changeReason": "Old 'That's right' is a simple affirmation; new 'Now that he mentioned it, that was right' captures the JPN そう言えばそうだっけ nuance of being reminded of something previously known.",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 5904,
+    "TextENGNew": "I recalled the date written on her insurance card.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 5905,
+    "TextENGNew": "June 24th, if I remembered correctly.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 5906,
+    "TextENGNew": "Right after the Watanagashi festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 5907,
+    "TextENGNew": "\"I see.@k@vS20/10/VTK1_irie1310. ...You really are a wonderful big brother, Satoshi-kun.@k@vS20/10/VTK1_irie1311.I'm sure Satoko-chan will be thrilled.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 5908,
+    "TextENGNew": "\"......I hope she likes it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 5909,
+    "TextENGNew": "From the way Satoshi-kun spoke, it was clear he was carrying an enormous amount of stress.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 5910,
+    "TextENGNew": "...For him, seeing Satoko-chan suffer was no different from suffering himself...",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5911,
+    "TextENGNew": "The proper remedy for such strain was moderate exercise through sports and regular, adequate sleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 5912,
+    "TextENGNew": "If Satoko-chan was being berated by her aunt night after night, then Satoshi-kun, who shielded her, was almost certainly not getting enough rest.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 5913,
+    "TextENGNew": "...I did not know what kind of job he would be taking, but unlike sports, it was unlikely to help him release stress.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 5914,
+    "TextENGNew": "...Frankly, I could not approve of adding a physically and mentally taxing job on top of the exhaustion Satoshi-kun was already carrying.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 5915,
+    "TextENGNew": "I offered to help pay for the present, but naturally, given his character, he would not accept.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 5916,
+    "TextENGNew": "It was his gift to give, he said, so it was only right that he earn every yen himself. He declined with quiet resolve.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 5917,
+    "TextENGNew": "The part-time job was solely to earn enough for Satoko-chan's present, so it would apparently be short-term.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 5918,
+    "TextENGNew": "...If it was only for a brief period, perhaps it would not push him too far...",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 5919,
+    "TextENGNew": "In truth, I wanted to prevent him from piling on more burdens during a time when his heart was already strained.@k But with Satoko-chan's birthday approaching, persuading a brother so devoted to his sister was all but impossible.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 5920,
+    "TextENGNew": "......Satoshi-kun's resolve was firm.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 5921,
+    "TextENGNew": "Pressing him any further to give up the job might damage the trust between us.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 5922,
+    "TextENGNew": "Fearing that outcome, I accepted his leave of absence and resolved to watch over him.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 5923,
+    "TextENGNew": "\"...Oh, Coach.@k@vS20/07/VTK1_satoshi1041. ...Could I maybe borrow a bat?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 5924,
+    "TextENGNew": "I completely misread the meaning behind his words.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 5925,
+    "TextENGNew": "...Later, when I learned he had been carrying that bat as a weapon for self-defense,@k I realized that even at this point, he had already been exhibiting dangerous warning signs.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 5926,
+    "TextENGNew": "He had become convinced that the series of mysterious deaths would claim a victim again this fourth year, and that the victim would be him.",
+    "significantChanges": true,
+    "changeReason": "Old says 'a fourth mysterious death this year' (suggesting the fourth individual death) while new says 'the series of mysterious deaths would claim a victim again this fourth year'; JPN 連続怪死事件が四年目 refers to the fourth year of the ongoing series.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 5927,
+    "TextENGNew": "...An obsessive delusion that someone was out to take his life.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 5928,
+    "TextENGNew": "That was unmistakably a symptom nearing the terminal stage of Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 5929,
+    "TextENGNew": "...And yet, despite being someone deeply involved with the syndrome, I had been inexcusably careless...",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 5930,
+    "TextENGNew": "\"A bat?@k@vS20/10/VTK1_irie1313. What would you need a bat for?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 5931,
+    "TextENGNew": "Satoshi-kun did have a bat of his own.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 5932,
+    "TextENGNew": "So rather than asking to \"borrow\" it, the proper request would have been asking to \"take it home.\" But he specifically said \"borrow.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 5933,
+    "TextENGNew": "...In hindsight, seeking my permission to take it was a way of lightening his guilty conscience. But there was no way I could have known that then...",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 5934,
+    "TextENGNew": "\"Well...@k@vS20/07/VTK1_satoshi1043. I won't be able to come to practice much... but I think I can at least find time to practice my swings on my own.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 5935,
+    "TextENGNew": "\"That's wonderful!@k@vS20/10/VTK1_irie1315. By all means, take it with you.@k@vS20/10/VTK1_irie1316.Just make sure to check your surroundings carefully before swinging, so no one gets hurt.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 5936,
+    "TextENGNew": "\"If it won't bother the neighbors, hanging a tire and hitting it makes for excellent practice.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 5937,
+    "TextENGNew": "Even just swinging a bat would surely help relieve stress.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 5938,
+    "TextENGNew": "And so, letting him take his bat home would ease his burden, however slightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 5939,
+    "TextENGNew": "...That was what I believed.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 5940,
+    "TextENGNew": "............But... that was a grave mistake.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 5941,
+    "TextENGNew": "I would learn the truth only when things had already passed the point of no return...",
+    "significantChanges": false
+  }
+]

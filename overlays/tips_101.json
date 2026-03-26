@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Business Card",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 15305,
+    "TextENGNew": "☆Rina☆\nHeight 168cm  B89 W60 H87",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15306,
+    "TextENGNew": "Hobbies: I've been really into indoor gardening lately. My goal is to brew tea from herbs I've grown myself☆",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15307,
+    "TextENGNew": "\"Thank you so much for always telling me such fun and interesting stories☆ Next time let's sneak away from the bar and go somewhere together, just the two of us☆\"",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'sneak away from the bar' (お店に内緒で), revealing this is a hostess inviting a client to meet outside her workplace, whereas the original's vague 'in private' obscures that context.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 15308,
+    "TextENGNew": "Gentlemen's Club  Blue Mermaid\nExclusive Manager  Rina Mamiya",
+    "significantChanges": true,
+    "changeReason": "'Private Manager' changed to 'Exclusive Manager'; 専属 means 'exclusive/dedicated' (assigned to specific clients), not 'private,' altering the understood nature of the role.",
+    "changeScore": 2
+  }
+]

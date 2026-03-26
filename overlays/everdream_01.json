@@ -1,0 +1,860 @@
+[
+  {
+    "index": 2,
+    "MessageID": 1468,
+    "TextENGNew": "The study was packed with towering stacks of books and documents.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 1469,
+    "TextENGNew": "Buried among them sat a portly old man, writing with single-minded intensity. On the carpet at his feet, a young girl sorted through a spread of papers.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 1470,
+    "TextENGNew": "At first glance it might have looked like play, or mischief.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 1471,
+    "TextENGNew": "But her expression was utterly serious—this was no game.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 1472,
+    "TextENGNew": "\"Grandpa. I've finished sorting the documents.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 1473,
+    "TextENGNew": "\"Mm. Thank you.\n...Now then, what did we find?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 1474,
+    "TextENGNew": "\"Look. This many people share the same symptoms.\nThat's clearly abnormal compared to the national average.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 1475,
+    "TextENGNew": "\"Hmm...! Just as I suspected.\nI've also come across an intriguing paper over here.\nIt's a study on psychosurgery and culture.\nIt predicts the existence of an entity residing in the frontal lobe, one with a will distinct from its host's.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 1476,
+    "TextENGNew": "``The frontal lobe is the part that governs what makes us... human, right?``",
+    "significantChanges": true,
+    "changeReason": "New translation 'The frontal lobe is the part that governs what makes us... human, right?' is much more accurate to 人間が人間らしくあることを司る than original's 'The frontal lobe is what causes emotions.'",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 1477,
+    "TextENGNew": "\"That's correct.\nEmotions are not born from the heart.\nThey are nothing more than a by-product of secretions produced by the organ we call the brain.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 1478,
+    "TextENGNew": "\"If a colony of nano-scale organisms were to exert a specific influence on that brain—if they formed a single colony governed by one command structure—\nthen the information signals converging upon that colony would be altered into something fundamentally different from the host's own will.\"",
+    "significantChanges": true,
+    "changeReason": "New translation is dramatically more accurate to the dense Japanese scientific language about nano-scale organisms forming colonies in the brain, vs original's simplified paraphrase.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 1479,
+    "TextENGNew": "\"So—when emotions arise that a person can't suppress on their own, it's because microorganisms of some kind are interfering with those signals?\"",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates as 'spread of ideology'; JPN describes microorganisms interfering with emotional signals a person can't suppress — completely different subject matter.",
+    "changeScore": 4
+  },
+  {
+    "index": 14,
+    "MessageID": 1480,
+    "TextENGNew": "\"And conflicts at a national scale—does that mean different organisms are driving their hosts to expand territory, seeking more hosts for themselves?\"",
+    "significantChanges": true,
+    "changeReason": "New translation correctly captures the Japanese about organisms driving hosts to expand territory seeking new hosts, vs original's simplified version about 'competing to expand their habitat.'",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 1481,
+    "TextENGNew": "\"Or perhaps the spread of education, the drawing of borders, the expansion of a race.\"",
+    "significantChanges": true,
+    "changeReason": "New translation correctly lists 'the spread of education, the drawing of borders, the expansion of a race' matching the Japanese list, vs original's different structure.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 1482,
+    "TextENGNew": "\"My hypothesis is that one cause of the different cultural communities in our world, and the conflicts between them, lies in the existence of minute life-forms that influence human thought.\"",
+    "significantChanges": true,
+    "changeReason": "New translation correctly attributes the hypothesis to the grandfather ('My hypothesis is') matching 仮定している, vs original's passive 'It's hypothesized.'",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 1483,
+    "TextENGNew": "\"So there are people abroad who think the same way you do, Grandpa.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 1484,
+    "TextENGNew": "\"Of course there are.\nVisible or not, the Earth teems with countless life-forms, and it is widely known that some coexist within their hosts—and sometimes control them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 1485,
+    "TextENGNew": "\"We have in fact discovered many such entities within the human body.\n...And yet, despite that, we have stubbornly denied the possibility of organisms lurking inside people and governing their hosts.\nDenied even the hypothesis of it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 1486,
+    "TextENGNew": "\"...But why?\nHumans aren't special in any way.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 1487,
+    "TextENGNew": "\"Because to entertain that hypothesis is to risk replacing acts and beliefs rooted in personal will with something derived from epidemiological causes—and treating them accordingly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 1488,
+    "TextENGNew": "\"Ideological conflict is peaceful when it's fought through debate. But when that conflict is prosecuted epidemiologically, the result is something terrifying.\"",
+    "significantChanges": true,
+    "changeReason": "New translation accurately captures the full meaning: 'Ideological conflict is peaceful when fought through debate. But when prosecuted epidemiologically, it becomes terrifying.' vs original's truncated version.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 1489,
+    "TextENGNew": "``Preventing the spread of harmful ideas and culture not through persuasion or education, but through pathological treatment...\nWhy would that be terrifying?``",
+    "significantChanges": true,
+    "changeReason": "New translation corrects 'bad ideas and culture' to 'harmful ideas and culture' and properly renders the question about why preventing this through pathology would be frightening.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 1490,
+    "TextENGNew": "\"Think of the plagues that appear in medieval history.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 1491,
+    "TextENGNew": "\"A virulent epidemic spreads.\nThe infected are forcibly hospitalized and not released until fully cured.\nSome die in those hospitals without ever recovering.\"",
+    "significantChanges": true,
+    "changeReason": "New translation includes full detail about forced hospitalization and dying in hospital that original condenses.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 1492,
+    "TextENGNew": "\"Those bodies are cremated.\nEverything the patients touched is confiscated and burned in the name of sanitation.\nFamily members, suspected of exposure, must also be forcibly admitted.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds detail about cremation and family being hospitalized on suspicion of infection, expanding what the original condenses.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 1493,
+    "TextENGNew": "``Then—'treatment' would mean hospitalizing healthy people simply for the ideas they hold...?``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'simply for the ideas they hold' (個人の思想を理由にして) providing the crucial context the original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 1494,
+    "TextENGNew": "``Substitute an idea for the disease.\nPatients are not released until fully cured. Everything they touched is burned. Their families are forcibly hospitalized.\n—In the end, it is the same thing.``",
+    "significantChanges": true,
+    "changeReason": "New translation provides the full enumeration of the plague analogy that the original summarizes too briefly.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 1495,
+    "TextENGNew": "\"The word 'hospitalization' has simply been replaced with 'oppression.'\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 1496,
+    "TextENGNew": "``But thought is a matter of individual freedom, isn't it?\nIt's nothing like a plague.``",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'Thoughts aren't pests' to 'It's nothing like a plague' - ペスト specifically means plague/pestilence, not generic 'pests.'",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 1497,
+    "TextENGNew": "``Quite so.\nHowever, if human thought were posited as something generated by an infectious organism of a particular kind, it would become exactly the same as a plague.``",
+    "significantChanges": true,
+    "changeReason": "New translation more accurately renders the philosophical argument about replacing willful acts with epidemiological causes.",
+    "changeScore": 3
+  },
+  {
+    "index": 32,
+    "MessageID": 1498,
+    "TextENGNew": "\"And so, thought would be reclassified as an incurable epidemic.\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'thought would be reclassified as an incurable epidemic' is more precise than 'an idea is like an incurable epidemic.'",
+    "changeScore": 2
+  },
+  {
+    "index": 33,
+    "MessageID": 1499,
+    "TextENGNew": "``So... someone with a different idea\nwould be treated the same as a gravely ill patient?``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'gravely ill patient' (重病患者) vs original's generic 'disease.'",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 1500,
+    "TextENGNew": "``Precisely.@k@vS13/00/550200036. If you follow this reasoning to its conclusion, indiscriminate and chaotic mass killing becomes inevitable.``",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'people belonging to different races or religions' — JPN 無差別そして無秩序な大量虐殺 means indiscriminate and chaotic mass killing. Adding specific targets contradicts 'indiscriminate.'",
+    "changeScore": 4
+  },
+  {
+    "index": 35,
+    "MessageID": 1501,
+    "TextENGNew": "\"The reasoning risks becoming one that justifies large-scale purges.\nAnd that is why speaking of a life-form that inhabits the brain and controls its host is taboo in the present age.\"",
+    "significantChanges": true,
+    "changeReason": "New translation correctly renders 'large-scale purges' (大規模な粛清) vs original's 'genocide,' and adds the explanation about why this topic is taboo.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 1502,
+    "TextENGNew": "\"'Taboo'...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'What does taboo mean?' to just 'Taboo...?' - the Japanese タブーって is a questioning repeat, not asking for a definition.",
+    "changeScore": 2
+  },
+  {
+    "index": 37,
+    "MessageID": 1503,
+    "TextENGNew": "``Something that must not be touched—not even thought about.\nSo no one researches it.\nIndeed, the very idea that something might exist inside the brain, influencing it, has been entirely forgotten.``",
+    "significantChanges": true,
+    "changeReason": "New translation expands and more accurately renders the grandfather's explanation about the research being forgotten.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 1504,
+    "TextENGNew": "\"They have simply decided, from the outset, that no such organism could exist—one that controls the highest of primates, lord of all living things.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'the highest of primates, lords of all creation' matching 万物の長たる霊長類 vs original's simple 'humans.'",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 1505,
+    "TextENGNew": "``Ahahaha. That's rather a poor showing.\nProving something doesn't exist is a 'devil's proof.'\nAbsolutely impossible.``",
+    "significantChanges": true,
+    "changeReason": "New translation renders 'devil's proof' (悪魔の証明) as a named concept, vs original's 'How can they prove something doesn't exist?'",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 1506,
+    "TextENGNew": "\"Exactly so.\nProving that the devil exists is easy.\nAll you need to do is bring him out.\nBut proving he doesn't exist—that cannot be done.\nYou cannot bring out something that isn't there.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 1507,
+    "TextENGNew": "\"Ahahahaha.\nSomehow it feels like the organisms in the brain are manipulating their human hosts to keep their own existence a secret.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 1508,
+    "TextENGNew": "My grandfather and I laughed together with delight.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 1509,
+    "TextENGNew": "\"Humanity is merely one creature among many in the natural world.\nWe happen to stand at the top of the food chain—nothing more. To use that to imagine ourselves as divine beings is sheer foolishness.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 1510,
+    "TextENGNew": "\"Humans too can be governed by any manner of microorganism or virus.\nThe fact that no such organism has been discovered to date is not proof that it does not exist.\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'any manner of microorganism or virus' and 'is no proof of non-existence' matching the philosophical argument more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 1511,
+    "TextENGNew": "\"...It absolutely exists. It must exist.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'They exist. I know they do.' to 'It absolutely exists. It must exist.' - Japanese uses singular 存在する and is more emphatic.",
+    "changeScore": 2
+  },
+  {
+    "index": 46,
+    "MessageID": 1512,
+    "TextENGNew": "``The scientific world is full of things that were hypothesized long ago\nand only proven true much, much later.``",
+    "significantChanges": true,
+    "changeReason": "New translation properly conveys 'things that were hypothesized long ago and only proven true much, much later' vs original's abbreviated version.",
+    "changeScore": 3
+  },
+  {
+    "index": 47,
+    "MessageID": 1513,
+    "TextENGNew": "\"That's right.\nNot every scientist who proposed such a hypothesis was recognized for it in their own lifetime.\nMany were ridiculed, and never managed to prove their theories correct.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 1514,
+    "TextENGNew": "\"But... I hope you get recognized while you're still alive, Grandpa.\nOtherwise... that would be so sad.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 1515,
+    "TextENGNew": "\"Don't worry.\nGod does not abandon those who strive.\nEffort will bear fruit in time—always.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 1516,
+    "TextENGNew": "\"'In time'—but when is that?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 1517,
+    "TextENGNew": "\"No one knows when God will descend.\nIt is like not knowing when a thief will come.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 1518,
+    "TextENGNew": "\"That is why we must always remain alert—\nso that we do not reach that moment unprepared, and gnash our teeth in regret at our own faithlessness.\"",
+    "significantChanges": true,
+    "changeReason": "New translation captures the full biblical allusion about not knowing when a thief will come, matching the Japanese more faithfully.",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 1519,
+    "TextENGNew": "These were words my grandfather was fond of saying.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'gnash our teeth in regret for our faithlessness' (不信心であったことに歯軋り) vs original's truncated version.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 1520,
+    "TextENGNew": "No one knows when one's efforts will bear fruit.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 1521,
+    "TextENGNew": "But that time will surely come.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 1522,
+    "TextENGNew": "And so, you must never spare your effort—so that when it arrives, you have no cause for regret that you gave too little.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 1523,
+    "TextENGNew": "Because it will bear fruit someday.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 1524,
+    "TextENGNew": "...Or so, it seemed, was his meaning.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 1525,
+    "TextENGNew": "\"But—will your efforts really bear fruit for certain while you're still alive?\nEven though so many scientists were never recognized in their own lifetimes...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 1526,
+    "TextENGNew": "It was a cruel thing to say, born of childish ignorance.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'born of childish ignorance' capturing 幼さゆえの more precisely than just 'That was such a cruel thing to say.'",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 1527,
+    "TextENGNew": "Though I, who said it, meant nothing of the sort.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 1528,
+    "TextENGNew": "Having witnessed his dedication and industry up close, I only wanted him to be recognized within whatever life remained to him—I said it as a wish.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 1529,
+    "TextENGNew": "\"What do you think God is?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 1530,
+    "TextENGNew": "\"Hmm, let me think.\nI've heard on street corners that those who believe will be saved.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 1531,
+    "TextENGNew": "\"But what's it really like?\nLike the devil just now—since you can't prove He doesn't exist, I suppose you can only go ahead and believe He does.\"",
+    "significantChanges": true,
+    "changeReason": "New translation more faithfully renders the contrast: 'since you can't prove He doesn't exist, I suppose you can only go ahead and believe' vs original's simpler version.",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 1532,
+    "TextENGNew": "\"Hmm, I see.\nBut the prophets of old who went about proclaiming God's existence—they did not answer it that way.\nThey taught that it is through continuing to believe in His existence that the existence itself is sublimated into something real.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 1533,
+    "TextENGNew": "\"...Why?\nUnless it's actually proven to be true, no one can know whether it's a lie or not.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 1534,
+    "TextENGNew": "``Hahahaha, that is certainly true.\nBut what they wished to convey was this: what matters is not the verification of God as some inscrutable being,\nbut the temperance of one's words and deeds that comes from believing in His existence.``",
+    "significantChanges": true,
+    "changeReason": "New translation provides fuller rendering of the prophets' teaching about discipline and moderation vs original's simpler paraphrase.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 1535,
+    "TextENGNew": "Most of the prophets were resented by the rulers of their day, driven into exile, and hunted.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 1536,
+    "TextENGNew": "And yet they continued to believe in God, kept their conduct disciplined, and never ceased to extend a hand to those who pleaded for aid—preaching hope and happiness to them all.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 1537,
+    "TextENGNew": "As a result, those who believed in God cast aside wicked hearts, hoping that one day they would be freed from despair and anguish, and poured their strength into finding a way out of their predicament.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 1538,
+    "TextENGNew": "And those who sought to be guided rightly were able to take their own happiness into their own hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 1539,
+    "TextENGNew": "That was none other than the result of God's righteous guidance.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 1540,
+    "TextENGNew": "God dwells within the hearts of those who believe.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 1541,
+    "TextENGNew": "At that moment, God as an entity no longer exists upon the earth.",
+    "significantChanges": true,
+    "changeReason": "New translation 'At that moment, God as an entity no longer exists upon the earth' is much more precise than 'There was no god on earth' which could be read as simple atheism.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 1542,
+    "TextENGNew": "He lives within the mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 1543,
+    "TextENGNew": "...In other words, that is the moment God is resurrected as an absolute being.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 1544,
+    "TextENGNew": "\"That is why it is necessary to keep believing—strongly, and without end.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 1545,
+    "TextENGNew": "``Even after death, if there are those who believe in the same way and vindicate the work—\nthat great achievement will surely be revived.``",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'Even after death, if there are those who believe in the same way and vindicate the work' which captures the conditional from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 1546,
+    "TextENGNew": "``Even when my body has long since crumbled away, my existence will be resurrected and receive its due recognition.``",
+    "significantChanges": true,
+    "changeReason": "New translation 'Even when my body has long since crumbled away, my existence will be resurrected and receive its due recognition' is much more vivid than 'Even if my body is gone by then, my life will return and receive recognition.'",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 1547,
+    "TextENGNew": "\"Does that mean... Grandpa will become a god?\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'Does that mean... Grandpa will become a god?' adds the emotional 'Grandpa' reference matching おじいちゃん vs 'you'll become a god.'",
+    "changeScore": 2
+  },
+  {
+    "index": 82,
+    "MessageID": 1548,
+    "TextENGNew": "\"That's right.\nMy research will one day surely be recognized.\nAnd when that day comes—that is when Grandpa becomes a god.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 1549,
+    "TextENGNew": "\"That is why I need not be impatient for recognition while I am still alive.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 1550,
+    "TextENGNew": "\"Whether that time comes while I live, or after—\neven God does not know.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 1551,
+    "TextENGNew": "\"But the day will certainly come.\nAnd so I must not doubt its coming—I must continue to strive, single-mindedly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 1552,
+    "TextENGNew": "\"...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 1553,
+    "TextENGNew": "Hearing my grandfather speak directly of his own mortality—that his time was not long—made me sad.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 1554,
+    "TextENGNew": "He wasn't afflicted with any particular illness, with no prognosis given. But when I considered the average human lifespan, I could not believe his years would go on indefinitely.",
+    "significantChanges": true,
+    "changeReason": "New translation 'He wasn't afflicted with any particular illness, with no prognosis given' is more precise than 'He wasn't ill, and he didn't only have a few years left to live.'",
+    "changeScore": 2
+  },
+  {
+    "index": 89,
+    "MessageID": 1555,
+    "TextENGNew": "I had only my grandfather.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 1556,
+    "TextENGNew": "So I didn't want to imagine a world without him.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 1557,
+    "TextENGNew": "Grandfather must have remembered that I disliked this kind of talk.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 1558,
+    "TextENGNew": "He smiled gently and softly patted my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 1559,
+    "TextENGNew": "\"Of course, I too wish to see my research recognized while I still live.\nSo I will do my very best.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 1560,
+    "TextENGNew": "\"Yes.\nI'll help you as much as I possibly can, so the whole world can praise you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 1561,
+    "TextENGNew": "I left out the part about wanting it to happen while he was still alive.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 1562,
+    "TextENGNew": "Unusually for me, I caught myself before the wrong words left my mouth.",
+    "significantChanges": true,
+    "changeReason": "New translation 'I would... carry it on' uses future conditional/determination (継ごう = let me carry on) vs original's 'I wanted to continue it' which is less resolute.",
+    "changeScore": 2
+  },
+  {
+    "index": 97,
+    "MessageID": 1563,
+    "TextENGNew": "\"Yes. Thank you—I am so glad...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 1564,
+    "TextENGNew": "Grandfather smiled, looking content.",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 1565,
+    "TextENGNew": "His research was nothing as sweeping as uncovering the mysteries of the universe.",
+    "significantChanges": true,
+    "changeReason": "New translation 'nothing as sweeping as uncovering the mysteries of the universe' matches 途方もない研究 more precisely than 'wasn't exactly outrageous.'",
+    "changeScore": 2
+  },
+  {
+    "index": 100,
+    "MessageID": 1566,
+    "TextENGNew": "What we sought was something truly modest: the possibility that an unknown organism lurking within the human body might govern the host's own will and behavior.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 1567,
+    "TextENGNew": "Nothing outlandish at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 1568,
+    "TextENGNew": "Nor was it mere conjecture.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 1569,
+    "TextENGNew": "We had already caught the tail of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 1570,
+    "TextENGNew": "Hinamizawa—a hamlet too small to be called a city, in Shishibone in the Chubu region.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 1571,
+    "TextENGNew": "The almost obsessive homesickness and homing instinct possessed by those who came from that village.",
+    "significantChanges": true,
+    "changeReason": "New translation 'The almost obsessive homesickness and homing instinct' captures 偏執的なまでのホームシック much more precisely than 'a powerful homesickness.'",
+    "changeScore": 3
+  },
+  {
+    "index": 106,
+    "MessageID": 1572,
+    "TextENGNew": "And the series of aberrant behaviors that manifested when that instinct went unsatisfied—said to be the work of a curse.",
+    "significantChanges": true,
+    "changeReason": "New translation 'said to be the work of a curse' captures 祟りに憑かれたと称する accurately vs original's simpler 'as if they are cursed.'",
+    "changeScore": 3
+  },
+  {
+    "index": 107,
+    "MessageID": 1573,
+    "TextENGNew": "And the strange rules woven into the ancient indigenous faith that had taken root in that village since time immemorial.",
+    "significantChanges": true,
+    "changeReason": "New translation 'the ancient indigenous faith that had taken root in that village since time immemorial' captures 太古の昔より根付く土着の信仰 more fully.",
+    "changeScore": 3
+  },
+  {
+    "index": 108,
+    "MessageID": 1574,
+    "TextENGNew": "When he overlaid all of these, Grandfather happened upon a common thread running through those born in Hinamizawa, and posited the existence of something governing the village.",
+    "significantChanges": true,
+    "changeReason": "Old fabricates 'working with the military during the war'; JPN それらを重ね合わせた時 means 'when he overlaid/compared all of these' — completely different context for the grandfather's discovery.",
+    "changeScore": 4
+  },
+  {
+    "index": 109,
+    "MessageID": 1575,
+    "TextENGNew": "And for many long years since, he had continued his research, steadily building its outer framework.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'steadily building its outer framework' (外郭を固めてきた) vs original's simple 'researching it.'",
+    "changeScore": 2
+  },
+  {
+    "index": 110,
+    "MessageID": 1576,
+    "TextENGNew": "The mid-Showa era.",
+    "significantChanges": true,
+    "changeReason": "New translation 'The mid-Showa era' is more precise than 'In the middle of the 20th century' - 昭和中期 specifically refers to the Showa period.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 1577,
+    "TextENGNew": "All across Japan, the veil was being lifted from numerous ailments that had long been dismissed as regional endemic diseases.",
+    "significantChanges": true,
+    "changeReason": "New translation more accurately describes diseases 'long dismissed as regional endemic diseases' having their veil lifted, vs 'Numerous strange diseases were discovered.'",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 1578,
+    "TextENGNew": "The identities of most of their pathogens were being revealed, and this once-shunned field was suddenly beginning to attract the spotlight.",
+    "significantChanges": true,
+    "changeReason": "New translation 'this once-shunned field was suddenly beginning to attract attention' captures にわかに脚光を浴び始めている and 忌避されがちだった分野 more accurately.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 1579,
+    "TextENGNew": "Grandfather's research was simply one among those pathological investigations—and for that very reason, I was convinced that the day when it would naturally be presented alongside the rest, and receive proper recognition, was not far off.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 1580,
+    "TextENGNew": "And yet, if.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 1581,
+    "TextENGNew": "...If his research did not bear fruit within his lifetime.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 1582,
+    "TextENGNew": "I would... carry it on.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 1583,
+    "TextENGNew": "That research.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 1584,
+    "TextENGNew": "Grandfather had taught me.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 1585,
+    "TextENGNew": "Resurrection is not the revival of the flesh.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 1586,
+    "TextENGNew": "It is the revival of a great achievement, recognized at last.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 1587,
+    "TextENGNew": "...And at that moment, a person is resurrected as a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 1588,
+    "TextENGNew": "If that happened, then even after Grandfather had lived out his years, he would always be with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 1589,
+    "TextENGNew": "I would never have to be alone again.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 1590,
+    "TextENGNew": "We would always be together.",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 1591,
+    "TextENGNew": "And when the great work that Grandfather and I had built together was recognized—\n...Grandfather and I would become gods, and attain eternal peace.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 1592,
+    "TextENGNew": "I would make Grandfather into a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 1593,
+    "TextENGNew": "I, too, would become a god.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 1594,
+    "TextENGNew": "And so—eternity.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 1595,
+    "TextENGNew": "Together... forever and always...",
+    "significantChanges": false
+  }
+]

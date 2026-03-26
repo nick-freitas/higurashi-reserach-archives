@@ -1,0 +1,74 @@
+[
+  {
+    "index": 1,
+    "MessageID": 8362,
+    "TextENGNew": "...This is one of those special pieces born from the process that gave rise to the Onikakushi, Watanagashi, and Tatarigoroshi fragments.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 8363,
+    "TextENGNew": "The story of a sad tragedy that fell upon Natsumi Kimiyoshi — a girl who carried the blood of the Three Families, yet should have been living a life with no connection to Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "OLD says she was 'trying to live a life outside of Hinamizawa' (implying active effort), while JPN 'はずの' and NEW say she 'should have been living a life with no connection to Hinamizawa' (implying expectation/assumption, not active effort). NEW also adds 'The story of' matching JPN 'お話.'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 8364,
+    "TextENGNew": "The trigger was nothing more than a handful of small misunderstandings.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 8365,
+    "TextENGNew": "But as they accumulated, all the frustration and anxiety she had long kept buried exploded at once — and she found herself consumed by a murderous impulse she never could have imagined.",
+    "significantChanges": true,
+    "changeReason": "OLD omits the JPN element '予想だにしていなかった' (never could have imagined), which NEW restores as 'she never could have imagined.' Also, 'bloodlust' vs 'impulse' — JPN '殺意' means murderous intent/impulse, not bloodlust.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 8366,
+    "TextENGNew": "From the moment she arrived in her new town, she had secretly harbored an inferiority complex toward those around her.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 8367,
+    "TextENGNew": "A slight mismatch in conversation, a difference in values, or a perceived inequality in ability — these small things are enough to make a person feel estranged and alone.",
+    "significantChanges": true,
+    "changeReason": "OLD renders JPN '話題のズレ' (mismatch in conversation topics) as 'sense of not fitting in' and '能力の優劣' (inequality in ability) as 'feeling of inferiority' — different nouns/concepts. NEW's 'mismatch in conversation' and 'inequality in ability' are closer to the specific causes listed in the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 8368,
+    "TextENGNew": "I wonder — have you yourself ever had such an experience...?",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 8369,
+    "TextENGNew": "And yet, from the end of this tragedy, one small hope was spun out — one we had never anticipated.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 8370,
+    "TextENGNew": "It was something slightly different from a fragment — something small and ephemeral that, at first, could not even be called a lump at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 8371,
+    "TextENGNew": "And yet, as time passed, it gradually came to hold a certain power.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 8372,
+    "TextENGNew": "That power...",
+    "significantChanges": false
+  }
+]

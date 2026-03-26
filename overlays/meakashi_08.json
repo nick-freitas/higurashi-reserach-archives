@@ -1,0 +1,1880 @@
+[
+  {
+    "index": 1,
+    "MessageID": 65602,
+    "TextENGNew": "With the rainy season looming, the air had turned oppressively muggy, the kind of sticky heat that plastered sweat to your skin.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 65603,
+    "TextENGNew": "...It had been weeks now since Satoshi-kun stopped coming to practice.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 65604,
+    "TextENGNew": "The moment I arrived at the field, my eyes would search for Satoshi-kun first.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 65605,
+    "TextENGNew": "...Maybe I'm too early... maybe he just isn't here yet...?",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 65606,
+    "TextENGNew": "I wanted his spirited figure to already be there when I arrived.@k...So gradually, I'd started showing up later and later.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 65607,
+    "TextENGNew": "But... Satoshi-kun was never there.",
+    "significantChanges": true,
+    "changeReason": "Old says \"he wasn't here today either\" (one day); new says \"Satoshi-kun was never there\" (persistent pattern), changing temporal scope.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 65608,
+    "TextENGNew": "``.......................``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 65609,
+    "TextENGNew": "I didn't even bother disguising my disappointment anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 65610,
+    "TextENGNew": "It must have been obvious to everyone just how deeply his absence was affecting me.",
+    "significantChanges": true,
+    "changeReason": "New adds explicit cause \"his absence was affecting me\" where old just says \"how I felt,\" providing context from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 65611,
+    "TextENGNew": "Teammates from Mion's class came over, worried, trying to cheer me up.@k...But I brushed them off curtly.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 65612,
+    "TextENGNew": "``...Sonozaki-san?@k@vS06/10/151000092. ...Are you not feeling well...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 65613,
+    "TextENGNew": "Even the coach's solicitous words rang hollow to my ears.",
+    "significantChanges": true,
+    "changeReason": "Old names \"Irie\"; new uses \"the coach\" (matching Japanese 監督). Also \"couldn't comfort\" vs \"words rang hollow\" conveys different meanings.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 65614,
+    "TextENGNew": "...He knew perfectly well why I was in low spirits.",
+    "significantChanges": true,
+    "changeReason": "Old says \"I was aware that he knew\"; new says \"He knew perfectly well\" -- different perspective and certainty level.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 65615,
+    "TextENGNew": "``...I'm going home.@k@vS06/06/150600558. I'm not in the mood today.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 65616,
+    "TextENGNew": "``...But we have our planning meeting with the Okinomiya Titans today, don't we?@k@vS06/10/151000094. ...I was hoping you'd sit in on it as our manager...``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 65617,
+    "TextENGNew": "``...Please stop calling me the manager.@k@vS06/06/150600560. ...I never agreed to be one.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 65618,
+    "TextENGNew": "The coach, unable to find the right words on the spot, lowered his gaze briefly.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 65619,
+    "TextENGNew": "``Understood.@k@vS06/10/151000096. ...When you're feeling better, please come help us again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 65620,
+    "TextENGNew": "``I might not come back at all.@k@vS06/06/150600562. ...If you need a manager, recruit someone else.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 65621,
+    "TextENGNew": "``...Whenever you feel like it is fine.@k@vS06/10/151000098. Please come visit again.@k@vS06/10/151000099. ...Besides, when Satoshi-kun comes back, he'd be sad if you weren't here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 65622,
+    "TextENGNew": "As I turned on my heel, the coach's words no longer reached me.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 65623,
+    "TextENGNew": "Lately, Mion had been giving me 'Mion time' on practice days as a standing arrangement, so we hardly needed to coordinate anymore.",
+    "significantChanges": true,
+    "changeReason": "New adds context about \"Mion time\" on practice days, clarifying twin-swap logistics the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 65624,
+    "TextENGNew": "I'd tried to contact Sis several times to ask how Satoshi-kun was doing, but the timing never worked out.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 65625,
+    "TextENGNew": "Apparently, our grandmother had begun to suspect that Sis and I were in contact, and had started taking an interest in the content of Mion's phone calls.",
+    "significantChanges": true,
+    "changeReason": "Old says \"the hag\"; new says \"our grandmother\" and adds detail about monitoring phone calls from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 65626,
+    "TextENGNew": "With the old hag keeping watch, every move Sis made in and around Hinamizawa was an open book.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 65627,
+    "TextENGNew": "...Getting in touch with me was no simple task.",
+    "significantChanges": true,
+    "changeReason": "Subject reversal: old says contacting \"her\" was hard; new says getting in touch with \"me\" was hard, matching Japanese 私と連絡を取る.",
+    "changeScore": 4
+  },
+  {
+    "index": 27,
+    "MessageID": 65628,
+    "TextENGNew": "Kasai, who'd been serving as our go-between for contacting Sis, had also come under scrutiny as a loyalist on my side.@kWe'd decided it was best to avoid contact for a while, and I hadn't even seen his face recently.",
+    "significantChanges": true,
+    "changeReason": "New adds the deliberate decision to avoid contact and not having seen his face, which old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 65629,
+    "TextENGNew": "How was Satoshi-kun doing right now?",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 65630,
+    "TextENGNew": "...Unable to learn even that much... the dark clouds inside my heart refused to clear...",
+    "significantChanges": true,
+    "changeReason": "Old says \"I was frustrated\"; new uses \"dark clouds inside my heart refused to clear\" -- different emotional framing from Japanese 胸中の黒雲.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 65631,
+    "TextENGNew": "...My head was so full of these thoughts.@k...That what happened next caught me completely off guard.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 65632,
+    "TextENGNew": "Just as I was pulling out my bicycle to leave the field... someone called out to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 65633,
+    "TextENGNew": "``Mii-chan... hello.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 65634,
+    "TextENGNew": "I'd never met this girl before.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 65635,
+    "TextENGNew": "...But it was a genuine stroke of luck that she called me 'Mii-chan.'@k...There was only one person I'd been told uses that nickname for Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 65636,
+    "TextENGNew": "``...Rena.@k@vS06/06/150600564. ...That's unusual, seeing you here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 65637,
+    "TextENGNew": "This girl's name was Ryuugu Reina.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 65638,
+    "TextENGNew": "Reina, technically, but she'd apparently asked people to call her 'Rena' herself.@k...So Rena she was.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 65639,
+    "TextENGNew": "She'd only just transferred here this past April.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 65640,
+    "TextENGNew": "Sis had given me fragments of information about her, but all of it was vague.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 65641,
+    "TextENGNew": "...In other words, Sis still hadn't formed a clear assessment of this new transfer student.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 65642,
+    "TextENGNew": "...That made her an extremely tricky person for me to deal with.@kI didn't know how to act around her as Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 65643,
+    "TextENGNew": "...So I decided to maintain a sullen, withdrawn demeanor and keep my responses minimal.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 65644,
+    "TextENGNew": "If I appeared to be in an unusual mental state, she'd likely overlook any slight deviations from Mion's normal behavior.@k...And frankly, I genuinely was feeling withdrawn right now.",
+    "significantChanges": true,
+    "changeReason": "New adds \"keep my responses minimal\" from Japanese 素っ気無く対応する that old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 44,
+    "MessageID": 65645,
+    "TextENGNew": "``...Are you heading home, Mii-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 65646,
+    "TextENGNew": "``Yeah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 65647,
+    "TextENGNew": "``...Not feeling well?``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 65648,
+    "TextENGNew": "``Not really.``",
+    "significantChanges": true,
+    "changeReason": "Different meaning: old translates 悪いね as \"Sorry\"; new as \"Not really\" (confirming she's unwell). Japanese here means \"not great.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 65649,
+    "TextENGNew": "``Then let's walk back together.``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 65650,
+    "TextENGNew": "...I was about to say I'd rather be alone, but... the road back to Hinamizawa was a single path.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 65651,
+    "TextENGNew": "Asking to be left alone was pointless when we'd be taking the same road regardless.",
+    "significantChanges": true,
+    "changeReason": "Old says \"would look odd\" (social concern); new says \"pointless\" (practical logic) -- different reasoning.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 65652,
+    "TextENGNew": "Rather than refusing awkwardly, I concluded it would draw less suspicion to simply walk with her, maintaining my withdrawn act, until our paths naturally parted.@kSo I answered:",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 65653,
+    "TextENGNew": "``...Yeah.@k@vS06/06/150600568. ...Let's go.``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 65654,
+    "TextENGNew": "Rena nodded quietly in agreement, then unlocked her bicycle, which she'd just chained up.",
+    "significantChanges": true,
+    "changeReason": "Subject change: old says \"I unlocked my bike\"; new correctly has Rena unlock her bicycle, matching Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 65655,
+    "TextENGNew": "``...Mii-chan, do you have an umbrella?``",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 65656,
+    "TextENGNew": "``Nope.``",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 65657,
+    "TextENGNew": "``They say the weather might turn bad later today.@k@vS06/02/150200006_1. ...If you don't have an umbrella, we should hurry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 65658,
+    "TextENGNew": "Just as Rena had warned, we were caught in a ferocious downpour along the way.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 65659,
+    "TextENGNew": "We ducked into the waiting shelter of an old, unused bus stop that happened to be nearby, and settled in to wait out the rain...",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 65660,
+    "TextENGNew": "``It's pouring, but... this doesn't look like it'll last long. The sky over there is still bright.``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 65661,
+    "TextENGNew": "``...Yeah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 65662,
+    "TextENGNew": "The sound of rain hammering the corrugated tin roof. The sound of droplets falling from its edge, splashing into puddles below.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 65663,
+    "TextENGNew": "Loud, clamorous rain -- and yet it created a strange, paradoxical silence... a peculiar kind of time.",
+    "significantChanges": true,
+    "changeReason": "Old says \"strangely calm\"; new says \"strange, paradoxical silence\" -- different sensory experience matching Japanese 不思議な静寂.",
+    "changeScore": 3
+  },
+  {
+    "index": 63,
+    "MessageID": 65664,
+    "TextENGNew": "After staring blankly for a while... Rena spoke, her eyes still turned up toward the rainy sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 65665,
+    "TextENGNew": "``...I heard you haven't been yourself lately.@k@vS06/02/150200009. ...I was worried about you.``",
+    "significantChanges": true,
+    "changeReason": "Old says Rena observed it herself; new says \"I heard\" from others, matching Japanese 聞いたから.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 65666,
+    "TextENGNew": "Every teammate knew I was depressed because of Satoshi-kun's absence.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 65667,
+    "TextENGNew": "Most of the team members attended the Hinamizawa school.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 65668,
+    "TextENGNew": "...It wasn't strange that word of my mood had reached her.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 65669,
+    "TextENGNew": "I hadn't been able to coordinate with Sis for weeks,@kbut she'd surely be able to gauge how I felt about Satoshi-kun and what his absence from baseball would do to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 65670,
+    "TextENGNew": "...To minimize any discrepancy between us, Sis was undoubtedly playing the part of a slightly dejected Mion in her daily life at Hinamizawa as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 65671,
+    "TextENGNew": "But neither of us knew the other's specifics right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 65672,
+    "TextENGNew": "...So if anyone asked, neither of us could give details.@kAll we could say was 'Leave me alone.'",
+    "significantChanges": true,
+    "changeReason": "Old refers only to Sis; new says \"neither of us\" could give details, matching Japanese broader scope.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 65673,
+    "TextENGNew": "Which meant people like this girl would inevitably come to check on 'Mion' out of concern.",
+    "significantChanges": true,
+    "changeReason": "New specifies \"people like this girl would come to check on 'Mion'\" vs generic \"more people worried.\"",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 65674,
+    "TextENGNew": "It was clear that Rena had seen Mion acting depressed at school in Hinamizawa and had come here worried.",
+    "significantChanges": true,
+    "changeReason": "New specifies Rena saw Mion at school in Hinamizawa; old omits this location context.",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 65675,
+    "TextENGNew": "She'd gone out of her way to come to the field just to reach me. That confirmed it.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 65676,
+    "TextENGNew": "...And if she'd come to the field, she must have asked the team members and learned at least some of the recent circumstances.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 65677,
+    "TextENGNew": "``...You feel lonely... because Satoshi-kun isn't paying attention to you anymore...?``",
+    "significantChanges": true,
+    "changeReason": "\"avoiding us\" vs \"isn't paying attention to you anymore\" -- different actions/scope. Japanese かまってくれない means won't give attention.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 65678,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 65679,
+    "TextENGNew": "From the fragments of Rena's words, I carefully inferred Satoshi-kun's current situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 65680,
+    "TextENGNew": "...He was deeply exhausted and was actively avoiding contact with his friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 65681,
+    "TextENGNew": "...That's what I gathered.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 65682,
+    "TextENGNew": "``...He seemed like... he was really troubled about Satoko-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 65683,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 65684,
+    "TextENGNew": "``...I think... Satoshi-kun is really being pushed to his limit.@k@vS06/02/150200013. ...I feel so sorry for him... you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 65685,
+    "TextENGNew": "``...Satoshi-kun really does care about his sister, doesn't he...@k@vS06/06/150600575. ...He's admirable. Truly.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"courage\"; new says \"admirable.\" Japanese 偉い means admirable/praiseworthy, not courageous.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 65686,
+    "TextENGNew": "How much of a burden that sister named Satoko was on Satoshi-kun.@k...Knowing that, the words I'd just spoken sounded unbearably hollow.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 65687,
+    "TextENGNew": "``...But... if you're also looking depressed, Mii-chan... I think that would only make things harder for Satoshi-kun... I think.``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 65688,
+    "TextENGNew": "``...I don't want to make things harder for him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 65689,
+    "TextENGNew": "``I know that.@k@vS06/02/150200016. ...But that's exactly why.@k@vS06/02/150200017. ...If you can't greet Satoshi-kun with a smile when he's at school... then he'll really be all alone.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"might feel cornered\"; new says \"really be all alone\" -- different consequences.",
+    "changeScore": 3
+  },
+  {
+    "index": 89,
+    "MessageID": 65690,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 65691,
+    "TextENGNew": "``I know you're strong enough to put on a smile even when it's not real, Mii-chan.@k@vS06/02/150200019. ...So please, smile for him, even if it's pretend.@k@vS06/02/150200020. ...Even if it starts out fake, a smile can become real.``",
+    "significantChanges": true,
+    "changeReason": "Old generalizes \"lies can become true\"; new specifies \"a smile can become real\" matching Japanese 笑顔って本物になる.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 65692,
+    "TextENGNew": "...In short, what she was saying boiled down to this.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 65693,
+    "TextENGNew": "Both Satoshi-kun and Satoko were utterly drained and depressed.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 65694,
+    "TextENGNew": "If Mion, the mood-maker, also sank into gloom on top of that, it would only create a vicious cycle.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 65695,
+    "TextENGNew": "Her words carried less the tone of consolation and more that of gentle admonishment... revealing that this girl named Rena was far more level-headed than she appeared.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 65696,
+    "TextENGNew": "According to Sis's assessment, she was a fun kid who loved to goof around and sometimes went off on her own tangents...",
+    "significantChanges": true,
+    "changeReason": "\"bad habits\" vs \"loved to goof around, went off on tangents\" -- different characterization matching Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 65697,
+    "TextENGNew": "...But clearly, there was a much more grounded side to her lurking beneath the surface...",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 65698,
+    "TextENGNew": "``...Do you love... Satoshi-kun, Mii-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 65699,
+    "TextENGNew": "``...Yeah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 65700,
+    "TextENGNew": "...Staying silent would probably have been the safer choice.@k...And yet I answered instantly.",
+    "significantChanges": true,
+    "changeReason": "Old implies regret (\"shouldn't have told her\"); new presents strategic assessment (\"staying silent would have been safer\").",
+    "changeScore": 3
+  },
+  {
+    "index": 100,
+    "MessageID": 65701,
+    "TextENGNew": "``...Then... why don't you smile?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 65702,
+    "TextENGNew": "Rena said it with a gentle smile of her own.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 65703,
+    "TextENGNew": "``If you show Satoshi-kun your smile... I'm sure it'll share some of your energy with him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 65704,
+    "TextENGNew": "``...You might be feeling discouraged that a smile is all you can offer, Mii-chan.@k@vS06/02/150200026. ...But even so... that's probably the thing that would help Satoshi-kun the most.``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 65705,
+    "TextENGNew": "``...I understand the logic, but...@k@vS06/06/150600580. ...Telling me to smile... it's not that easy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 65706,
+    "TextENGNew": "Rena giggled softly and murmured, 'Yeah, I know...' in agreement.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 65707,
+    "TextENGNew": "``He'll come back to baseball practice too, once his part-time job is done.``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 65708,
+    "TextENGNew": "...Part-time job?@kThe question nearly slipped out, but I caught myself just in time.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 65709,
+    "TextENGNew": "From Rena's casual tone, this was clearly common knowledge at the Hinamizawa school.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 65710,
+    "TextENGNew": "``...His part-time job, huh...@k@vS06/06/150600582. ...I wonder when it'll be over...``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 65711,
+    "TextENGNew": "``Until he's saved up enough, I'd guess.@k@vS06/02/150200029. ...But no matter how long it takes, it'll be done by Satoko-chan's birthday.``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 65712,
+    "TextENGNew": "I carefully extracted information from Rena's words.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 65713,
+    "TextENGNew": "Since I was assumed to already know all of this, I couldn't carelessly ask for clarification.",
+    "significantChanges": true,
+    "changeReason": "Old says \"had to listen carefully\"; new says \"couldn't carelessly ask because assumed to already know\" -- different reasoning.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 65714,
+    "TextENGNew": "...Satoshi-kun was working a part-time job to save money for some purpose.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 65715,
+    "TextENGNew": "Getting a job while still in school wasn't easy.@k...Sis might have had a hand in arranging it.",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 65716,
+    "TextENGNew": "And the job seemed to be a short-term one.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 65717,
+    "TextENGNew": "...And the money he was saving appeared to be connected to Satoko's birthday.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 65718,
+    "TextENGNew": "If so, the meaning was simple.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 65719,
+    "TextENGNew": "...Satoshi-kun was working a part-time job to buy something expensive for Satoko's birthday present.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 65720,
+    "TextENGNew": "To cheer up his little sister, who'd been broken down by the aunt's relentless bullying.",
+    "significantChanges": true,
+    "changeReason": "New adds \"broken down by the aunt's relentless bullying\" from Japanese; old just says \"He was trying to comfort her.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 65721,
+    "TextENGNew": "...Even though he himself was just as broken.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 65722,
+    "TextENGNew": "...Satoko again.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 65723,
+    "TextENGNew": "Satoshi-kun's heart was being torn apart because of Satoko, and now his body was being whipped into labor for Satoko's sake.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 65724,
+    "TextENGNew": "...How foolish.@k...If he could just forget about Satoko... he could live so much more freely, so much less burdened.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 65725,
+    "TextENGNew": "``............!``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 65726,
+    "TextENGNew": "At that moment, I was startled to find Rena peering directly into my eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 65727,
+    "TextENGNew": "Her smile hadn't changed, but there was something clouded in her gaze... something deeply unsettling.",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 65728,
+    "TextENGNew": "I'd only thought it -- that Satoko was the one cornering Satoshi-kun. I hadn't said it aloud.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 65729,
+    "TextENGNew": "...And yet this girl named Rena seemed to have seen right through me, catching the faintest shadow that crossed my eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 65730,
+    "TextENGNew": "Perhaps sensing my unease, Rena flashed me a bright smile.",
+    "significantChanges": true,
+    "changeReason": "Old says \"beamed when she noticed my fear\" (certain); new says \"perhaps sensing my unease\" (uncertain).",
+    "changeScore": 3
+  },
+  {
+    "index": 130,
+    "MessageID": 65731,
+    "TextENGNew": "But that smile seemed to say: 'You think that way because you love him so much, right?'@k...There was something cold beneath it that sent a chill through me.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 65732,
+    "TextENGNew": "...I could hear the distant rumble of thunder.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 65733,
+    "TextENGNew": "The downpour showed no sign of easing. If anything, it was intensifying.",
+    "significantChanges": true,
+    "changeReason": "Old says \"rain began to pick up\"; new says \"downpour showed no sign of easing, intensifying\" -- different rain stage.",
+    "changeScore": 3
+  },
+  {
+    "index": 133,
+    "MessageID": 65734,
+    "TextENGNew": "``...Do you feel jealous of Satoko-chan? Because she monopolizes Satoshi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 65735,
+    "TextENGNew": "``........................``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 65736,
+    "TextENGNew": "This time I avoided answering immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 65737,
+    "TextENGNew": "...Or tried to. But with this girl named Rena, even silence seemed to serve as an answer.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 65738,
+    "TextENGNew": "``Ahahaha, I wouldn't think less of you even if you did, Mii-chan.@k@vS06/02/150200032. That's just how it is when you're wholly devoted to someone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 65739,
+    "TextENGNew": "``...Thanks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 65740,
+    "TextENGNew": "``But you've been encouraging Satoko-chan all this time despite that, haven't you, Mii-chan?@k@vS06/02/150200034. ...I think that's really admirable.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 65741,
+    "TextENGNew": "``...Satoko's one of us.@k@vS06/06/150600587. ...Of course I would.``",
+    "significantChanges": true,
+    "changeReason": "\"She's my friend\" vs \"Satoko's one of us\" -- Japanese 仲間 means comrade/companion, not friend.",
+    "changeScore": 3
+  },
+  {
+    "index": 141,
+    "MessageID": 65742,
+    "TextENGNew": "The words sounded fake even to me.@kI felt like spitting.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 65743,
+    "TextENGNew": "``All we can do... for both Satoko-chan and Satoshi-kun... is encourage them.@k@vS06/02/150200036. ...I don't know how to actually save them from this situation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 65744,
+    "TextENGNew": "``...Satoko clings to Satoshi-kun too much.@k@vS06/06/150600589. ...If she toughened up, Satoshi-kun wouldn't be pushed this far.``",
+    "significantChanges": true,
+    "changeReason": "\"suffer in her place\" vs \"wouldn't be pushed this far\" -- different meanings for Satoshi's situation.",
+    "changeScore": 3
+  },
+  {
+    "index": 144,
+    "MessageID": 65745,
+    "TextENGNew": "``...Ahahahahaha.@k@vS06/02/150200038. You really don't mince words.``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 65746,
+    "TextENGNew": "Rena nodded with an unflinching smile, even though what I'd said could easily be taken as cruel.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 65747,
+    "TextENGNew": "...What was going on inside this strange girl's head? Reading her was impossibly difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 65748,
+    "TextENGNew": "``Maybe... Satoshi-kun feels that way a little too, deep down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 65749,
+    "TextENGNew": "``What...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 65750,
+    "TextENGNew": "Rena smiled at me -- but it was a peculiar expression, still a smile yet somehow chilling.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 65751,
+    "TextENGNew": "``...I think... somewhere in his heart, Satoshi-kun is tired of having to keep protecting Satoko-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 65752,
+    "TextENGNew": "This girl named Rena... she wouldn't make a definitive statement without something close to certainty.@k...That was the kind of person she was, I felt.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 65753,
+    "TextENGNew": "...So if she said it that decisively... she must have had her own reasons for being sure.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 65754,
+    "TextENGNew": "``Why... do you think that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 65755,
+    "TextENGNew": "``...Because he told me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 65756,
+    "TextENGNew": "``...What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 65757,
+    "TextENGNew": "'It's a secret, okay? Promise you'll keep it too, Mii-chan...' she added.",
+    "significantChanges": true,
+    "changeReason": "Old paraphrases as narration; new renders as direct speech quote matching Japanese dialogue format.",
+    "changeScore": 3
+  },
+  {
+    "index": 157,
+    "MessageID": 65758,
+    "TextENGNew": "``Satoshi-kun told me.@k@vS06/02/150200041_2. That he finds being relied on as a brother... painful.@k@vS06/02/150200041_3. He knows it's a terrible thing to feel, but he can't help it.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"tired of protecting\"; new says \"finds being relied on as a brother painful\" specifying the brotherly role from Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 158,
+    "MessageID": 65759,
+    "TextENGNew": "The Satoshi-kun I knew would never say something like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 65760,
+    "TextENGNew": "...No, but.@k...This girl named Rena wasn't the type to speak from lies or speculation.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 65761,
+    "TextENGNew": "I couldn't quite explain why I was so certain about someone I'd only met today...@k...but somehow, overwhelmingly, my intuition insisted it was true.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 65762,
+    "TextENGNew": "...I couldn't suppress a deep sigh.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 65763,
+    "TextENGNew": "In the time I'd been unable to see Satoshi-kun... he'd deteriorated to the point where those words had spilled from his lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 65764,
+    "TextENGNew": "...But even so.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 65765,
+    "TextENGNew": "...Even if he felt that way inside... he wasn't the kind of person to voice it so easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 65766,
+    "TextENGNew": "...Then... it had been drawn out of him.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 65767,
+    "TextENGNew": "By this girl named Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 65768,
+    "TextENGNew": "...I couldn't fathom her.@kThis girl standing right before me.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 65769,
+    "TextENGNew": "We'd only just met, barely exchanged any words, and already she'd pried the honest truth from my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 65770,
+    "TextENGNew": "...Did this girl named Rena possess some kind of power -- to plunge her arm into the depths of people's hearts and drag their innermost feelings into the open...?",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 65771,
+    "TextENGNew": "...Here I was, sheltering under a tin roof in a bus-stop shack, forced to spend time with this uncanny, enigmatic girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 65772,
+    "TextENGNew": "...Only now did I realize... that I'd been drawn into some bizarre otherworld.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 65773,
+    "TextENGNew": "Sis probably hadn't yet grasped Rena's true nature.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 65774,
+    "TextENGNew": "She likely saw her as nothing more than an amusing, quirky transfer student.",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 65775,
+    "TextENGNew": "...If she'd sensed what this girl really was, she would never have failed to warn me.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 65776,
+    "TextENGNew": "``...Rena, you... Satoshi-kun trusts you enough to confide in you.@k@vS06/06/150600596. ...Haha. I'm envious.``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 65777,
+    "TextENGNew": "``...It's not that he trusts me.@k@vS06/02/150200044. ...I think it's because I've been through the same thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 65778,
+    "TextENGNew": "``Experience?@k@vS06/06/150600598. ...You mean you've had to protect a sibling too, Rena?``",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 65779,
+    "TextENGNew": "``Creeping closer.@k@vS06/02/150200046. Footsteps following you, always.@k@vS06/02/150200047. ...And at night, standing right beside your pillow, looking down at you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 65780,
+    "TextENGNew": "???@kSorry, Rena.@kWhat are you talking about?",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 65781,
+    "TextENGNew": "...I turned back to ask her.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 65782,
+    "TextENGNew": "...And was seized by an inexplicable chill.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 65783,
+    "TextENGNew": "...She was smiling, and yet... those eyes. Eyes that couldn't help but freeze anyone who looked into them.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 65784,
+    "TextENGNew": "I shuddered... my own eyes wide open... my expression locked in ice.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 65785,
+    "TextENGNew": "``...Have you ever felt something like that, Mii-chan?@k@vS06/02/150200049. ...Ahaha, probably not.@k@vS06/02/150200050. I'd guess.``",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 65786,
+    "TextENGNew": "Ahahahahaha...@kRena laughed as if mocking herself.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 65787,
+    "TextENGNew": "...All I could do was strain my ears to catch what she was trying to say.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 65788,
+    "TextENGNew": "``...Have you ever thought about running away from Hinamizawa, Mii-chan?@k@vS06/02/150200052. ...Like, wanting to move to a bigger city?@k@vS06/02/150200053. ...Have you ever had thoughts like that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 65789,
+    "TextENGNew": "...Unable to grasp the true intent behind her question, I could only continue my silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 65790,
+    "TextENGNew": "But Rena matched my silence with her own... quietly, patiently, applying wordless pressure until I spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 65791,
+    "TextENGNew": "``...N-... No.@k@vS06/06/150600600. ...I love where I live.``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 65792,
+    "TextENGNew": "``Right, right.@k@vS06/02/150200055. I figured you'd say that, Mii-chan.@k@vS06/02/150200056. Ahahahahahahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 65793,
+    "TextENGNew": "My instincts warned me: don't feed this girl cheap lies.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 65794,
+    "TextENGNew": "...In some crucial dimension, this girl was a cut above me.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 65795,
+    "TextENGNew": "...She possessed an uncanny talent for reading emotional subtleties, divining someone's inner state from the faintest shadow in their expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 65796,
+    "TextENGNew": "So I answered truthfully.",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 65797,
+    "TextENGNew": "``Then you'll be fine, Mii-chan.@k@vS06/02/150200058. ...Oyashiro-sama won't be angry with you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 65798,
+    "TextENGNew": "``Oyashiro-sama...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 65799,
+    "TextENGNew": "Oyashiro-sama. The guardian deity of Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 65800,
+    "TextENGNew": "...Why this name was suddenly being invoked, I had absolutely no idea, and my thoughts froze for a moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 65801,
+    "TextENGNew": "``Yes.@k@vS06/02/150200060. Oyashiro-sama.``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 65802,
+    "TextENGNew": "As if to guide my understanding, Rena repeated the name in a calm, steady voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 65803,
+    "TextENGNew": "That's right... I remembered.",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 65804,
+    "TextENGNew": "Oyashiro-sama does not forgive outsiders who trample the sacred land of Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 65805,
+    "TextENGNew": "And Oyashiro-sama does not forgive villagers who try to abandon Hinamizawa and leave.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 65806,
+    "TextENGNew": "Those were the rules of Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 65807,
+    "TextENGNew": "A slow, seeping dread...@k...The terror of Oyashiro-sama's curse, the one that had been whispered about throughout the village after the construction foreman's murder and the Houjou couple's accidental death, two consecutive years -- a fear that had been deeply branded into every child's heart -- was creeping back to life inside me.",
+    "significantChanges": true,
+    "changeReason": "New is much more complete, adding foreman murder, Houjou couple accident, and fear branded into children's hearts that old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 207,
+    "MessageID": 65808,
+    "TextENGNew": "...Yes.@k...When it was decided that I'd be banished to the academy... I'd felt a small tremor of fear in my heart.",
+    "significantChanges": true,
+    "changeReason": "Old says \"sent to the institution\"; new says \"decided I'd be banished to the academy\" with different framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 208,
+    "MessageID": 65809,
+    "TextENGNew": "If I were locked away in a boarding school far from Hinamizawa... wouldn't I fall victim to Oyashiro-sama's curse...?",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 65810,
+    "TextENGNew": "But... if that's the case... I should be safe.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 65811,
+    "TextENGNew": "I love Hinamizawa (technically Okinomiya, but@k...by the children's rules, Okinomiya should count), and I'd escaped the academy to come back.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 65812,
+    "TextENGNew": "Even though the old hag had arranged for me to live this stifling life, I still chose to stay here.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 65813,
+    "TextENGNew": "...That shouldn't constitute a blasphemy against Oyashiro-sama.",
+    "significantChanges": true,
+    "changeReason": "\"breaking rules\" vs \"blasphemy\" -- different severity. Japanese 冒涜 means blasphemy/desecration.",
+    "changeScore": 3
+  },
+  {
+    "index": 213,
+    "MessageID": 65814,
+    "TextENGNew": "The Sonozaki main house had selfishly exiled me to a distant place, and I'd broken free and returned.",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 65815,
+    "TextENGNew": "...If anything, Oyashiro-sama should be praising me as a model citizen...",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 65816,
+    "TextENGNew": "...There I was, desperately seeking an indulgence -- proof that I wouldn't be cursed.",
+    "significantChanges": true,
+    "changeReason": "New uses \"indulgence\" (religious term) vs \"convince myself\" -- different register matching spiritual context.",
+    "changeScore": 3
+  },
+  {
+    "index": 216,
+    "MessageID": 65817,
+    "TextENGNew": "The truth was... even now, probably.",
+    "significantChanges": true,
+    "changeReason": "Old reduces to \"But...\"; new captures \"The truth was... even now, probably\" from Japanese self-reflection.",
+    "changeScore": 3
+  },
+  {
+    "index": 217,
+    "MessageID": 65818,
+    "TextENGNew": "...Was I still afraid of Oyashiro-sama's curse?@k...Maybe.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 65819,
+    "TextENGNew": "``...I love where I live.@k@vS06/06/150600603. ...So in that sense, I don't believe Oyashiro-sama's curse applies to me.@k@vS06/06/150600604. ...If anything, I'd call myself exemplary.``",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 65820,
+    "TextENGNew": "``Yes.@k@vS06/02/150200062. I agree with that.@k@vS06/02/150200063. ...But because of that... I can't be sure about Satoshi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 65821,
+    "TextENGNew": "``...Why not...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 65822,
+    "TextENGNew": "``Because somewhere in his heart, Satoshi-kun wants to abandon Hinamizawa and run away somewhere far.@k@vS06/02/150200065. And Oyashiro-sama will not permit that.``",
+    "significantChanges": true,
+    "changeReason": "Old omits Oyashiro-sama not permitting it; new includes both parts of Rena's statement from the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 222,
+    "MessageID": 65823,
+    "TextENGNew": "..............What...?",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 65824,
+    "TextENGNew": "A tiny, voiceless cry escaped me.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 65825,
+    "TextENGNew": "...I'd been grieving that Satoshi-kun wasn't coming to baseball.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 65826,
+    "TextENGNew": "...But he still lived in Hinamizawa.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 65827,
+    "TextENGNew": "...That he might vanish entirely had never even crossed my mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 65828,
+    "TextENGNew": "``Are you saying... Satoshi-kun wants to... run away...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 65829,
+    "TextENGNew": "``Yes.@k@vS06/02/150200067. ...Without being conscious of it.@k@vS06/02/150200068. He probably wasn't even aware of it until Oyashiro-sama started standing by his pillow.``",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 65830,
+    "TextENGNew": "I couldn't make sense of what Rena was saying.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 65831,
+    "TextENGNew": "...All I could do was listen as hard as I could, trying to piece together what she was conveying.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 65832,
+    "TextENGNew": "``Everything Satoshi-kun is experiencing... it's all a harbinger of Oyashiro-sama's curse.``",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 65833,
+    "TextENGNew": "``...Someone watching you from far away. Someone always following behind you. Someone perpetually staring at you from just over your shoulder... And eventually, you start hearing one extra set of footsteps, always slightly out of sync with your own.``",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 65834,
+    "TextENGNew": "``At first, it only happens outside.@k@vS06/02/150200072. ...But eventually, the thing behind you follows you inside your own home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 65835,
+    "TextENGNew": "``And then... even after you crawl into bed and turn off the lights... it's still there, looking down at you from your bedside.@k@vS06/02/150200074. ...Silently. Just... staring.@k@vS06/02/150200075. ...As if making you confront your own sins.``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 65836,
+    "TextENGNew": "``Satoshi-kun said at first that he was having bad dreams.@k@vS06/02/150200077. ...So I asked him, 'What kind of dreams?'@k@vS06/02/150200078. And when he described them...@k@vS06/02/150200079. ...I knew. Because I'd been through the exact same thing.``",
+    "significantChanges": true,
+    "changeReason": "New adds Satoshi finally believing Rena and confiding, which old truncated.",
+    "changeScore": 3
+  },
+  {
+    "index": 236,
+    "MessageID": 65837,
+    "TextENGNew": "``I told him: if that presence draws closer, if you start hearing its footsteps, if it begins standing over you constantly...@k@vS06/02/150200082. ...then it's the same as what happened to me. Please come talk to me if it does.``",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 65838,
+    "TextENGNew": "``...Satoshi-kun was skeptical at first, I'm sure.``",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 65839,
+    "TextENGNew": "``But... just as I'd predicted, he felt Oyashiro-sama's presence drawing closer.@k@vS06/02/150200084. When it finally stood by his pillow...@k@vS06/02/150200085. ...that's when he finally believed me. And confided in me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 65840,
+    "TextENGNew": "...The girl before me spoke without jest, without threat.@k...Simply, matter-of-factly, as if reciting nothing but the truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 65841,
+    "TextENGNew": "I couldn't... even nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 65842,
+    "TextENGNew": "...Whether Rena's words were delusion, joke, or some kind of genuine truth -- I couldn't begin to judge.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 65843,
+    "TextENGNew": "All that was permitted to me was to listen.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 65844,
+    "TextENGNew": "``I'm originally from Hinamizawa.@k@vS06/02/150200087. I moved away just before starting elementary school.@k@vS06/02/150200088. ...But I couldn't adjust to my new home. I kept crying, saying I wanted to go back to Hinamizawa.``",
+    "significantChanges": true,
+    "changeReason": "Old adds \"Ibaraki Prefecture\" not in Japanese; new changes divine voice to child's crying -- different agency.",
+    "changeScore": 3
+  },
+  {
+    "index": 244,
+    "MessageID": 65845,
+    "TextENGNew": "``...But there's nothing a crying elementary schooler can do to make her family move back.@k@vS06/02/150200091. ...I was stuck between reality and Oyashiro-sama's voice, trapped for years.``",
+    "significantChanges": true,
+    "changeReason": "New drops trailing \"And then...\" and changes \"felt threatened\" to \"stuck between reality and Oyashiro-sama's voice.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 245,
+    "MessageID": 65846,
+    "TextENGNew": "Rena paused there.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 65847,
+    "TextENGNew": "...Her expression suggested she didn't want to say what came next,@k...but since I couldn't grasp the full picture of what she was telling me anyway, all I felt was a hazy bewilderment.",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 65848,
+    "TextENGNew": "``In the end... after a lot happened... I was able to come back to Hinamizawa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 65849,
+    "TextENGNew": "``...And that earned Oyashiro-sama's forgiveness.@k@vS06/02/150200095. ...I haven't felt that presence since.``",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 65850,
+    "TextENGNew": "``...But Satoshi-kun, unlike me, is experiencing Oyashiro-sama's curse while still in Hinamizawa.@k@vS06/02/150200097. ...Why is that?@k@vS06/02/150200098. ...It's simple.``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 65851,
+    "TextENGNew": "``Satoshi-kun may be physically in Hinamizawa, but... in his heart, he wants to abandon it and flee somewhere far away.@k@vS06/02/150200100. Oyashiro-sama will not forgive that desire.``",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 65852,
+    "TextENGNew": "``...After going back and forth, questioning himself over and over... Satoshi-kun finally admitted it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 65853,
+    "TextENGNew": "``...You know he's been working part-time, right?@k@vS06/02/150200102. That big stuffed animal Satoko-chan wanted costs around 100,000 yen.@k@vS06/02/150200103. It's a lot of money for a student.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"trying to get money by her birthday\"; new says \"It's a lot of money for a student\" -- different information.",
+    "changeScore": 3
+  },
+  {
+    "index": 253,
+    "MessageID": 65854,
+    "TextENGNew": "``But... think about it.``",
+    "significantChanges": true,
+    "changeReason": "\"Have you noticed it yet?\" vs \"But... think about it\" -- different speech acts.",
+    "changeScore": 3
+  },
+  {
+    "index": 254,
+    "MessageID": 65855,
+    "TextENGNew": "``With that much money... if you didn't care about what came after... it would be more than enough to run away to somewhere far.``",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 65856,
+    "TextENGNew": "``Satoshi-kun... unconsciously... started thinking that instead of using that money to buy Satoko-chan a birthday present...``",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 65857,
+    "TextENGNew": "``...he could use it to abandon Satoko-chan and escape to somewhere far away.``",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 65858,
+    "TextENGNew": "``For Satoshi-kun... that was the most sinful thought imaginable.``",
+    "significantChanges": true,
+    "changeReason": "\"feel very guilty\" vs \"the most sinful thought imaginable\" -- vastly different intensity matching Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 258,
+    "MessageID": 65859,
+    "TextENGNew": "``But as you just pointed out, Mii-chan, the fact that Satoko-chan's very existence is a burden on Satoshi-kun is simply the truth.@k@vS06/02/150200110. ...Satoshi-kun isn't stupid.``",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 65860,
+    "TextENGNew": "``He just didn't want to admit it as a brother. But he'd always been aware that Satoko-chan was weighing him down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 65861,
+    "TextENGNew": "``That's why Satoshi-kun is torn.@k@vS06/02/150200113. He believes he's working to earn money for a present to make his sister happy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 65862,
+    "TextENGNew": "``...But he's afraid that's just a lie he's telling himself, and that what he's really earning money for... is his own escape.``",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 65863,
+    "TextENGNew": "``...I... don't think he should run.@k@vS06/02/150200116. Even if he did, Satoshi-kun would regret it for the rest of his life.@k@vS06/02/150200117. And Oyashiro-sama knows that, which is why the curse is trying to hold him back.``",
+    "significantChanges": true,
+    "changeReason": "Old says \"unconsciously wants to skip town\"; new adds self-deception framing \"afraid it's a lie he's telling himself.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 263,
+    "MessageID": 65864,
+    "TextENGNew": "``...I just hope the devil's whisper in Satoshi-kun's heart -- the one telling him to abandon Satoko-chan -- goes quiet soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 65865,
+    "TextENGNew": "``...Satoshi-kun is working multiple part-time jobs right now to get the present ready in time for Satoko-chan's birthday, which is...@k@vS06/02/150200120. a few days after the Watanagashi Festival.``",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 65866,
+    "TextENGNew": "``...He's driving himself to the breaking point, mind and body.@k@vS06/02/150200122. ...Clinging to the belief that all this suffering will end once Satoko-chan's birthday passes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 65867,
+    "TextENGNew": "``...Satoshi-kun is still being tormented by Oyashiro-sama's curse even now.@k@vS06/02/150200124. ...While balanced on the knife's edge between protecting Satoko-chan and abandoning her.``",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 65868,
+    "TextENGNew": "...The downpour showed not the slightest sign of weakening.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 65869,
+    "TextENGNew": "The rain hammering the tin roof and the droplets splashing into puddles remained as loud as ever.@k...And yet, an almost painful silence dominated the space.",
+    "significantChanges": true,
+    "changeReason": "Old says \"completely silent\"; new says \"almost painful silence\" adding pain quality from Japanese 耳が痛むくらいの静寂.",
+    "changeScore": 3
+  },
+  {
+    "index": 269,
+    "MessageID": 65870,
+    "TextENGNew": "What on earth... was this girl named Rena talking about?",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 65871,
+    "TextENGNew": "I couldn't comprehend even half of what she'd said.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 65872,
+    "TextENGNew": "The only thing I understood was that Satoshi-kun was suffering, agonizing, and hurting more than he ever had before.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 65873,
+    "TextENGNew": "Oyashiro-sama's curse... was befalling Satoshi-kun?",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 65874,
+    "TextENGNew": "...And this girl named Rena... had experienced the same thing?",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 65875,
+    "TextENGNew": "Come to think of it... wasn't it almost time?@k@|@y...The Watanagashi Festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 65876,
+    "TextENGNew": "Oyashiro-sama's curse had struck three years running.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 65877,
+    "TextENGNew": "...There was no guarantee a fourth year wouldn't come.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 65878,
+    "TextENGNew": "And at such a time.@k...Satoshi-kun was feeling the harbingers of Oyashiro-sama's curse.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 65879,
+    "TextENGNew": "Would Satoshi-kun run away from home?",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 65880,
+    "TextENGNew": "Would Satoshi-kun... become this year's victim of Oyashiro-sama's curse?",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 65881,
+    "TextENGNew": "...Whether by flight or by curse... the possibility that Satoshi-kun might vanish to somewhere far beyond my reach.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 65882,
+    "TextENGNew": "Was there... nothing I could do?",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 65883,
+    "TextENGNew": "...If I did nothing... it would end with me having done nothing.@k...End?",
+    "significantChanges": true,
+    "changeReason": "\"Could I do something?\" (hopeful) vs \"Was there nothing I could do?\" (despairing) -- opposite emotional framing.",
+    "changeScore": 3
+  },
+  {
+    "index": 283,
+    "MessageID": 65884,
+    "TextENGNew": "...Dread, grown terrifyingly concrete, churned and spiraled through my chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 65885,
+    "TextENGNew": "I hadn't taken Rena's bizarre story at face value.",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 65886,
+    "TextENGNew": "...But... the vague premonition that some kind of ending was closing in on Satoshi-kun left me unable to suppress a shudder.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 65887,
+    "TextENGNew": "Looking back on it now.",
+    "significantChanges": true,
+    "changeReason": "\"It's true, isn't it\" vs \"Looking back on it now\" -- confirmation vs retrospection. Japanese 今思えば means in hindsight.",
+    "changeScore": 3
+  },
+  {
+    "index": 287,
+    "MessageID": 65888,
+    "TextENGNew": "...That truly was a premonition. An omen.",
+    "significantChanges": true,
+    "changeReason": "\"My instinct is always correct\" vs \"That truly was a premonition. An omen.\" Japanese 虫の知らせ means omen.",
+    "changeScore": 3
+  },
+  {
+    "index": 288,
+    "MessageID": 65889,
+    "TextENGNew": "I resolved to contact Mion, danger be damned.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 65890,
+    "TextENGNew": "...At first, Mion was angry at my reckless call... but when she heard what I had to say, she was stunned.",
+    "significantChanges": true,
+    "changeReason": "New adds Mion was \"stunned\" which old omitted, just saying \"she had to listen.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 290,
+    "MessageID": 65891,
+    "TextENGNew": "``Sis.@k@vS06/06/150600608. ...About Satoshi-kun.@k@vS06/06/150600609. ...What's happening to him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 65892,
+    "TextENGNew": "``...Lately, he looks really on edge.@k@vS06/03/150300126. ...The kind of mood where you can't even bring yourself to talk to him.``",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 65893,
+    "TextENGNew": "``...What do you mean?@k@vS06/06/150600611. You can't talk to him, so you don't even know what's going on with him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 65894,
+    "TextENGNew": "``...............Sorry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 65895,
+    "TextENGNew": "``...Sis.@k@vS06/06/150600613. I need you to arrange another switch soon.``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 65896,
+    "TextENGNew": "``Sure, that's fine.@k@vS06/03/150300129. But lately the Watanagashi Festival planning meetings have been making scheduling tricky.@k@vS06/03/150300130. ...Give me a bit to work out the timing.``",
+    "significantChanges": true,
+    "changeReason": "Old includes Mion asking \"What? Another part-time job?\"; new replaces with \"Give me a bit to work out the timing\" -- different content.",
+    "changeScore": 3
+  },
+  {
+    "index": 296,
+    "MessageID": 65897,
+    "TextENGNew": "``I'm going to your school.``",
+    "significantChanges": false
+  }
+]

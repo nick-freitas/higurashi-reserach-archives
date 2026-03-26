@@ -1,0 +1,275 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Does Shion Really Exist?",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Is There Really a Shion?\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13242,
+    "TextENGNew": "``Huh? Mion-san's family?``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13243,
+    "TextENGNew": "``Yeah. To put it more plainly, I was wondering if she has any siblings.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13244,
+    "TextENGNew": "I was curious whether a twin sister named Shion actually existed,@kand my curiosity got the better of me, so I quietly asked Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13245,
+    "TextENGNew": "``...Hmm. ...I wonder...@k@vS20/04/440400029. She might, she might not...``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13246,
+    "TextENGNew": "She was being oddly vague about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13247,
+    "TextENGNew": "...Had Satoko never been over to Mion's house to play?",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13248,
+    "TextENGNew": "``Judging by that reaction... I guess you've never met any.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13249,
+    "TextENGNew": "``That's right. I've never met anyone in her family except her grandmother.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13250,
+    "TextENGNew": "Based on this reaction... the \"Shion exists\" theory was already looking shaky.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13251,
+    "TextENGNew": "``Rika would know more about that. Why don't you ask her?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13252,
+    "TextENGNew": "Satoko waved to Rika-chan, who was basking in the sunlight.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13253,
+    "TextENGNew": "``Rika! Do you know anything about Mion-san's family?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13254,
+    "TextENGNew": "Rika-chan blinked in surprise at the sudden question.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 13255,
+    "TextENGNew": "``...Mii has so many family members and relatives that it's hard to know them all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 13256,
+    "TextENGNew": "``That many, huh...? For example...@k@vS20/01/440100060. ...hmm,@k@vS20/01/440100061. is there someone called Shion Sonozaki?@k@vS20/01/440100062. Well, um... I might have misheard, so she might not actually exist, but...``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 13257,
+    "TextENGNew": "``...You mean Shii? Shii does exist.``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 13258,
+    "TextENGNew": "Huh?",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 13259,
+    "TextENGNew": "That was unexpected.@kSo she was real...!",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 13260,
+    "TextENGNew": "``Hmm? Their names are quite similar.@k@vS20/04/440400034. I could bite my tongue trying to tell them apart.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 13261,
+    "TextENGNew": "``...I've heard she's Mii's younger twin sister, but I haven't met her very often.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 13262,
+    "TextENGNew": "Rika-chan knew about her, but hadn't seen her much either.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 13263,
+    "TextENGNew": "``...I think I met her once at a Buddhist memorial service a few years ago.``",
+    "significantChanges": true,
+    "changeReason": "法事 refers to a Buddhist memorial service for the deceased, not a funeral (葬式); a memorial service is a recurring ceremony held after the funeral, which is a meaningfully different event.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 13264,
+    "TextENGNew": "``She's not in this class, so I suppose she goes to school in Okinomiya.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 13265,
+    "TextENGNew": "``She may even live there. After all, Mion-san herself lives apart from her family, with her grandmother.``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 13266,
+    "TextENGNew": "She didn't live with her parents?@k That was a bit unusual.@k Was there some kind of reason for it?",
+    "significantChanges": true,
+    "changeReason": "Original's 'Was there something between them?' implies interpersonal conflict, while the Japanese 事情でもあるのかな simply asks whether there are circumstances/reasons, which is more neutral; the new translation correctly captures this.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 13267,
+    "TextENGNew": "``...It's a very complicated household.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 13268,
+    "TextENGNew": "``She apparently has a great many relatives. There must be all sorts of circumstances involved.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 13269,
+    "TextENGNew": "For now, I'd at least confirmed that a twin sister named Shion existed, but the family structure—much like Mion herself—remained shrouded in mystery...",
+    "significantChanges": true,
+    "changeReason": "Original translates 本人同様 as 'including her own position,' but the Japanese means 'just like the person herself (Mion),' comparing the mysteriousness of the family to Mion's own mysterious nature.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 13270,
+    "TextENGNew": "``Oh, the three of you are all together. What are you talking about? Let this old man join in~``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 13271,
+    "TextENGNew": "``Oh, Mion-san, perfect timing~! Is it true that you have a younger twin sister?``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 13272,
+    "TextENGNew": "Ah... Mion... this is bad...",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 13273,
+    "TextENGNew": "``...A... younger sister...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 13274,
+    "TextENGNew": "``Um, well... y-yeah. I do...``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 13275,
+    "TextENGNew": "Mion flushed red and became flustered—completely out of character.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 13276,
+    "TextENGNew": "...She seemed to be sneaking glances in my direction...",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 13277,
+    "TextENGNew": "``Oh my~! I had no idea~!@k@vS20/04/440400039. I wonder what she's like.@k@vS20/04/440400040. I would very much like to meet her sometime!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 13278,
+    "TextENGNew": "``You're better off not meeting her! Sh-She's not cute at all!@k@vS20/03/440300058. She's bratty!@k@vS20/03/440300059. We barely talk on the phone now and then... I haven't seen her in ages myself...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 13279,
+    "TextENGNew": "...Why was she talking about this in such a panic...?",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 13280,
+    "TextENGNew": "At this rate, she was practically announcing that yesterday's \"Shion\" was a fake...",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 13281,
+    "TextENGNew": "Well, it was entertaining, so I decided to let it play out a bit longer.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 13282,
+    "TextENGNew": "...Another Mion, under the name Shion.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 13283,
+    "TextENGNew": "...If I went back to that shop, would I get to see her again?",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 13284,
+    "TextENGNew": "Even though I suspected she and Mion were the same person, there was a strange sensation—as if I'd made a brand-new friend.",
+    "significantChanges": true,
+    "changeReason": "Original correctly says 'knowing' (知りながら) that they are the same person, but the new translation weakens this to 'suspected,' changing Keiichi's certainty to mere suspicion and altering the reader's understanding of his knowledge state.",
+    "changeScore": 3
+  }
+]

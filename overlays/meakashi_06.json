@@ -1,0 +1,1388 @@
+[
+  {
+    "index": 1,
+    "MessageID": 65114,
+    "TextENGNew": "The days I spent could not, by any stretch, be called comfortable.",
+    "significantChanges": true,
+    "changeReason": "Old says 'beginning to suffocate me'; new says 'could not be called comfortable'; Japanese 窮屈でないとは言えない is milder.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 65115,
+    "TextENGNew": "I couldn't freely walk outside during the day, and even going to my part-time job required prior arrangements with Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 65116,
+    "TextENGNew": "I had believed that escaping the academy would bring a fresh start, some kind of nourishment to my life... For someone who'd clung to that belief, the reality was almost unbearable.",
+    "significantChanges": true,
+    "changeReason": "Old condenses to 'life wouldn't improve'; new preserves the belief in escape bringing nourishment and reality being unbearable.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 65117,
+    "TextENGNew": "When you live like this for too long, you don't drift toward anything good.",
+    "significantChanges": true,
+    "changeReason": "Old says 'not healthy'; new says 'you don't drift toward anything good'; Japanese いい方には流れない means drifting negatively.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 65118,
+    "TextENGNew": "To begin with, I was severely lacking in basic human interaction.@k...At this rate, I'd turn into nothing more than a shut-in.",
+    "significantChanges": true,
+    "changeReason": "Major correction: old says 'no friends, felt like hibernating'; new correctly translates as lacking human interaction and becoming a shut-in (引き篭もり).",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 65119,
+    "TextENGNew": "I had begun to harbor a quiet dread that this indolent life was slowly killing me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'dangers of boredom'; new says 'quiet dread that this life was slowly killing me'; Japanese 緩慢に殺される means being slowly killed.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 65120,
+    "TextENGNew": "Whenever my thoughts drifted, only one face came to mind: Sis's friend, 'Houjou Satoshi-kun.'",
+    "significantChanges": true,
+    "changeReason": "Old omits 'Sis's friend' (お姉の友人) relationship detail.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 65121,
+    "TextENGNew": "The time we'd actually spent together was unbelievably brief.",
+    "significantChanges": true,
+    "changeReason": "Old says 'met him briefly'; new adds 'unbelievably' matching Japanese 信じられないほど.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 65122,
+    "TextENGNew": "...And yet, it was the most vivid experience I'd had since starting my new life in this town.",
+    "significantChanges": true,
+    "changeReason": "Old says 'great impact'; new says 'most vivid experience'; Japanese 一番鮮烈 means most vivid.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 65123,
+    "TextENGNew": "It hinted at something new -- a new life, a new beginning... To put it in childish terms, it gave me this fluttery, excited feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 65124,
+    "TextENGNew": "The more I dwelled on that feeling, the more time I spent thinking about him.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 65125,
+    "TextENGNew": "...Perhaps this, too, was a kind of one-sided crush.",
+    "significantChanges": true,
+    "changeReason": "Old says 'might be a crush'; new says 'one-sided crush'; Japanese 片思い specifically means unrequited.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 65126,
+    "TextENGNew": "I couldn't help but smile wryly at my own shallowness, and at the maiden-like way I was romanticizing his image.",
+    "significantChanges": true,
+    "changeReason": "Old omits the self-deprecating 'shallowness' and 'maiden-like' details from Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 65127,
+    "TextENGNew": "Then one day, just like that,@kI got the chance to see him again.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 65128,
+    "TextENGNew": "``.........Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 65129,
+    "TextENGNew": "As I passed by a park, I spotted a familiar figure sitting on the swings, lost in twilight reverie.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 65130,
+    "TextENGNew": "Was he spacing out, or was he absorbed in thought?",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 65131,
+    "TextENGNew": "...Even after I walked right up in front of him, he didn't notice me for a while.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 65132,
+    "TextENGNew": "I reminded myself several times -- I am Sonozaki Mion, I need to talk like Mion -- before calling out.",
+    "significantChanges": true,
+    "changeReason": "New preserves the repeated self-talk 'I am Mion, talk like Mion' matching Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 65133,
+    "TextENGNew": "``Hey there.@k@vS06/06/150600362. What're you doing in a place like this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 65134,
+    "TextENGNew": "``.........Oh, Mion.@k@vS06/07/151200034. ...You startled me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 65135,
+    "TextENGNew": "``You don't look very startled.@k@vS06/06/150600364. I've been standing here a while. You really didn't notice?``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 65136,
+    "TextENGNew": "``...Really?@k@vS06/07/151200036. Sorry, I didn't see you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 65137,
+    "TextENGNew": "He gave a faint, sheepish smile and a halfhearted shrug.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 65138,
+    "TextENGNew": "The way he looked so plainly drained of energy was painful to see.@kOne glance was enough to tell something was weighing on him.",
+    "significantChanges": true,
+    "changeReason": "Old says 'He looked depressed'; new expands to match Japanese: drained of energy, painful to see.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 65139,
+    "TextENGNew": "``...Something on your mind?@k@vS06/06/150600366. If talking about it would help, I'm all ears. And if there's anything I can do, just say the word.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 65140,
+    "TextENGNew": "``No, it's nothing...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'that's okay'; new says 'it's nothing'; Japanese 別に means nothing special.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 65141,
+    "TextENGNew": "``I owe you one from before, Satoshi-kun.@k@vS06/06/150600368. Or what,@k@vS06/06/150600369. you don't think this old man here can help?@k@vS06/06/150600370. Don't sell me short now.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'how mighty I am'; new says 'Don't sell me short'; Japanese 見くびられた means underestimated.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 65142,
+    "TextENGNew": "``It's fine...@k@vS06/07/151200039. ...It's the kind of thing that borrowing your strength wouldn't fix, Mion.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'You don't have to help'; new says 'your help wouldn't fix it'; Japanese says Mion's help would be meaningless.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 65143,
+    "TextENGNew": "``...Oh?@k@vS06/06/150600372. Meaning what, exactly?@k@vS06/06/150600373. You're saying a mere girl like me isn't good enough to help?``",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 65144,
+    "TextENGNew": "Annoyed by his vaguely unsatisfying refusal, I puffed out my cheeks in protest.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 65145,
+    "TextENGNew": "...Satoshi-kun quickly noticed he'd given the wrong impression and softened his expression to correct himself.",
+    "significantChanges": true,
+    "changeReason": "Old says 'noticed and smiled'; new says 'noticed wrong impression and softened expression'; much closer to Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 65146,
+    "TextENGNew": "``That's not what I mean, Mion.@k@vS06/07/151200041. ...It's just... I didn't have the skill... I couldn't come through when it mattered most, that's all.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'messed up my swing'; new says 'didn't have the skill'; Japanese 実力がなくて means lacking ability.",
+    "changeScore": 3
+  },
+  {
+    "index": 34,
+    "MessageID": 65147,
+    "TextENGNew": "...I rapidly searched through the files of information Sis had given me, pulling up everything tagged under 'Satoshi-kun.'",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 65148,
+    "TextENGNew": "...Despite his bookish appearance, Satoshi-kun was actually on a youth baseball team.",
+    "significantChanges": true,
+    "changeReason": "Old says 'doesn't look like an athlete'; new says 'bookish appearance'; Japanese 文系 means literary type.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 65149,
+    "TextENGNew": "The team was called the 'Hinamizawa Fighters.'",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 65150,
+    "TextENGNew": "Given the total absence of stories about his exploits, I estimated his skill level was low.@kPerhaps embarrassed by that, he didn't seem to broadcast his membership very widely.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 65151,
+    "TextENGNew": "But the dejection he showed at failing to meet expectations suggested he had real passion for it...",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 65152,
+    "TextENGNew": "I took that murky soup of data, ran it through the filter of 'how would Sis say this,' and spoke...",
+    "significantChanges": true,
+    "changeReason": "New preserves Japanese food metaphor of murky soup of data and the Mion filter concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 65153,
+    "TextENGNew": "``Is that all...?@k@vS06/06/150600375. You're moping over something like that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 65154,
+    "TextENGNew": "``'Something like that,' she says.@k@vS06/07/151200043. ...You make it sound so easy, Mion.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'not easy to get over'; new says 'you make it sound easy'; Japanese is about speaking tone, not recovery difficulty.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 65155,
+    "TextENGNew": "Laughing breezily, I slapped him on the back with cheerful tactlessness.",
+    "significantChanges": true,
+    "changeReason": "Old says 'pat his back'; new says 'slapped with cheerful tactlessness'; Japanese バンバンと is vigorous.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 65156,
+    "TextENGNew": "Satoshi-kun would probably respond with something like 'easy for you to say'...",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 65157,
+    "TextENGNew": "When someone is genuinely troubled, it's usually better to listen seriously rather than blundering in with careless encouragement.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 65158,
+    "TextENGNew": "This 'Sis' response was probably the wrong call... but right now I was playing Sis, so even knowing it was a misstep, I had to follow through.@kThis is simply how Sis would handle it.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 65159,
+    "TextENGNew": "``Ah ha ha ha.@k@vS06/06/150600377. Instead of sulking, you should throw yourself into practice even harder and aim for the next chance! Right?@k@vS06/06/150600378. At times like these, all you can do is practice, practice, practice!``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 65160,
+    "TextENGNew": "``Well, if you're so obsessed with beating the other pitcher that you'd be willing to play a little dirty, then this old man might be able to help in all sorts of ways.``",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 65161,
+    "TextENGNew": "``Mmph... There's no point if I cheat...@k@vS06/07/151200045. ...Hahhh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 65162,
+    "TextENGNew": "Satoshi-kun exhaled his lingering regrets in one big breath and hung his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 65163,
+    "TextENGNew": "Surrender. Resignation. Oh well, nothing to be done.@k...That was the gesture.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 65164,
+    "TextENGNew": "``Can't tell if you're quick to give up or just clinging to regret.@k@vS06/06/150600381. But since you were born a man, don't you want to be the star of the big stage at least once?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'persistent'; new says 'clinging to regret'; Japanese 未練たらたら means dripping with lingering regret.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 65165,
+    "TextENGNew": "Satoshi-kun answered with a grin that said 'well, of course.'",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 65166,
+    "TextENGNew": "``Sure, being the hero is the dream.@k@vS06/07/151200047. But that's not why I play baseball.``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 65167,
+    "TextENGNew": "``I play because I genuinely enjoy throwing and hitting the ball.@k@vS06/07/151200049. ...Even you can understand that, right, Mion?``",
+    "significantChanges": true,
+    "changeReason": "Old omits Mion's name from the question; new correctly includes it.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 65168,
+    "TextENGNew": "``Hmm, this old man doesn't really get that kind of thing.@k@vS06/06/150600383. If the result is coming in first, I'll love any sport.@k@vS06/06/150600384. But loving something you can't be the best at? That I don't really understand.@k@vS06/06/150600385. Ahahaha!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I only love games I can win'; new says 'If first place, I'll love any sport'; closer to Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 65169,
+    "TextENGNew": "``Mmph...``",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 65170,
+    "TextENGNew": "``Ahahahahahahahaha. That's such a Mion answer.``",
+    "significantChanges": true,
+    "changeReason": "Old splits dialogue incorrectly between speakers; new correctly formats.",
+    "changeScore": 2
+  },
+  {
+    "index": 58,
+    "MessageID": 65171,
+    "TextENGNew": "Satoshi-kun realized I was laughing to cheer him up and joined in to match my mood.@k...Judging by how refreshed his smile looked, he couldn't have been that depressed to begin with.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 65172,
+    "TextENGNew": "So basically, Satoshi-kun had been sulking because he'd grounded out at a critical moment in the game.",
+    "significantChanges": true,
+    "changeReason": "Old says 'feeling down because of game'; new says 'sulking because he grounded out'; Japanese 凡退 is a specific baseball term.",
+    "changeScore": 3
+  },
+  {
+    "index": 60,
+    "MessageID": 65173,
+    "TextENGNew": "He wasn't as down as I'd thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 65174,
+    "TextENGNew": "He'd just been sitting in the park having a drink after the game, and I'd mistaken his idle relaxation for brooding. A total misread on my part.",
+    "significantChanges": true,
+    "changeReason": "New adds he was having a drink and she mistook relaxation for brooding, details in Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 62,
+    "MessageID": 65175,
+    "TextENGNew": "``...But you know, Mion, you always put in the effort to come out on top.@k@vS06/07/151200053. I think that's really admirable.@k@vS06/07/151200054. Yeah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 65176,
+    "TextENGNew": "Satoshi-kun smiled softly, then rose from the swing and... gently stroked my head.@kCompletely out of nowhere.@kCatching me with my guard down.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 65177,
+    "TextENGNew": "``Huh?@k@vS06/06/150600387. ...Wh-... wha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 65178,
+    "TextENGNew": "This happened last time too, but...",
+    "significantChanges": true,
+    "changeReason": "New preserves kindergarten reference and switch-flipping metaphor from Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 66,
+    "MessageID": 65179,
+    "TextENGNew": "...Why does this boy pat people on the head so casually...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 65180,
+    "TextENGNew": "Nobody had stroked my head since kindergarten. Normally.@kLike a switch being flipped, a flood of childhood memories came rushing back... and I was seized by the illusion of shrinking back into a little girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 65181,
+    "TextENGNew": "...My face went scarlet, embarrassment welling up... and this warm, fuzzy feeling taking over...",
+    "significantChanges": true,
+    "changeReason": "Old says 'blushing with eyes closed'; new adds 'all I could do was squeeze eyes shut until done.'",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 65182,
+    "TextENGNew": "Satoshi-kun did it as naturally and carelessly as if he were petting a cat.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 65183,
+    "TextENGNew": "Meanwhile, all I could do was squeeze my eyes shut and go beet-red until he was done.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 65184,
+    "TextENGNew": "Just like a girl in a dentist's chair, mouth open and eyes clenched shut, terrified of what comes next.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I hate him'; new says 'infuriating he had no idea of his effect'; Japanese 憎々しい is annoyance, not literal hatred.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 65185,
+    "TextENGNew": "...Completely oblivious to how I felt, the person doing the stroking was as cool and composed as could be.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 65186,
+    "TextENGNew": "...It was infuriating that he had absolutely no idea what effect he was having on me.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 65187,
+    "TextENGNew": "I could only close my eyes and endure those few seconds until Satoshi-kun finished.@kThen, abruptly, his hand released me.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 65188,
+    "TextENGNew": "``...Well, I should head home.@k@vS06/07/151200056. My aunt asked me to pick up groceries on the way back from baseball.``",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 65189,
+    "TextENGNew": "``Oh... ...yeah.``",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 65190,
+    "TextENGNew": "My voice came out in this high-pitched, embarrassing squeak.@k...What kind of sound was I even making...?",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 65191,
+    "TextENGNew": "``Hmm?``",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 65192,
+    "TextENGNew": "``I-I mean, um!@k@vS06/06/150600390. ...I'm heading out to shop too.@k@vS06/06/150600391. ...For dinner groceries.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'some pride'; new says 'masculine pride'; Japanese 男としての specifies 'as a man.'",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 65193,
+    "TextENGNew": "``Huh?@k@vS06/07/151200059. Wait.@k@vS06/07/151200060. You do your own shopping, Mion?@k@vS06/07/151200061. I thought the servants took care of all that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 65194,
+    "TextENGNew": "Ugh...@kI slipped up.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 65195,
+    "TextENGNew": "The main Sonozaki house left all the cooking and provisioning to their staff.",
+    "significantChanges": true,
+    "changeReason": "Old says 'bragged'; new says 'shared'; Japanese 公開 means disclosed.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 65196,
+    "TextENGNew": "Mion herself almost never went grocery shopping, and she'd shared that tidbit with certain people.@k...I'd fumbled a line as 'Mion.' A rare mistake for either of us.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 65197,
+    "TextENGNew": "But covering for it wouldn't be too difficult.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 65198,
+    "TextENGNew": "``I was planning to come into town anyway, so I figured I'd try my hand at housework for once.@k@vS06/06/150600393. So I volunteered to do the shopping.@k@vS06/06/150600394. Got a problem with that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 65199,
+    "TextENGNew": "``...Ahaha.@k@vS06/07/151200063. That's unusual for you, Mion.@k@vS06/07/151200064. You usually say that kind of thing is a pain and avoid it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 65200,
+    "TextENGNew": "``That's what we call 'none of your business'!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'You talk too much!'; new says 'none of your business!'; Japanese 余計なお世話 means unnecessary meddling.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 65201,
+    "TextENGNew": "``...Ahh!@k@vS06/06/150600397. Stop petting my head~!``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 65202,
+    "TextENGNew": "``Ahaha, ahaha.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 65203,
+    "TextENGNew": "Satoshi-kun seemed to find my flustered reactions amusing, because he kept stroking my head for a good while.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 65204,
+    "TextENGNew": "But I managed to fast-talk my way through it and survive the moment.@kSatoshi-kun apparently had the convenient personality of not sweating the small stuff...",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 65205,
+    "TextENGNew": "Walking alongside Satoshi-kun through the Kami-isshiki shopping district... a thought occurred to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 65206,
+    "TextENGNew": "What had that slip-up actually been about?",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 65207,
+    "TextENGNew": "Mion never goes grocery shopping, and yet I'd claimed I was out shopping too. Such a careless error.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 65208,
+    "TextENGNew": "...Had I made a mistake while acting as Mion?",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 65209,
+    "TextENGNew": "No... it was probably the opposite.@kI'd spoken my own words, unfiltered, without running them through the Mion mask.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 65210,
+    "TextENGNew": "I can't lie to myself.@k...So I accepted it without overthinking.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 65211,
+    "TextENGNew": "What it came down to was this:@k...I simply wanted to spend as much time with Satoshi-kun as I possibly could... That's all it was.",
+    "significantChanges": true,
+    "changeReason": "New preserves the chick imprinting metaphor from Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 99,
+    "MessageID": 65212,
+    "TextENGNew": "When I thought about why I was this drawn to him, like a chick imprinted on the first thing it sees, the answer came easily enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 65213,
+    "TextENGNew": "He was a novel encounter in the midst of my monotonous days.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 65214,
+    "TextENGNew": "There was the ease of our relationship, since he mistook me for Mion.@kEt cetera, et cetera.@k...And at the very bottom of the list, I'd add: because he's the kind of person who casually pats people on the head.",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 65215,
+    "TextENGNew": "Lumping all of that together... ahh, I decided I was simply enjoying what people call a faint stirring of love.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 65216,
+    "TextENGNew": "Yes, that's all. I was just casually savoring a crush.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 65217,
+    "TextENGNew": "It wasn't that I'd actually fallen in love with him.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 65218,
+    "TextENGNew": "I was merely enjoying a bit of time with someone of the opposite sex.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 65219,
+    "TextENGNew": "Once I framed it that way, the idle chatter and the time spent walking beside Satoshi-kun felt genuinely, honestly fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 65220,
+    "TextENGNew": "``Umm...@k@vS06/07/151200067. ...Which one's broccoli again?@k@vS06/07/151200068. ...Is it the green one?@k@vS06/07/151200069. Or the yellow one?``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 65221,
+    "TextENGNew": "``Satoshi-kun, that's cauliflower.@k@vS06/06/150600399. ...Don't tell me you're the type who can't tell cabbage from lettuce, either?``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 65222,
+    "TextENGNew": "``H-Hey, that's harsh.@k@vS06/07/151200071. I'm doing my best to tell them apart here...``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 65223,
+    "TextENGNew": "Despite his protests, Satoshi-kun was locked in a staring contest with the piles of broccoli and cauliflower.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 65224,
+    "TextENGNew": "After agonizing over it, his hand drifted, as if magnetically drawn, toward the wrong one...",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 65225,
+    "TextENGNew": "``That's not it!@k@vS06/06/150600401. ...Watching you shop is nerve-wracking, Satoshi-kun.@k@vS06/06/150600402. Entertaining for me, though.@k@vS06/06/150600403. Ahahahaha!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'roller coaster'; new says 'nerve-wracking'; Japanese ハラハラ means anxious.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 65226,
+    "TextENGNew": "``...Mmph.@k@vS06/07/151200073. You've got me there.@k@vS06/07/151200074. Satoko and I get confused about this too.@k@vS06/07/151200075. 'Which color is broccoli and which is cauliflower...'``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko can't tell the difference'; new says 'Satoko and I both get confused'; corrects who is confused.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 65227,
+    "TextENGNew": "``...You two siblings are absolutely priceless.``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 65228,
+    "TextENGNew": "According to Sis's intel, the dynamic was: unreliable big brother constantly nagged by his more competent little sister.",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 65229,
+    "TextENGNew": "I'd never met his sister Satoko, but if her actual brother was like this, she must be at her wit's end.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 65230,
+    "TextENGNew": "Everything about Satoshi-kun's shopping was like this -- one thrill after another, start to finish.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 65231,
+    "TextENGNew": "``That's seasoned salt.``",
+    "significantChanges": true,
+    "changeReason": "Corrects 'cooking salt' to 'seasoned salt' for 調理塩.",
+    "changeScore": 2
+  },
+  {
+    "index": 119,
+    "MessageID": 65232,
+    "TextENGNew": "``...It's got pepper and other things mixed in. It's different from regular table salt.``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 65233,
+    "TextENGNew": "``Huh... really?@k@vS06/07/151200077. I think I remember separating salt and pepper in a science experiment once...``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 65234,
+    "TextENGNew": "``Never mind the excuses, just put it back.@k@vS06/06/150600408. ...This is plain salt, right here!@k@vS06/06/150600409. Okay, what's next?``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 65235,
+    "TextENGNew": "``Um... ahahahaha, having you here makes shopping so much easier, Mion...``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 65236,
+    "TextENGNew": "``...You look smart, Satoshi-kun, but you're seriously hopeless at daily life.@k@vS06/06/150600409_2. I really think you need more practice...``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 65237,
+    "TextENGNew": "``Mmph...@k@vS06/07/151200080. ...That's pretty harsh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 65238,
+    "TextENGNew": "``...Found it.@k@vS06/07/151200081. Is this the one?@k@vS06/07/151200082. In it goes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 65239,
+    "TextENGNew": "``Nooo!@k@vS06/06/150600414. That's wrong too!@k@vS06/06/150600415. Check the price and the serving size before you throw things in the basket!``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 65240,
+    "TextENGNew": "My first impression of Satoshi-kun had been of someone strong and dependable.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 65241,
+    "TextENGNew": "But the more time I spent talking with him, the more I was astonished by how helpless and precarious he was.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 65242,
+    "TextENGNew": "How do I put it... you just can't leave him alone.@kHe's a walking hazard.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 65243,
+    "TextENGNew": "If you let your guard down, he's the type who'd stand at a crosswalk wondering, 'Wait, do you cross on red?@kOr was it green?'@k...and get flattened by a dump truck... (sweatdrop)",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 65244,
+    "TextENGNew": "``Your total comes to 1,780 yen.@k@vS06/00/psrtA15002. Do you have a stamp card?``",
+    "significantChanges": true,
+    "changeReason": "Corrects 'member's card' to 'stamp card' for スタンプカード.",
+    "changeScore": 2
+  },
+  {
+    "index": 132,
+    "MessageID": 65245,
+    "TextENGNew": "``Huh? ...Oh, yes.@k@vS06/07/151200084. I do...@k@vS06/07/151200085. ...Umm... ...where did I put it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 65246,
+    "TextENGNew": "``Ah, sorry.@k@vS06/06/150600417. He can't find it right now, so we'll pass for today.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'old ladies'; new says 'battle-hardened housewives'; Japanese 海千山千 means experienced.",
+    "changeScore": 3
+  },
+  {
+    "index": 134,
+    "MessageID": 65247,
+    "TextENGNew": "Ignoring Satoshi-kun as he continued fishing through his receipt-stuffed wallet, I finished paying.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 65248,
+    "TextENGNew": "``That was mean, Mion...@k@vS06/07/151200087. You need to get stamps or it's a waste, you know...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 65249,
+    "TextENGNew": "``You don't go pawing through your wallet for a stamp card during the evening rush!@k@vS06/06/150600419. There was a huge line behind us!``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 65250,
+    "TextENGNew": "``Didn't you notice all those battle-hardened housewives glaring at us from behind, their eyes screaming 'hurry up already'?!@k@vS06/06/150600421. Listen -- when it's like that, you have your card ready before you reach the register!``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 65251,
+    "TextENGNew": "``...Oh... right.@k@vS06/07/151200089. Ahaha, that's good advice.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 65252,
+    "TextENGNew": "``And it's not just when you're shopping.@k@vS06/06/150600423. Same goes for the bus!``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 65253,
+    "TextENGNew": "``Satoshi-kun, I bet when you get off the bus to pay the fare, that's the first time you even open your wallet and start picking through your change one coin at a time, making everyone behind you wait.``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 65254,
+    "TextENGNew": "``...Mmph... Well, everyone usually just walks past me and pays their own fare...``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 65255,
+    "TextENGNew": "``Haah...@k@vS06/06/150600426. You know what?@k@vS06/06/150600427. That is being an enormous nuisance to everyone around you!@k@vS06/06/150600428. You're supposed to have your money ready beforehand -- that's basic manners!@k@vS06/06/150600429. Understood?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 65256,
+    "TextENGNew": "``O-O-Okay...@k@vS06/07/151200092. ...You're scary today, Mion... Ahahaha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 65257,
+    "TextENGNew": "Satoshi-kun laughed nervously, as if trying to deflect my indignation.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 65258,
+    "TextENGNew": "...Hahhh... honestly, this guy.",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 65259,
+    "TextENGNew": "...He was definitely the type who awakens a fierce protective instinct in people.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 65260,
+    "TextENGNew": "...Sure, when you've got a busybody like me around, he gets by just fine.@kBut I couldn't help worrying about whether he could function in society without someone watching over him.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 65261,
+    "TextENGNew": "We got plastic bags at the register and sorted out our purchases.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 65262,
+    "TextENGNew": "...When Satoshi-kun immediately shoved the tofu to the bottom of the bag, I smacked his hand with a sharp 'No!' and repacked it with the milk carton first.",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 65263,
+    "TextENGNew": "``There. All good.@k@vS06/06/150600431. Now your aunt won't have a heart attack when she opens this bag in the kitchen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 65264,
+    "TextENGNew": "``Oh... thanks.@k@vS06/07/151200094. That really helped.@k@vS06/07/151200095. ...I'm not very good at the whole shopping thing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 65265,
+    "TextENGNew": "``Just shopping?@k@vS06/06/150600433. Be honest!``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 65266,
+    "TextENGNew": "``...Mm... mmph...``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 65267,
+    "TextENGNew": "``Ahahahahahaha!@k@vS06/06/150600435. Kidding, kidding.``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 65268,
+    "TextENGNew": "Brief as it was, our shopping trip had taught me a few things.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 65269,
+    "TextENGNew": "...It wasn't just that Satoshi-kun was bad at shopping.@k...He was fundamentally inept at practical matters in general.",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 65270,
+    "TextENGNew": "...Spacey, you might say. Or absent-minded.",
+    "significantChanges": true,
+    "changeReason": "Old says 'slow thinker'; new says 'spacey, absent-minded'; Japanese とろい means spacey.",
+    "changeScore": 3
+  },
+  {
+    "index": 158,
+    "MessageID": 65271,
+    "TextENGNew": "...Thinking about it that way, the reckless courage he'd shown when we first met -- charging in heedless of danger -- must have been an extraordinary act of bravery for someone like him.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 65272,
+    "TextENGNew": "Satoshi-kun was spacey, but he wasn't stupid.",
+    "significantChanges": true,
+    "changeReason": "Old says 'simpleton'; new says 'spacey'; Japanese とろい is not simpleton.",
+    "changeScore": 3
+  },
+  {
+    "index": 160,
+    "MessageID": 65273,
+    "TextENGNew": "He was fully aware that he was no good at this sort of thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 65274,
+    "TextENGNew": "...And precisely because of that, he should have been all the more inclined to practice the maxim 'a wise man steers clear of danger.'",
+    "significantChanges": true,
+    "changeReason": "New preserves Japanese proverb about wise men avoiding danger.",
+    "changeScore": 3
+  },
+  {
+    "index": 162,
+    "MessageID": 65275,
+    "TextENGNew": "...By rights, even if his classmate Mion was in trouble, he had no business charging in with reckless bravado.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 65276,
+    "TextENGNew": "He'd weighed all of that, forced it aside.@k...And leapt out anyway. That was something truly remarkable.",
+    "significantChanges": true,
+    "changeReason": "Old says 'chose to be a man'; new says 'weighed it all, forced it aside, leapt out'; preserves deliberation.",
+    "changeScore": 3
+  },
+  {
+    "index": 164,
+    "MessageID": 65277,
+    "TextENGNew": "``Good boy, good boy.@k@vS06/06/150600437. You did great, Satoshi-kun.@k@vS06/06/150600438. There, there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 65278,
+    "TextENGNew": "``Wh-... What are you doing?@k@vS06/07/151200098. Don't just start patting my head out of nowhere.``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 65279,
+    "TextENGNew": "``This is the 'Satoshi-kun Did His Shopping All By Himself' award.@k@vS06/06/150600440. Pat, pat, pat~``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 65280,
+    "TextENGNew": "``Mion... you're really making fun of me, aren't you?``",
+    "significantChanges": true,
+    "changeReason": "New preserves playful Japanese award-naming style.",
+    "changeScore": 3
+  },
+  {
+    "index": 168,
+    "MessageID": 65281,
+    "TextENGNew": "``Not at all!@k@vS06/06/150600442. Think you can make it home by yourself?@k@vS06/06/150600443. Do you know the way?``",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 65282,
+    "TextENGNew": "``Mmph...@k@vS06/07/151200101. You really are making fun of me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 65283,
+    "TextENGNew": "Satoshi-kun pouted, but he let me keep patting his head without resistance, his face faintly reddening as he looked down.@k...Ahh, he's just too adorable.",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 65284,
+    "TextENGNew": "Just then, a community bulletin board at the edge of my vision caught my eye.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 65285,
+    "TextENGNew": "Piano Lessons. Call XX.@k Abacus Class......@k Junior Baseball Team--Members Wanted.'",
+    "significantChanges": true,
+    "changeReason": "Old says 'billboard'; new says 'community bulletin board'; Japanese 掲示板 is bulletin board.",
+    "changeScore": 3
+  },
+  {
+    "index": 173,
+    "MessageID": 65286,
+    "TextENGNew": "It was a recruitment poster for Satoshi-kun's team, the Hinamizawa Fighters.",
+    "significantChanges": true,
+    "changeReason": "New adds team name from Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 174,
+    "MessageID": 65287,
+    "TextENGNew": "It listed their weekly practice day and time, along with the location and other details.",
+    "significantChanges": true,
+    "changeReason": "Old says 'next practice'; new says 'weekly practice day'; Japanese 毎週 means every week.",
+    "changeScore": 3
+  },
+  {
+    "index": 175,
+    "MessageID": 65288,
+    "TextENGNew": "If one shopping trip was enough to reveal him as this helpless...",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 65289,
+    "TextENGNew": "...then even though I'd never seen it, his baseball must be much the same.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 65290,
+    "TextENGNew": "When Satoshi-kun noticed me reading the baseball team poster, he suddenly looked uncomfortable and tried to walk away.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 65291,
+    "TextENGNew": "``I know exactly what you just thought.@k@vS06/06/150600445. ...'Please, Mion.@k@vS06/06/150600446. Don't come watch me play baseball.'@k@vS06/06/150600447. ...Am I right?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 65292,
+    "TextENGNew": "``M-Mmph...@k@vS06/07/151200103. ...Umm... ...mmph.``",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 65293,
+    "TextENGNew": "``What's that 'mmph' supposed to mean?@k@vS06/06/150600449. ...That's a yes, isn't it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 65294,
+    "TextENGNew": "``...Mmph...``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 65295,
+    "TextENGNew": "Satoshi-kun left behind a single, cryptic 'mmph' and fell silent.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 65296,
+    "TextENGNew": "...It seemed I'd hit the mark so squarely that he couldn't muster a single word in his defense.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 65297,
+    "TextENGNew": "...Satoshi-kun... there is such a thing as being too adorable, you know.",
+    "significantChanges": true,
+    "changeReason": "Old says 'too cute'; new says 'there's a limit to being adorable'; Japanese ほどがある means there's a limit.",
+    "changeScore": 3
+  },
+  {
+    "index": 185,
+    "MessageID": 65298,
+    "TextENGNew": "...The way he just went quiet and meekly conceded when I'd nailed it...@kWell, I suppose that's just how honest people are.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 65299,
+    "TextENGNew": "``See you later, Satoshi-kun!@k@vS06/06/150600451. It's getting dark, so be careful on your way home!``",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 65300,
+    "TextENGNew": "``You're not heading back too?@k@vS06/07/151200106. To Hinamizawa?``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 65301,
+    "TextENGNew": "``...Oh, I've still got a stop to make.@k@vS06/06/150600453. Go on ahead without me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 65302,
+    "TextENGNew": "``You helped me with my shopping, so I'll tag along.@k@vS06/07/151200108. It's my turn to help.``",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 65303,
+    "TextENGNew": "``Ah, ahahahaha.@k@vS06/06/150600455. I'm fine, really!@k@vS06/06/150600456. And what exactly are you planning to help with?@k@vS06/06/150600457. Maybe learn to shop on your own before you try helping other people.@k@vS06/06/150600458. Ahahahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 65304,
+    "TextENGNew": "``...Mmph...@k@vS06/07/151200110. You're being extra mean today, Mion...``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 65305,
+    "TextENGNew": "He did seem to have at least a shred of masculine pride, after all.",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 65306,
+    "TextENGNew": "Being teased by a girl had him looking slightly indignant.@kNaturally, I was thoroughly enjoying myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 65307,
+    "TextENGNew": "Which is why, once again, I let my guard slip.",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 65308,
+    "TextENGNew": "``Oh, but thanks for the help.``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 65309,
+    "TextENGNew": "``You really saved me.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'That was sweet'; new says 'You really saved me'; Japanese 助かった means saved/helped.",
+    "changeScore": 3
+  },
+  {
+    "index": 197,
+    "MessageID": 65310,
+    "TextENGNew": "``Whah...!@k@vS06/06/150600460. ...ngh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 65311,
+    "TextENGNew": "With an innocent smile and those simple words, Satoshi-kun reached out and patted my completely unguarded head.@k...Pat, pat, pat, pat.",
+    "significantChanges": true,
+    "changeReason": "New adds 'completely unguarded' matching Japanese まったく警戒していなかった.",
+    "changeScore": 3
+  },
+  {
+    "index": 199,
+    "MessageID": 65312,
+    "TextENGNew": "Ahh... I know, I know he's making fun of me, even so...@kUugh, while he's patting me I'm powerless to resist...@k...ngh...",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 65313,
+    "TextENGNew": "Taking full advantage of my total lack of resistance, Satoshi-kun kept cheerfully patting away, seemingly content to do it forever.@k...auu auu auu...",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 65314,
+    "TextENGNew": "``Well, see you, Mion.@k@vS06/07/151200114. Finish your errands before it gets dark.@k@vS06/07/151200115. ...See you tomorrow at school.``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 65315,
+    "TextENGNew": "``Oh, yeah!@k@vS06/06/150600462. See you tomorrow at school!``",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 65316,
+    "TextENGNew": "The person who'd see him tomorrow at school wouldn't be me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I wouldn't see him'; new says 'the person who'd see him wouldn't be me'; captures twin identity theme.",
+    "changeScore": 3
+  },
+  {
+    "index": 204,
+    "MessageID": 65317,
+    "TextENGNew": "...There was a bittersweet twinge in that, but this was the best I could manage right now. It couldn't be helped.@kIf anything, I wanted to feel grateful to Sis for lending me her time as Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 65318,
+    "TextENGNew": "After we parted ways...",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 65319,
+    "TextENGNew": "...I noticed how incredibly happy I was, and how I was already yearning for the next time we'd meet.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 65320,
+    "TextENGNew": "I wanted to know more about him. So much more.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 65321,
+    "TextENGNew": "I could leave my next chance to see him up to chance.",
+    "significantChanges": true,
+    "changeReason": "OPPOSITE MEANING: Old says 'I couldn't wait for next chance'; new says 'I could leave it to chance'; Japanese 偶然に委ねることもできる means could leave to chance.",
+    "changeScore": 5
+  },
+  {
+    "index": 209,
+    "MessageID": 65322,
+    "TextENGNew": "...But that felt far too passive.",
+    "significantChanges": true,
+    "changeReason": "Old says 'maybe something I could do'; new says 'felt far too passive'; Japanese あまりに消極的.",
+    "changeScore": 3
+  },
+  {
+    "index": 210,
+    "MessageID": 65323,
+    "TextENGNew": "Just as I had seized my current life with my own hands,@kI would have to choose and claim everything in my future the same way.",
+    "significantChanges": true,
+    "changeReason": "Old says 'obtained freedom, could choose'; new says 'seized life with own hands'; Japanese 選び取って is more active.",
+    "changeScore": 3
+  },
+  {
+    "index": 211,
+    "MessageID": 65324,
+    "TextENGNew": "...Well, such lofty reasoning didn't really matter.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 65325,
+    "TextENGNew": "I wanted to tease him more. I wanted him to pat my head more.@kI wanted to... oh, whatever, it doesn't matter anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 65326,
+    "TextENGNew": "I already knew when his next baseball practice was scheduled.",
+    "significantChanges": false
+  }
+]

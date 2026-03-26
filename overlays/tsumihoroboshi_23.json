@@ -1,0 +1,2986 @@
+[
+  {
+    "index": 1,
+    "MessageID": 88329,
+    "TextENGNew": "The next day, at lunchtime.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 88330,
+    "TextENGNew": "The whole class was buzzing with whatever rumors they pleased about Rena's whereabouts.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'disappearance' (消息 actually means 'whereabouts/news'); new correctly renders it as 'rumors about Rena's whereabouts,' changing the implication from confirmed vanishing to uncertain speculation.",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 88331,
+    "TextENGNew": "My friends were all worried about Rena's safety, but... I alone kept my distance.",
+    "significantChanges": true,
+    "changeReason": "Old translation includes narrator in the group ('We were all worried'); new correctly separates him ('My friends were all worried... I alone kept my distance'), matching the JPN 仲間たち (friends/companions).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 88332,
+    "TextENGNew": "``...I wonder where Rena went.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 88333,
+    "TextENGNew": "``Some people are saying she was spirited away by the demons.@k@vS09/03/170300489. Honestly!``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 88334,
+    "TextENGNew": "``Keiichi-san, you seem to be lacking your usual energy today...``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 88335,
+    "TextENGNew": "``...Mii.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 88336,
+    "TextENGNew": "Satoko and Rika-chan noticed something was off about me and came over to talk.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 88337,
+    "TextENGNew": "``...I'm... um...``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 88338,
+    "TextENGNew": "``...??``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 88339,
+    "TextENGNew": "Ever since Rena's words last night... I hadn't been able to sleep at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 88340,
+    "TextENGNew": "Keeping secrets means you're not really friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 88341,
+    "TextENGNew": "That single line had lodged itself in me like a thorn... and the pain of it had kept me awake.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 88342,
+    "TextENGNew": "``Mion.@k@vS09/01/170100957. ...Satoko too, and Rika-chan.@k@vS09/01/170100958. ...There's something I need to tell you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 88343,
+    "TextENGNew": "``...Is this about Rena?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 88344,
+    "TextENGNew": "``No... it's not.@k@vS09/01/170100960. It's about me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 88345,
+    "TextENGNew": "I believed they were my friends, so I decided to tell them.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 88346,
+    "TextENGNew": "...But what would actually change by telling them?",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 88347,
+    "TextENGNew": "They would only look down on me for it... What good would it do me?",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 88348,
+    "TextENGNew": "...None.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 88349,
+    "TextENGNew": "I simply... wanted to heal the pain of Rena's words. That was all.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 88350,
+    "TextENGNew": "``About... yourself, Keiichi-san...?``",
+    "significantChanges": true,
+    "changeReason": "Old translation is a general 'What is this about?'; new correctly captures Satoko asking specifically about Keiichi himself ('About... yourself, Keiichi-san?'), matching JPN 圭一さんのこと.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 88351,
+    "TextENGNew": "``...Yeah. This is serious.@k@vS09/01/170100962. Please hear me out.``",
+    "significantChanges": true,
+    "changeReason": "Old translates 真面目な話 as 'the truth about myself' but it means 'a serious matter'; new correctly says 'This is serious.'",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 88352,
+    "TextENGNew": "``...............``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 88353,
+    "TextENGNew": "``It's about... what happened before I moved here.@k@vS09/01/170100964. Back then, I was... the kind of kid who had nothing going for him except studying.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 88354,
+    "TextENGNew": "At cram school, I learned the tricks to the game called studying.@k I discovered the thrill of basking in superiority through good grades, and kept studying for the utterly trivial reason of wanting to look down on the rest of the class.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 88355,
+    "TextENGNew": "When my grades went up, my parents were delighted and my teachers fawned over me.@k It felt good.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 88356,
+    "TextENGNew": "The kids who strutted around showing off at the fifty-meter dash, or dodgeball, or swimming—they all looked so small to me, and that feeling alone was enough reason to keep studying.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 88357,
+    "TextENGNew": "Before I knew it, my scores were competing not just for the top of my class, but for the top of the entire school.",
+    "significantChanges": true,
+    "changeReason": "Old says he 'was the top' definitively; new correctly says 'competing for the top' (トップを争う = competing/vying for the top), a meaningful distinction about his academic standing.",
+    "changeScore": 3
+  },
+  {
+    "index": 30,
+    "MessageID": 88358,
+    "TextENGNew": "So I came to believe that I was the most important person in the school.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 88359,
+    "TextENGNew": "I was the kind of worthless kid who liked to look down from the window at the other students playing in the schoolyard during lunch, savoring the feeling of superiority.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 88360,
+    "TextENGNew": "...As my grades climbed, the expectations around me grew to match.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 88361,
+    "TextENGNew": "Suddenly everyone was aiming impossibly high, taking it for granted that I would enroll at some elite school with a ludicrously high entrance threshold.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 88362,
+    "TextENGNew": "And of course, I was conceited enough to believe I deserved to get in.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 88363,
+    "TextENGNew": "But... even though the burden of studying hadn't changed at all, the pleasure of looking down on others kept fading.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 88364,
+    "TextENGNew": "The people around me seemed to feel the same—my classmates stopped praising my grades, and my teachers only pushed me to aim higher.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 88365,
+    "TextENGNew": "I was rapidly losing any joy in studying.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 88366,
+    "TextENGNew": "I had never liked studying in the first place.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 88367,
+    "TextENGNew": "I was just an unremarkable brat with average athleticism and average toughness, who had stumbled upon the one thing that let him feel superior to others and latched onto it.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 88368,
+    "TextENGNew": "If unicycling or kendama had given me that same feeling of superiority, I would have practiced those instead.",
+    "significantChanges": true,
+    "changeReason": "Old translates けん玉 (kendama) as 'juggling'; new correctly preserves 'kendama,' a specific traditional Japanese toy distinct from juggling.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 88369,
+    "TextENGNew": "Once I started to recognize those feelings for what they were, studying became nothing but tedium.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 88370,
+    "TextENGNew": "That's right—I was just a spoiled kid who wanted someone to praise him whenever he did something impressive.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 88371,
+    "TextENGNew": "...So as long as I got praised, I'd finish my summer homework on time and volunteer to clean the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 88372,
+    "TextENGNew": "And when the praise stopped coming, my entire life felt meaningless.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 88373,
+    "TextENGNew": "There was a time when my allowance was proportional to my grades, so I had more spending money than any kid my age should have had.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 88374,
+    "TextENGNew": "...Whether I'd always had a taste for it, or whether my pent-up emotions drove me to seek out violence, I don't know.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 88375,
+    "TextENGNew": "I started taking an interest in model guns.",
+    "significantChanges": true,
+    "changeReason": "Old translates モデルガン as 'BB guns'; new correctly says 'model guns.' These are different types of replica weapons.",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 88376,
+    "TextENGNew": "Shooting at cardboard boxes was harmless enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 88377,
+    "TextENGNew": "As long as I was taking my aggression out on cardboard, it was just stress relief.@k Nobody would blame me for that.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 88378,
+    "TextENGNew": "But soon, I started wanting to do what I knew I shouldn't.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 88379,
+    "TextENGNew": "The warning label printed on the model gun box read,@k 'Do not shoot at people.'",
+    "significantChanges": true,
+    "changeReason": "Old adds 'That was when I thought about doing just that' which is not in JPN. The JPN only states what the warning label said. New is more faithful.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 88380,
+    "TextENGNew": "Why did I deliberately do the one thing I was told not to?@k That was the extent of my immaturity.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 88381,
+    "TextENGNew": "I had no interest in studying anymore, yet my parents kept forcing me to attend cram schools. I resented them for it.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 88382,
+    "TextENGNew": "I should have just told my parents that I didn't want to study anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 88383,
+    "TextENGNew": "...But I was too small, too cowardly to find that courage.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 88384,
+    "TextENGNew": "...Of all things, my aggression turned toward complete strangers.",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'shot at kids who were younger' and adds detail about it being an excuse; JPN 見ず知らずの人 just says 'complete strangers.' New is more faithful to the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 88385,
+    "TextENGNew": "Of course, I had no personal grudge against any of the people I targeted.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 88386,
+    "TextENGNew": "I had absolutely no intention of injuring anyone.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 88387,
+    "TextENGNew": "I would snipe them from a distance -- one or two shots -- and that alone was enough to satisfy me.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 88388,
+    "TextENGNew": "I'm studying hard. I'm doing something good.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 88389,
+    "TextENGNew": "So it's fine if I do something equally bad to balance it out.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 88390,
+    "TextENGNew": "With that unbelievably self-centered reasoning, I absolved myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 88391,
+    "TextENGNew": "...How selfish, how arrogant, how pathetically childish!",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 88392,
+    "TextENGNew": "Even now, just laying it all out like this makes my skin crawl.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 88393,
+    "TextENGNew": "If I could go back and stand in front of my past self, I'd have punched him so hard his back teeth would fly out.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 88394,
+    "TextENGNew": "But at the time, I was completely absorbed in this game.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 88395,
+    "TextENGNew": "It never occurred to me that I'd get caught someday. I hadn't set any point at which I'd stop.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 88396,
+    "TextENGNew": "Then, one day.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 88397,
+    "TextENGNew": "...I spotted a passerby on a dark, narrow, deserted street, just like always.@k It was someone I'd never seen before.",
+    "significantChanges": true,
+    "changeReason": "Old specifies 'a little girl' but Japanese 通行人 means 'passerby' without specifying gender or age.",
+    "changeScore": 4
+  },
+  {
+    "index": 70,
+    "MessageID": 88398,
+    "TextENGNew": "Maybe they were on their way somewhere, or running an errand.@k ...Either way, it didn't matter to me.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'she' (female) and 'friend's house'; JPN uses gender-neutral terms (どこかへ出掛ける途中). New uses 'they' preserving the JPN ambiguity.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 88399,
+    "TextENGNew": "Despite all the commotion this had been causing in the neighborhood, how careless of them.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'The school had warned her not to' which is not in the JPN. JPN says 近所でも騒ぎになっている (causing commotion in the neighborhood). New is more faithful.",
+    "changeScore": 3
+  },
+  {
+    "index": 72,
+    "MessageID": 88400,
+    "TextENGNew": "Getting hit was their own fault.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'her'; JPN uses gender-neutral 被害. New uses 'their' preserving ambiguity.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 88401,
+    "TextENGNew": "With that kind of selfish logic, I did what I always did... and shot.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 88402,
+    "TextENGNew": "Usually, the person would cry out in pain and run away.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'she cried'; new uses 'the person would cry.' JPN uses gender-neutral language throughout this passage.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 88403,
+    "TextENGNew": "...But this person's reaction was unlike anything I'd seen before.",
+    "significantChanges": true,
+    "changeReason": "Old says 'this girl'; JPN says その人 (that person), gender-neutral. New says 'this person.'",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 88404,
+    "TextENGNew": "The way this person writhed in pain was beyond anything normal,@k and it was in that moment that I realized for the first time@k what a terrible thing I had been doing.",
+    "significantChanges": true,
+    "changeReason": "Old says 'The girl howled'; JPN says その人の痛がり方 (that person's way of being in pain). New preserves gender neutrality.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 88405,
+    "TextENGNew": "They had seen me.",
+    "significantChanges": true,
+    "changeReason": "Old says 'She saw me'; JPN 相手 is gender-neutral. New says 'They had seen me.'",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 88406,
+    "TextENGNew": "So I couldn't be the one to take them to the hospital.",
+    "significantChanges": true,
+    "changeReason": "Old says 'take her'; new says 'take them.' JPN is gender-neutral.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 88407,
+    "TextENGNew": "In the end, I couldn't do anything... so I left them there, rolling on the ground in agony, and ran away.",
+    "significantChanges": true,
+    "changeReason": "Old says 'left her there while she was still screaming'; new says 'left them there, rolling on the ground.' JPN says 転げ回る (rolling around), which new captures and old misses.",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 88408,
+    "TextENGNew": "Is that person all right?",
+    "significantChanges": true,
+    "changeReason": "Old adds 'I worried that she had lost her eye' which is not in the JPN. JPN simply says あの人は大丈夫だろうか (Is that person okay?). New is faithful.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 88409,
+    "TextENGNew": "That was all I could think about, going round and round in my head, and I couldn't bring myself to eat.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 88410,
+    "TextENGNew": "...That night, I couldn't sleep, and was racked by a terrible fever.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 88411,
+    "TextENGNew": "In the end, the first thing to punish me for my crime wasn't my parents, or school, or the police... it was my own body.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 88412,
+    "TextENGNew": "It was the boundary between late night and early morning.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 88413,
+    "TextENGNew": "...I woke my parents, who were fast asleep, and confessed my crime.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 88414,
+    "TextENGNew": "At first they were stunned, but given my recent rebellious behavior and my obsession with model guns, they seemed to grasp the situation quickly.",
+    "significantChanges": true,
+    "changeReason": "Old says 'BB guns'; JPN says モデルガン (model guns). New correctly says 'model guns.'",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 88415,
+    "TextENGNew": "My mother wept quietly. My father beat me until my face was swollen.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 88416,
+    "TextENGNew": "In the end, without even waiting for dawn, I went to the police station, accompanied by my parents.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 88417,
+    "TextENGNew": "Satoko was staring at me with a dazed expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 88418,
+    "TextENGNew": "She had every right to look at me that way.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 88419,
+    "TextENGNew": "And I had a sin that I needed to accept the consequences of...",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 88420,
+    "TextENGNew": "``......Is that... really true...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 88421,
+    "TextENGNew": "``Yeah...@k@vS09/01/170100966. It's true.@k@vS09/01/170100967. ...I'm sorry I kept it hidden until now...``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 88422,
+    "TextENGNew": "``...Why would you go out of your way to bring up something like that now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 88423,
+    "TextENGNew": "When Mion said that, Rika-chan nodded along in agreement.",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 88424,
+    "TextENGNew": "``Honestly speaking,@k@vS09/03/170300493. ...my reaction is just, 'Kei-chan, what's gotten into you?'``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I don't understand why' which is truncated; new says 'my reaction is just, Kei-chan, what's gotten into you?' which captures Mion's actual quote from the JPN (圭ちゃん、どうしたのーー).",
+    "changeScore": 3
+  },
+  {
+    "index": 97,
+    "MessageID": 88425,
+    "TextENGNew": "``...Well... yeah, I guess that's fair...``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 88426,
+    "TextENGNew": "``No, that's not what I mean.@k@vS09/03/170300495. ...I'm saying, was there really any need to go out of your way to tell us that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 88427,
+    "TextENGNew": "``Well...@k@vS09/01/170100970. ...Keeping secrets... that's not what friends do.@k@vS09/01/170100971. ...I think of all of you as my friends.@k@vS09/01/170100972. ...So... I just couldn't keep hiding it anymore.``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 88428,
+    "TextENGNew": "``...Keiichi, what exactly are you hoping to accomplish by telling us this?``",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 88429,
+    "TextENGNew": "``I... I'm not hoping for anything in particular.@k@vS09/01/170100974. ...I just...``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 88430,
+    "TextENGNew": "``...Even if you want forgiveness, I can't give it to you.@k@vS09/05/170500173. Only the people you hurt can grant you that.@k@vS09/05/170500174. So I don't know what you expect from us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 88431,
+    "TextENGNew": "``Rika is right.@k@vS09/04/170400124. ...I'll admit it took courage, but... what exactly do you want us to do with this confession?``",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 88432,
+    "TextENGNew": "``...I don't... want anything specific.@k@vS09/01/170100976. ...I just... friends shouldn't have to hide...``",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 88433,
+    "TextENGNew": "My friends met my sudden confession with nothing but uncomfortable expressions.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 88434,
+    "TextENGNew": "I accepted it as the natural consequence of my sins.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 88435,
+    "TextENGNew": "``Hey, Kei-chan.@k@vS09/03/170300498. I've got a question for you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 88436,
+    "TextENGNew": "``...Is it really wrong to keep secrets from your friends?``",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 88437,
+    "TextENGNew": "``Huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 88438,
+    "TextENGNew": "``The way you're framing it, being friends means having no secrets. Is that your argument?``",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 88439,
+    "TextENGNew": "``...This old man doesn't like the sound of that one bit.``",
+    "significantChanges": true,
+    "changeReason": "Old loses Mion's characteristic self-referral as おじさん (old man/uncle); new preserves it as 'This old man,' which is a defining character trait of Mion's speech.",
+    "changeScore": 3
+  },
+  {
+    "index": 112,
+    "MessageID": 88440,
+    "TextENGNew": "``...I don't like it either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 88441,
+    "TextENGNew": "Mion and Rika-chan rejected my premise with absolute clarity.@k Satoko followed suit with a nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 88442,
+    "TextENGNew": "``What's wrong with not saying things you don't want to say?@k@vS09/03/170300503. Everyone has things they don't want to talk about—painful things, sad things, failures, things they'd rather not remember.``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 88443,
+    "TextENGNew": "``If you have to bare all of that to be called friends, then I don't want friends like that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 88444,
+    "TextENGNew": "``...B-But... if you don't, then...``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 88445,
+    "TextENGNew": "``...Keiichi.@k@vS09/05/170500177. Things you don't need to confess and things you must confess are not the same.@k@vS09/05/170500178. Sins must be confessed in order to seek forgiveness.``",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 88446,
+    "TextENGNew": "``But a sin that has already been confessed and forgiven doesn't need to be confessed again.``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 88447,
+    "TextENGNew": "``That's right.@k@vS09/04/170400126. ...After all, Keiichi-san, you went to the police and were properly scolded, were you not?``",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 88448,
+    "TextENGNew": "``If you atoned for it and were forgiven, then that's the end of your sin.``",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 88449,
+    "TextENGNew": "``You turned yourself in and accepted the consequences. That means your duty is done.``",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 88450,
+    "TextENGNew": "``Keeping it engraved in your heart so you never repeat the mistake—that's the right thing to do.``",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 88451,
+    "TextENGNew": "``...But that's something you do privately, as a reminder to yourself. It's not something you have to confess to us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 88452,
+    "TextENGNew": "``Exactly.@k@vS09/04/170400129. I have plenty of embarrassing things from my past that I'd rather keep to myself.``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 88453,
+    "TextENGNew": "``...Mii.@k@vS09/05/170500181. Satoko has lots and lots and lots.``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 88454,
+    "TextENGNew": "``I-It's not just me!!@k@vS09/04/170400131. You too, Rika! You too!``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 88455,
+    "TextENGNew": "``Mii mii mii☆``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 88456,
+    "TextENGNew": "Satoko and Rika-chan played around the way they always did.",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 88457,
+    "TextENGNew": "Watching them, Mion turned back to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 88458,
+    "TextENGNew": "``I think Satoko just said something very wise.@k@vS09/03/170300510. ...Can you tell me which part, Kei-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 88459,
+    "TextENGNew": "``...The part about wanting to keep past things secret...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 88460,
+    "TextENGNew": "``Nope!@k@vS09/03/170300512. The next part.``",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 88461,
+    "TextENGNew": "``The part about everyone having them.@k@vS09/03/170300514. Unless you're a human raised in a sterile test tube, life is nothing but trial and error.``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 88462,
+    "TextENGNew": "``Good things and bad things—you go through all kinds of experiences as you grow. And if you end up a wonderful person at the very end, isn't that enough?``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 88463,
+    "TextENGNew": "``Good things and bad things are all precious experiences.@k@vS09/03/170300517. That's the same for everyone—not just you, Kei-chan, but me, Satoko, and Rika-chan too.@k@vS09/03/170300518. Every single one of us has things we can't be proud of.``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 88464,
+    "TextENGNew": "``...For example, Mii used to be a notorious bad kitty once upon a time.@k@vS09/05/170500184. Nyaa nyaa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 88465,
+    "TextENGNew": "``Heh heh heh!@k@vS09/03/170300520. ...Well, I'd rather not get into it, honestly.@k@vS09/03/170300521. Compared to what I did, ambushing people with a model gun—ahaha—is cute stuff.``",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 88466,
+    "TextENGNew": "``I was throwing bricks at people, seriously.@k@vS09/03/170300523. I can't even count how many times I ended up at the police station.@k@vS09/03/170300524. During the dam war, I even spent some time in a holding cell. No joke.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 88467,
+    "TextENGNew": "``...But that's all in the past.@k@vS09/05/170500186. And she doesn't need to tell Keiichi about it.@k@vS09/05/170500187. Even among friends.``",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 88468,
+    "TextENGNew": "``Even among... friends...``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 88469,
+    "TextENGNew": "``...I, too, have made bitter mistakes and committed sins I could never speak of.@k@vS09/04/170400133. But I don't speak of them because there's nothing to be gained by it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 88470,
+    "TextENGNew": "``If talking about it makes you feel better, we'll listen.@k@vS09/03/170300527. But there is no rule that says friends must confess everything!@k@vS09/03/170300528. If anything, being friends means not forcing someone to say what they don't want to say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 88471,
+    "TextENGNew": "``...Y-Yeah... I suppose you're right, but...``",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 88472,
+    "TextENGNew": "``If confessing makes you feel lighter, Kei-chan, then that's fine.@k@vS09/03/170300530. We'll forget today's talk as soon as we can.@k@vS09/03/170300531. And hearing this doesn't change what Kei-chan means to us one bit.``",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 88473,
+    "TextENGNew": "``...What Keiichi did in his previous town has nothing to do with who Keiichi is now.``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 88474,
+    "TextENGNew": "``If the Keiichi of today is an irreplaceable friend to us, then I have no interest in knowing about the other town.``",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 88475,
+    "TextENGNew": "``Rika is absolutely right.@k@vS09/04/170400135. Conversely, no matter how many good deeds you piled up elsewhere, if you were an unpleasant person here, those good deeds would mean nothing to us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 88476,
+    "TextENGNew": "``So, Kei-chan.@k@vS09/03/170300533. Keeping it close to your heart as a private reminder never to repeat the mistake—isn't that enough? You don't need to go around announcing it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 88477,
+    "TextENGNew": "``In fact, even if you did announce it:@k@vS09/03/170300535. If someone changed the way they saw you because of that, I'd look down on them, not you!``",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 88478,
+    "TextENGNew": "``No matter what your past holds, if who you are now is admirable, what reason is there to be ashamed?``",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 88479,
+    "TextENGNew": "``If past mistakes could never be overcome... then what would any of us be living for?``",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 88480,
+    "TextENGNew": "``...Satoko was terribly spoiled and dependent in the past.@k@vS09/05/170500191. She regrets that, and now she works so very hard every day.``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 88481,
+    "TextENGNew": "``That is why I think the Satoko of today is truly wonderful.@k@vS09/05/170500193. I have no interest in what she used to be.``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 88482,
+    "TextENGNew": "``...Rika...``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 88483,
+    "TextENGNew": "``How about you, Kei-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 88484,
+    "TextENGNew": "``If you found out I was a repeat offender with a police record, would that change the way you see me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 88485,
+    "TextENGNew": "``You wouldn't, right?@k@vS09/03/170300539. I'm me.@k@vS09/03/170300540. We can still goof around and have fun together just the same, can't we?@k@vS09/03/170300541. Nothing changes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 88486,
+    "TextENGNew": "Huh... Huh... What...",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 88487,
+    "TextENGNew": "...Mion's encouraging smile... blurred and warped...",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 88488,
+    "TextENGNew": "From my eyes... large teardrops... fell...",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 88489,
+    "TextENGNew": "...What... How... Why am I... crying...",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 88490,
+    "TextENGNew": "``Let me say this first.@k@vS09/01/170100983. I don't know anything about Satoshi.@k@vS09/01/170100984. ...Because you all hid it from me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 88491,
+    "TextENGNew": "``...W-We weren't exactly hiding...``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 88492,
+    "TextENGNew": "``You hid the annual incidents from me, didn't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 88493,
+    "TextENGNew": "``Oh, that was... because we didn't want Kei-chan to... um...``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 88494,
+    "TextENGNew": "``You didn't want to scare me, is that it?!@k@vS09/01/170100988. And that's reason enough to shut me out?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 88495,
+    "TextENGNew": "``No, that wasn't our intention...``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 88496,
+    "TextENGNew": "Mion's eyes welled up with tears as she floundered for words.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 88497,
+    "TextENGNew": "...She had been considerate for my sake as a friend, and she couldn't understand how it had come to this.",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 88498,
+    "TextENGNew": "She'd wanted to make sure a newcomer like me wouldn't be frightened of the village.@k ...What more reason could anyone need?!",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 88499,
+    "TextENGNew": "``I asked you directly at the dam site whether anything had happened there.@k@vS09/01/170100990. ...And you said nothing had!!!@k@vS09/01/170100992. You liar!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 88500,
+    "TextENGNew": "``I-I'm sorry...!!@k@vS09/03/170300545. I wasn't exactly lying...``",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 88501,
+    "TextENGNew": "``Friends don't keep secrets, right?@k@vS09/01/170100994. Right?!@k@vS09/01/170100995. Then you're not my friends!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 88502,
+    "TextENGNew": "AAAAAHHHHH!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 88503,
+    "TextENGNew": "What does 'friend' even mean?! What does 'friend' mean?! What were my friends to me?!",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 88504,
+    "TextENGNew": "They had been true friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 88505,
+    "TextENGNew": "They had genuinely worried about me.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 88506,
+    "TextENGNew": "They had gone out of their way to help me fit into this village!!",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 88507,
+    "TextENGNew": "What had I been dissatisfied with?!",
+    "significantChanges": true,
+    "changeReason": "Old converts rhetorical question into positive statement 'I couldn't have been happier!' -- loses self-questioning tone.",
+    "changeScore": 4
+  },
+  {
+    "index": 180,
+    "MessageID": 88508,
+    "TextENGNew": "What hadn't I liked?!",
+    "significantChanges": true,
+    "changeReason": "Old converts rhetorical question 'What hadn't I liked?!' into 'Everything was great' -- loses self-recrimination.",
+    "changeScore": 4
+  },
+  {
+    "index": 181,
+    "MessageID": 88509,
+    "TextENGNew": "``K-Kei-chan... That's not...``",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 88510,
+    "TextENGNew": "Mion looked helpless and flustered.",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 88511,
+    "TextENGNew": "She even seemed on the verge of tears.@k ...It was impossible to imagine from her usual self.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 88512,
+    "TextENGNew": "I could feel Mion's pain—the pain of being attacked with words she couldn't understand the reason for...",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 88513,
+    "TextENGNew": "She was looking at me with such sad eyes... How could I not notice that pain?!",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 88514,
+    "TextENGNew": "And yet I had the nerve to talk about friendship!!",
+    "significantChanges": true,
+    "changeReason": "Old says 'I thought I was her friend' (asserting friendship); new correctly conveys self-reproach: 'I had the nerve to talk about friendship' (そのくせ、何が仲間だ = 'and yet, what friendship!').",
+    "changeScore": 3
+  },
+  {
+    "index": 187,
+    "MessageID": 88515,
+    "TextENGNew": "I couldn't understand my friends' feelings! I couldn't trust them!",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 88516,
+    "TextENGNew": "Brandishing the word 'friend' like a weapon... what had I been doing?!",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 88517,
+    "TextENGNew": "``...That's right... I was... scum...!!@k@vS09/01/170100997. Mion was Mion—she'd always been my best friend!!@k@vS09/01/170100998. Why couldn't I trust... the best friend I ever had...?!``",
+    "significantChanges": true,
+    "changeReason": "Old translates 屑 (trash/scum) as 'fool'; new correctly renders it as 'scum,' which carries the much stronger self-loathing in the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 190,
+    "MessageID": 88518,
+    "TextENGNew": "``Hey Kei-chan, you haven't been yourself lately.``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 88519,
+    "TextENGNew": "``He moved here from the city, after all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 88520,
+    "TextENGNew": "``The fatigue is probably just catching up with him now.@k@vS09/02/170201329. I bet that's how he caught his cold.``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 88521,
+    "TextENGNew": "``I see, I see.@k@vS09/03/170300549. Then we need to get some nutrition into him!@k@vS09/03/170300550. Gran's making ohagi today.@k@vS09/03/170300551. Let's bring some to him as a get-well gift!``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 88522,
+    "TextENGNew": "``Mion, wash your hands first!!!@k@vS09/17/172300002. Oh my, Rena-chan, would you like to help make one?``",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 88523,
+    "TextENGNew": "``Oh... Making ohagi looks like fun!``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 88524,
+    "TextENGNew": "``Maybe I'll make just one too.@k@vS09/02/170201332. Heave-ho, heave-ho.``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 88525,
+    "TextENGNew": "``Heh heh heh!@k@vS09/03/170300553. I know—I just had a great idea.``",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 88526,
+    "TextENGNew": "``What is it, Mii-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 88527,
+    "TextENGNew": "``...Ooh, what's that little bottle?``",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 88528,
+    "TextENGNew": "``All sweet ohagi would be boring, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 88529,
+    "TextENGNew": "``Heh heh heh, I'll put Tabasco sauce in one of them—critical hit style!``",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 88530,
+    "TextENGNew": "That's right... That's what happened...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 88531,
+    "TextENGNew": "They came to visit me when I was sick... bringing ohagi... trying to cheer me up!!",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 88532,
+    "TextENGNew": "So... why was I afraid of that?!",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 88533,
+    "TextENGNew": "Just because Mion somehow knew I'd been eating at Angel Mort—why was I so terrified of that?!",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 88534,
+    "TextENGNew": "``...Keiichi-kun, you don't look well.@k@vS09/02/170201336. I think you should lie down.``",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 88535,
+    "TextENGNew": "``She's right.@k@vS09/03/170300557. We should head home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 88536,
+    "TextENGNew": "They were just teasing me to lift my spirits.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 88537,
+    "TextENGNew": "But... I was taking it so seriously that they must have seen it on my face...",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 88538,
+    "TextENGNew": "``See you, Kei-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 88539,
+    "TextENGNew": "Get well soon.@k Let's all play at the club together tomorrow!",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 88540,
+    "TextENGNew": "Of course that's how they'd say goodbye...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 88541,
+    "TextENGNew": "``Don't you dare skip school tomorrow, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 88542,
+    "TextENGNew": "...Had I ever visited a classmate who was home sick with a cold?",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 88543,
+    "TextENGNew": "Never, right?!",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 88544,
+    "TextENGNew": "I'd never bothered to do something that inconvenient—not even once!",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 88545,
+    "TextENGNew": "But... they did it for me!",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 88546,
+    "TextENGNew": "It wasn't even a hospital stay—I'd just caught a little cold!",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 88547,
+    "TextENGNew": "And they came all the way to visit, bringing homemade ohagi...!",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 88548,
+    "TextENGNew": "I should have been grateful—I should have said I'd get better by tomorrow and come to school!!",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 88549,
+    "TextENGNew": "I should have answered, see you tomorrow at school!—that's what I should have said!!",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 88550,
+    "TextENGNew": "So what did I actually do?!",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 88551,
+    "TextENGNew": "I locked the door!!",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 88552,
+    "TextENGNew": "As if rejecting those two... I shut the door and locked it!!",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 88553,
+    "TextENGNew": "What was I afraid of?! What was I scared of?!",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 88554,
+    "TextENGNew": "Why couldn't I feel gratitude toward the friends who cared about me?!",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 88555,
+    "TextENGNew": "Why was I so afraid of the ohagi?!",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 88556,
+    "TextENGNew": "There couldn't have been... anything in them!!",
+    "significantChanges": true,
+    "changeReason": "Old says 'What was I thinking?!' but Japanese means 'There couldn't have been anything in them!!' -- about the ohagi.",
+    "changeScore": 4
+  },
+  {
+    "index": 229,
+    "MessageID": 88557,
+    "TextENGNew": "There were never any needles in the ohagi!!",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 88558,
+    "TextENGNew": "Nothing was in them—nothing at all!!",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 88559,
+    "TextENGNew": "I'd just remembered some scene from a manga or something, where someone put razor blades or sewing needles in food—",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 88560,
+    "TextENGNew": "...and once the thought crossed my mind that something like that might be inside... for some reason... I became convinced it was actually there...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 88561,
+    "TextENGNew": "You idiot, Keiichi!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 88562,
+    "TextENGNew": "Why would friends put needles in food they brought to a sick friend?!",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 88563,
+    "TextENGNew": "That's the most impossible thing in the world!!",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 88564,
+    "TextENGNew": "Even hypothetically!@k Even if there really had been a needle, any real friend would believe it was an accident and trust in their innocence!!!@k And what did I do instead?!",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 88565,
+    "TextENGNew": "SPLAT!",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 88566,
+    "TextENGNew": "SPLAT!!",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 88567,
+    "TextENGNew": "SPLAT!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 88568,
+    "TextENGNew": "One after another, with all my strength... I hurled the ohagi they'd put their hearts into making—and desecrated them!!",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 88569,
+    "TextENGNew": "Why?!@k How could I?!",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 88570,
+    "TextENGNew": "I had loved them—all of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 88571,
+    "TextENGNew": "Moving to Hinamizawa was the first time I'd ever found real friends.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 88572,
+    "TextENGNew": "They were the best companions I could have asked for.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 88573,
+    "TextENGNew": "The kind of encounter you might go your entire life without having—the very best.",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 88574,
+    "TextENGNew": "I knew that—and yet... how did I end up fearing and suspecting them?!",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 88575,
+    "TextENGNew": "My friends had... gradually noticed something was wrong with me.",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 88576,
+    "TextENGNew": "...That's right—they called the coach for me.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 88577,
+    "TextENGNew": "They thought maybe a sedative and some rest would fix me... and they carried me to my room.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 88578,
+    "TextENGNew": "Mion had wanted to play a little prank.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 88579,
+    "TextENGNew": "Mion was the type who expressed affection through mischief—a bit of a contrarian, that was all.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 88580,
+    "TextENGNew": "I knew that perfectly well...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 88581,
+    "TextENGNew": "So... she anticipated that when the coach arrived, he'd lift my shirt to use a stethoscope,@k ...and she wanted to doodle on it first—the same penalty game as Tomitake-san's...!",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 88582,
+    "TextENGNew": "That's right... that's why Mion... pulled out a marker.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 88583,
+    "TextENGNew": "A marker.",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 88584,
+    "TextENGNew": "...She'd thought up that stupid little prank and gone out of her way to bring a marker from home.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 88585,
+    "TextENGNew": "She didn't think she was cut out for bedside nursing, so she tried to cheer me up with a penalty game instead... and she'd brought the marker specifically for that...!",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 88586,
+    "TextENGNew": "All of it—just to cheer me up...!",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 88587,
+    "TextENGNew": "Rena held me from behind... Mion came close... and she... what was she going to write...?",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 88588,
+    "TextENGNew": "Mion... she was... mouthing the words... as she prepared to write on my shirt...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 88589,
+    "TextENGNew": "I... heard her.@k ...I was listening.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 88590,
+    "TextENGNew": "What Mion was going to scribble on me... it had reached my ears...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 88591,
+    "TextENGNew": "Get well soon☆ —Mion",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 88592,
+    "TextENGNew": "I heard it—I heard it, and yet...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 88593,
+    "TextENGNew": "If I could hear it... then I should have known immediately that Mion would never do anything to harm me!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 88594,
+    "TextENGNew": "So why—why did I—!!",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 88595,
+    "TextENGNew": "How did that look like a syringe to me?!",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 88596,
+    "TextENGNew": "How could I have believed Mion was trying to kill me?!",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 88597,
+    "TextENGNew": "It's impossible! It's impossible!!",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 88598,
+    "TextENGNew": "Why, why, why, why!!",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 88599,
+    "TextENGNew": "How... how could I have made such an insane mistake... believing Mion was out for my life?!",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 88600,
+    "TextENGNew": "The ringing numbness in my head cleared, and I could feel warmth slowly returning to my entire body.",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 88601,
+    "TextENGNew": "How long... had I been curled up here...?@k Minutes?@k Or tens of minutes...?",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 88602,
+    "TextENGNew": "...When I looked up at the clock, the hands seemed as though they had stopped completely during the time my eyes were closed—they had barely moved at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 88603,
+    "TextENGNew": "...Really?",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 88604,
+    "TextENGNew": "The air filling the room now was not the chaos that had consumed it moments before... it held only gray silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 88605,
+    "TextENGNew": "Rena, who should have been restraining me, was gone. Mion, who had been bearing down on me with the injection, was gone.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Rena wasn't holding me down, Mion wasn't about to give me an injection'; new correctly adds that they were 'gone' (いなかった), emphasizing they had vanished from the room.",
+    "changeScore": 3
+  },
+  {
+    "index": 278,
+    "MessageID": 88606,
+    "TextENGNew": "...Could it all have been... some kind of... hallucination?!",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 88607,
+    "TextENGNew": "There was no trace of anyone else in the room...",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 88608,
+    "TextENGNew": "An abnormal experience unlike anything I'd ever known.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 88609,
+    "TextENGNew": "...I was certain... Rena and Mion had...",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 88610,
+    "TextENGNew": "I doubted my own sanity for a moment, but at the same time I felt a strange relief.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 88611,
+    "TextENGNew": "Ha ha ha... So those terrifying events really were... just a hallucination.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 88612,
+    "TextENGNew": "Rena and Mion... would never do something so terrible...",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 88613,
+    "TextENGNew": "The corners of my eyes... grew hot.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 88614,
+    "TextENGNew": "I could feel emotion welling up...",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 88615,
+    "TextENGNew": "Why...?",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 88616,
+    "TextENGNew": "I wasn't asking why tears were coming.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 88617,
+    "TextENGNew": "Why...?",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 88618,
+    "TextENGNew": "...It was... grief.",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 88619,
+    "TextENGNew": "...Why was I feeling such grief...?@k I didn't understand.@k ...I didn't understand...",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 88620,
+    "TextENGNew": "I didn't understand?",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 88621,
+    "TextENGNew": "What don't I understand?!@k I understood perfectly!!",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 88622,
+    "TextENGNew": "What was I doing—was I stupid?!",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 88623,
+    "TextENGNew": "Why was I such a hopelessly unsalvageable piece of trash?!",
+    "significantChanges": true,
+    "changeReason": "Old softens to 'pathetic and helpless'; new correctly translates クズ as 'trash' and preserves 救えない (unsalvageable), matching the intense self-loathing in the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 296,
+    "MessageID": 88624,
+    "TextENGNew": "Mion had been trying to cheer me up until the very end!",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 88625,
+    "TextENGNew": "She was dear to me, she was my best friend, she was the greatest companion I ever had!",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 88626,
+    "TextENGNew": "She was older than me, but she'd never once made me feel the difference!",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 88627,
+    "TextENGNew": "...She was the very first person in the class to talk to me.@k And Mion—that Mion—how could I?!",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 88628,
+    "TextENGNew": "And there she was, lying in an unnatural position by the window.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 88629,
+    "TextENGNew": "...Dark, sticky red covered her from head to chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 88630,
+    "TextENGNew": "The red splattered across the wall... had come from the head I had battered and cracked open, again and again and again.",
+    "significantChanges": true,
+    "changeReason": "Old merely says 'The red fluid... was Mion's'; new includes the graphic detail of repeated bludgeoning (俺が何度も何度も打ち付けて叩き割った頭から), significantly changing the reader's understanding of the violence.",
+    "changeScore": 3
+  },
+  {
+    "index": 303,
+    "MessageID": 88631,
+    "TextENGNew": "What had I done... what had I done...?!@k I had done something... irreversible...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 88632,
+    "TextENGNew": "``I... truly believed they were my friends...``",
+    "significantChanges": true,
+    "changeReason": "Old addresses present company ('you all'); new reflects on the past ('they were my friends'), matching the JPN past tense and context of remembering another world.",
+    "changeScore": 3
+  },
+  {
+    "index": 305,
+    "MessageID": 88633,
+    "TextENGNew": "So how... how did it come to this...?",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 88634,
+    "TextENGNew": "Nothing at my previous school had been fun.",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 88635,
+    "TextENGNew": "...All I did was obsess over the rise and fall of my test scores, debating whether my first choice was in my range or my safety zone...@k ...A gray existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 88636,
+    "TextENGNew": "``Friends`` were just study rivals in class—enemies competing over school rankings and internal test scores.",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 88637,
+    "TextENGNew": "The ones who taught me how unhealthy that life was... were them.",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 88638,
+    "TextENGNew": "This past month had been truly wonderful...",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 88639,
+    "TextENGNew": "We'd made a huge fuss over lunches, made a huge fuss at club activities, made a huge fuss at the festival...",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 88640,
+    "TextENGNew": "Something hot began pouring from my eyes.@k ...Before I knew it... they were tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 88641,
+    "TextENGNew": "I had no reason to shed tears for these people.@k ...But I couldn't stop them...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 88642,
+    "TextENGNew": "Even if they'd been trying to kill me.",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 88643,
+    "TextENGNew": "Even if I'd nearly been murdered.",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 88644,
+    "TextENGNew": "...The memories of this past month... were unforgettable...",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 88645,
+    "TextENGNew": "Or... had those happy days... been a lie...?",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 88646,
+    "TextENGNew": "Had it all been... an elaborate trap, carefully maintained until today to ensnare me...?",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 88647,
+    "TextENGNew": "Had I been the only one who thought we were friends...?",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 88648,
+    "TextENGNew": "That couldn't be true...!!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 88649,
+    "TextENGNew": "Rena and Mion... were truly my friends!!",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 88650,
+    "TextENGNew": "Not a single cloud or falsehood tainted those happy days...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 88651,
+    "TextENGNew": "Rena and the others... must have been forced by someone to try to kill me.",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 88652,
+    "TextENGNew": "Or perhaps... they had been possessed by the supernatural entity called Oyashiro-sama, their wills hijacked!",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 88653,
+    "TextENGNew": "In any case... Rena and Mion... were the best friends I ever had!!",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 88654,
+    "TextENGNew": "You IDIOT!!",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 88655,
+    "TextENGNew": "Idiot, idiot, idiot, idiot!",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 88656,
+    "TextENGNew": "What kind of nonsense am I spouting?!@k I beat the best friend I ever had to death with my own hands—and now I'm running my mouth about it?!",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 88657,
+    "TextENGNew": "She was the greatest friend, the greatest companion!!",
+    "significantChanges": true,
+    "changeReason": "Old generalizes to plural 'They were my best friends'; new correctly narrows to singular 'She was the greatest friend,' matching context where Keiichi is specifically lamenting what he did to Mion.",
+    "changeScore": 3
+  },
+  {
+    "index": 330,
+    "MessageID": 88658,
+    "TextENGNew": "Then why couldn't I believe her?!",
+    "significantChanges": true,
+    "changeReason": "Old uses plural 'them'; new correctly uses singular 'her' (Mion), matching the passage's focus on Mion specifically.",
+    "changeScore": 3
+  },
+  {
+    "index": 331,
+    "MessageID": 88659,
+    "TextENGNew": "Why couldn't I listen to her words?!",
+    "significantChanges": true,
+    "changeReason": "Old uses plural 'them'; new correctly uses singular 'her words,' continuing the Mion-specific focus.",
+    "changeScore": 3
+  },
+  {
+    "index": 332,
+    "MessageID": 88660,
+    "TextENGNew": "And after beating her to death, who do I think I am?!",
+    "significantChanges": true,
+    "changeReason": "Old says 'I beat them to death' (plural); new correctly says 'beating her to death' (singular). In this arc context, Keiichi killed Mion specifically.",
+    "changeScore": 3
+  },
+  {
+    "index": 333,
+    "MessageID": 88661,
+    "TextENGNew": "Acting as though I bore no fault at all?!",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 88662,
+    "TextENGNew": "Feeling as if everyone else in the world had gone mad?",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 88663,
+    "TextENGNew": "You fool—it was the opposite!!",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 88664,
+    "TextENGNew": "Of course it was the opposite!!@k The only one who'd gone mad was me!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 88665,
+    "TextENGNew": "``...K-Kei-chan...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 88666,
+    "TextENGNew": "``I... I... What have I done...@k@vS09/01/170101002. ...What have I... ahhhhh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 88667,
+    "TextENGNew": "Mion is alive, right here, right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 88668,
+    "TextENGNew": "...So my memory of beating Mion to death in a fit of paranoia must belong to ``another world that never was.``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 88669,
+    "TextENGNew": "But... even if it was another world... I killed Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 88670,
+    "TextENGNew": "And I hadn't even been aware of the gravity of that sin.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 88671,
+    "TextENGNew": "Worse still, until this very moment, I had blithely assumed Mion had deserved what I did to her!!",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 88672,
+    "TextENGNew": "``Wh-What's wrong... Keiichi-san...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 88673,
+    "TextENGNew": "``I don't know...@k@vS09/03/170300562. Kei-chan, calm down, calm down...@k@vS09/03/170300563. I'm alive, see?``",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 88674,
+    "TextENGNew": "``Like I'd let Kei-chan beat me to death—as if!``",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 88675,
+    "TextENGNew": "``Right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 88676,
+    "TextENGNew": "``Precisely.@k@vS09/04/170400141. No member of our club would ever fall behind against the likes of Keiichi-san!``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 88677,
+    "TextENGNew": "``No, that's not it... That's not it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 88678,
+    "TextENGNew": "Neither Mion nor Satoko understood why I had suddenly burst into tears, and they were bewildered.",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 88679,
+    "TextENGNew": "But... all I could do was cry.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 88680,
+    "TextENGNew": "I had just learned that sins must be confessed to earn forgiveness.",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 88681,
+    "TextENGNew": "...But this sin of mine... was one this Mion could never forgive...",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 88682,
+    "TextENGNew": "No matter how much I cried in ``this world``... no one could forgive me.@k This sin would never, ever be absolved...",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 88683,
+    "TextENGNew": "Just then, Chie-sensei arrived and noticed I was crying.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 88684,
+    "TextENGNew": "...It's not every day you see a boy my age in tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 88685,
+    "TextENGNew": "Chie-sensei asked what had happened, but her voice didn't reach me.",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 88686,
+    "TextENGNew": "Mion and Satoko were questioned about the situation, and they seemed at a loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 88687,
+    "TextENGNew": "As my tears refused to stop, Rika-chan brought her face close to mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 88688,
+    "TextENGNew": "``...Keiichi... do you remember?@k@vS09/05/170500195. ...That you killed... Rena and Mii?``",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 88689,
+    "TextENGNew": "``Yes!!@k@vS09/01/170101005. I... killed them!!@k@vS09/01/170101006. I killed them!!@k@vS09/01/170101007. And yet, I felt no remorse at all... not the slightest...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 88690,
+    "TextENGNew": "``There was blood everywhere... and then... and then...@k@vS09/01/170101010. In the end, without a shred of regret... alone... I just... died...``",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 88691,
+    "TextENGNew": "In a phone booth, clawing at my unbearably itchy throat,@k ...still oblivious to my own sin,@k ...dying alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 88692,
+    "TextENGNew": "``...Keiichi.@k@vS09/05/170500197. ...Have you... become aware of your sin?``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 88693,
+    "TextENGNew": "``I have.@k@vS09/01/170101012. Only now, this late—I finally realized it, remembered it!!@k@vS09/01/170101013. In another world, very much like this one!@k@vS09/01/170101014. I killed my friends!``",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 88694,
+    "TextENGNew": "``My friends must have been calling out to me with words of salvation!@k@vS09/01/170101016. Why couldn't I hear them?@k@vS09/01/170101017. Why?!@k@vS09/01/170101018. Why couldn't I have trusted them?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 88695,
+    "TextENGNew": "I no longer cared who was watching.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 88696,
+    "TextENGNew": "...I simply wept.@k I wanted to wring my sins out through my tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 88697,
+    "TextENGNew": "But what came out wasn't sin.",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 88698,
+    "TextENGNew": "...Only tears of remorse for something irretrievable and irreversible.",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 88699,
+    "TextENGNew": "Then.@k ...A touch on my head. A gentle stroking.",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 88700,
+    "TextENGNew": "...When I opened my eyes, Rika-chan was patting my head with the palm of her hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 88701,
+    "TextENGNew": "...I didn't need comfort.",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 88702,
+    "TextENGNew": "There was no way Rika-chan could comfort me.",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 88703,
+    "TextENGNew": "But Rika-chan spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 88704,
+    "TextENGNew": "...This was not comfort.",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 88705,
+    "TextENGNew": "``...I shall forgive Keiichi.``",
+    "significantChanges": true,
+    "changeReason": "Old has Rika say 'I forgive you' in direct address; new says 'I shall forgive Keiichi' preserving the third-person reference (圭一を、許しましょう) characteristic of Rika's speech pattern.",
+    "changeScore": 3
+  },
+  {
+    "index": 378,
+    "MessageID": 88706,
+    "TextENGNew": "``...What...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 88707,
+    "TextENGNew": "``...Keiichi became aware of his own sin, all by himself.@k@vS09/05/170500200. That is... very admirable, and... something that should not be possible.``",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 88708,
+    "TextENGNew": "``And so no one else can understand how remarkable that is, and no one else can grant you forgiveness for it.@k@vS09/05/170500202. ...But I can.@k@vS09/05/170500203. I will forgive you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 88709,
+    "TextENGNew": "``...Rika-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 88710,
+    "TextENGNew": "``...I know that this is a miracle.@k@vS09/05/170500205. Because it should be impossible.@k@vS09/05/170500206. That you... could become aware of your other self's sin... is nothing short of miraculous.``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 88711,
+    "TextENGNew": "``It is something that would eclipse any miracle ever made manifest upon this earth... something unbelievably precious.``",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 88712,
+    "TextENGNew": "I couldn't begin to understand what Rika-chan was saying.",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 88713,
+    "TextENGNew": "...And yet... I felt that Rika-chan alone could understand this impossible memory of mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 88714,
+    "TextENGNew": "``...Then.@k@vS09/05/170500210. You, as you are now, should be able to understand.@k@vS09/05/170500211. ...What is happening to Ryuugu Rena.``",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 88715,
+    "TextENGNew": "``Yeah... I understand...@k@vS09/01/170101022. She's going through the same thing I did...!!@k@vS09/01/170101023. She wants so desperately to believe in her friends, but she can't!!@k@vS09/01/170101024. All she can do is keep doubting and doubting!``",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 88716,
+    "TextENGNew": "``She keeps getting more and more deranged, but she can't see it—so she's convinced it's the world that's gone mad!!@k@vS09/01/170101026. I don't know how to save her!!@k@vS09/01/170101027. Because I couldn't even save myself!``",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 88717,
+    "TextENGNew": "``Because... I failed!!@k@vS09/01/170101029. In the end, I never realized—not until I died!@k@vS09/01/170101030. No—not even after dying!!@k@vS09/01/170101031. If I failed, then how could I possibly save Rena?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 88718,
+    "TextENGNew": "``I know because I went through the same thing...@k@vS09/01/170101034. No matter what you do, it's impossible to save them...``",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 88719,
+    "TextENGNew": "...Calm down, Keiichi...",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 88720,
+    "TextENGNew": "Sure, I was beyond saving.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 88721,
+    "TextENGNew": "...But that doesn't necessarily mean Rena is too...?",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 88722,
+    "TextENGNew": "Just because it seems hopeless doesn't mean you can give up on saving her.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 88723,
+    "TextENGNew": "...What about Rena?",
+    "significantChanges": false
+  },
+  {
+    "index": 396,
+    "MessageID": 88724,
+    "TextENGNew": "Even when I'd deteriorated to that terminal state of madness... she threw herself bodily at me, trying to save me with everything she had!!",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 88725,
+    "TextENGNew": "In my room, in that other world... beaten again and again with a metal bat...!",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 88726,
+    "TextENGNew": "And still, Rena smiled.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 88727,
+    "TextENGNew": "She knew I was terrified... so she smiled, to keep me from being afraid.",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 88728,
+    "TextENGNew": "And even after I'd struck her over and over, even with her arms mangled and her forehead split open...",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 88729,
+    "TextENGNew": "That's right... at the very, very end.@k ...Rena stopped shielding her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 88730,
+    "TextENGNew": "Like this... both hands reaching out... searching for someone to embrace... like this...",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 88731,
+    "TextENGNew": "And still unable to trust Rena, I... raised the metal bat high.",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 88732,
+    "TextENGNew": "Rena spoke.",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 88733,
+    "TextENGNew": "It's okay.",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 88734,
+    "TextENGNew": "``...Believe in me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 88735,
+    "TextENGNew": "AAAAHHHHH!!",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 88736,
+    "TextENGNew": "My friend told me to believe!!@k She told me to believe in her!",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 88737,
+    "TextENGNew": "How could I not believe her?! I was the one who'd lost his mind and was attacking her!!",
+    "significantChanges": true,
+    "changeReason": "Old says 'I still didn't [believe]. I lost it and attacked her'; new correctly captures the self-questioning 'How could I not believe her?!' and the recognition that Keiichi was the deranged one, matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 410,
+    "MessageID": 88738,
+    "TextENGNew": "Her life was in danger—and in fact, she was killed!!",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 88739,
+    "TextENGNew": "And yet, instead of shielding her head, she held out both hands... reaching for me...!",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 88740,
+    "TextENGNew": "Rena kept saying those words until the moment she died.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 88741,
+    "TextENGNew": "Believe in me.@k Please—believe in me.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 88742,
+    "TextENGNew": "She had staked her life on saving me—on shaking me awake!!",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 88743,
+    "TextENGNew": "Until the very moment her life was taken... she kept saying ``believe``...",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 88744,
+    "TextENGNew": "And I couldn't hear my friend's words, and until this very moment, I had honestly believed I was blameless!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 88745,
+    "TextENGNew": "``...Having Rika-chan forgive me lightened my heart a little.@k@vS09/01/170101036. ...But my sin still has to be destroyed in the same form it took.@k@vS09/01/170101037. I have to repay Rena what she gave.``",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 88746,
+    "TextENGNew": "Rena staked her life!!",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 88747,
+    "TextENGNew": "She worried about me until the moment she died!",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 88748,
+    "TextENGNew": "She believed!!",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 88749,
+    "TextENGNew": "She believed that the next words would be the ones to reach me, and she said them over and over!!@k Until the very last moment when her skull was split open!!",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 88750,
+    "TextENGNew": "My life is nothing to mourn...",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 88751,
+    "TextENGNew": "Rena proved it by dying!!",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 88752,
+    "TextENGNew": "I can offer my life just as easily!!",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 88753,
+    "TextENGNew": "I was a worthless fool who couldn't understand his friends' feelings, and that's why their words never reached me.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 88754,
+    "TextENGNew": "...But Rena... Rena might be able to reach her...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 88755,
+    "TextENGNew": "``...This world has already gone mad.@k@vS09/01/170101039. But that doesn't mean we should give up.@k@vS09/01/170101040. ...Giving up means it's truly over!``",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 88756,
+    "TextENGNew": "``I'll believe in Rena—in the bond between friends.@k@vS09/01/170101042. ...It's not too late.@k@vS09/01/170101043. The tragedy can still be averted.@k@vS09/01/170101044. I'll prove it!``",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 88757,
+    "TextENGNew": "``...............``",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 88758,
+    "TextENGNew": "Rika-chan looked down solemnly, her fingers toying with something in her skirt pocket.",
+    "significantChanges": true,
+    "changeReason": "Old says Rika 'nodded'; JPN says 俯く (looked down). Also old says 'put her hand in the pocket' while new more accurately says 'fingers toying with something,' matching いじるような仕草.",
+    "changeScore": 3
+  },
+  {
+    "index": 431,
+    "MessageID": 88759,
+    "TextENGNew": "``...Keiichi.@k@vS09/05/170500214. ...I, too... will not give up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 88760,
+    "TextENGNew": "``...I refuse to lose hope in this world.@k@vS09/05/170500216. ...I was exhausted from countless failures.@k@vS09/05/170500217. So I had resigned myself to things going wrong.``",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 88761,
+    "TextENGNew": "``That's why... last night, I told myself I didn't care what happened to Rena anymore.@k@vS09/05/170500219. But... that was wrong.``",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 88762,
+    "TextENGNew": "``...The will to fight is so beautiful, so sacred... and it can work miracles that bend even fate itself.``",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 88763,
+    "TextENGNew": "``So I will fight alongside you.@k@vS09/05/170500222. I will fight once more,@k@vS09/05/170500223. I will fight as many times as it takes.@k@vS09/05/170500224. Until I find the future that waits beyond.``",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 88764,
+    "TextENGNew": "``...I... I haven't the faintest idea what you and Keiichi-san are talking about.``",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 88765,
+    "TextENGNew": "``Hee hee...@k@vS09/05/170500226. ...It's only natural that you don't remember.@k@vS09/05/170500227. ...Keiichi is simply... extraordinary.``",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 88766,
+    "TextENGNew": "``???@k@vS09/04/170400144. My superior intellect simply cannot follow this conversation.``",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 88767,
+    "TextENGNew": "Rika-chan gave Satoko a gentle headbutt.",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 88768,
+    "TextENGNew": "``...But someday, please remember.@k@vS09/05/170500229. That when you were trapped in an inescapable cul-de-sac of misfortune... Keiichi fought with everything he had to save you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 88769,
+    "TextENGNew": "``Keiichi-san... did that?@k@vS09/04/170400146. That sounds rather dubious, I must say...``",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 88770,
+    "TextENGNew": "``Hee hee.@k@vS09/05/170500231. ...Right, Keiichi?``",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 88771,
+    "TextENGNew": "Rika-chan looked at me and smiled, as if seeking my agreement.",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 88772,
+    "TextENGNew": "...I wasn't sure if I'd stake my life for Satoko specifically, but...",
+    "significantChanges": false
+  },
+  {
+    "index": 445,
+    "MessageID": 88773,
+    "TextENGNew": "...No—I would.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 88774,
+    "TextENGNew": "Satoko is my friend.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 88775,
+    "TextENGNew": "If an enemy appeared that tried to plunge Satoko into the depths of misery, I would crush that enemy without mercy.",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 88776,
+    "TextENGNew": "With everything I had!",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 88777,
+    "TextENGNew": "...There might have been... a world like that, too...",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 88778,
+    "TextENGNew": "So I nodded back to Rika-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 88779,
+    "TextENGNew": "Rika-chan saw it and nodded happily in return.",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 88780,
+    "TextENGNew": "``...Maebara-kun... did something happen...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 88781,
+    "TextENGNew": "The teacher must have thought I'd finally calmed down, because she came over to ask what was wrong.",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 88782,
+    "TextENGNew": "``No... it's nothing.@k@vS09/01/170101048. I'm sorry for the disturbance.@k@vS09/01/170101049. ...Anyway... Mion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 88783,
+    "TextENGNew": "``...Hm?@k@vS09/03/170300567. Wh-What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 88784,
+    "TextENGNew": "I walked straight up to Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 88785,
+    "TextENGNew": "Not understanding what was happening, Mion backed away until she bumped into the blackboard.",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 88786,
+    "TextENGNew": "``Wh-What is it, Kei-chan...?@k@vS09/03/170300569. ...Why the serious face...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 88787,
+    "TextENGNew": "``...Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 88788,
+    "TextENGNew": "I embraced Mion.",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 88789,
+    "TextENGNew": "She had no idea what was happening, and could only stand there, face burning red, at a complete loss for words.",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 88790,
+    "TextENGNew": "On Mion's shoulder... I spoke through my tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 88791,
+    "TextENGNew": "``...I'm sorry... I'm truly sorry...``",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 88792,
+    "TextENGNew": "``Wh-wh-what for, Kei-chan... Um, uh, I really don't know what you're talking about...``",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 88793,
+    "TextENGNew": "``...You don't have to understand... It's fine if you don't...@k@vS09/01/170101052. ...You don't have to understand... just listen...``",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 88794,
+    "TextENGNew": "``...I'm truly sorry... And... the ohagi...@k@vS09/01/170101054. ...They were delicious... They were really, truly delicious...@k@vS09/01/170101055. They gave me strength.``",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 88795,
+    "TextENGNew": "``...So... I should have gone back to school the next day... and said, see you tomorrow at school... I couldn't say that...@k@vS09/01/170101057. ...I'm sorry... for taking so long to say... thank you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 88796,
+    "TextENGNew": "``I will never—never again doubt Mion, or any of my friends!!@k@vS09/01/170101059. Never!!@k@vS09/01/170101060. Never again, absolutely!!@k@vS09/01/170101061. I swear it!``",
+    "significantChanges": true,
+    "changeReason": "Old includes Keiichi's plea 'So Mion... please forgive me for what I did that day' (matching JPN どうか許してくれ); new replaces this with 'I swear it!' — omitting the crucial forgiveness plea.",
+    "changeScore": 3
+  },
+  {
+    "index": 469,
+    "MessageID": 88797,
+    "TextENGNew": "Mion couldn't have understood what I was talking about.",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 88798,
+    "TextENGNew": "Of course... even I...",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 88799,
+    "TextENGNew": "...was starting to lose track of what I was saying.",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 88800,
+    "TextENGNew": "But I bore an unabsolved sin.",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 88801,
+    "TextENGNew": "So I had to confess it and beg for forgiveness.",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 88802,
+    "TextENGNew": "``I know what Mion risked for me...@k@vS09/01/170101063. So... if the day ever comes when misfortune finds you, I will stake my life to save you.@k@vS09/01/170101064. I swear it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 88803,
+    "TextENGNew": "``K-Kei-chan...?@k@vS09/03/170300573. Ha, ha ha, this is... embarrassing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 88804,
+    "TextENGNew": "Mion, blushing and bewildered, had no idea what was happening.",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 88805,
+    "TextENGNew": "Satoko was equally red-faced, question marks written plainly across her expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 88806,
+    "TextENGNew": "But Rika-chan and I alone understood everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 88807,
+    "TextENGNew": "I refuse to accept the tragedy...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 88808,
+    "TextENGNew": "There's no such thing as a point of no return once the world begins to change!",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 88809,
+    "TextENGNew": "I will defy fate until the very last moment!",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 88810,
+    "TextENGNew": "Mion fought back too.@k Rena fought back too.",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 88811,
+    "TextENGNew": "So... I will save Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 88812,
+    "TextENGNew": "Just as she did for me... I'll stake my life on it.",
+    "significantChanges": false
+  }
+]

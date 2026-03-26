@@ -1,0 +1,812 @@
+[
+  {
+    "index": 1,
+    "MessageID": 6143,
+    "TextENGNew": "The village was in an uproar.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 6144,
+    "TextENGNew": "Because the fourth mysterious death—which everyone had expected to occur—had indeed come to pass.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 6145,
+    "TextENGNew": "The one killed was... Satoko-chan's aunt.",
+    "significantChanges": true,
+    "changeReason": "New translation restructures sentence to match Japanese structure ('The one killed was... Satoko-chan's aunt'), revealing identity last for dramatic effect, vs original which leads with the name.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 6146,
+    "TextENGNew": "The villagers, while maintaining a show of gravity, seemed to feel a certain satisfaction at the curse falling upon the aunt who had been causing so much trouble with her hysterical behavior.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the Japanese nuance of villagers feeling satisfaction 'while maintaining a show of gravity' (不謹慎ながら), which the original omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 6147,
+    "TextENGNew": "But I alone had realized the truth immediately.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'I alone' and 'immediately' (すぐに/私だけが) from the Japanese, specifying that only the narrator realized the truth instantly, vs original's vaguer 'But I know the truth.'",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 6148,
+    "TextENGNew": "That night, when I was called to the crime scene by the police and saw the aunt's battered body, I was certain... it was Satoshi-kun's doing...",
+    "significantChanges": true,
+    "changeReason": "New translation adds details from Japanese: being called to the crime scene by police (警察に事件現場に呼ばれて), seeing specifically the aunt's body, matching the original's sequence of events more closely.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 6149,
+    "TextENGNew": "The aunt's abuse of Satoko-chan had been growing steadily worse.",
+    "significantChanges": true,
+    "changeReason": "New translation attributes the abuse to the aunt specifically (叔母への苛め), while original uses 'Her' which could be ambiguous in context.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 6150,
+    "TextENGNew": "And Satoshi-kun had been agonizing over how to save his sister.",
+    "significantChanges": true,
+    "changeReason": "New translation captures 'agonizing over how to save' (救いたいと悩む) vs original's simpler 'wanted to protect,' changing the emotional nuance from desire to tortured deliberation.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 6151,
+    "TextENGNew": "And then there was the bat he had taken home...",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the Japanese trailing off tone ('And then there was the bat he had taken home...') vs original's declarative 'So he brought home a baseball bat,' changing implication from active intent to ominous observation.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 6152,
+    "TextENGNew": "All the pieces fit together perfectly.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 6153,
+    "TextENGNew": "I did not even need to hear it from Satoshi-kun's own lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 6154,
+    "TextENGNew": "...Yet I could not stop questioning myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 6155,
+    "TextENGNew": "I had meant to be their ally—the one person on the side of the Houjou siblings, who had no one else.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 6156,
+    "TextENGNew": "...In the end, I had failed to be any help to them at all...",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 6157,
+    "TextENGNew": "In the midst of all this, I received a phone call from Satoshi-kun.",
+    "significantChanges": true,
+    "changeReason": "New translation accurately reflects 'In the midst of all this, I received a phone call from Satoshi-kun' (そんな中) providing context the original omits ('The phone rang. It was Satoshi-kun.').",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 6158,
+    "TextENGNew": "He had never called me before.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 6159,
+    "TextENGNew": "What on earth could it be...?",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 6160,
+    "TextENGNew": "...Was he seeking help regarding the incident?",
+    "significantChanges": true,
+    "changeReason": "Original 'Does he want me to help him?' is a simple question; new translation 'Was he seeking help regarding the incident?' adds the crucial context of the incident (今回の事件について) from the Japanese.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 6161,
+    "TextENGNew": "If so... I wanted to do whatever I could to assist him.",
+    "significantChanges": true,
+    "changeReason": "New translation 'I wanted to do whatever I could to assist him' expands the original's terse 'If so, I will' to capture the Japanese sentiment of wanting to cooperate at the very least (せめてそれに協力してやりたい).",
+    "changeScore": 2
+  },
+  {
+    "index": 20,
+    "MessageID": 6162,
+    "TextENGNew": "That was how I truly felt.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 6163,
+    "TextENGNew": "\"Hello, Coach?@k@vS20/07/VTK1_satoshi1096. Sorry to bother you while you're at work.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 6164,
+    "TextENGNew": "\"Oh, don't worry about it.@k@vS20/10/VTK1_irie1319. What can I do for you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 6165,
+    "TextENGNew": "\"Um... I couldn't think of anyone else who has a car...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 6166,
+    "TextENGNew": "\"A car?@k@vS20/10/VTK1_irie1321. Sure, I have one.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 6167,
+    "TextENGNew": "\"Actually, I'm at a toy store in Okinomiya right now.@k@vS20/07/VTK1_satoshi1099. Not the one run by Mion's uncle, but the other one, near the dentist's office.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'toy store in Okinomiya' to 'toy store in Okinomiya right now' and 'Not the one owned by' to 'Not the one run by', better matching 実は今 (actually, right now) and more natural phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 6168,
+    "TextENGNew": "\"Ah, yes, I know the one.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 6169,
+    "TextENGNew": "\"I managed to buy the stuffed animal for Satoko's birthday... but, um... mmph.@k@vS20/07/VTK1_satoshi1101. ...It's too big to fit on my bicycle.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'teddy bear' to 'stuffed animal' (ぬいぐるみ is generic stuffed animal, not specifically a teddy bear), which is more accurate throughout.",
+    "changeScore": 2
+  },
+  {
+    "index": 28,
+    "MessageID": 6170,
+    "TextENGNew": "\"Too big for your bicycle?@k@vS20/10/VTK1_irie1324. Ahahahaha, Satoshi-kun, just how big a stuffed animal did you buy?\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'how big is this teddy bear?' to 'just how big a stuffed animal did you buy?', correcting 'teddy bear' to 'stuffed animal' and better matching the Japanese phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 6171,
+    "TextENGNew": "\"......Mmph.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 6172,
+    "TextENGNew": "It seemed he had pedaled to the toy store without thinking about it, and now found himself at a loss.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 6173,
+    "TextENGNew": "...How very like Satoshi-kun. I could not help but smile warmly.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 6174,
+    "TextENGNew": "In other words, he could not carry both the bicycle and the stuffed animal home, and was asking me to come pick him up.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 6175,
+    "TextENGNew": "I told him I would be right over and headed to the toy store in Okinomiya.@k When I arrived, I discovered that the stuffed animal was far, far larger than I had imagined.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 6176,
+    "TextENGNew": "\"...This is...!@k@vS20/10/VTK1_irie1326. Hahahaha, that's enormous.@k@vS20/10/VTK1_irie1327.You certainly can't put that on a bicycle.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 6177,
+    "TextENGNew": "The stuffed animal was so large he could barely wrap his arms around it.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 6178,
+    "TextENGNew": "If he held it on his lap in the passenger seat, it would completely block his view.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 6179,
+    "TextENGNew": "We loaded the bicycle into the back seat and crammed the stuffed animal into the trunk.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 6180,
+    "TextENGNew": "\"Still, a stuffed animal this big must have cost quite a lot.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 6181,
+    "TextENGNew": "\"...Well... yeah, I suppose.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 6182,
+    "TextENGNew": "At first, I assumed he was sweating because of the heat.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 6183,
+    "TextENGNew": "...But something seemed off.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 6184,
+    "TextENGNew": "He looked as though he were dazed, as if from a high fever.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 6185,
+    "TextENGNew": "\"What's the matter?@k@vS20/10/VTK1_irie1330. ...Are you feeling all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 6186,
+    "TextENGNew": "\"......I think, well... I guess it's... a cold...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 6187,
+    "TextENGNew": "\"That's not good.@k@vS20/10/VTK1_irie1332. Shall we stop by the clinic?@k@vS20/10/VTK1_irie1333. I'll have a look at you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 6188,
+    "TextENGNew": "\"...Thank you...@k@vS20/07/VTK1_satoshi1106. ...Huff... huff......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 6189,
+    "TextENGNew": "When he had called earlier, he had not sounded unwell at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 6190,
+    "TextENGNew": "...Had his condition deteriorated that suddenly?",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 6191,
+    "TextENGNew": "\"Here, recline the seat back and make yourself comfortable.@k@vS20/10/VTK1_irie1335. Is the air conditioning too cold?@k@vS20/10/VTK1_irie1336. Are you all right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 6192,
+    "TextENGNew": "\"......Huff... ...huff... ......huff.........\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 6193,
+    "TextENGNew": "His face was deathly pale.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 6194,
+    "TextENGNew": "I had not taken his temperature, but his fever appeared to be dangerously high.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'dangerously high' and 'I had not taken his temperature' (測ってはいないが), providing clinical detail the original lacks ('I can tell he has a high fever').",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 6195,
+    "TextENGNew": "......Satoshi-kun had been pushing himself to the limit to buy this stuffed animal.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 6196,
+    "TextENGNew": "Given its size, it could not have been cheap.",
+    "significantChanges": true,
+    "changeReason": "New translation 'Given its size, it could not have been cheap' is more formal and precise; the original 'A teddy bear this size can't be that cheap' again uses 'teddy bear' incorrectly.",
+    "changeScore": 2
+  },
+  {
+    "index": 55,
+    "MessageID": 6197,
+    "TextENGNew": "To have earned enough in such a short period, he must have been working himself to exhaustion.",
+    "significantChanges": true,
+    "changeReason": "New translation 'working himself to exhaustion' captures かなり堪えるバイト (grueling part-time work) more accurately than 'worked hard and long hours.'",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 6198,
+    "TextENGNew": "Perhaps now that he had finally obtained the stuffed animal he had worked so hard for, the tension had broken.",
+    "significantChanges": true,
+    "changeReason": "New translation provides richer meaning: 'the tension had broken' captures 気が緩んだ vs original's simpler 'felt relieved.'",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 6199,
+    "TextENGNew": "...It was not unusual for someone who had been straining toward a goal to collapse the moment they achieved it...",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 6200,
+    "TextENGNew": "``...Still... you did well to persevere.@k@vS20/10/VTK1_irie1338. To earn enough for such an enormous stuffed animal.@k@vS20/10/VTK1_irie1339.I'm sure Satoko-chan will be overjoyed.``",
+    "significantChanges": true,
+    "changeReason": "New translation 'you did well to persevere' differs from 'I'm proud of you' - the Japanese よくがんばりましたね is praise for effort/endurance, not an expression of personal pride.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 6201,
+    "TextENGNew": "\"............I... hope she'll... be happy...\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'I... hope she'll... be happy...' explicitly mentions Satoko being happy, while original 'I... hope so...' is vaguer.",
+    "changeScore": 2
+  },
+  {
+    "index": 60,
+    "MessageID": 6202,
+    "TextENGNew": "\"She will.@k@vS20/10/VTK1_irie1341. I guarantee it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 6203,
+    "TextENGNew": "\"......Our aunt is... gone now.@k@vS20/07/VTK1_satoshi1110. ...Our uncle isn't coming back...@k@vS20/07/VTK1_satoshi1111....So now... there's nobody left who will hurt Satoko... right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 6204,
+    "TextENGNew": "\"That's right.@k@vS20/10/VTK1_irie1343. There is no one left to hurt Satoko-chan.@k@vS20/10/VTK1_irie1344.So from now on, you can both take your time and live in peace...\"",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'There is no one left to hurt Satoko-chan' (沙都子ちゃんを苛める人はいません) vs vaguer 'There won't be anyone who can hurt her.'",
+    "changeScore": 2
+  },
+  {
+    "index": 63,
+    "MessageID": 6205,
+    "TextENGNew": "\"............Our aunt is really... gone... right...?@k@vS20/07/VTK1_satoshi1113. ...She's dead... isn't she...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds emotional emphasis with more ellipses and 'really... gone' matching the Japanese repetitive confirmation-seeking tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 64,
+    "MessageID": 6206,
+    "TextENGNew": "``Yes.@k@vS20/10/VTK1_irie1346. She is unquestionably dead.@k@vS20/10/VTK1_irie1347.I was present at the autopsy.@k@vS20/10/VTK1_irie1348.There is no mistake.@k@vS20/10/VTK1_irie1349.She will never abuse Satoko-chan again.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I performed the autopsy' but JPN 検死には私も立ち会っています means 'I was present at the autopsy.' The difference between performing and attending is meaningful for the character's role but the key plot point (confirming death) is the same.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 6207,
+    "TextENGNew": "\"......Are you certain...?@k@vS20/07/VTK1_satoshi1115. You really... confirmed with your own eyes that she's dead...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'with your own eyes' and changes 'Are you sure?' to 'Are you certain...?' reflecting Satoshi's desperate need for visual confirmation (確認したんですね).",
+    "changeScore": 2
+  },
+  {
+    "index": 66,
+    "MessageID": 6208,
+    "TextENGNew": "\"Yes.@k@vS20/10/VTK1_irie1351. Without a doubt.\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'I sure did' to 'Without a doubt' (間違いなく), which is more formal and definitive.",
+    "changeScore": 2
+  },
+  {
+    "index": 67,
+    "MessageID": 6209,
+    "TextENGNew": "``......Then... even if I keep seeing someone who looks exactly like her on the street... it's not really her... right...?``",
+    "significantChanges": true,
+    "changeReason": "New translation 'if I keep seeing someone who looks exactly like her on the street' adds 'keep seeing' (たまに通りすがる implies recurring encounters) vs original's single sighting implication.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 6210,
+    "TextENGNew": "\"...It's not as though she was actually alive the whole time and got discharged from the hospital, right...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation 'as though she was actually alive the whole time and got discharged from the hospital' is more specific than original's 'she was actually alive and recovered.'",
+    "changeScore": 2
+  },
+  {
+    "index": 69,
+    "MessageID": 6211,
+    "TextENGNew": "\"No.@k@vS20/10/VTK1_irie1353. That is not possible.@k@vS20/10/VTK1_irie1354.She will never appear before us again.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 6212,
+    "TextENGNew": "\"Then, then... look, that woman... she looks just like her, but... that's not my aunt, right...?@k@vS20/07/VTK1_satoshi1119. Right...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 6213,
+    "TextENGNew": "Satoshi-kun pointed at the oncoming car, trembling with fear.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'trembling with fear' (怯えるように) vs original's simpler 'in fear,' conveying more visceral physicality.",
+    "changeScore": 2
+  },
+  {
+    "index": 72,
+    "MessageID": 6214,
+    "TextENGNew": "The car passed by in an instant before I could see the driver's face clearly.@k But no matter how much the resemblance, her being alive was absolutely impossible.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 6215,
+    "TextENGNew": "\"L-Look!!@k@vS20/07/VTK1_satoshi1121. That woman too!!@k@vS20/07/VTK1_satoshi1122. She looks exactly like her!@k@vS20/07/VTK1_satoshi1123. She even looked at me!!\"",
+    "significantChanges": true,
+    "changeReason": "New translation restructures significantly: 'The car passed by in an instant before I could see the driver's face clearly' is clearer about what happened vs original's less precise phrasing.",
+    "changeScore": 2
+  },
+  {
+    "index": 74,
+    "MessageID": 6216,
+    "TextENGNew": "\"C-Calm down, Satoshi-kun.@k@vS20/10/VTK1_irie1356. Your aunt is dead.@k@vS20/10/VTK1_irie1357.So no matter how similar someone may look, it is not her.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 6217,
+    "TextENGNew": "``She looks... just like her, look...@k@vS20/07/VTK1_satoshi1125. No... it really is her... it's my aunt... she's still... still...@k@vS20/07/VTK1_satoshi1126....I killed her... I bashed her head in, over and over... so why... why......?!``",
+    "significantChanges": true,
+    "changeReason": "New translation includes critical confession dialogue 'I killed her so many times... I hit her so many times' from あんなに殺したのに…あんなに殴ったのに which may be partially truncated in original.",
+    "changeScore": 3
+  },
+  {
+    "index": 76,
+    "MessageID": 6218,
+    "TextENGNew": "All I could do was keep driving calmly...",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 6219,
+    "TextENGNew": "Satoshi-kun had already lost his composure.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 6220,
+    "TextENGNew": "...He could see it.",
+    "significantChanges": true,
+    "changeReason": "Original 'He's delusional' is a clinical judgment; new translation '...He could see it' (彼には見えているのだ) is more neutral, describing what Satoshi experiences rather than dismissing it.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 6221,
+    "TextENGNew": "...The aunt he should have killed was still alive, appearing before him one after another...",
+    "significantChanges": true,
+    "changeReason": "New translation preserves the horrifying detail: 'appearing before him one after another' (次々に現れる) vs original's vaguer 'coming back from the dead.'",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 6222,
+    "TextENGNew": "It was at this point that I finally understood...",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 6223,
+    "TextENGNew": "Satoshi-kun...... was exhibiting terminal-stage symptoms...!",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 6224,
+    "TextENGNew": "...Once we reached the clinic, I would examine him first.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 6225,
+    "TextENGNew": "This was different from Satoko-chan's case.",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 6226,
+    "TextENGNew": "We already had a treatment drug, developed through extensive experimentation.",
+    "significantChanges": true,
+    "changeReason": "New translation 'a treatment drug, developed through extensive experimentation' adds detail from Japanese (充分な実験を重ねた治療薬) that original's 'We already have the cure' omits entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 6227,
+    "TextENGNew": "Satoshi-kun could be treated.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 6228,
+    "TextENGNew": "And as for the killing of the aunt, if I asked the Mountain Dogs again, they would surely cover it up.",
+    "significantChanges": true,
+    "changeReason": "New translation more accurately conveys 揉み消す (cover up/hush up) vs original's vaguer 'take care of.'",
+    "changeScore": 3
+  },
+  {
+    "index": 87,
+    "MessageID": 6229,
+    "TextENGNew": "So I absolutely could save him from the terminal stage and restore his peaceful days with Satoko-chan...",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 6230,
+    "TextENGNew": "He had been so agitated just moments ago, but now he had gone abruptly quiet.",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 6231,
+    "TextENGNew": "...He did not seem to have fallen asleep.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 6232,
+    "TextENGNew": "...In any case, I had to reach the clinic while Satoshi-kun remained calm.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 6233,
+    "TextENGNew": "...There was no guarantee he would not lose control again and attack me while I was driving.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 6234,
+    "TextENGNew": "...As though sensing those very fears, Satoshi-kun spoke in a calm voice.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 6235,
+    "TextENGNew": "\"......Coach.@k@vS20/07/VTK1_satoshi1128. ...Is this... the curse of Oyashiro-sama?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 6236,
+    "TextENGNew": "\"There is no curse.@k@vS20/10/VTK1_irie1359. Please, try to stay strong.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 6237,
+    "TextENGNew": "\"......Satoko, I'm sorry...@k@vS20/07/VTK1_satoshi1130. ...Right up until the moment I bought the stuffed animal... I had been thinking about taking that money and running away somewhere far...",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 6238,
+    "TextENGNew": "\"...That's why... Oyashiro-sama wouldn't forgive me...@k@vS20/07/VTK1_satoshi1132. ...I've failed... as a big brother...@k@vS20/07/VTK1_satoshi1133....I'm... I'm......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 6239,
+    "TextENGNew": "\"You don't have to force yourself to talk.@k@vS20/10/VTK1_irie1361. Close your eyes and rest.@k@vS20/10/VTK1_irie1362.We'll be at the clinic soon.@k@vS20/10/VTK1_irie1363.I'll give you medicine that will make you feel better right away...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 6240,
+    "TextENGNew": "\"...I feel like... there are maggots crawling in my blood...@k@vS20/07/VTK1_satoshi1135. ...It itches...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 6241,
+    "TextENGNew": "\"Don't scratch!@k@vS20/10/VTK1_irie1365. Do not claw at your throat!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 6242,
+    "TextENGNew": "\"Waaaaaaaaaahh!! Aaah, Aaaaaaaahh!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 6243,
+    "TextENGNew": "\"Stop, Satoshi-kun! Stop it!@k@vS20/10/VTK1_irie1365b. Satoshi-kun!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 6244,
+    "TextENGNew": "The car arrived at the clinic's rear entrance.",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 6245,
+    "TextENGNew": "I slammed the brakes and brought the car to a halt.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 6246,
+    "TextENGNew": "Satoshi-kun had already begun clawing at his throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 6247,
+    "TextENGNew": "I could not restrain him alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 6248,
+    "TextENGNew": "I called for backup through the intercom.",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 6249,
+    "TextENGNew": "Several staff members came running immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 6250,
+    "TextENGNew": "...But perhaps startled by so many people appearing at once, Satoshi-kun began to resist violently.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 6251,
+    "TextENGNew": "......There was no need for tests. Satoshi-kun was at L5.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 6252,
+    "TextENGNew": "Full terminal-stage symptoms. His mind had to be consumed by suspicion and paranoid delusions.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'suspicion and paranoid delusions' (疑心暗鬼と被害妄想) providing specific symptoms the original's 'filled with delusions' lacks.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 6253,
+    "TextENGNew": "The staff who had appeared so suddenly might have looked to him like people come to kill him.",
+    "significantChanges": true,
+    "changeReason": "New translation 'The staff who had appeared so suddenly might have looked to him like people come to kill him' is more vivid and specific than original's simple 'Maybe he thinks that the staff members want to kill him.'",
+    "changeScore": 2
+  },
+  {
+    "index": 112,
+    "MessageID": 6254,
+    "TextENGNew": "The staff pinned each of his limbs and injected him with a sedative.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 6255,
+    "TextENGNew": "\"....C-Coach... please... help me...!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 6256,
+    "TextENGNew": "\"Don't worry.@k@vS20/10/VTK1_irie1367. I'll treat you right away, so please, just relax.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 6257,
+    "TextENGNew": "\"...............Coach..................@k@vS20/07/VTK1_satoshi1138. ......Please......... take... care... of... Satoko...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 6258,
+    "TextENGNew": "Please take care of Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 6259,
+    "TextENGNew": "With those words barely pushed past his lips, Satoshi-kun's consciousness faded.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 6260,
+    "TextENGNew": "\"Oh my.@k@vS20/09/VTK1_takano1259. I heard the commotion—what is this all about?\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'I heard the commotion—what is this all about?' capturing 騒がしいと思ったら more accurately than original's simple 'What's going on?'",
+    "changeScore": 2
+  },
+  {
+    "index": 119,
+    "MessageID": 6261,
+    "TextENGNew": "``......Satoshi-kun has had an acute onset of symptoms.@k@vS20/10/VTK1_irie1369. ...Considering the level of stress he's been under, it could have happened at any time.``",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'suddenly displayed symptoms' to 'has had an acute onset of symptoms' (急性発症) which is medically more precise.",
+    "changeScore": 3
+  },
+  {
+    "index": 120,
+    "MessageID": 6262,
+    "TextENGNew": "\"...No... I think he had been holding it back through sheer willpower until he could buy the stuffed animal...\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds key nuance: 'holding it back through sheer willpower' (自制心でそれをずっと抑え続けてきた) vs original's simpler 'holding it back.'",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 6263,
+    "TextENGNew": "``How interesting—it seems a live specimen falls into our hands around Watanagashi every year.@k@vS20/09/VTK1_takano1261. Perhaps we have the curse of Oyashiro-sama to thank.@k@vS20/09/VTK1_takano1262.Hee hee hee.``",
+    "significantChanges": true,
+    "changeReason": "New translation 'a live specimen falls into our hands around Watanagashi every year' better captures the predatory tone of 生きた検体が手に入る vs original's more neutral phrasing.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 6264,
+    "TextENGNew": "I had no time to entertain Takano-san's idle remarks.",
+    "significantChanges": false
+  }
+]

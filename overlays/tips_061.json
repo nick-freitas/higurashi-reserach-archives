@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "A Grudge Book?",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Record of Malice\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14244,
+    "TextENGNew": "He said it stank.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 14245,
+    "TextENGNew": "He said the food stank.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 14246,
+    "TextENGNew": "He said it stank because I stank.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14247,
+    "TextENGNew": "He said I stank because I don't bathe.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14248,
+    "TextENGNew": "He said I'm a stinking person and have to bathe three times a day.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14249,
+    "TextENGNew": "He said I have to stay in the bath for a very long time each time.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 14250,
+    "TextENGNew": "He must be possessed by something too.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14251,
+    "TextENGNew": "Because these are the exact same things the dead man used to say.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the causal 'Because' (matching JPN だって) and uses plural 'things' with 'used to say' indicating habitual past behavior, whereas the original omitted the causal connection and used singular 'thing.'",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 14252,
+    "TextENGNew": "How does he know what that man said?",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14253,
+    "TextENGNew": "The answer is obvious.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 14254,
+    "TextENGNew": "Whatever possessed that man is now possessing him too.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14255,
+    "TextENGNew": "I wish a sudden earthquake would tear open a great chasm right in front of my house.",
+    "significantChanges": true,
+    "changeReason": "The new translation changes from a literal question ('Can't...?') to a wish statement ('I wish...'), and specifies 'my house' instead of 'the house,' better reflecting the JPN wishful rhetorical form (できないだろうか) and the possessive 私の.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 14256,
+    "TextENGNew": "If one appeared, he would surely go and peer into it.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14257,
+    "TextENGNew": "And then all I would need to do is give him one good shove.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14258,
+    "TextENGNew": "Until that chance comes, I will not be broken.",
+    "significantChanges": true,
+    "changeReason": "The new translation shifts from 'give in' (voluntary surrender) to 'be broken' (being defeated/destroyed), which conveys a different kind of resilience; JPN 負けたりなんかしない means 'I won't lose/be defeated,' closer to the new version's defiant tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 14259,
+    "TextENGNew": "I won't lose, I won't cry.",
+    "significantChanges": true,
+    "changeReason": "Changes 'give in' to 'lose,' which shifts from voluntary surrender to being defeated; JPN 負ける specifically means 'to lose/be defeated.'",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 14260,
+    "TextENGNew": "I won't lose, I won't cry.",
+    "significantChanges": true,
+    "changeReason": "Changes 'give in' to 'lose,' which shifts from voluntary surrender to being defeated; JPN 負ける specifically means 'to lose/be defeated.'",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 14261,
+    "TextENGNew": "Ahh, someone is starting to apologize again...",
+    "significantChanges": false
+  }
+]

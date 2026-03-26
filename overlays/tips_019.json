@@ -1,0 +1,103 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Split Personality???",
+    "significantChanges": false
+  },
+  {
+    "index": 1,
+    "MessageID": 13060,
+    "TextENGNew": "``It comes up frequently in movies, but could you explain it in simple terms?``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13061,
+    "TextENGNew": "``Multiple personalities are thought to be a form of psychological escapism.``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13062,
+    "TextENGNew": "``Multiple personality disorder is a form of escapism?``",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 13063,
+    "TextENGNew": "``Correct. The exact mechanism has not been fully elucidated, but it is believed to be one of the brain's defensive responses to protect the psyche.``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13064,
+    "TextENGNew": "``For example, a poor person imagining themselves as wealthy—that's a form of escapism, isn't it? Would that also be considered multiple personality disorder?``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13065,
+    "TextENGNew": "``I wouldn't go to that extreme, but in a broad sense, it could be interpreted that way. In other words, it's a phenomenon that can occur in anyone.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13066,
+    "TextENGNew": "``Does a split personality develop when one can no longer distinguish between reality and the escape?``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13067,
+    "TextENGNew": "``...That's a difficult question. There are theories that support that view, and others that refute it.@k@vS20/00/profA44005. The academic community remains divided.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13068,
+    "TextENGNew": "``So in the field of psychiatry, multiple personalities are still an unknown, unexplained phenomenon?``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13069,
+    "TextENGNew": "``Unfortunately, that is the current state of affairs. We can only hope that future research will shed more light on it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13070,
+    "TextENGNew": "``But, but~ Having a split personality sounds kind of cool~! What kind of person develops one?``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13071,
+    "TextENGNew": "``Recent studies suggest that a complex interplay of genetics and psychological factors is involved...@k@vS20/00/profA44008. In particular, childhood rearing experiences are believed to play a significant role.``",
+    "significantChanges": true,
+    "changeReason": "The old translation specifies \"abnormal mental development\" and \"childhood abuse\" while the Japanese 遺伝と心因 means \"genetics and psychological factors\" and 幼少期の育児体験 means \"childhood rearing experiences\" — a broader term that does not specifically denote abuse.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 13072,
+    "TextENGNew": "``Speaking of which, this Person A also had a troubled family life, didn't he? How sad...``",
+    "significantChanges": true,
+    "changeReason": "The old translation says \"experienced abuse as a child\" while the Japanese 家庭に問題を抱えてる means \"had problems in the family/home.\" The new translation's \"troubled family life\" is broader and more accurate than the specific claim of abuse.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 13073,
+    "TextENGNew": "``Person A, a young man with seven distinct personalities.@k@vS20/00/repoA44009. Now, let's continue with the video.``",
+    "significantChanges": true,
+    "changeReason": "The old translation says \"Let's watch a video\" implying starting playback, while the Japanese VTRの続きをどうぞ means \"please continue with the video\" — implying it was already playing. The new translation also adds \"young man\" (青年) which was omitted from the old.",
+    "changeScore": 2
+  },
+  {
+    "index": 15,
+    "MessageID": 13074,
+    "TextENGNew": "``...But first, a commercial break!!``",
+    "significantChanges": false
+  }
+]

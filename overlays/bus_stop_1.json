@@ -1,0 +1,1672 @@
+[
+  {
+    "index": 2,
+    "MessageID": 155580,
+    "TextENGNew": "Deep in the mountains of an unnamed region. A bus stop on the outskirts of a village — the \"Hinamizawa Bus Stop.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 155581,
+    "TextENGNew": "A lonely place devoid of people, with hardly any private homes nearby. The rain outside fills the air with a dreary, oppressive mood.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 155582,
+    "TextENGNew": "The waiting area is a crude wooden stand that barely keeps the rain out.@k Inside there are two benches that seat three people each, and a town bulletin board.",
+    "significantChanges": true,
+    "changeReason": "Old swaps object counts: JPN says two benches and one bulletin board, but old says one bench and two bulletin boards.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 155583,
+    "TextENGNew": "The bulletin board is covered in posters — relief donations for the village festival, the national census, and others — but the most conspicuous are the residents' flyers reading \"Absolute Opposition to the Hinamizawa Dam Project.\"",
+    "significantChanges": true,
+    "changeReason": "Old omits 絶対 (absolute) from the slogan 雛見沢ダム計画絶対反対. Also old says 'bulletin boards' (plural); new says 'bulletin board' (singular) matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 155584,
+    "TextENGNew": "Into the empty Hinamizawa Bus Stop, with nothing to hear but the sound of rain, two young students — Mion and Rika — come hurrying in.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 155585,
+    "TextENGNew": "\"Ahahahahaha! Aaahahahahahaha!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 155586,
+    "TextENGNew": "\"It's really coming down, isn't it. That's exactly why I said... we should have brought umbrellas.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 155587,
+    "TextENGNew": "\"But we couldn't play as hard with our hands full of stuff! ...Oh well! Nothing to be done about a little rain!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 155588,
+    "TextENGNew": "\"...It really is pouring. ...I hope it lets up soon.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 155589,
+    "TextENGNew": "\"It'll be fine, it'll be fine! In all of human history, there has never once been a rain that didn't stop or a sun that didn't rise!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 155590,
+    "TextENGNew": "\"......Ahahahahaha! Huh, I think I just said something pretty cool! Aaahahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 155591,
+    "TextENGNew": "\"If laughter were lethal, you'd be dead already...\"",
+    "significantChanges": true,
+    "changeReason": "Old adds 'pile of ash' (not in JPN); JPN もう死んでるわね simply says 'you'd be dead already.' New is accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 14,
+    "MessageID": 155592,
+    "TextENGNew": "\"Ahahaha! If I could die laughing, that'd be exactly the way I'd want to go! Aaahahaha! ...Ugh, ugh, ugh!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 155593,
+    "TextENGNew": "\"...You got too carried away. ...Are you all right?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'See, I told you'; JPN はしゃぎ過ぎだってば means 'I said you were getting too carried away.' New is more accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 16,
+    "MessageID": 155594,
+    "TextENGNew": "\"Ugh, hgk! ...Hahaha! Sorry about that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 155595,
+    "TextENGNew": "\"Still... I'm glad you're enjoying yourself. I didn't think you'd have this much fun.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 155596,
+    "TextENGNew": "\"No, honestly! Today was a completely, absolutely, utterly ridiculous amount of fun! Seriously, I just... aaahahahahahaha!\"",
+    "significantChanges": true,
+    "changeReason": "Old uses 'buttload ton' (very informal); JPN しっちゃかめっちゃかむっちゃくちゃに is a playful intensifier meaning 'ridiculously/insanely.' New captures the playful excess better.",
+    "changeScore": 2
+  },
+  {
+    "index": 19,
+    "MessageID": 155597,
+    "TextENGNew": "\"...You're overdoing the enthusiasm a little. ...Not that I mind.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 155598,
+    "TextENGNew": "\"...Well, I mean... how do I put it... you know how I am, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 155599,
+    "TextENGNew": "\"I'm always the one making a fuss all by myself. ...I always figured you thought I was some kind of nuisance, Rika-san...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 155600,
+    "TextENGNew": "\"...I have never once thought of you as a nuisance. ...I love the lively way you always are.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 155601,
+    "TextENGNew": "\"...Hahaha! ...So that's why, when you were the one to invite me out to play, I was so incredibly happy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 155602,
+    "TextENGNew": "\"If you're the one asking, Rika-san — forget all other plans! School might as well not exist!\"",
+    "significantChanges": true,
+    "changeReason": "Old uses past tense ('When I got your invitation'); JPN uses conditional present (梨花さんに誘われたらもー = 'If Rika-san invites me'), expressing a general attitude rather than a single past event.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 155603,
+    "TextENGNew": "\"...Was it really all right, suggesting we skip school to go play?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 155604,
+    "TextENGNew": "\"It's fine, it's fine! Missing a day of Fujishima's class isn't going to make much difference! ...Besides, we couldn't have played ourselves absolutely ragged like this on a weekend!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 155605,
+    "TextENGNew": "\"...Was it worth skipping school to go play... do you think...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 155606,
+    "TextENGNew": "\"Absolutely, completely, one hundred percent worth it! ...Though honestly, when you — of all people, you who seem so serious — were the one to say we should skip school and go out, I was pretty surprised.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 155607,
+    "TextENGNew": "\"...It surprised you that I said it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 155608,
+    "TextENGNew": "\"Well, Rika-san, you really do come across as the model honor student!\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 優等生 as 'teacher's pet' (negative connotation); JPN 優等生 means 'honor student/model student' (neutral/positive). New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 155609,
+    "TextENGNew": "\"So when you crept up close and whispered in my ear—\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 155610,
+    "TextENGNew": "\"—'Want to skip school next Wednesday?' — well, when that day arrived, there was absolutely no way I could say no!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 155611,
+    "TextENGNew": "\"For a moment I even thought you might be confessing your love! As if! But maybe, without either of us noticing — our feelings have stepped up from friendship to something more!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 155612,
+    "TextENGNew": "\"......That is never going to happen, so rest easy.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 155613,
+    "TextENGNew": "\"How can you say it so definitively?! When two people truly fall for each other, the barrier of gender is something easily overcome!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 155614,
+    "TextENGNew": "Mion draws close with a suspicious, smirking grin. Rika inches steadily toward the end of the bench, trying to escape.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 155615,
+    "TextENGNew": "\"......There's nothing to overcome here. ......I'm perfectly fine as things are.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 155616,
+    "TextENGNew": "\"...This really is out in the middle of nowhere, isn't it... The next bus isn't for another hour, you know...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 155617,
+    "TextENGNew": "\"...And on top of that, it's raining today...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 155618,
+    "TextENGNew": "\"...And this bus stop is the kind of lonely place that almost no one ever visits...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 155619,
+    "TextENGNew": "\"...And on top of that, it's raining today...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 155620,
+    "TextENGNew": "\"...Which means... we have at least an hour! ...With no one to come and interrupt us, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 155621,
+    "TextENGNew": "\"...And on top of that, it's raining today...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 155622,
+    "TextENGNew": "\"...Because it's raining...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 155623,
+    "TextENGNew": "Just as Mion is about to spring at Rika, two men — Tonegawa and Arakawa — arrive. Mion hastily moves away.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 155624,
+    "TextENGNew": "\"Ah, what a relief! Saved by the bell!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 155625,
+    "TextENGNew": "\"The rain really turned terrible. I'm completely soaked through.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 155626,
+    "TextENGNew": "\"Because it's raining!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 155627,
+    "TextENGNew": "\"?? ...Hahaha! Quite right. ...Arakawa-kun, when does the next bus come?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 155628,
+    "TextENGNew": "\"Uh... not for about an hour. Looks like it just left a little while ago. ...What rotten luck, being stuck waiting for a bus for a whole hour in this downpour.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 155629,
+    "TextENGNew": "\"Because it's raining!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 155630,
+    "TextENGNew": "\"...?? ...Did we do something to you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 155631,
+    "TextENGNew": "\"...I haven't bathed in a while. ...Do I smell...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 155632,
+    "TextENGNew": "\"...Regretting the interruption?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 155633,
+    "TextENGNew": "\"Dammit! ...I'll truss those two up the moment I get a chance. ...Rika-san, we pick up where we left off afterward.\"",
+    "significantChanges": true,
+    "changeReason": "Old uses 'bury' (implying killing) for スマキにする which means 'truss up/roll in a mat' (a punishment, not lethal) — different severity of threat.",
+    "changeScore": 3
+  },
+  {
+    "index": 56,
+    "MessageID": 155634,
+    "TextENGNew": "\"......Sure. ......If you actually do it. ......I'll forgive you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 155635,
+    "TextENGNew": "Mion fixes the two men with a wild, burning stare. Tonegawa and Arakawa, unnerved by the sheer intensity of it, instinctively step back.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 155636,
+    "TextENGNew": "\"......Young ladies... do I really smell...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 155637,
+    "TextENGNew": "\"You do, you do! You absolutely reek!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 155638,
+    "TextENGNew": "\"See, this is exactly what I told you! You drink too heavily and it comes out in your body odor!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 155639,
+    "TextENGNew": "\"...Does he smell that badly? ...I honestly can't tell.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 155640,
+    "TextENGNew": "\"He does! He's positively reeking!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 155641,
+    "TextENGNew": "\"Right?! Even men have to take care of their appearance! Good grief!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 155642,
+    "TextENGNew": "\"Ha ha... I'll be more careful from now on. But I don't smell nearly as bad as she's making it sound, do I?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 155643,
+    "TextENGNew": "\"...I don't smell anything.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 155644,
+    "TextENGNew": "\"...I don't notice much either.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 155645,
+    "TextENGNew": "\"You reek! Can't you tell just by looking?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 155646,
+    "TextENGNew": "\"...By looking?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 155647,
+    "TextENGNew": "\"For two suspicious strangers to show up in a place this deserted — there can only be one reason!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 155648,
+    "TextENGNew": "\"...One reason?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 155649,
+    "TextENGNew": "Without a moment's pause, Rika drives her fist into Mion's stomach. Mion falls silent and curls up.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 155650,
+    "TextENGNew": "\"...Please pay no attention to her. ...This girl is a little unhinged.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 155651,
+    "TextENGNew": "\"......R-Rika-san... ...that really hurt, you know. ......Did you forget there's a baby in here? Yours and mine...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 155652,
+    "TextENGNew": "Rika tucks Mion's neck under her arm and squeezes.",
+    "significantChanges": true,
+    "changeReason": "Old says 'strangles her in her armpit' (awkward/inaccurate); JPN 首を小脇で締め上げる means putting in a headlock. New is more accurate.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 155653,
+    "TextENGNew": "\"...Want me to put an end to that possibility?\"",
+    "significantChanges": true,
+    "changeReason": "Old fabricates specific threatening content about bearing children; JPN このまま落としてもいいのかしら is a vaguer threat ('shall I just drop/knock you out?') — fabricated specificity.",
+    "changeScore": 4
+  },
+  {
+    "index": 76,
+    "MessageID": 155654,
+    "TextENGNew": "\"Rika-san, that hurts, it seriously hurts...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 155655,
+    "TextENGNew": "\"......You two certainly do seem to get along well. ...Are you friends?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 155656,
+    "TextENGNew": "\"Friends? Hardly! Rika-onee-sama and I are something far beyond — *cough*!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 155657,
+    "TextENGNew": "Rika immediately drives her fist into Mion's stomach again. This time Mion goes down for good.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 155658,
+    "TextENGNew": "\"We're friends. ...I'm Rika. Rika Furude. ...This is Mion. ...Mion Sonozaki.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 155659,
+    "TextENGNew": "\"Ah, pleased to meet you. I'm Tonegawa. And this is Arakawa-kun. I should mention — he's currently unattached.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 155660,
+    "TextENGNew": "\"Tonegawa-san, please don't add unnecessary details!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 155661,
+    "TextENGNew": "\"...What are your hobbies, Arakawa-san? And your occupation?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 155662,
+    "TextENGNew": "\"Oho, here it comes! Give her your best answer!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 155663,
+    "TextENGNew": "\"Ah, um, h-hobbies — I do a little skiing! ...And my occupation is, well!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 155664,
+    "TextENGNew": "\"...Ministry of Construction. ......River Bureau, I take it? ...The dam project.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 155665,
+    "TextENGNew": "\"Huh? ...Well, yes...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 155666,
+    "TextENGNew": "\"You already knew?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 155667,
+    "TextENGNew": "\"...Wow, how did you figure that out, Rika-san? Is this one of those 'Elementary, my dear Watson' situations?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 155668,
+    "TextENGNew": "\"There's no deduction about it. ...Only people involved with the dam project walk around dressed like that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 155669,
+    "TextENGNew": "\"Hahaha! ...Quite right. I'm impressed, detective. Allow me to introduce myself properly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 155670,
+    "TextENGNew": "\"I'm Tonegawa, from the Ministry of Construction's River Bureau, Urban River Division. I transferred over from the Sabo Department's Slope Conservation Section this April.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'left' (implies departure); JPN 参りました means 'came/transferred.' Also old translates 砂防部傾斜地保全課 as 'Erosion and Sediment Control Department' only; new includes 'Slope Conservation Section' preserving the full organizational detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 155671,
+    "TextENGNew": "\"And I'm Arakawa, also from the Urban River Division.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 155672,
+    "TextENGNew": "\"And I'm Sonozaki, from Makes-No-Sense-to-Me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 155673,
+    "TextENGNew": "\"And what makes no sense to me is your brain...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 155674,
+    "TextENGNew": "A brief silence. Rika makes no move to take the hand extended toward her.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 155675,
+    "TextENGNew": "\"...Did you really think I'd shake your hand? ...With someone trying to destroy Hinamizawa?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 155676,
+    "TextENGNew": "\"...That's a cutting reception.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 155677,
+    "TextENGNew": "\"...Did you think I'd shake your hand? ...With someone trying to defile Hinamizawa?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 155678,
+    "TextENGNew": "\"...That's a cutting reception.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 155679,
+    "TextENGNew": "\"...Heh heh heh...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 155680,
+    "TextENGNew": "\"......I will not allow a dam in Hinamizawa.\"",
+    "significantChanges": true,
+    "changeReason": "Old uses 'We'; JPN uses singular first person (許さない without a plural marker). This is Rika speaking for herself.",
+    "changeScore": 3
+  },
+  {
+    "index": 103,
+    "MessageID": 155681,
+    "TextENGNew": "\"The Hinami River needs a dam. It will make an unrivaled contribution to irrigation and flood control in the downstream regions.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 155682,
+    "TextENGNew": "\"No.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 155683,
+    "TextENGNew": "\"The electricity a dam can generate is also vital. At a maximum output of 350,000 kilowatts, it will be a tailwind for Japan's high economic growth.\"",
+    "significantChanges": true,
+    "changeReason": "Old adds 'A generator outputting' (not in JPN). Also 'boon' vs 'tailwind' for 追い風 -- JPN literally means 'tailwind.' New preserves the metaphor.",
+    "changeScore": 2
+  },
+  {
+    "index": 106,
+    "MessageID": 155684,
+    "TextENGNew": "\"No.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 155685,
+    "TextENGNew": "\"Nor can we ignore the effects of regional development a dam brings. It would make a major contribution not only locally, but to the advancement of industry and culture in the cities along the route.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 155686,
+    "TextENGNew": "\"No.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 155687,
+    "TextENGNew": "Mion is still frozen in place with her hand held out for a shake.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 155688,
+    "TextENGNew": "Exasperated, Rika shakes it.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 155689,
+    "TextENGNew": "Mion is silently, inexplicably delighted.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 155690,
+    "TextENGNew": "\"...No matter how many fine-sounding words you pile up — none of them are reason enough to sink Hinamizawa beneath a reservoir.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 155691,
+    "TextENGNew": "\"...Of course we understand your feelings. However, Hinamizawa possesses several conditions that make it highly advantageous for dam construction.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 155692,
+    "TextENGNew": "\"The first is the topographic conditions. Hinamizawa is the point where the Hinami River narrows most drastically, and the bedrock is granite. ...It is the ideal site for a dam.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 155693,
+    "TextENGNew": "\"And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 155694,
+    "TextENGNew": "\"Its proximity to a center of electricity demand is also important — transmission loss is minimal. And as I mentioned earlier, maximum generating capacity is 350,000 kilowatts.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 155695,
+    "TextENGNew": "\"That is equivalent to the entire electricity consumption of Shikoku a generation ago.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'used to be consumed'; JPN 一昔前 means 'a generation ago/a decade ago.' New specifies the timeframe.",
+    "changeScore": 2
+  },
+  {
+    "index": 118,
+    "MessageID": 155696,
+    "TextENGNew": "\"And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 155697,
+    "TextENGNew": "\"Its high water-retention efficiency is also notable. For the Hinamizawa dam, the storage efficiency would be 200.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 155698,
+    "TextENGNew": "\"That means 200 times the volume of the dam structure itself.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'dam capacity' (ambiguous - could mean water capacity); JPN ダム体積 means 'dam body/structure volume.' New correctly specifies it's the physical structure volume.",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 155699,
+    "TextENGNew": "\"And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 155700,
+    "TextENGNew": "\"In other words, once a dam is built in Hinamizawa, the water level will rise and the resulting reservoir will stretch over 30 kilometers in total length.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 155701,
+    "TextENGNew": "\"That is roughly the distance from Tokyo to Omiya.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 155702,
+    "TextENGNew": "\"And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 155703,
+    "TextENGNew": "\"The ease of procuring construction aggregate is also significant. We estimate that the Hinamizawa dam will require 1,500,000 cubic meters of aggregate.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 155704,
+    "TextENGNew": "\"That is equivalent to the volume of six Marunouchi Buildings.\"",
+    "significantChanges": true,
+    "changeReason": "Old renders 丸ビル as generic 'buildings' when it refers to the Marunouchi Building, a famous Tokyo landmark — loses the specific cultural reference.",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 155705,
+    "TextENGNew": "\"And while you're at it, a hot spring trip comes with the prize!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 155706,
+    "TextENGNew": "\"...And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 155707,
+    "TextENGNew": "Rika wheels on Mion with a sharp look. She bears down on her steadily, pressing her into the corner for derailing the serious discussion.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 155708,
+    "TextENGNew": "\"Huh? ...Hahahahaha! Wouldn't that be nice! Just kidding!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 155709,
+    "TextENGNew": "\"And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 155710,
+    "TextENGNew": "\"You usually win a pair of tickets for two, right? ...So if we win, let's go together — to the hot springs!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 155711,
+    "TextENGNew": "\"And?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 155712,
+    "TextENGNew": "\"W-When we get to the hot springs, we can scrub each other's backs! And after, we can play table tennis in yukata!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 155713,
+    "TextENGNew": "\"Annnnd?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 155714,
+    "TextENGNew": "\"After that, we'll look out the window together at the fireworks on the riverbank! Once the mood has heated up just right, my fingers will suddenly entwine with yours! And you, though you blush, will lean into my arms...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 155715,
+    "TextENGNew": "Mion is driven steadily backward, both of them exiting while screaming her catchphrase. The two Ministry men are left standing there, utterly at a loss.",
+    "significantChanges": true,
+    "changeReason": "Old uses active voice ('Rika closes in on Mion') while Japanese uses passive ('Mion is driven backward') — same scene described from different grammatical perspective, minor difference.",
+    "changeScore": 2
+  },
+  {
+    "index": 138,
+    "MessageID": 155716,
+    "TextENGNew": "\"......The young people these days really do get along well.\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'Young girls'; JPN 若い子 means 'young people' (gender-neutral). New is accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 139,
+    "MessageID": 155717,
+    "TextENGNew": "\"...I think that was something a little different from getting along...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 155718,
+    "TextENGNew": "Thud! Bang! Several blows ring out.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 155719,
+    "TextENGNew": "The two Ministry men stare at each other in alarm.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 155720,
+    "TextENGNew": "Afterward, Rika returns, dusting off her hands.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 155721,
+    "TextENGNew": "\"...In any case, I am opposed to the dam.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 155722,
+    "TextENGNew": "\"V-V-Violence is not the answer!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 155723,
+    "TextENGNew": "\"W-W-Well! I was against the dam myself from the very beginning!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 155724,
+    "TextENGNew": "\"Arakawa-kun!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 155725,
+    "TextENGNew": "\"Dams are the root of environmental destruction! Aren't they?! Hiiiii!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 155726,
+    "TextENGNew": "Mion staggers back in, clutching her stomach.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 155727,
+    "TextENGNew": "\"...That punch really landed... What would you do if you'd ruptured my pancreas? ...Ugh...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 155728,
+    "TextENGNew": "\"In any case, the dam is unacceptable. Absolutely unacceptable.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 155729,
+    "TextENGNew": "\"Why is it unacceptable?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 155730,
+    "TextENGNew": "\"...It just is. ...No reason is required.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 155731,
+    "TextENGNew": "\"That's not much of a counterargument, Rika-san. You need to actually state your reasons.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 155732,
+    "TextENGNew": "From here on, every time Mion voices support for the dam, the two Ministry men nod in exaggerated agreement. Occasionally Rika glares at them, and they recoil, clinging to each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 155733,
+    "TextENGNew": "\"I don't think dams are inherently bad, though. We learned about this in social studies, didn't we? That they help prevent flooding.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 155734,
+    "TextENGNew": "\"That is sophistry. During heavy downpours they have to release water all at once, which actually causes flash floods. ...Did you know that the operating regulations are often rather lax?\"",
+    "significantChanges": true,
+    "changeReason": "New includes '一度に' (all at once) from JPN 一度に放水し which old omits, a key detail about why dams cause flash floods.",
+    "changeScore": 2
+  },
+  {
+    "index": 157,
+    "MessageID": 155735,
+    "TextENGNew": "\"B-But the fact that they generate so much electricity is good, isn't it? 350,000 kilowatts, wasn't it? That's an incredible amount!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 155736,
+    "TextENGNew": "\"That is sophistry. In practice, output only declines year after year due to sediment buildup. Did you know they don't even run the generators during heavy rain, for fear that rocks in the flow will damage the turbines?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 155737,
+    "TextENGNew": "\"B-But! You know, once it's built, it'll truly serve Japan for a long, long time...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 155738,
+    "TextENGNew": "\"That is sophistry. Sediment accumulates without end, and eventually you are left with nothing but a dam plugged with silt. ...Did you know that every dam has a lifespan?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 155739,
+    "TextENGNew": "\"...Umm, uhh...! ......Deep-river bento, squid-rice bento... ...just kidding...\"",
+    "significantChanges": true,
+    "changeReason": "Old substitutes American sandwiches ('Cuban', 'Reuben') for Japanese ekiben (深川弁当, イカ飯弁当) — fabricated localization replacing specific cultural references.",
+    "changeScore": 4
+  },
+  {
+    "index": 162,
+    "MessageID": 155740,
+    "TextENGNew": "\"Those are station boxed lunches...\"",
+    "significantChanges": true,
+    "changeReason": "Old translates 駅弁 (station boxed lunches) as 'sandwich artistry' — completely wrong item, continuing fabricated localization from previous line.",
+    "changeScore": 4
+  },
+  {
+    "index": 163,
+    "MessageID": 155741,
+    "TextENGNew": "Rika rounds on everyone with a sharp glare. Both Mion and Arakawa wilt on the spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 155742,
+    "TextENGNew": "\"...It is often said that the benefits of a dam go to those downstream, while those upstream bear all the hardship. ...I think your points are quite valid, Rika-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 155743,
+    "TextENGNew": "\"...However! ...I do sincerely hope you will come to understand the importance of the irrigation project.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 155744,
+    "TextENGNew": "\"...No matter what it takes, you want to sink Hinamizawa beneath a lake.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 155745,
+    "TextENGNew": "\"...We are deeply aware of the grief this brings to the people of Hinamizawa. Of course, we fully intend to provide appropriate compensation.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 155746,
+    "TextENGNew": "\"You mean the relocation allowance?\"",
+    "significantChanges": true,
+    "changeReason": "Old says 'compensation money for our eviction' (loaded language); JPN 立ち退き料 simply means 'relocation/moving-out fee.' New is more neutral and accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 169,
+    "MessageID": 155747,
+    "TextENGNew": "\"Of course, we are also arranging newly-built apartments in the city. Wonderful living conditions — close to the station, with well-equipped public facilities.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 155748,
+    "TextENGNew": "\"Oh, oh, that — yes! That's the appealing part!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 155749,
+    "TextENGNew": "\"...Well, I was born here in Hinamizawa myself. It's not as if I have no attachment to the place.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 155750,
+    "TextENGNew": "\"...But spending my whole youth in a mountain village with only a few hundred households — wouldn't that be terribly bleak...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 155751,
+    "TextENGNew": "\"The city is wonderful. Everything exists there. Things you've only ever seen on television — they're actually real!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 155752,
+    "TextENGNew": "\"...TV-dazzled and Tokyo-struck. ...That's all you've talked about since your sightseeing trip.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 155753,
+    "TextENGNew": "\"Call me dazzled all you like! But just think about it! ...Do you know what the tallest building in Hinamizawa is?! ...It's the fire station — three whole stories!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 155754,
+    "TextENGNew": "\"Is there a single building with an escalator in Hinamizawa?! There isn't! There is an elevator, mind you! The one used to carry school lunches at the elementary school.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 155755,
+    "TextENGNew": "\"...I'm sick of it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 155756,
+    "TextENGNew": "\"So you're saying city life is preferable to the place where you were born. ...Your ancestors must be weeping.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 155757,
+    "TextENGNew": "\"I absolutely refuse to end my life in some remote mountain backwater! I want to live like a normal girl, in a normal city, surrounded by normal things — a normal life!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 155758,
+    "TextENGNew": "\"Do you honestly think the people of Hinamizawa can manage life in a city?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 155759,
+    "TextENGNew": "\"That's none of your concern! If you're so fond of this place, then stay here yourself! Don't drag me into it!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 155760,
+    "TextENGNew": "\"...My family is poor — we could never afford to move on our own! But the relocation money finally gives us enough to start over in the city!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 155761,
+    "TextENGNew": "\"...What becomes of us if the dam project is cancelled?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 155762,
+    "TextENGNew": "\"...Don't keep me trapped in these mountains any longer!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 155763,
+    "TextENGNew": "Tears gather in Mion's eyes, driven by the force of her feelings. Rika stands there in silence. The two Ministry men watch over them both, deeply uneasy.",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 155764,
+    "TextENGNew": "Suddenly, Rika turns on her heel and moves to exit.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 155765,
+    "TextENGNew": "\"...I'm going to the restroom.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 155766,
+    "TextENGNew": "\"R-Rika-san...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 155767,
+    "TextENGNew": "Rika exits at a brisk pace. Mion comes back to herself and starts to follow — but just then, Arakawa suddenly lets out a groan.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 155768,
+    "TextENGNew": "\"...Arakawa-kun!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 155769,
+    "TextENGNew": "\"Um... are you all right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 155770,
+    "TextENGNew": "\"He's been feeling unwell since the end of the break. ...Says the pain comes on out of nowhere.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 155771,
+    "TextENGNew": "\"Ah, um... there's a restroom around the back...? ...Oh, but right now... Rika-san is using it...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 155772,
+    "TextENGNew": "\"It's not that kind of pain. ...Are you all right?! Arakawa-kun!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 155773,
+    "TextENGNew": "\"...I'm sorry... ...It'll settle down... in a moment...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 155774,
+    "TextENGNew": "\"You're working yourself to the bone! You need to see a doctor.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 155775,
+    "TextENGNew": "\"I'm sorry. I'm all right now... Though my head is still pounding... ...Yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 198,
+    "MessageID": 155776,
+    "TextENGNew": "\"Isn't that exactly the kind of symptom they describe for a subarachnoid hemorrhage?! You're taking tomorrow off, no arguments! ...Go to a proper hospital and have a doctor look at you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 155777,
+    "TextENGNew": "\"......You're right. ...I'm sorry. ...It really did start hurting... all of a sudden...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 155778,
+    "TextENGNew": "\"...Come to think of it, my head hurts too. ...Yes. It's really throbbing.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 155779,
+    "TextENGNew": "\"That's not good. You may have caught cold.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 155780,
+    "TextENGNew": "\"Ahaha... well, it is raining out.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 155781,
+    "TextENGNew": "The stage goes completely dark. A voice crackles over a radio.",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 155782,
+    "TextENGNew": "\"......HQ to Car One, please respond. ......Car One, go ahead...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 155783,
+    "TextENGNew": "The sound of thunder in the distance. The stage gradually lightens. The sound of the downpour fades away.",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 155784,
+    "TextENGNew": "The two Ministry men are gone. A man — Yoshimura — comes running on.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 155785,
+    "TextENGNew": "\"...Man, hahahaha! ...It's like someone overturned a whole bathtub out there!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 155786,
+    "TextENGNew": "\"It doesn't make any difference whether you have an umbrella or not. Man, hahahaha! ...Blegh... even my underwear is soaked through... ...Want to see?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 155787,
+    "TextENGNew": "\"It's not every day you get the chance — absolutely!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 155788,
+    "TextENGNew": "\"...Oh, well... I didn't think you'd actually say yes.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 155789,
+    "TextENGNew": "\"......Someone you know...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 155790,
+    "TextENGNew": "\"No way. I don't have any acquaintances who look like that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 155791,
+    "TextENGNew": "\"But you seemed to be talking quite familiarly with him just now.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 155792,
+    "TextENGNew": "\"My heart belongs to you alone, Rika-san! I was just keeping a lonely middle-aged man's rambling company.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 155793,
+    "TextENGNew": "\"Middle-aged! How cruel! I'm only 28, you know!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 155794,
+    "TextENGNew": "\"Round that up and it's 30. Once you hit 30, you're well into middle age!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 155795,
+    "TextENGNew": "\"Let me tell you something — a man only starts to develop real character once he reaches his thirties.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 155796,
+    "TextENGNew": "\"Develops miso?! ...Wah, wah!! Rika-san, this man is dangerous!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 155797,
+    "TextENGNew": "\"I said thirties, not miso!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 155798,
+    "TextENGNew": "\"On top of that, hemorrhoids?! ...This man is genuinely alarming!! Ahahahahaha!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 155799,
+    "TextENGNew": "\"......You win, you win. Fine, hemorrhoids it is... ...You can't win against the young...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 155800,
+    "TextENGNew": "\"Rika-san, this guy is actually pretty funny! ...If we flatter him, maybe he'll give us pocket money!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 155801,
+    "TextENGNew": "\"...You really only just met him? ...You certainly hit it off quickly.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 155802,
+    "TextENGNew": "\"It's the same as with you and me, Rika-san. We talked a great deal when we first met too, didn't we?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 155803,
+    "TextENGNew": "\"...Well, maybe that was more just me running my mouth at you one-sidedly and getting excited all by myself...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 155804,
+    "TextENGNew": "\"......That's not true. ...I was enjoying myself too.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 155805,
+    "TextENGNew": "\"......I'm sorry about before. ...I said too much.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 155806,
+    "TextENGNew": "\"......No. ...It's me who should apologize. ...I'm sorry.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 155807,
+    "TextENGNew": "\"......Heh! ...That's quite a technique. I didn't expect you to steer it in that direction!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 155808,
+    "TextENGNew": "\"Oh, be quiet! We had something nice going there!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 155809,
+    "TextENGNew": "\"Don't glare at me like that. All right, all right! ...I won't say another word! Go on and take it as far as you like.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 155810,
+    "TextENGNew": "\"Take it as far as I like?! What does that mean?! Hey, hey! Rika-san, this man is indecent!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 155811,
+    "TextENGNew": "\"...You're Rika-chan, are you? ...I'm Yoshimura. Pleased to meet you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 155812,
+    "TextENGNew": "\"...What are your hobbies and your occupation, Yoshimura-san?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 155813,
+    "TextENGNew": "\"Huh?! ...Man, hahaha! Even an omiai doesn't cut to the point that fast!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 155814,
+    "TextENGNew": "\"Various hobbies. As for occupation — freelance writer, I suppose.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 155815,
+    "TextENGNew": "\"...A relative of the word freeloader...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 155816,
+    "TextENGNew": "\"...A magazine journalist who works independently.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 155817,
+    "TextENGNew": "\"...The next bus is... Well. There's quite a while to go. ...Today is my lucky day! ...Taking shelter from the rain with a couple of young ladies!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 155818,
+    "TextENGNew": "Tonegawa and Arakawa return from the restroom. Yoshimura looks slightly disappointed.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 155819,
+    "TextENGNew": "\"...Oh? A friend of yours?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 155820,
+    "TextENGNew": "\"Just some strange old man.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 155821,
+    "TextENGNew": "\"Ouch! ...Hello, I'm Yoshimura. Please let me take shelter from the rain here as well. ...You two are with the dam project, I take it?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 155822,
+    "TextENGNew": "\"Hello. Tonegawa, from the Ministry of Construction's River Bureau, Urban River Division.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 155823,
+    "TextENGNew": "\"Hello. Arakawa, also from the Urban River Division.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 155824,
+    "TextENGNew": "\"Hello, Sonozaki here, from Makes-No-Sense-to-Me.\"\n\"Hello, Furude here, also from Makes-No-Sense-to-Me.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 155825,
+    "TextENGNew": "\"...You all seem rather close... ...Are you acquainted...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 155826,
+    "TextENGNew": "All four look at each other and slowly shake their heads.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 155827,
+    "TextENGNew": "\"...You look quite close enough to me, honestly. ...You really do.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 155828,
+    "TextENGNew": "\"Ah, could everyone stay just like that for a moment! Since you're such a close-knit group of four, I want to take a photograph! ...Come on, smile, smile!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 155829,
+    "TextENGNew": "\"The Troubled Reality of Today's Schoolgirls. Ministry of Construction Officials Engage in Forbidden Liaisons in Hinamizawa!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 155830,
+    "TextENGNew": "Blackout. Bam bam bam! A series of heavy blows rings out. A moment of silence. The stage remains pitch black. A voice crackles over a radio.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 155831,
+    "TextENGNew": "\"......HQ, come in. HQ, come in. ......All vehicles now in position...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 155832,
+    "TextENGNew": "A crack of lightning. The stage gradually grows lighter. The sound of the downpour fades.",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 155833,
+    "TextENGNew": "\"...Man, a thunderstorm on top of everything! ...What dreadful weather.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 155834,
+    "TextENGNew": "\"But doesn't the sky look a little brighter over there?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 155835,
+    "TextENGNew": "\"Perhaps it'll clear up entirely by the time the bus arrives.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 155836,
+    "TextENGNew": "\"......Are you here on an assignment, Yoshimura-san? ...About the Hinamizawa dam, I suppose?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 155837,
+    "TextENGNew": "\"...Yes, it's at least connected to the dam. ...But the dam itself isn't what I've come to report on.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 155838,
+    "TextENGNew": "\"...The villagers' resistance movement against the dam project?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 155839,
+    "TextENGNew": "\"No.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 155840,
+    "TextENGNew": "\"The environmental impact of dam construction?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 155841,
+    "TextENGNew": "\"No, not that.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 155842,
+    "TextENGNew": "\"The contributions a dam would make to the region?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 155843,
+    "TextENGNew": "\"Hahaha! No, not that either. Nothing so serious.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 155844,
+    "TextENGNew": "\"Pretty Girls' Special Exposé — Tohoku Edition! A National Beauty Spotted in Hinamizawa!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 155845,
+    "TextENGNew": "\"...What I... came here to report on is... .....................\"",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 155846,
+    "TextENGNew": "Yoshimura draws it out for effect. Mion remains frozen in her pose indefinitely. Rika, exasperated, relents and shakes her hand. Once again, Mion is silently overjoyed.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 155847,
+    "TextENGNew": "\"......What is it? ...Please don't draw it out.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 155848,
+    "TextENGNew": "\"...Oyashiro-sama... do you know the name?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 155849,
+    "TextENGNew": "\".........Oyashiro-sama... that's...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 155850,
+    "TextENGNew": "\"...Yes. ......Oyashiro-sama.\"",
+    "significantChanges": false
+  }
+]

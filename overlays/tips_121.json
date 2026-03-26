@@ -1,0 +1,203 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "No Known Connections",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"No Relations\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 15939,
+    "TextENGNew": "``Please hold on a moment, I'll transfer you... Oryou-san, there's a call from someone at the municipal government office.``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 15940,
+    "TextENGNew": "``...Mmm, hello?``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 15941,
+    "TextENGNew": "``Hello, Advisor Sonozaki. This is Aida from the municipal government.@k@vS20/00/443000002. Thank you very much for the ohagi the other day.``",
+    "significantChanges": true,
+    "changeReason": "The old translation renders 園崎顧問 as 'Sonozaki-san' while the new correctly translates her title as 'Advisor Sonozaki,' which conveys her official role in the community.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 15942,
+    "TextENGNew": "``Oh, don't mention it. We're the ones who should be thanking you for all your help at the culture festival.@k@vS20/17/442300045. That outdoor tea parasol--thank you for arranging that.@k@vS20/17/442300046. How much does one of those cost, anyway?@k@vS20/17/442300047. We use it every year, so the municipality ought to just buy one.``",
+    "significantChanges": true,
+    "changeReason": "The new translation correctly specifies 野点傘 as an 'outdoor tea parasol' (not just 'large parasol') and clarifies that the municipality should buy it (自治で), rather than 'we might as well buy one ourselves.'",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 15943,
+    "TextENGNew": "``Well, the one we used was borrowed from a teacher. I looked into the price, and a domestic one runs about 200,000 yen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 15944,
+    "TextENGNew": "``There's a similar Chinese-made one that we could get for around 80,000 yen...``",
+    "significantChanges": true,
+    "changeReason": "The old translation paraphrases the price as 'less than half,' while the new translation preserves the specific figure of 80,000 yen (８万円) from the Japanese.",
+    "changeScore": 1
+  },
+  {
+    "index": 7,
+    "MessageID": 15945,
+    "TextENGNew": "``I don't care where it's made, as long as it's not an embarrassment to the teachers we invite. Just choose wisely.``",
+    "significantChanges": true,
+    "changeReason": "The old translation omits Oryou's instruction to 'choose wisely' (よぅ選んどくれぇな) and rephrases the concern about embarrassing invited teachers as 'causing trouble,' shifting the nuance.",
+    "changeScore": 2
+  },
+  {
+    "index": 8,
+    "MessageID": 15946,
+    "TextENGNew": "``We've actually already ordered the 80,000-yen one. Once it arrives, perhaps you could take a look and give your final approval...``",
+    "significantChanges": true,
+    "changeReason": "The new translation specifies which parasol was ordered (the 80,000-yen one, matching ８万の傘) and uses 'give your final approval' rather than 'make a final decision,' better reflecting the deference in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 15947,
+    "TextENGNew": "``Also, we've had the Edo-style tea ceremony three years running now. The teachers are saying we really ought to invite someone from a different school for balance.``",
+    "significantChanges": true,
+    "changeReason": "The old translation attributes the suggestion to 'we,' while the Japanese has Oryou reporting that the teachers themselves are saying they need different instructors for balance (先生が...バランスがようない).",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 15948,
+    "TextENGNew": "``Whether it's Omotesenke or Urasenke, could the municipality look into finding a new instructor by next year?``",
+    "significantChanges": true,
+    "changeReason": "The old translation omits the specific tea ceremony school names 'Omotesenke or Urasenke' (表でも裏でも) and the detail that the municipality should do the searching, losing important cultural context.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 15949,
+    "TextENGNew": "``O-Oh... I see... W-Will do!@k@vS20/00/443000007. We'll find a different tea ceremony instructor.@k@vS20/00/443000008. ...About that, Advisor.@k@vS20/00/443000009. There was actually something else I wanted to discuss with you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 15950,
+    "TextENGNew": "``Here I go rattling on about parasols. So, what is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 15951,
+    "TextENGNew": "``Well, we were wondering whether you had heard anything about the matter concerning Satoko Houjou-san, a resident of Hinamizawa.``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 15952,
+    "TextENGNew": "``...Satoko Houjou? What?@k@vS20/17/442300053. You mean that wretched Houjou girl?@k@vS20/17/442300054. What has she done?``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 15953,
+    "TextENGNew": "``No, well, you see... Apparently she has recently begun living with her uncle,@k@vS20/00/443000012. and there are reports of trouble between them... Have you heard anything about this?``",
+    "significantChanges": true,
+    "changeReason": "The old translation says 'she's being abused,' but the Japanese (トラブルを起こしている) only says there is 'trouble' between them; the new translation more accurately reflects the circumspect language Aida uses.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 15954,
+    "TextENGNew": "``Her uncle? Satoko?@k@vS20/17/442300056. I know nothing of the sort!``",
+    "significantChanges": true,
+    "changeReason": "The old translation inserts 'Satoko's being abused?' which is not in the Japanese (沙都子がぁ？ simply says 'Satoko?'), adding information not present in the original dialogue.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 15955,
+    "TextENGNew": "``Oh, well, if you haven't heard, that's perfectly fine. The truth is, a petition regarding this matter was filed at the child consultation center.@k@vS20/00/443000014. According to the center, the petitioners were quite forceful about it.``",
+    "significantChanges": true,
+    "changeReason": "The old translation adds 'someone from Hinamizawa' not present in the Japanese and uses singular 'petitioner,' while the new translation more accurately reflects the plural petitioners and the formal language of the original.",
+    "changeScore": 2
+  },
+  {
+    "index": 18,
+    "MessageID": 15956,
+    "TextENGNew": "``The section chief wanted to know--if you were already aware of the situation, perhaps we should expedite matters...``",
+    "significantChanges": true,
+    "changeReason": "The old translation renders 係長 as 'manager' instead of 'section chief' and softens the meaning; the Japanese says they should 'expedite matters' (取り扱いを急いだほうがいい), not merely 'talk with you.'",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 15957,
+    "TextENGNew": "``I know nothing and understand nothing about this! Why on earth should I lift a finger for that cursed Houjou girl?!@k@vS20/17/442300058. The Sonozaki family has absolutely nothing to do with this!!``",
+    "significantChanges": true,
+    "changeReason": "Old renders バチ当たり as 'pitiful' (sympathy) but it means 'cursed/accursed' (contempt).",
+    "changeScore": 4
+  },
+  {
+    "index": 20,
+    "MessageID": 15958,
+    "TextENGNew": "``Well... has anything about this come up through the town council, perhaps...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 15959,
+    "TextENGNew": "``I don't know anything!! What are you talking about?!@k@vS20/17/442300060. If old Kimiyoshi were backing the Houjou girl, then the Sonozaki family would have heard about it! What is the meaning of this?!``",
+    "significantChanges": true,
+    "changeReason": "The old translation renders 知らん知らん as 'No, no!' losing the emphatic denial of knowledge, and omits Oryou's final demand 'What is the meaning of this?!' (どういうこっちゃあ).",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 15960,
+    "TextENGNew": "``Who exactly filed this petition at the center?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 15961,
+    "TextENGNew": "``Some of her classmates came in, apparently... Well, that's the gist of it. ...So this was just something her classmates did on their own, and neither the town council nor the Advisor has any involvement--is that the correct understanding?``",
+    "significantChanges": true,
+    "changeReason": "The old translation generalizes to 'the village has nothing to do with it,' while the Japanese specifically names the town council (連町) and the Advisor (顧問) as uninvolved, which the new translation preserves.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 15962,
+    "TextENGNew": "``Of course that's right! What kind of unauthorized meddling is this?! I know nothing!!@k@vS20/17/442300063. The village has nothing to do with Satoko!!``",
+    "significantChanges": true,
+    "changeReason": "The old translation omits Oryou's outrage about 'unauthorized meddling' (勝手な真似をしさらしとん), losing her indignation that the classmates acted without authorization.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 15963,
+    "TextENGNew": "The contents of this conversation were relayed to the child consultation center.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 15964,
+    "TextENGNew": "...In other words, since Oryou was not behind this, there was no reason to treat the petition as anything special.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 15965,
+    "TextENGNew": "The section chief instructed his front-desk staff that even if the petitioners returned tomorrow, they should listen politely@k but under no circumstances make any careless promises.",
+    "significantChanges": true,
+    "changeReason": "The old translation specifies 'promising the girl's safety,' which is not in the Japanese; the original (安易な口約束をしないように) simply says 'don't make careless promises,' which the new translation correctly conveys.",
+    "changeScore": 3
+  }
+]

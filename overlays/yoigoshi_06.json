@@ -1,0 +1,778 @@
+[
+  {
+    "index": 1,
+    "MessageID": 94697,
+    "TextENGNew": "The assembly hall was brightly lit.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 94698,
+    "TextENGNew": "When I stepped inside, Towada-san and Miyuki-chan were sitting across from each other.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 94699,
+    "TextENGNew": "\"How did it go?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 94700,
+    "TextENGNew": "Towada-san asked with a desperate expression.",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'a stern look' to 'a desperate expression' - Japanese 切実な表情 means desperate/earnest, not stern.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 94701,
+    "TextENGNew": "I could only shake my head in silence.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 94702,
+    "TextENGNew": "\"Is that so...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 94703,
+    "TextENGNew": "\"So... you didn't find it...?\"",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'you couldn't find him' to 'you didn't find it' - Japanese なかったんですか is ambiguous but refers to searching for something (the person who disappeared), and the pronoun changes from 'him' to 'it.'",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 94704,
+    "TextENGNew": "\"Right...@k@vS10/62/410100976. We searched far and wide, but it was pitch black out there so we couldn't see anything.@k@vS10/62/410100977. ...Otobe and I were discussing the possibility that he might've been dragged into the woods...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 94705,
+    "TextENGNew": "\"Dragged into the woods...? By who?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 94706,
+    "TextENGNew": "\"Well...@k@vS10/62/410100979. I mean... I don't really understand that, myself...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 94707,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 94708,
+    "TextENGNew": "I trailed off and sat down on the tatami for the time being. ...I didn't know what else to say to her.",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'The conversation was turning sour' to 'I trailed off' - Japanese 言葉を濁す means to speak evasively/trail off, not that the conversation turned sour.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 94709,
+    "TextENGNew": "\"...Takumi-kun is alive. I know it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 94710,
+    "TextENGNew": "\"...Of course he is.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 94711,
+    "TextENGNew": "Even as I said it, I had no confidence.",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'I didn't believe it' to 'I had no confidence' - Japanese 自信がない means lacking confidence, not disbelief. Different emotional nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 94712,
+    "TextENGNew": "I gazed at the tatami in front of me and pretended to think about something to avoid making eye contact with Towada-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 94713,
+    "TextENGNew": "I wasn't sure why... but somehow, I had a feeling Kurosawa was no longer alive. But I realized that now wasn't the best time to say it.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 94714,
+    "TextENGNew": "I decided to set it aside for now.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 94715,
+    "TextENGNew": "The rain- and mud-caked hem of my pants uncomfortably clung to my legs.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 94716,
+    "TextENGNew": "\"Towada-san...@k@vS10/41/410200406. We'll search again tomorrow morning.@k@vS10/41/410200407. So...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 94717,
+    "TextENGNew": "\"Hold up, we can't do that...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 94718,
+    "TextENGNew": "\"...Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 94719,
+    "TextENGNew": "\"If we don't tell the police everything that's happened today, things will get bad.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 94720,
+    "TextENGNew": "\"Cars have gone missing, phones have been broken, and people have started to disappear...@k@vS10/62/410100984. Given our current situation, are we even sure we'll survive until tomorrow morning...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 94721,
+    "TextENGNew": "\"That may be true...@k@vS10/41/410200410. But even so...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 94722,
+    "TextENGNew": "Otobe began to mumble something.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 94723,
+    "TextENGNew": "...I still wasn't sure what he was trying to hide, but this wasn't the time to get into it.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 94724,
+    "TextENGNew": "\"Anyway, I think we need to notify the police today.@k@vS10/62/410100986. It's an abnormal situation, no matter how you look at it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 94725,
+    "TextENGNew": "\"But... there's nothing we can do to contact the police, right...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 94726,
+    "TextENGNew": "\"Actually... I thought of a way just a little while ago.@k@vS10/62/410100988. And in order to do that, I need to ask a favor.@k@vS10/62/410100989. Sonozaki-san... would you lend us your car for a little while?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 94727,
+    "TextENGNew": "\"...My car?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 94728,
+    "TextENGNew": "Sonozaki-san, who was listening to the conversation from a short distance away, suddenly raised her head in surprise.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 94729,
+    "TextENGNew": "\"Right.@k@vS10/62/410100991. If I borrow your car, I should be able to drive straight to the Okinomiya police station and talk to them directly.@k@vS10/62/410100992. I think that's a much better plan than waiting here overnight.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 94730,
+    "TextENGNew": "\"...So, you have a car, don't you?@k@vS10/62/410100994. ...There's no way you walked all the way here through the mountains, dressed in a kimono, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 94731,
+    "TextENGNew": "\"Ryuunosuke-san, that's not the way to ask for something...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 94732,
+    "TextENGNew": "That last sentence was essentially my way of asking, \"You're not a ghost, right?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 94733,
+    "TextENGNew": "I'm well aware that I won't get a straight answer if I ask that directly...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 94734,
+    "TextENGNew": "\"...Hehe.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 94735,
+    "TextENGNew": "Sonozaki-san may have laughed, but her face looked dead serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 94736,
+    "TextENGNew": "She stood there without moving a muscle, and the sword still hanging in front of her chest.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 94737,
+    "TextENGNew": "Wh... wh-why is she reacting like this...?",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 94738,
+    "TextENGNew": "Maybe she really isn't a human being... but a ghost?!",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 94739,
+    "TextENGNew": "\"So...@k@vS10/62/410100996. Where did you park your car?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 94740,
+    "TextENGNew": "\"On the road in front of the shrine.@k@vS10/43/410400252. Near the base of the stone steps.@k@vS10/43/410400253. ...On the side closer to the village.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 94741,
+    "TextENGNew": "\"Huh...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 94742,
+    "TextENGNew": "Otobe turned to me as soon as he heard that. ...And then he whispered something so quiet that only I could hear it.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 94743,
+    "TextENGNew": "\"Arakawa-san...@k@vS10/41/410200413. Doesn't that... sound a little weird to you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 94744,
+    "TextENGNew": "\"What is it, Otobe?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 94745,
+    "TextENGNew": "\"We did all that walking earlier, but...@k@vS10/41/410200415. there were no cars anywhere to be seen, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 94746,
+    "TextENGNew": "\"...That's right.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 94747,
+    "TextENGNew": "\"...I parked it somewhere out of sight.@k@vS10/43/410400255. In a place that ordinary people would never notice it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 94748,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 94749,
+    "TextENGNew": "Sonozaki-san fixated her threatening eyes straight toward mine.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 94750,
+    "TextENGNew": "That moment, I felt a chill crawl up my spine.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 94751,
+    "TextENGNew": "Impossible thoughts began taking concrete shapes inside my head.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 94752,
+    "TextENGNew": "Sonozaki-san... didn't actually drive a car here, did she...?",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 94753,
+    "TextENGNew": "Mion Sonozaki was supposed to be dead. But if the person standing before me was actually a ghost inhabiting this village, that explained everything.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 94754,
+    "TextENGNew": "If she was a ghost... it wouldn't be unusual for her to be walking around this village.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 94755,
+    "TextENGNew": "In other words... Sonozaki-san... didn't come from outside the village, so she didn't need a car...",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 94756,
+    "TextENGNew": "\"What is it...?@k@vS10/43/410400257. Something odd about what I said?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 94757,
+    "TextENGNew": "Something odd...?",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 94758,
+    "TextENGNew": "What are you saying...?",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 94759,
+    "TextENGNew": "There are so many odd things about you...!",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 94760,
+    "TextENGNew": "My palms were drenched with sweat and my throat was painfully dry. Though I had more to say, my throat felt so strained I couldn't use it.",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 94761,
+    "TextENGNew": "My nervous system was shattered by the extreme tension.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 94762,
+    "TextENGNew": "\"Can I... ask one more thing?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 94763,
+    "TextENGNew": "\"Go ahead.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 94764,
+    "TextENGNew": "\"You......@k@vS10/62/410101002. really did come here from elsewhere, didn't you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 94765,
+    "TextENGNew": "\"Hehehehe...@k@vS10/43/410400260. Arakawa... do you think I'm some kind of ghost or demon?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 94766,
+    "TextENGNew": "\"......\"",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 94767,
+    "TextENGNew": "I couldn't respond.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 94768,
+    "TextENGNew": "It was clearly just as she said.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 94769,
+    "TextENGNew": "If she was a ghost, she shouldn't have any legs and wouldn't make sounds while walking. But none of those indicators were present.",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 94770,
+    "TextENGNew": "I quietly stared at Sonozaki-san while she stood there motionless.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 94771,
+    "TextENGNew": "No matter how hard I looked, I couldn't discern anything about her true identity. But... there was nothing else I could do.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 94772,
+    "TextENGNew": "\"Ryuunosuke-san... what's wrong?@k@vS10/40/410300630. You look like you're thinking really hard about something...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 94773,
+    "TextENGNew": "I heard Miyuki-chan's anxious voice from somewhere far away.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 94774,
+    "TextENGNew": "I see. I guess it really shows on my face that I've been lost in thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 94775,
+    "TextENGNew": "My throbbing heart gradually returned to normal.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 94776,
+    "TextENGNew": "For a moment, I was at a loss for words. But I boldly spoke up anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 94777,
+    "TextENGNew": "\"About Sonozaki-san's car......@k@vS10/62/410101005. Are we sure she really has one?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 94778,
+    "TextENGNew": "\"Haah~...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 94779,
+    "TextENGNew": "\"What an idiotic thing to say.@k@vS10/43/410400263. How would I have gotten here if not in a car?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 94780,
+    "TextENGNew": "\"Are you seriously going to suggest that I walked several kilometers down mountain roads dressed in a kimono and sandals just to come to this deserted village?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 94781,
+    "TextENGNew": "I didn't think anything of the sort.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 94782,
+    "TextENGNew": "However... what if she was \"in\" this village from the very start...?",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 94783,
+    "TextENGNew": "That's right. Sonozaki-san was here the whole time.",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 94784,
+    "TextENGNew": "So in order to disguise that, she had to \"refuse\" the request I made earlier...",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 94785,
+    "TextENGNew": "Letting me borrow her car wasn't an unreasonable request.",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 94786,
+    "TextENGNew": "...The idea that Sonozaki-san was a ghost repeated over and over inside my head, and it was getting stronger.",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 94787,
+    "TextENGNew": "Then, what should I do now...?",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 94788,
+    "TextENGNew": "Borrowing Sonozaki-san's car was no longer an option. I had to come up with another plan... In the end, was walking the only option...?",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 94789,
+    "TextENGNew": "Down a mountain road with no streetlights, on a night like this...?",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 94790,
+    "TextENGNew": "\"...Fine.@k@vS10/43/410400266. I just have to lend you the car, right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 94791,
+    "TextENGNew": "\"Huh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 94792,
+    "TextENGNew": "Sonozaki-san abruptly rose to her feet as she said that, then began carefully walking forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 94793,
+    "TextENGNew": "Her car... really... exists...?",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 94794,
+    "TextENGNew": "......No, that can't be...!",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 94795,
+    "TextENGNew": "Restlessness consumed my heart as I watched her walk off.",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 94796,
+    "TextENGNew": "Given the current situation, there was a distinct possibility Sonozaki-san would never return here ever again.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 94797,
+    "TextENGNew": "Was she trying escape somewhere on her own and leave us behind...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 94798,
+    "TextENGNew": "Or was she keeping us confined here, intent on picking us off one by one...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 94799,
+    "TextENGNew": "\"Sonozaki-san...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 94800,
+    "TextENGNew": "\"...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 94801,
+    "TextENGNew": "\"You're... coming back, aren't you?@k@vS10/62/410101009. Once you get your car, you're not going to leave us like this... right?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 94802,
+    "TextENGNew": "\"...My, you're awfully distrusting.@k@vS10/43/410400269. If you're that worried, you can tag along.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 94803,
+    "TextENGNew": "\"...How about it? Want to come with me?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 94804,
+    "TextENGNew": "\"Huh...?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 94805,
+    "TextENGNew": "I was completely baffled by Sonozaki-san's offer. ...Unbelievable. I never expected she'd ask me to come along.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 94806,
+    "TextENGNew": "So... what on earth am I going to do...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 94807,
+    "TextENGNew": "Feeling lost, I turned back toward Miyuki-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 94808,
+    "TextENGNew": "She looked dazed for a moment, but then her eyes widened and she nodded to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 94809,
+    "TextENGNew": "\"...I'll wait here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 94810,
+    "TextENGNew": "\"Towada-san, I think it would be best for you to rest here a little longer.@k@vS10/40/410300633. ...Don't you think?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 94811,
+    "TextENGNew": "\"I...\"",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 94812,
+    "TextENGNew": "\"Really, it's fine.@k@vS10/40/410300635. Let's stay here together.@k@vS10/40/410300636. ...The two of us can wait here until Ryuunosuke-san and the others come back for us.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 94813,
+    "TextENGNew": "\"...Okay.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 94814,
+    "TextENGNew": "Towada-san appeared vexed by Miyuki-chan's suggestion, but she nodded in agreement.",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 94815,
+    "TextENGNew": "\"Oh... that's right.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 94816,
+    "TextENGNew": "What about Otobe?",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 94817,
+    "TextENGNew": "I stole a quick glance at Otobe as I pondered that.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 94818,
+    "TextENGNew": "Otobe was irritatingly indecisive, but the fact that I instinctively wanted to know others' opinions might have shown I wasn't all that great at making decisions either.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 94819,
+    "TextENGNew": "Sure enough, Otobe was looking back and forth between myself and Sonozaki-san, at a total loss for what to do.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 94820,
+    "TextENGNew": "\"Hurry up and decide before the sun comes up.@k@vS10/43/410400272. I'm going on ahead... you guys do what you want.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 94821,
+    "TextENGNew": "Sonozaki-san slipped on her sandals, popped open her old-fashioned umbrella, and started walking toward the shrine gate in the pouring rain.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 94822,
+    "TextENGNew": "\"Sonozaki-san...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 94823,
+    "TextENGNew": "Aah, I need to make a decision...!",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 94824,
+    "TextENGNew": "I called out to Sonozaki-san from behind.",
+    "significantChanges": false
+  }
+]

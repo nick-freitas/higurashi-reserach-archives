@@ -1,0 +1,554 @@
+[
+  {
+    "index": 1,
+    "MessageID": 3677,
+    "TextENGNew": "When the slideshow ended and the lights came back on in the conference room, the auditors began to applaud as if by spontaneous consensus, all of them praising the Irie Institute's remarkable achievement.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 3678,
+    "TextENGNew": "\"Magnificent — truly magnificent! If I am to speak frankly, I confess I had not held great expectations for this Hinamizawa Syndrome research.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 3679,
+    "TextENGNew": "\"Even if it advanced at all, I imagined it would be a matter of two steps forward, one step back, measured in decades.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'three steps forward and two steps back' to 'two steps forward, one step back'; JPN 三歩進んで二歩下がる literally says three forward, two back, so the old numbers were accurate.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 3680,
+    "TextENGNew": "\"And yet — in such a short span of time, to have achieved so much! This is entirely the fruit of Director Irie's dedication and leadership!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 3681,
+    "TextENGNew": "\"Not at all. I owe everything to the outstanding staff who support me — and of course to Takano-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 3682,
+    "TextENGNew": "\"How modest of you. Hee hee hee. Director Irie truly is a genius when it comes to the brain — his record of achievement is simply unrivaled.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 3683,
+    "TextENGNew": "\"Indeed! There cannot be many doctors your age who have examined as many brains as you have!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'operating on brains' to 'examined as many brains'; JPN 脳みそをご覧になってきた means 'have seen/examined,' not 'operated on.'",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 3684,
+    "TextENGNew": "\"Congratulations, Lieutenant Colonel Irie. Now I can return to Tokyo and make my report with my head held high.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 3685,
+    "TextENGNew": "\"I'm glad we could send you off with good news, Tomitake-san. Though I must ask — please spare me the 'Lieutenant Colonel.' I simply cannot get used to it… It sounds like someone calling out 'Risa-san,' to be honest.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 3686,
+    "TextENGNew": "\"Ahaha! It does sound rather like a woman's name, doesn't it!\"",
+    "significantChanges": true,
+    "changeReason": "Old completely misses the joke: JPN says まるで女性の名前みたい (sounds like a woman's name) but old translates as 'I bet you do, huh?' — different meaning entirely.",
+    "changeScore": 4
+  },
+  {
+    "index": 11,
+    "MessageID": 3687,
+    "TextENGNew": "\"Hee hee. But Jirou-san is the unsung hero of all this. It was thanks to his tireless efforts that our funding was maintained during those long years when we had so little to show for it.\"",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 影の立役者 (shadow hero/unsung hero), a specific phrase meaning the key contributor working behind the scenes, while old simplified to 'a huge help.'",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 3688,
+    "TextENGNew": "\"Ha ha ha ha — well, it was nothing. But the results here today are genuinely remarkable. You've identified the pathogen behind Hinamizawa Syndrome and laid out a concrete course for future research. I find myself looking forward to the next progress audit very much.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 3689,
+    "TextENGNew": "\"With results like these, Tokyo surely will not continue pressing so relentlessly for budget cuts.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 3690,
+    "TextENGNew": "\"Hee hee. After all, they had nearly cut even our budget for the canned coffee we serve to visitors, hadn't they?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 3691,
+    "TextENGNew": "\"Bwahahahahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 3692,
+    "TextENGNew": "\"Tomitake-kun, make sure you give Tokyo a proper report and put in a word for enough funding to host a proper celebration.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 3693,
+    "TextENGNew": "\"All stick and no carrot simply won't do!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 3694,
+    "TextENGNew": "\"Ha ha ha ha — we would appreciate it most if that carrot took the form of a budget increase.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 3695,
+    "TextENGNew": "\"Wahahahahahaha!!!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 3696,
+    "TextENGNew": "In that warm, convivial atmosphere, the routine audit came to a close.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 3697,
+    "TextENGNew": "Representatives from the National Research Institute who had joined the audit team had surrounded Irie and were pressing him with questions.",
+    "significantChanges": true,
+    "changeReason": "Removes 'of Infectious Diseases' from the institute name; JPN simply says 国立研究所 (National Research Institute), not specifically infectious diseases.",
+    "changeScore": 2
+  },
+  {
+    "index": 22,
+    "MessageID": 3698,
+    "TextENGNew": "\"Takano-san, congratulations. I can't very well say it in front of everyone — but today's results are entirely the product of your accumulated effort.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 3699,
+    "TextENGNew": "\"Hee. Thank you, Jirou-san.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 3700,
+    "TextENGNew": "Of everyone present, only I and Tomitake knew of the shadowy maneuvering behind the scenes — the puppet-masters who had engineered the Institute's very founding.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 3701,
+    "TextENGNew": "…That was why only Tomitake could truly appreciate what I had endured.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 3702,
+    "TextENGNew": "\"But this is only the moment I've finally stepped onto the stage. My opponent has simply climbed into the same ring as me at last. The real test begins from here.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 3703,
+    "TextENGNew": "\"And from here on — this is where it gets most interesting.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 3704,
+    "TextENGNew": "\"Ahaha. By the way — I've been asked to pass on a message from Director Nakagawa. He very much hopes you'll come to Tokyo to present your findings.\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'Manager Nakagawa' to 'Director Nakagawa'; JPN 本部長 means headquarters chief/director, a higher rank than manager.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 3705,
+    "TextENGNew": "\"The Alphabet board has also expressed its wish to meet with you personally. It seems everyone wants to hear it directly from you.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 3706,
+    "TextENGNew": "\"My, my — is a report through Jirou-san not sufficient for them?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 3707,
+    "TextENGNew": "\"No, ahaha! Th-that's not quite what they mean, I think…! M-maybe they just want to see the legendary beautiful researcher in person, ahaha…!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 3708,
+    "TextENGNew": "\"Oh, Jirou-san, really. Hee hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 3709,
+    "TextENGNew": "\"Excuse me. Major Takano, there is a call for you from Tokyo.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 3710,
+    "TextENGNew": "\"Sorry to keep you waiting. This is Takano.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 3711,
+    "TextENGNew": "\"Oh-ho — keeping well, are you?!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 3712,
+    "TextENGNew": "\"K-Koizumi-sensei!! I am truly honored that you would take the time to call personally…!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 3713,
+    "TextENGNew": "\"Wahaha! Word reached me that your research had scored a tremendous victory, Miyo-chan. I had to ring you up and offer my congratulations!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 3714,
+    "TextENGNew": "\"Thank you so much…!! Yes — thanks to everyone's support, we have succeeded in identifying the pathogen behind Hinamizawa Syndrome. It was our first milestone, and our greatest goal.\"",
+    "significantChanges": true,
+    "changeReason": "New adds 'our first milestone, and our greatest goal,' reflecting JPN 第一段階であり、最大の目標でもあった (first stage and greatest goal), which the old translation omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 3715,
+    "TextENGNew": "\"Hmm, hmm — is that so, is that so!! You've done it at last, Miyo-chan. Takano-kun must be overjoyed up in heaven!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 3716,
+    "TextENGNew": "\"There is still so far to go. My grandfather's research extended well beyond simply identifying the pathogen. He was exploring the possibility that human thought and will have in fact been governed all along by parasitic entities outside the human self —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 3717,
+    "TextENGNew": "\"…Only when that is exposed will his work be celebrated as the great achievement it truly is. Hee hee. If all the world's ideologies and religions could be explained through parasites — hee hee — the uproar would be enough to turn the world on its head.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 3718,
+    "TextENGNew": "\"Wahaha! What a delightful prospect! If it were proven that those pompous religious figures are nothing more than the ringleaders of a parasite colony — now that would truly be worth seeing!\"",
+    "significantChanges": true,
+    "changeReason": "Changes 'their leaders are parasites' to 'nothing more than the ringleaders of a parasite colony'; JPN 寄生虫の親玉 means 'boss of the parasites,' implying the religious figures serve the parasites, a more provocative claim.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 3719,
+    "TextENGNew": "\"I want to see it with my own eyes. Until you show me that day, Miyo-chan, I'll keep refusing every invitation Heaven sends.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 3720,
+    "TextENGNew": "\"Don't say such inauspicious things. But do look forward to it — I intend to make an announcement that will leave the entire world speechless.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 3721,
+    "TextENGNew": "\"When that day comes, the whole world will finally learn of my grandfather's achievement, scrambling to read the research he left behind. Only when I have reached that point will I have truly repaid my debt to him…\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 3722,
+    "TextENGNew": "\"…I envy Takano-kun, I do. I never needed all this money. I could throw half of it away. What I wish I had was a grandchild like you — one who would carry my spirit forward.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 3723,
+    "TextENGNew": "\"Thank you. Those words are more than I deserve.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 3724,
+    "TextENGNew": "\"Oh, and there's a gift from your Uncle Koizumi. I had a bottle of wine sent to you — for the celebration, Miyo-chan. I didn't know your home address, so I addressed it to the clinic.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 3725,
+    "TextENGNew": "\"I'm told it's taking some time to procure, so delivery may be delayed — but when it arrives, gather the people who supported your research and share it with them.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 3726,
+    "TextENGNew": "\"Wine for the celebration! My, I wonder what fine vintage Koizumi-sensei will be sending us!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 3727,
+    "TextENGNew": "\"It's not that sort of fine wine. Don't you remember, Miyo-chan? How Takano-kun always kept a certain bottle, very close to his heart?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 3728,
+    "TextENGNew": "…A sharp memory surfaced…",
+    "significantChanges": true,
+    "changeReason": "Changes 'I remember' to 'A sharp memory surfaced'; JPN はっとする means being struck by a sudden realization, more vivid than simply remembering.",
+    "changeScore": 2
+  },
+  {
+    "index": 53,
+    "MessageID": 3729,
+    "TextENGNew": "That's right.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 3730,
+    "TextENGNew": "My grandfather had cherished a single old bottle of wine.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 3731,
+    "TextENGNew": "Whether he had bought it himself or received it as a gift I could not say — but he treasured it dearly, and I seem to recall him saying more than once that he would uncork it the day his research was finally recognized.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 3732,
+    "TextENGNew": "I was too young at the time to know its name — but Koizumi-sensei, having heard grandfather speak of it, would certainly know…",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 3733,
+    "TextENGNew": "…And he had sought out that very bottle — so intimately linked to grandfather — and sent it to mark this moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 3734,
+    "TextENGNew": "…For the first time in a long while, I felt it again — that warmth like sunlight pooling in a quiet room, the warmth I had known in the days spent at my grandfather's side.",
+    "significantChanges": true,
+    "changeReason": "Changes third-person narration 'Takano felt' to first-person 'I felt'; while JPN uses 鷹野は (third person), this creates an inconsistency since surrounding text uses first person, but the original deliberately shifts perspective here.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 3735,
+    "TextENGNew": "\"Thank you… Uncle Koizumi…\"",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 3736,
+    "TextENGNew": "\"Hmm, hmm. I knew it — hearing you call me that feels just right, Miyo-chan! When you say 'sensei,' I can't quite believe it's me you mean! Wahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 3737,
+    "TextENGNew": "I found myself laughing along despite myself.",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 3738,
+    "TextENGNew": "After all, only moments ago Tomitake and Irie had been having almost exactly this same exchange.",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 3739,
+    "TextENGNew": "\"Well, if you prefer it, I am happy to call you that — when there's no one around to hear. Hee hee.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 3740,
+    "TextENGNew": "\"Hmm, hmm — I would be even happier if you'd call me that in front of others! Wahaha!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 3741,
+    "TextENGNew": "How old must he be now, I wondered.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 3742,
+    "TextENGNew": "If he could still speak and laugh with such vigor, surely Heaven would not be collecting him anytime soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 3743,
+    "TextENGNew": "…They do say the wicked live long. It seems there's truth to that after all.",
+    "significantChanges": true,
+    "changeReason": "New makes explicit the Japanese proverb being referenced: 'the wicked live long'; old left this vague as 'the saying about living a long life,' missing the affectionate teasing tone.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 3744,
+    "TextENGNew": "\"Takano-kun and I both used to say — wouldn't it be something if a child like you were truly our family. We really did…\"",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 3745,
+    "TextENGNew": "…My grandfather had a family, of course.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 3746,
+    "TextENGNew": "But his obsession with research had driven them apart. He and his wife lived separately, their name still on the same register but their marriage in all but name already dissolved.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 3747,
+    "TextENGNew": "I never once met any of them during my girlhood.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 3748,
+    "TextENGNew": "…I met them only after my grandfather took his own life.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 3749,
+    "TextENGNew": "In his final years, my grandfather's spirit had grown frail, and he was consumed by a deep despair about his own life.",
+    "significantChanges": true,
+    "changeReason": "Changes 'look at his life with cynicism' to 'consumed by a deep despair'; JPN 非常に悲観的 means extremely pessimistic/despairing, not cynical.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 3750,
+    "TextENGNew": "The onset of dementia, progressing with frightening speed, had shaken him deeply. He lived in dread of the slow erosion of his own mind.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 3751,
+    "TextENGNew": "And then… he threw himself from the roof of the hospital.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 3752,
+    "TextENGNew": "In his farewell note, only my name was written.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 3753,
+    "TextENGNew": "Not a single member of his blood family was mentioned.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 3754,
+    "TextENGNew": "It was only then that a cluster of people calling themselves family and relatives appeared, and proceeded to strip away everything my grandfather had left behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 3755,
+    "TextENGNew": "They were deeply opposed to any part of the estate going to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 3756,
+    "TextENGNew": "It was clear they were prepared to bring in lawyers and wage an ugly legal battle, so I withdrew voluntarily.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 3757,
+    "TextENGNew": "In exchange, I asked only for everything left in my grandfather's study.",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 3758,
+    "TextENGNew": "Those ordinary people had no conception of the value of my grandfather's work.",
+    "significantChanges": true,
+    "changeReason": "Changes 'idiots' to 'ordinary people'; JPN 凡庸な連中 means ordinary/mediocre people, conveying condescension rather than calling them stupid.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 3759,
+    "TextENGNew": "They were positively delighted to accept — if I would clear out those piles of books and ghastly specimen jars and waive my inheritance rights, we had a deal.",
+    "significantChanges": true,
+    "changeReason": "Changes 'jars with human organs' to 'specimen jars'; JPN 標本瓶 means specimen jars/bottles, not specifically human organs. Also adds 'waive my inheritance rights' which was implied but unstated in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 84,
+    "MessageID": 3760,
+    "TextENGNew": "Those hyenas — who had not troubled themselves to appear once during all the long years of grandfather's life, only to materialize the moment he was gone — I would not allow them even a single scrap of memo from his research, which was the very soul of who he was.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 3761,
+    "TextENGNew": "And so my grandfather's soul was spared from being tainted by them — not even by the smallest fraction…",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 3762,
+    "TextENGNew": "\"Well then. I'll ring off before this gets any longer. If you ever find yourself in trouble, your uncle Koizumi is always here. I'll go to any lengths for my granddaughter!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 3763,
+    "TextENGNew": "\"Thank you, Uncle Koizumi. Miyo will work harder still.\"",
+    "significantChanges": true,
+    "changeReason": "New preserves Takano referring to herself in the third person as 'Miyo' (JPN 三四は), a childlike speech pattern used when speaking to a parental figure, which the old translation replaced with generic first-person 'I.'",
+    "changeScore": 3
+  }
+]

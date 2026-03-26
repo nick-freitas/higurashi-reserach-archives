@@ -1,0 +1,81 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "The Bizarre Murder at the Dam Construction Site",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Mysterious Murder at the Dam Site\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12701,
+    "TextENGNew": "From the morning edition of June 25th, 1979.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'morning edition' (朝刊), specifying it was from the morning paper rather than just a generic 'edition.'",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 12702,
+    "TextENGNew": "The Okinomiya Police Station in Shishibone City arrested five construction workers in the late hours of June 23rd on suspicion of murder, and issued a nationwide warrant for one additional construction worker, the suspected ringleader, who had fled the scene.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'one additional construction worker' and 'ringleader' matching the Japanese (主犯格の建設作業員１名), clarifying the fugitive was a sixth worker and the ringleader, not just a generic 'main suspect.'",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 12703,
+    "TextENGNew": "According to the investigation, the six suspects are believed to have gathered at the construction site office of the Hinamizawa Dam at around 9 p.m. on June 22nd,@k where they attacked their supervisor—the foreman—in a group and killed him before fleeing.",
+    "significantChanges": true,
+    "changeReason": "Old translation says 'according to our sources' while new correctly says 'according to the investigation' (調べによると). Also 'work room' changed to 'construction site office' (作業事務所).",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 12704,
+    "TextENGNew": "At around 8 a.m. on June 23rd,@k a hospital in Shishibone City contacted the police to report that a man was hinting he had murdered a foreman at a construction site.@k When an officer arrived and questioned him, the man confessed to the crime.",
+    "significantChanges": true,
+    "changeReason": "Old says the man was 'questioned at the police station,' but the Japanese (警察官が駆けつけ) indicates the officer rushed to the hospital to question him there. New translation correctly reflects this.",
+    "changeScore": 4
+  },
+  {
+    "index": 5,
+    "MessageID": 12705,
+    "TextENGNew": "Remains were recovered at the location he described, and the man was arrested that afternoon on suspicion of murder.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'mutilation of a corpse' as a charge not present in JPN 殺人の容疑 (suspicion of murder only).",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 12706,
+    "TextENGNew": "The other suspects were arrested the same day, but the worker believed to be the ringleader remains at large.@k Police are currently tracking his whereabouts.",
+    "significantChanges": true,
+    "changeReason": "Old says 'main culprit' (implying confirmed guilt) while new says 'worker believed to be the ringleader' (主犯格 = suspected ringleader), preserving the distinction that guilt has not been established.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 12707,
+    "TextENGNew": "Regarding the motive:",
+    "significantChanges": true,
+    "changeReason": "Old translation turns the topic header into a sentence fragment implying a direct claim ('is purported to be'), while the Japanese (動機について) is simply a heading meaning 'Regarding the motive.'",
+    "changeScore": 3
+  },
+  {
+    "index": 8,
+    "MessageID": 12708,
+    "TextENGNew": "\"He reprimanded us for drinking, an argument broke out, and I lost my temper and killed him.\"",
+    "significantChanges": true,
+    "changeReason": "Old renders this as third-person summary ('a drunken verbal dispute') while the Japanese is a direct first-person quote. New correctly uses first person and captures that the supervisor scolded them for drinking (酒盛りをとがめられ), which triggered the argument.",
+    "changeScore": 4
+  },
+  {
+    "index": 9,
+    "MessageID": 12709,
+    "TextENGNew": "—and the like are being offered, but there are numerous inconsistencies between the suspects' testimonies, and investigators say they intend to pursue the matter further.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'and the like are being offered' (などと供述している) clarifying the previous quote was one of several statements given, and specifies inconsistencies are 'between the suspects'' testimonies (それぞれの自供) rather than just generally inconsistent.",
+    "changeScore": 3
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "index": 1,
+    "MessageID": 73155,
+    "TextENGNew": "``Hold on, Satoko~?! If you don't go shopping soon, you'll miss the sale!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 73156,
+    "TextENGNew": "``They've got a pack of eggs, one per customer, for ten yen!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 73157,
+    "TextENGNew": "``And a six-pack of toilet paper is eight yen cheaper today, and it comes with a free sample of bath cleaner! Didn't you say we get double stamps if we go before evening?!``",
+    "significantChanges": true,
+    "changeReason": "\"On sale for eight yen\" changed to \"eight yen cheaper\" — the JPN (８円もお得) means a discount of 8 yen, not a price of 8 yen, so the new version corrects the meaning. Also changes who mentioned the stamps.",
+    "changeScore": 4
+  },
+  {
+    "index": 4,
+    "MessageID": 73158,
+    "TextENGNew": "``Honestly! I came all the way here because you said you needed an extra pair of hands!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 73159,
+    "TextENGNew": "``...What on earth is the matter, Rika? We ought to go shopping soon or we'll keep Shion-san waiting, you know?``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 73160,
+    "TextENGNew": "``...Meep, this is serious. Satoko, please take a look at this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 73161,
+    "TextENGNew": "``...Oh my, is something wrong? One of the feet on this incense burner has broken off.``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 73162,
+    "TextENGNew": "It had probably been holding the burner up for a very long time and simply deteriorated until it snapped.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 73163,
+    "TextENGNew": "``It does look rather worn out. Well, if it's only this much damage, I have all sorts of tools to fix it easily, so don't you worry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 73164,
+    "TextENGNew": "Do we still have any wood glue left? Last time I bought some was when I fixed that chest of drawers...",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 73165,
+    "TextENGNew": "``Meep, that's not the problem. This incense burner was offered two hundred years ago when one of my ancestors sealed something away. And if it's broken, that means the seal has been released...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 73166,
+    "TextENGNew": "``...Forgive me, but making such a fuss over a cracked old incense burner sounds a bit much... but what is it? Is something terribly bad about to happen?``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 73167,
+    "TextENGNew": "``Meep...! According to this ancient text, it's something dangerous — if misused, it could cause a horrifying catastrophe...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 73168,
+    "TextENGNew": "``Your ancestors went out of their way to seal it, so... I suppose it does sound dangerous. And? How bad might this catastrophe be?``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 73169,
+    "TextENGNew": "``Meep, that is also written in the ancient text. The kanji are a bit difficult to read... Can you make it out, Satoko?``",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 73170,
+    "TextENGNew": "``...Let me see, what does it say? The C-Calamity of the Magatama of Fuwarazu... a Summer that arrived... earlier than usual...? Th-the... the Treasure, n-never to leave the Prem-premises...``",
+    "significantChanges": true,
+    "changeReason": "Satoko's stumbling reading produces different fragments: old says \"two most v-va-valuable Jewels\" while new says \"the Treasure, n-never to leave the Prem-premises\" — the new version more accurately reflects the JPN 門外不出 (never to leave the premises).",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 73171,
+    "TextENGNew": "``The supreme treasure never to leave the premises, the Magatama of Fuwarazu, spilled into the World of Man and brought forth a terrible Calamity.@k@vS07/05/330500011. ...That is what the ancient texts say.@k@vS07/05/330500012. And according to them, a great many people were hurt back then.``",
+    "significantChanges": true,
+    "changeReason": "\"Two most valuable Jewels\" changed to \"Treasure of Hell\" — the JPN 門外不出の至宝 means a peerless treasure that must never leave, not \"two jewels.\" The old translation misinterpreted the item's nature.",
+    "changeScore": 4
+  },
+  {
+    "index": 18,
+    "MessageID": 73172,
+    "TextENGNew": "``...The Magatama of Fuwarazu is the Peerless Treasure of Hell, left behind by the Savage God. Should it appear among Men, the Demons of Hell shall emerge, possess the People, and bring forth a hellish Portrait of Anguish and Lamentation...``",
+    "significantChanges": true,
+    "changeReason": "Plural \"Jewels\" and \"Savage-Gods\" changed to singular \"Treasure\" and \"Savage God,\" matching the JPN 鬼神 (singular). \"Pandaemonium\" changed to \"Anguish and Lamentation,\" closer to the JPN 阿鼻叫喚.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 73173,
+    "TextENGNew": "``...In other words, something dreadful may be about to happen.``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 73174,
+    "TextENGNew": "``...I'm not sure I understand it all, but it sounds very bad. ...Speaking of hellish pandemonium, Shion-san the other day who brought that pumpkin lunch was the very image of a demon from hell.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 73175,
+    "TextENGNew": "``And to be put on the Sonozaki family special tickle-torture machine for leaving just 'a tiny bit' behind — even thinking about it now makes me... Eeek...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 73176,
+    "TextENGNew": "``It was quite a treat to watch, I must say. Nipah~.``",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 73177,
+    "TextENGNew": "``Be that as it may — apparently it holds a wonderful power when used correctly, but if you use it the wrong way, things go terribly wrong.``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 73178,
+    "TextENGNew": "``It's so dangerous that my ancestors apparently sealed it away beyond the distant sky, to keep it far from the world of humans... but...``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 73179,
+    "TextENGNew": "``And now that the seal is undone, what happens?``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 73180,
+    "TextENGNew": "``Meep, whatever was sealed away beyond the sky will now be unsealed...``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 73181,
+    "TextENGNew": "``So it will come falling down somewhere in the village?``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 73182,
+    "TextENGNew": "``...But didn't you say it has a wonderful power when used correctly? Depending on what that is, it might be fun to play with it a little before sealing it away again~!``",
+    "significantChanges": true,
+    "changeReason": "New version adds \"before sealing it away again\" and \"Depending on what that is,\" which are present in the JPN (封印する前に/それ次第では) but were omitted from the original translation.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 73183,
+    "TextENGNew": "``Meep...! Anyway, let's find it quickly. If someone else picks it up and figures out how to misuse it, we could be in real trouble...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 73184,
+    "TextENGNew": "``...In situations like this, the rule is that it always ends up in the hands of the very last person you'd want it to be. Even so, we cannot allow some questionable individual to lay hands on a treasure of Furude Shrine!``",
+    "significantChanges": false
+  }
+]

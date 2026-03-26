@@ -1,0 +1,1236 @@
+[
+  {
+    "index": 1,
+    "MessageID": 89039,
+    "TextENGNew": "I approached the window to close the curtains before going to bed.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 89040,
+    "TextENGNew": "I thought I caught a glimpse of what looked like a figure standing near the gate light.@k ...At this hour?",
+    "significantChanges": true,
+    "changeReason": "Old translation states narrator definitively 'saw a shadow near the porch'; new conveys uncertainty ('thought I caught a glimpse') near a 'gate light' rather than 'porch', better matching JPN 気がした (felt like) and 門灯 (gate light).",
+    "changeScore": 3
+  },
+  {
+    "index": 3,
+    "MessageID": 89041,
+    "TextENGNew": "I didn't need to wonder who it might be.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 89042,
+    "TextENGNew": "...Given the circumstances, there was only one person I could think of who might visit at a time like this.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 89043,
+    "TextENGNew": "I opened the window and strained my eyes for a better look.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 89044,
+    "TextENGNew": "...There was no mistake.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 89045,
+    "TextENGNew": "It was Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 89046,
+    "TextENGNew": "She was just... standing perfectly still beneath the gate light.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 89047,
+    "TextENGNew": "...How long had she been standing there...?",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 89048,
+    "TextENGNew": "She wasn't ringing the doorbell and waiting for someone to answer.@k ...She was just standing there, motionless, without even pressing it.",
+    "significantChanges": true,
+    "changeReason": "New translation adds detail from JPN about not pressing the doorbell and standing motionless (呼び鈴も押さず), which the old version omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 89049,
+    "TextENGNew": "It looked like she was arguing with herself about whether or not to ring the bell.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 89050,
+    "TextENGNew": "Then... had she really been standing there all this time?!",
+    "significantChanges": true,
+    "changeReason": "Old says 'how long had she been hesitating in front of my door'; new says 'had she really been standing there all this time', dropping the 'hesitating' interpretation and matching JPN まさか (could it really be).",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 89051,
+    "TextENGNew": "The figure swayed on its feet now and then, looking utterly exhausted.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 89052,
+    "TextENGNew": "I raced down the stairs, shoved my feet into sandals, and burst out the front door.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 89053,
+    "TextENGNew": "The noise of me crashing out startled Rena badly.",
+    "significantChanges": true,
+    "changeReason": "Old implies surprise despite noise; new says noise caused the startle, matching JPN 荒々しい音とともに飛び出してきたので (because he burst out with violent noise).",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 89054,
+    "TextENGNew": "``Rena?!@k@vS09/01/170101066. Renaaaa!!@k@vS09/01/170101067. Hah... hah... hah...!!``",
+    "significantChanges": true,
+    "changeReason": "Old translates レナぁあぁ as 'Is that you?' and はぁはぁはぁ as 'Rena...!!'; new preserves the elongated cry and heavy breathing from the JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 17,
+    "MessageID": 89055,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 89056,
+    "TextENGNew": "For an instant, relief flickered across Rena's face when she saw me, but it quickly gave way to a look of sadness as she dropped her gaze.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 89057,
+    "TextENGNew": "``How long... have you been standing out here?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 89058,
+    "TextENGNew": "``...I'm not sure.@k@vS09/02/170201340. ...Since a little after sunset, I think.``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 89059,
+    "TextENGNew": "Rena must have been living without a proper roof over her head for at least two nights by now.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 89060,
+    "TextENGNew": "And it wasn't as though she'd been casually roughing it like some carefree hitchhiker.",
+    "significantChanges": true,
+    "changeReason": "Old says 'camping for fun' but Japanese specifically mentions ヒッチハイク気分 (hitchhiker mood).",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 89061,
+    "TextENGNew": "...She'd been forced into a state of constant tension, believing her life was in danger the entire time.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 89062,
+    "TextENGNew": "...She looked utterly haggard, and even the simple act of standing seemed to cause her pain.",
+    "significantChanges": true,
+    "changeReason": "Old just says 'Rena looked utterly exhausted'; new adds 'even the simple act of standing seemed to cause her pain', matching JPN ただ立っているだけでも辛そうに.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 89064,
+    "TextENGNew": "The terrible scratch on her neck had been covered with several large bandages, showing some attempt at treatment.",
+    "significantChanges": true,
+    "changeReason": "Old says 'deep scratch she made' (singular, self-inflicted); new describes 'terrible scratch covered with several large bandages, showing some attempt at treatment', better matching JPN's description of multiple bandages and treatment.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 89065,
+    "TextENGNew": "The cute patterns on those bandages only made the sight more painful.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 89066,
+    "TextENGNew": "...I could see other places on her arms and elsewhere where she had clawed at herself until the skin was swollen and bleeding.",
+    "significantChanges": true,
+    "changeReason": "Old says 'band-aids soaked with blood' and 'she made them herself'; new describes 'clawed at herself until skin was swollen and bleeding', matching JPN 掻き毟って腫れてしまったり血が滲んでしまった more accurately.",
+    "changeScore": 3
+  },
+  {
+    "index": 28,
+    "MessageID": 89067,
+    "TextENGNew": "She had more wounds than she'd had the night before.",
+    "significantChanges": true,
+    "changeReason": "Old says 'more scars'; new says 'more wounds'. JPN 傷 means wounds/injuries, not healed scars - a meaningful medical distinction.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 89068,
+    "TextENGNew": "``...Anyway, let's go inside.@k@vS09/01/170101070. You haven't eaten anything decent in two days, have you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 89069,
+    "TextENGNew": "When I tried to lead her into the house, Rena refused with a vague, uncertain expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 89070,
+    "TextENGNew": "...It wasn't that she didn't want to come in. It was more like she felt she didn't deserve to.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 89071,
+    "TextENGNew": "``...It's no good anymore.@k@vS09/02/170201342. ...Even right now, at this very moment... something strange is crawling all through my body, making everything itch unbearably... like it's about to burst out of me...``",
+    "significantChanges": true,
+    "changeReason": "Old specifically mentions 'maggots' which is not in JPN (変なの = something strange); new correctly translates as 'something strange is crawling', a significant interpretive difference.",
+    "changeScore": 3
+  },
+  {
+    "index": 33,
+    "MessageID": 89072,
+    "TextENGNew": "``...Listen, Rena... I think it's some kind of illness.@k@vS09/01/170101072. ...Why don't you rest at my place tonight, and first thing tomorrow morning we'll go to the Coach's clinic?",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 89073,
+    "TextENGNew": "...He understands your situation. He'll examine you without telling anyone...``",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 89074,
+    "TextENGNew": "``No... it's too late.@k@vS09/02/170201344. I can feel it myself.@k@vS09/02/170201345. ...I understand now exactly how Tomitake-san died.@k@vS09/02/170201346. ...I'm just desperately holding it back.``",
+    "significantChanges": true,
+    "changeReason": "Old translates もうだめ as 'No... no...'; new correctly renders it as 'No... it's too late.' Also 'I can feel it myself' vs 'I know it' and 'desperately holding it back' vs 'trying not to do what he did' shift the meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 89075,
+    "TextENGNew": "...Rena believed she had been injected with some mysterious substance, and that she would end up clawing at her own throat until she died, just like Tomitake-san.",
+    "significantChanges": true,
+    "changeReason": "Old says 'given some kind of suspicious drug'; new says 'injected with some mysterious substance'. JPN 投与 means administered/injected. Also 'neck' vs 'throat' differ.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 89076,
+    "TextENGNew": "...She had hypnotized herself into believing it was inevitable.",
+    "significantChanges": true,
+    "changeReason": "Old says 'convinced herself'; new says 'hypnotized herself'. JPN 自己暗示 specifically means 'self-hypnosis/autosuggestion'.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 89077,
+    "TextENGNew": "...But no words could reach Rena as she was now.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 89078,
+    "TextENGNew": "...And yet, deep down, she desperately wished someone would save her.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 89079,
+    "TextENGNew": "She craved salvation, yet every helping hand looked like the claw of a demon.@k ...If this was a disease, what a terrifying and heartbreaking disease it was...",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 89080,
+    "TextENGNew": "``...I don't know how I'm going to die... but I probably don't have much time left.``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 89081,
+    "TextENGNew": "``D-Don't say that!@k@vS09/01/170101075. You're Rena Ryuugu, invincible member of our club! There's no way you'd go down that easily...!``",
+    "significantChanges": true,
+    "changeReason": "Old translates そ…そんなことねぇさ as 'That's not going to happen!'; new correctly captures the stuttering denial 'D-Don't say that!' JPN is a denial of what was said, not a prediction.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 89082,
+    "TextENGNew": "``...Ahaha... thanks.@k@vS09/02/170201349. ...The thing is... I...@k@vS09/02/170201350. ...I wanted to apologize to you before I die.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 89083,
+    "TextENGNew": "``Apologize?@k@vS09/01/170101077. For what...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 89084,
+    "TextENGNew": "``...Yesterday... I said something truly awful and hurt you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 89085,
+    "TextENGNew": "She must have been talking about what happened last night.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 89086,
+    "TextENGNew": "She had trusted me... but when Ooishi-san told her about my troubling past, she must have felt that trust had been betrayed...",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 89087,
+    "TextENGNew": "...And after that, all my goodwill must have suddenly looked like its opposite...",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 89088,
+    "TextENGNew": "...I understood.@k ...Because I had once felt the same way about Rena...",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 89089,
+    "TextENGNew": "``I also...... before I moved here.@k@vS09/02/170201353. ...I did terrible things too.@k@vS09/02/170201354. ...So many.``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 89090,
+    "TextENGNew": "``...I see... is that so...``",
+    "significantChanges": true,
+    "changeReason": "Old: 'Really? I didn't know...'; new: 'I see... is that so...' JPN そうか、そうなんだ means 'I see, is that so' (acknowledgment), not surprise/ignorance.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 89091,
+    "TextENGNew": "``What I did was far worse than shooting someone with a toy gun.@k@vS09/02/170201356. ...I smashed people's heads with a metal bat hard enough to crack their skulls.@k@vS09/02/170201357. Everyone was seriously hurt.",
+    "significantChanges": true,
+    "changeReason": "Old says 'I hit somebody's head' (singular) but new has plural and 頭が割れちゃうくらい (hard enough to crack skulls).",
+    "changeScore": 3
+  },
+  {
+    "index": 53,
+    "MessageID": 89092,
+    "TextENGNew": "...And I smashed all kinds of windows at my school... and then, and then...``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 89093,
+    "TextENGNew": "I know... I know...",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 89094,
+    "TextENGNew": "But... none of that matters at all...",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 89095,
+    "TextENGNew": "That was Ryuugu Reina's story, from before you moved here, right...?",
+    "significantChanges": true,
+    "changeReason": "Old omits the name; new includes 'Ryuugu Reina' matching JPN 竜宮礼奈.",
+    "changeScore": 3
+  },
+  {
+    "index": 57,
+    "MessageID": 89096,
+    "TextENGNew": "That's why you stopped being Reina and became Rena after moving here, wasn't it...?",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 89097,
+    "TextENGNew": "To me... you're kind, caring, devoted -- the greatest friend I could ever have.",
+    "significantChanges": true,
+    "changeReason": "Old translates 甲斐甲斐しくて as 'thoughtful'; new correctly renders it as 'devoted'. Different character trait.",
+    "changeScore": 3
+  },
+  {
+    "index": 59,
+    "MessageID": 89098,
+    "TextENGNew": "...That's the only thing that matters.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 89099,
+    "TextENGNew": "What happened before was irrelevant...",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 89100,
+    "TextENGNew": "``...See... I was far worse.@k@vS09/02/170201360. ...I had no right to say you weren't my friend...``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 89101,
+    "TextENGNew": "``That's... the same for me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 89102,
+    "TextENGNew": "``...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 89103,
+    "TextENGNew": "``...I... at first, when I heard about your past... I was afraid.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'I was afraid of you' but Japanese doesn't say 'of you' -- adds personal fear not in source.",
+    "changeScore": 3
+  },
+  {
+    "index": 65,
+    "MessageID": 89104,
+    "TextENGNew": "``Oh... I see.@k@vS09/02/170201362. ...You knew all along...``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 89105,
+    "TextENGNew": "Rena's laugh grew increasingly hollow...",
+    "significantChanges": true,
+    "changeReason": "Old: 'Rena laughed sadly'; new: 'Rena's laugh grew increasingly hollow'. JPN 乾いていく means 'becoming dry/parched' (progressive), captured better by 'grew increasingly hollow'.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 89106,
+    "TextENGNew": "The shock of learning that a past she thought was hidden had already been exposed was clearly not small.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 89107,
+    "TextENGNew": "``But then I thought -- so what?``",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 89108,
+    "TextENGNew": "``...Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 89109,
+    "TextENGNew": "``No matter what kind of villain Rena was before she moved here...",
+    "significantChanges": true,
+    "changeReason": "Old says 'how bad you were' but Japanese uses third person レナ and 大悪党 (great villain).",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 89110,
+    "TextENGNew": "...You went through all those tears and laughter, built up your life piece by piece... and then you came to Hinamizawa and started living a life you could be proud of...!",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 89111,
+    "TextENGNew": "If you did bad things back in your old town and you regret them, then that's all that matters.@k@vS09/01/170101082_4. ...If the result is that Rena Ryuugu has grown into someone I can respect, then nothing else matters...!``",
+    "significantChanges": true,
+    "changeReason": "Old states as fact 'you regret what you did'; new uses conditional 'if you did bad things and you regret them' matching JPN conditional なら. Also new names 'Rena Ryuugu' matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 89112,
+    "TextENGNew": "...I should have realized that sooner...!",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 89113,
+    "TextENGNew": "Rena is Rena.@k That's why she chose to be Rena.",
+    "significantChanges": true,
+    "changeReason": "Old: 'That's why she's Rena Ryuugu'; new: 'That's why she chose to be Rena.' New interprets the name change as a deliberate choice, while old just states identity.",
+    "changeScore": 3
+  },
+  {
+    "index": 75,
+    "MessageID": 89114,
+    "TextENGNew": "When she told us her name wasn't Reina, how could I have failed to understand something that simple...!",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 89115,
+    "TextENGNew": "``...You heard about it too, right?@k@vS09/01/170101084. ...I was a bad person too.@k@vS09/01/170101085. I was an idiot.@k@vS09/01/170101086. I deeply regretted the stupid things I did.@k@vS09/01/170101087. ...So I thought moving here was a chance to start over.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 89116,
+    "TextENGNew": "And since I came to Hinamizawa, I believe I've been a Keiichi Maebara I can be proud of.@k@vS09/01/170101089. Isn't it the same for you, Rena?@k@vS09/01/170101090. It doesn't matter what your life was like in Ibaraki!@k@vS09/01/170101091. What matters is who Rena Ryuugu is right here in Hinamizawa!",
+    "significantChanges": true,
+    "changeReason": "Old: 'I was such a brat'; new: 'I was an idiot.' JPN バカ means 'idiot/fool', not 'brat' - different characterization.",
+    "changeScore": 3
+  },
+  {
+    "index": 78,
+    "MessageID": 89117,
+    "TextENGNew": "So it didn't matter who Reina Ryuugu was. It had nothing to do with me!``",
+    "significantChanges": true,
+    "changeReason": "Old: 'the person I wanted to be'; new: 'a Keiichi Maebara I can be proud of.' JPN 自分で自分が好きになれる = 'can come to like myself', about self-acceptance not aspirational identity.",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 89118,
+    "TextENGNew": "``...............Yeah......@k@vS09/02/170201369. ...You're... right... you're right...``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I don't care about whoever Reina Ryuugu was!'; new: 'it had nothing to do with me!' JPN 俺には全然関係ない = 'has nothing to do with me', a different framing than 'I don't care'.",
+    "changeScore": 3
+  },
+  {
+    "index": 80,
+    "MessageID": 89119,
+    "TextENGNew": "``You can start over as many times as you need to!!@k@vS09/01/170101094. That's exactly why we can stumble and fall and get hurt again and again, and still keep searching for the version of ourselves we can love most...!",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 89120,
+    "TextENGNew": "Tripping once or twice in life is normal.@k@vS09/01/170101096. We can't let that defeat us. We have to keep growing.",
+    "significantChanges": true,
+    "changeReason": "Old: 'We can start our life over'; new: 'You can start over'. JPN allows both readings but the shift from 'we' to 'you' changes who is being addressed.",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 89121,
+    "TextENGNew": "So... being repulsed by the scabs on the knees of someone who's been through that much and gotten back up... that was the lowest thing I could have done!!``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I was such an asshole for getting scared of you because of your past!!'; new: 'being repulsed by the scabs on the knees of someone who's gotten back up... that was the lowest thing I could have done!!' JPN uses metaphor かさぶた (scabs) on たくましい人 (resilient person) which old completely omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 89122,
+    "TextENGNew": "It doesn't matter how many times you fall!",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 89123,
+    "TextENGNew": "If you've suffered that much, then you just need to become that much kinder!",
+    "significantChanges": true,
+    "changeReason": "Old: 'you can be kinder to others' (observation); new: 'you just need to become that much kinder!' (imperative). JPN なればいいじゃないか is closer to 'you should just become'.",
+    "changeScore": 3
+  },
+  {
+    "index": 85,
+    "MessageID": 89124,
+    "TextENGNew": "There was never any need to know about someone's past, and knowing about it should never have changed how I treated them.",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 89125,
+    "TextENGNew": "But Rena and I were both fools... We couldn't figure out something that obvious without being taught the hard way.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 89126,
+    "TextENGNew": "...Mion knew it all along, as though it were the most natural thing in the world...!",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 89127,
+    "TextENGNew": "What fools we were...@k Hurting each other, making each other cry...",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 89128,
+    "TextENGNew": "``So... Rena Ryuugu has always been and always will be the greatest friend I could ever have.@k@vS09/01/170101099. When things are hard for you... I'll be there to help. I promise... so trust me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 89129,
+    "TextENGNew": "``Thank you.@k@vS09/02/170201371. ...I trust you, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 89130,
+    "TextENGNew": "...Sadly... those words from Rena were not the truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 89131,
+    "TextENGNew": "No, she probably didn't mean to lie.",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 89132,
+    "TextENGNew": "...But... Rena couldn't truly believe in me. Not in the way that mattered.",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 89133,
+    "TextENGNew": "My words... weren't reaching her.",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 89134,
+    "TextENGNew": "...I knew, because 'trust me' were the very words Rena had repeated to me over and over that time,@k ...even as I brought the metal bat down on her again and again,@k ...words she kept saying no matter how many times she was struck down,@k ...and they still hadn't reached me...",
+    "significantChanges": true,
+    "changeReason": "New explicitly mentions 金属バット (metal bat) matching JPN and adds 'no matter how many times she was struck down', emphasizing resilience that the old version omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 96,
+    "MessageID": 89135,
+    "TextENGNew": "``...I probably don't have much time left.",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 89136,
+    "TextENGNew": "...But I'll do my best to save this Hinamizawa where wonderful people like you live...``",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 89137,
+    "TextENGNew": "No... that's not it, Rena...",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 89138,
+    "TextENGNew": "``I won't let them take over this village.@k@vS09/02/170201375. ...I'll fight to bring back the days when we were all happy together.@k@vS09/02/170201376. ...I'll destroy their conspiracy, I swear...``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 89139,
+    "TextENGNew": "...She said she trusted me... yet my words didn't reach her.",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 89140,
+    "TextENGNew": "...No matter how many times I told her the conspiracy was all Takano-san's delusion, it wouldn't penetrate Rena's heart...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 89141,
+    "TextENGNew": "``...Thank you... Keiichi-kun.@k@vS09/02/170201378. ...For forgiving me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 89142,
+    "TextENGNew": "I forgive you... of course I do...",
+    "significantChanges": true,
+    "changeReason": "Old uses hypothetical 'If I was her, I'd be walking around with a baseball bat'; new correctly describes Keiichi's actual past 'When I had been in the same state... I carried a metal bat everywhere', matching JPN past tense.",
+    "changeScore": 3
+  },
+  {
+    "index": 104,
+    "MessageID": 89143,
+    "TextENGNew": "So please... forgive me for what I did back then...",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 89144,
+    "TextENGNew": "``I'm going to save Hinamizawa. I promise.@k@vS09/02/170201380. ...So, Keiichi-kun.@k@vS09/02/170201381. Will you lend me your strength...?@k@vS09/02/170201382. You're the only one I can believe in.@k@vS09/02/170201383. With you by my side, I think we can do it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 89145,
+    "TextENGNew": "``...........Rena... Renaaaa......!``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 89146,
+    "TextENGNew": "I knew how cornered Rena's heart was right now.",
+    "significantChanges": true,
+    "changeReason": "Old: 'But you're different!'; new: 'And yet, and yet!' JPN それなのにそれなのに means 'and yet, despite that' - an exclamation, not a statement about being different.",
+    "changeScore": 3
+  },
+  {
+    "index": 108,
+    "MessageID": 89147,
+    "TextENGNew": "...When I had been in the same state... I carried a metal bat everywhere, convinced that everyone who approached me was an enemy.",
+    "significantChanges": true,
+    "changeReason": "Old: 'You still trust me?'; new: 'Even with our positions reversed... you still trust me?!' JPN 立場が逆になってしまっても is omitted in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 109,
+    "MessageID": 89148,
+    "TextENGNew": "...Rena, who had reached out to me with nothing but concern, had been the one I distrusted most.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 89149,
+    "TextENGNew": "And yet Rena... even driven this far into a corner, this hopelessly backed against the wall... she still believed I was on her side...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 89150,
+    "TextENGNew": "Your words couldn't reach me back then... I beat you to death even as you kept begging me to trust you...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 89151,
+    "TextENGNew": "And yet, and yet!",
+    "significantChanges": true,
+    "changeReason": "Old: 'But you're different!'; new: 'And yet, and yet!' JPN それなのにそれなのに means 'and yet, despite that' - an exclamation, not a statement about being different.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 89152,
+    "TextENGNew": "Even with our positions reversed... you still trust me?!",
+    "significantChanges": true,
+    "changeReason": "Old: 'You still trust me?'; new: 'Even with our positions reversed... you still trust me?!' JPN 立場が逆になってしまっても is omitted in old.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 89153,
+    "TextENGNew": "You're... so... so...",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 89154,
+    "TextENGNew": "``...Why... are you crying...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 89155,
+    "TextENGNew": "``...Forgive me... please forgive me...@k@vS09/01/170101102. I swear... I'll never betray you again...@k@vS09/01/170101103. I believe in you, Rena...@k@vS09/01/170101104. So please... forgive me...``",
+    "significantChanges": true,
+    "changeReason": "Old: 'I'm sorry... I'm sorry...'; new: 'Forgive me... please forgive me...' JPN 許してくれ = 'forgive me' (requesting forgiveness), not 'I'm sorry' (apologizing). Different speech acts.",
+    "changeScore": 3
+  },
+  {
+    "index": 117,
+    "MessageID": 89156,
+    "TextENGNew": "``...I don't really understand what you're talking about.@k@vS09/02/170201386. ...You've always believed in me, Keiichi-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 89157,
+    "TextENGNew": "...So I believe in you too.@k@vS09/02/170201388. I can trust you, right?@k@vS09/02/170201389. You're the only one who believes in me, right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 89158,
+    "TextENGNew": "Tears spilled from my eyes in streams.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 89159,
+    "TextENGNew": "Through sobs, I nodded again and again in answer to her question.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 89160,
+    "TextENGNew": "...Seeing that, Rena's eyes welled up with tears too.",
+    "significantChanges": false
+  },
+  {
+    "index": 122,
+    "MessageID": 89161,
+    "TextENGNew": "Before we knew it, we were pressing our foreheads together, both of us in tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 89162,
+    "TextENGNew": "``...Listen.@k@vS09/02/170201391. ...I've found a way to end this fight.``",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 89163,
+    "TextENGNew": "``...Really?``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 89164,
+    "TextENGNew": "``Yeah.@k@vS09/02/170201393. ...The odds are almost hopeless, but I think it's the best resistance I can manage.``",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 89165,
+    "TextENGNew": "``...Rena... I don't know what you're planning... but after it's over... we'll all be able to go back to those fun days together... right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 89166,
+    "TextENGNew": "``.....................``",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 89167,
+    "TextENGNew": "``We can go back, right?!@k@vS09/01/170101108. It has to be that way!@k@vS09/01/170101109. I'm not letting you leave unless it is!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 89168,
+    "TextENGNew": "``...Ahahaha, don't worry, Keiichi-kun.@k@vS09/02/170201396. ...It's my last-ditch, do-or-die, come-from-behind move to get our happy days back.``",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 89169,
+    "TextENGNew": "I had no idea what that move was.",
+    "significantChanges": true,
+    "changeReason": "Old: 'I don't know what she had on her mind'; new: 'I had no idea what that move was.' JPN それがどんな手かは知らない = 'I don't know what kind of move it is', about the method not her thoughts.",
+    "changeScore": 3
+  },
+  {
+    "index": 131,
+    "MessageID": 89170,
+    "TextENGNew": "...It was something born within Rena's delusion, and it would reach its conclusion within that delusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 89171,
+    "TextENGNew": "...If I provoked her in the wrong way, she would twist everything into an attack against her.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 89172,
+    "TextENGNew": "I had been exactly the same back then.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 89173,
+    "TextENGNew": "...I had taken Rena and the others' kindness and interpreted it as its exact opposite.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 89174,
+    "TextENGNew": "...So I stopped myself from flatly denying what she was saying.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 89175,
+    "TextENGNew": "This was... Rena's fight.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 89176,
+    "TextENGNew": "A solitary battle between Rena and the delusion that had taken hold of her.",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 89177,
+    "TextENGNew": "A cruel battle where the closer we tried to get to help, the more we drove her into a corner.",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 89178,
+    "TextENGNew": "But we would be right there beside her!",
+    "significantChanges": true,
+    "changeReason": "Old: 'I would always be there for her'; new: 'we would be right there beside her'. JPN 俺たち = 'we', not 'I'. Singular vs plural is significant.",
+    "changeScore": 3
+  },
+  {
+    "index": 140,
+    "MessageID": 89179,
+    "TextENGNew": "Whenever she reached out for help, we'd be close enough to take her hand!!",
+    "significantChanges": true,
+    "changeReason": "Old: 'she could reach me'; new: 'we'd be close enough to take her hand'. JPN implies group support, not individual.",
+    "changeScore": 3
+  },
+  {
+    "index": 141,
+    "MessageID": 89180,
+    "TextENGNew": "I wanted to let her know at least that much... so I said just one thing.",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 89181,
+    "TextENGNew": "``I'm... on your side until the very end.@k@vS09/01/170101111. ...No matter what happens... I am on your side...``",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 89182,
+    "TextENGNew": "...Even telling her to trust me... wouldn't easily reach Rena's heart right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 89183,
+    "TextENGNew": "I knew that... but I said those words anyway.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 89184,
+    "TextENGNew": "Even if Rena couldn't believe them, even if the moment came when she tried to crush my skull... I would keep saying them.",
+    "significantChanges": true,
+    "changeReason": "Old: 'she wouldn't trust me anymore'; new: 'in her current state, that alone would be enough to shatter her trust in me.' New adds JPN's 今のレナはそれだけで (the current Rena, just with that alone).",
+    "changeScore": 3
+  },
+  {
+    "index": 146,
+    "MessageID": 89185,
+    "TextENGNew": "I'd keep saying them until my dying breath...!",
+    "significantChanges": true,
+    "changeReason": "Old: 'What do you have to do to get ready for tomorrow...?'; new: 'What kind of preparations...?' JPN ま、待てよ has stuttering captured in new. Old elaborates the question while new leaves it incomplete matching JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 147,
+    "MessageID": 89186,
+    "TextENGNew": "``Thank you, Keiichi-kun...@k@vS09/02/170201398. Tomorrow, it'll all be over.@k@vS09/02/170201399. ...We're going to win, I'm sure of it.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 89187,
+    "TextENGNew": "...And then we can all do club activities together again.@k@vS09/02/170201401. All of us.@k@vS09/02/170201402. We'll take back the happiest times we had.``",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 89188,
+    "TextENGNew": "...She wished so desperately to reclaim those happy days...@k And yet the darkness ruling her heart couldn't be dispelled...",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 89189,
+    "TextENGNew": "``Well... I should get going.@k@vS09/02/170201404. I have to prepare for tomorrow.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'come-from-behind victory'; new: 'last-ditch come-from-behind move'. JPN 起死回生の逆転の最後の一手 includes 'last move' specificity that old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 151,
+    "MessageID": 89190,
+    "TextENGNew": "I didn't want to let her go.@k ...I wanted to grab her arm and hold her back.",
+    "significantChanges": true,
+    "changeReason": "Old: 'house of the Sonozaki family'; new: 'Sonozaki main house'. JPN 園崎本家 = 'Sonozaki main house', a specific location vs the family.",
+    "changeScore": 3
+  },
+  {
+    "index": 152,
+    "MessageID": 89191,
+    "TextENGNew": "But... that wouldn't work.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 89192,
+    "TextENGNew": "If I grabbed her arm... in her current state, that alone would be enough to shatter her trust in me.",
+    "significantChanges": true,
+    "changeReason": "Old uses direct speech 'everybody' and 'us'; new uses 'Sonozaki family' matching JPN 園崎家, and captures Mion's wondering tone better.",
+    "changeScore": 3
+  },
+  {
+    "index": 154,
+    "MessageID": 89193,
+    "TextENGNew": "``W-Wait, Rena...@k@vS09/01/170101113. What kind of preparations...?``",
+    "significantChanges": true,
+    "changeReason": "New adds 'before she does something crazy' matching JPN レナが妙なことをしでかす前に, which old omits.",
+    "changeScore": 3
+  },
+  {
+    "index": 155,
+    "MessageID": 89194,
+    "TextENGNew": "``...It's a secret.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 89195,
+    "TextENGNew": "I might need your help with something... so when the time comes, you'll help me, right...?``",
+    "significantChanges": true,
+    "changeReason": "Old says 'not like me' (present); new says 'not like I was' (past), correctly comparing to his past self.",
+    "changeScore": 3
+  },
+  {
+    "index": 157,
+    "MessageID": 89196,
+    "TextENGNew": "``Yeah, of course...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 89197,
+    "TextENGNew": "I nodded firmly, wanting to show her that I was truly on her side.",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 89198,
+    "TextENGNew": "But... I had no way of knowing what Rena's 'last-ditch come-from-behind move' actually meant at that point.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 89199,
+    "TextENGNew": "...The most likely scenario I could think of was that she would storm the Sonozaki main house, which she saw as the enemy.",
+    "significantChanges": true,
+    "changeReason": "Old: 'don't lose confidence in Rena'; new: 'don't give up on Rena'. JPN 見損なう means to misjudge/lose respect for, closer to 'give up on'.",
+    "changeScore": 3
+  },
+  {
+    "index": 161,
+    "MessageID": 89200,
+    "TextENGNew": "So after Rena's figure disappeared from sight, I called Mion to warn her.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 89201,
+    "TextENGNew": "Mion laughed ruefully, wondering aloud why the Sonozaki family always got cast as the villain, but she understood the situation.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 89202,
+    "TextENGNew": "``...Maybe we should just lean into the villain role.@k@vS09/03/170300613. It might be better to grab her and haul her to a hospital before she does something crazy.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'He doesn't even know about you-know-what'; new: 'He doesn't even know about that incident.' JPN 例の件 = 'that matter/incident', not the secretive 'you-know-what'.",
+    "changeScore": 3
+  },
+  {
+    "index": 164,
+    "MessageID": 89203,
+    "TextENGNew": "``...If it really comes down to the wire... that might be our only option.@k@vS09/01/170101116. But... I want to believe in her.@k@vS09/01/170101117. Until the very last moment.",
+    "significantChanges": true,
+    "changeReason": "Old: 'You really think you can do that...?'; new: 'You really think it can end that cleanly...?' New captures JPN 空騒ぎで決着 (settled as mere fuss) nuance.",
+    "changeScore": 3
+  },
+  {
+    "index": 165,
+    "MessageID": 89204,
+    "TextENGNew": "Even cornered like this, she still has the strength of heart to believe in me.@k@vS09/01/170101119. ...She's not like I was!@k@vS09/01/170101120. So I'm sure Rena can overcome her delusions...``",
+    "significantChanges": true,
+    "changeReason": "Old is serious boasting; new is playfully self-aggrandizing with 'Mion-sama' matching JPN's comedic register.",
+    "changeScore": 3
+  },
+  {
+    "index": 166,
+    "MessageID": 89205,
+    "TextENGNew": "``...Lately, this old man's been having trouble following what you and Rika-chan are saying.@k@vS09/03/170300615. Did something heavy happen recently?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'a restaurant'; new: 'a certain restaurant'. JPN 某料亭 = 'a certain high-end restaurant' - 某 means 'a certain' (deliberately vague), and 料亭 is specifically a high-end Japanese restaurant.",
+    "changeScore": 3
+  },
+  {
+    "index": 167,
+    "MessageID": 89206,
+    "TextENGNew": "'Recently,' in a sense... yes, you could say that.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 89207,
+    "TextENGNew": "I killed you just a few days after the Watanagashi Festival, after all.",
+    "significantChanges": true,
+    "changeReason": "Old: 'exaggerating a little'; new: 'excessive embellishments'. JPN 修飾が過剰 = 'decoration/embellishment is excessive', stronger than 'a little' exaggeration.",
+    "changeScore": 3
+  },
+  {
+    "index": 169,
+    "MessageID": 89208,
+    "TextENGNew": "``Ahahaha... sorry for all the cryptic talk lately.@k@vS09/01/170101122. Anyway... please don't give up on Rena... okay?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'the others seemed to be taking it rather easy'; new: 'those around her were not shaken.' JPN 動揺していない = 'not shaken/disturbed', about composure not casualness.",
+    "changeScore": 3
+  },
+  {
+    "index": 170,
+    "MessageID": 89209,
+    "TextENGNew": "``As if I ever would.@k@vS09/03/170300617. Everyone catches a cold of the heart sometimes.@k@vS09/03/170300618. That's all this is for Rena!",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 89210,
+    "TextENGNew": "Her fever might be running a bit high, but she'll bounce right back and we'll be laughing about this in no time!@k@vS09/03/170300620. Things aren't as bad as you think, Kei-chan.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 89211,
+    "TextENGNew": "That idiot Ooishi admitted he was wrong.@k@vS09/03/170300622. He doesn't even know about that incident.@k@vS09/03/170300623. So we can wrap this whole thing up as nothing more than Rena making a big fuss over nothing.``",
+    "significantChanges": true,
+    "changeReason": "Old: 'by the abandoned car'; new: 'atop the abandoned car'. JPN 廃車の上で = 'on top of the abandoned car', a different spatial relationship.",
+    "changeScore": 3
+  },
+  {
+    "index": 173,
+    "MessageID": 89212,
+    "TextENGNew": "``R-Really...?!@k@vS09/01/170101124. You really think it can end that cleanly...?``",
+    "significantChanges": true,
+    "changeReason": "Old: 'you're the one who told me to have faith until the end'; new: 'you who kept teaching me to believe until your very last breath'. JPN 教え続けてくれた = 'kept teaching' (ongoing), not one-time telling.",
+    "changeScore": 3
+  },
+  {
+    "index": 174,
+    "MessageID": 89213,
+    "TextENGNew": "``Making things end cleanly is exactly what the great Mion-sama, next head of the Sonozaki main family, does best!",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 89214,
+    "TextENGNew": "This old man sat down with Ooishi at a certain restaurant and cleared up every last misunderstanding!@k@vS09/03/170300626. Ooishi was absolutely squirming.@k@vS09/03/170300627. Hey, I'm pretty impressive, don't you think?``",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 89215,
+    "TextENGNew": "Mion boasted about her achievement with a triumphant laugh.",
+    "significantChanges": true,
+    "changeReason": "Old: 'regain her peaceful life'; new: 'reclaim the joyful world she had lost.' JPN 元の楽しい世界 = 'the original fun/joyful world', not 'peaceful life'.",
+    "changeScore": 3
+  },
+  {
+    "index": 177,
+    "MessageID": 89216,
+    "TextENGNew": "...Given the excessive embellishments, the truth probably differed somewhat.",
+    "significantChanges": true,
+    "changeReason": "Old: 'exaggerating a little'; new: 'excessive embellishments, the truth probably differed somewhat.' Already covered above.",
+    "changeScore": 3
+  },
+  {
+    "index": 178,
+    "MessageID": 89217,
+    "TextENGNew": "In any case... in stark contrast to the sense of crisis Rena had convinced herself of... those around her were not shaken.",
+    "significantChanges": true,
+    "changeReason": "Old: 'taking it rather easy'; new: 'were not shaken.' JPN 動揺していない = 'not disturbed'.",
+    "changeScore": 3
+  },
+  {
+    "index": 179,
+    "MessageID": 89218,
+    "TextENGNew": "All that remained was for Rena to realize the truth... and she could return to the peaceful world she longed for.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 89219,
+    "TextENGNew": "We were waiting for Rena to reach out her hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 89220,
+    "TextENGNew": "Just like that day, atop the abandoned car in the junkyard...",
+    "significantChanges": true,
+    "changeReason": "Old: 'by the abandoned car at the garbage dump'; new: 'atop the abandoned car in the junkyard'. JPN 上で = on top of.",
+    "changeScore": 3
+  },
+  {
+    "index": 182,
+    "MessageID": 89221,
+    "TextENGNew": "Rena,@k ...I couldn't win my battle,@k ...but you --@k you who kept teaching me to believe until your very last breath --@k I know you can win...!!",
+    "significantChanges": true,
+    "changeReason": "Old: 'told me to have faith until the end'; new: 'kept teaching me to believe until your very last breath'. JPN 教え続けてくれた = ongoing teaching.",
+    "changeScore": 3
+  },
+  {
+    "index": 183,
+    "MessageID": 89222,
+    "TextENGNew": "That didn't mean winning the literal battle Rena was talking about.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 89223,
+    "TextENGNew": "Rena would surely win.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 89224,
+    "TextENGNew": "She would win, and reclaim the joyful world she had lost.",
+    "significantChanges": true,
+    "changeReason": "Old: 'regain her peaceful life'; new: 'reclaim the joyful world she had lost.' JPN 楽しい世界 = joyful world, not peaceful life.",
+    "changeScore": 3
+  }
+]

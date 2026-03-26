@@ -1,0 +1,262 @@
+[
+  {
+    "index": 1,
+    "MessageID": 153656,
+    "TextENGNew": "General Headquarters, Section 1, E-34\nJuly 7, 1983\nCommander, Hinamizawa District Disaster Relief Headquarters",
+    "significantChanges": true,
+    "changeReason": "\"Director of Disaster Relief, Hinamizawa Region\" changed to \"Commander, Hinamizawa District Disaster Relief Headquarters\"; \"Showa 58 HQ, General Affairs Division\" simplified to \"General Headquarters\" -- different title/organizational structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 153657,
+    "TextENGNew": "Withdrawal Order (Emergency)\nThe Commander of the Disaster Relief Headquarters is to withdraw all disaster relief units immediately.\nWithdrawal is to be conducted in accordance with the directives of the National Institute of Infectious Diseases.",
+    "significantChanges": true,
+    "changeReason": "\"Evacuation\" changed to \"Withdrawal\" (撤収 means military withdrawal, not civilian evacuation), and \"director\" to \"Commander\" -- different military terminology with distinct implications.",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 153658,
+    "TextENGNew": "Details:\n1. Order\nAll disaster relief units are to withdraw to the designated zone outside the quarantine area, following the procedures stipulated by the National Institute of Infectious Diseases.",
+    "significantChanges": true,
+    "changeReason": "\"Evacuate\" changed to \"withdraw\" consistent with the military withdrawal meaning of 撤収; \"Notes\" changed to \"Details\" for 記.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 153659,
+    "TextENGNew": "2. Reason\nRoutine blood screenings have returned positive results for the η173-type virus in four unit members.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 153660,
+    "TextENGNew": "It has been confirmed that the current epidemic prevention equipment issued to disaster relief units is ineffective against said virus.",
+    "significantChanges": true,
+    "changeReason": "Old says equipment is \"ineffective at preventing infection\" (general); new correctly specifies it is \"ineffective against said virus\" (当該ウィルスに対して), and identifies 防疫装備 as \"epidemic prevention equipment\" rather than generic \"equipment\".",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 153661,
+    "TextENGNew": "General Headquarters, Section 1, E-35\nJuly 7, 1983\nCommander, 738th Equipment Test Company",
+    "significantChanges": true,
+    "changeReason": "Same title/header changes as 153656: \"Showa 58 HQ, General Affairs Division\" to \"General Headquarters\" and organizational naming differences.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 153662,
+    "TextENGNew": "Deployment Order (Emergency)\nThe 738th Equipment Test Company is to deploy immediately, equipped with Type 13 Epidemic Warfare gear, to the operational area designated by the Commander of the Hinamizawa District Disaster Relief Headquarters.",
+    "significantChanges": true,
+    "changeReason": "\"version 13 disease prevention equipment\" changed to \"Type 13 Epidemic Warfare gear\" (防疫戦 = epidemic warfare, not disease prevention); deployment destination now specified as \"operational area designated by the Commander\" rather than simply \"under the command of.\"",
+    "changeScore": 4
+  },
+  {
+    "index": 8,
+    "MessageID": 153663,
+    "TextENGNew": "Details:\n1. Order\nEffective this date, the 738th Equipment Test Company is to be placed under the command of the Commander of the Hinamizawa District Disaster Relief Headquarters.",
+    "significantChanges": true,
+    "changeReason": "\"Director of Disaster Relief, Hinamizawa Region\" to \"Commander of the Hinamizawa District Disaster Relief Headquarters\" changes the organizational title and scope.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 153664,
+    "TextENGNew": "The Test Company is to deploy immediately to the operational area designated by the Commander.",
+    "significantChanges": true,
+    "changeReason": "Old says to \"follow the Director's orders and deploy on site\"; new specifies deploying \"to the operational area designated by the Commander\" -- different specificity about where to deploy.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 153665,
+    "TextENGNew": "2. Mission\nMaintenance of public order within the quarantine zone.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Peacekeeping' (international connotation) while JPN 治安維持活動 means 'maintenance of public order' (domestic security); slightly different operational implication.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 153666,
+    "TextENGNew": "3. Remarks\nDischarge of live ammunition is authorized under the conditions set forth in the attached regulations.",
+    "significantChanges": true,
+    "changeReason": "Old says 'Discharge of firearms' while JPN specifies 実弾射撃 (live ammunition firing); and 別紙規定 (attached regulations) vs 'enclosed conditions'. Military terminology precision.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 153667,
+    "TextENGNew": "July 6, 1983\nAlphabet Project Board of Directors\nCommander, Hinamizawa District Biological Disaster Response Headquarters",
+    "significantChanges": true,
+    "changeReason": "Old omits 生物 (biological) from the title; new correctly translates as \"Biological Disaster Response Headquarters\" (生物災害対策本部), which distinguishes this entity from the regular disaster relief headquarters.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 153668,
+    "TextENGNew": "Regarding the η173-type Virus:\nThis virus has been classified as a Category C neuroparasitic pathogen.\nWhat follows is an explanation of Category C neuroparasitic pathogens (hereinafter \"Category C\").",
+    "significantChanges": true,
+    "changeReason": "Old says \"an explanation of its properties\" but the Japanese specifies explaining Category C neuroparasitic pathogens with the parenthetical \"hereinafter Category C\" (以下丙種), which the old translation omits entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 153669,
+    "TextENGNew": "Among all viruses that parasitize the human brain, Category C demonstrates an exceptionally high degree of compatibility with its host. Moreover, because its symptoms are difficult to identify, its existence was not confirmed until the modern era.",
+    "significantChanges": true,
+    "changeReason": "Old says 'infect the human nervous system' while JPN specifies 脳に寄生する (parasitize the brain); different body system and mechanism.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 153670,
+    "TextENGNew": "According to an informal United Nations investigation conducted beginning in 1948, over 99% of the human population carries a Category C parasite within the brain. It has further been suggested that the virus may date back to the very origins of humanity.",
+    "significantChanges": true,
+    "changeReason": "Old implies a single investigation \"in 1948\"; new correctly translates 1948年から as \"beginning in 1948,\" indicating an ongoing study rather than a one-time event.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 153671,
+    "TextENGNew": "As noted above, Category C integrates itself so naturally into the human body that its host is entirely unaware of the parasite's presence. In this respect, it may be compared to the microorganisms that ordinarily inhabit the body, such as Escherichia coli.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 153672,
+    "TextENGNew": "The problem, however, is that Category C has been identified as capable of interfering with the brain functions of its host.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 153673,
+    "TextENGNew": "It is believed that Category C predisposes its host toward amicability with other hosts carrying the same strain, and toward hostility against hosts carrying different strains.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 153674,
+    "TextENGNew": "The UN investigation identified several hundred strains classifiable under Category C. Its distribution map was found, remarkably, to correspond closely to modern national borders and religious distribution maps.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 153675,
+    "TextENGNew": "It has further been suggested that each Category C strain plays a deep role in shaping the foundations of its host's personality and behavior—and that several tendencies long attributed to ethnicity or nationality may in fact be products of the particular parasitic strain involved.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 153676,
+    "TextENGNew": "In other words, the virus is theorized to be the indirect force behind the social norms, personalities, and cultural frameworks of all nations and peoples.",
+    "significantChanges": true,
+    "changeReason": "\"Patterns within societies\" changed to \"social norms\" -- 規範 specifically means norms/standards, not general patterns.",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 153677,
+    "TextENGNew": "The first person to identify the existence of Category C was a physician within the German Nazi administration, and this discovery is believed to have directly motivated the regime's massacres of specific peoples.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 153678,
+    "TextENGNew": "The UN's secret Category C investigation committee identified the possibility that the virus had indirectly driven some of humanity's most abhorrent atrocities, and called for its eradication—only for a faction to warn that such a goal could itself trigger ethnic cleansing. The committee descended into chaos.",
+    "significantChanges": true,
+    "changeReason": "Old omits the final clause 委員会は混乱 (\"The committee descended into chaos\"), which the new translation includes.",
+    "changeScore": 3
+  },
+  {
+    "index": 24,
+    "MessageID": 153679,
+    "TextENGNew": "In the end, a resolution was adopted in 1955 to prohibit Category C research in perpetuity and to permanently destroy all existing research records.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 153680,
+    "TextENGNew": "In other words, humanity chose to accept Category C as an eternal companion, and to forever prohibit the very act of acknowledging its existence.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 153681,
+    "TextENGNew": "Nevertheless, various nations are believed to have continued their own covert research in secret.",
+    "significantChanges": true,
+    "changeReason": "Old states as fact that countries \"continued to research\"; new correctly adds \"are believed to have\" reflecting the Japanese 言われています (it is said/believed).",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 153682,
+    "TextENGNew": "As no information has been exchanged between them, the state of research in other countries remains unknown.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 153683,
+    "TextENGNew": "In Japan, a secret research group was established by a consortium of medical universities in the late 1960s, which resumed investigation.\nThis group forms the foundation of the research being conducted today.",
+    "significantChanges": true,
+    "changeReason": "Old omits 研究を再開 (resumed research/investigation), which the new translation includes, clarifying that the group restarted previously banned research.",
+    "changeScore": 3
+  },
+  {
+    "index": 29,
+    "MessageID": 153684,
+    "TextENGNew": "The United States has detected that this incident involves Category C and intends to appropriate our research under the guise of aid. We must firmly refuse any such attempt to extract our findings in the name of assistance.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 153685,
+    "TextENGNew": "Furthermore, the η173-type in question is an exceedingly rare variant of Category C, one that produces dramatically pronounced symptoms.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 153686,
+    "TextENGNew": "As I have already noted, Category C ordinarily integrates seamlessly and invisibly with the human body. The η173-type, however, triggers dramatic personality transformation within several dozen days of infection.",
+    "significantChanges": true,
+    "changeReason": "\"Several days\" changed to \"several dozen days\" -- 数十日 means tens of days (数十 = several tens), a dramatically different timeframe for symptom onset.",
+    "changeScore": 4
+  },
+  {
+    "index": 32,
+    "MessageID": 153687,
+    "TextENGNew": "The most significant manifestation of this is a marked amplification of aggression and anxiety.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 153688,
+    "TextENGNew": "Moreover, it produces these changes while preserving Category C's characteristic of guiding the host's psychology along what appear to be natural pathways.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 153689,
+    "TextENGNew": "The infected residents of the Hinamizawa district are already exhibiting these tendencies in pronounced form, and within a short period of time are likely to demonstrate the precursors to certain catastrophic events—mass riots, mass killings.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 153690,
+    "TextENGNew": "Direction of this matter should be transferred to the Alphabet Project immediately, and carefully investigated as an asset of national importance.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 153691,
+    "TextENGNew": "I am confident that research into this matter will contribute to our national interest. Furthermore, only the Alphabet Project Board of Directors—holding extrajudicial authority—is capable of suppressing any riots this matter may produce.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 153692,
+    "TextENGNew": "I earnestly request that you take all of the above into consideration before the vote tomorrow.\nNational Institute of Infectious Diseases\nHead of Room 13: Iwashi",
+    "significantChanges": false
+  }
+]

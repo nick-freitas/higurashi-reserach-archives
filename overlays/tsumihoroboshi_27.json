@@ -1,0 +1,4572 @@
+[
+  {
+    "index": 1,
+    "MessageID": 89951,
+    "TextENGNew": "``Okinomiya PS to all units.@k@vS09/00/VTP_OkeijiA_1002. Okinomiya PS to all units.@k@vS09/00/VTP_OkeijiA_1003. A barricade incident has occurred at the Hinamizawa Forestry Service.@k@vS09/00/VTP_OkeijiA_1004. Multiple hostages reported.@k@vS09/00/VTP_OkeijiA_1005. All units proceed to the Hinamizawa Forestry Service immediately.``",
+    "significantChanges": true,
+    "changeReason": "Original 'all vehicles' vs new 'all units.' Also 'hostage situation' vs 'barricade incident' -- JPN 篭城事件 means barricade/siege incident.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 89952,
+    "TextENGNew": "``Kuma-chan!!@k@vS09/11/170700309. Sorry I'm late!@k@vS09/11/170700310. What's the situation?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 89953,
+    "TextENGNew": "``Welcome, sir!@k@vS09/19/173100072. Today at approximately 1:00 PM, a classroom occupation occurred at the Hinamizawa branch school section of the Hinamizawa Forestry Service building.@k@vS09/19/173100073. All twenty-five students present in the classroom at the time appear to have been restrained.``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 89954,
+    "TextENGNew": "``The suspect's initial demands are to prohibit all entry to the forestry service grounds and to establish a hotline to us.``",
+    "significantChanges": true,
+    "changeReason": "Original 'branch school's property' vs new 'forestry service grounds.' JPN 営林署敷地内 means forestry service grounds. Also tense change from past to present.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 89955,
+    "TextENGNew": "``...So they intend to negotiate with us from the outset?@k@vS09/11/170700312. ...What's their game...?``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 89956,
+    "TextENGNew": "``...Also, the suspect has requested you specifically as negotiator, Ooishi-san.@k@vS09/19/173100076. The suspect is Reina Ryuugu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 89957,
+    "TextENGNew": "``Ryuugu-san...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 89958,
+    "TextENGNew": "``...Very well.@k@vS09/11/170700315. It seems we're bound by fate at this point.@k@vS09/11/170700316. I'll see this through to the end.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 89959,
+    "TextENGNew": "Ooishi gave a bitter smile.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 89960,
+    "TextENGNew": "``It's unknown whether there are any accomplices besides Reina Ryuugu.@k@vS09/19/173100078. The curtains have been drawn, so we've been unable to confirm the situation inside at all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 89961,
+    "TextENGNew": "``Have you spoken to the person who reported the incident about the conditions during the takeover?``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 89962,
+    "TextENGNew": "``No, it was a direct statement from Reina Ryuugu herself.@k@vS09/19/173100080. Therefore, we have been unable to confirm the internal situation or the condition of the hostages.``",
+    "significantChanges": true,
+    "changeReason": "Original includes detail about teacher's attendance check; new includes different detail about no teachers being present. Substantially different information conveyed.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 89963,
+    "TextENGNew": "``...She planned this carefully, didn't she.@k@vS09/11/170700319. Any forestry service personnel among the hostages?``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 89964,
+    "TextENGNew": "``The forestry service staff were absent today.@k@vS09/19/173100083. So it's just the twenty-five students.@k@vS09/19/173100084. No teachers, either -- the principal was away, and the homeroom teacher was apparently lured away as well.``",
+    "significantChanges": true,
+    "changeReason": "Original 'That number matches with the attendance the teacher took this morning' vs new 'No teachers, either -- the principal was away, and the homeroom teacher was apparently lured away.' Completely different supplementary information.",
+    "changeScore": 3
+  },
+  {
+    "index": 15,
+    "MessageID": 89965,
+    "TextENGNew": "``So it's just the suspect and the students.@k@vS09/11/170700321. Any other suspicious figures spotted besides Reina Ryuugu?``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 89966,
+    "TextENGNew": "\"No. There were several glimpses of a figure peeking through the curtains, but each time it was confirmed to be Ryuugu Rena herself.@k@vS09/19/173100086. ...However, given the scale and other factors, we estimate there are at least one or two more people inside.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 89968,
+    "TextENGNew": "``................Well.@k@vS09/11/170700323. ...She may indeed be acting alone.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 89969,
+    "TextENGNew": "...Reina Ryuugu had swallowed Miyoko Takano's scrapbooks whole.",
+    "significantChanges": true,
+    "changeReason": "Original 'Rena Ryuugu was a true believer' vs new 'Reina Ryuugu had swallowed... whole.' Name differs: Rena vs Reina. Also 'Miyo Takano' vs 'Miyoko Takano.'",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 89970,
+    "TextENGNew": "According to them, Ryuugu Rena's enemies were essentially the entire village.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 89971,
+    "TextENGNew": "...She couldn't possibly have any trustworthy allies.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 89972,
+    "TextENGNew": "...Though I'm ashamed to admit it, there was a time when I myself was nearly swept up in Takano Miyoko's delusions.",
+    "significantChanges": true,
+    "changeReason": "Narrative perspective shift: old uses third-person 'Ooishi had believed' while new uses first-person 'I myself was swept up.'",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 89973,
+    "TextENGNew": "...So I couldn't rule out the possibility that someone similarly influenced might have joined Ryuugu Rena's cause.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 89974,
+    "TextENGNew": "``Ooishi-san...!@k@vS09/19/173100091. It's the principal and the homeroom teacher!``",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 89975,
+    "TextENGNew": "``Oh, hello there, Chie-sensei...!!@k@|@y@vS09/11/170700321_2. A-Are you all right...?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 89976,
+    "TextENGNew": "``...Rena-chan is such a good, serious girl...!@k@vS09/22/171400073. She would never do something like this...!@k@vS09/22/171400074. This is my fault... I should have stayed at the school...! I should never have left my students...!!``",
+    "significantChanges": true,
+    "changeReason": "Original has shorter version; new adds Chie-sensei's extended emotional dialogue about blaming herself. Substantially different content.",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 89978,
+    "TextENGNew": "``Normally, the manual says I should be asking you about Ryuugu-san's recent circumstances.@k@vS09/11/170700326. But I think I already have a better grasp of the situation than most.``",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 89979,
+    "TextENGNew": "``Please, don't be too hard on yourself.@k@vS09/11/170700327. We'll resolve this peacefully, I assure you.``",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 89980,
+    "TextENGNew": "Chie-sensei had crumpled down completely, and it seemed impossible to get anything further from her.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 89981,
+    "TextENGNew": "The principal, by contrast, was holding himself together firmly, apparently already considering how to take responsibility.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 89982,
+    "TextENGNew": "``Ooishi-dono, I'm entrusting this to you.@k@vS09/00/173200021. ...If possible, I'd like the hostage exchange to involve someone from the school. Please let me--``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 89983,
+    "TextENGNew": "``Principal, I'll do it!!@k@vS09/22/171400076. This is all my fault, aaahh!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 89984,
+    "TextENGNew": "``Please, neither of you blame yourselves.@k@vS09/11/170700329. ...Right now, what the teachers can do is provide us with information. Please focus on that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 89985,
+    "TextENGNew": "``Bonchi-kun!@k@vS09/11/170700331. Please take them over to the floor plans and hear what they have to say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 89986,
+    "TextENGNew": "``Excuse me, sir!@k@vS09/19/173100089. Section Chief Takasugi on the radio, vehicle one!``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 89987,
+    "TextENGNew": "``Yes, hello... This is Ooishi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 89988,
+    "TextENGNew": "``Ooishi-san, how goes things?@k@vS09/00/taka17004. Kumagai-kun informed me of the situation.@k@vS09/00/taka17005. The suspect is underage, huh?@k@vS09/00/taka17006. Please keep strict control of the press!``",
+    "significantChanges": true,
+    "changeReason": "Original includes JPN text about press control and underage suspect; new has different dialogue about the suspect being a girl. Different content conveyed.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 89989,
+    "TextENGNew": "``I'm well aware.@k@vS09/11/170700334. ...Also, the suspect has requested me specifically as negotiator. I've accepted.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 89991,
+    "TextENGNew": "``...I'm quite familiar with the Reina Ryuugu case, ever since that parasite business the other day.@k@vS09/00/taka17008. It's our responsibility that things got this far. So I'll back you up on this.``",
+    "significantChanges": true,
+    "changeReason": "Original about suspect thinking Ooishi is ally; new about backing Ooishi up. Different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 39,
+    "MessageID": 89992,
+    "TextENGNew": "``I'd honestly rather not, but... I do feel responsible for all the commotion this time, so consider this my atonement. I'll do my best.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 40,
+    "MessageID": 89993,
+    "TextENGNew": "``Ooishi-san...!@k@vS09/19/173100091. On the car phone... it's the suspect, Reina Ryuugu...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 89994,
+    "TextENGNew": "``...My requested caller is already on the line.@k@vS09/11/170700337. I'll take it now. I'll report back afterward.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 42,
+    "MessageID": 89995,
+    "TextENGNew": "``...Thank you.@k@vS09/11/170700339. ...Hello, this is Ooishi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 89996,
+    "TextENGNew": "``Ooishi-san?@k@vS09/02/170201457. This is Ryuugu.``",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 89997,
+    "TextENGNew": "``...Well, well.@k@vS09/11/170700341. This is Ooishi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 89998,
+    "TextENGNew": "``Is the reception bad on car phones?@k@vS09/02/170201459. It cuts out a little sometimes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 89999,
+    "TextENGNew": "``Ha ha ha...@k@vS09/11/170700343. It's like me -- probably nearing retirement age.``",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 90000,
+    "TextENGNew": "For a while, Rena and Ooishi chatted amiably, laughing over trivial things.",
+    "significantChanges": true,
+    "changeReason": "Narrative perspective shift: old first-person 'Ooishi and I'; new third-person 'Rena and Ooishi.'",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 90001,
+    "TextENGNew": "A long, long cord had been strung from the teachers' office out into the hallway.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 90002,
+    "TextENGNew": "The cord slipped through a narrow gap in the sliding door to the classroom... and stretched to the telephone sitting on the teacher's desk.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 50,
+    "MessageID": 90003,
+    "TextENGNew": "``Now then, let's get to the matter at hand.@k@vS09/02/170201461. First, I need to confirm whether you're qualified to be my negotiator.``",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 90004,
+    "TextENGNew": "``...I'm not too confident about that.@k@vS09/11/170700345. But go ahead.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 52,
+    "MessageID": 90005,
+    "TextENGNew": "``Ooishi-san, you are... on my side, aren't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 90006,
+    "TextENGNew": "``Of course I am.@k@vS09/11/170700347. Let's you and I blow the lid off the Sonozaki family's conspiracy together...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 90007,
+    "TextENGNew": "...Ooishi answered without a moment's hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 90008,
+    "TextENGNew": "He still seemed to consider himself my ally.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 90009,
+    "TextENGNew": "Or could this wily old detective simply say whatever people wanted to hear without batting an eye?",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 90010,
+    "TextENGNew": "Either way, right now I had no choice but to rely on Ooishi.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 90011,
+    "TextENGNew": "...If it turned out I couldn't trust even him, I'd be completely cornered.@k ...If that happened, I'd accept my fate gracefully.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 90012,
+    "TextENGNew": "``For a while, even Keiichi-kun didn't believe what I was saying, right?@k@vS09/02/170201464. But now he understands everything, and he's on my side.``",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 90013,
+    "TextENGNew": "Keiichi was crouched at the spot farthest from Rena, hands clasped on top of his head.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 90014,
+    "TextENGNew": "``We're allies now, right...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 90015,
+    "TextENGNew": "``...Yeah... that's right...``",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 90016,
+    "TextENGNew": "Ryuugu Rena had apparently asked Keiichi whether he was her comrade, but Maebara Keiichi's voice hadn't been audible through the receiver.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 90017,
+    "TextENGNew": "...Was she bluffing to prove Keiichi was still alive, or was he in a state where he couldn't resist because the hostages were being used as leverage?",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 90019,
+    "TextENGNew": "``So Maebara-san is your ally too, then.@k@vS09/11/170700349. That's reassuring.@k@vS09/11/170700350. I understand. So, what can I do for you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 90020,
+    "TextENGNew": "``Yeah.@k@vS09/02/170201467. When I heard about the model gun incident, I thought, what kind of person does that?@k@vS09/02/170201468. But Keiichi-kun taught me that people can't be measured by their past alone.``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 67,
+    "MessageID": 90021,
+    "TextENGNew": "``We have to use those experiences as stepping stones and keep growing, so we can become better, more ideal versions of ourselves.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 90022,
+    "TextENGNew": "``Na ha ha ha...@k@vS09/11/170700352. That's very good.@k@vS09/11/170700353. You're absolutely right about that.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 69,
+    "MessageID": 90023,
+    "TextENGNew": "``That's why we forgave each other.@k@vS09/02/170201471. That's why I'll never doubt Keiichi-kun again.@k@vS09/02/170201472. And Keiichi-kun won't doubt me either.``",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 90024,
+    "TextENGNew": "``I understand.@k@vS09/11/170700355. Then that means Keiichi-kun is my comrade as well.@k@vS09/11/170700356. In that case, I feel even more reassured.``",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 90025,
+    "TextENGNew": "``I'm glad to hear you say that, Ooishi-san.@k@vS09/02/170201474. Now I know for certain that you're on my side.``",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 90026,
+    "TextENGNew": "``Actually, I'd like to say hello to him myself.@k@vS09/11/170700358. Can he come to the phone?``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 73,
+    "MessageID": 90027,
+    "TextENGNew": "..................",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 74,
+    "MessageID": 90028,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 75,
+    "MessageID": 90029,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 76,
+    "MessageID": 90030,
+    "TextENGNew": "``Sure.@k@vS09/02/170201475. Here he is.@k@vS09/02/170201476. ......Keiichi-kun, Ooishi-san wants to talk to you.``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 77,
+    "MessageID": 90031,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 78,
+    "MessageID": 90032,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 79,
+    "MessageID": 90033,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 80,
+    "MessageID": 90034,
+    "TextENGNew": "...Unable to disobey, Keiichi Maebara must have been pretending to follow Rena Ryuugu's orders.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 81,
+    "MessageID": 90035,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 82,
+    "MessageID": 90036,
+    "TextENGNew": "``Yes...@k@vS09/01/170101169. Let's do this together.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 83,
+    "MessageID": 90037,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 84,
+    "MessageID": 90038,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 85,
+    "MessageID": 90039,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 86,
+    "MessageID": 90040,
+    "TextENGNew": "``I've also placed several cans of kerosene on the second floor.@k@vS09/02/170201492. Whether or not the gas cylinders explode, a fire will certainly break out. I'll be providing more details during our negotiations.``",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 90041,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 88,
+    "MessageID": 90042,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 89,
+    "MessageID": 90043,
+    "TextENGNew": "There's no way Rena wouldn't tell her accomplice what she wanted after planning a hostage situation like this.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 90,
+    "MessageID": 90044,
+    "TextENGNew": "How would he help someone who wouldn't even tell him what she wanted?",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 91,
+    "MessageID": 90045,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 92,
+    "MessageID": 90046,
+    "TextENGNew": "``Yes.``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 93,
+    "MessageID": 90047,
+    "TextENGNew": "There you go!@k The other guys in the car listening in on our conversation raised their fists in victory.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 94,
+    "MessageID": 90048,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 95,
+    "MessageID": 90049,
+    "TextENGNew": "``So if you enter the building, you'll sever your own lifeline of communication.@k@vS09/02/170201502. Isn't that a clever setup?``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 90050,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 97,
+    "MessageID": 90052,
+    "TextENGNew": "......I guess nobody else believed in Takano's scrapbooks.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 98,
+    "MessageID": 90053,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 99,
+    "MessageID": 90054,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 100,
+    "MessageID": 90055,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 101,
+    "MessageID": 90056,
+    "TextENGNew": "``Understood.``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 90057,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 103,
+    "MessageID": 90058,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 104,
+    "MessageID": 90059,
+    "TextENGNew": "I had to decide on what to say.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 105,
+    "MessageID": 90060,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 106,
+    "MessageID": 90061,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 107,
+    "MessageID": 90062,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 108,
+    "MessageID": 90063,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 109,
+    "MessageID": 90064,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 110,
+    "MessageID": 90065,
+    "TextENGNew": "``O-Of course, I am!@k@vS09/11/170700377. But the police department is a little more complicated than you think...@k@vS09/11/170700378. I'm doing my best, I really am!@k@vS09/11/170700379. The thing is this is on a really big scale...``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 111,
+    "MessageID": 90066,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 112,
+    "MessageID": 90067,
+    "TextENGNew": "I'm all bloody from scratching at my throat.@k@vS09/02/170201495. I might claw out my throat and die at any moment, and you're telling me you're still 'preparing'?``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 113,
+    "MessageID": 90068,
+    "TextENGNew": "I knew it...... Ooishi didn't realize how dire the situation was!",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 114,
+    "MessageID": 90069,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 115,
+    "MessageID": 90070,
+    "TextENGNew": "Besides, I was already feeling itchy all over my body and was bound to soon die the same way as Tomitake-san!!!",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 116,
+    "MessageID": 90071,
+    "TextENGNew": "``I'm sorry, I really am doing my best...@k@vS09/11/170700381. But... everybody asks me if I have proof...``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 117,
+    "MessageID": 90072,
+    "TextENGNew": "``Proof?@k@vS09/02/170201497. Do you need proof?``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 118,
+    "MessageID": 90073,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 119,
+    "MessageID": 90074,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 120,
+    "MessageID": 90075,
+    "TextENGNew": "I was afraid someone would destroy the evidence if I handed them over to Ooishi-san, so I kept them with me.@k But...... I didn't have much longer to live...",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 121,
+    "MessageID": 90076,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 122,
+    "MessageID": 90077,
+    "TextENGNew": "That's right... I might be dead before tomorrow...",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 123,
+    "MessageID": 90078,
+    "TextENGNew": "I would die tonight...",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 124,
+    "MessageID": 90079,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 125,
+    "MessageID": 90080,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 126,
+    "MessageID": 90081,
+    "TextENGNew": "I looked through my backpack, which was lying by my feet.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 127,
+    "MessageID": 90082,
+    "TextENGNew": "Miyo-san's scrapbooks were in there.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 128,
+    "MessageID": 90083,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 129,
+    "MessageID": 90084,
+    "TextENGNew": "If I didn't do this... the people of this village would be killed by that terrible conspiracy.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 90085,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 131,
+    "MessageID": 90086,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 132,
+    "MessageID": 90087,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 133,
+    "MessageID": 90088,
+    "TextENGNew": "``...What?``",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 90089,
+    "TextENGNew": "``I'm sorry for dragging you into this.@k@vS09/02/170201540. But you understand, don't you? This is the only way.``",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 90090,
+    "TextENGNew": "``............``",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 90091,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 137,
+    "MessageID": 90092,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 138,
+    "MessageID": 90093,
+    "TextENGNew": "``Maybe that's better.@k@vS09/11/170700392. If you left the building, something might happen.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 139,
+    "MessageID": 90094,
+    "TextENGNew": "``......What do you mean?``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 140,
+    "MessageID": 90095,
+    "TextENGNew": "...That was all that mattered.",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 90096,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 142,
+    "MessageID": 90097,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 143,
+    "MessageID": 90098,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 144,
+    "MessageID": 90099,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 145,
+    "MessageID": 90100,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 146,
+    "MessageID": 90101,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 147,
+    "MessageID": 90102,
+    "TextENGNew": "I need you to help me expose the conspiracy of the Sonozaki family!``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 148,
+    "MessageID": 90103,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 149,
+    "MessageID": 90104,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 150,
+    "MessageID": 90105,
+    "TextENGNew": "The phone conversation ended.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 151,
+    "MessageID": 90106,
+    "TextENGNew": "...Ryuugu Rena would have Maebara Keiichi carry the scrapbooks out and hand them over.",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 90107,
+    "TextENGNew": "``The items I wrote down on that note -- you've got them ready, right?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 90108,
+    "TextENGNew": "``All set.@k@vS09/19/173100093. Think we can pull off the handoff smoothly...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 90109,
+    "TextENGNew": "``I scared her, so I don't think she'll peek out the windows...@k@vS09/11/170700412. I'm sure she'll still have her eyes open, though.@k@vS09/11/170700413. I'll work around it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 90110,
+    "TextENGNew": "I'd gathered the gist from hearing the phone conversation.",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 90111,
+    "TextENGNew": "``Now then, Keiichi-kun.@k@vS09/02/170201519. ...These are very important scrapbooks.@k@vS09/02/170201520. ...They contain evidence of the Sonozaki family's conspiracy and the truth about the parasite.``",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 157,
+    "MessageID": 90112,
+    "TextENGNew": "Please take this to Ooishi-san, okay?@k@vS09/02/170201522. And when you give it to him, come right back.@k@vS09/02/170201523. I'm watching you.@k@vS09/02/170201524. If you do something you aren't supposed to... I'll be angry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 90113,
+    "TextENGNew": "Rena pulled two or three battered scrapbooks from her backpack and held them out to me.@k Then she glanced sideways at Mion.",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 159,
+    "MessageID": 90114,
+    "TextENGNew": "``I'll tell you about these later, Mii-chan.@k@vS09/02/170201526. I'll tell you all about what a scary conspiracy your family is planning.@k@vS09/02/170201527. Or maybe you already know, huh?",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 90115,
+    "TextENGNew": "``Ahahahahahahahahahahahahaha!``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 90116,
+    "TextENGNew": "Anyway, go on, Keiichi-kun.@k@vS09/02/170201530. Just go halfway out into the schoolyard.",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 90117,
+    "TextENGNew": "Don't say anything.@k@vS09/02/170201532. You're just delivering the scrapbooks.@k@vS09/02/170201533. Don't talk, okay?@k@vS09/02/170201534. If you do... if it was Chie-sensei, she'd slap you with a ruler, but...... hmm, what should I use instead?``",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 90118,
+    "TextENGNew": "``Alright, alright, I won't even say a word. Come on, put that hatchet down.@k@vS09/01/170101175. I'm your ally, right?@k@vS09/01/170101176. Trust me,@k@vS09/01/170101177. okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 90119,
+    "TextENGNew": "``..................@k@vS09/02/170201536.Yeah, you're right. I trust you.@k@vS09/02/170201537. So please don't betray me, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 90120,
+    "TextENGNew": "...Rena's eyes said everything that needed to be said.",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 90121,
+    "TextENGNew": "...They said she didn't trust even me...",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 90122,
+    "TextENGNew": "...But even in this state, some part of Rena still knew she shouldn't carelessly doubt her allies.",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 90123,
+    "TextENGNew": "...So even though deep down she couldn't trust me, she kept up the pretense of believing in me on the surface.@k ...That was why she hadn't tied me up.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 90124,
+    "TextENGNew": "``All right, I'm heading out.@k@vS09/01/170101179. ...I'll be right back.``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 90125,
+    "TextENGNew": "``Mm, thanks.``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 90126,
+    "TextENGNew": "I picked my way through my friends lying on the floor and headed for the classroom exit.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 90127,
+    "TextENGNew": "...I caught the eyes of several of them as I passed.",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 90128,
+    "TextENGNew": "Some were paralyzed with fear,@k some were certain I was going to use this as an excuse to escape,@k and some were terrified that if I ran, they'd be the ones to die...",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 90129,
+    "TextENGNew": "It's okay, everyone...@k I won't let a single finger be laid on any of you...",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 175,
+    "MessageID": 90130,
+    "TextENGNew": "If Rena tried anything like that, I'd stop her, even if it meant going down with her.@k I'd stake my life on stopping her...",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 90131,
+    "TextENGNew": "For now... I had to do everything in my power to make sure nobody died.",
+    "significantChanges": false
+  },
+  {
+    "index": 177,
+    "MessageID": 90132,
+    "TextENGNew": "...Keep Rena calm. Don't provoke her. ...And wait for an opening...",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 90133,
+    "TextENGNew": "I went down to the entrance hall, changed into my outdoor shoes, unlocked the door, and stepped outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 90134,
+    "TextENGNew": "...A rush of outside air washed over me.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 90135,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 181,
+    "MessageID": 90136,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 182,
+    "MessageID": 90137,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 183,
+    "MessageID": 90138,
+    "TextENGNew": "...If I ran off the school grounds, I'd be free.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 184,
+    "MessageID": 90139,
+    "TextENGNew": "...Behind Ooishi-san, I could see rows of patrol cars and police officers. And beyond them, a crowd of villagers who'd gathered to watch.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 90140,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 186,
+    "MessageID": 90141,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 187,
+    "MessageID": 90142,
+    "TextENGNew": "``Yeah. ...And this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 90143,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 189,
+    "MessageID": 90144,
+    "TextENGNew": "\"...S-Sorry!@k@vS09/01/170101181. Rena told me not to say anything and just hand these over.@k@vS09/01/170101182. So please just take them without a word...!\"",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 90145,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 191,
+    "MessageID": 90146,
+    "TextENGNew": "``...I see, I see.@k@vS09/11/170700416. Very well, I'll look these over carefully.``",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 90147,
+    "TextENGNew": "``...Please.@k@vS09/01/170101183. And Ooishi-san... please hurry.``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 90148,
+    "TextENGNew": "``...Don't worry, Maebara-san.@k@vS09/11/170700418. We'll get you all out of there safely.``",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 90149,
+    "TextENGNew": "Confused as to what he was doing, I changed my position and handed them to him again.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 195,
+    "MessageID": 90150,
+    "TextENGNew": "He took them that time.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 196,
+    "MessageID": 90151,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 197,
+    "MessageID": 90152,
+    "TextENGNew": "``Don't worry.@k@vS09/11/170700421. Even if Ryuugu-san was watching, the building is behind you. She couldn't have seen that.``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 198,
+    "MessageID": 90153,
+    "TextENGNew": "As I walked back, I thought about what Ooishi-san would do.",
+    "significantChanges": false
+  },
+  {
+    "index": 199,
+    "MessageID": 90154,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 200,
+    "MessageID": 90155,
+    "TextENGNew": "...Either way, time was running out.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 90156,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 202,
+    "MessageID": 90157,
+    "TextENGNew": "I just followed his directions.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 203,
+    "MessageID": 90158,
+    "TextENGNew": "I was worried Rena had begun to suspect something.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 204,
+    "MessageID": 90159,
+    "TextENGNew": "...I climbed the stairs back to the classroom, forcing my legs to move.",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 90160,
+    "TextENGNew": "But that didn't mean she wasn't peeking out through a crack...",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 206,
+    "MessageID": 90161,
+    "TextENGNew": "I went back to the entrance and locked the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 207,
+    "MessageID": 90162,
+    "TextENGNew": "If Rena checked and found the door unlocked, it could cause more trouble.",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 90163,
+    "TextENGNew": "Rena was in the classroom.@k There was no way she'd come down this way.",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 90164,
+    "TextENGNew": "...She was alone. If she left the classroom, everyone would get up and run.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 90165,
+    "TextENGNew": "They couldn't run because Rena was there, but they were all waiting for their chance.",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 90166,
+    "TextENGNew": "The entrance, then, was Rena's blind spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 90167,
+    "TextENGNew": "As I changed my shoes, I quickly removed what Ooishi-san had put into my pocket.",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 90168,
+    "TextENGNew": "...There was a radio with an... earpiece?",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 90169,
+    "TextENGNew": "And something else that looked like a short police baton.",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 90170,
+    "TextENGNew": "There was also a folded piece of paper.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 90171,
+    "TextENGNew": "I opened the piece of paper and saw a note written in small print.",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 90172,
+    "TextENGNew": "``Dear Maebara-kun.",
+    "significantChanges": false
+  },
+  {
+    "index": 218,
+    "MessageID": 90173,
+    "TextENGNew": "Please hide the bug in your pocket.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 90174,
+    "TextENGNew": "It picks up even a low voice, so you can use it to get in touch with me.@k By using the earphone, you can hear me in return.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 90175,
+    "TextENGNew": "There is also a spray for self-protection.@k It sprays as far as one meter.@k Make sure you aim for the face.``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 90176,
+    "TextENGNew": "This must be the spray.",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 90177,
+    "TextENGNew": "I guess it's safe to try it here.",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 90178,
+    "TextENGNew": "I held down the button and gas sprayed out from the nozzle.",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 90179,
+    "TextENGNew": "Compared to Rena's hatchet, this required some caution, but it was small enough to fit inside of my hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 90180,
+    "TextENGNew": "It was reassuring that I could hide it so easily.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 90181,
+    "TextENGNew": "In other words, it was now possible for me to stop Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 90182,
+    "TextENGNew": "As I realized all my classmates' fates rested on my shoulders, I could feel sweat form on my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 90183,
+    "TextENGNew": "The memo continued.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 90184,
+    "TextENGNew": "``The spray is just for self-defensive purposes.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 90185,
+    "TextENGNew": "Pepper spray only impairs eyesight, and while it makes your enemy powerless due to extreme pain and coughing for at least thirty minutes, it's not powerful enough to render them unconscious.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 90186,
+    "TextENGNew": "Therefore, please don't forget there is a possibility that your enemy may fight back desperately in panic.",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 90187,
+    "TextENGNew": "This spray is your last resort.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 90188,
+    "TextENGNew": "Please don't depend on it, but if you need to, make sure to use it.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 90189,
+    "TextENGNew": "Ooishi``",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 90190,
+    "TextENGNew": "...Was he telling me to use it, or not?",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 90191,
+    "TextENGNew": "It was probably one of those grownup issues.",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 90192,
+    "TextENGNew": "If the cops entrusted me solely with the fate of the hostages and I failed, they'd be held liable.",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 90193,
+    "TextENGNew": "...So while he gave me a weapon, he made me consider its use.",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 90194,
+    "TextENGNew": "I hid the bug and the spray in my pockets and went back to the classroom...",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 90195,
+    "TextENGNew": "I could feel a little dizzy, maybe because I was nervous.",
+    "significantChanges": false
+  },
+  {
+    "index": 241,
+    "MessageID": 90196,
+    "TextENGNew": "I was simply following Rena's orders because I had no other choice.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 90197,
+    "TextENGNew": "That was why I wasn't scared.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 90198,
+    "TextENGNew": "But things were different from before.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 90199,
+    "TextENGNew": "I had a weapon.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 90200,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 246,
+    "MessageID": 90201,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 247,
+    "MessageID": 90202,
+    "TextENGNew": "Did I want to fight with Rena?",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 90203,
+    "TextENGNew": "The memo said the spray only reaches as far as one meter.",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 90204,
+    "TextENGNew": "...One meter?@k That was basically a hand-to-hand battle.",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 90205,
+    "TextENGNew": "That meant I only had one opportunity.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 90206,
+    "TextENGNew": "I didn't have a second chance.@k The memo also said I'd need to aim for her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 90207,
+    "TextENGNew": "That wasn't gonna be easy... Shit!",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 90208,
+    "TextENGNew": "Besides, Rena was cautious.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 90209,
+    "TextENGNew": "How could I stand directly in front of her within one meter?",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 90210,
+    "TextENGNew": "But that's what I'd have to do if I was to have any chance of winning!",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 90211,
+    "TextENGNew": "Rena would do anything to reach her goal. She wouldn't even hesitate to kill.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 90212,
+    "TextENGNew": "Just like how I didn't.",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 90213,
+    "TextENGNew": "Of course, things were already extremely serious.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 90214,
+    "TextENGNew": "An apology definitely wouldn't be enough.",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 90215,
+    "TextENGNew": "But at least there hadn't been any casualties!",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 90216,
+    "TextENGNew": "The more time passed, the more irritated Rena would get.",
+    "significantChanges": false
+  },
+  {
+    "index": 262,
+    "MessageID": 90217,
+    "TextENGNew": "She might demand something again, and she might kill someone that time to show how serious she was.",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 90218,
+    "TextENGNew": ".........Bad things had already taken place, but a tragedy hadn't occurred yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 90219,
+    "TextENGNew": "But it was almost here.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 90220,
+    "TextENGNew": "It wasn't very far at all.",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 90221,
+    "TextENGNew": "When I closed my eyes, I could easily picture Rena killing one classmate after another.",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 90222,
+    "TextENGNew": "After I killed Rena and Mion, my room was covered in blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 90223,
+    "TextENGNew": "If she killed twenty people, the classroom would be a pool of it...!",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 90224,
+    "TextENGNew": "...If that happened, Rena would...",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 90225,
+    "TextENGNew": "She still wouldn't realize she was being delusional. She would rip out her own throat and die...",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 90226,
+    "TextENGNew": "That would be too big a cross for her to carry ...and one day, she would remember...... and be saddened.",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 90227,
+    "TextENGNew": "She didn't need to go through that...",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 90228,
+    "TextENGNew": "I didn't want Rena to go through what I had to go through!!",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 90229,
+    "TextENGNew": "Shit... I could feel dizzy... This was a very long hallway...",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 90230,
+    "TextENGNew": "I didn't know the classroom was so far...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 90231,
+    "TextENGNew": "With each step I took, my determination to fight Rena became stronger.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 90232,
+    "TextENGNew": "Rena would be shocked to realize I betrayed her.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 90233,
+    "TextENGNew": "....But if she couldn't wake up from the nightmare on her own.... someone else would have to wake her up.",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 90234,
+    "TextENGNew": "And her friends needed to be the ones to do that!!",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 90235,
+    "TextENGNew": "``Welcome back, Keiichi-kun.@k@vS09/02/170201540. Did Ooishi-san say anything?``",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 90236,
+    "TextENGNew": "``Uh......... wh-what is this smell?``",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 90237,
+    "TextENGNew": "As soon as I stepped into the classroom, I smelled something.",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 90238,
+    "TextENGNew": "Everyone had moved to one corner of the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 90239,
+    "TextENGNew": "The smell reminded me of a gas station.@k Was it...@k gasoline?!",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 90240,
+    "TextENGNew": "I saw a red gasoline container by Rena's feet. The cap was open.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 90241,
+    "TextENGNew": "...It was seemingly sturdy and made of metal.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 90242,
+    "TextENGNew": "It said 'gasoline' on the side, written in felt marker.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 90243,
+    "TextENGNew": "She must have spread it across the entire classroom. The smell was almost giving me a headache.",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 90244,
+    "TextENGNew": "No, it wasn't just in the classroom.@k The classmates were soaked in gasoline too.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 90245,
+    "TextENGNew": "How could she?",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 90246,
+    "TextENGNew": "I see... this was just like a hijacker holding a bomb.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 90247,
+    "TextENGNew": "If the police were to rush in, she would burn the hostages.",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 90248,
+    "TextENGNew": "I didn't know where she got it, but she had a lighter in her left hand.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 90249,
+    "TextENGNew": "``R-Rena... what do you think you're doing?``",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 90250,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 296,
+    "MessageID": 90251,
+    "TextENGNew": "Rena showed off the lighter. Obviously, she was trying to threaten me.",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 90252,
+    "TextENGNew": "I've heard about people committing suicide by setting themselves on fire.",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 90253,
+    "TextENGNew": "They pour gasoline on themselves and light it ablaze.",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 90254,
+    "TextENGNew": "......You might think that if it was extinguished right away, it wouldn't be that bad.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 90255,
+    "TextENGNew": "But human skin is supposedly very delicate, and they say that even if 30% of a person's skin gets burned, it's enough to be fatal.",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 90256,
+    "TextENGNew": "If it was your entire body, it would result in death for sure!",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 90257,
+    "TextENGNew": "I had been put in a disadvantageous position.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 90258,
+    "TextENGNew": "My weapon might take Rena's sight, but I couldn't stop her from using the lighter.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 90259,
+    "TextENGNew": "She'd probably use it the moment she's attacked.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 90260,
+    "TextENGNew": "I didn't know if she realized it, but the kind of lighter she had would keep burning until the lid was closed.",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 90261,
+    "TextENGNew": "Therefore, all she'd have to do was to light it and drop it onto the floor...",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 90262,
+    "TextENGNew": "In other words, my spray can wouldn't make Rena powerless at all...",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 90263,
+    "TextENGNew": "The last resort Ooishi-san gave me had already lost all its power.",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 90264,
+    "TextENGNew": "``What do you mean, insurance?@k@vS09/01/170101187. With those scrapbooks, Ooishi-san will convince the rest of the police.@k@vS09/01/170101188. After that, their investigation will expose the conspiracy... ...right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 90265,
+    "TextENGNew": "``Do you really think those scrapbooks are enough?@k@vS09/02/170201546. ......I know government people don't move nearly quickly enough...``",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 90266,
+    "TextENGNew": "Rena was thinking that if she didn't see any progress with the scrapbooks, she'd pressure the police by letting them know about the gasoline.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 90267,
+    "TextENGNew": "``Let's just trust Ooishi-san for now.@k@vS09/01/170101190. We should just wait to hear from him... okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 90268,
+    "TextENGNew": "``......Yeah, that's right.@k@vS09/02/170201548. Okay, then let me pick up where I left off.@k@vS09/02/170201549. Anyway...@k@vS09/02/170201550. those parasites became harmless with the passage of time.",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 90269,
+    "TextENGNew": "But some people didn't like that.@k@vS09/02/170201552. Those people are the Three Families of Hinamizawa.@k@vS09/02/170201553. Therefore, they are...``",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 90270,
+    "TextENGNew": "Rena was simply telling everyone what she heard from Takano-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 90271,
+    "TextENGNew": "I started mumbling so I could let Ooishi-san know what was going on.",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 90272,
+    "TextENGNew": "``What a smell...@k@vS09/01/170101192. Scattering a whole portable tank of gasoline...``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 90273,
+    "TextENGNew": "I was pretending to mumble to myself, so I could only say it very quietly.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 90274,
+    "TextENGNew": "I wished I could say it louder, but that was probably impossible.",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 90275,
+    "TextENGNew": "I wasn't sure if Ooishi-san could hear me.",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 90276,
+    "TextENGNew": "Hmm...",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 90277,
+    "TextENGNew": "I thought of an idea to find out whether or not they could hear me.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 90278,
+    "TextENGNew": "``It'd be nice if I heard a car honk...``",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 90279,
+    "TextENGNew": "``Kuma-chan, honk the horn!``",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 90280,
+    "TextENGNew": "Kumagai honked once quickly.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 90281,
+    "TextENGNew": "``...Gasoline, huh? Shit.@k@vS09/19/173100095. That explains the smell.@k@vS09/19/173100096. I'm sure she's intending to use it to get what she wants.``",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 90282,
+    "TextENGNew": "``Kuma-chan...@k@vS09/11/170700428. People usually mean an 18-liter tank when they say portable tank of gasoline, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 90283,
+    "TextENGNew": "``Well... probably, but I'm not sure...``",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 90284,
+    "TextENGNew": "``Komiyama-kun~~!!@k@vS09/11/170700430. Is there still someone from the forestry service here?@k@vS09/11/170700431. Could you get him?``",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 90285,
+    "TextENGNew": "``I see, those cans have 'gasoline' written on them.@k@vS09/11/170700433. Do plastic kerosene tanks have 'kerosene' written on them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 90286,
+    "TextENGNew": "``Yes.@k@vS09/00/eirin17002. We don't want to mix them up. All the fuel containers have labels.``",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 90287,
+    "TextENGNew": "Not too many people know this, but regular portable tanks can't hold gasoline.",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 90288,
+    "TextENGNew": "Gasoline, while common, is extremely flammable, and it can be lit even with static electricity.",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 90289,
+    "TextENGNew": "Therefore, gasoline must be kept in special metal containers.@k Those are called carrying cans.",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 90290,
+    "TextENGNew": "``So what Maebara-san called gasoline really is gasoline.@k@vS09/11/170700435. Are there different-sized carrying cans?``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 90291,
+    "TextENGNew": "``18-liter and five-liter, I think.``",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 90292,
+    "TextENGNew": "``Five-liter ones are rather flat in shape, aren't they?``",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 90293,
+    "TextENGNew": "``Yes.@k@vS09/00/eirin17005. It's red and flat, with a handle.``",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 90294,
+    "TextENGNew": "``Keiichi Maebara called it a portable tank...@k@vS09/11/170700438. Do you think it's the 18-liter type?``",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 90295,
+    "TextENGNew": "``Maybe he called it a portable tank because he wasn't familiar with the shape?@k@vS09/00/eirin17007. But either way, if it's really gasoline, it's really dangerous.``",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 90296,
+    "TextENGNew": "Gasoline burns when lit.",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 90297,
+    "TextENGNew": "But what's an even bigger threat than liquid gasoline are the fumes.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 90298,
+    "TextENGNew": "When gasoline fumes are lit on fire, they explode.",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 90299,
+    "TextENGNew": "Also, gasoline evaporates easily. Even at freezing temperatures, it evaporates.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 90300,
+    "TextENGNew": "And so, in other words...",
+    "significantChanges": true,
+    "changeReason": "Numerical values differ between translations.",
+    "changeScore": 3
+  },
+  {
+    "index": 346,
+    "MessageID": 90301,
+    "TextENGNew": "Inside the closed classroom, the fumes would fill the entire space... The classroom would then become a bomb itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 90302,
+    "TextENGNew": "``Kuma-chan, do you know anything about class-4 hazardous materials?``",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 90303,
+    "TextENGNew": "``No.@k@vS09/19/173100099. I know gasoline fumes are dangerous, but I don't know any more than that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 90304,
+    "TextENGNew": "``To prepare for the worst-case scenario, I want to find out the difference in scale between the 18-liter and the five-liter.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 90305,
+    "TextENGNew": "......I know, I'll ask the old guy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 90306,
+    "TextENGNew": "Having said that, Oishi called to ``old guy``, an expert from forensics department.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 90307,
+    "TextENGNew": "``Oh, I've heard what's going on.@k@vS09/00/oyaji17002. The criminal requested you, huh?@k@vS09/00/oyaji17003. Kaboom! Riichi Ippatsu Ron!``",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 90308,
+    "TextENGNew": "``Na ha ha...@k@vS09/11/170700444. Ura-Dora on top of that too.@k@vS09/11/170700445. This isn't a laughing matter anymore.@k@vS09/11/170700446_1. Anyway, do you know about fourth-class hazardous materials?``",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 90309,
+    "TextENGNew": "``Fourth-class, huh?@k@vS09/00/oyaji17005. Heh heh heh!@k@vS09/00/oyaji17006. If we add everyone here, we know everything about hazardous materials.@k@vS09/00/oyaji17007. Did the suspect spread gasoline or something?``",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 90310,
+    "TextENGNew": "``Yeah, that's exactly what's happening here.@k@vS09/11/170700448. We bugged one of the hostages. Supposedly, the suspect spread gasoline throughout the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 90311,
+    "TextENGNew": "But we don't know if it's from an 18-liter can or a five-liter can.@k@vS09/11/170700450. Can you tell me the worst-case scenarios for both of them?``",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 90312,
+    "TextENGNew": "``How big is the classroom?``",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 90313,
+    "TextENGNew": "``Let's see... approximately fifty square meters.``",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 90314,
+    "TextENGNew": "``And the room is closed, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 90315,
+    "TextENGNew": "``More than likely.@k@vS09/11/170700453. I'm sure the smell must be horrible.``",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 90316,
+    "TextENGNew": "``That's not good, Ooishi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 90317,
+    "TextENGNew": "``I had a feeling...``",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 90318,
+    "TextENGNew": "``The classroom will blow up!@k@vS09/00/oyaji17012. Everyone in the classroom will be dead for sure.``",
+    "significantChanges": false
+  },
+  {
+    "index": 364,
+    "MessageID": 90319,
+    "TextENGNew": "``You mean in the case of the 18-liter?``",
+    "significantChanges": false
+  },
+  {
+    "index": 365,
+    "MessageID": 90320,
+    "TextENGNew": "``Fool, I'm talking about the five-liter one!!@k@vS09/00/oyaji17014. If I remember correctly... four liters is plenty enough to blow up an eight-by-eight-meter room.``",
+    "significantChanges": false
+  },
+  {
+    "index": 366,
+    "MessageID": 90321,
+    "TextENGNew": "The policemen listening to their conversation on the side went pale.",
+    "significantChanges": false
+  },
+  {
+    "index": 367,
+    "MessageID": 90322,
+    "TextENGNew": "Eight by eight meters meant a room that was sixty-four square meters.",
+    "significantChanges": false
+  },
+  {
+    "index": 368,
+    "MessageID": 90323,
+    "TextENGNew": "Only four liters are needed to blow that up, and at least five liters were scattered in a fifty-square-meter room!",
+    "significantChanges": false
+  },
+  {
+    "index": 369,
+    "MessageID": 90324,
+    "TextENGNew": "``Nahahaha...@k@vS09/11/170700457. In other words, the room has more than enough gasoline, huh?@k@vS09/11/170700458. That's not good...@k@vS09/11/170700459. I'd rather not hear this... but what would happen if it was an 18-liter can?``",
+    "significantChanges": false
+  },
+  {
+    "index": 370,
+    "MessageID": 90325,
+    "TextENGNew": "``Heh heh heh!@k@vS09/00/oyaji17016. Let's see... to put it in your words, Ooishi... The dealer's hand is Riichi, Ippatsu, Pinfu, Tan-yao, Aka-aka, and Dora Dora...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 371,
+    "MessageID": 90326,
+    "TextENGNew": "``Wh-What do you mean?``",
+    "significantChanges": false
+  },
+  {
+    "index": 372,
+    "MessageID": 90327,
+    "TextENGNew": "``Bai-man from the dealer, 24,000 points.@k@vS09/11/170700459_02. The base distribution is 25,000 points, so there'll be one 1,000-point stick left.``",
+    "significantChanges": false
+  },
+  {
+    "index": 373,
+    "MessageID": 90328,
+    "TextENGNew": "``Heh heh heh!@k@vS09/00/oyaji17020. Something like that. There may be one pillar left, if you're lucky.``",
+    "significantChanges": false
+  },
+  {
+    "index": 374,
+    "MessageID": 90329,
+    "TextENGNew": "``My gosh... I don't want that kind of riichi...@k@vS09/11/170700461. Na ha ha...``",
+    "significantChanges": false
+  },
+  {
+    "index": 375,
+    "MessageID": 90330,
+    "TextENGNew": "``You should call the fire department and get a chemical unit ready.@k@vS09/00/oyaji17022. You'll need to have them deal with it after the incident is taken care of.``",
+    "significantChanges": false
+  },
+  {
+    "index": 376,
+    "MessageID": 90331,
+    "TextENGNew": "``Shit... I heard this through the bug, so if a fire engine shows up, the suspect will find out.@k@vS09/11/170700463. I guess I'll have them get ready where she can't see them.``",
+    "significantChanges": false
+  },
+  {
+    "index": 377,
+    "MessageID": 90332,
+    "TextENGNew": "``Yeah, that's a good idea.@k@vS09/00/oyaji17024. You mentioned a bug, didn't you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 378,
+    "MessageID": 90333,
+    "TextENGNew": "``Yes.@k@vS09/11/170700465. I had a chance to come into contact with one of the hostages.@k@vS09/11/170700466. I gave him a bug.@k@vS09/11/170700467. That's how I found out about the gasoline.``",
+    "significantChanges": false
+  },
+  {
+    "index": 379,
+    "MessageID": 90334,
+    "TextENGNew": "``......That's not good.@k@vS09/00/oyaji17026. There have been incidents where the sparks from electronic devices set gasoline on fire.@k@vS09/00/oyaji17027. You know, gasoline's flash point is about 300 degrees.@k@vS09/00/oyaji17028. Even static electricity can easily cause an explosion!``",
+    "significantChanges": false
+  },
+  {
+    "index": 380,
+    "MessageID": 90335,
+    "TextENGNew": "``You've got to be kidding me!@k@vS09/11/170700469. Why is such a dangerous liquid available to just about anybody?``",
+    "significantChanges": false
+  },
+  {
+    "index": 381,
+    "MessageID": 90336,
+    "TextENGNew": "``How the heck should I know?@k@vS09/00/oyaji17030. Tell that to the fire laws and automobile companies!@k@vS09/00/oyaji17031. Since it's June, the air isn't that dry, but just to be on the safe side, tell him to turn the listening device off.``",
+    "significantChanges": false
+  },
+  {
+    "index": 382,
+    "MessageID": 90337,
+    "TextENGNew": "``Ooishi-san,@k@vS09/19/173100102. according to what I can hear through the bug, the suspect has a lighter.``",
+    "significantChanges": false
+  },
+  {
+    "index": 383,
+    "MessageID": 90338,
+    "TextENGNew": "``That means even if Maebara-san used the pepper spray to stop her, he won't be able to prevent her from igniting the gasoline...@k@vS09/11/170700471. And we can't even use the bug anymore?@k@vS09/11/170700472. Dammit!``",
+    "significantChanges": false
+  },
+  {
+    "index": 384,
+    "MessageID": 90339,
+    "TextENGNew": "``Ooishi!!@k@vS09/00/oyaji17033. A lighter is really, really bad!@k@vS09/00/oyaji17034. Don't even let her play with it!!@k@vS09/00/oyaji17035. The suspect may not know how dangerous gasoline is.@k@vS09/00/oyaji17036. From hearing how much she spread, I don't think she knows anything about it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 385,
+    "MessageID": 90340,
+    "TextENGNew": "Ooishi's back was covered with a cold sweat.",
+    "significantChanges": false
+  },
+  {
+    "index": 386,
+    "MessageID": 90341,
+    "TextENGNew": "He never even thought this would turn into such a serious matter!!",
+    "significantChanges": false
+  },
+  {
+    "index": 387,
+    "MessageID": 90342,
+    "TextENGNew": "He didn't know how dangerous gasoline was.",
+    "significantChanges": false
+  },
+  {
+    "index": 388,
+    "MessageID": 90343,
+    "TextENGNew": "He didn't know, because he'd never heard of cars exploding in car accidents...!",
+    "significantChanges": false
+  },
+  {
+    "index": 389,
+    "MessageID": 90344,
+    "TextENGNew": "He knew it was dangerous, but he didn't know what it was capable of!",
+    "significantChanges": false
+  },
+  {
+    "index": 390,
+    "MessageID": 90345,
+    "TextENGNew": "Gasoline is more dangerous once it evaporates.",
+    "significantChanges": false
+  },
+  {
+    "index": 391,
+    "MessageID": 90346,
+    "TextENGNew": "Therefore, a burning car in an accident and gasoline fumes being ignited are at completely different levels.",
+    "significantChanges": false
+  },
+  {
+    "index": 392,
+    "MessageID": 90347,
+    "TextENGNew": "It's quite simple to understand if you think about how car engines work.",
+    "significantChanges": false
+  },
+  {
+    "index": 393,
+    "MessageID": 90348,
+    "TextENGNew": "Cars vaporize gasoline in the carburetor and let it ``explode`` in the engine cylinders.",
+    "significantChanges": false
+  },
+  {
+    "index": 394,
+    "MessageID": 90349,
+    "TextENGNew": "In other words, that little explosion in the engine is what gives cars the power to move.",
+    "significantChanges": false
+  },
+  {
+    "index": 395,
+    "MessageID": 90350,
+    "TextENGNew": "Therefore, if you want more power, an engine needs to be bigger, to create a bigger explosion.",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 396,
+    "MessageID": 90351,
+    "TextENGNew": "So if an engine cylinder was the size of a classroom... How much power would it create?",
+    "significantChanges": false
+  },
+  {
+    "index": 397,
+    "MessageID": 90352,
+    "TextENGNew": "Anyone with knowledge of engines would know,@k but a lot of people don't consider how dangerous evaporated gasoline is.@k ...Because it's too familiar!",
+    "significantChanges": false
+  },
+  {
+    "index": 398,
+    "MessageID": 90353,
+    "TextENGNew": "Twenty-five hostages and one hostage taker... all twenty-six people were basically stuck in a huge bomb.",
+    "significantChanges": false
+  },
+  {
+    "index": 399,
+    "MessageID": 90354,
+    "TextENGNew": "Furthermore, the suspect might accidentally set it off!!",
+    "significantChanges": false
+  },
+  {
+    "index": 400,
+    "MessageID": 90355,
+    "TextENGNew": "If she were to pretend to light the lighter as a threat...@k that would be the end!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 401,
+    "MessageID": 90356,
+    "TextENGNew": "All of the people around Ooishi had gone pale.",
+    "significantChanges": false
+  },
+  {
+    "index": 402,
+    "MessageID": 90357,
+    "TextENGNew": "The classroom might explode at any moment.",
+    "significantChanges": false
+  },
+  {
+    "index": 403,
+    "MessageID": 90358,
+    "TextENGNew": "How could they save all the hostages?",
+    "significantChanges": false
+  },
+  {
+    "index": 404,
+    "MessageID": 90359,
+    "TextENGNew": "Especially when the criminal was living in her own delusion, and her requests were something so unreal...",
+    "significantChanges": false
+  },
+  {
+    "index": 405,
+    "MessageID": 90360,
+    "TextENGNew": "``Excuse me!@k@vS09/00/poliA17006. I found a letter in the scrapbook!``",
+    "significantChanges": false
+  },
+  {
+    "index": 406,
+    "MessageID": 90361,
+    "TextENGNew": "One of the policemen brought over a folded piece of paper.",
+    "significantChanges": false
+  },
+  {
+    "index": 407,
+    "MessageID": 90362,
+    "TextENGNew": "Ooishi opened it while the others watched.",
+    "significantChanges": false
+  },
+  {
+    "index": 408,
+    "MessageID": 90363,
+    "TextENGNew": "He saw girlish handwriting on the paper.",
+    "significantChanges": false
+  },
+  {
+    "index": 409,
+    "MessageID": 90364,
+    "TextENGNew": "He could tell this was written before she invaded the school.",
+    "significantChanges": false
+  },
+  {
+    "index": 410,
+    "MessageID": 90365,
+    "TextENGNew": "``Dear Ooishi-sama,",
+    "significantChanges": false
+  },
+  {
+    "index": 411,
+    "MessageID": 90366,
+    "TextENGNew": "If you are reading this letter, that means I'm at the final stage.",
+    "significantChanges": false
+  },
+  {
+    "index": 412,
+    "MessageID": 90367,
+    "TextENGNew": "I must have seized the school and held the students as hostages.",
+    "significantChanges": false
+  },
+  {
+    "index": 413,
+    "MessageID": 90368,
+    "TextENGNew": "I am planning to appoint you as a negotiator, so please pretend to be threatened by me and become my contact with the outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 414,
+    "MessageID": 90369,
+    "TextENGNew": "The first thing I want to tell you is that my enemy is the Sonozaki family and also the aliens (who are pretending to be parasites) that control the Sonozaki family.``",
+    "significantChanges": false
+  },
+  {
+    "index": 415,
+    "MessageID": 90370,
+    "TextENGNew": "``...A...Aliens...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 416,
+    "MessageID": 90371,
+    "TextENGNew": "``I didn't think you'd believe me if I brought up the aliens, so I didn't tell you about them until now.",
+    "significantChanges": false
+  },
+  {
+    "index": 417,
+    "MessageID": 90372,
+    "TextENGNew": "But when you read these scrapbooks, you will understand.",
+    "significantChanges": false
+  },
+  {
+    "index": 418,
+    "MessageID": 90373,
+    "TextENGNew": "The aliens came to Earth in UFOs in ancient times.",
+    "significantChanges": false
+  },
+  {
+    "index": 419,
+    "MessageID": 90374,
+    "TextENGNew": "They landed in Onigafuchi Swamp.",
+    "significantChanges": false
+  },
+  {
+    "index": 420,
+    "MessageID": 90375,
+    "TextENGNew": "They used this village as their breeding grounds,@k and through that selective breeding, they widened their domain. They were successful, and now they're trying to invade the Earth.``",
+    "significantChanges": false
+  },
+  {
+    "index": 421,
+    "MessageID": 90376,
+    "TextENGNew": "``...What the heck is this...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 422,
+    "MessageID": 90377,
+    "TextENGNew": "All the other policemen frowned at the letter.",
+    "significantChanges": false
+  },
+  {
+    "index": 423,
+    "MessageID": 90379,
+    "TextENGNew": "``No, no, it's not surprising.@k@vS09/11/170700475. I read Takano's other scrapbooks, and they were full of even stranger stories.@k@vS09/11/170700476. Personally, I liked the one about Ossie the best...``",
+    "significantChanges": false
+  },
+  {
+    "index": 424,
+    "MessageID": 90380,
+    "TextENGNew": "``The Sonozaki family, as well as all the village authorities, have been brainwashed by the aliens.",
+    "significantChanges": false
+  },
+  {
+    "index": 425,
+    "MessageID": 90381,
+    "TextENGNew": "The villagers' attempts to revive the cult of Oyashiro-sama were actually part of the aliens' strategy to invade the Earth.",
+    "significantChanges": false
+  },
+  {
+    "index": 426,
+    "MessageID": 90382,
+    "TextENGNew": "The aliens are very clever. They don't let people realize they're being controlled.",
+    "significantChanges": false
+  },
+  {
+    "index": 427,
+    "MessageID": 90383,
+    "TextENGNew": "The Irie Clinic must be their secret research center.",
+    "significantChanges": false
+  },
+  {
+    "index": 428,
+    "MessageID": 90384,
+    "TextENGNew": "Please conduct an investigation and expose their secret.",
+    "significantChanges": false
+  },
+  {
+    "index": 429,
+    "MessageID": 90385,
+    "TextENGNew": "Also, please check out the bottom of the swamp.",
+    "significantChanges": false
+  },
+  {
+    "index": 430,
+    "MessageID": 90386,
+    "TextENGNew": "The UFO must be still there.",
+    "significantChanges": false
+  },
+  {
+    "index": 431,
+    "MessageID": 90387,
+    "TextENGNew": "Also, capture all the relatives of the Three Families and take x-rays of their brains.",
+    "significantChanges": false
+  },
+  {
+    "index": 432,
+    "MessageID": 90388,
+    "TextENGNew": "You'll find hideous parasites inside of them.",
+    "significantChanges": false
+  },
+  {
+    "index": 433,
+    "MessageID": 90389,
+    "TextENGNew": "But please be careful!",
+    "significantChanges": false
+  },
+  {
+    "index": 434,
+    "MessageID": 90390,
+    "TextENGNew": "The aliens eliminate whoever finds out about them by replacing their host with a look-alike. That's how they have been controlling the village.",
+    "significantChanges": false
+  },
+  {
+    "index": 435,
+    "MessageID": 90391,
+    "TextENGNew": "Therefore, there may be already some aliens among the villagers. It is possible that they will try to interfere with your investigation.",
+    "significantChanges": false
+  },
+  {
+    "index": 436,
+    "MessageID": 90392,
+    "TextENGNew": "As a matter of fact, there have been look-alikes of Miyo Takano, Rika Furude and me, Rena Ryuugu.",
+    "significantChanges": false
+  },
+  {
+    "index": 437,
+    "MessageID": 90393,
+    "TextENGNew": "If you see any of those three, capture them immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 438,
+    "MessageID": 90394,
+    "TextENGNew": "That will be the proof of aliens existing among us.``",
+    "significantChanges": false
+  },
+  {
+    "index": 439,
+    "MessageID": 90395,
+    "TextENGNew": "``Miyo Takano?@k@vS09/19/173100104. Why does she think that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 440,
+    "MessageID": 90396,
+    "TextENGNew": "``Ah...... I know.@k@vS09/11/170700478. I told her over the phone that according to the result of the autopsy conducted by the lab over in Gifu Prefecture, the day of her death doesn't match up.``",
+    "significantChanges": false
+  },
+  {
+    "index": 441,
+    "MessageID": 90397,
+    "TextENGNew": "``Ah, are you talking about the mistake on her autopsy results?``",
+    "significantChanges": false
+  },
+  {
+    "index": 442,
+    "MessageID": 90398,
+    "TextENGNew": "``I told her I didn't know why Miyo Takano was witnessed on the day of the festival when she died the night before.",
+    "significantChanges": false
+  },
+  {
+    "index": 443,
+    "MessageID": 90399,
+    "TextENGNew": "I never thought she'd take it like this...@k@vS09/11/170700481. Maybe I joked around a little too much...``",
+    "significantChanges": false
+  },
+  {
+    "index": 444,
+    "MessageID": 90400,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 445,
+    "MessageID": 90401,
+    "TextENGNew": "One of the policemen spoke up.",
+    "significantChanges": false
+  },
+  {
+    "index": 446,
+    "MessageID": 90402,
+    "TextENGNew": "``I can understand that.@k@vS09/00/dete17003. ...Remember? The night we looked for Rena Ryuugu, somebody said she was seen in Gogura.",
+    "significantChanges": false
+  },
+  {
+    "index": 447,
+    "MessageID": 90403,
+    "TextENGNew": "That must be it.@k@vS09/00/dete17005. It was probably a bluff from the villagers...@k@vS09/00/dete17006. And she must have heard it somewhere and assumed there was another version of her walking around...``",
+    "significantChanges": false
+  },
+  {
+    "index": 448,
+    "MessageID": 90404,
+    "TextENGNew": "``Damn!!@k@vS09/11/170700483. Nostradamus, was it?@k@vS09/11/170700484. This is just like that.@k@vS09/11/170700485. No matter what happens, to her, everything sounds like it was predetermined!@k@vS09/11/170700486. Rena Ryuugu would blame aliens if she was to trip and fall down now!``",
+    "significantChanges": false
+  },
+  {
+    "index": 449,
+    "MessageID": 90405,
+    "TextENGNew": "``Or maybe she's coming up with all this crazy stuff so that once she's caught, she can use the insanity defense in court...``",
+    "significantChanges": false
+  },
+  {
+    "index": 450,
+    "MessageID": 90406,
+    "TextENGNew": "``No, this isn't about that!@k@vS09/11/170700488. She really does believe in this crazy stuff.@k@vS09/11/170700489. She does from the bottom of her heart!@k@vS09/11/170700490. ...I know that for sure.@k@vS09/11/170700491. She truly believes in these stupid scrapbooks!``",
+    "significantChanges": false
+  },
+  {
+    "index": 451,
+    "MessageID": 90407,
+    "TextENGNew": "``Ah, there's another letter...@k@vS09/19/173100110. Let's see...``",
+    "significantChanges": false
+  },
+  {
+    "index": 452,
+    "MessageID": 90408,
+    "TextENGNew": "``PS:",
+    "significantChanges": false
+  },
+  {
+    "index": 453,
+    "MessageID": 90409,
+    "TextENGNew": "I was poisoned yesterday with the same stuff that killed Tomitake-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 454,
+    "MessageID": 90410,
+    "TextENGNew": "I've been scratching my throat since then.@k I will probably have clawed my throat open by tomorrow.",
+    "significantChanges": false
+  },
+  {
+    "index": 455,
+    "MessageID": 90411,
+    "TextENGNew": "If you can find the antidote when you investigate the Irie Clinic, please bring it to me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 456,
+    "MessageID": 90412,
+    "TextENGNew": "``This sure is something...``",
+    "significantChanges": false
+  },
+  {
+    "index": 457,
+    "MessageID": 90413,
+    "TextENGNew": "``Yeah...@k@vS09/19/173100112. If she believes in alien stories, maybe we can trick her with an antidote...``",
+    "significantChanges": false
+  },
+  {
+    "index": 458,
+    "MessageID": 90414,
+    "TextENGNew": "``But you may not find the antidote, or maybe it'll be too late by the time you do.",
+    "significantChanges": false
+  },
+  {
+    "index": 459,
+    "MessageID": 90415,
+    "TextENGNew": "Therefore, considering the time I have left, I will set seven PM tonight as the deadline.",
+    "significantChanges": false
+  },
+  {
+    "index": 460,
+    "MessageID": 90416,
+    "TextENGNew": "If an investigation doesn't take place and the antidote doesn't arrive by seven PM, I will choose to die with all the hostages by lighting the gasoline instead.``",
+    "significantChanges": false
+  },
+  {
+    "index": 461,
+    "MessageID": 90417,
+    "TextENGNew": "``......Seven PM?@k@vS09/11/170700494. What time is it now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 462,
+    "MessageID": 90418,
+    "TextENGNew": "``It's a little before six!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 463,
+    "MessageID": 90419,
+    "TextENGNew": "Days are long nowadays.",
+    "significantChanges": false
+  },
+  {
+    "index": 464,
+    "MessageID": 90420,
+    "TextENGNew": "It doesn't get dark even in the evenings.",
+    "significantChanges": false
+  },
+  {
+    "index": 465,
+    "MessageID": 90421,
+    "TextENGNew": "It'll probably start to get dark around seven PM.",
+    "significantChanges": false
+  },
+  {
+    "index": 466,
+    "MessageID": 90422,
+    "TextENGNew": "``We only have an hour...!!@k@vS09/11/170700496. No, it might explode even before that...@k@vS09/11/170700497. Shit!!@k@vS09/11/170700498. What can we do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 467,
+    "MessageID": 90423,
+    "TextENGNew": "``What the heck is she talking about? An alien invasion?@k@vS09/19/173100115. And she's trying to take the hostages with her!! That's just crazy.``",
+    "significantChanges": false
+  },
+  {
+    "index": 468,
+    "MessageID": 90424,
+    "TextENGNew": "``Yeah, that's absolutely crazy.@k@vS09/11/170700500. We can't negotiate with her normally now.@k@vS09/11/170700501. Especially when she thinks she's absolutely sane...``",
+    "significantChanges": false
+  },
+  {
+    "index": 469,
+    "MessageID": 90425,
+    "TextENGNew": "``Ooishi-san, look what comes next!``",
+    "significantChanges": false
+  },
+  {
+    "index": 470,
+    "MessageID": 90426,
+    "TextENGNew": "``Hmm?@k@vS09/11/170700501_2. .........Wh-What?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 471,
+    "MessageID": 90427,
+    "TextENGNew": "``I'm planning to spread gasoline throughout the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 472,
+    "MessageID": 90428,
+    "TextENGNew": "I'm sure you realize how dangerous that is.",
+    "significantChanges": false
+  },
+  {
+    "index": 473,
+    "MessageID": 90429,
+    "TextENGNew": "If anyone suggests storming into the room, please tell them exactly how bad an idea that would be.",
+    "significantChanges": false
+  },
+  {
+    "index": 474,
+    "MessageID": 90430,
+    "TextENGNew": "Also, the hostages are anchored down with U-shaped bike locks.",
+    "significantChanges": false
+  },
+  {
+    "index": 475,
+    "MessageID": 90431,
+    "TextENGNew": "Even if those alien policemen rushed in and killed me, they'd have to cut each lock.",
+    "significantChanges": false
+  },
+  {
+    "index": 476,
+    "MessageID": 90432,
+    "TextENGNew": "But if you tried cutting them, you might create sparks.",
+    "significantChanges": false
+  },
+  {
+    "index": 477,
+    "MessageID": 90433,
+    "TextENGNew": "Therefore, you'd need to completely ventilate the room first.",
+    "significantChanges": false
+  },
+  {
+    "index": 478,
+    "MessageID": 90434,
+    "TextENGNew": "In other words, it will take an extremely long time to rescue all the hostages from the classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 479,
+    "MessageID": 90435,
+    "TextENGNew": "Actually, I have a different explosive system set up, other than the gasoline I spread.",
+    "significantChanges": false
+  },
+  {
+    "index": 480,
+    "MessageID": 90436,
+    "TextENGNew": "It's a very simple time bomb using gasoline and a kitchen timer.",
+    "significantChanges": false
+  },
+  {
+    "index": 481,
+    "MessageID": 90437,
+    "TextENGNew": "The kitchen timer provides electricity at a set time.",
+    "significantChanges": false
+  },
+  {
+    "index": 482,
+    "MessageID": 90438,
+    "TextENGNew": "I ripped the tip off its plug, so it will create enough sparks to ignite the gasoline.",
+    "significantChanges": false
+  },
+  {
+    "index": 483,
+    "MessageID": 90439,
+    "TextENGNew": "I've already set the timer to seven PM.",
+    "significantChanges": false
+  },
+  {
+    "index": 484,
+    "MessageID": 90440,
+    "TextENGNew": "Even if I'm not around, there will be an explosion at that time.",
+    "significantChanges": false
+  },
+  {
+    "index": 485,
+    "MessageID": 90441,
+    "TextENGNew": "If the classroom isn't ventilated by that time, it'll explode too.",
+    "significantChanges": false
+  },
+  {
+    "index": 486,
+    "MessageID": 90442,
+    "TextENGNew": "I'm sorry to ask you like this, Ooishi-san, but please help me so we can avoid a tragedy.",
+    "significantChanges": false
+  },
+  {
+    "index": 487,
+    "MessageID": 90443,
+    "TextENGNew": "Please let the Three Families know that Mion Sonozaki, the successor to the head of the Sonozaki family, and Rika Furude, a mascot for the cult of Oyashiro-sama, are in this classroom.",
+    "significantChanges": false
+  },
+  {
+    "index": 488,
+    "MessageID": 90444,
+    "TextENGNew": "If anyone from the Three Families helps you, I'm sure their conspiracy will be exposed by tonight.",
+    "significantChanges": false
+  },
+  {
+    "index": 489,
+    "MessageID": 90445,
+    "TextENGNew": "The alien invasion is going to happen very soon.",
+    "significantChanges": false
+  },
+  {
+    "index": 490,
+    "MessageID": 90446,
+    "TextENGNew": "Please get going quickly.",
+    "significantChanges": false
+  },
+  {
+    "index": 491,
+    "MessageID": 90447,
+    "TextENGNew": "To my ally, Ooishi-san.",
+    "significantChanges": false
+  },
+  {
+    "index": 492,
+    "MessageID": 90448,
+    "TextENGNew": "Rena Ryuugu``",
+    "significantChanges": false
+  },
+  {
+    "index": 493,
+    "MessageID": 90449,
+    "TextENGNew": "Smash!!@|@y Ooishi threw the scrapbooks to the ground!",
+    "significantChanges": false
+  },
+  {
+    "index": 494,
+    "MessageID": 90450,
+    "TextENGNew": "``Damn it!!!@k@vS09/11/170700503. How can she call me her ally?!``",
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original.",
+    "changeScore": 3
+  },
+  {
+    "index": 495,
+    "MessageID": 90451,
+    "TextENGNew": "``Is a kitchen timer like an alarm clock?``",
+    "significantChanges": false
+  },
+  {
+    "index": 496,
+    "MessageID": 90452,
+    "TextENGNew": "``Ah, old appliances didn't have timers.@k@vS09/11/170700505. A kitchen timer is a device that turns on appliances at a given time.",
+    "significantChanges": false
+  },
+  {
+    "index": 497,
+    "MessageID": 90453,
+    "TextENGNew": "When you plug it in, it provides electricity at a set time so the appliance will come on when you want it to.``",
+    "significantChanges": false
+  },
+  {
+    "index": 498,
+    "MessageID": 90454,
+    "TextENGNew": "``Wow, that's convenient.``",
+    "significantChanges": false
+  },
+  {
+    "index": 499,
+    "MessageID": 90455,
+    "TextENGNew": "``It's possible to use that to make a time bomb!@k@vS09/11/170700508. Using a kitchen timer... that sure is something a girl would come up with!``",
+    "significantChanges": false
+  },
+  {
+    "index": 500,
+    "MessageID": 90456,
+    "TextENGNew": "``Why don't we call the electric company and turn the electricity off?@k@vS09/19/173100122. If there's no power, the timer can't go off!@k@vS09/19/173100123. ......Ah, but that won't work.@k@vS09/19/173100124. If the classroom became dark, she'd probably light her lighter...``",
+    "significantChanges": false
+  },
+  {
+    "index": 501,
+    "MessageID": 90457,
+    "TextENGNew": "``Hmmm...@k@vS09/11/170700510. Maybe we can give her a sleeping pill as an antidote...@k@vS09/11/170700511. but it would have to take effect slowly.@k@vS09/11/170700512. I'm sure she'll have a hostage try it first.@k@vS09/11/170700513. Be very careful!``",
+    "significantChanges": false
+  },
+  {
+    "index": 502,
+    "MessageID": 90458,
+    "TextENGNew": "``Understood!@k@vS09/19/173100126. I'll get one ready!``",
+    "significantChanges": false
+  },
+  {
+    "index": 503,
+    "MessageID": 90459,
+    "TextENGNew": "``I need to talk to Maebara-san one more time......",
+    "significantChanges": false
+  },
+  {
+    "index": 504,
+    "MessageID": 90460,
+    "TextENGNew": "I have to tell him not to let Rena Ryuugu play with the lighter...@k@vS09/11/170700516. I also have to tell him to turn the bug off.@k@vS09/11/170700517. How about that, by the way?@k@vS09/11/170700518. Have you heard anything interesting?``",
+    "significantChanges": false
+  },
+  {
+    "index": 505,
+    "MessageID": 90461,
+    "TextENGNew": "``...The suspect seems to be abusing a hostage.``",
+    "significantChanges": false
+  },
+  {
+    "index": 506,
+    "MessageID": 90462,
+    "TextENGNew": "``Shit!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 507,
+    "MessageID": 90463,
+    "TextENGNew": "``I think it's Mion Sonozaki.``",
+    "significantChanges": false
+  },
+  {
+    "index": 508,
+    "MessageID": 90464,
+    "TextENGNew": "``S-Stop it, Rena!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 509,
+    "MessageID": 90465,
+    "TextENGNew": "Rena kept hitting Mion, who had her hands tied behind her back.",
+    "significantChanges": false
+  },
+  {
+    "index": 510,
+    "MessageID": 90466,
+    "TextENGNew": "Rena wasn't using her fists, but instead the handle of her hatchet.",
+    "significantChanges": false
+  },
+  {
+    "index": 511,
+    "MessageID": 90467,
+    "TextENGNew": "``Keiichi-kun, you promised me you wouldn't move.@k@vS09/02/170201555. If you do, I'll be angry...``",
+    "significantChanges": false
+  },
+  {
+    "index": 512,
+    "MessageID": 90468,
+    "TextENGNew": "............!",
+    "significantChanges": false
+  },
+  {
+    "index": 513,
+    "MessageID": 90469,
+    "TextENGNew": "Rena's gaze intimidated me. Her eyes were full of madness.",
+    "significantChanges": false
+  },
+  {
+    "index": 514,
+    "MessageID": 90470,
+    "TextENGNew": "I could feel Rena's emotions boiling over on the inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 515,
+    "MessageID": 90471,
+    "TextENGNew": "If I opposed her, she would easily cut Mion's arm off.",
+    "significantChanges": false
+  },
+  {
+    "index": 516,
+    "MessageID": 90472,
+    "TextENGNew": "``What I can't forgive is that you dug up the corpses and turned them in to the police!@k@vS09/02/170201557. ......I trusted you!@k@vS09/02/170201558. I trusted you!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 517,
+    "MessageID": 90473,
+    "TextENGNew": "Rena hit Mion's face over and over.",
+    "significantChanges": false
+  },
+  {
+    "index": 518,
+    "MessageID": 90474,
+    "TextENGNew": "It wasn't just Mion's hands that were tied behind her.",
+    "significantChanges": false
+  },
+  {
+    "index": 519,
+    "MessageID": 90475,
+    "TextENGNew": "Her neck was also tied to a window frame with a bike lock,",
+    "significantChanges": false
+  },
+  {
+    "index": 520,
+    "MessageID": 90476,
+    "TextENGNew": "so there was no way that Mion could protect her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 521,
+    "MessageID": 90477,
+    "TextENGNew": "I didn't know if her forehead was cut or if her nose was bleeding, but her face was covered in blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 522,
+    "MessageID": 90478,
+    "TextENGNew": "Her blood got on the handle of the hatchet, and every time she got hit with it, more blood was smeared on her face.",
+    "significantChanges": false
+  },
+  {
+    "index": 523,
+    "MessageID": 90479,
+    "TextENGNew": "The handle of the hatchet could easily smash her forehead...",
+    "significantChanges": false
+  },
+  {
+    "index": 524,
+    "MessageID": 90480,
+    "TextENGNew": "Because of her position in the Sonozaki family, Mion couldn't say that she hid the bodies, so all she could do was endure...",
+    "significantChanges": false
+  },
+  {
+    "index": 525,
+    "MessageID": 90481,
+    "TextENGNew": "However, Rena continued to attack her.",
+    "significantChanges": false
+  },
+  {
+    "index": 526,
+    "MessageID": 90482,
+    "TextENGNew": "Rena no longer had any restraint.",
+    "significantChanges": false
+  },
+  {
+    "index": 527,
+    "MessageID": 90483,
+    "TextENGNew": "She might even continue until Mion's front teeth were broken...",
+    "significantChanges": false
+  },
+  {
+    "index": 528,
+    "MessageID": 90484,
+    "TextENGNew": "``Stop it, Rena!!@k@vS09/01/170101195. Haven't you done enough?!@k@vS09/01/170101196. I'll tell you the truth, so Rena, please stop hitting her...!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 529,
+    "MessageID": 90485,
+    "TextENGNew": "``......The truth?@k@vS09/02/170201560. ...What is it,@k@vS09/02/170201561. Keiichi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 530,
+    "MessageID": 90486,
+    "TextENGNew": "``......No, you can't... Kei-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 531,
+    "MessageID": 90488,
+    "TextENGNew": "``Everyone!!@k@vS09/01/170101198. Please don't listen to what I'm about to say.@k@vS09/01/170101199. I may say some disturbing stuff, but... it isn't anything wrong.@k@vS09/01/170101200. So please don't listen. Even if you hear it, forget that you did!@k@vS09/01/170101201. Please!``",
+    "significantChanges": false
+  },
+  {
+    "index": 532,
+    "MessageID": 90489,
+    "TextENGNew": "``.........What are you going to tell me?@k@vS09/02/170201563. Go on, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 533,
+    "MessageID": 90490,
+    "TextENGNew": "``It's not a complicated story.@k@vS09/01/170101203. That was... for your sake!@k@vS09/01/170101204. We found out afterwards that the place you buried the bodies was going to be clear-cut this summer.",
+    "significantChanges": false
+  },
+  {
+    "index": 534,
+    "MessageID": 90491,
+    "TextENGNew": "So we thought we had to do something about it, and Mion hid them in a safer place!``",
+    "significantChanges": false
+  },
+  {
+    "index": 535,
+    "MessageID": 90492,
+    "TextENGNew": "``You told me that same story the other night!@k@vS09/02/170201565. Didn't I tell you that was something Mii-chan made up?``",
+    "significantChanges": false
+  },
+  {
+    "index": 536,
+    "MessageID": 90493,
+    "TextENGNew": "``Why would she lie?@k@vS09/01/170101207. She wanted to help her friend.@k@vS09/01/170101208. Mion did it to help you!``",
+    "significantChanges": false
+  },
+  {
+    "index": 537,
+    "MessageID": 90494,
+    "TextENGNew": "``That's a lie. I won't believe it!@k@vS09/02/170201567. Why did you do that without talking to me, then?``",
+    "significantChanges": false
+  },
+  {
+    "index": 538,
+    "MessageID": 90495,
+    "TextENGNew": "Why did Mion even have to tell her?",
+    "significantChanges": false
+  },
+  {
+    "index": 539,
+    "MessageID": 90496,
+    "TextENGNew": "Mion was trying to be delicate!!",
+    "significantChanges": false
+  },
+  {
+    "index": 540,
+    "MessageID": 90497,
+    "TextENGNew": "Mion did her best trying to hide what Rena did!",
+    "significantChanges": false
+  },
+  {
+    "index": 541,
+    "MessageID": 90498,
+    "TextENGNew": "Mion knew Rena was at her wit's end, and that was why she did it in secret...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 542,
+    "MessageID": 90499,
+    "TextENGNew": "But Rena didn't want to believe her...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 543,
+    "MessageID": 90500,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 544,
+    "MessageID": 90501,
+    "TextENGNew": "I can't forgive you,@|@y I can't forgive you,@|@y I can't forgive you!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 545,
+    "MessageID": 90502,
+    "TextENGNew": "``Stop it!!@k@vS09/01/170101210. Don't hit Mion!!@k@vS09/01/170101211. Mion didn't do anything!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 546,
+    "MessageID": 90503,
+    "TextENGNew": "I never knew having your hands tied behind your back was that scary...",
+    "significantChanges": false
+  },
+  {
+    "index": 547,
+    "MessageID": 90504,
+    "TextENGNew": "Mion got hit repeatedly@k with the handle of the hatchet!",
+    "significantChanges": false
+  },
+  {
+    "index": 548,
+    "MessageID": 90505,
+    "TextENGNew": "She could only endure...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 549,
+    "MessageID": 90506,
+    "TextENGNew": "She couldn't even protect herself with her hands...!",
+    "significantChanges": false
+  },
+  {
+    "index": 550,
+    "MessageID": 90507,
+    "TextENGNew": "``Hey, is it true, Mii-chan?@k@vS09/02/170201573. If so, why didn't you tell me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 551,
+    "MessageID": 90508,
+    "TextENGNew": "``Can't you understand Mion's position?@k@vS09/01/170101213. She has to follow certain rules as a member of the Sonozaki family!!!@k@vS09/01/170101214. Shouldn't you be grateful for what she's done for you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 552,
+    "MessageID": 90509,
+    "TextENGNew": "I may have said it too aggressively...@k@|@y Rena turned around and glared at me.",
+    "significantChanges": false
+  },
+  {
+    "index": 553,
+    "MessageID": 90510,
+    "TextENGNew": "``That's right, Keiichi-kun.@k@vS09/02/170201575. Mii-chan sold me out to the police because of the circumstances surrounding the Sonozaki family.@k@vS09/02/170201576. She sold out her friend.@k@vS09/02/170201577. I was her friend, I really liked her...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 554,
+    "MessageID": 90511,
+    "TextENGNew": "That was mean, Mii-chan!!",
+    "significantChanges": false
+  },
+  {
+    "index": 555,
+    "MessageID": 90512,
+    "TextENGNew": "I really did like you so much... Why?",
+    "significantChanges": false
+  },
+  {
+    "index": 556,
+    "MessageID": 90513,
+    "TextENGNew": "How could you...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 557,
+    "MessageID": 90514,
+    "TextENGNew": "Whaaaaahhhh!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 558,
+    "MessageID": 90515,
+    "TextENGNew": "This was senseless.",
+    "significantChanges": false
+  },
+  {
+    "index": 559,
+    "MessageID": 90516,
+    "TextENGNew": "Rena cried as if being bullied, but she was the one doing the bullying.@k ...Normally, this would be so odd as to be impossible...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 560,
+    "MessageID": 90517,
+    "TextENGNew": "But... I had seen this scene before.",
+    "significantChanges": false
+  },
+  {
+    "index": 561,
+    "MessageID": 90518,
+    "TextENGNew": "I liked you.@k I trusted you.",
+    "significantChanges": false
+  },
+  {
+    "index": 562,
+    "MessageID": 90519,
+    "TextENGNew": "As I cried, I beat her to death.",
+    "significantChanges": false
+  },
+  {
+    "index": 563,
+    "MessageID": 90520,
+    "TextENGNew": "Rena repeatedly begged me to trust her, yet I beat her.@k ...I know what it's like to be the one doing the beating.",
+    "significantChanges": false
+  },
+  {
+    "index": 564,
+    "MessageID": 90521,
+    "TextENGNew": "Stop... stop, stop, stop!!!@k Stop, Rena!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 565,
+    "MessageID": 90522,
+    "TextENGNew": "Don't you realize what you're doing?",
+    "significantChanges": false
+  },
+  {
+    "index": 566,
+    "MessageID": 90523,
+    "TextENGNew": "You're hurting your friend with your own hands!!",
+    "significantChanges": false
+  },
+  {
+    "index": 567,
+    "MessageID": 90524,
+    "TextENGNew": "I understand what you're feeling.",
+    "significantChanges": false
+  },
+  {
+    "index": 568,
+    "MessageID": 90525,
+    "TextENGNew": "I know you're sad, because your friend betrayed you, right?",
+    "significantChanges": false
+  },
+  {
+    "index": 569,
+    "MessageID": 90526,
+    "TextENGNew": "But that's a misunderstanding!!",
+    "significantChanges": false
+  },
+  {
+    "index": 570,
+    "MessageID": 90527,
+    "TextENGNew": "We didn't betray you. We've been thinking about you all this time!!",
+    "significantChanges": false
+  },
+  {
+    "index": 571,
+    "MessageID": 90528,
+    "TextENGNew": "Ahhhh, but...!@k She just couldn't see that!!!@k Even if she died,@k Rena probably wouldn't realize she'd made a terrible mistake!",
+    "significantChanges": false
+  },
+  {
+    "index": 572,
+    "MessageID": 90529,
+    "TextENGNew": "But... someday you'll realize.",
+    "significantChanges": false
+  },
+  {
+    "index": 573,
+    "MessageID": 90530,
+    "TextENGNew": "Even an insensitive guy like me realized, so Rena would realize it for sure.",
+    "significantChanges": false
+  },
+  {
+    "index": 574,
+    "MessageID": 90531,
+    "TextENGNew": "And that's when you'll feel even sadder, Rena!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 575,
+    "MessageID": 90532,
+    "TextENGNew": "You will remember this bloody Mion one day.",
+    "significantChanges": false
+  },
+  {
+    "index": 576,
+    "MessageID": 90533,
+    "TextENGNew": "Then you'll realize that you were the one who made her bloody, and you will regret that you did!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 577,
+    "MessageID": 90534,
+    "TextENGNew": "But I was the only one who could understand that. Because I remembered.",
+    "significantChanges": false
+  },
+  {
+    "index": 578,
+    "MessageID": 90535,
+    "TextENGNew": "......There was no way for Rena to understand or realize that.",
+    "significantChanges": false
+  },
+  {
+    "index": 579,
+    "MessageID": 90536,
+    "TextENGNew": "...I wondered if I was suffering the most of all.",
+    "significantChanges": false
+  },
+  {
+    "index": 580,
+    "MessageID": 90537,
+    "TextENGNew": "There was no way to avoid a tragedy.",
+    "significantChanges": false
+  },
+  {
+    "index": 581,
+    "MessageID": 90538,
+    "TextENGNew": "This was exactly the same tragedy with different actors.",
+    "significantChanges": false
+  },
+  {
+    "index": 582,
+    "MessageID": 90539,
+    "TextENGNew": "The main character was Rena instead of me... but it was the same thing!!",
+    "significantChanges": false
+  },
+  {
+    "index": 583,
+    "MessageID": 90540,
+    "TextENGNew": "Where was I?@k I was in the audience now.",
+    "significantChanges": false
+  },
+  {
+    "index": 584,
+    "MessageID": 90541,
+    "TextENGNew": "I knew how this story ended, but I couldn't come on to the stage.",
+    "significantChanges": false
+  },
+  {
+    "index": 585,
+    "MessageID": 90542,
+    "TextENGNew": "``Stop... Rena...@k@vS09/01/170101216. Stop... stop...``",
+    "significantChanges": false
+  },
+  {
+    "index": 586,
+    "MessageID": 90543,
+    "TextENGNew": "``......Are you crying?",
+    "significantChanges": false
+  },
+  {
+    "index": 587,
+    "MessageID": 90544,
+    "TextENGNew": "......What's wrong, Keiichi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 588,
+    "MessageID": 90545,
+    "TextENGNew": "I stood up slowly and walked towards Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 589,
+    "MessageID": 90546,
+    "TextENGNew": "Just like what Rena did for me before, with my arms open.",
+    "significantChanges": false
+  },
+  {
+    "index": 590,
+    "MessageID": 90547,
+    "TextENGNew": "``Please stop, stop this, Rena...@k@vS09/01/170101218. You may not know why now.",
+    "significantChanges": false
+  },
+  {
+    "index": 591,
+    "MessageID": 90548,
+    "TextENGNew": "You may not know why you have to stop now.@k@vS09/01/170101220. But... if you don't...... you will regret it someday...@k@vS09/01/170101221. So please, stop...``",
+    "significantChanges": false
+  },
+  {
+    "index": 592,
+    "MessageID": 90549,
+    "TextENGNew": "``Keiichi-kun.@k@vS09/02/170201585. I'll be mad if you don't move back to the wall...``",
+    "significantChanges": false
+  },
+  {
+    "index": 593,
+    "MessageID": 90550,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 594,
+    "MessageID": 90551,
+    "TextENGNew": "``D-Don't... Kei-chan...... I'm... okay...``",
+    "significantChanges": false
+  },
+  {
+    "index": 595,
+    "MessageID": 90552,
+    "TextENGNew": "Mion told me, but with such a bloody face, how could she be?",
+    "significantChanges": false
+  },
+  {
+    "index": 596,
+    "MessageID": 90553,
+    "TextENGNew": "``Are you...... going to hit me...... with that hatchet?``",
+    "significantChanges": false
+  },
+  {
+    "index": 597,
+    "MessageID": 90554,
+    "TextENGNew": "``If you come any closer,@k@vS09/02/170201587. I will.@k@vS09/02/170201588. Without hesitation.@k@vS09/02/170201589. I don't need you anymore, Keiichi-kun.@k@vS09/02/170201590. But I want to be with you until the end.@k@vS09/02/170201591. So please don't make me mad, okay?@k@vS09/02/170201592. Okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 598,
+    "MessageID": 90555,
+    "TextENGNew": "She sounded gentle, but her expression was telling me there really would be no hesitation.",
+    "significantChanges": false
+  },
+  {
+    "index": 599,
+    "MessageID": 90556,
+    "TextENGNew": "Rena would crack my head open with the hatchet immediately.",
+    "significantChanges": false
+  },
+  {
+    "index": 600,
+    "MessageID": 90557,
+    "TextENGNew": "But, who cares?",
+    "significantChanges": false
+  },
+  {
+    "index": 601,
+    "MessageID": 90558,
+    "TextENGNew": "``If you were in my shoes,@k@vS09/01/170101224. what do you think you would do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 602,
+    "MessageID": 90559,
+    "TextENGNew": "``Ahahahahaha, of course, I don't want to die, so I wouldn't oppose my opponent.@k@vS09/02/170201594. If they had a weapon, I would be scared.``",
+    "significantChanges": false
+  },
+  {
+    "index": 603,
+    "MessageID": 90560,
+    "TextENGNew": "``That's a lie!!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 604,
+    "MessageID": 90561,
+    "TextENGNew": "I know.",
+    "significantChanges": false
+  },
+  {
+    "index": 605,
+    "MessageID": 90562,
+    "TextENGNew": "I know you're strong enough to give up your own life for the sake of your friend!",
+    "significantChanges": false
+  },
+  {
+    "index": 606,
+    "MessageID": 90563,
+    "TextENGNew": "It's my turn now!@k My turn to be strong!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 607,
+    "MessageID": 90564,
+    "TextENGNew": "``I'm just like you.@k@vS09/01/170101227. I won't hesitate to give up my own life for my friends.@k@vS09/01/170101228. If you want, I'll give that life to you.",
+    "significantChanges": false
+  },
+  {
+    "index": 608,
+    "MessageID": 90565,
+    "TextENGNew": "So stop this!!!@k@vS09/01/170101230. If you trust your friends, stop hurting her!!@k@vS09/01/170101231. The same pain will attack you later, so stop!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 609,
+    "MessageID": 90566,
+    "TextENGNew": "Nobody is trying to scare you!@k@vS09/01/170101233. We are all thinking about you!@k@vS09/01/170101234. Don't doubt that!",
+    "significantChanges": false
+  },
+  {
+    "index": 610,
+    "MessageID": 90567,
+    "TextENGNew": "Please believe it!!@k@vS09/01/170101236. Trust me!@k@vS09/01/170101237. If you can come to trust me by smashing my head in, go ahead and crush my head with that hatchet!@k@vS09/01/170101238. I won't try to protect myself!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 611,
+    "MessageID": 90568,
+    "TextENGNew": "``D-Don't come any closer!!@k@vS09/02/170201596. If you do, I'll light this place up!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 612,
+    "MessageID": 90569,
+    "TextENGNew": "Rena lifted the lighter overhead.",
+    "significantChanges": false
+  },
+  {
+    "index": 613,
+    "MessageID": 90570,
+    "TextENGNew": "``You fooooool!!!@k@vS09/01/170101240. How long are you going to dream about such crazy things?@k@vS09/01/170101241. You already know that yourself, don't you?@k@vS09/01/170101242. That it's all just a bad dream!@k@vS09/01/170101243. You want somebody to wake you up!!!@k@vS09/01/170101244. I'm here!!@k@vS09/01/170101245. I'm here to wake you up from your nightmares!``",
+    "significantChanges": false
+  },
+  {
+    "index": 614,
+    "MessageID": 90571,
+    "TextENGNew": "``You're the one who has to wake up, Keiichi-kun!!@k@vS09/02/170201598. Can't you believe that those aliens are trying to invade the village?@k@vS09/02/170201599. You believed me back then.@k@vS09/02/170201600. Are you doubting me again?@k@vS09/02/170201601. Can't you trust me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 615,
+    "MessageID": 90572,
+    "TextENGNew": "Rena opened the lid of the lighter. I could tell her thumb was about to light it.",
+    "significantChanges": false
+  },
+  {
+    "index": 616,
+    "MessageID": 90573,
+    "TextENGNew": "Rena was prepared to die along with everyone else.",
+    "significantChanges": false
+  },
+  {
+    "index": 617,
+    "MessageID": 90574,
+    "TextENGNew": "Rena would die without knowing the truth. ......She would die believing it was the world that was crazy. She would die cursing everything in this world.",
+    "significantChanges": false
+  },
+  {
+    "index": 618,
+    "MessageID": 90575,
+    "TextENGNew": "That was the storyline of this tragedy, wasn't it?",
+    "significantChanges": false
+  },
+  {
+    "index": 619,
+    "MessageID": 90576,
+    "TextENGNew": "This was a theater from Hell.",
+    "significantChanges": false
+  },
+  {
+    "index": 620,
+    "MessageID": 90577,
+    "TextENGNew": "What an interesting script.@k Who wrote it, a devil?",
+    "significantChanges": false
+  },
+  {
+    "index": 621,
+    "MessageID": 90578,
+    "TextENGNew": "Shit!!@k I won't let this happen!!@k Don't underestimate Keiichi Maebara, the original main character...",
+    "significantChanges": false
+  },
+  {
+    "index": 622,
+    "MessageID": 90579,
+    "TextENGNew": "Don't think the same storyline will work again!!@k I'll be taking over the script this time, and I am going to destroy it!!",
+    "significantChanges": false
+  },
+  {
+    "index": 623,
+    "MessageID": 90580,
+    "TextENGNew": "I won't let this bad ending take place!!!@k I am going to destroy their expectations!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 624,
+    "MessageID": 90581,
+    "TextENGNew": "``You're the one who doesn't trust me, Rena!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 625,
+    "MessageID": 90582,
+    "TextENGNew": "``What are you talking about, Keiichi-kun?",
+    "significantChanges": false
+  },
+  {
+    "index": 626,
+    "MessageID": 90583,
+    "TextENGNew": "Shut up and trust you?@k@vS09/02/170201604. You're the one who doesn't trust me, Keiichi-kun!@k@vS09/02/170201605. Why don't you believe me?``",
+    "significantChanges": false
+  },
+  {
+    "index": 627,
+    "MessageID": 90584,
+    "TextENGNew": "``SHUT UP!!@k@vS09/01/170101252. I know you're wrong!!@k@vS09/01/170101253. I know how you'll end up, so I know you're going to regret it in the future!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 628,
+    "MessageID": 90585,
+    "TextENGNew": "I don't want you to finish your life without realizing what you have done...@k@vS09/01/170101255. You just don't know how sad that is yet!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 629,
+    "MessageID": 90586,
+    "TextENGNew": "``......I have no idea what you're talking about!@k@vS09/02/170201607. Are you okay, Keiichi-kun?``",
+    "significantChanges": false
+  },
+  {
+    "index": 630,
+    "MessageID": 90587,
+    "TextENGNew": "``Yeah, I bet.@k@vS09/01/170101257. I bet you have no idea what I'm talking about.@k@vS09/01/170101258. I'll tell you.@k@vS09/01/170101259. I'll tell you the story of a pathetic guy!!",
+    "significantChanges": false
+  },
+  {
+    "index": 631,
+    "MessageID": 90588,
+    "TextENGNew": "Once upon a time, there was a pathetic guy named Keiichi Maebara!@k@vS09/01/170101261. He had no complaints about his life, and he spent every day having fun with his friends. But one day, he started to doubt them.",
+    "significantChanges": false
+  },
+  {
+    "index": 632,
+    "MessageID": 90589,
+    "TextENGNew": "After a while, he started to doubt everything...``",
+    "significantChanges": false
+  },
+  {
+    "index": 633,
+    "MessageID": 90590,
+    "TextENGNew": "He didn't notice how worried his friends were, and he hurt them repeatedly...@k How sorrowful...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 634,
+    "MessageID": 90591,
+    "TextENGNew": "They trusted each other, but they couldn't let each other know!!",
+    "significantChanges": false
+  },
+  {
+    "index": 635,
+    "MessageID": 90592,
+    "TextENGNew": "Can you believe something as stupid as that actually happened?",
+    "significantChanges": false
+  },
+  {
+    "index": 636,
+    "MessageID": 90593,
+    "TextENGNew": "``Then... I beat you and Mion...............",
+    "significantChanges": false
+  },
+  {
+    "index": 637,
+    "MessageID": 90594,
+    "TextENGNew": "with a metal bat, to the point of death!!!@k@vS09/01/170101265. But you begged me to trust you...... until your final moments.@k@vS09/01/170101266. You didn't even try to protect your head.@k@vS09/01/170101267. You trusted me until your final moments, reaching your hands out to me!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 638,
+    "MessageID": 90595,
+    "TextENGNew": "I didn't realize what you were doing and beat you to death anyway!!!@k@vS09/01/170101269. Do you know how sinful that was? ......I bet you have no idea!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 639,
+    "MessageID": 90596,
+    "TextENGNew": "That's why... I have to make up... for what I've done. I am going to stop you, Rena!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 640,
+    "MessageID": 90597,
+    "TextENGNew": "``If you come any closer, I'll light the lighter!``",
+    "significantChanges": false
+  },
+  {
+    "index": 641,
+    "MessageID": 90598,
+    "TextENGNew": "``Just as you tried to save me with your life, I'm going to save you, Rena!!@k@vS09/01/170101272. I still remember how magnificent you were when you died.",
+    "significantChanges": false
+  },
+  {
+    "index": 642,
+    "MessageID": 90599,
+    "TextENGNew": "You weren't even afraid of it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 643,
+    "MessageID": 90600,
+    "significantChanges": true,
+    "changeReason": "New translation contains substantially different content from the original."
+  },
+  {
+    "index": 644,
+    "MessageID": 90601,
+    "TextENGNew": "These next words will make Keiichi-kun realize...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 645,
+    "MessageID": 90602,
+    "TextENGNew": "``Trust me!! Rena!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 646,
+    "MessageID": 90603,
+    "TextENGNew": "That was when Rena hit my head with the hatchet.",
+    "significantChanges": false
+  },
+  {
+    "index": 647,
+    "MessageID": 90604,
+    "TextENGNew": "I crumbled down to the floor.",
+    "significantChanges": false
+  },
+  {
+    "index": 648,
+    "MessageID": 90605,
+    "TextENGNew": "She hit me with the handle, but my head was probably cut open.",
+    "significantChanges": false
+  },
+  {
+    "index": 649,
+    "MessageID": 90606,
+    "TextENGNew": "I could feel the blood on my face.",
+    "significantChanges": false
+  },
+  {
+    "index": 650,
+    "MessageID": 90607,
+    "TextENGNew": "``Poor Keiichi-kun...@k@vS09/02/170201608_2. That's not of your own will.@k@vS09/02/170201608_3. The parasites that are living in your brain are controlling you.",
+    "significantChanges": false
+  },
+  {
+    "index": 651,
+    "MessageID": 90608,
+    "TextENGNew": "Ooishi-san will find the medicine for it.@k@vS09/02/170201608_5. When he comes, I'll let you take the medicine first.@k@vS09/02/170201608_6. Then you'll be free.",
+    "significantChanges": false
+  },
+  {
+    "index": 652,
+    "MessageID": 90609,
+    "TextENGNew": "You'll return to the Keiichi-kun that I loved.@k@vS09/02/170201608_8. Just hang in there for a little while longer, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 653,
+    "MessageID": 90610,
+    "TextENGNew": "``...Damn you!!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 654,
+    "MessageID": 90611,
+    "TextENGNew": "I heard a phone ringing in the teacher's office.",
+    "significantChanges": false
+  },
+  {
+    "index": 655,
+    "MessageID": 90612,
+    "TextENGNew": "Rena listened to the phone ring for a while, then realized it was for her.",
+    "significantChanges": false
+  },
+  {
+    "index": 656,
+    "MessageID": 90613,
+    "TextENGNew": "Rena tried to answer the phone in the classroom,@k but she couldn't figure out how to transfer the call, so she decided to answer it in the teacher's office instead.",
+    "significantChanges": false
+  },
+  {
+    "index": 657,
+    "MessageID": 90614,
+    "TextENGNew": "``......I'm going to the office for a bit.@k@vS09/02/170201610. Don't run away, okay?@k@vS09/02/170201611. If any of you are missing, something terrible will happen to Mii-chan, okay...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 658,
+    "MessageID": 90615,
+    "TextENGNew": "Rena glared at everyone in the classroom, intimidating them, and then left.",
+    "significantChanges": false
+  },
+  {
+    "index": 659,
+    "MessageID": 90616,
+    "TextENGNew": "That was when I heard a honk from the outside.",
+    "significantChanges": false
+  },
+  {
+    "index": 660,
+    "MessageID": 90617,
+    "TextENGNew": "I remembered the signal from earlier.",
+    "significantChanges": false
+  },
+  {
+    "index": 661,
+    "MessageID": 90618,
+    "TextENGNew": "Did Ooishi-san want to get in touch with me?",
+    "significantChanges": false
+  },
+  {
+    "index": 662,
+    "MessageID": 90619,
+    "TextENGNew": "I bent down and put the receiver earphone in my ear.",
+    "significantChanges": false
+  },
+  {
+    "index": 663,
+    "MessageID": 90620,
+    "TextENGNew": "``Can you hear me?@k@vS09/19/173100130. This is Kumagai, from Okinomiya Station.@k@vS09/19/173100131. Please cough if you can hear me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 664,
+    "MessageID": 90621,
+    "TextENGNew": "``...Cough!@k@vS09/01/170101285. Cough...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 665,
+    "MessageID": 90622,
+    "TextENGNew": "``Very good.@k@vS09/19/173100133. Please listen carefully.",
+    "significantChanges": false
+  },
+  {
+    "index": 666,
+    "MessageID": 90623,
+    "TextENGNew": "The gasoline the suspect spread everywhere is very dangerous.@k@vS09/19/173100135. The classroom is filled with vaporized gasoline right now. It's like a bomb.",
+    "significantChanges": false
+  },
+  {
+    "index": 667,
+    "MessageID": 90624,
+    "TextENGNew": "Please don't aggravate Ryuugu-san and don't ever let her play with the lighter.@k@vS09/19/173100137. Please don't provoke her anymore like you just did, okay?``",
+    "significantChanges": false
+  },
+  {
+    "index": 668,
+    "MessageID": 90625,
+    "TextENGNew": "``...Tsk. ...This bug is awful.``",
+    "significantChanges": false
+  },
+  {
+    "index": 669,
+    "MessageID": 90626,
+    "TextENGNew": "``It's possible for gasoline fumes to ignite at the slightest spark.@k@vS09/19/173100139. Therefore, please turn the bug off after this communication.@k@vS09/19/173100140. That's just to be on the safe side.",
+    "significantChanges": false
+  },
+  {
+    "index": 670,
+    "MessageID": 90627,
+    "TextENGNew": "Also, one last thing:@k@vS09/19/173100142. according to the suspect's note, she has set a time bomb.``",
+    "significantChanges": false
+  },
+  {
+    "index": 671,
+    "MessageID": 90628,
+    "TextENGNew": "``A time...@k@vS09/01/170101288. bomb?``",
+    "significantChanges": false
+  },
+  {
+    "index": 672,
+    "MessageID": 90629,
+    "TextENGNew": "``She used a kitchen timer to make a simple time bomb, and the classroom will explode if it goes off.",
+    "significantChanges": false
+  },
+  {
+    "index": 673,
+    "MessageID": 90630,
+    "TextENGNew": "We're trying to get some sleeping pills ready to give to her as an 'antidote'.@k@vS09/19/173100145. But we don't have much time left.@k@vS09/19/173100146. According to her note, the timer is set for seven PM.``",
+    "significantChanges": false
+  },
+  {
+    "index": 674,
+    "MessageID": 90631,
+    "TextENGNew": "I looked at the wall clock. It was 6:45 PM.@k There were only fifteen minutes left.",
+    "significantChanges": false
+  },
+  {
+    "index": 675,
+    "MessageID": 90632,
+    "TextENGNew": "I could hear Rena screaming into the phone.",
+    "significantChanges": false
+  },
+  {
+    "index": 676,
+    "MessageID": 90633,
+    "TextENGNew": "``No, the time has already been set!!@k@vS09/02/170201613. Hurry up, Ooishi-san.@k@vS09/02/170201614. I won't wait for even a second longer.``",
+    "significantChanges": false
+  },
+  {
+    "index": 677,
+    "MessageID": 90634,
+    "TextENGNew": "``As you can hear, Rena Ryuugu is refusing to reset the timer.@k@vS09/19/173100148. She's going to kill herself in fifteen minutes.``",
+    "significantChanges": false
+  },
+  {
+    "index": 678,
+    "MessageID": 90635,
+    "TextENGNew": "...I remembered thinking the same way as Rena. After I killed Rena and Mion, I knew the police would come.@k I thought someone would solve the mystery after I was dead.",
+    "significantChanges": false
+  },
+  {
+    "index": 679,
+    "MessageID": 90636,
+    "TextENGNew": "If that's what Rena was thinking, then she had been planning to kill herself from the beginning.",
+    "significantChanges": false
+  },
+  {
+    "index": 680,
+    "MessageID": 90637,
+    "TextENGNew": "``......What do you want me to do?``",
+    "significantChanges": false
+  },
+  {
+    "index": 681,
+    "MessageID": 90638,
+    "TextENGNew": "``The sleeping pills should arrive soon.@k@vS09/19/173100150. But if an explosion took place before we could negotiate, there would be no point.@k@vS09/19/173100151. We want you to find the time bomb and disassemble it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 682,
+    "MessageID": 90639,
+    "TextENGNew": "``You mean... cutting red and blue cords like in the movies?``",
+    "significantChanges": false
+  },
+  {
+    "index": 683,
+    "MessageID": 90640,
+    "TextENGNew": "``It's probably simpler than that.@k@vS09/19/173100153. According to the suspect, she used a kitchen timer.",
+    "significantChanges": false
+  },
+  {
+    "index": 684,
+    "MessageID": 90641,
+    "TextENGNew": "It's not a battery-operated one, it's one of those ones you plug in. It looks like an alarm clock.@k@vS09/19/173100155. Do you see anything in an outlet in the classroom...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 685,
+    "MessageID": 90642,
+    "TextENGNew": "There was one outlet in the back and another at the front of the classroom.@k I checked, but I didn't see anything that was plugged in.",
+    "significantChanges": false
+  },
+  {
+    "index": 686,
+    "MessageID": 90643,
+    "TextENGNew": "``No... I don't see anything.``",
+    "significantChanges": false
+  },
+  {
+    "index": 687,
+    "MessageID": 90644,
+    "TextENGNew": "``If an ignition was taking place somewhere else, it shouldn't work.@k@vS09/19/173100157. It must be somewhere in the classroom.``",
+    "significantChanges": false
+  },
+  {
+    "index": 688,
+    "MessageID": 90645,
+    "TextENGNew": "``No......... I don't think so.@k@vS09/01/170101293. The only cord coming from the hallway is the one for Rena's phone.@k@vS09/01/170101294. Is it possible for the kitchen timer to be battery-operated?``",
+    "significantChanges": false
+  },
+  {
+    "index": 689,
+    "MessageID": 90646,
+    "TextENGNew": "``It's the type that's powered by electricity.@k@vS09/19/173100159. Could it possibly be in another room?",
+    "significantChanges": false
+  },
+  {
+    "index": 690,
+    "MessageID": 90647,
+    "TextENGNew": "If there was a different room where she spread gasoline, then the timer could be in there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 691,
+    "MessageID": 90648,
+    "TextENGNew": "``Are you telling me to check the whole school?@k@vS09/01/170101296. In fifteen minutes?@k@vS09/01/170101297. Damn, I'm injured here, you know...``",
+    "significantChanges": false
+  },
+  {
+    "index": 692,
+    "MessageID": 90649,
+    "TextENGNew": "But if I stayed here, I'd die in fifteen minutes...",
+    "significantChanges": false
+  },
+  {
+    "index": 693,
+    "MessageID": 90650,
+    "TextENGNew": "...For the first time since all of this began, I saw genuine uncertainty in Rena's eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 694,
+    "MessageID": 90651,
+    "TextENGNew": "She spread the gasoline while I went out to deliver the scrapbooks, so she must have done it in a fairly short time.",
+    "significantChanges": false
+  },
+  {
+    "index": 695,
+    "MessageID": 90652,
+    "TextENGNew": "I really didn't think she had enough time to spread it anywhere else other than the classroom...",
+    "significantChanges": false
+  },
+  {
+    "index": 696,
+    "MessageID": 90653,
+    "TextENGNew": "Then where was the time bomb?",
+    "significantChanges": false
+  },
+  {
+    "index": 697,
+    "MessageID": 90654,
+    "TextENGNew": "``We are doing everything we can here.@k@vS09/19/173100162. So please, help us.@k@vS09/19/173100163. That's all.@k@vS09/19/173100164. If you don't have any questions, I'll end the communication. Is there anything else?``",
+    "significantChanges": false
+  },
+  {
+    "index": 698,
+    "MessageID": 90656,
+    "TextENGNew": "``No, not really.........@k@vS09/01/170101299. Ah, wait, yeah, I do have one thing to say.``",
+    "significantChanges": false
+  },
+  {
+    "index": 699,
+    "MessageID": 90657,
+    "TextENGNew": "``What is it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 700,
+    "MessageID": 90658,
+    "TextENGNew": "``Please tell Ooishi@k@vS09/01/170101301. that he should never have told Rena about my past.",
+    "significantChanges": false
+  },
+  {
+    "index": 701,
+    "MessageID": 90659,
+    "TextENGNew": "If I come out of this alive, I'll punch him, so he'd better be prepared.@k@vS09/01/170101303. ...Wait, two punches.@k@vS09/01/170101304. One for telling Rena about me and another for telling me about Rena.``",
+    "significantChanges": false
+  },
+  {
+    "index": 702,
+    "MessageID": 90660,
+    "TextENGNew": "``I understand.@k@vS09/19/173100167. Ooishi-san is disappointed in himself for letting Rena Ryuugu fool him.@k@vS09/19/173100168. I'm sure he'll be happy to let you throw a punch or two.@k@vS09/19/173100169. Is that it now?``",
+    "significantChanges": false
+  },
+  {
+    "index": 703,
+    "MessageID": 90661,
+    "TextENGNew": "``Yeah.@k@vS09/01/170101306. I've already wasted a few minutes here.@k@vS09/01/170101307. See ya.``",
+    "significantChanges": false
+  },
+  {
+    "index": 704,
+    "MessageID": 90662,
+    "TextENGNew": "``Be safe... (Click...!)``",
+    "significantChanges": false
+  },
+  {
+    "index": 705,
+    "MessageID": 90663,
+    "TextENGNew": "Rena was still on the phone.",
+    "significantChanges": false
+  },
+  {
+    "index": 706,
+    "MessageID": 90664,
+    "TextENGNew": "Ooishi-san was definitely trying to stall her.",
+    "significantChanges": false
+  },
+  {
+    "index": 707,
+    "MessageID": 90665,
+    "TextENGNew": "From what I could hear, it sounded like he is telling her that they investigated the main Sonozaki residence and found something awful in their secret basement or something like that.",
+    "significantChanges": false
+  },
+  {
+    "index": 708,
+    "MessageID": 90666,
+    "TextENGNew": "Hey, if you went too far, Rena would believe everything again...",
+    "significantChanges": false
+  },
+  {
+    "index": 709,
+    "MessageID": 90667,
+    "TextENGNew": "Mion was going to get hit again for ``lying``...",
+    "significantChanges": false
+  },
+  {
+    "index": 710,
+    "MessageID": 90668,
+    "TextENGNew": "``Keiichi...``",
+    "significantChanges": false
+  },
+  {
+    "index": 711,
+    "MessageID": 90669,
+    "TextENGNew": "Rika-chan and Satoko crawled up to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 712,
+    "MessageID": 90670,
+    "TextENGNew": "``...Did you hear?``",
+    "significantChanges": false
+  },
+  {
+    "index": 713,
+    "MessageID": 90671,
+    "TextENGNew": "``Traps are my specialty.@k@vS09/04/170400157. ...I can't let Rena-san do this to me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 714,
+    "MessageID": 90672,
+    "TextENGNew": "Satoko realized how serious the situation was as well. The lives of the hostages, including her own, were about to be taken.",
+    "significantChanges": false
+  },
+  {
+    "index": 715,
+    "MessageID": 90673,
+    "TextENGNew": "Yet she tried to remain strong.",
+    "significantChanges": false
+  },
+  {
+    "index": 716,
+    "MessageID": 90674,
+    "TextENGNew": "``Satoko, even if you die, please don't hate Rena.",
+    "significantChanges": false
+  },
+  {
+    "index": 717,
+    "MessageID": 90675,
+    "TextENGNew": "...Rena is sick.@k@vS09/01/170101311. She was just unfortunate enough to get this tragic disease.@k@vS09/01/170101312. ......Remember?@k@vS09/01/170101313. We had so much fun together...``",
+    "significantChanges": false
+  },
+  {
+    "index": 718,
+    "MessageID": 90676,
+    "TextENGNew": "``...............``",
+    "significantChanges": false
+  },
+  {
+    "index": 719,
+    "MessageID": 90677,
+    "TextENGNew": "``Satoko......@k@vS09/05/170500240. I still believe both you and Rena are my wonderful friends.``",
+    "significantChanges": false
+  },
+  {
+    "index": 720,
+    "MessageID": 90678,
+    "TextENGNew": "``How......... can you still say that she is your friend...... after what she has done to Mion-san?``",
+    "significantChanges": false
+  },
+  {
+    "index": 721,
+    "MessageID": 90679,
+    "TextENGNew": "``......But can't you understand, Satoko?@k@vS09/05/170500242. ......Once a demon starts to act up inside, no matter how tragic the outcome, you just can't stop it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 722,
+    "MessageID": 90680,
+    "TextENGNew": "``..................``",
+    "significantChanges": false
+  },
+  {
+    "index": 723,
+    "MessageID": 90681,
+    "TextENGNew": "Satoko quietly hung her head.",
+    "significantChanges": false
+  },
+  {
+    "index": 724,
+    "MessageID": 90682,
+    "TextENGNew": "I didn't understand what Rika-chan was trying to say to Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 725,
+    "MessageID": 90683,
+    "TextENGNew": "But......... maybe............",
+    "significantChanges": false
+  },
+  {
+    "index": 726,
+    "MessageID": 90684,
+    "TextENGNew": "``I... believe in Rena-san...``",
+    "significantChanges": false
+  },
+  {
+    "index": 727,
+    "MessageID": 90685,
+    "TextENGNew": "``...There you go, Satoko...``",
+    "significantChanges": false
+  },
+  {
+    "index": 728,
+    "MessageID": 90686,
+    "TextENGNew": "I hugged Satoko's head.",
+    "significantChanges": false
+  },
+  {
+    "index": 729,
+    "MessageID": 90687,
+    "TextENGNew": "Rika-chan's arms were tied, so she couldn't embrace Satoko, but she put her forehead closer to her in praise.",
+    "significantChanges": false
+  },
+  {
+    "index": 730,
+    "MessageID": 90688,
+    "TextENGNew": "``Okay then... I'm asking the world's best trap expert.@k@vS09/01/170101316. ...If you were to blow up this room, where would you set a time bomb?``",
+    "significantChanges": false
+  },
+  {
+    "index": 731,
+    "MessageID": 90689,
+    "TextENGNew": "``Count on me.@k@vS09/04/170400162. The device has to be connected to an outlet, huh?``",
+    "significantChanges": false
+  },
+  {
+    "index": 732,
+    "MessageID": 90690,
+    "TextENGNew": "``...Yeah, that's right.@k@vS09/01/170101318. But it could be somewhere else other than this room.@k@vS09/01/170101319. It's possible that she spread gasoline all over a different room and set the device there.``",
+    "significantChanges": false
+  },
+  {
+    "index": 733,
+    "MessageID": 90691,
+    "TextENGNew": "``......No, I don't think she had enough time to do that.@k@vS09/05/170500242_2. She had gasoline hidden close by and only spread it here. That was about all the time she had.``",
+    "significantChanges": false
+  },
+  {
+    "index": 734,
+    "MessageID": 90692,
+    "TextENGNew": "``...I remember now. Rena told me last night that she had to prepare something for today.@k@vS09/01/170101321. ...That means she had things ready since then, at least...``",
+    "significantChanges": false
+  },
+  {
+    "index": 735,
+    "MessageID": 90693,
+    "TextENGNew": "``Those are all the hints I get, eh?@k@vS09/04/170400166. ...Hmmm, what a cruel mine-sweeping game...``",
+    "significantChanges": false
+  },
+  {
+    "index": 736,
+    "MessageID": 90694,
+    "TextENGNew": "``You can find it, Satoko.@k@vS09/01/170101323. ...If you can't, there's no way I can.@k@vS09/01/170101324. I'm wagering all my trust in you!``",
+    "significantChanges": false
+  },
+  {
+    "index": 737,
+    "MessageID": 90695,
+    "TextENGNew": "``......You can do it, Satoko.@k@vS09/05/170500244. In order to save Rena... please find it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 738,
+    "MessageID": 90696,
+    "TextENGNew": "``In that case, very well.@k@vS09/04/170400168. I shall prove that Rena-san's trap is child's play compared to one of my own.``",
+    "significantChanges": false
+  },
+  {
+    "index": 739,
+    "MessageID": 90697,
+    "TextENGNew": "``I'm going to ask you one more time.@k@vS09/01/170101326. If you were to blow up this room, where would you set a time bomb?``",
+    "significantChanges": false
+  },
+  {
+    "index": 740,
+    "MessageID": 90698,
+    "TextENGNew": "Satoko grinned and then closed her eyes to concentrate...",
+    "significantChanges": false
+  }
+]

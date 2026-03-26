@@ -1,0 +1,183 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Investigation Memo",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Search Notice\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 12887,
+    "TextENGNew": "Jirou Tomitake (Deceased)",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 12888,
+    "TextENGNew": "・Staying at a cheap hotel in Shishibone City.",
+    "significantChanges": true,
+    "changeReason": "Old uses 'Resided in' implying permanent living arrangement; new uses 'Staying at' matching JPN 滞在 (temporary stay), which better reflects Tomitake's transient visits.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 12889,
+    "TextENGNew": "・Registered under the name Jirou Tomitake in the guest book@k　> Pen name",
+    "significantChanges": true,
+    "changeReason": "New adds 'in the guest book' matching JPN 宿帳に (in the guest register), specifying the investigative detail of where the name was recorded.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 12890,
+    "TextENGNew": "・Traveled by folding bicycle.@kNo driver's license.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 12891,
+    "TextENGNew": "・Bicycle found abandoned at the side of a forest road, 300 meters from the scene.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 12892,
+    "TextENGNew": "・Present at the festival grounds on the day of the incident.",
+    "significantChanges": true,
+    "changeReason": "New adds 'at the festival grounds' matching JPN 会場にいた (was at the venue), providing the specific location detail present in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 12893,
+    "TextENGNew": "・Was in the company of the missing Miyo Takano.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 12894,
+    "TextENGNew": "・Spotted by a police officer around 9 PM. Whereabouts afterwards unknown.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 12895,
+    "TextENGNew": "・Has been visiting Hinamizawa for the past 5–6 years, staying for about one week each season.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 12896,
+    "TextENGNew": "・Freelance photographer specializing in wild birds@k　> Check with the magazine publishers!",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 12897,
+    "TextENGNew": "・Nothing suspicious found on the film among his belongings.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 12898,
+    "TextENGNew": "・Wallet found among his belongings@k　> Simple assault?",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 12899,
+    "TextENGNew": "・Based on the contents of his wallet, his home base appears to be the Tokyo–Chiba area.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 12900,
+    "TextENGNew": "・No person matching the name \"Jirou Tomitake\" found in the resident registries of any Tokyo ward.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 12901,
+    "TextENGNew": "・Cross-reference dental records with Tokyo dentists@k　> Send to Metropolitan Police",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 12902,
+    "TextENGNew": "・Send facial photograph@k　> To Metropolitan Police",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 12903,
+    "TextENGNew": "・Inquire about \"Jirou Tomitake\" with various magazine publishers.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 12904,
+    "TextENGNew": "Miyo Takano (Missing)",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 12905,
+    "TextENGNew": "・Nurse employed at Irie Clinic.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 12906,
+    "TextENGNew": "・Became acquainted with Tomitake through their shared interest in photographing wild birds.",
+    "significantChanges": true,
+    "changeReason": "Old says 'close' while new says 'acquainted'; JPN 親しい means close/familiar, so the new translation understates the relationship level described in the Japanese.",
+    "changeScore": 2
+  },
+  {
+    "index": 21,
+    "MessageID": 12907,
+    "TextENGNew": "・Residence: X district, XXX, Okinomiya.@kUnmarried.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 12908,
+    "TextENGNew": "・Witnessed alongside Tomitake at the festival grounds. Currently missing.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 12909,
+    "TextENGNew": "・Abducted?@k　Or a suspect?@k　> Important person of interest!",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 12910,
+    "TextENGNew": "・No apparent motive to kill the deceased@k　> Lovers' quarrel?",
+    "significantChanges": true,
+    "changeReason": "Old translates 痴情のもつれ as 'squabble from jealousy' while new uses 'lovers' quarrel,' which is the standard meaning of the Japanese idiom and implies a romantic/sexual relationship rather than mere jealousy.",
+    "changeScore": 3
+  },
+  {
+    "index": 25,
+    "MessageID": 12911,
+    "TextENGNew": "・Investigate their personal relationships thoroughly!@k　> Workplace, etc.",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 12912,
+    "TextENGNew": "・Re-interview the police officers who were on security duty at the venue!",
+    "significantChanges": true,
+    "changeReason": "New correctly specifies 'police officers who were on security duty at the venue' matching JPN 会場警備の警察官 (venue security police), whereas old vaguely says 'police on scene.'",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 12913,
+    "TextENGNew": "・I could really go for some cream puffs.@kFour jumbo ones.@k> Ooishi",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "index": 1,
+    "MessageID": 5942,
+    "TextENGNew": "The days stretch on—painful, agonizing, and so interminably long they make me dizzy—and they show no sign of ending.",
+    "significantChanges": true,
+    "changeReason": "New translation captures the JPN nuances of dizziness (気が遠くなりそう) and painful/agonizing intensity absent from the original's simpler 'harsh and brutal.'",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 5943,
+    "TextENGNew": "The situation between my aunt and Satoko remains unchanged.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 5944,
+    "TextENGNew": "Every night, my aunt finds some trivial thing to scream at Satoko about.",
+    "significantChanges": true,
+    "changeReason": "JPN specifies aunt finds trivial things (些細な何か) to yell about; original says 'for no reason,' which is a different meaning.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 5945,
+    "TextENGNew": "Satoko, for her part, can't help but talk back, even though it always ends in tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 5946,
+    "TextENGNew": "And so my aunt's bellowing never stops.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 5947,
+    "TextENGNew": "And Satoko's crying never stops.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 5948,
+    "TextENGNew": "...When Satoko spots me, she clings to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 5949,
+    "TextENGNew": "She hides behind my back, trying to weather the storm of my aunt's shouting.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 5950,
+    "TextENGNew": "She turns to me—the only person she trusts—for refuge.",
+    "significantChanges": true,
+    "changeReason": "New translation adds the critical JPN detail that the narrator is 'the only person she trusts' (唯一心を許す), which the original omits entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 5951,
+    "TextENGNew": "...Satoko opens her heart to no one but me.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 5952,
+    "TextENGNew": "...And if I don't protect her, that would be too unbearably sad.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'that would be too unbearably sad' (あまりにあまりに悲しいこと); original says 'she'll be devastated' shifting the sadness from a general condition to Satoko specifically being devastated.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 5953,
+    "TextENGNew": "The love and security our parents never gave Satoko—I, her only living family, have to provide.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'love and security' and identifies the narrator as 'her only living family' (唯一の肉親), closer to the JPN; original vaguely says 'that security.'",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 5954,
+    "TextENGNew": "Every single day.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 5955,
+    "TextENGNew": "Every time Satoko cries, every single day.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 5956,
+    "TextENGNew": "...Yesterday, when Satoko clung to me in tears.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 5957,
+    "TextENGNew": "...I was stroking her head, feeling sorry for her, when... at the same time, another emotion surged through me.",
+    "significantChanges": true,
+    "changeReason": "JPN describes stroking her head (頭を撫でていて) while simultaneously feeling another emotion; original simplifies to 'patted her head' and loses the simultaneity.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 5958,
+    "TextENGNew": "I wanted to grab that head, wrench her off of me, and slam her against the wall. An unbelievably monstrous impulse.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'wrench her off of me' (引き剥がして) from JPN, an action the original omits. Also 'monstrous impulse' vs 'devilish and awful emotion' differs in noun.",
+    "changeScore": 3
+  },
+  {
+    "index": 18,
+    "MessageID": 5959,
+    "TextENGNew": "No, no, no...@k I must not think such things...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 5960,
+    "TextENGNew": "No—it's not that I mustn't think it. It's that I should never have become aware of it...!",
+    "significantChanges": true,
+    "changeReason": "JPN distinguishes between 'mustn't think it' vs 'should never have become aware of it' (気付いちゃいけなかった); original's 'can't acknowledge' is different from 'becoming aware.'",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 5961,
+    "TextENGNew": "From that day onward... there was another me inside.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'another me' (もうひとりの僕); original says 'someone else,' which is a different entity concept.",
+    "changeScore": 3
+  },
+  {
+    "index": 21,
+    "MessageID": 5962,
+    "TextENGNew": "He claws at me from within my chest, trying to break through and take my place.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 5963,
+    "TextENGNew": "Whenever Satoko begs me for something through her tears,@k he forces terrible, hateful words up my throat—words that would wound Satoko beyond repair—desperate to make me spit them out.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 5964,
+    "TextENGNew": "Leave me alone.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 5965,
+    "TextENGNew": "Stop clinging to me.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 5966,
+    "TextENGNew": "You're too noisy—go away...!!",
+    "significantChanges": true,
+    "changeReason": "New translation includes 'You're too noisy' (うるさいから) from JPN, which the original omits entirely.",
+    "changeScore": 2
+  },
+  {
+    "index": 26,
+    "MessageID": 5967,
+    "TextENGNew": "No, no, no—I can't, I can't, I can't!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 5968,
+    "TextENGNew": "To keep him from taking over my body, I clenched my gut... and forced him out.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 5969,
+    "TextENGNew": "...I managed to drive him out.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'drive him out' matching JPN 追い出す; original's vague 'managed to do that' loses the specific action.",
+    "changeScore": 2
+  },
+  {
+    "index": 29,
+    "MessageID": 5970,
+    "TextENGNew": "But driving him out was not the end of it.",
+    "significantChanges": true,
+    "changeReason": "New translation explicitly states 'driving him out was not the end' matching JPN; original's 'But that wasn't it' is vague and could mean different things.",
+    "changeScore": 2
+  },
+  {
+    "index": 30,
+    "MessageID": 5971,
+    "TextENGNew": "...That other me—unbelievably—has been following me ceaselessly, trying to slip back inside.",
+    "significantChanges": true,
+    "changeReason": "New translation captures JPN 何ということか (unbelievably) and 常に (ceaselessly) plus identifies 'that other me' vs original's vague 'that person.'",
+    "changeScore": 3
+  },
+  {
+    "index": 31,
+    "MessageID": 5972,
+    "TextENGNew": "...But I will not let something this terrifying back into my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 5973,
+    "TextENGNew": "He knows, too, that as long as I keep my heart steeled like this, there is no gap for him to exploit.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 5974,
+    "TextENGNew": "......So instead of forcing his way in... he follows right behind me, always at my back, patiently, endlessly waiting for me to let my guard down...",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 5975,
+    "TextENGNew": "When I walk... he follows, pattering softly behind me.",
+    "significantChanges": true,
+    "changeReason": "New translation includes the JPN onomatopoeia ぺたぺた as 'pattering softly,' conveying the specific eerie sound of footsteps that the original omits.",
+    "changeScore": 2
+  },
+  {
+    "index": 35,
+    "MessageID": 5976,
+    "TextENGNew": "Trailing right at my back.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'trailing right at my back' (僕の背中を付いて来る); original says 'breathing down my neck,' which is a different idiom with different connotation.",
+    "changeScore": 2
+  },
+  {
+    "index": 36,
+    "MessageID": 5977,
+    "TextENGNew": "He follows everywhere, and when I lie down, he looms over me from beside my pillow.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'from beside my pillow' (枕元から) matching JPN; original's 'stares down at me' omits this specific, creepy detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 37,
+    "MessageID": 5978,
+    "TextENGNew": "...Waiting for the chance to slip back into my heart and hurt Satoko...",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 5979,
+    "TextENGNew": "...It's gotten suddenly hotter lately.",
+    "significantChanges": true,
+    "changeReason": "JPN says it got 'suddenly hotter' (急に暑くなりだした); original says 'It's been so hot' losing the sudden onset.",
+    "changeScore": 2
+  },
+  {
+    "index": 39,
+    "MessageID": 5980,
+    "TextENGNew": "Maybe the heat is wearing down my body and mind, and that's why these thoughts keep creeping in...",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 5981,
+    "TextENGNew": "I am Satoko's only family.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 5982,
+    "TextENGNew": "...That means I have to shield her from that aunt for as long as I live...",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 5983,
+    "TextENGNew": "That is my lifelong duty...",
+    "significantChanges": true,
+    "changeReason": "JPN says 'lifelong duty' (一生の義務); original says 'eternal duty' which implies something different (永遠 vs 一生).",
+    "changeScore": 2
+  },
+  {
+    "index": 43,
+    "MessageID": 5984,
+    "TextENGNew": "Lifelong?",
+    "significantChanges": true,
+    "changeReason": "JPN echoes '一生？' (lifelong?); original expands to 'the rest of my life?' adding words not present.",
+    "changeScore": 1
+  },
+  {
+    "index": 44,
+    "MessageID": 5985,
+    "TextENGNew": "For the rest of my life? Forever?",
+    "significantChanges": true,
+    "changeReason": "JPN has two questions '生涯、永遠？' (for the rest of my life? forever?); original collapses both into just 'Forever?'",
+    "changeScore": 2
+  },
+  {
+    "index": 45,
+    "MessageID": 5986,
+    "TextENGNew": "Do I have to go on like this... forever...?",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 5987,
+    "TextENGNew": "If only Satoko would just...",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 5988,
+    "TextENGNew": "But I'm her only family...",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 5989,
+    "TextENGNew": "But this is just too much...",
+    "significantChanges": true,
+    "changeReason": "JPN says 'this is just too much' (いくらなんでも); original's bare 'But...' loses the specific meaning of excess/impossibility.",
+    "changeScore": 2
+  },
+  {
+    "index": 49,
+    "MessageID": 5990,
+    "TextENGNew": "It's because of that aunt.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'that aunt' (叔母が) with demonstrative distance; original says 'my aunt' which is neutral. New translation's 'that aunt' captures the distancing tone.",
+    "changeScore": 2
+  },
+  {
+    "index": 50,
+    "MessageID": 5991,
+    "TextENGNew": "But if I'm being honest, the villagers are just as much to blame...!",
+    "significantChanges": true,
+    "changeReason": "New translation captures the JPN exclamatory accusation and the nuance of sharing blame (それを言ったら...だって); original's calm 'But it's because of the villagers too' lacks the emotional force and the conditional logic.",
+    "changeScore": 3
+  },
+  {
+    "index": 51,
+    "MessageID": 5992,
+    "TextENGNew": "Watanagashi is almost here.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 5993,
+    "TextENGNew": "Some irresponsible villagers are saying the curse is sure to strike again this year.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 5994,
+    "TextENGNew": "And if it does, they say it will fall upon me and Satoko.",
+    "significantChanges": true,
+    "changeReason": "JPN has a conditional structure 'if the curse strikes, they say it will fall upon me and Satoko' (祟りがあるなら); original states it more directly as certainty.",
+    "changeScore": 2
+  },
+  {
+    "index": 54,
+    "MessageID": 5995,
+    "TextENGNew": "...Maybe it's just my imagination, but lately I can feel the stares of the villagers who \"expect\" it to happen—and those stares cut especially deep...",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 5996,
+    "TextENGNew": "I have this feeling I'm going to be killed on the day of Watanagashi.",
+    "significantChanges": true,
+    "changeReason": "JPN says 'baseless, formless paranoia' (根拠なき漠然とした妄想); original says 'just my imagination' which is much milder and loses the paranoia aspect.",
+    "changeScore": 2
+  },
+  {
+    "index": 56,
+    "MessageID": 5997,
+    "TextENGNew": "Of course, this is nothing but a baseless, formless paranoia.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 5998,
+    "TextENGNew": "Ah, pat, pat, pat, pat.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 5999,
+    "TextENGNew": "Don't come into my heart...",
+    "significantChanges": true,
+    "changeReason": "JPN says 'don't come into my heart' (僕の心に); original says 'inside of me' which is vaguer than the specific heart reference.",
+    "changeScore": 2
+  },
+  {
+    "index": 59,
+    "MessageID": 6000,
+    "TextENGNew": "Satoko is my only sister, my only family—so stop, stop trying to whisper those terrible things into my heart...",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 6001,
+    "TextENGNew": "Pat, pat, pat, pat—stay back, stay back, don't come near me...!!!",
+    "significantChanges": true,
+    "changeReason": "New translation changes 'don't come this way' to 'stay back, don't come near me' — different directive actions that alter the reader's mental picture.",
+    "changeScore": 2
+  },
+  {
+    "index": 61,
+    "MessageID": 6002,
+    "TextENGNew": "Those footsteps drew close behind me, and a hand reached for my shoulder...!!!",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 6003,
+    "TextENGNew": "\"Wah!@k@vS20/07/VTK1_satoshi1045. ......Oh... it's you, Rena...\"",
+    "significantChanges": true,
+    "changeReason": "Original uses standard double-backtick quotation marks; new translation uses standard quotation marks. Also 'Aaaah!' vs 'Wah!' are different exclamations, and new adds 'it's you, Rena' specifying recognition.",
+    "changeScore": 1
+  },
+  {
+    "index": 63,
+    "MessageID": 6004,
+    "TextENGNew": "\"A...... Are you okay?@k@vS20/02/VTK1_rena1002. ...Are you?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 6005,
+    "TextENGNew": "Apparently I had been acting strangely enough for others to notice.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'enough for others to notice' (人が見てもわかるくらい) from JPN; original's 'I must have been acting weird' doesn't convey that outside observation aspect.",
+    "changeScore": 2
+  },
+  {
+    "index": 65,
+    "MessageID": 6006,
+    "TextENGNew": "...Rena was looking at me with a worried expression.",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 6007,
+    "TextENGNew": "...Her name is Rena Ryuugu.",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 6008,
+    "TextENGNew": "She just moved here recently as a transfer student.",
+    "significantChanges": false
+  },
+  {
+    "index": 68,
+    "MessageID": 6009,
+    "TextENGNew": "Nobody remembers her, but apparently she lived in Hinamizawa a long time ago.",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 6010,
+    "TextENGNew": "Though she herself says she barely remembers anything about it.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 6011,
+    "TextENGNew": "With Mion being the only other classmate close to my age, Rena has become a very precious friend.",
+    "significantChanges": true,
+    "changeReason": "New translation identifies Rena specifically as 'a very precious friend' (とても貴重な友人) and restructures to match JPN; original's 'I'm glad she's my friend' is vaguer.",
+    "changeScore": 3
+  },
+  {
+    "index": 71,
+    "MessageID": 6012,
+    "TextENGNew": "She usually carries on happily alongside Mion, but now and then she shows a more thoughtful, feminine kind of consideration.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 6013,
+    "TextENGNew": "\"Are you not feeling well?@k@vS20/02/VTK1_rena1004. Maybe you should rest in the nurse's office.@k@vS20/02/VTK1_rena1005....Don't you think?\"",
+    "significantChanges": true,
+    "changeReason": "JPN asks '具合悪いの' (are you not feeling well) and suggests resting; original offers 'Do you want me to take you' which adds the offer of accompaniment not in JPN.",
+    "changeScore": 2
+  },
+  {
+    "index": 73,
+    "MessageID": 6014,
+    "TextENGNew": "\"Thanks.@k@vS20/07/VTK1_satoshi1047. I'm fine.@k@vS20/07/VTK1_satoshi1048. ...Did I really look that bad?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 6015,
+    "TextENGNew": "\"Yeah.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 6016,
+    "TextENGNew": "Her unhesitating answer told me just how obviously unwell I must have appeared.",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'how obviously unwell I must have appeared' (具合を悪そうにしていた) from JPN; original's 'I wasn't myself' is vaguer.",
+    "changeScore": 2
+  },
+  {
+    "index": 76,
+    "MessageID": 6017,
+    "TextENGNew": "\"......Is it... about Satoko-chan? Are you worried?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 6018,
+    "TextENGNew": "\"No... that's not it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 6019,
+    "TextENGNew": "She had gone straight for the heart of it—sensing that my malaise was not physical, but emotional...",
+    "significantChanges": true,
+    "changeReason": "New translation captures JPN's 核心を突いて来る (went straight for the heart of it) and the distinction that malaise was emotional not physical; original simplifies to just 'She knows.'",
+    "changeScore": 3
+  },
+  {
+    "index": 79,
+    "MessageID": 6020,
+    "TextENGNew": "...This is just my intuition, but beneath Rena's gentle exterior, she may be far more perceptive than she appears...",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 6021,
+    "TextENGNew": "\"...Since I just transferred here, I might not be very reliable...@k@vS20/02/VTK1_rena1009. But I can listen.@k@vS20/02/VTK1_rena1010....I think even just talking about it can lighten the weight a little.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 6022,
+    "TextENGNew": "Despite having only recently transferred in, she seemed to have already picked up on the situation surrounding us Houjou siblings and the village dynamics.",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'us Houjou siblings' and specifies 'picked up on the situation surrounding' (敏感に感じ取っている) matching JPN's more nuanced phrasing vs original's simpler 'knows quite a bit.'",
+    "changeScore": 3
+  },
+  {
+    "index": 82,
+    "MessageID": 6023,
+    "TextENGNew": "But... talking about it would solve nothing.",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 6024,
+    "TextENGNew": "No—worse than that...",
+    "significantChanges": true,
+    "changeReason": "JPN says 'No—worse than that...' (いや、むしろ); original just says 'Actually,' losing the escalation and negative implication.",
+    "changeScore": 2
+  },
+  {
+    "index": 84,
+    "MessageID": 6025,
+    "TextENGNew": "If I spoke of it, my heart might acknowledge its own weakness,@k and that might give the other me the opening he needed to creep back inside...",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 6026,
+    "TextENGNew": "\"You were really startled just now when I called out to you, weren't you?@k@vS20/02/VTK1_rena1012. If you were lost that deeply in thought, then whatever's bothering you must be really serious...@k@vS20/02/VTK1_rena1013.Hauu...\"",
+    "significantChanges": true,
+    "changeReason": "New translation adds 'weren't you?' and 'If you were lost that deeply in thought' matching JPN's structure about degree of preoccupation, vs original's simpler version.",
+    "changeScore": 2
+  },
+  {
+    "index": 86,
+    "MessageID": 6027,
+    "TextENGNew": "\"Oh, that was...... ahahaha.@k@vS20/07/VTK1_satoshi1051. For some reason lately... I keep feeling like someone is following me.@k@vS20/07/VTK1_satoshi1052. ......Pit, pit, pat, pat.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 6028,
+    "TextENGNew": "\"...So I thought it was that...@k@vS20/07/VTK1_satoshi1054. Ahahahahaha, sorry.@k@vS20/07/VTK1_satoshi1055.I don't even know what I'm saying anymore.\"",
+    "significantChanges": true,
+    "changeReason": "JPN says 'So I thought it was that' (だからそれかと思って) referring to the footsteps; original says 'I thought that was you' referring to Rena, which is a different referent.",
+    "changeScore": 3
+  },
+  {
+    "index": 88,
+    "MessageID": 6029,
+    "TextENGNew": "\"......Footsteps?@k@vS20/02/VTK1_rena1015. ...Following you...?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 6030,
+    "TextENGNew": "\"...Eh?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 6031,
+    "TextENGNew": "\"......I... I know those footsteps.\"",
+    "significantChanges": true,
+    "changeReason": "JPN has a single statement 'I know those footsteps' (その足音、知ってる); original doubles the statement with 'I know those. I know those footsteps.' adding emphasis not in the original.",
+    "changeScore": 2
+  }
+]

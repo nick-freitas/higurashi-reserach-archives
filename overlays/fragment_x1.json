@@ -1,0 +1,112 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11204,
+    "TextENGNew": "[Incident Report 3: The Hinamizawa Branch School Siege]",
+    "significantChanges": true,
+    "changeReason": "Old: 'Hinamizawa Branch School Hostage Incident' vs New: 'The Hinamizawa Branch School Siege.' TextJPN '篭城事件' means 'siege incident' — 'hostage incident' adds a detail not in the original while 'siege' is more accurate to the term.",
+    "changeScore": 3
+  },
+  {
+    "index": 2,
+    "MessageID": 11205,
+    "TextENGNew": "1. Date of Occurrence\nAround noon on June 25th, Showa 58 (1983)",
+    "significantChanges": true,
+    "changeReason": "Old: '1. Occurrence' vs New: '1. Date of Occurrence' and old omits 'Showa 58' while new includes it. TextJPN '発生' is rendered more precisely, and the Showa era date is preserved.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 11206,
+    "TextENGNew": "2. Location\nHinamizawa Village, Shishibone City — inside the Hinamizawa Forestry Office",
+    "significantChanges": true,
+    "changeReason": "Old: 'Hinamizawa village, of Shishibone City. Hinamizawa forest services building.' vs New: 'Hinamizawa Village, Shishibone City — inside the Hinamizawa Forestry Office.' TextJPN '営林署雛見沢事務所内' specifies 'inside' (内) which old omits, and 'Forestry Office' is more precise than 'forest services building'.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 11207,
+    "TextENGNew": "3. Summary\nAround noon on June 25th, the perpetrator broke into the Hinamizawa Forestry Office. She forced her way into the classroom of the Hinamizawa Branch School, which was housed in that same building, and took 25 students hostage.",
+    "significantChanges": true,
+    "changeReason": "Old: '3. Overview' with 'invaded' and 'broke into the Hinamizawa branch school classroom' vs New: '3. Summary' with 'broke into' and 'forced her way into the classroom of the Hinamizawa Branch School, which was housed in that same building.' The new specifies the school was housed within the forestry office building, matching TextJPN '同事務所内の雛見沢分校'.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11208,
+    "TextENGNew": "She then spread a large quantity of gasoline throughout the classroom and held the school under siege for over seven hours.",
+    "significantChanges": true,
+    "changeReason": "Old: 'a large quantity of gasoline was spread across the classroom, and the culprit holed up inside for over seven hours' (passive voice) vs New: 'She then spread a large quantity of gasoline throughout the classroom and held the school under siege' (active voice, subject specified). The new also uses 'siege' matching '篭城'.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 11209,
+    "TextENGNew": "The situation reached a standstill, but around 6:45 PM the same day, several hostages resisted and escaped. Simultaneously, a special forces unit from the Second Riot Police stormed the building and rescued 24 hostages.",
+    "significantChanges": true,
+    "changeReason": "Old translation is truncated — it stops after 'several hostages resisted and escaped' and omits the entire second sentence about the special forces unit storming the building and rescuing 24 hostages. The new includes this critical detail from TextJPN.",
+    "changeScore": 5
+  },
+  {
+    "index": 7,
+    "MessageID": 11210,
+    "TextENGNew": "The perpetrator pursued one hostage who had fled to the roof, and a brief struggle ensued, but around 7:10 PM the same day, she agreed to disarmament and released the final hostage, surrendering to police.",
+    "significantChanges": true,
+    "changeReason": "Old: 'the culprit was disarmed and the last hostage released' (passive, omits her surrender) vs New: 'she submitted to disarmament and released the final hostage, then surrendered to the police.' TextJPN '武装解除に応じ...警官隊に投降した' specifies she agreed to disarm and surrendered to police — details missing from old.",
+    "changeScore": 5
+  },
+  {
+    "index": 8,
+    "MessageID": 11211,
+    "TextENGNew": "4. Casualties\nFour people were injured — one male student and three female students, all with minor wounds.",
+    "significantChanges": true,
+    "changeReason": "Old: '4. Damage' vs New: '4. Casualties' — '被害' in a crime/incident report context means casualties, not generic 'damage'. Also old: 'One boy and three girls' vs new: 'one male student and three female students' — TextJPN uses '男子生徒/女子生徒' (male/female students), which the new preserves.",
+    "changeScore": 3
+  },
+  {
+    "index": 9,
+    "MessageID": 11212,
+    "TextENGNew": "5. Perpetrator\nThe mastermind and sole executor of the crime was a female student enrolled at the Hinamizawa Branch School: Rena Ryuugu.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Reina Ryuugu' vs New: 'Rena Ryuugu' — the character's commonly used name is Rena (her chosen name), which is the standard translation. Also old says 'All planning and execution' while new says 'mastermind and sole executor' — 'sole' adds emphasis matching '計画・実行犯'.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 11213,
+    "TextENGNew": "6. Progress\nShe was taken into custody at Okinomiya Station that same day for questioning. She broadly acknowledged the charges.",
+    "significantChanges": true,
+    "changeReason": "Old: 'She admitted to the crime' vs New: 'She broadly acknowledged the charges.' TextJPN '犯行を大筋で認めた' means 'broadly/generally admitted to the crime' — '大筋で' (in broad strokes) is a significant qualifier: she admitted to the general outline but not necessarily every detail.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 11214,
+    "TextENGNew": "Following a psychiatric evaluation, a determination was to be made as to whether she could be held legally responsible, and the case was to be referred to family court or district court...",
+    "significantChanges": true,
+    "changeReason": "Old: 'a psychological evaluation was conducted that found her responsible for her actions' vs New: 'a determination was to be made as to whether she could be held legally responsible.' TextJPN '容疑者の責任能力の有無を求め' means 'to determine whether the suspect has criminal responsibility' — the old states the finding as definitive while the new correctly shows it as pending.",
+    "changeScore": 4
+  },
+  {
+    "index": 12,
+    "MessageID": 11215,
+    "TextENGNew": "...or so it was intended. However, due to the so-called \"Great Hinamizawa Disaster\" that occurred a few days later, many of the involved parties died or went missing, and proceedings were temporarily suspended.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 11216,
+    "TextENGNew": "Moreover, upon hearing the news of her friends' mass deaths, Rena Ryuugu herself withdrew into a state of emotional shutdown, refusing to speak to anyone — including during interrogation.",
+    "significantChanges": true,
+    "changeReason": "Old: 'Reina Ryuugu' vs New: 'Rena Ryuugu' — name correction. Also old: 'became socially withdrawn' vs new: 'withdrew into a state of emotional shutdown' — TextJPN '自閉状態' means a state of shutting oneself off, closer to 'emotional shutdown' than 'socially withdrawn'.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 11217,
+    "TextENGNew": "The plan going forward is to await Rena Ryuugu's recovery before determining the appropriate course of action. But as things stand, neither the police nor the prosecutors have been able to find a viable solution to this unprecedented situation...",
+    "significantChanges": true,
+    "changeReason": "Old: 'Reina Ryuugu' vs New: 'Rena Ryuugu' — name correction. Also structural improvements in the new translation.",
+    "changeScore": 1
+  }
+]

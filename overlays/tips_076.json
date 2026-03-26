@@ -1,0 +1,287 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Mother's Diary III",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Mother's Diary Ⅲ\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 14814,
+    "TextENGNew": "One sunny parent observation day.",
+    "significantChanges": true,
+    "changeReason": "参観日 is a 'parent observation day' (parents observe classes), not a 'Parent-Teacher Day' (which implies conferences/meetings); these are distinct school events.",
+    "changeScore": 1
+  },
+  {
+    "index": 2,
+    "MessageID": 14815,
+    "TextENGNew": "During a cooking class, that child prepared curry rice with practiced, confident hands.",
+    "significantChanges": true,
+    "changeReason": "The Japanese uses あの子 ('that child'), a distancing pronoun reflecting the mother's complicated feelings; the original's 'my child' conveys a warmer, possessive tone that misrepresents the narrator's emotional distance.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 14816,
+    "TextENGNew": "While children her own age fumbled clumsily with their kitchen knives, her knife work was remarkably skilled.",
+    "significantChanges": false
+  },
+  {
+    "index": 4,
+    "MessageID": 14817,
+    "TextENGNew": "The teacher came over and smiled, saying it must be the result of practicing at home.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 14818,
+    "TextENGNew": "I managed to deflect with a vague smile and a nod.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 14819,
+    "TextENGNew": "...Because I had never once taught that child how to make curry rice.",
+    "significantChanges": true,
+    "changeReason": "Same as entry 14815: the Japanese uses あの子 ('that child'), not 'my child'; the distancing language is thematically important to the mother's alienation from Rika.",
+    "changeScore": 2
+  },
+  {
+    "index": 7,
+    "MessageID": 14820,
+    "TextENGNew": "And yet, with practiced ease, she peeled vegetables and added them to the pot in the correct order, starting with those that took longest to cook.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 14821,
+    "TextENGNew": "An ordinary parent might clap with surprise and pride at their child's unexpected accomplishment.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 14822,
+    "TextENGNew": "But in my case, it was different.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 14823,
+    "TextENGNew": "...This curry-making skill, too, must have been taught to her by someone behind my back.",
+    "significantChanges": true,
+    "changeReason": "預かり知れないところ means 'beyond my knowledge/behind my back,' not 'when I wasn't taking care of her'; the original misinterprets the phrase as a childcare gap rather than secrecy.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 14824,
+    "TextENGNew": "...Thinking that, I quietly fell into an unpleasant mood.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 14825,
+    "TextENGNew": "When I asked, it seemed she could also sew and do the laundry.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 14826,
+    "TextENGNew": "I had never taught her how to do those, and again, never saw her do it around the house.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 14827,
+    "TextENGNew": "Be it cooking or sewing or the laundry.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 14828,
+    "TextENGNew": "...Surely once again, without my knowledge, the elderly villagers had been filling that child's head with all sorts of things.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 14829,
+    "TextENGNew": "And not only that -- they were stuffing her full of dubious superstitions, molding her into this supposed reincarnation of Oyashiro-sama.",
+    "significantChanges": true,
+    "changeReason": "生まれ変わり means 'reincarnation' (rebirth of a soul), not 'living incarnation' (a god made flesh); these are theologically distinct concepts, and in Higurashi's context the villagers believe Rika is Oyashiro-sama reborn.",
+    "changeScore": 2
+  },
+  {
+    "index": 17,
+    "MessageID": 14830,
+    "TextENGNew": "I said as much to my husband, suggesting that we should keep our child away from the elderly folk.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 14831,
+    "TextENGNew": "But my husband, who was in the position of being the head priest of the Furude Shrine, had little power against the elderly who supported it.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 14832,
+    "TextENGNew": "...He took the rather uncommitted stance of saying that as long as she was being doted upon, wasn't it fine?",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 14833,
+    "TextENGNew": "I argued against that.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 14834,
+    "TextENGNew": "That she was our child, and should be a completely normal girl.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 14835,
+    "TextENGNew": "That what the elderly were expecting, that she was the living incarnation of Oyashiro-sama, was simply odd.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 14836,
+    "TextENGNew": "The elderly villagers believe that child has divine powers.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 14837,
+    "TextENGNew": "They claim she can predict tomorrow's weather, but I've seen her leave without an umbrella and come home drenched on many occasions.",
+    "significantChanges": true,
+    "changeReason": "Old misidentifies the subject: Japanese describes others claiming Rika predicts weather, not the mother herself.",
+    "changeScore": 4
+  },
+  {
+    "index": 25,
+    "MessageID": 14838,
+    "TextENGNew": "They say she has clairvoyant knowledge of faraway events, but that's nothing more than her parroting back the news she watches so avidly.",
+    "significantChanges": true,
+    "changeReason": "Original omits the 'they say' framing (という) that attributes the clairvoyance claim to the villagers; additionally, 受け売り specifically means 'parroting/repeating what she heard' rather than the vaguer 'second-hand knowledge.'",
+    "changeScore": 3
+  },
+  {
+    "index": 26,
+    "MessageID": 14839,
+    "TextENGNew": "As for knowing things she shouldn't know -- that can be fully explained by the villagers who whisper things to her in secret and those who then go around proclaiming it as proof.",
+    "significantChanges": true,
+    "changeReason": "The Japanese describes a two-part mechanism: 影で吹き込んだ人間 (people who secretly feed her information) and 吹聴する人間 (people who then publicize it as evidence); the new translation clearly articulates this deliberate conspiracy the mother perceives, while the original muddles it.",
+    "changeScore": 3
+  },
+  {
+    "index": 27,
+    "MessageID": 14840,
+    "TextENGNew": "Though... there certainly were days when everyone was sure it would be sunny, and yet that child stubbornly refused to go out without her umbrella.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 14841,
+    "TextENGNew": "It would occasionally rain, and in the end, we would be saved.",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 14842,
+    "TextENGNew": "...There might also have been times when Rika knew about major foreign accidents before the news reported them.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 14843,
+    "TextENGNew": "I thought that she must have heard it break over the radio or something.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 14844,
+    "TextENGNew": "...Knowing things she shouldn't know -- wasn't an example of that right in front of me at this very moment?",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 14845,
+    "TextENGNew": "That child was making curry rice without anyone having taught her.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 14846,
+    "TextENGNew": "No, no... that couldn't possibly be the case.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 14847,
+    "TextENGNew": "Somebody had taught her, indoctrinated her.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 14848,
+    "TextENGNew": "Somewhere beyond my sight, someone was filling Rika's head with things.",
+    "significantChanges": true,
+    "changeReason": "Same issue as entry 14823: 預かり知れぬところ means 'beyond my knowledge/sight,' not 'when I wasn't taking care of her'; the original misinterprets the phrase as a childcare gap rather than secrecy.",
+    "changeScore": 3
+  },
+  {
+    "index": 36,
+    "MessageID": 14849,
+    "TextENGNew": "``Furude-san's curry is absolutely splendid. I'll give it a gold star!``",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 14850,
+    "TextENGNew": "``......Nipah~☆.``",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 14851,
+    "TextENGNew": "``Where did you learn to cook, Furude-san? At home?``",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 14852,
+    "TextENGNew": "``......Yes. At home.``",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 14853,
+    "TextENGNew": "The other parents in attendance were impressed.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 14854,
+    "TextENGNew": "Lies. All lies.@k...I never taught her anything.",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 14855,
+    "TextENGNew": "Who is it? Who?@k...Who has been filling my child with all of this?",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 14856,
+    "TextENGNew": "She is not the reincarnation of Oyashiro-sama -- she is my ordinary daughter!",
+    "significantChanges": true,
+    "changeReason": "Same as entry 14829: 生まれ変わり means 'reincarnation,' not 'living incarnation'; these are theologically distinct concepts relevant to the Higurashi narrative.",
+    "changeScore": 2
+  }
+]

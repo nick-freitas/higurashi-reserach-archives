@@ -1,0 +1,2212 @@
+[
+  {
+    "index": 1,
+    "MessageID": 49963,
+    "TextENGNew": "The morning of reckoning.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 49964,
+    "TextENGNew": "I awoke to the sound of fireworks heralding the start of the festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 49965,
+    "TextENGNew": "Strength surged through my entire body. When I touched my mouth, I realized I'd been smiling unconsciously.",
+    "significantChanges": true,
+    "changeReason": "Old says 'couldn't help but laugh' (aware); Japanese means 'smiling unconsciously.'",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 49966,
+    "TextENGNew": "Hatred, like a nutrient, had fattened my killing intent -- and it hungered for more.",
+    "significantChanges": true,
+    "changeReason": "New adds 'and it hungered for more' matching JPN もっと獲物をとせがんでいる (craving more prey), which old omitted.",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 49967,
+    "TextENGNew": "I concealed the fangs of a savage predator behind my mask, then threw open the shuttered window.",
+    "significantChanges": true,
+    "changeReason": "New adds 'behind my mask' and 'threw open the shuttered window' more faithful to JPN 巧みに隠す and 締め切っていた窓を開け放った.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 49968,
+    "TextENGNew": "The sky outside was heavy with towering thunderheads, portending a storm that felt close at hand.",
+    "significantChanges": true,
+    "changeReason": "New uses 'towering thunderheads' matching JPN 入道雲 (cumulonimbus), while old said generic 'thick clouds.'",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 49969,
+    "TextENGNew": "The stage was set.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 49970,
+    "TextENGNew": "Perhaps his death cries would be drowned out by the howling storm.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 49971,
+    "TextENGNew": "I could hardly wait for the climactic finale.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 49972,
+    "TextENGNew": "When I came downstairs, Mom and Dad were leisurely sipping their coffee.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 49973,
+    "TextENGNew": "When they saw me, they said good morning, same as always.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 49974,
+    "TextENGNew": "And I said good morning right back, same as always.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 49975,
+    "TextENGNew": "......That effortless, casual exchange felt so peaceful.",
+    "significantChanges": false
+  },
+  {
+    "index": 14,
+    "MessageID": 49976,
+    "TextENGNew": "And at the same time... I was keenly aware of the darkness steadily eroding into my heart.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 49977,
+    "TextENGNew": "``Time to eat!``",
+    "significantChanges": true,
+    "changeReason": "Old translates いただきます as 'Thanks for the food!' which is close to the meaning; new's 'Time to eat!' loses the gratitude aspect entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 16,
+    "MessageID": 49978,
+    "TextENGNew": "A warm, harmonious table.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 49979,
+    "TextENGNew": "Looking at my parents, so blissfully unaware, made my heart ache.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 49980,
+    "TextENGNew": "I'm sorry...",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 49981,
+    "TextENGNew": "The Keiichi Maebara you raised with such care is already gone.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 49982,
+    "TextENGNew": "I'm the one who erased him...",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 49983,
+    "TextENGNew": "I shoveled the food into my mouth as if to sever the last threads of attachment.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 未練を振り切る (sever lingering attachments) more precisely than old's 'take my mind off regrets.'",
+    "changeScore": 3
+  },
+  {
+    "index": 22,
+    "MessageID": 49984,
+    "TextENGNew": "I chewed ravenously, as if biting down on my weakness and fear to crush them.",
+    "significantChanges": true,
+    "changeReason": "New captures JPN 甘えや不安をかみ殺す (bite down to suppress weakness and anxiety) while old simplified, missing 甘え.",
+    "changeScore": 3
+  },
+  {
+    "index": 23,
+    "MessageID": 49985,
+    "TextENGNew": "I could feel my own eyes glinting with murderous intent.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 49986,
+    "TextENGNew": "I wiped the saliva that had dribbled from my lip, then rose to my feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 25,
+    "MessageID": 49987,
+    "TextENGNew": "``Thanks for breakfast.@k@vS18/01/160100387. ...I'm heading out.``",
+    "significantChanges": false
+  },
+  {
+    "index": 26,
+    "MessageID": 49988,
+    "TextENGNew": "Without a moment's hesitation, I headed straight for the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 27,
+    "MessageID": 49989,
+    "TextENGNew": "Hidden inside the backpack on my back were three folding shovels.",
+    "significantChanges": false
+  },
+  {
+    "index": 28,
+    "MessageID": 49990,
+    "TextENGNew": "Shovels purchased for family camping trips...",
+    "significantChanges": false
+  },
+  {
+    "index": 29,
+    "MessageID": 49991,
+    "TextENGNew": "No one could have imagined they'd be used as tools for a murder.",
+    "significantChanges": false
+  },
+  {
+    "index": 30,
+    "MessageID": 49992,
+    "TextENGNew": "I opened the door.",
+    "significantChanges": false
+  },
+  {
+    "index": 31,
+    "MessageID": 49993,
+    "TextENGNew": "I looked back, just once.",
+    "significantChanges": false
+  },
+  {
+    "index": 32,
+    "MessageID": 49994,
+    "TextENGNew": "A farewell to everything my life had been until now.",
+    "significantChanges": false
+  },
+  {
+    "index": 33,
+    "MessageID": 49995,
+    "TextENGNew": "I steeled myself and took the first step onto the road stretching out before me.",
+    "significantChanges": false
+  },
+  {
+    "index": 34,
+    "MessageID": 49996,
+    "TextENGNew": "Behind me, the door closed.",
+    "significantChanges": false
+  },
+  {
+    "index": 35,
+    "MessageID": 49997,
+    "TextENGNew": "The gentle cradle that had always caught me was gone.",
+    "significantChanges": false
+  },
+  {
+    "index": 36,
+    "MessageID": 49998,
+    "TextENGNew": "Rejection and acceptance -- both one-way streets... never to cross paths again.",
+    "significantChanges": false
+  },
+  {
+    "index": 37,
+    "MessageID": 49999,
+    "TextENGNew": "Dad... Mom... I'm no longer the person you knew. I'm about to become... a murderer.",
+    "significantChanges": false
+  },
+  {
+    "index": 38,
+    "MessageID": 50000,
+    "TextENGNew": "And with that, I shut down my thoughts entirely.",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 50001,
+    "TextENGNew": "The endless spiral of anguish, the useless idealism -- none of it mattered anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 50002,
+    "TextENGNew": "All I needed now was to be faithful to my desire.",
+    "significantChanges": false
+  },
+  {
+    "index": 41,
+    "MessageID": 50003,
+    "TextENGNew": "``Farewell...``",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 50004,
+    "TextENGNew": "That word was aimed at myself, as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 43,
+    "MessageID": 50005,
+    "TextENGNew": "I murmured it under my breath, straddled my bicycle, and pushed off.",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 50006,
+    "TextENGNew": "I tore through the road lined with dense, overgrown trees, pedaling hard toward the garbage dump.",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 50007,
+    "TextENGNew": "Along the way, I passed a group of children chattering excitedly.",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 50008,
+    "TextENGNew": "They were probably on their way to the shrine. Their smiles overlapped with the image of Satoko.",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 50009,
+    "TextENGNew": "The grounds of the Furude Shrine must be adorned in their festive best by now, decorated for the year's grandest celebration.",
+    "significantChanges": false
+  },
+  {
+    "index": 48,
+    "MessageID": 50010,
+    "TextENGNew": "...Cheerful red-and-white curtains, lanterns strung up in abundance.",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 50011,
+    "TextENGNew": "...The hum of generators powering the food stalls.",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 50012,
+    "TextENGNew": "...The voices of children dashing about.",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 50013,
+    "TextENGNew": "And families smiling as they watch it all. ...Today was the Watanagashi festival.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 50014,
+    "TextENGNew": "......Were the others already out there, having fun among the crowd?",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 50015,
+    "TextENGNew": "What about Satoko?",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 50016,
+    "TextENGNew": "...Would she be able to forget her painful days, even for a moment... and show us that dazzling smile of hers once more?",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 50017,
+    "TextENGNew": "My legs drove the pedals with renewed force.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 50018,
+    "TextENGNew": "As I gripped the handlebars, I could see the pale blue veins standing out on my hands, the arteries pulsing beneath the skin.",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 50019,
+    "TextENGNew": "I needed new blood.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 50020,
+    "TextENGNew": "A strange sense of omnipotence drove me forward.",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 50021,
+    "TextENGNew": "As if to bolster my invincible mood and push me higher -- a tailwind blew at my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 60,
+    "MessageID": 50022,
+    "TextENGNew": "Suddenly, I felt a vivid sensation against my back.",
+    "significantChanges": false
+  },
+  {
+    "index": 61,
+    "MessageID": 50023,
+    "TextENGNew": "Onward. Onward. Two hands pushing me forward...",
+    "significantChanges": false
+  },
+  {
+    "index": 62,
+    "MessageID": 50024,
+    "TextENGNew": "Urging me to charge on, all the way to the end of the world...",
+    "significantChanges": false
+  },
+  {
+    "index": 63,
+    "MessageID": 50025,
+    "TextENGNew": "I made my way through the garbage dump and opened the wagon door -- Rena and Shion were already waiting.",
+    "significantChanges": false
+  },
+  {
+    "index": 64,
+    "MessageID": 50026,
+    "TextENGNew": "``Good morning, Kei-chan.``",
+    "significantChanges": false
+  },
+  {
+    "index": 65,
+    "MessageID": 50027,
+    "TextENGNew": "``Morning.``",
+    "significantChanges": false
+  },
+  {
+    "index": 66,
+    "MessageID": 50028,
+    "TextENGNew": "``Did you sleep well? Did you?``",
+    "significantChanges": false
+  },
+  {
+    "index": 67,
+    "MessageID": 50029,
+    "TextENGNew": "``Yeah. First good, deep sleep I've had in ages.@k@vS18/01/160100391. Like some kind of spell was finally lifted.``",
+    "significantChanges": true,
+    "changeReason": "JPN 憑き物が取れた means freed from a possession. Old's 'cast the demons out' implies active exorcism; new's 'spell was finally lifted' is more passive, closer to JPN.",
+    "changeScore": 3
+  },
+  {
+    "index": 68,
+    "MessageID": 50030,
+    "TextENGNew": "*Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 69,
+    "MessageID": 50031,
+    "TextENGNew": "The moment the wagon door swung shut, an oppressive tension enclosed us.",
+    "significantChanges": false
+  },
+  {
+    "index": 70,
+    "MessageID": 50032,
+    "TextENGNew": "An inescapable strain wound tight. We all forgot to breathe, holding the air in our lungs.",
+    "significantChanges": false
+  },
+  {
+    "index": 71,
+    "MessageID": 50033,
+    "TextENGNew": "Sweat began to seep steadily from every pore.",
+    "significantChanges": false
+  },
+  {
+    "index": 72,
+    "MessageID": 50034,
+    "TextENGNew": "The stale air filled the sealed space, circulating endlessly with no outlet.",
+    "significantChanges": false
+  },
+  {
+    "index": 73,
+    "MessageID": 50035,
+    "TextENGNew": "``...Preparations are already complete.``",
+    "significantChanges": false
+  },
+  {
+    "index": 74,
+    "MessageID": 50036,
+    "TextENGNew": "A single rope lay before Rena and Shion. As planned, it had been painted solid black.",
+    "significantChanges": false
+  },
+  {
+    "index": 75,
+    "MessageID": 50037,
+    "TextENGNew": "Beside it lay Satoshi's bat.",
+    "significantChanges": false
+  },
+  {
+    "index": 76,
+    "MessageID": 50038,
+    "TextENGNew": "I pulled the shovels from my backpack and lined them up alongside the other items.",
+    "significantChanges": false
+  },
+  {
+    "index": 77,
+    "MessageID": 50039,
+    "TextENGNew": "Three tools, gathered to carve open the path to our future.",
+    "significantChanges": false
+  },
+  {
+    "index": 78,
+    "MessageID": 50040,
+    "TextENGNew": "They exuded a grave, weighty presence -- like three sacred implements prepared for a solemn ritual.",
+    "significantChanges": false
+  },
+  {
+    "index": 79,
+    "MessageID": 50041,
+    "TextENGNew": "A faint sound rang out, reminiscent of rusted metal.",
+    "significantChanges": false
+  },
+  {
+    "index": 80,
+    "MessageID": 50042,
+    "TextENGNew": "My body, hypersensitive from the tension, flinched hard.",
+    "significantChanges": false
+  },
+  {
+    "index": 81,
+    "MessageID": 50043,
+    "TextENGNew": "``Did anyone... hear that just now...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 82,
+    "MessageID": 50044,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 83,
+    "MessageID": 50045,
+    "TextENGNew": "``What...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 84,
+    "MessageID": 50046,
+    "TextENGNew": "Rena and Shion tilted their heads and exchanged glances.",
+    "significantChanges": false
+  },
+  {
+    "index": 85,
+    "MessageID": 50047,
+    "TextENGNew": "Was I hearing things...?",
+    "significantChanges": false
+  },
+  {
+    "index": 86,
+    "MessageID": 50048,
+    "TextENGNew": "I swept my gaze around the interior of the car. Then... behind Rena, I spotted a large black duffel bag, placed as though deliberately hidden.",
+    "significantChanges": false
+  },
+  {
+    "index": 87,
+    "MessageID": 50049,
+    "TextENGNew": "``What's inside that bag?``",
+    "significantChanges": false
+  },
+  {
+    "index": 88,
+    "MessageID": 50050,
+    "TextENGNew": "``Huh...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 89,
+    "MessageID": 50051,
+    "TextENGNew": "``I heard a sound coming from inside that bag.``",
+    "significantChanges": false
+  },
+  {
+    "index": 90,
+    "MessageID": 50052,
+    "TextENGNew": "``What are you talking about...?@k@vS18/02/160200253. There wasn't any sound.@k@vS18/02/160200254. You must be hearing things, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 91,
+    "MessageID": 50053,
+    "TextENGNew": "``Then open it and show me.``",
+    "significantChanges": false
+  },
+  {
+    "index": 92,
+    "MessageID": 50054,
+    "TextENGNew": "``...Keiichi-kun, you're kind of scaring me...``",
+    "significantChanges": false
+  },
+  {
+    "index": 93,
+    "MessageID": 50055,
+    "TextENGNew": "``I said show me!``",
+    "significantChanges": false
+  },
+  {
+    "index": 94,
+    "MessageID": 50056,
+    "TextENGNew": "``What's gotten into you...?@k@vS18/06/160600246. You're frightening Rena-san...``",
+    "significantChanges": false
+  },
+  {
+    "index": 95,
+    "MessageID": 50057,
+    "TextENGNew": "``I'm telling you I heard something!``",
+    "significantChanges": false
+  },
+  {
+    "index": 96,
+    "MessageID": 50058,
+    "TextENGNew": "``There was no sound!``",
+    "significantChanges": false
+  },
+  {
+    "index": 97,
+    "MessageID": 50059,
+    "TextENGNew": "Shion stepped in front of Rena as if to shield her.",
+    "significantChanges": false
+  },
+  {
+    "index": 98,
+    "MessageID": 50060,
+    "TextENGNew": "``Move, Shion.``",
+    "significantChanges": false
+  },
+  {
+    "index": 99,
+    "MessageID": 50061,
+    "TextENGNew": "``No.@k@vS18/06/160600249. Something's wrong with you, Kei-chan.@k@vS18/06/160600250. With that look on your face...``",
+    "significantChanges": false
+  },
+  {
+    "index": 100,
+    "MessageID": 50062,
+    "TextENGNew": "Rena and Shion huddled together, pulling away from me. They looked at me as if staring at something terrifying...",
+    "significantChanges": false
+  },
+  {
+    "index": 101,
+    "MessageID": 50063,
+    "TextENGNew": "``What's with you two...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 102,
+    "MessageID": 50064,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 103,
+    "MessageID": 50065,
+    "TextENGNew": "A trail of sweat ran down my back. As if expelled by my own inner pressure, what I felt on my skin was coldness, and a tremor.",
+    "significantChanges": false
+  },
+  {
+    "index": 104,
+    "MessageID": 50066,
+    "TextENGNew": "I slowly reached out and gripped Satoshi's bat.",
+    "significantChanges": false
+  },
+  {
+    "index": 105,
+    "MessageID": 50067,
+    "TextENGNew": "``Open it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 106,
+    "MessageID": 50068,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 107,
+    "MessageID": 50069,
+    "TextENGNew": "Rena's eyes glistened with a fear she could no longer contain. But I pressed her further to open the bag.",
+    "significantChanges": false
+  },
+  {
+    "index": 108,
+    "MessageID": 50070,
+    "TextENGNew": "With undisguised anxiety on her face, Rena slowly unzipped the duffel bag.",
+    "significantChanges": false
+  },
+  {
+    "index": 109,
+    "MessageID": 50071,
+    "TextENGNew": "I swallowed hard.",
+    "significantChanges": false
+  },
+  {
+    "index": 110,
+    "MessageID": 50072,
+    "TextENGNew": "What emerged from inside was... a five-tiered stack of lacquered food boxes.",
+    "significantChanges": false
+  },
+  {
+    "index": 111,
+    "MessageID": 50073,
+    "TextENGNew": "``The Rena Special, huh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 112,
+    "MessageID": 50074,
+    "TextENGNew": "Every ounce of strength drained from my body at once, and the recoil nearly knocked me over backward.",
+    "significantChanges": false
+  },
+  {
+    "index": 113,
+    "MessageID": 50075,
+    "TextENGNew": "``B-because...@k@vS18/02/160200258. if we're going to dig a really big hole, I figured we'd get hungry, so...``",
+    "significantChanges": false
+  },
+  {
+    "index": 114,
+    "MessageID": 50076,
+    "TextENGNew": "``Then why didn't you just show me right away?@k@vS18/01/160100403. You gave me a cold sweat for nothing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 115,
+    "MessageID": 50077,
+    "TextENGNew": "``...I'm sorry, Keiichi-kun.``",
+    "significantChanges": false
+  },
+  {
+    "index": 116,
+    "MessageID": 50078,
+    "TextENGNew": "``No, I'm the one who should apologize for yelling.``",
+    "significantChanges": false
+  },
+  {
+    "index": 117,
+    "MessageID": 50079,
+    "TextENGNew": "Rena smiled brightly, her expression one of relief.",
+    "significantChanges": false
+  },
+  {
+    "index": 118,
+    "MessageID": 50080,
+    "TextENGNew": "I smiled back, but inside, conflicting thoughts were churning...",
+    "significantChanges": false
+  },
+  {
+    "index": 119,
+    "MessageID": 50081,
+    "TextENGNew": "That sound from earlier... It definitely wasn't the zipper.",
+    "significantChanges": false
+  },
+  {
+    "index": 120,
+    "MessageID": 50082,
+    "TextENGNew": "It was a far more imposing sound... one that radiated destructive force... one that pierced through my skull.",
+    "significantChanges": false
+  },
+  {
+    "index": 121,
+    "MessageID": 50083,
+    "TextENGNew": "It felt like some kind of omen, but my mind slid away from it quickly, refusing to probe deeper.",
+    "significantChanges": true,
+    "changeReason": "Old adds 'conscience telling me to turn back'; new correctly says mind slid away from the thought.",
+    "changeScore": 3
+  },
+  {
+    "index": 122,
+    "MessageID": 50084,
+    "TextENGNew": "Perhaps I was simply too afraid to face it head-on, and wanted to plug my ears and let it pass...",
+    "significantChanges": false
+  },
+  {
+    "index": 123,
+    "MessageID": 50085,
+    "TextENGNew": "I reviewed our procedures one more time while packing the tools into my backpack.",
+    "significantChanges": false
+  },
+  {
+    "index": 124,
+    "MessageID": 50086,
+    "TextENGNew": "``.........``",
+    "significantChanges": false
+  },
+  {
+    "index": 125,
+    "MessageID": 50087,
+    "TextENGNew": "Somewhere far off, I could hear the buzzing of cicadas. We looked at each other's faces, and then, without anyone saying a word, we stood.",
+    "significantChanges": false
+  },
+  {
+    "index": 126,
+    "MessageID": 50088,
+    "TextENGNew": "``Let's go.``",
+    "significantChanges": false
+  },
+  {
+    "index": 127,
+    "MessageID": 50089,
+    "TextENGNew": "We crawled out of the wagon in silence and climbed the garbage heap, testing our footing with every step.",
+    "significantChanges": false
+  },
+  {
+    "index": 128,
+    "MessageID": 50090,
+    "TextENGNew": "*Rustle*... *Rustle*... *Crash!*",
+    "significantChanges": false
+  },
+  {
+    "index": 129,
+    "MessageID": 50091,
+    "TextENGNew": "I looked back.",
+    "significantChanges": false
+  },
+  {
+    "index": 130,
+    "MessageID": 50092,
+    "TextENGNew": "The station wagon, balanced precariously on its unstable footing, was swaying slightly.",
+    "significantChanges": false
+  },
+  {
+    "index": 131,
+    "MessageID": 50093,
+    "TextENGNew": "A harbinger of collapse...",
+    "significantChanges": false
+  },
+  {
+    "index": 132,
+    "MessageID": 50094,
+    "TextENGNew": "As if to shake off the ominous premonition, we scrambled through the garbage dump at a desperate pace.",
+    "significantChanges": false
+  },
+  {
+    "index": 133,
+    "MessageID": 50095,
+    "TextENGNew": "The spot we'd chosen to bury the body lay deep in a dense, dark forest, far past the thicket and deeper still beyond.",
+    "significantChanges": false
+  },
+  {
+    "index": 134,
+    "MessageID": 50096,
+    "TextENGNew": "It was uncharted territory -- the kind of place that seemed to reject human intrusion.",
+    "significantChanges": false
+  },
+  {
+    "index": 135,
+    "MessageID": 50097,
+    "TextENGNew": "Making it all the way from the dump without a single person spotting us felt like a miraculous stroke of luck.",
+    "significantChanges": false
+  },
+  {
+    "index": 136,
+    "MessageID": 50098,
+    "TextENGNew": "When I looked up, thick, dark clouds were concealing our presence from above.",
+    "significantChanges": false
+  },
+  {
+    "index": 137,
+    "MessageID": 50099,
+    "TextENGNew": "Good... even the heavens were on our side!",
+    "significantChanges": false
+  },
+  {
+    "index": 138,
+    "MessageID": 50100,
+    "TextENGNew": "``Let's make it here.``",
+    "significantChanges": false
+  },
+  {
+    "index": 139,
+    "MessageID": 50101,
+    "TextENGNew": "I drove a shovel into the spot Shion pointed to.",
+    "significantChanges": false
+  },
+  {
+    "index": 140,
+    "MessageID": 50102,
+    "TextENGNew": "``It looks like a grave marker...``",
+    "significantChanges": false
+  },
+  {
+    "index": 141,
+    "MessageID": 50103,
+    "TextENGNew": "``For that man, yes.@k@vS18/06/160600254. But for us, it might just be a monument to our victory.``",
+    "significantChanges": false
+  },
+  {
+    "index": 142,
+    "MessageID": 50104,
+    "TextENGNew": "Tonight, one man would meet his final day.",
+    "significantChanges": false
+  },
+  {
+    "index": 143,
+    "MessageID": 50105,
+    "TextENGNew": "And from then on, we would celebrate this day every year.",
+    "significantChanges": false
+  },
+  {
+    "index": 144,
+    "MessageID": 50106,
+    "TextENGNew": "The proud anniversary of the day we made the right decision.",
+    "significantChanges": false
+  },
+  {
+    "index": 145,
+    "MessageID": 50107,
+    "TextENGNew": "``Let's dig...``",
+    "significantChanges": false
+  },
+  {
+    "index": 146,
+    "MessageID": 50108,
+    "TextENGNew": "I tightened my grip and drove the shovel into the earth, again and again.",
+    "significantChanges": false
+  },
+  {
+    "index": 147,
+    "MessageID": 50109,
+    "TextENGNew": "Shion and Rena followed suit without a word.",
+    "significantChanges": false
+  },
+  {
+    "index": 148,
+    "MessageID": 50110,
+    "TextENGNew": "Single-mindedly, driven by hatred, we turned the soil.",
+    "significantChanges": false
+  },
+  {
+    "index": 149,
+    "MessageID": 50111,
+    "TextENGNew": "*Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 150,
+    "MessageID": 50112,
+    "TextENGNew": "Shovels stabbing into the ground at steep angles.",
+    "significantChanges": false
+  },
+  {
+    "index": 151,
+    "MessageID": 50113,
+    "TextENGNew": "*Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 152,
+    "MessageID": 50114,
+    "TextENGNew": "Bone-dry earth, gouged out with insatiable hunger.",
+    "significantChanges": false
+  },
+  {
+    "index": 153,
+    "MessageID": 50115,
+    "TextENGNew": "``...Hehehe...``",
+    "significantChanges": false
+  },
+  {
+    "index": 154,
+    "MessageID": 50116,
+    "TextENGNew": "Rena suddenly let out a soft, gentle laugh.",
+    "significantChanges": false
+  },
+  {
+    "index": 155,
+    "MessageID": 50117,
+    "TextENGNew": "``Rena...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 156,
+    "MessageID": 50118,
+    "TextENGNew": "``You know, around this same time last year...``",
+    "significantChanges": false
+  },
+  {
+    "index": 157,
+    "MessageID": 50119,
+    "TextENGNew": "Rena's gaze drifted somewhere far away.",
+    "significantChanges": false
+  },
+  {
+    "index": 158,
+    "MessageID": 50120,
+    "TextENGNew": "``Rena ran into Satoko-chan at the garbage dump.@k@vS18/02/160200264. I was so lonely and scared at the time, crying all by myself...``",
+    "significantChanges": false
+  },
+  {
+    "index": 159,
+    "MessageID": 50121,
+    "TextENGNew": "Rena gave a bashful shrug, then wiped the sweat from her brow.",
+    "significantChanges": false
+  },
+  {
+    "index": 160,
+    "MessageID": 50122,
+    "TextENGNew": "``I smiled and told her it was nothing, but Satoko-chan looked so worried... and she started crying.@k@vS18/02/160200267. She said, 'If Rena-san is crying, then I'll cry with you!'``",
+    "significantChanges": false
+  },
+  {
+    "index": 161,
+    "MessageID": 50123,
+    "TextENGNew": "``As we cried together, she told me she knew what it was like -- how once you start crying alone, the tears never stop...@k@vS18/02/160200269. Then Satoko-chan took my hand and wouldn't let go.``",
+    "significantChanges": false
+  },
+  {
+    "index": 162,
+    "MessageID": 50124,
+    "TextENGNew": "A faint smile crossed Rena's face.",
+    "significantChanges": false
+  },
+  {
+    "index": 163,
+    "MessageID": 50125,
+    "TextENGNew": "``She was so kyute and sweet that my tears just stopped on their own.@k@vS18/02/160200271. And then something warm welled up inside me, and we both started laughing.``",
+    "significantChanges": false
+  },
+  {
+    "index": 164,
+    "MessageID": 50126,
+    "TextENGNew": "``The two of us shouting 'Ahahahahaha~!' at the top of our lungs, on and on without getting tired...@k@vS18/02/160200274. I just remembered that...``",
+    "significantChanges": false
+  },
+  {
+    "index": 165,
+    "MessageID": 50127,
+    "TextENGNew": "``That sounds just like Satoko...``",
+    "significantChanges": false
+  },
+  {
+    "index": 166,
+    "MessageID": 50128,
+    "TextENGNew": "For a fleeting instant, a shadow passed over Shion's face.",
+    "significantChanges": false
+  },
+  {
+    "index": 167,
+    "MessageID": 50129,
+    "TextENGNew": "``Even back then, Satoko-chan was suffering so much more than Rena...``",
+    "significantChanges": false
+  },
+  {
+    "index": 168,
+    "MessageID": 50130,
+    "TextENGNew": "Remembering how powerless I had been, I placed my hand on Rena's lowered shoulder.",
+    "significantChanges": false
+  },
+  {
+    "index": 169,
+    "MessageID": 50131,
+    "TextENGNew": "``The past is the past.@k@vS18/01/160100410. What matters is now.@k@vS18/01/160100411. And for the sake of the future, we're here doing this.``",
+    "significantChanges": false
+  },
+  {
+    "index": 170,
+    "MessageID": 50132,
+    "TextENGNew": "``You're right...``",
+    "significantChanges": false
+  },
+  {
+    "index": 171,
+    "MessageID": 50133,
+    "TextENGNew": "Rena let out a shy 'ehehe,' then took up her shovel again.",
+    "significantChanges": false
+  },
+  {
+    "index": 172,
+    "MessageID": 50134,
+    "TextENGNew": "*Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 173,
+    "MessageID": 50135,
+    "TextENGNew": "*Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 174,
+    "MessageID": 50136,
+    "TextENGNew": "We dug on relentlessly.",
+    "significantChanges": false
+  },
+  {
+    "index": 175,
+    "MessageID": 50137,
+    "TextENGNew": "The mounds of excavated earth grew higher.",
+    "significantChanges": false
+  },
+  {
+    "index": 176,
+    "MessageID": 50138,
+    "TextENGNew": "In inverse proportion, the hole before us gaped wider and wider, its maw threatening to swallow everything whole.",
+    "significantChanges": true,
+    "changeReason": "Old misses the key JPN imagery of 巨大な口をぱっくり開き (gaping maw); new captures the hole threatening to swallow everything.",
+    "changeScore": 3
+  },
+  {
+    "index": 177,
+    "MessageID": 50139,
+    "TextENGNew": "Peering into the bottom of the hole was like staring into a pitch-black abyss. Like a black hole.",
+    "significantChanges": false
+  },
+  {
+    "index": 178,
+    "MessageID": 50140,
+    "TextENGNew": "If I didn't keep my grip on sanity, I felt I might be sucked in.",
+    "significantChanges": false
+  },
+  {
+    "index": 179,
+    "MessageID": 50141,
+    "TextENGNew": "I drew a deep breath, wiped the sweat away, and repositioned the shovel.",
+    "significantChanges": false
+  },
+  {
+    "index": 180,
+    "MessageID": 50142,
+    "TextENGNew": "*Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 181,
+    "MessageID": 50143,
+    "TextENGNew": "Beads of sweat streamed down my forehead.",
+    "significantChanges": false
+  },
+  {
+    "index": 182,
+    "MessageID": 50144,
+    "TextENGNew": "*Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 183,
+    "MessageID": 50145,
+    "TextENGNew": "A dull ache throbbed through my biceps.",
+    "significantChanges": false
+  },
+  {
+    "index": 184,
+    "MessageID": 50146,
+    "TextENGNew": "Threading through the monotonous rhythm, a refreshing breeze swept over our heads.",
+    "significantChanges": false
+  },
+  {
+    "index": 185,
+    "MessageID": 50147,
+    "TextENGNew": "``Ah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 186,
+    "MessageID": 50148,
+    "TextENGNew": "Shion exhaled softly and looked up at the sky.",
+    "significantChanges": false
+  },
+  {
+    "index": 187,
+    "MessageID": 50149,
+    "TextENGNew": "Her gaze darted around, scanning the surroundings.",
+    "significantChanges": false
+  },
+  {
+    "index": 188,
+    "MessageID": 50150,
+    "TextENGNew": "``Shii-chan...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 189,
+    "MessageID": 50151,
+    "TextENGNew": "Rena and I stopped digging and looked up as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 190,
+    "MessageID": 50152,
+    "TextENGNew": "``Just now, I felt like... someone stroked my head...``",
+    "significantChanges": false
+  },
+  {
+    "index": 191,
+    "MessageID": 50153,
+    "TextENGNew": "After saying that, Shion closed her eyes, her expression rigid. And then--",
+    "significantChanges": false
+  },
+  {
+    "index": 192,
+    "MessageID": 50154,
+    "TextENGNew": "``...Uugh... I...@k@vS18/06/160600259. Uuugh... I...``",
+    "significantChanges": false
+  },
+  {
+    "index": 193,
+    "MessageID": 50155,
+    "TextENGNew": "Amid her sobs, a hoarse voice echoed through the clearing.",
+    "significantChanges": false
+  },
+  {
+    "index": 194,
+    "MessageID": 50156,
+    "TextENGNew": "``I'm sorry...@k@vS18/06/160600261. I'm sorry...@k@vS18/06/160600262. I'm sorry... I'm sorry...``",
+    "significantChanges": false
+  },
+  {
+    "index": 195,
+    "MessageID": 50157,
+    "TextENGNew": "``...Shii-chan?``",
+    "significantChanges": false
+  },
+  {
+    "index": 196,
+    "MessageID": 50158,
+    "TextENGNew": "``...Uuuuuu...@k@vS18/06/160600264. Aaaah, aaaaaaaaaah----!!``",
+    "significantChanges": false
+  },
+  {
+    "index": 197,
+    "MessageID": 50159,
+    "TextENGNew": "Without warning, Shion erupted into a scream that was barely human.",
+    "significantChanges": true,
+    "changeReason": "Old says 'began to scream'; Japanese 声にならない悲鳴 means a scream that couldn't form into words.",
+    "changeScore": 3
+  },
+  {
+    "index": 198,
+    "MessageID": 50160,
+    "TextENGNew": "She thrashed her head wildly, then clamped both hands over her mouth, her whole body trembling.",
+    "significantChanges": true,
+    "changeReason": "Old says 'scratched at her hair'; Japanese means wildly thrashing/shaking her hair.",
+    "changeScore": 3
+  },
+  {
+    "index": 199,
+    "MessageID": 50161,
+    "TextENGNew": "``Shion!@k@vS18/01/160100413. What's wrong?!``",
+    "significantChanges": false
+  },
+  {
+    "index": 200,
+    "MessageID": 50162,
+    "TextENGNew": "I threw down my shovel and caught her by the shoulders.",
+    "significantChanges": false
+  },
+  {
+    "index": 201,
+    "MessageID": 50163,
+    "TextENGNew": "But Shion pushed me aside, mumbling incoherently, and crumpled to the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 202,
+    "MessageID": 50164,
+    "TextENGNew": "``Shion...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 203,
+    "MessageID": 50165,
+    "TextENGNew": "``...I'm definitely going to be killed...``",
+    "significantChanges": false
+  },
+  {
+    "index": 204,
+    "MessageID": 50166,
+    "TextENGNew": "What?",
+    "significantChanges": false
+  },
+  {
+    "index": 205,
+    "MessageID": 50167,
+    "TextENGNew": "``...The curse of Oyashiro-sama... divine punishment is going to fall on me...@k@vS18/06/160600267. That is the ending prepared for me...@k@vS18/06/160600268. I know it...``",
+    "significantChanges": false
+  },
+  {
+    "index": 206,
+    "MessageID": 50168,
+    "TextENGNew": "``Shion, what's gotten into you?@k@vS18/01/160100416. You won't be killed.@k@vS18/01/160100417. I won't let anyone kill you!``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Teppei is the one who's gonna die!' but JPN says 殺されるのは鉄平なんだ, and new says 'I won't let anyone kill you!' -- both diverge from JPN but in different ways. New drops Teppei reference entirely.",
+    "changeScore": 3
+  },
+  {
+    "index": 207,
+    "MessageID": 50169,
+    "TextENGNew": "``That's right.@k@vS18/02/160200280. The curse of Oyashiro-sama would never come for you, Shii-chan...``",
+    "significantChanges": false
+  },
+  {
+    "index": 208,
+    "MessageID": 50170,
+    "TextENGNew": "``I'm not the sort of person everyone thinks I am...@k@vS18/06/160600270. I'm... terrible... a terrible person...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 209,
+    "MessageID": 50171,
+    "TextENGNew": "Shion's eyes were vacant, her expression hollow.",
+    "significantChanges": false
+  },
+  {
+    "index": 210,
+    "MessageID": 50172,
+    "TextENGNew": "``Stop it, Shion.@k@vS18/01/160100419. You're not a sinner!@k@vS18/01/160100420. You're doing the right thing!``",
+    "significantChanges": false
+  },
+  {
+    "index": 211,
+    "MessageID": 50173,
+    "TextENGNew": "Shion shook her head in slow, deliberate movements.",
+    "significantChanges": false
+  },
+  {
+    "index": 212,
+    "MessageID": 50174,
+    "TextENGNew": "``No... I'm the worst...@k@vS18/06/160600272. All this time, I've been even more terrible than Sis... I've done such terrible things...!``",
+    "significantChanges": false
+  },
+  {
+    "index": 213,
+    "MessageID": 50175,
+    "TextENGNew": "``What... are you saying, Shii-chan...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 214,
+    "MessageID": 50176,
+    "TextENGNew": "``The truth is... I've always hated Satoko...``",
+    "significantChanges": false
+  },
+  {
+    "index": 215,
+    "MessageID": 50177,
+    "TextENGNew": "She squeezed the words out as if wringing them from her body, and a single tear traced down her cheek.",
+    "significantChanges": false
+  },
+  {
+    "index": 216,
+    "MessageID": 50178,
+    "TextENGNew": "``Always clinging to Satoshi-kun, always leaning on him, depending on him...@k@vS18/06/160600275. Receiving all of Satoshi-kun's love as if it were her birthright...@k@vS18/06/160600276. I was jealous of her...``",
+    "significantChanges": false
+  },
+  {
+    "index": 217,
+    "MessageID": 50179,
+    "TextENGNew": "``If I could become Satoko, I could be by Satoshi-kun's side forever...@k@vS18/06/160600278. The more I fell in love with Satoshi-kun, the more I envied Satoko... and the more I hated her...``",
+    "significantChanges": true,
+    "changeReason": "Old says 'Satoko was always able to stay by his side'; Japanese says 'If I could become Satoko' -- conditional wish, not fact.",
+    "changeScore": 4
+  },
+  {
+    "index": 218,
+    "MessageID": 50180,
+    "TextENGNew": "Large tears spilled from Shion's eyes.",
+    "significantChanges": false
+  },
+  {
+    "index": 219,
+    "MessageID": 50181,
+    "TextENGNew": "She swiped roughly at her eyes with dirt-caked hands, then collapsed forward, both palms hitting the ground.",
+    "significantChanges": false
+  },
+  {
+    "index": 220,
+    "MessageID": 50182,
+    "TextENGNew": "``In my heart, I wished...@k@vS18/06/160600280. that if Oyashiro-sama truly existed...@k@vS18/06/160600281. please make Satoko unhappy...``",
+    "significantChanges": false
+  },
+  {
+    "index": 221,
+    "MessageID": 50183,
+    "TextENGNew": "``...Shion, you...``",
+    "significantChanges": false
+  },
+  {
+    "index": 222,
+    "MessageID": 50184,
+    "TextENGNew": "``...So Oyashiro-sama really does exist, doesn't it...?@k@vS18/06/160600283. ...Because Satoko's greatest misfortune was Satoshi-kun disappearing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 223,
+    "MessageID": 50185,
+    "TextENGNew": "``Even if we can't see it, it never misses a single whisper we make.@k@vS18/06/160600285. It sees into the depths of our hearts, and it never overlooks anything...``",
+    "significantChanges": false
+  },
+  {
+    "index": 224,
+    "MessageID": 50186,
+    "TextENGNew": "``...That's right.@k@vS18/02/160200283. Oyashiro-sama *exists*.``",
+    "significantChanges": false
+  },
+  {
+    "index": 225,
+    "MessageID": 50187,
+    "TextENGNew": "Rena murmured it quietly, but with unshakable conviction.",
+    "significantChanges": false
+  },
+  {
+    "index": 226,
+    "MessageID": 50188,
+    "TextENGNew": "``Watching over us, even now...``",
+    "significantChanges": false
+  },
+  {
+    "index": 227,
+    "MessageID": 50189,
+    "TextENGNew": "Silence fell.",
+    "significantChanges": false
+  },
+  {
+    "index": 228,
+    "MessageID": 50190,
+    "TextENGNew": "We stood rooted to the spot as if paralyzed.",
+    "significantChanges": false
+  },
+  {
+    "index": 229,
+    "MessageID": 50191,
+    "TextENGNew": "As if to mock us, the cicadas shrieked all around.",
+    "significantChanges": false
+  },
+  {
+    "index": 230,
+    "MessageID": 50192,
+    "TextENGNew": "A gust of wind stirred the weeds at our feet, making them rustle.",
+    "significantChanges": false
+  },
+  {
+    "index": 231,
+    "MessageID": 50193,
+    "TextENGNew": "Something shadowy seemed to close in on us... with the agility and suppleness of a whip... like countless quick, darting footsteps...",
+    "significantChanges": false
+  },
+  {
+    "index": 232,
+    "MessageID": 50194,
+    "TextENGNew": "A nameless, alien sensation invaded my body, racing through every nerve.",
+    "significantChanges": false
+  },
+  {
+    "index": 233,
+    "MessageID": 50195,
+    "TextENGNew": "Like something parasitic had latched onto me, gnawing away at my insides bit by bit.",
+    "significantChanges": false
+  },
+  {
+    "index": 234,
+    "MessageID": 50196,
+    "TextENGNew": "A fierce thirst seized my throat.",
+    "significantChanges": false
+  },
+  {
+    "index": 235,
+    "MessageID": 50197,
+    "TextENGNew": "An irresistible urge to claw at my own skin gripped me.",
+    "significantChanges": false
+  },
+  {
+    "index": 236,
+    "MessageID": 50198,
+    "TextENGNew": "Was this a hallucination, crystallizing inside a body consumed by paranoia...?",
+    "significantChanges": false
+  },
+  {
+    "index": 237,
+    "MessageID": 50199,
+    "TextENGNew": "*Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 238,
+    "MessageID": 50200,
+    "TextENGNew": "*Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 239,
+    "MessageID": 50201,
+    "TextENGNew": "Desperate to shake off the fear and anxiety writhing inside me, I threw myself back into digging.",
+    "significantChanges": false
+  },
+  {
+    "index": 240,
+    "MessageID": 50202,
+    "TextENGNew": "``...Sorry, but I don't believe in any supernatural nonsense!@k@vS18/01/160100424. I chose to believe in you two.@k@vS18/01/160100425. And in Satoko!``",
+    "significantChanges": true,
+    "changeReason": "New drops two full lines from the JPN: 沙都子をこの手で救い出す and もうそれしか頭ん中にはない (saving Satoko with my own hands / that's all I can think about).",
+    "changeScore": 3
+  },
+  {
+    "index": 241,
+    "MessageID": 50203,
+    "TextENGNew": "If my resolve wavered now, my heart would shatter into pieces.",
+    "significantChanges": false
+  },
+  {
+    "index": 242,
+    "MessageID": 50204,
+    "TextENGNew": "I was terrified of what would happen if my hands stopped moving.",
+    "significantChanges": false
+  },
+  {
+    "index": 243,
+    "MessageID": 50205,
+    "TextENGNew": "After watching me in silence for a time, Shion slowly rose to her feet.",
+    "significantChanges": false
+  },
+  {
+    "index": 244,
+    "MessageID": 50206,
+    "TextENGNew": "She picked up her shovel, stood beside me, and began turning the earth once more.",
+    "significantChanges": false
+  },
+  {
+    "index": 245,
+    "MessageID": 50207,
+    "TextENGNew": "``Shion...``",
+    "significantChanges": false
+  },
+  {
+    "index": 246,
+    "MessageID": 50208,
+    "TextENGNew": "*Thud. Thud. Thud. Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 247,
+    "MessageID": 50209,
+    "TextENGNew": "*Crunch. Crunch. Crunch. Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 248,
+    "MessageID": 50210,
+    "TextENGNew": "``You woke me up, Kei-chan.@k@vS18/06/160600287. I think the reason I wanted to save Satoko was partly to atone for what I felt toward Satoshi-kun... I tried to become Satoko... to take her place.``",
+    "significantChanges": false
+  },
+  {
+    "index": 249,
+    "MessageID": 50211,
+    "TextENGNew": "``But I think that was wrong.@k@vS18/06/160600289. I didn't want to become Satoko.@k@vS18/06/160600290. I wanted to become Satoshi-kun.@k@vS18/06/160600291. So I wanted to become like Satoshi-kun and save Satoko!``",
+    "significantChanges": false
+  },
+  {
+    "index": 250,
+    "MessageID": 50212,
+    "TextENGNew": "Shion smiled at me through a face caked in mud.",
+    "significantChanges": false
+  },
+  {
+    "index": 251,
+    "MessageID": 50213,
+    "TextENGNew": "Her expression held the clarity of someone who had laid bare everything inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 252,
+    "MessageID": 50214,
+    "TextENGNew": "We always fill the silences with meaningless chatter instead of saying what we really mean.",
+    "significantChanges": false
+  },
+  {
+    "index": 253,
+    "MessageID": 50215,
+    "TextENGNew": "If we ever spoke our true feelings aloud, we feared our very being would dry out and crumble... That was the damp, creeping madness we were all running from.",
+    "significantChanges": false
+  },
+  {
+    "index": 254,
+    "MessageID": 50216,
+    "TextENGNew": "*Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 255,
+    "MessageID": 50217,
+    "TextENGNew": "*Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 256,
+    "MessageID": 50218,
+    "TextENGNew": "As if fleeing their gazes, I jumped down into the hole and began digging from the inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 257,
+    "MessageID": 50219,
+    "TextENGNew": "If I stopped digging, the tears would fall...",
+    "significantChanges": false
+  },
+  {
+    "index": 258,
+    "MessageID": 50220,
+    "TextENGNew": "I couldn't afford to be swept away by something as lukewarm as sentimentality right now.",
+    "significantChanges": false
+  },
+  {
+    "index": 259,
+    "MessageID": 50221,
+    "TextENGNew": "*Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 260,
+    "MessageID": 50222,
+    "TextENGNew": "*Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 261,
+    "MessageID": 50223,
+    "TextENGNew": "``I'm the same.@k@vS18/01/160100429. That's why I have to save Satoko.@k@vS18/01/160100430. To save her as Keiichi Maebara -- as myself.``",
+    "significantChanges": true,
+    "changeReason": "New drops JPN references to Satoshi and the idea of overcoming resentment, replacing with 'To save her as Keiichi Maebara -- as myself' which alters the motivation.",
+    "changeScore": 3
+  },
+  {
+    "index": 262,
+    "MessageID": 50224,
+    "TextENGNew": "*Thud. Thud. Thud. Thud. Thud. Thud. Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 263,
+    "MessageID": 50225,
+    "TextENGNew": "*Crunch. Crunch. Crunch. Crunch. Crunch. Crunch. Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 264,
+    "MessageID": 50226,
+    "TextENGNew": "As if drawn by my resolve, Rena and Shion both climbed down into the hole and began to dig alongside me.",
+    "significantChanges": false
+  },
+  {
+    "index": 265,
+    "MessageID": 50227,
+    "TextENGNew": "*Thud. Thud. Thud. Thud. Thud. Thud. Thud. Thud. Thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 266,
+    "MessageID": 50228,
+    "TextENGNew": "*Crunch. Crunch. Crunch. Crunch. Crunch. Crunch. Crunch. Crunch. Crunch.*",
+    "significantChanges": false
+  },
+  {
+    "index": 267,
+    "MessageID": 50229,
+    "TextENGNew": "After that, not one of us spoke another word.",
+    "significantChanges": false
+  },
+  {
+    "index": 268,
+    "MessageID": 50230,
+    "TextENGNew": "Every mouth was set in a thin, hard line. Sweat poured freely, unwiped. We surrendered ourselves entirely to the repetitive act of digging.",
+    "significantChanges": false
+  },
+  {
+    "index": 269,
+    "MessageID": 50231,
+    "TextENGNew": "Each of us harbored secret thoughts in our hearts. Forbidden, wicked things.",
+    "significantChanges": false
+  },
+  {
+    "index": 270,
+    "MessageID": 50232,
+    "TextENGNew": "We were all aware of it, yet none of us dared ask. We didn't even ask ourselves.",
+    "significantChanges": false
+  },
+  {
+    "index": 271,
+    "MessageID": 50233,
+    "TextENGNew": "Right now, we couldn't afford the slightest crack in our righteous cause of 'saving a friend.'",
+    "significantChanges": false
+  },
+  {
+    "index": 272,
+    "MessageID": 50234,
+    "TextENGNew": "Confessing might shake our will to kill...",
+    "significantChanges": false
+  },
+  {
+    "index": 273,
+    "MessageID": 50235,
+    "TextENGNew": "Isn't that right?",
+    "significantChanges": false
+  },
+  {
+    "index": 274,
+    "MessageID": 50236,
+    "TextENGNew": "Every human being, if you dig deep enough, is rotten somewhere inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 275,
+    "MessageID": 50237,
+    "TextENGNew": "Some are lucky enough to live and die in peace, never catching a whiff of their own decay.",
+    "significantChanges": false
+  },
+  {
+    "index": 276,
+    "MessageID": 50238,
+    "TextENGNew": "But for those unlucky enough to become aware -- or fated to become aware -- a hell of spreading rot awaits.",
+    "significantChanges": false
+  },
+  {
+    "index": 277,
+    "MessageID": 50239,
+    "TextENGNew": "How ironic.",
+    "significantChanges": false
+  },
+  {
+    "index": 278,
+    "MessageID": 50240,
+    "TextENGNew": "The harder you try to hide it, the wider the wound gapes instead of closing. Just like this hole...",
+    "significantChanges": false
+  },
+  {
+    "index": 279,
+    "MessageID": 50241,
+    "TextENGNew": "And someday, perhaps, we'd rot away entirely...",
+    "significantChanges": false
+  },
+  {
+    "index": 280,
+    "MessageID": 50242,
+    "TextENGNew": "Before I knew it, the sun was beginning to set. Piercing through the thick clouds, the evening light poured down on us.",
+    "significantChanges": false
+  },
+  {
+    "index": 281,
+    "MessageID": 50243,
+    "TextENGNew": "I looked up at the sky from the dim bottom of the hole.",
+    "significantChanges": false
+  },
+  {
+    "index": 282,
+    "MessageID": 50244,
+    "TextENGNew": "``...Think this is enough...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 283,
+    "MessageID": 50245,
+    "TextENGNew": "At my signal, we climbed out of the earth.",
+    "significantChanges": false
+  },
+  {
+    "index": 284,
+    "MessageID": 50246,
+    "TextENGNew": "``We really dug quite a lot...``",
+    "significantChanges": false
+  },
+  {
+    "index": 285,
+    "MessageID": 50247,
+    "TextENGNew": "I tossed the shovel aside, crouched down, and peered into the hole.",
+    "significantChanges": false
+  },
+  {
+    "index": 286,
+    "MessageID": 50248,
+    "TextENGNew": "The shape was irregular since we'd dug from three sides, but it was deeper than we'd planned.",
+    "significantChanges": false
+  },
+  {
+    "index": 287,
+    "MessageID": 50249,
+    "TextENGNew": "It was more than large enough to bury a single body.",
+    "significantChanges": false
+  },
+  {
+    "index": 288,
+    "MessageID": 50250,
+    "TextENGNew": "``...Haah... haah... haah...``",
+    "significantChanges": false
+  },
+  {
+    "index": 289,
+    "MessageID": 50251,
+    "TextENGNew": "My ragged breathing seemed to be swallowed into the depths of the hole.",
+    "significantChanges": false
+  },
+  {
+    "index": 290,
+    "MessageID": 50252,
+    "TextENGNew": "*Clang*... *scrape scrape*... *thud.*",
+    "significantChanges": false
+  },
+  {
+    "index": 291,
+    "MessageID": 50253,
+    "TextENGNew": "The shovel slipped from Rena's exhausted grip and tumbled into the hole.",
+    "significantChanges": false
+  },
+  {
+    "index": 292,
+    "MessageID": 50254,
+    "TextENGNew": "``Oh... what do I do...?@k@vS18/02/160200286. Rena zoned out for a moment...``",
+    "significantChanges": false
+  },
+  {
+    "index": 293,
+    "MessageID": 50255,
+    "TextENGNew": "Rena stretched her arm as far as she could, trying to reach the shovel.",
+    "significantChanges": false
+  },
+  {
+    "index": 294,
+    "MessageID": 50256,
+    "TextENGNew": "But it was far too deep -- the shovel was swallowed by darkness, its shape barely visible.",
+    "significantChanges": false
+  },
+  {
+    "index": 295,
+    "MessageID": 50257,
+    "TextENGNew": "``Can't be helped.@k@vS18/01/160100436. I'll jump down and grab it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 296,
+    "MessageID": 50258,
+    "TextENGNew": "``Right.@k@vS18/06/160600293. We can't leave any evidence behind.``",
+    "significantChanges": false
+  },
+  {
+    "index": 297,
+    "MessageID": 50259,
+    "TextENGNew": "``Sorry, Keiichi-kun...``",
+    "significantChanges": false
+  },
+  {
+    "index": 298,
+    "MessageID": 50260,
+    "TextENGNew": "``Don't worry about it.``",
+    "significantChanges": false
+  },
+  {
+    "index": 299,
+    "MessageID": 50261,
+    "TextENGNew": "I placed my hands on the edge of the hole and leaped down.",
+    "significantChanges": false
+  },
+  {
+    "index": 300,
+    "MessageID": 50262,
+    "TextENGNew": "*Thump.*",
+    "significantChanges": false
+  },
+  {
+    "index": 301,
+    "MessageID": 50263,
+    "TextENGNew": "I botched the landing and toppled over inside.",
+    "significantChanges": false
+  },
+  {
+    "index": 302,
+    "MessageID": 50264,
+    "TextENGNew": "The taste of dirt filled my mouth. I spat frantically and felt around blindly for the shovel.",
+    "significantChanges": false
+  },
+  {
+    "index": 303,
+    "MessageID": 50265,
+    "TextENGNew": "Almost immediately, my fingertips struck cold metal.",
+    "significantChanges": false
+  },
+  {
+    "index": 304,
+    "MessageID": 50266,
+    "TextENGNew": "I grabbed the shovel and stood up, ready to climb out.",
+    "significantChanges": false
+  },
+  {
+    "index": 305,
+    "MessageID": 50267,
+    "TextENGNew": "That was when...",
+    "significantChanges": false
+  },
+  {
+    "index": 306,
+    "MessageID": 50268,
+    "TextENGNew": "*Rrring*...",
+    "significantChanges": false
+  },
+  {
+    "index": 307,
+    "MessageID": 50269,
+    "TextENGNew": "I heard it again -- 'that sound' from inside the wagon.",
+    "significantChanges": false
+  },
+  {
+    "index": 308,
+    "MessageID": 50270,
+    "TextENGNew": "And then...",
+    "significantChanges": false
+  },
+  {
+    "index": 309,
+    "MessageID": 50271,
+    "TextENGNew": "......I could hear them...!",
+    "significantChanges": false
+  },
+  {
+    "index": 310,
+    "MessageID": 50272,
+    "TextENGNew": "Rena and Shion were... deliberately speaking in voices too low for me to hear...!",
+    "significantChanges": false
+  },
+  {
+    "index": 311,
+    "MessageID": 50273,
+    "TextENGNew": "I strained my ears.",
+    "significantChanges": false
+  },
+  {
+    "index": 312,
+    "MessageID": 50274,
+    "TextENGNew": "Focusing every sense I had into my hearing, I strained to catch their conversation, determined not to miss a single word.",
+    "significantChanges": false
+  },
+  {
+    "index": 313,
+    "MessageID": 50275,
+    "TextENGNew": "......'Keiichi'... my name... 'mistake'... 'kill'......?!",
+    "significantChanges": false
+  },
+  {
+    "index": 314,
+    "MessageID": 50276,
+    "TextENGNew": "What? What were the two of them discussing...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 315,
+    "MessageID": 50277,
+    "TextENGNew": "......'Doesn't know'...... 'pathetic'... What did that mean...?@k Were they talking about me...?@k Wait, what...?@k ...'From the beginning'......?!",
+    "significantChanges": false
+  },
+  {
+    "index": 316,
+    "MessageID": 50278,
+    "TextENGNew": "What is this...?@k Those two, could they possibly... no, from the very start, have they been...?!",
+    "significantChanges": false
+  },
+  {
+    "index": 317,
+    "MessageID": 50279,
+    "TextENGNew": "``Urgh...``",
+    "significantChanges": false
+  },
+  {
+    "index": 318,
+    "MessageID": 50280,
+    "TextENGNew": "Unable to hold it in, a groan escaped my lips.",
+    "significantChanges": false
+  },
+  {
+    "index": 319,
+    "MessageID": 50281,
+    "TextENGNew": "Doesn't know anything...?",
+    "significantChanges": false
+  },
+  {
+    "index": 320,
+    "MessageID": 50282,
+    "TextENGNew": "Going to die anyway...?",
+    "significantChanges": false
+  },
+  {
+    "index": 321,
+    "MessageID": 50283,
+    "TextENGNew": "Their opaque conversation... reeked of something sinister.",
+    "significantChanges": false
+  },
+  {
+    "index": 322,
+    "MessageID": 50284,
+    "TextENGNew": "Unable to fathom their true intentions, my consciousness began to slip away.",
+    "significantChanges": false
+  },
+  {
+    "index": 323,
+    "MessageID": 50285,
+    "TextENGNew": "Was a separate plan being hatched behind my back...?",
+    "significantChanges": false
+  },
+  {
+    "index": 324,
+    "MessageID": 50286,
+    "TextENGNew": "Was I not allowed to be part of this other plan...? Or was I already being turned as one of its gears...?",
+    "significantChanges": false
+  },
+  {
+    "index": 325,
+    "MessageID": 50287,
+    "TextENGNew": "Question marks crawled across my mind, blocking rational thought.",
+    "significantChanges": false
+  },
+  {
+    "index": 326,
+    "MessageID": 50288,
+    "TextENGNew": "Desperate to hold onto my sanity, I took deep breath after deep breath.",
+    "significantChanges": false
+  },
+  {
+    "index": 327,
+    "MessageID": 50289,
+    "TextENGNew": "Where on earth was I...?",
+    "significantChanges": false
+  },
+  {
+    "index": 328,
+    "MessageID": 50290,
+    "TextENGNew": "Where on earth was I going...? Where was I being led...?",
+    "significantChanges": false
+  },
+  {
+    "index": 329,
+    "MessageID": 50291,
+    "TextENGNew": "Without warning, the setting sun was blotted out by two shadows.",
+    "significantChanges": false
+  },
+  {
+    "index": 330,
+    "MessageID": 50292,
+    "TextENGNew": "``Keiichi-kun, did you find it?``",
+    "significantChanges": false
+  },
+  {
+    "index": 331,
+    "MessageID": 50293,
+    "TextENGNew": "I raised my head cautiously -- and there were Rena and Shion, looking down at me with innocent smiles.",
+    "significantChanges": false
+  },
+  {
+    "index": 332,
+    "MessageID": 50294,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 333,
+    "MessageID": 50295,
+    "TextENGNew": "``What's wrong?@k@vS18/06/160600297. ...You look awfully pale...``",
+    "significantChanges": false
+  },
+  {
+    "index": 334,
+    "MessageID": 50296,
+    "TextENGNew": "``......``",
+    "significantChanges": false
+  },
+  {
+    "index": 335,
+    "MessageID": 50297,
+    "TextENGNew": "``Keiichi-kun,@k@vS18/02/160200292. here, grab Rena's hand.``",
+    "significantChanges": false
+  },
+  {
+    "index": 336,
+    "MessageID": 50298,
+    "TextENGNew": "Rena reached down toward me with a worried expression. But I hesitated for an instant -- was it truly safe to take her hand...?",
+    "significantChanges": false
+  },
+  {
+    "index": 337,
+    "MessageID": 50299,
+    "TextENGNew": "Was that a hallucination...?",
+    "significantChanges": false
+  },
+  {
+    "index": 338,
+    "MessageID": 50300,
+    "TextENGNew": "It had to be. Just a hallucination.",
+    "significantChanges": false
+  },
+  {
+    "index": 339,
+    "MessageID": 50301,
+    "TextENGNew": "There was no way Rena and Shion would betray me!",
+    "significantChanges": false
+  },
+  {
+    "index": 340,
+    "MessageID": 50302,
+    "TextENGNew": "Was it really a hallucination, though...?",
+    "significantChanges": false
+  },
+  {
+    "index": 341,
+    "MessageID": 50303,
+    "TextENGNew": "Stop it! Stop trying to tear my mind apart! Don't listen!",
+    "significantChanges": false
+  },
+  {
+    "index": 342,
+    "MessageID": 50304,
+    "TextENGNew": "This plan had been plagued by discord from the start.",
+    "significantChanges": false
+  },
+  {
+    "index": 343,
+    "MessageID": 50305,
+    "TextENGNew": "The baffling questions. Those two eyes. The shadows that followed. The silent phone calls. The hidden agendas. And Oyashiro-sama's two hands...",
+    "significantChanges": false
+  },
+  {
+    "index": 344,
+    "MessageID": 50306,
+    "TextENGNew": "Every action I took unraveled another thread. I had been desperately pretending not to see.",
+    "significantChanges": false
+  },
+  {
+    "index": 345,
+    "MessageID": 50307,
+    "TextENGNew": "That's right -- it has to be a hallucination!",
+    "significantChanges": false
+  },
+  {
+    "index": 346,
+    "MessageID": 50308,
+    "TextENGNew": "It was the last scrap of guilt still inside me, trying to hold me back by making me hear things.",
+    "significantChanges": false
+  },
+  {
+    "index": 347,
+    "MessageID": 50309,
+    "TextENGNew": "This was my punishment. The punishment dealt to me for abandoning my humanity.",
+    "significantChanges": false
+  },
+  {
+    "index": 348,
+    "MessageID": 50310,
+    "TextENGNew": "``Keiichi-kun...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 349,
+    "MessageID": 50311,
+    "TextENGNew": "I forced a smile up at Rena as she peered down at me with anxious eyes, then clutched her hand as if clinging to it for dear life.",
+    "significantChanges": false
+  },
+  {
+    "index": 350,
+    "MessageID": 50312,
+    "TextENGNew": "``Ready? One, two, heave!``",
+    "significantChanges": false
+  },
+  {
+    "index": 351,
+    "MessageID": 50313,
+    "TextENGNew": "Pulled by Rena's hands, my body floated upward.",
+    "significantChanges": false
+  },
+  {
+    "index": 352,
+    "MessageID": 50314,
+    "TextENGNew": "Everything before my eyes seemed to flash past like images from a dying man's life.",
+    "significantChanges": false
+  },
+  {
+    "index": 353,
+    "MessageID": 50315,
+    "TextENGNew": "When I looked up, the towering thunderheads that had blanketed the sky had vanished without a trace.",
+    "significantChanges": false
+  },
+  {
+    "index": 354,
+    "MessageID": 50316,
+    "TextENGNew": "The storm I had been counting on was not going to come.",
+    "significantChanges": false
+  },
+  {
+    "index": 355,
+    "MessageID": 50317,
+    "TextENGNew": "Had the scenario I'd written been rewritten without my knowing?",
+    "significantChanges": false
+  },
+  {
+    "index": 356,
+    "MessageID": 50318,
+    "TextENGNew": "Was I nothing but a puppet, forced to dance according to a script penned by someone else...?",
+    "significantChanges": false
+  },
+  {
+    "index": 357,
+    "MessageID": 50319,
+    "TextENGNew": "``It's almost time...``",
+    "significantChanges": false
+  },
+  {
+    "index": 358,
+    "MessageID": 50320,
+    "TextENGNew": "Perhaps sensing my unease, Shion prompted us with a reminder of the deadline.",
+    "significantChanges": false
+  },
+  {
+    "index": 359,
+    "MessageID": 50321,
+    "TextENGNew": "I couldn't think anymore.",
+    "significantChanges": false
+  },
+  {
+    "index": 360,
+    "MessageID": 50322,
+    "TextENGNew": "I was exhausted.",
+    "significantChanges": false
+  },
+  {
+    "index": 361,
+    "MessageID": 50323,
+    "TextENGNew": "All I could do now was follow Rena and Shion as they walked ahead.",
+    "significantChanges": false
+  },
+  {
+    "index": 362,
+    "MessageID": 50324,
+    "TextENGNew": "Without knowing what awaited us at the end...",
+    "significantChanges": false
+  },
+  {
+    "index": 363,
+    "MessageID": 50325,
+    "TextENGNew": "With only the knowledge that tonight, it would all be over...",
+    "significantChanges": false
+  }
+]

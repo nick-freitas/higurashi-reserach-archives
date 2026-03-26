@@ -1,0 +1,396 @@
+[
+  {
+    "index": 2,
+    "MessageID": 3619,
+    "TextENGNew": "In researching Hinamizawa Syndrome, there was one critical matter that had to be addressed before anything else.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 3620,
+    "TextENGNew": "That matter was the catastrophic collapse that would befall the village should anything happen to the queen carrier.",
+    "significantChanges": true,
+    "changeReason": "Old says 'If something happens to the queen carrier, the village will collapse' (simple conditional); new properly frames it as 'the catastrophic collapse that would befall the village' as the topic being discussed, matching the JPN nominal structure.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 3621,
+    "TextENGNew": "My grandfather had sounded the alarm about this in his papers, calling it the most dangerous eventuality of all.",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 3622,
+    "TextENGNew": "According to my grandfather, should the queen carrier die, all ordinary carriers would reach terminal onset within forty-eight hours — based on the average progression time of acute symptoms.",
+    "significantChanges": true,
+    "changeReason": "Old omits 'based on the average progression time of acute symptoms'; new includes this matching JPN 急性発症の平均的時間から見て, providing important scientific context.",
+    "changeScore": 3
+  },
+  {
+    "index": 6,
+    "MessageID": 3623,
+    "TextENGNew": "This may sound outlandish at first, but a careful study of strange local religious collapses and mass suicides recorded throughout the world reveals it as a pattern of truth.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 3624,
+    "TextENGNew": "Among the world's inexplicable incidents, a number appear to have been caused by parasitic infections that dominated entire communities — very much akin to Hinamizawa Syndrome.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 3625,
+    "TextENGNew": "…Grandfather had singled out cases bearing the closest resemblance to Hinamizawa Syndrome and studied them with meticulous care.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 3626,
+    "TextENGNew": "In doing so, he confirmed multiple cases in which the death of a religious leader or figurehead had triggered communal frenzy, ending in total annihilation.",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 3627,
+    "TextENGNew": "He concluded that the average span for this process was within forty-eight hours.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 3628,
+    "TextENGNew": "Indeed, there was no doubt that ordinary carriers were subject to some influence from the queen carrier. Statistical evidence confirmed that the queen's health directly affected the entire village.",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 3629,
+    "TextENGNew": "Our data had already shown that in any week when Rika fell ill and visited the clinic, the number of other patients arriving was markedly higher than usual.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 3630,
+    "TextENGNew": "If even a common cold produced results so dramatic, then it was hardly far-fetched to suppose that something truly dire happening to Rika would bring catastrophe within forty-eight hours.",
+    "significantChanges": true,
+    "changeReason": "Old says 'we'd be facing a serious situation'; new says 'it was hardly far-fetched to suppose' preserving the logical argument structure of JPN 決して逸脱した話ではなかった (it was not an exaggeration).",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 3631,
+    "TextENGNew": "For that reason, the Irie Institute was compelled to hold the protection of queen carrier Rika Furude as a paramount mission — one equal in weight to the research itself.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 3632,
+    "TextENGNew": "We had already secured her cooperation as a research subject, but we could not, under any circumstances, allow her life to be placed at risk —",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 3633,
+    "TextENGNew": "…nor could we permit any malicious party who learned of her existence to take her life.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 3634,
+    "TextENGNew": "Her life was, in every sense, the lives of two thousand villagers made one.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 3635,
+    "TextENGNew": "And yet.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 3636,
+    "TextENGNew": "…And yet, if some accumulation of errors were to result in the fatal outcome — the death of the queen carrier.",
+    "significantChanges": true,
+    "changeReason": "Old says 'What if something happens to her by accident?'; new says 'if some accumulation of errors were to result in the fatal outcome' -- JPN 何かの間違いが重なり致命的事態として is much more specific about 'accumulation of errors' and 'fatal outcome.'",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 3637,
+    "TextENGNew": "…The Irie Institute had to have a response prepared even for that eventuality.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 3638,
+    "TextENGNew": "That was why, in the early days of the Institute's establishment, I had drafted an emergency operations manual.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 3639,
+    "TextENGNew": "If, by some worst-case chance.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has the following line's content about emergency procedures; JPN simply says もしも万が一 (if by some worst-case chance).",
+    "changeScore": 5
+  },
+  {
+    "index": 23,
+    "MessageID": 3640,
+    "TextENGNew": "Should the queen carrier die, or should some other cause trigger mass acute onset among all ordinary carriers—",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has '48-hour emergency procedure'; JPN describes queen carrier death triggering mass acute onset.",
+    "changeScore": 5
+  },
+  {
+    "index": 24,
+    "MessageID": 3641,
+    "TextENGNew": "—an emergency measure that must be executed within forty-eight hours of that mass onset.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'prevent damage from spreading'; JPN is about the 48-hour emergency measure.",
+    "changeScore": 5
+  },
+  {
+    "index": 25,
+    "MessageID": 3642,
+    "TextENGNew": "......A last resort to prevent the damage from spreading to neighboring areas.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'plan uses gas, natural disaster'; JPN is about preventing damage from spreading to neighboring areas.",
+    "changeScore": 5
+  },
+  {
+    "index": 26,
+    "MessageID": 3643,
+    "TextENGNew": "That was the \"Final Operation\"—disguised as a natural disaster, it would bury the truth in darkness forever...",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'Alphabet Project took responsibility'; JPN describes the 'Final Operation' disguised as natural disaster.",
+    "changeScore": 5
+  },
+  {
+    "index": 27,
+    "MessageID": 3644,
+    "TextENGNew": "The specifics of the operation were handled entirely by my client, the Alphabet Project.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'nuclear and biological weapons'; JPN says the Alphabet Project handled operation specifics.",
+    "changeScore": 5
+  },
+  {
+    "index": 28,
+    "MessageID": 3645,
+    "TextENGNew": "As participants in a project accustomed to handling dangerous materials, they were remarkably efficient in everything from planning to organizational structure, and I was immensely grateful.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'execute two thousand villagers'; JPN praises the project participants' efficiency in planning.",
+    "changeScore": 5
+  },
+  {
+    "index": 29,
+    "MessageID": 3646,
+    "TextENGNew": "...An amateur like me could never have devised a plan to deceive the public and erase the \"facts,\" even for a village this small.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'GSDF secured quarry'; JPN says an amateur couldn't devise a plan to deceive the public.",
+    "changeScore": 5
+  },
+  {
+    "index": 30,
+    "MessageID": 3647,
+    "TextENGNew": "The GSDF, through a dummy company, acquired a disused quarry in the Yagouchi district upstream of Hinamizawa.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'secret storage base'; JPN describes GSDF acquiring quarry through dummy company.",
+    "changeScore": 5
+  },
+  {
+    "index": 31,
+    "MessageID": 3648,
+    "TextENGNew": "This site was designated as a secret stockpile base for operational equipment.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'deadly gas equipment + GSDF destroys'; JPN simply says it was designated a secret stockpile base.",
+    "changeScore": 5
+  },
+  {
+    "index": 32,
+    "MessageID": 3649,
+    "TextENGNew": "When the emergency manual was activated, a GSDF special forces unit would use the equipment deployed there to carry out the operation.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'politically dangerous'; JPN describes GSDF special forces executing the operation.",
+    "changeScore": 5
+  },
+  {
+    "index": 33,
+    "MessageID": 3650,
+    "TextENGNew": "Yet even the mere act of preparing equipment of such extreme danger carried significant political risk.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old oversimplifies/combines multiple concepts; JPN is specifically about political risk of preparing dangerous equipment.",
+    "changeScore": 5
+  },
+  {
+    "index": 34,
+    "MessageID": 3651,
+    "TextENGNew": "To convince them to proceed with preparation regardless, I had to explain the gravely dangerous nature of Hinamizawa Syndrome and make them understand why a contingency response was necessary.",
+    "significantChanges": true,
+    "changeReason": "Old significantly oversimplifies: reduces a detailed sentence about explaining Hinamizawa Syndrome's danger and contingency necessity to 'prove the need by showing them enough data.'",
+    "changeScore": 3
+  },
+  {
+    "index": 35,
+    "MessageID": 3652,
+    "TextENGNew": "I had to demonstrate through documentation just how necessary the Final Operation truly was.",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'grandfather's files come in handy'; JPN is about demonstrating the Final Operation's necessity through documentation.",
+    "changeScore": 5
+  },
+  {
+    "index": 36,
+    "MessageID": 3653,
+    "TextENGNew": "For that purpose, the research materials my grandfather had quietly cultivated over so many years proved invaluable…",
+    "significantChanges": true,
+    "changeReason": "Content misalignment: old has 'clients read grandfather's articles'; JPN says grandfather's long-cultivated research materials proved invaluable.",
+    "changeScore": 5
+  },
+  {
+    "index": 37,
+    "MessageID": 3654,
+    "TextENGNew": "The clients read copies of my grandfather's papers and appeared genuinely shaken by the magnitude of catastrophe that Hinamizawa Syndrome could unleash in a worst-case scenario.",
+    "significantChanges": true,
+    "changeReason": "Old has truncated content 'they were surprised to see how catastrophic things could be' continuing displaced text; new provides the full proper translation of the clients being shaken by the catastrophe potential.",
+    "changeScore": 3
+  },
+  {
+    "index": 38,
+    "MessageID": 3655,
+    "TextENGNew": "\"…So what you are saying is, if something were to happen to this one girl — the queen — all two thousand-odd villagers would fall into madness…?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 39,
+    "MessageID": 3656,
+    "TextENGNew": "\"Yes. In several cases bearing a close resemblance to Hinamizawa Syndrome, mass suicide was not an uncommon outcome —\"",
+    "significantChanges": false
+  },
+  {
+    "index": 40,
+    "MessageID": 3657,
+    "TextENGNew": "\"In the case of this syndrome, however, the intense paranoia and heightened sense of crisis could lead to extreme acts of self-defense. We estimate the damage would not be contained to the two thousand carriers alone.\"",
+    "significantChanges": true,
+    "changeReason": "Old omits dialogue quote formatting and runs lines together; new properly attributes and translates Takano's statement about mass suicide outcomes.",
+    "changeScore": 3
+  },
+  {
+    "index": 41,
+    "MessageID": 3658,
+    "TextENGNew": "\"Beginning with anarchic riots, they would give rise to aberrant conditions — grotesque violence, or perhaps something resembling a religious apocalypse.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 42,
+    "MessageID": 3659,
+    "TextENGNew": "\"If we have no preemptive suppression measures in place, drawing international attention will be unavoidable. And we must bear in mind — from the moment the situation arises, we have only forty-eight hours.\"",
+    "significantChanges": true,
+    "changeReason": "Old runs Takano's two dialogue lines together without proper separation; new properly structures them with the crucial 'we have only forty-eight hours' emphasis.",
+    "changeScore": 3
+  },
+  {
+    "index": 43,
+    "MessageID": 3660,
+    "TextENGNew": "\"…In other words, once it begins, no one can stop it.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 44,
+    "MessageID": 3661,
+    "TextENGNew": "\"Is it truly impossible to treat all the carriers within forty-eight hours?\"",
+    "significantChanges": false
+  },
+  {
+    "index": 45,
+    "MessageID": 3662,
+    "TextENGNew": "\"Out of the question. We have yet to even establish a treatment method, and the Institute is not physically capable of accommodating the entire village.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 46,
+    "MessageID": 3663,
+    "TextENGNew": "\"…To think there exists a disease as terrifying and strange as this… The world is an incomprehensible place.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 47,
+    "MessageID": 3664,
+    "TextENGNew": "``Being prepared at all times for the worst is the essence of national defense — and of the Alphabet Project's founding principles. The goal is not to use this plan. The goal is to have it ready.``",
+    "significantChanges": true,
+    "changeReason": "Old runs two separate ideas together; new properly separates 'the essence of national defense and the Alphabet Project's principles' from 'The goal is not to use this plan. The goal is to have it ready.'",
+    "changeScore": 3
+  },
+  {
+    "index": 48,
+    "MessageID": 3665,
+    "TextENGNew": "\"Indeed. Precisely as you say. There are matters regarding the operational guidelines — strengthening the chain of approval authority and so forth — that I would still like to examine, but I understand that preparedness for a worst-case scenario is necessary.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 49,
+    "MessageID": 3666,
+    "TextENGNew": "\"Let us have the urban-silence warfare research team run a simulation of a silence operation in the Hinamizawa district. I believe this should be carried out without delay.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 50,
+    "MessageID": 3667,
+    "TextENGNew": "\"Even as we speak, it is possible that the girl — the queen carrier — could be struck by a car and killed at any moment. Thank you, Major Takano. We have further questions, so please, take your seat.\"",
+    "significantChanges": false
+  },
+  {
+    "index": 51,
+    "MessageID": 3668,
+    "TextENGNew": "Thanks to a quiet push from one of my backers, the matter was settled without significant resistance.",
+    "significantChanges": false
+  },
+  {
+    "index": 52,
+    "MessageID": 3669,
+    "TextENGNew": "The briefing consumed nearly an entire day, yet objections were few.",
+    "significantChanges": false
+  },
+  {
+    "index": 53,
+    "MessageID": 3670,
+    "TextENGNew": "Not one person called my grandfather's papers foolish, or dismissed them with contempt.",
+    "significantChanges": false
+  },
+  {
+    "index": 54,
+    "MessageID": 3671,
+    "TextENGNew": "…Among the documents I had them reading today were those very papers — the ones that arrogant authorities had once trampled underfoot along with my grandfather's heart, leaving their bootprints behind.",
+    "significantChanges": false
+  },
+  {
+    "index": 55,
+    "MessageID": 3672,
+    "TextENGNew": "And yet, not a single person here mocked them. They held in their hands what had once been kicked aside, and they read.",
+    "significantChanges": false
+  },
+  {
+    "index": 56,
+    "MessageID": 3673,
+    "TextENGNew": "It may seem like a small thing, at a glance. But this was the moment my grandfather's research was recognized for the very first time…",
+    "significantChanges": false
+  },
+  {
+    "index": 57,
+    "MessageID": 3674,
+    "TextENGNew": "Watching them hold my grandfather's documents, point to the pages, and raise them aloft as they debated — I felt something fill my chest to the brim.",
+    "significantChanges": false
+  },
+  {
+    "index": 58,
+    "MessageID": 3675,
+    "TextENGNew": "…Ah. I understood then — this was what I had been working toward all this time…",
+    "significantChanges": false
+  },
+  {
+    "index": 59,
+    "MessageID": 3676,
+    "TextENGNew": "Grandpa, up in heaven… can you see this…?",
+    "significantChanges": false
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "A Phone Call Late at Night",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"Late-Night Phone Call\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13581,
+    "TextENGNew": "``Excuse me for calling so late... This is Kimiyoshi—am I speaking with the head of the household?@k@vS20/00/kimiM44002. ...Yes!@k@vS20/00/kimiM44003. No, not at all. Thank you so much for that.``",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13582,
+    "TextENGNew": "``Yes. ...Well, the thing is,@k@vS20/00/kimiM44005. ...I’m terribly sorry to call at this hour,@k@vS20/00/kimiM44006. but I was wondering if our grandfather might be visiting you.``",
+    "significantChanges": true,
+    "changeReason": "Old says 'our old man'; new says 'our grandfather.' The JPN お爺ちゃん specifically means 'grandfather.' Also, old version lacks dialogue quotation marks.",
+    "changeScore": 2
+  },
+  {
+    "index": 3,
+    "MessageID": 13583,
+    "TextENGNew": "``...Right, of course! Yes!@k@vS20/00/kimiM44008. I’m very sorry for disturbing you so late.@k@vS20/00/kimiM44009. Well then, please excuse me.@k@vS20/00/kimiM44010. Good night...``",
+    "significantChanges": true,
+    "changeReason": "The new version restructures the farewell lines to match the JPN more accurately. Old combines apology and goodbye differently; new follows the JPN sequence: apologize for the disturbance, then 'please excuse me,' then 'good night,' matching the distinct JPN phrases.",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 13584,
+    "TextENGNew": "``How’d it go? No luck?``",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 13585,
+    "TextENGNew": "``This is a problem... No matter how absorbed he gets in something, he always at least gives us a call!``",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13586,
+    "TextENGNew": "``You called everyone he plays Go with, right?``",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13587,
+    "TextENGNew": "Briiiiiiing...!!",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13588,
+    "TextENGNew": "``Hello! This is Kimiyoshi.``",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 13589,
+    "TextENGNew": "``This is Sonozaki. Any news?@k@vS20/03/440300079. Have you found the mayor?``",
+    "significantChanges": false
+  },
+  {
+    "index": 10,
+    "MessageID": 13590,
+    "TextENGNew": "``Oh, Mion-chan. ...I’ve called everyone I can think of, but nothing.@k@vS20/00/kimiM44014. I can’t find him...@k@vS20/00/kimiM44015. What do I do...?!@k@vS20/00/kimiM44016. Where on earth could he be...?``",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 13591,
+    "TextENGNew": "``I’ve made inquiries with everyone I could think of on my end as well, but... nothing at all.``",
+    "significantChanges": false
+  },
+  {
+    "index": 12,
+    "MessageID": 13592,
+    "TextENGNew": "``......................``",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13593,
+    "TextENGNew": "``I consulted with Grandma, and she thinks we should assemble the youth association and search for him.``",
+    "significantChanges": true,
+    "changeReason": "Old translates 婆っちゃ as 'Nana' and 青年団 as 'men of the village'; new translates them as 'Grandma' and 'youth association.' 青年団 specifically means 'youth association' (a formal village organization), not just 'men of the village.'",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 13594,
+    "TextENGNew": "``A-At this hour...? Besides, it’s not as if he’s definitely gone missing...``",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 13595,
+    "TextENGNew": "``It’s right after Watanagashi, so she says we should handle this carefully.@k@vS20/03/440300083. If we still can’t find him, we’ll report it to the police first thing in the morning.@k@vS20/03/440300084. Whether or not we find him, it’s better not to invite unnecessary scrutiny.``",
+    "significantChanges": true,
+    "changeReason": "Old translates 痛くない腹を探られない方がいい as 'we should refrain from making any false accusations'; new renders it as 'it's better not to invite unnecessary scrutiny.' The JPN idiom literally means 'better not to have an innocent belly probed' — meaning avoiding drawing suspicion to oneself, not about making accusations.",
+    "changeScore": 4
+  },
+  {
+    "index": 16,
+    "MessageID": 13596,
+    "TextENGNew": "``...Oryou-san said that?``",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 13597,
+    "TextENGNew": "``Yes. If you won’t believe me without hearing it from her directly, I can put her on the line.``",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 13598,
+    "TextENGNew": "``N-No, that’s not necessary...! I understand.@k@vS20/00/kimiM44021. We’ll assemble the youth association and search.@k@vS20/00/kimiM44022. If we still can’t find him... we’ll notify the police in the morning.``",
+    "significantChanges": true,
+    "changeReason": "Old translates 青年団 as 'the men'; new correctly uses 'youth association,' matching the JPN term for a specific village organization.",
+    "changeScore": 3
+  },
+  {
+    "index": 19,
+    "MessageID": 13599,
+    "TextENGNew": "``I’ll leave the youth association phone tree to you. I’ll be heading over as well, as Grandma’s representative.``",
+    "significantChanges": true,
+    "changeReason": "Old translates 連絡網 as 'organize the men' and 婆っちゃ as 'Nana'; new uses 'phone tree' for 連絡網 (which specifically means a contact/phone tree network) and 'Grandma' for 婆っちゃ. Also, the subject of 'leave it to you' shifts — old says 'She'll leave it,' new says 'I'll leave it,' matching the JPN where Mion is the speaker making the request.",
+    "changeScore": 3
+  },
+  {
+    "index": 20,
+    "MessageID": 13600,
+    "TextENGNew": "``Th-Thank you. I’ll get everyone together right away...``",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 13601,
+    "TextENGNew": "``Very well. I’ll see you there.``",
+    "significantChanges": true,
+    "changeReason": "Old translates えぇ。では as 'Thanks. I'll talk to you later'; new says 'Very well. I'll see you there.' The JPN では means 'well then/farewell' not 'thanks,' and Mion is about to go to Kimiyoshi's location, so 'I'll see you there' better reflects the context.",
+    "changeScore": 2
+  }
+]

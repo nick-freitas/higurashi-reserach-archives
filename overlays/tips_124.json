@@ -1,0 +1,103 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "Foreword of the Faded Notebook",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"A Faded Notebook\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 16019,
+    "TextENGNew": "No one knows when God will descend.",
+    "significantChanges": true,
+    "changeReason": "Old substitutes an elaborate King James Bible passage for what is a simple statement in Japanese, introducing Christian-specific theology not present in the source.",
+    "changeScore": 4
+  },
+  {
+    "index": 2,
+    "MessageID": 16020,
+    "TextENGNew": "It is like not knowing when a thief will come.",
+    "significantChanges": true,
+    "changeReason": "Old substitutes an elaborate King James Bible passage for what is a simple statement in Japanese, introducing Christian-specific theology not present in the source.",
+    "changeScore": 4
+  },
+  {
+    "index": 3,
+    "MessageID": 16021,
+    "TextENGNew": "Therefore, keep watch always, so that when that hour arrives unexpectedly, you will not regret your lack of faith.",
+    "significantChanges": true,
+    "changeReason": "Old substitutes an elaborate King James Bible passage for what is a simple statement in Japanese, introducing Christian-specific theology not present in the source.",
+    "changeScore": 4
+  },
+  {
+    "index": 4,
+    "MessageID": 16022,
+    "TextENGNew": "Even God himself does not know when that day will come.",
+    "significantChanges": true,
+    "changeReason": "The original adds \"once more\" (implying a return/second coming) and \"descend\" which are not in the Japanese. The Japanese simply says even God cannot know when that day will be—the new translation is a closer rendering without the added theological connotation.",
+    "changeScore": 2
+  },
+  {
+    "index": 5,
+    "MessageID": 16023,
+    "TextENGNew": "He keeps constant vigil so that he will be ready whenever the moment arrives.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 16024,
+    "TextENGNew": "Always believe in the god within you.",
+    "significantChanges": true,
+    "changeReason": "The original says \"your God\" (an external deity) while the new says \"the god within you,\" which matches the Japanese 自分の中の神 (the god inside oneself). This is a significant theological/philosophical difference—internal divinity vs. external deity.",
+    "changeScore": 3
+  },
+  {
+    "index": 7,
+    "MessageID": 16025,
+    "TextENGNew": "For even that god does not know when the light will shine upon him.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 16026,
+    "TextENGNew": "Spare no effort.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 16027,
+    "TextENGNew": "Be diligent always.",
+    "significantChanges": true,
+    "changeReason": "The original narrows 勤勉 (diligence) to specifically \"study,\" implying academic work. The new translation preserves the broader meaning of the Japanese—a general exhortation to diligence in all endeavors, not just studying.",
+    "changeScore": 2
+  },
+  {
+    "index": 10,
+    "MessageID": 16028,
+    "TextENGNew": "Bring passion to your pursuit of knowledge.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 16029,
+    "TextENGNew": "Not even God knows when the day of reward will come, but that day is promised.",
+    "significantChanges": true,
+    "changeReason": "The original omits the reference to God (神) present in the Japanese, saying only \"you never know.\" The Japanese specifically states that not even God knows, which ties this passage thematically to the earlier lines about divine uncertainty.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 16030,
+    "TextENGNew": "Until that promised day, I shall never let the fire of my passion be extinguished.",
+    "significantChanges": true,
+    "changeReason": "The original uses second person \"you must\" while the Japanese uses first person 私は (I). This changes who is speaking and to whom—the Japanese is a personal declaration of resolve, not advice directed at someone else.",
+    "changeScore": 3
+  },
+  {
+    "index": 13,
+    "MessageID": 16031,
+    "TextENGNew": "Hifumi. T",
+    "significantChanges": false
+  }
+]

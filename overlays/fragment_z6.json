@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "MessageID": 11369,
+    "TextENGNew": "...Welcome to Hint XII.",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 11370,
+    "TextENGNew": "I'll tell you the conditions for unlocking G3 June 1983 in the World of 1983.",
+    "significantChanges": true,
+    "changeReason": "Singular 'condition' changed to plural 'conditions' — the JP 出現条件 implies multiple prerequisites (as shown in the next entry listing two requirements).",
+    "changeScore": 1
+  },
+  {
+    "index": 3,
+    "MessageID": 11371,
+    "TextENGNew": "H1 Keiichi Maebara in the World of Friends\nG4 An Invitation Toward the End in the World of 1983\n...After viewing the above fragments, this one will become available.",
+    "significantChanges": true,
+    "changeReason": "Fragment title differs: 'An Invitation to an End' vs 'An Invitation Toward the End' — 終末への誘い uses へ (toward), making the new translation's directional nuance more accurate. Also 'pieces' changed to 'fragments' (カケラ).",
+    "changeScore": 2
+  },
+  {
+    "index": 4,
+    "MessageID": 11372,
+    "TextENGNew": "And—\nJ1 A Fragment of Himatsubushi in the World of Beginnings\nJ2 A Fragment of Onikakushi in the World of Beginnings\nJ3 A Fragment of Watanagashi in the World of Beginnings\nJ4 A Fragment of Tatarigoroshi in the World of Beginnings\nJ5 A Fragment of Someutsushi in the World of Beginnings\nJ6 A Fragment of Hirukowashi in the World of Beginnings\n...These fragments are also connected to their appearance.",
+    "significantChanges": true,
+    "changeReason": "The relationship description changes from 'will be involved in their unlocking' to 'connected to their appearance' — different framing of how this fragment relates to the listed ones (出現に関わってくる refers to appearance/emergence conditions).",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 11373,
+    "TextENGNew": "Good luck.",
+    "significantChanges": false
+  }
+]

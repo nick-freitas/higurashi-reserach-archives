@@ -1,0 +1,156 @@
+[
+  {
+    "index": 1,
+    "MessageID": 9615,
+    "TextENGNew": "[Incident Report 1: Indiscriminate Assault by a Female Middle School Student]",
+    "significantChanges": true,
+    "changeReason": "New translation specifies 'middle school student' (女子中学生) and clarifies the student committed the assault, matching the Japanese more precisely.",
+    "changeScore": 2
+  },
+  {
+    "index": 2,
+    "MessageID": 9616,
+    "TextENGNew": "＜This document contains confidential information and is not for public release.＞",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 9617,
+    "TextENGNew": "1. Date of Occurrence\nApril ■■, Showa 57 (1982)",
+    "significantChanges": true,
+    "changeReason": "New translation retains the Japanese era date 'Showa 57' alongside the Western year, matching the original text's format.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 9618,
+    "TextENGNew": "2. Location\nIbaraki Prefecture, ■■ City, ■■ Junior High School",
+    "significantChanges": false
+  },
+  {
+    "index": 5,
+    "MessageID": 9619,
+    "TextENGNew": "3. Summary\nA local resident filed a report with the Ibaraki Prefectural Police Headquarters communications dispatch center, stating that they had heard students screaming and the sound of something being destroyed on the premises of ■■ Junior High School.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 9620,
+    "TextENGNew": "In response, two officers from the ■■ City ■■ Police Box — the nearest outpost to the scene, under the jurisdiction of the ■■ Police Station — were dispatched.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 9621,
+    "TextENGNew": "One of the officers arrived at the scene, was guided by a student to a hallway on the first floor of the school building, and found female student A being restrained by three physical education teachers near the entrance.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 9622,
+    "TextENGNew": "A blood-soaked baseball bat was found on the floor nearby. The officer concluded that a violent assault had occurred and determined to arrest the suspect on the spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 9,
+    "MessageID": 9623,
+    "TextENGNew": "...However, they were stopped by Vice Principal ■■■■■ and Year Head ■■■ who arrived shortly afterward, and the group moved to the infirmary in order to attend first to the injured teachers and student A.",
+    "significantChanges": true,
+    "changeReason": "Old mistranslates 学年主任 as 'guidance counselor' (should be 'Year Head') and omits that injured teachers also needed treatment — institutional detail error, but the core event flow is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 9624,
+    "TextENGNew": "Meanwhile, another officer was guided by a female student named ■■■ to the rear of a storage shed near the pool, where three male students were found groaning in agony with blood flowing from their heads.",
+    "significantChanges": false
+  },
+  {
+    "index": 11,
+    "MessageID": 9625,
+    "TextENGNew": "Determining that all three had suffered dangerous levels of blood loss, the officer used their police radio to call for an ambulance, and the students were transported to the nearby ■■ Emergency Hospital.",
+    "significantChanges": true,
+    "changeReason": "New translation correctly renders ■■救急病院 as 'Emergency Hospital' rather than just 'hospital,' specifying the type of medical facility.",
+    "changeScore": 2
+  },
+  {
+    "index": 12,
+    "MessageID": 9626,
+    "TextENGNew": "After that, a discussion was held in the infirmary, during which the teachers argued at length about the harmful effects on minors of being placed under arrest. The two officers ultimately abandoned the plan to arrest the suspect on the spot.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 9627,
+    "TextENGNew": "They shifted instead to voluntary guidance of student A, and handed off the matter to an investigator from the ■■ Station Juvenile Division who arrived on scene.",
+    "significantChanges": true,
+    "changeReason": "Old omits the shift to 'voluntary guidance' (任意による補導) and says 'for arbitration'; procedural detail is inaccurate but the core action of transferring to police juvenile division is preserved.",
+    "changeScore": 3
+  },
+  {
+    "index": 14,
+    "MessageID": 9628,
+    "TextENGNew": "4. Casualties\nFive victims in total. Three male students sustained serious injuries; one female student and one physical education teacher sustained minor injuries.",
+    "significantChanges": false
+  },
+  {
+    "index": 15,
+    "MessageID": 9629,
+    "TextENGNew": "5. Questioning\nStudent A refused to make any statement during questioning by the Juvenile Division investigator. She maintained complete silence not only regarding questions about the incident, but on ordinary topics of conversation as well.",
+    "significantChanges": false
+  },
+  {
+    "index": 16,
+    "MessageID": 9630,
+    "TextENGNew": "It was further discovered that student A had a history of outpatient psychiatric treatment going back approximately one year. In response, student A was transferred to the psychiatric ward of ■■ General Hospital.",
+    "significantChanges": false
+  },
+  {
+    "index": 17,
+    "MessageID": 9631,
+    "TextENGNew": "Based on a counseling physician's diagnosis that \"student A is showing signs of psychological imbalance,\" the Juvenile Division decided to hold off on referring the case to prosecution.",
+    "significantChanges": false
+  },
+  {
+    "index": 18,
+    "MessageID": 9632,
+    "TextENGNew": "This information has been designated as confidential at the request of the Ministry of Education, with the National Police Agency Public Relations Office determining that it will not be disclosed to the media.",
+    "significantChanges": false
+  },
+  {
+    "index": 19,
+    "MessageID": 9633,
+    "TextENGNew": "6. Supplementary Notes\nThe cause and reason for the incident remain entirely unknown. The counseling physician's assessment suggested it may be related to stress from family life and academics, but no confirmation could be obtained.",
+    "significantChanges": false
+  },
+  {
+    "index": 20,
+    "MessageID": 9634,
+    "TextENGNew": "It has also come to light what ■■■■ and the male students were discussing prior to the incident. According to testimony from female student ■■■, they were talking about the event they were planning for the school cultural festival several months away.",
+    "significantChanges": false
+  },
+  {
+    "index": 21,
+    "MessageID": 9635,
+    "TextENGNew": "The planned event was a haunted house based on ghost stories passed down in the local region.",
+    "significantChanges": false
+  },
+  {
+    "index": 22,
+    "MessageID": 9636,
+    "TextENGNew": "Furthermore, it was said that ■■■■, the most seriously injured of the three, was the leader of the event, while student A's friend ■■■ served as an assistant.",
+    "significantChanges": false
+  },
+  {
+    "index": 23,
+    "MessageID": 9637,
+    "TextENGNew": "According to ■■■, while student A was at first enthusiastic about the haunted house, she became apprehensive upon learning that it would be based on real stories, and entreated ■■■ to reconsider.",
+    "significantChanges": false
+  },
+  {
+    "index": 24,
+    "MessageID": 9638,
+    "TextENGNew": "Careful questioning of ■■■ is still ongoing to determine the precise nature of that discussion...",
+    "significantChanges": false
+  }
+]

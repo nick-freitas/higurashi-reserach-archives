@@ -1,0 +1,99 @@
+[
+  {
+    "index": 0,
+    "ENGNew": "From the Scrapbook VI",
+    "significantChanges": true,
+    "changeReason": "Improved translation from Japanese. Old: \"From The Scrapbook VI\"",
+    "changeScore": 2
+  },
+  {
+    "index": 1,
+    "MessageID": 13557,
+    "TextENGNew": "<The Significance of Watanagashi>",
+    "significantChanges": false
+  },
+  {
+    "index": 2,
+    "MessageID": 13558,
+    "TextENGNew": "Watanagashi—a festival of hunting sacrifices and feasting upon them.",
+    "significantChanges": false
+  },
+  {
+    "index": 3,
+    "MessageID": 13559,
+    "TextENGNew": "While the act itself is abnormal, it has also come to be viewed as carrying an element of entertainment.",
+    "significantChanges": true,
+    "changeReason": "The original translates 異常な as \"remarkable\" while the new version uses \"abnormal,\" which is closer to the Japanese meaning. 異常 means abnormal/anomalous, not merely remarkable—this shifts the reader's understanding of how the author views the ritual.",
+    "changeScore": 3
+  },
+  {
+    "index": 4,
+    "MessageID": 13560,
+    "TextENGNew": "(Perhaps the very incongruity of finding entertainment in something so aberrant was how they convinced themselves they had transcended humanity.)",
+    "significantChanges": true,
+    "changeReason": "The new translation specifies they transcended \"humanity\" (人間を超越した) rather than just being \"transcendent\" generically. It also more accurately captures 無理 as the incongruity/impossibility of finding entertainment in something aberrant, rather than the original's vaguer \"disparity.\"",
+    "changeScore": 3
+  },
+  {
+    "index": 5,
+    "MessageID": 13561,
+    "TextENGNew": "However, I have found an intriguing piece of literature that challenges this interpretation.",
+    "significantChanges": false
+  },
+  {
+    "index": 6,
+    "MessageID": 13562,
+    "TextENGNew": "As an oral tradition, it cannot be taken at face value, but certain details are quite thought-provoking.",
+    "significantChanges": false
+  },
+  {
+    "index": 7,
+    "MessageID": 13563,
+    "TextENGNew": "According to this account, even the residents of Onigafuchi Village felt fear toward this ritual.",
+    "significantChanges": false
+  },
+  {
+    "index": 8,
+    "MessageID": 13564,
+    "TextENGNew": "This is an extremely interesting variant account.",
+    "significantChanges": true,
+    "changeReason": "The new translation renders 異聞 as \"variant account\" rather than \"tale,\" which is more precise—異聞 specifically means an alternate or variant tradition/account, not just any tale. This distinction matters for the academic/research context of the narrator.",
+    "changeScore": 2
+  },
+  {
+    "index": 9,
+    "MessageID": 13565,
+    "TextENGNew": "Until now, I had assumed that the residents of Onigafuchi Village derived a kind of ecstasy from the Watanagashi ritual.",
+    "significantChanges": true,
+    "changeReason": "The original uses \"fascinated\" while the new uses \"derived a kind of ecstasy,\" which accurately translates 陶酔 (ecstasy/intoxication/rapture). \"Fascinated\" is a much milder emotion than the trance-like intoxication the Japanese implies.",
+    "changeScore": 3
+  },
+  {
+    "index": 10,
+    "MessageID": 13566,
+    "TextENGNew": "But if what the villagers gained from this ritual was not ecstasy but fear, then the meaning of the ceremony changes dramatically.",
+    "significantChanges": true,
+    "changeReason": "Consistent with the previous entry, the key term 陶酔 is now \"ecstasy\" rather than \"fascination,\" which represents a meaningfully different emotional state and alters the reader's understanding of the argument being made.",
+    "changeScore": 3
+  },
+  {
+    "index": 11,
+    "MessageID": 13567,
+    "TextENGNew": "It raises the possibility that these were public executions—spectacles of intimidation staged to enforce strict obedience to commandments crafted by the powerful for their own convenience.",
+    "significantChanges": true,
+    "changeReason": "The new translation explicitly describes them as \"public executions\" and \"spectacles of intimidation,\" which captures 見せしめ処刑 (public example/spectacle execution) more forcefully than the original's softer framing of \"warnings\" that merely \"encouraged\" following precepts.",
+    "changeScore": 3
+  },
+  {
+    "index": 12,
+    "MessageID": 13568,
+    "TextENGNew": "Onigafuchi Village has been effectively ruled by three ancient houses, known as the Three Families.",
+    "significantChanges": false
+  },
+  {
+    "index": 13,
+    "MessageID": 13569,
+    "TextENGNew": "Without studying the Three Families, the truth of Onigafuchi Village will remain beyond reach.",
+    "significantChanges": false
+  }
+]
