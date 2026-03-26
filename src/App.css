@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;700&family=Noto+Serif+JP:wght@400;700&family=Cormorant:wght@400;700&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #1c1b22;
+  color: #e0ddd8;
+  font-family: "Noto Serif JP", "Zen Old Mincho", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1c1b22;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2930;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a6e;
+}
+
+/* App layout */
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app__main {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Loading screen */
+.app__loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 16px;
+}
+
+.app__loading-title {
+  font-family: "Zen Old Mincho", "Noto Serif JP", serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #c8b060;
+}
+
+.app__loading-status {
+  font-family: "Cormorant", serif;
+  font-size: 0.9rem;
+  color: #605a50;
+}
+
+/* Browse mode layout */
+.app__browse {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  min-width: 0;
+}
+
+.app__browse-placeholder {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 40px;
+}
+
+/* Welcome / initial state (shared with browse placeholder) */
+.app__welcome-title {
+  font-family: "Zen Old Mincho", "Noto Serif JP", serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #c8b060;
+}
+
+.app__welcome-subtitle {
+  font-family: "Cormorant", serif;
+  font-size: 1rem;
+  color: #605a50;
+}

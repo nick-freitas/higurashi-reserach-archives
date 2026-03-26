@@ -1,0 +1,213 @@
+.arc-reader {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-width: 0;
+}
+
+.arc-reader__header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 14px 20px 10px;
+  border-bottom: 1px solid #2a2930;
+}
+
+.arc-reader__title {
+  font-family: "Zen Old Mincho", "Noto Serif JP", serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #c8b060;
+}
+
+.arc-reader__meta {
+  font-family: "Cormorant", serif;
+  font-size: 0.85rem;
+  color: #605a50;
+}
+
+/* Significant changes filter button */
+.arc-reader__filter-btn {
+  margin-left: auto;
+  font-family: "Cormorant", serif;
+  font-size: 0.78rem;
+  color: #908a80;
+  background: #2a2930;
+  border: 1px solid #2a2930;
+  border-radius: 4px;
+  padding: 4px 10px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+
+.arc-reader__filter-btn:hover {
+  background: #3a3a6e;
+  color: #e0ddd8;
+}
+
+.arc-reader__filter-btn--active {
+  background: #3a3a6e;
+  color: #b0c8a0;
+  border-color: #4a4a8e;
+}
+
+/* Back button */
+.arc-reader__back {
+  font-size: 1.1rem;
+  color: #908a80;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 8px 2px 0;
+  transition: color 0.15s;
+}
+
+.arc-reader__back:hover {
+  color: #c8b060;
+}
+
+/* Chapter list */
+.arc-reader__chapters {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 0;
+}
+
+.arc-reader__chapter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.1s;
+  border-bottom: 1px solid rgba(42, 41, 48, 0.5);
+}
+
+.arc-reader__chapter:hover {
+  background: #1e1d25;
+}
+
+.arc-reader__chapter-name {
+  font-family: "Noto Serif JP", "Zen Old Mincho", serif;
+  font-size: 0.9rem;
+  color: #e0ddd8;
+}
+
+.arc-reader__chapter-count {
+  font-family: "Cormorant", serif;
+  font-size: 0.8rem;
+  color: #605a50;
+  white-space: nowrap;
+  margin-left: 12px;
+}
+
+/* Entry list */
+.arc-reader__entries {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 0;
+}
+
+.arc-reader__line {
+  display: flex;
+  gap: 12px;
+  padding: 6px 20px;
+  cursor: pointer;
+  transition: background 0.1s;
+  border-bottom: 1px solid rgba(42, 41, 48, 0.5);
+}
+
+.arc-reader__line:hover {
+  background: #1e1d25;
+}
+
+.arc-reader__line--selected {
+  background: #22213a;
+}
+
+.arc-reader__line--significant {
+  border-left: 3px solid #b0c8a0;
+}
+
+.arc-reader__speaker {
+  width: 100px;
+  min-width: 100px;
+  font-family: "Noto Serif JP", serif;
+  font-size: 0.8rem;
+  color: #c8b060;
+  padding-top: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.arc-reader__text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.arc-reader__jp {
+  font-family: "Zen Old Mincho", "Noto Serif JP", serif;
+  font-size: 0.82rem;
+  color: #e0ddd8;
+  line-height: 1.4;
+}
+
+.arc-reader__en {
+  font-family: "Cormorant", serif;
+  font-size: 0.82rem;
+  color: #908a80;
+  line-height: 1.4;
+}
+
+.arc-reader__en-new {
+  font-family: "Cormorant", serif;
+  font-size: 0.88rem;
+  color: #b0c8a0;
+  line-height: 1.5;
+}
+
+/* Pagination */
+.arc-reader__pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 12px 20px;
+  border-top: 1px solid #2a2930;
+  background: #16151b;
+}
+
+.arc-reader__page-btn {
+  font-family: "Cormorant", serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #908a80;
+  background: #2a2930;
+  border: none;
+  border-radius: 4px;
+  padding: 6px 16px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.arc-reader__page-btn:hover:not(:disabled) {
+  background: #3a3a6e;
+  color: #e0ddd8;
+}
+
+.arc-reader__page-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.arc-reader__page-info {
+  font-family: "Cormorant", serif;
+  font-size: 0.85rem;
+  color: #605a50;
+}
