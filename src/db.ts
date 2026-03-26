@@ -117,13 +117,17 @@ function significanceFilter(
   if (significantOnly) {
     clauses.push(`${col} = 1`);
   }
-  if (scores && scores.size > 0) {
-    const placeholders = [...scores].map((s, i) => {
-      const key = `:score${i}`;
-      params[key] = s;
-      return key;
-    });
-    clauses.push(`${sigCol} IN (${placeholders.join(", ")})`);
+  if (scores) {
+    if (scores.size === 0) {
+      clauses.push("0 = 1"); // no scores selected → match nothing
+    } else {
+      const placeholders = [...scores].map((s, i) => {
+        const key = `:score${i}`;
+        params[key] = s;
+        return key;
+      });
+      clauses.push(`${sigCol} IN (${placeholders.join(", ")})`);
+    }
   }
 
   return {
@@ -257,48 +261,91 @@ export function getEntries(options: {
  * - English: uses FTS5 MATCH for proper token matching
  * - "both": combines both approaches
  */
-export function search(
-  query: string,
-  lang: "jp" | "en" | "both",
-  offset = 0,
-  limit = 100,
-): { entries: EntryRow[]; total: number; query: string } {
-  if (!query.trim()) return { entries: [], total: 0, query };
+export interface SearchOptions {
+  query: string;
+  lang: "jp" | "en" | "both";
+  arcId?: string;
+  file?: string;
+  bookArcIds?: string[];
+  speaker?: string;
+  significantOnly?: boolean;
+  scores?: Set<number>;
+  offset?: number;
+  limit?: number;
+}
 
+export function search(opts: SearchOptions): { entries: EntryRow[]; total: number; query: string } {
+  const { query, lang, offset = 0, limit = 100 } = opts;
   const params: Record<string, unknown> = {};
+  const conditions: string[] = [];
+
+  // --- Text search condition ---
+  const hasText = query.trim().length > 0;
+  let usesFts = false;
+  let ftsFrom = "";
+
+  if (hasText) {
+    if (lang === "jp") {
+      params[":q"] = `%${query}%`;
+      conditions.push("e.text_jpn LIKE :q");
+    } else if (lang === "en") {
+      params[":fts"] = `"${query.replace(/"/g, '""')}"`;
+      usesFts = true;
+      ftsFrom = "entries_fts(:fts) AS fts JOIN entries AS e ON e.id = fts.rowid";
+    } else {
+      // "both": use a subquery to match either JP or EN
+      params[":q"] = `%${query}%`;
+      params[":fts"] = `"${query.replace(/"/g, '""')}"`;
+      conditions.push(`(e.text_jpn LIKE :q OR e.id IN (SELECT rowid FROM entries_fts(:fts)))`);
+    }
+  }
+
+  // --- Nav context filters ---
+  if (opts.arcId) {
+    params[":arcId"] = opts.arcId;
+    conditions.push("e.arc_id = :arcId");
+  }
+  if (opts.file) {
+    params[":file"] = opts.file;
+    conditions.push("e.filename = :file");
+  }
+  if (opts.bookArcIds && opts.bookArcIds.length > 0) {
+    const placeholders = opts.bookArcIds.map((id, i) => {
+      const key = `:ba${i}`;
+      params[key] = id;
+      return key;
+    });
+    conditions.push(`e.arc_id IN (${placeholders.join(", ")})`);
+  }
+  if (opts.speaker) {
+    params[":speaker"] = opts.speaker;
+    conditions.push("(e.speaker_eng = :speaker OR e.speaker_jpn = :speaker)");
+  }
+
+  // --- Significance filters ---
+  const sf = significanceFilter(opts.significantOnly, opts.scores, "e");
+  if (sf.where) {
+    conditions.push(sf.where);
+    Object.assign(params, sf.params);
+  }
+
+  // --- No filters at all and no text → need at least some context ---
+  if (!hasText && conditions.length === 0) {
+    return { entries: [], total: 0, query };
+  }
+
+  const where = conditions.length > 0 ? `WHERE ${conditions.join(" AND ")}` : "";
+
   let countSql: string;
   let selectSql: string;
 
-  if (lang === "jp") {
-    params[":q"] = `%${query}%`;
-    const where = "WHERE text_jpn LIKE :q";
-    countSql = `SELECT COUNT(*) AS c FROM entries ${where}`;
-    selectSql = `SELECT * FROM entries ${where} ORDER BY filename, entry_index LIMIT :limit OFFSET :offset`;
-  } else if (lang === "en") {
-    // FTS5 match — wrap in double quotes for phrase matching
-    params[":fts"] = `"${query.replace(/"/g, '""')}"`;
-    const from = `entries_fts(:fts) AS fts JOIN entries ON entries.id = fts.rowid`;
-    countSql = `SELECT COUNT(*) AS c FROM ${from}`;
-    selectSql = `SELECT entries.* FROM ${from} ORDER BY entries.filename, entries.entry_index LIMIT :limit OFFSET :offset`;
+  if (usesFts) {
+    // English-only FTS path: JOIN with fts table
+    countSql = `SELECT COUNT(*) AS c FROM ${ftsFrom} ${where}`;
+    selectSql = `SELECT e.* FROM ${ftsFrom} ${where} ORDER BY e.filename, e.entry_index LIMIT :limit OFFSET :offset`;
   } else {
-    // "both" — UNION approach
-    params[":q"] = `%${query}%`;
-    params[":fts"] = `"${query.replace(/"/g, '""')}"`;
-
-    const jpWhere = "text_jpn LIKE :q";
-    const enFrom =
-      "entries_fts(:fts) AS fts JOIN entries AS e2 ON e2.id = fts.rowid";
-
-    countSql = `SELECT COUNT(*) AS c FROM (
-      SELECT id FROM entries WHERE ${jpWhere}
-      UNION
-      SELECT e2.id FROM ${enFrom}
-    )`;
-    selectSql = `SELECT * FROM entries WHERE id IN (
-      SELECT id FROM entries WHERE ${jpWhere}
-      UNION
-      SELECT e2.id FROM ${enFrom}
-    ) ORDER BY filename, entry_index LIMIT :limit OFFSET :offset`;
+    countSql = `SELECT COUNT(*) AS c FROM entries AS e ${where}`;
+    selectSql = `SELECT e.* FROM entries AS e ${where} ORDER BY e.filename, e.entry_index LIMIT :limit OFFSET :offset`;
   }
 
   params[":limit"] = limit;

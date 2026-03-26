@@ -11,7 +11,7 @@ import type {
   Source,
 } from "./types";
 import { initDb, listArcs, getArcChapters, getEntries, search, getSpeakers, loadAnnotations, saveAnnotation } from "./db";
-import type { EntryRow, Annotation, AnnotationsMap } from "./db";
+import type { EntryRow, Annotation, AnnotationsMap, SearchOptions } from "./db";
 import SearchBar from "./components/SearchBar";
 import KWICResults from "./components/KWICResults";
 import DetailPanel from "./components/DetailPanel";
@@ -140,7 +140,9 @@ export default function App() {
 
   // Initialise database on mount
   useEffect(() => {
-    initDb().then(() => setDbReady(true));
+    initDb()
+      .then(() => setDbReady(true))
+      .catch((err) => console.error("Failed to load database:", err));
   }, []);
 
   // Load annotations from localStorage on mount
@@ -255,14 +257,39 @@ export default function App() {
     setLoading(true);
     setSelectedEntry(null);
     try {
-      const result = search(query, lang, 0, 100);
+      const opts: SearchOptions = { query, lang, offset: 0, limit: 100 };
+
+      // Apply nav context filters
+      const isBookAll = selectedBookId === "__all__";
+      const isArcAll = selectedArcId === "__all__";
+      const hasSpecificArc = selectedArcId && selectedArcId !== "__all__";
+      const hasSpecificChapter = selectedChapter && selectedChapter !== "__all__";
+
+      if (!isBookAll && isArcAll && bookArcIds) {
+        opts.bookArcIds = bookArcIds;
+      } else if (hasSpecificArc) {
+        opts.arcId = selectedArcId!;
+        if (hasSpecificChapter) {
+          opts.file = selectedChapter!;
+        }
+      }
+
+      if (selectedCharacter) {
+        opts.speaker = selectedCharacter;
+      }
+      if (significantMode) {
+        opts.significantOnly = true;
+        opts.scores = selectedScores;
+      }
+
+      const result = search(opts);
       setSearchResult(mapSearchResult(result, query));
     } catch (err) {
       console.error("Search failed:", err);
     } finally {
       setLoading(false);
     }
-  }, [dbReady]);
+  }, [dbReady, selectedBookId, selectedArcId, selectedChapter, bookArcIds, selectedCharacter, significantMode, selectedScores]);
 
   const handleClearSearch = useCallback(() => {
     setSearchResult(null);
@@ -380,24 +407,14 @@ export default function App() {
     return arcList.filter((a) => arcMatchesBook(a.id, book)).length === 1;
   }, [selectedBookId, arcList]);
 
-  // Filter search results by character (must be before early returns — hooks rule)
-  const filteredSearchResult = useMemo(() => {
-    if (!searchResult || !selectedCharacter) return searchResult;
-    const groups = searchResult.groups
-      .map((g) => ({
-        ...g,
-        hits: g.hits.filter((h) => (h.speakerENG || h.speakerJPN || "") === selectedCharacter),
-      }))
-      .filter((g) => g.hits.length > 0);
-    const totalHits = groups.reduce((sum, g) => sum + g.hits.length, 0);
-    return { ...searchResult, groups, totalHits };
-  }, [searchResult, selectedCharacter]);
+  // Alias for readability (filtering now happens in SQL)
+  const filteredSearchResult = searchResult;
 
   // Loading screen
   if (!dbReady) {
     return (
       <div className="app__loading">
-        <div className="app__loading-title">ひぐらしテキスト</div>
+        <div className="app__loading-title">ひぐらし</div>
         <div className="app__loading-status">Loading database…</div>
       </div>
     );
@@ -496,7 +513,7 @@ export default function App() {
                   />
                 ) : !selectedBookId ? (
                   <div className="app__browse-placeholder">
-                    <div className="app__welcome-title">ひぐらしテキスト</div>
+                    <div className="app__welcome-title">ひぐらし</div>
                     <div className="app__welcome-subtitle">
                       Select an arc to start reading, or search above
                     </div>

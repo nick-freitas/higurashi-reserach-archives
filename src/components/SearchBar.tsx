@@ -35,10 +35,7 @@ export default function SearchBar({
 
   function handleSubmit(e: FormEvent) {
     e.preventDefault();
-    const trimmed = query.trim();
-    if (trimmed) {
-      onSearch(trimmed, "both");
-    }
+    onSearch(query.trim(), "both");
   }
 
   return (
@@ -80,7 +77,7 @@ export default function SearchBar({
       <button
         className="search-bar__submit"
         type="submit"
-        disabled={loading || !query.trim()}
+        disabled={loading}
       >
         {loading ? "…" : "Search"}
       </button>
