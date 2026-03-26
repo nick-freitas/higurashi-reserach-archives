@@ -38,24 +38,6 @@ export interface SearchResponse {
   groups: SearchGroup[];
 }
 
-export interface FuriganaRequest {
-  text: string;
-}
-
-export interface FuriganaResponse {
-  annotated: string;
-}
-
-export interface Annotation {
-  furiganaJPN?: string;
-  editedENG?: string;
-  notes?: string;
-}
-
-export interface AnnotationsMap {
-  [key: string]: Annotation;
-}
-
 // Arc browser types
 export interface ArcInfo {
   id: string;

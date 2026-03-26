@@ -1,14 +1,12 @@
 import { useState, useEffect, useRef, useCallback } from "react";
-import type { SelectedEntry, Annotation, ArcEntry } from "../types";
-import { parseRuby } from "../utils/parseRuby";
+import type { SelectedEntry, ArcEntry } from "../types";
+import { getContext } from "../db";
+import type { Annotation } from "../db";
 import "./DetailPanel.css";
 
 interface DetailPanelProps {
   entry: SelectedEntry | null;
   annotation: Annotation | undefined;
-  hasFurigana: boolean;
-  furiganaLoading: boolean;
-  onRequestFurigana: () => void;
   onSaveAnnotation: (data: Partial<Annotation>) => void;
   onClose: () => void;
 }
@@ -48,9 +46,6 @@ function formatSourceLabel(source: SelectedEntry["source"], filename: string): s
 export default function DetailPanel({
   entry,
   annotation,
-  hasFurigana,
-  furiganaLoading,
-  onRequestFurigana,
   onSaveAnnotation,
   onClose,
 }: DetailPanelProps) {
@@ -67,7 +62,7 @@ export default function DetailPanel({
     setEditingEN(false);
     setContextEntries(null);
     if (entry) {
-      setJPDraft(annotation?.furiganaJPN ?? entry.textJPN);
+      setJPDraft(entry.textJPN);
       setENDraft(annotation?.editedENG ?? entry.textENG);
       setNotesDraft(annotation?.notes ?? "");
     }
@@ -79,13 +74,10 @@ export default function DetailPanel({
 
   const sourceLabel = formatSourceLabel(entry.source, entry.file);
   const speaker = entry.speakerENG || entry.speakerJPN || null;
-  const jpDisplay = annotation?.furiganaJPN ?? entry.textJPN;
 
   function handleJPBlur() {
     setEditingJP(false);
-    if (jpDraft !== (annotation?.furiganaJPN ?? entry!.textJPN)) {
-      onSaveAnnotation({ furiganaJPN: jpDraft });
-    }
+    // JP text is read-only display — no annotation save needed
   }
 
   function handleENBlur() {
@@ -96,7 +88,7 @@ export default function DetailPanel({
   }
 
   // Autosave notes with debounce
-  const saveTimerRef = useRef<ReturnType<typeof setTimeout>>();
+  const saveTimerRef = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
   const autosaveNotes = useCallback((value: string) => {
     setNotesDraft(value);
     clearTimeout(saveTimerRef.current);
@@ -136,11 +128,11 @@ export default function DetailPanel({
             <div
               className="detail-panel__jp-text"
               onClick={() => {
-                setJPDraft(annotation?.furiganaJPN ?? entry.textJPN);
+                setJPDraft(entry.textJPN);
                 setEditingJP(true);
               }}
             >
-              {annotation?.furiganaJPN ? parseRuby(annotation.furiganaJPN) : entry.textJPN}
+              {entry.textJPN}
             </div>
           )}
         </div>
@@ -243,19 +235,23 @@ export default function DetailPanel({
             <button
               className="detail-panel__action-btn"
               disabled={contextLoading}
-              onClick={async () => {
+              onClick={() => {
                 setContextLoading(true);
                 try {
-                  const params = new URLSearchParams({
-                    file: entry.file,
-                    index: String(entry.index),
-                    radius: "2",
-                  });
-                  const res = await fetch(`/api/context?${params}`);
-                  if (res.ok) {
-                    const data = await res.json();
-                    setContextEntries(data.entries);
-                  }
+                  const rows = getContext(entry.file, entry.index, 2);
+                  setContextEntries(rows.map(r => ({
+                    file: r.filename,
+                    index: r.entry_index,
+                    messageId: r.message_id,
+                    speakerJPN: r.speaker_jpn,
+                    speakerENG: r.speaker_eng,
+                    textJPN: r.text_jpn,
+                    textENG: r.text_eng,
+                    textENGNew: r.text_eng_new,
+                    significantChanges: r.significant_changes === 1,
+                    changeReason: r.change_reason,
+                    significance: r.significance,
+                  })));
                 } catch {
                   // optional
                 } finally {

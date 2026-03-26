@@ -8,8 +8,6 @@ interface KWICResultsProps {
   groups: SearchGroup[];
   onSelectHit: (hit: SearchHit, filename: string) => void;
   selectedEntryIndex: number | null;
-  hasFurigana: boolean;
-  onRequestFurigana: (hit: SearchHit, filename: string) => void;
 }
 
 function formatSourceName(source: Source, filename: string): string {
@@ -82,15 +80,11 @@ function KWICGroup({
   query,
   onSelectHit,
   selectedEntryIndex,
-  hasFurigana,
-  onRequestFurigana,
 }: {
   group: SearchGroup;
   query: string;
   onSelectHit: (hit: SearchHit, filename: string) => void;
   selectedEntryIndex: number | null;
-  hasFurigana: boolean;
-  onRequestFurigana: (hit: SearchHit, filename: string) => void;
 }) {
   const [open, setOpen] = useState(true);
   const name = formatSourceName(group.source, group.filename);
@@ -153,19 +147,6 @@ function KWICGroup({
                         )}
                   </div>
                 </div>
-                <div className="kwic-line__actions">
-                  {hasFurigana && (
-                    <button
-                      className="kwic-line__furigana-btn"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        onRequestFurigana(hit, group.filename);
-                      }}
-                    >
-                      Furigana
-                    </button>
-                  )}
-                </div>
               </div>
             );
           })}
@@ -181,8 +162,6 @@ export default function KWICResults({
   groups,
   onSelectHit,
   selectedEntryIndex,
-  hasFurigana,
-  onRequestFurigana,
 }: KWICResultsProps) {
   if (totalHits === 0 && query) {
     return (
@@ -208,8 +187,6 @@ export default function KWICResults({
           query={query}
           onSelectHit={onSelectHit}
           selectedEntryIndex={selectedEntryIndex}
-          hasFurigana={hasFurigana}
-          onRequestFurigana={onRequestFurigana}
         />
       ))}
     </div>

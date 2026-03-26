@@ -2,14 +2,16 @@ import { useState, useEffect, useCallback, useMemo } from "react";
 import type {
   SearchResponse,
   SearchHit,
-  AnnotationsMap,
-  Annotation,
+  SearchGroup,
   ArcInfo,
   ArcChapter,
   ArcEntriesResponse,
+  ArcEntry,
   SelectedEntry,
   Source,
 } from "./types";
+import { initDb, listArcs, getArcChapters, getEntries, search, getSpeakers, loadAnnotations, saveAnnotation } from "./db";
+import type { EntryRow, Annotation, AnnotationsMap } from "./db";
 import SearchBar from "./components/SearchBar";
 import KWICResults from "./components/KWICResults";
 import DetailPanel from "./components/DetailPanel";
@@ -20,16 +22,103 @@ import ChapterList from "./components/ChapterList";
 import ScoreFilter from "./components/ScoreFilter";
 import ArcReader from "./components/ArcReader";
 
-const API_BASE = "/api";
+// ---------------------------------------------------------------------------
+// Mapping helpers
+// ---------------------------------------------------------------------------
+
+function entryRowToArcEntry(row: EntryRow): ArcEntry {
+  return {
+    file: row.filename,
+    index: row.entry_index,
+    messageId: row.message_id,
+    speakerJPN: row.speaker_jpn,
+    speakerENG: row.speaker_eng,
+    textJPN: row.text_jpn,
+    textENG: row.text_eng,
+    textENGNew: row.text_eng_new,
+    significantChanges: row.significant_changes === 1,
+    changeReason: row.change_reason,
+    significance: row.significance,
+  };
+}
+
+function mapSearchResult(
+  result: { entries: EntryRow[]; total: number; query: string },
+  query: string,
+): SearchResponse {
+  // Group entries by filename
+  const groupMap = new Map<string, { source: Source; filename: string; hits: SearchHit[] }>();
+
+  for (const row of result.entries) {
+    if (!groupMap.has(row.filename)) {
+      groupMap.set(row.filename, {
+        source: deriveSourceFromFilename(row.filename),
+        filename: row.filename,
+        hits: [],
+      });
+    }
+    const group = groupMap.get(row.filename)!;
+
+    // Determine matchField and offset
+    const lowerQuery = query.toLowerCase();
+    let matchField: SearchHit["matchField"] = "textENG";
+    let matchOffset = 0;
+    let matchLength = query.length;
+
+    const jpIdx = row.text_jpn.toLowerCase().indexOf(lowerQuery);
+    const enIdx = row.text_eng.toLowerCase().indexOf(lowerQuery);
+
+    if (jpIdx !== -1) {
+      matchField = "textJPN";
+      matchOffset = jpIdx;
+    } else if (enIdx !== -1) {
+      matchField = "textENG";
+      matchOffset = enIdx;
+    } else if (row.text_eng_new) {
+      const newIdx = row.text_eng_new.toLowerCase().indexOf(lowerQuery);
+      if (newIdx !== -1) {
+        matchField = "textENG";
+        matchOffset = newIdx;
+      }
+    }
+
+    group.hits.push({
+      entryIndex: row.entry_index,
+      messageId: row.message_id,
+      speakerJPN: row.speaker_jpn,
+      speakerENG: row.speaker_eng,
+      textJPN: row.text_jpn,
+      textENG: row.text_eng,
+      textENGNew: row.text_eng_new,
+      significantChanges: row.significant_changes === 1,
+      changeReason: row.change_reason,
+      significance: row.significance,
+      matchField,
+      matchOffset,
+      matchLength,
+    });
+  }
+
+  const groups: SearchGroup[] = [...groupMap.values()];
+  return {
+    query,
+    totalHits: result.total,
+    offset: 0,
+    limit: 100,
+    groups,
+  };
+}
+
+// ---------------------------------------------------------------------------
+// App
+// ---------------------------------------------------------------------------
 
 export default function App() {
   const [searchResult, setSearchResult] = useState<SearchResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [selectedEntry, setSelectedEntry] = useState<SelectedEntry | null>(null);
   const [annotations, setAnnotations] = useState<AnnotationsMap>({});
-  const [hasFurigana, setHasFurigana] = useState(false);
-  const [furiganaLoading, setFuriganaLoading] = useState(false);
-  const [serverReady, setServerReady] = useState(false);
+  const [dbReady, setDbReady] = useState(false);
 
   // Significant changes filter mode
   const [significantMode, setSignificantMode] = useState(false);
@@ -49,136 +138,48 @@ export default function App() {
   const [chapterData, setChapterData] = useState<ArcEntriesResponse | null>(null);
   const [chapterOffset, setChapterOffset] = useState(0);
 
-  // Check server status on mount
+  // Initialise database on mount
   useEffect(() => {
-    let cancelled = false;
-    let timer: ReturnType<typeof setTimeout>;
-
-    async function checkStatus() {
-      try {
-        const res = await fetch(`${API_BASE}/status`);
-        if (res.ok) {
-          const data = await res.json();
-          if (!cancelled) {
-            setServerReady(data.ready !== false);
-            setHasFurigana(!!data.hasFurigana);
-            if (!data.ready) {
-              timer = setTimeout(checkStatus, 2000);
-            }
-          }
-        } else if (!cancelled) {
-          timer = setTimeout(checkStatus, 2000);
-        }
-      } catch {
-        if (!cancelled) {
-          timer = setTimeout(checkStatus, 2000);
-        }
-      }
-    }
-
-    checkStatus();
-    return () => {
-      cancelled = true;
-      clearTimeout(timer);
-    };
+    initDb().then(() => setDbReady(true));
   }, []);
 
-  // Load annotations on mount
+  // Load annotations from localStorage on mount
   useEffect(() => {
-    async function loadAnnotations() {
-      try {
-        const res = await fetch(`${API_BASE}/annotations`);
-        if (res.ok) {
-          setAnnotations(await res.json());
-        }
-      } catch {
-        // optional
-      }
-    }
-    loadAnnotations();
+    setAnnotations(loadAnnotations());
   }, []);
 
-  // Fetch arc list (re-fetch when SC mode changes)
+  // Fetch arc list (re-run when SC mode changes or DB becomes ready)
   useEffect(() => {
-    async function loadArcs() {
-      try {
-        const params = new URLSearchParams();
-        if (significantMode) {
-          params.set("significantOnly", "true");
-          if (selectedScores.size === 0) {
-            params.set("scores", "-1");
-          } else if (selectedScores.size < 5) {
-            params.set("scores", Array.from(selectedScores).join(","));
-          }
-        }
-        const qs = params.toString();
-        const res = await fetch(`${API_BASE}/arcs${qs ? `?${qs}` : ""}`);
-        if (res.ok) {
-          const data = await res.json();
-          setArcList(data.arcs);
-        }
-      } catch {
-        // optional
-      }
-    }
-    loadArcs();
-  }, [significantMode, selectedScores]);
+    if (!dbReady) return;
+    setArcList(listArcs(significantMode || undefined, significantMode ? selectedScores : undefined));
+  }, [dbReady, significantMode, selectedScores]);
 
-  // Fetch speakers on mount
+  // Fetch speakers once DB is ready
   useEffect(() => {
-    async function loadSpeakers() {
-      try {
-        const res = await fetch(`${API_BASE}/speakers`);
-        if (res.ok) {
-          const data = await res.json();
-          setSpeakers(data.speakers);
-        }
-      } catch {
-        // optional
-      }
-    }
-    loadSpeakers();
-  }, []);
+    if (!dbReady) return;
+    setSpeakers(getSpeakers());
+  }, [dbReady]);
 
   // Fetch chapters when arc changes; auto-select if only one chapter
   useEffect(() => {
+    if (!dbReady) return;
     if (!selectedArcId || selectedArcId === "__all__") {
       setArcChapters([]);
       return;
     }
 
-    let cancelled = false;
-
-    async function loadChapters() {
-      try {
-        const params = new URLSearchParams();
-        if (significantMode) {
-          params.set("significantOnly", "true");
-          if (selectedScores.size === 0) {
-            params.set("scores", "-1");
-          } else if (selectedScores.size < 5) {
-            params.set("scores", Array.from(selectedScores).join(","));
-          }
-        }
-        const qs = params.toString();
-        const res = await fetch(`${API_BASE}/arc/${encodeURIComponent(selectedArcId!)}/chapters${qs ? `?${qs}` : ""}`);
-        if (res.ok && !cancelled) {
-          const data = await res.json();
-          setArcChapters(data.chapters);
-          // Auto-select if single chapter (e.g. prologues/epilogues)
-          if (data.chapters.length === 1) {
-            setSelectedChapter(data.chapters[0].file);
-            setChapterOffset(0);
-          }
-        }
-      } catch {
-        // optional
-      }
+    const chapters = getArcChapters(
+      selectedArcId,
+      significantMode || undefined,
+      significantMode ? selectedScores : undefined,
+    );
+    setArcChapters(chapters);
+    // Auto-select if single chapter (e.g. prologues/epilogues)
+    if (chapters.length === 1) {
+      setSelectedChapter(chapters[0].file);
+      setChapterOffset(0);
     }
-
-    loadChapters();
-    return () => { cancelled = true; };
-  }, [selectedArcId, significantMode, selectedScores]);
+  }, [dbReady, selectedArcId, significantMode, selectedScores]);
 
   // Compute book arc IDs for "All" queries
   const bookArcIds = useMemo(() => {
@@ -190,6 +191,8 @@ export default function App() {
 
   // Fetch entries — handles all combinations of All/specific at each level
   useEffect(() => {
+    if (!dbReady) return;
+
     // Determine if we should fetch entries
     const isBookAll = selectedBookId === "__all__";
     const isArcAll = selectedArcId === "__all__";
@@ -203,73 +206,63 @@ export default function App() {
       return;
     }
 
-    let cancelled = false;
+    const options: Parameters<typeof getEntries>[0] = {
+      offset: chapterOffset,
+      limit: 50,
+    };
 
-    async function loadEntries() {
-      try {
-        const params = new URLSearchParams({
-          offset: String(chapterOffset),
-          limit: "50",
-        });
-
-        if (isBookAll) {
-          // All entries, no filter
-        } else if (isArcAll && bookArcIds) {
-          // All arcs in this book
-          params.set("bookArcs", bookArcIds.join(","));
-        } else if (hasSpecificArc) {
-          params.set("arc", selectedArcId!);
-          if (hasSpecificChapter) {
-            params.set("file", selectedChapter!);
-          }
-          // isChapterAll: arc set but no file = all chapters in arc
-        }
-
-        if (selectedCharacter) {
-          params.set("speaker", selectedCharacter);
-        }
-        if (significantMode) {
-          params.set("significantOnly", "true");
-          if (selectedScores.size === 0) {
-            params.set("scores", "-1");
-          } else if (selectedScores.size < 5) {
-            params.set("scores", Array.from(selectedScores).join(","));
-          }
-        }
-
-        const res = await fetch(`${API_BASE}/entries?${params}`);
-        if (res.ok && !cancelled) {
-          setChapterData(await res.json());
-        }
-      } catch {
-        // optional
+    if (isBookAll) {
+      // All entries, no filter
+    } else if (isArcAll && bookArcIds) {
+      options.bookArcIds = bookArcIds;
+    } else if (hasSpecificArc) {
+      options.arcId = selectedArcId!;
+      if (hasSpecificChapter) {
+        options.file = selectedChapter!;
       }
     }
 
-    loadEntries();
-    return () => { cancelled = true; };
-  }, [selectedBookId, selectedArcId, selectedChapter, chapterOffset, selectedCharacter, bookArcIds, significantMode, selectedScores]);
+    if (selectedCharacter) {
+      options.speaker = selectedCharacter;
+    }
+    if (significantMode) {
+      options.significantOnly = true;
+      options.scores = selectedScores;
+    }
 
-  const handleSearch = useCallback(async (query: string, lang: "jp" | "en" | "both") => {
+    const result = getEntries(options);
+
+    // Determine a display name for the arc
+    const arcName =
+      selectedArcId && selectedArcId !== "__all__"
+        ? arcList.find((a) => a.id === selectedArcId)?.name ?? selectedArcId
+        : selectedBookId === "__all__"
+          ? "All"
+          : "All arcs";
+
+    setChapterData({
+      arcId: selectedArcId ?? "__all__",
+      arcName,
+      totalEntries: result.total,
+      offset: chapterOffset,
+      limit: 50,
+      entries: result.entries.map(entryRowToArcEntry),
+    });
+  }, [dbReady, selectedBookId, selectedArcId, selectedChapter, chapterOffset, selectedCharacter, bookArcIds, significantMode, selectedScores, arcList]);
+
+  const handleSearch = useCallback((query: string, lang: "jp" | "en" | "both") => {
+    if (!dbReady) return;
     setLoading(true);
     setSelectedEntry(null);
     try {
-      const params = new URLSearchParams({
-        q: query,
-        lang,
-        offset: "0",
-        limit: "100",
-      });
-      const res = await fetch(`${API_BASE}/search?${params}`);
-      if (res.ok) {
-        setSearchResult(await res.json());
-      }
+      const result = search(query, lang, 0, 100);
+      setSearchResult(mapSearchResult(result, query));
     } catch (err) {
       console.error("Search failed:", err);
     } finally {
       setLoading(false);
     }
-  }, []);
+  }, [dbReady]);
 
   const handleClearSearch = useCallback(() => {
     setSearchResult(null);
@@ -365,52 +358,12 @@ export default function App() {
     return `${entry.file}:idx:${entry.index}`;
   }
 
-  const handleRequestFurigana = useCallback(
-    async () => {
-      if (!selectedEntry) return;
-      setFuriganaLoading(true);
-      try {
-        const key = getAnnotationKey(selectedEntry);
-        const res = await fetch(`${API_BASE}/furigana`, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ text: selectedEntry.textJPN, key }),
-        });
-        if (res.ok) {
-          const data = await res.json();
-          setAnnotations((prev) => ({
-            ...prev,
-            [key]: { ...prev[key], furiganaJPN: data.annotated },
-          }));
-        }
-      } catch (err) {
-        console.error("Furigana request failed:", err);
-      } finally {
-        setFuriganaLoading(false);
-      }
-    },
-    [selectedEntry]
-  );
-
   const handleSaveAnnotation = useCallback(
-    async (data: Partial<Annotation>) => {
+    (data: Partial<Annotation>) => {
       if (!selectedEntry) return;
       const key = getAnnotationKey(selectedEntry);
-
-      setAnnotations((prev) => ({
-        ...prev,
-        [key]: { ...prev[key], ...data },
-      }));
-
-      try {
-        await fetch(`${API_BASE}/annotations/${encodeURIComponent(key)}`, {
-          method: "PATCH",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(data),
-        });
-      } catch (err) {
-        console.error("Failed to save annotation:", err);
-      }
+      const updated = saveAnnotation(key, data);
+      setAnnotations(updated);
     },
     [selectedEntry]
   );
@@ -441,11 +394,11 @@ export default function App() {
   }, [searchResult, selectedCharacter]);
 
   // Loading screen
-  if (!serverReady) {
+  if (!dbReady) {
     return (
       <div className="app__loading">
         <div className="app__loading-title">ひぐらしテキスト</div>
-        <div className="app__loading-status">Connecting to server…</div>
+        <div className="app__loading-status">Loading database…</div>
       </div>
     );
   }
@@ -498,10 +451,6 @@ export default function App() {
             groups={filteredSearchResult.groups}
             onSelectHit={handleSelectHit}
             selectedEntryIndex={selectedEntry?.index ?? null}
-            hasFurigana={hasFurigana}
-            onRequestFurigana={(hit, filename) => {
-              handleSelectHit(hit, filename);
-            }}
           />
         ) : (
           <div className="app__browse">
@@ -560,9 +509,6 @@ export default function App() {
           <DetailPanel
             entry={selectedEntry}
             annotation={currentAnnotation}
-            hasFurigana={hasFurigana}
-            furiganaLoading={furiganaLoading}
-            onRequestFurigana={handleRequestFurigana}
             onSaveAnnotation={handleSaveAnnotation}
             onClose={handleCloseDetail}
           />
