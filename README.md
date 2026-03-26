@@ -34,12 +34,8 @@ tests/         Test files
 public/        Static assets (generated DB, WASM)
 ```
 
-## How it works
-
-The upstream game text lives in a [separate repository](https://github.com/masagrator/HigurashiENX-texts). This repo stores only our analysis overlay data (new translations, significance scores, change reasons) in `overlays/`. At build time, a merge script combines them into a SQLite database that the React app queries client-side via sql.js (WASM). No server required — hosted as a static site on GitHub Pages.
-
 ## License
 
-The source code in this repository is licensed under the [MIT License](LICENSE).
+The source code in this repository is licensed under a [modified MIT License](LICENSE).
 
 The overlay data in `overlays/` contains derivative analysis of text from the [HigurashiENX-texts](https://github.com/masagrator/HigurashiENX-texts) repository by masagrator, which has no explicit license — see `LICENSE` and `THIRD_PARTY_NOTICES` for details.

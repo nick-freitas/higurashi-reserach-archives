@@ -9,6 +9,8 @@ __pycache__/
 *.swp
 .playwright-mcp/
 game_text/
+upstream/
 public/higurashi.db
 public/sql-wasm.wasm
 *.tsbuildinfo
+docs/
