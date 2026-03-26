@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build:db": "tsx scripts/merge-and-build.ts",
-    "build": "npm run build:db && tsc -b && vite build",
+    "build:wasm": "cp node_modules/sql.js/dist/sql-wasm.wasm public/",
+    "build": "npm run build:wasm && npm run build:db && tsc -b && vite build",
     "test": "vitest run",
     "test:watch": "vitest"
   },
