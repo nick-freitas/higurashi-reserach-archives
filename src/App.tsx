@@ -462,7 +462,7 @@ export default function App() {
     ? annotations[currentAnnotationKey]
     : undefined;
 
-  const isSearchMode = filteredSearchResult !== null && !significantMode;
+  const isSearchMode = filteredSearchResult !== null;
 
   const arcSource: Source | null = selectedArcId
     ? deriveSourceFromArcId(selectedArcId)

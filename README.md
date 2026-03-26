@@ -15,17 +15,13 @@ A research and analysis tool for studying the nuances between the original Japan
 
 ```
 npm install
+git clone --depth 1 https://github.com/masagrator/HigurashiENX-texts.git upstream
 npm run build:wasm
-npm run build:db      # requires game_text/ or SOURCE_DIR set
+SOURCE_DIR=./upstream npm run build:db
 npm run dev
 ```
 
-The build:db step merges upstream source text (from `SOURCE_DIR`, default `./upstream`) with the overlay data in `overlays/` and generates a SQLite database. For local development, clone the upstream repo:
-
-```
-git clone https://github.com/masagrator/HigurashiENX-texts.git upstream
-SOURCE_DIR=./upstream npm run build:db
-```
+The build:db step clones the upstream source text, merges it with the overlay data in `overlays/`, and generates a SQLite database that the app loads client-side.
 
 ## Project structure
 
