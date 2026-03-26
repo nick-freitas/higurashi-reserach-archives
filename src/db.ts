@@ -263,7 +263,6 @@ export function getEntries(options: {
  */
 export interface SearchOptions {
   query: string;
-  lang: "jp" | "en" | "both";
   arcId?: string;
   file?: string;
   bookArcIds?: string[];
@@ -283,29 +282,16 @@ export interface SearchResult {
 }
 
 export function search(opts: SearchOptions): SearchResult {
-  const { query, lang, offset = 0, limit = 100 } = opts;
+  const { query, offset = 0, limit = 100 } = opts;
   const params: Record<string, unknown> = {};
   const conditions: string[] = [];
 
-  // --- Text search condition ---
+  // --- Text search (LIKE-based, always searches both JP and EN) ---
   const hasText = query.trim().length > 0;
-  let usesFts = false;
-  let ftsFrom = "";
 
   if (hasText) {
-    if (lang === "jp") {
-      params[":q"] = `%${query}%`;
-      conditions.push("e.text_jpn LIKE :q");
-    } else if (lang === "en") {
-      params[":fts"] = `"${query.replace(/"/g, '""')}"`;
-      usesFts = true;
-      ftsFrom = "entries_fts(:fts) AS fts JOIN entries AS e ON e.id = fts.rowid";
-    } else {
-      // "both": use a subquery to match either JP or EN
-      params[":q"] = `%${query}%`;
-      params[":fts"] = `"${query.replace(/"/g, '""')}"`;
-      conditions.push(`(e.text_jpn LIKE :q OR e.id IN (SELECT rowid FROM entries_fts(:fts)))`);
-    }
+    params[":q"] = `%${query}%`;
+    conditions.push("(e.text_jpn LIKE :q OR e.text_eng LIKE :q)");
   }
 
   // --- Nav context filters ---
@@ -341,54 +327,26 @@ export function search(opts: SearchOptions): SearchResult {
 
   const where = conditions.length > 0 ? `WHERE ${conditions.join(" AND ")}` : "";
 
-  let countSql: string;
-
-  if (usesFts) {
-    countSql = `SELECT COUNT(*) AS c FROM ${ftsFrom} ${where}`;
-  } else {
-    countSql = `SELECT COUNT(*) AS c FROM entries AS e ${where}`;
-  }
-
   params[":limit"] = limit;
   params[":offset"] = offset;
 
-  const total = scalar<number>(countSql, params);
+  const total = scalar<number>(`SELECT COUNT(*) AS c FROM entries AS e ${where}`, params);
+  const totalSources = scalar<number>(`SELECT COUNT(DISTINCT e.filename) AS c FROM entries AS e ${where}`, params);
 
-  // Count distinct sources (files) for the summary
-  let sourceCountSql: string;
-  if (usesFts) {
-    sourceCountSql = `SELECT COUNT(DISTINCT e.filename) AS c FROM ${ftsFrom} ${where}`;
-  } else {
-    sourceCountSql = `SELECT COUNT(DISTINCT e.filename) AS c FROM entries AS e ${where}`;
-  }
-  const totalSources = scalar<number>(sourceCountSql, params);
-
-  // Get first N hits per file so results span all sources
-  // Use ROW_NUMBER to pick up to hitsPerFile entries from each file
+  // Spread results across all matching sources (first N per file)
   const hitsPerFile = Math.max(1, Math.floor(limit / Math.max(totalSources, 1)));
-  const cappedHitsPerFile = Math.min(hitsPerFile, 10); // cap so we don't overload one file
+  const cappedHitsPerFile = Math.min(hitsPerFile, 10);
 
-  let rankedSql: string;
-  if (usesFts) {
-    rankedSql = `SELECT e.*, ROW_NUMBER() OVER (PARTITION BY e.filename ORDER BY e.entry_index) AS rn
-      FROM ${ftsFrom} ${where}`;
-  } else {
-    rankedSql = `SELECT e.*, ROW_NUMBER() OVER (PARTITION BY e.filename ORDER BY e.entry_index) AS rn
-      FROM entries AS e ${where}`;
-  }
-
+  const rankedSql = `SELECT e.*, ROW_NUMBER() OVER (PARTITION BY e.filename ORDER BY e.entry_index) AS rn
+    FROM entries AS e ${where}`;
   const pagedSql = `SELECT * FROM (${rankedSql}) WHERE rn <= :hpf ORDER BY filename, entry_index LIMIT :limit`;
   params[":hpf"] = cappedHitsPerFile;
   const entries = all<EntryRow>(pagedSql, params);
 
-  // Get per-file hit counts
-  let fileCountsSql: string;
-  if (usesFts) {
-    fileCountsSql = `SELECT e.filename, COUNT(*) AS cnt FROM ${ftsFrom} ${where} GROUP BY e.filename`;
-  } else {
-    fileCountsSql = `SELECT e.filename, COUNT(*) AS cnt FROM entries AS e ${where} GROUP BY e.filename`;
-  }
-  const fileCounts = all<{ filename: string; cnt: number }>(fileCountsSql, params);
+  // Per-file hit counts
+  const fileCounts = all<{ filename: string; cnt: number }>(
+    `SELECT e.filename, COUNT(*) AS cnt FROM entries AS e ${where} GROUP BY e.filename`, params
+  );
   const fileCountMap = new Map(fileCounts.map(r => [r.filename, r.cnt]));
 
   return { entries, total, totalSources, fileCountMap, query };

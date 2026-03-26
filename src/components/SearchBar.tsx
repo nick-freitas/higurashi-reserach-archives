@@ -7,7 +7,7 @@ interface Speaker {
 }
 
 interface SearchBarProps {
-  onSearch: (query: string, lang: "jp" | "en" | "both") => void;
+  onSearch: (query: string) => void;
   onClear: () => void;
   onHome: () => void;
   loading: boolean;
@@ -35,7 +35,7 @@ export default function SearchBar({
 
   function handleSubmit(e: FormEvent) {
     e.preventDefault();
-    onSearch(query.trim(), "both");
+    onSearch(query.trim());
   }
 
   return (

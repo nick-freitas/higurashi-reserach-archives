@@ -294,12 +294,6 @@ function main() {
     );
   `);
 
-  db.exec(`
-    CREATE VIRTUAL TABLE entries_fts USING fts5(
-      text_jpn, text_eng, speaker_jpn, speaker_eng,
-      content=entries, content_rowid=id
-    );
-  `);
 
   // Prepare insert statements
   const insertEntry = db.prepare(`
@@ -312,11 +306,6 @@ function main() {
       @chapterName, @speakerJpn, @speakerEng, @textJpn, @textEng,
       @textEngNew, @significantChanges, @changeReason, @significance
     )
-  `);
-
-  const insertFts = db.prepare(`
-    INSERT INTO entries_fts (rowid, text_jpn, text_eng, speaker_jpn, speaker_eng)
-    VALUES (@id, @textJpn, @textEng, @speakerJpn, @speakerEng)
   `);
 
   // Read all JSON files from source
@@ -407,14 +396,6 @@ function main() {
           significantChanges,
           changeReason,
           significance,
-        });
-
-        insertFts.run({
-          id: result.lastInsertRowid,
-          textJpn,
-          textEng,
-          speakerJpn: speakerJpn ?? "",
-          speakerEng: speakerEng ?? "",
         });
 
         entryIndex++;

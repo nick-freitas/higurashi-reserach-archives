@@ -256,7 +256,7 @@ export default function App() {
     });
   }, [dbReady, selectedBookId, selectedArcId, selectedChapter, chapterOffset, selectedCharacter, bookArcIds, significantMode, selectedScores, arcList]);
 
-  const handleSearch = useCallback((query: string, lang: "jp" | "en" | "both") => {
+  const handleSearch = useCallback((query: string) => {
     if (!dbReady) return;
 
     // No text query → switch to browse mode with "All" selected
@@ -271,7 +271,7 @@ export default function App() {
     setLoading(true);
     setSelectedEntry(null);
     try {
-      const opts: SearchOptions = { query, lang, offset: 0, limit: 100 };
+      const opts: SearchOptions = { query, offset: 0, limit: 100 };
 
       // Apply nav context filters
       const isBookAll = selectedBookId === "__all__";
